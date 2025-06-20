@@ -1,0 +1,89 @@
+=== Cliente de MLB API ===
+Obteniendo datos de la MLB...
+
+
+=== Información del Equipo ===
+Equipo: New York Yankees
+Nombre completo: Yankees
+Ubicación: Bronx, Yankee Stadium
+Liga: American League
+División: American League East
+
+=== Jugadores Activos ===
+Total de jugadores activos: 26
+
+Catcher (2):
+  - Austin Wells (#28)
+  - J.C. Escarra (#25)
+
+First Base (2):
+  - Ben Rice (#22)
+  - Paul Goldschmidt (#48)
+
+Outfielder (5):
+  - Aaron Judge (#99)
+  - Cody Bellinger (#35)
+  - Jasson Domínguez (#24)
+  - Pablo Reyes (#19)
+  - Trent Grisham (#12)
+
+Pitcher (13):
+  - Carlos Rodón (#55)
+  - Clarke Schmidt (#36)
+  - Devin Williams (#38)
+  - Fernando Cruz (#63)
+  - Ian Hamilton (#71)
+  - Jonathan Loáisiga (#43)
+  - Mark Leiter Jr. (#56)
+  - Max Fried (#54)
+  - Ryan Yarbrough (#33)
+  - Scott Effross (#57)
+  - Tim Hill (#41)
+  - Will Warren (#98)
+  - Yerry De los Santos (#73)
+
+Second Base (2):
+  - DJ LeMahieu (#26)
+  - Jazz Chisholm Jr. (#13)
+
+Shortstop (1):
+  - Anthony Volpe (#11)
+
+Third Base (1):
+  - Oswald Peraza (#18)
+
+=== Partidos de Hoy ===
+
+Fecha: 2025-06-12
+--------------------------------------------------
+• Washington Nationals @ New York Mets
+  Hora: 2025-06-12T17:10:00Z
+  Estado: Final
+
+• Texas Rangers @ Minnesota Twins
+  Hora: 2025-06-12T17:10:00Z
+  Estado: Final
+
+• San Francisco Giants @ Colorado Rockies
+  Hora: 2025-06-12T19:10:00Z
+  Estado: Final
+
+• Detroit Tigers @ Baltimore Orioles (4-0)
+  Hora: 2025-06-12T22:35:00Z
+  Estado: In Progress
+
+• New York Yankees @ Kansas City Royals (0-0)
+  Hora: 2025-06-12T23:40:00Z
+  Estado: In Progress
+
+• St. Louis Cardinals @ Milwaukee Brewers (0-1)
+  Hora: 2025-06-12T23:40:00Z
+  Estado: In Progress
+
+• Pittsburgh Pirates @ Chicago Cubs (0-0)
+  Hora: 2025-06-13T00:05:00Z
+  Estado: In Progress
+
+• Chicago White Sox @ Houston Astros (0-0)
+  Hora: 2025-06-13T00:10:00Z
+  Estado: In Progress
