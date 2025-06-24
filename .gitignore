@@ -20,33 +20,54 @@ parts/
 sdist/
 var/
 wheels/
+share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
 
 # Archivos de entorno
 .env
 .venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# Datos sensibles
-*.pem
-*.key
-*.log
-.last_update
-
-# Archivos de configuración de IDE
+# IDEs y editores
 .idea/
 .vscode/
 *.swp
 *.swo
 
-# Archivos de datos
-data/season_data.json
-data/cache/
-
 # Archivos de caché
 .cache/
-cache/
+.coverage
+htmlcov/
+.pytest_cache/
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+cover/
+
+# Archivos de logs
+*.log
+pronosticos_jornada.log
+
+# Archivos de configuración local
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
 
 # Archivos temporales
 *.tmp
@@ -54,18 +75,10 @@ cache/
 *.swp
 *~
 
-# Archivos de sistema
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-pronosticos_jornada.log
-
-# Archivos de datos de equipos
+# Archivos de datos
+data/season_data.json
+data/cache/
 teams.txt
 home_games.txt
 away_games.txt
-
-# Predictions (generados automáticamente)
 predictions/

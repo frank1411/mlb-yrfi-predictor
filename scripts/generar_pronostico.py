@@ -202,8 +202,12 @@ def calculate_game_probability(home_team_id: str, away_team_id: str, home_pitche
     home_team_adj = (home_yrfi_combined * 0.7) + (away_pitcher.get('away_yrfi_pct', 0) * 0.3)
     away_team_adj = (away_yrfi_combined * 0.7) + (home_pitcher.get('home_yrfi_pct', 0) * 0.3)
     
-    # Probabilidad final (promedio de ajustes)
-    final_prob = (home_team_adj + away_team_adj) / 2
+    # Probabilidad final usando la fórmula de probabilidad de eventos independientes
+    # p_yrfi = 1 - ((1 - p_home) * (1 - p_away))
+    # Convertimos primero a decimal (0-1) para el cálculo y luego de vuelta a porcentaje
+    p_home = home_team_adj / 100
+    p_away = away_team_adj / 100
+    final_prob = (1 - (1 - p_home) * (1 - p_away)) * 100
     
     return {
         'base_prob': base_prob / 100,  # Convertir a decimal
