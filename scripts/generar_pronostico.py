@@ -311,21 +311,23 @@ def format_prediction(game_data: Dict, home_team_name: str, away_team_name: str,
     ap_name = game_data['away_pitcher'].get('name', 'Lanzador no disponible')
     
     # Ajuste para el equipo local (afectado por el lanzador visitante)
-    away_pitcher_yrfi = game_data['away_pitcher'].get('away_yrfi_pct', 0)
+    # Usar yrfi_allowed del lanzador visitante que ya viene en el formato correcto
+    away_pitcher_yrfi = game_data['away_pitcher'].get('yrfi_allowed', 0)
     home_adj = (home_combined * 0.7) + (away_pitcher_yrfi * 0.3)
     
     prediction += f"- **{home_team_name} (Local)**:\n"
     prediction += f"  - Combinado (equipo + tendencia): {home_combined:.1f}%\n"
-    prediction += f"  - Afectado por {ap_name} (visitante): {away_pitcher_yrfi:.1f}% YRFI permitido\n"
+    prediction += f"  - Afectado por {ap_name} (visitante): {away_pitcher_yrfi:.1f}% YRFI permitido ({game_data['away_pitcher'].get('yrfi_ratio', 'N/A')})\n"
     prediction += f"  - Ajuste (70% equipo + 30% lanzador rival): {home_adj:.1f}%\n\n"
     
     # Ajuste para el equipo visitante (afectado por el lanzador local)
-    home_pitcher_yrfi = game_data['home_pitcher'].get('home_yrfi_pct', 0)
+    # Usar yrfi_allowed del lanzador local que ya viene en el formato correcto
+    home_pitcher_yrfi = game_data['home_pitcher'].get('yrfi_allowed', 0)
     away_adj = (away_combined * 0.7) + (home_pitcher_yrfi * 0.3)
     
     prediction += f"- **{away_team_name} (Visitante)**:\n"
     prediction += f"  - Combinado (equipo + tendencia): {away_combined:.1f}%\n"
-    prediction += f"  - Afectado por {hp_name} (local): {home_pitcher_yrfi:.1f}% YRFI permitido\n"
+    prediction += f"  - Afectado por {hp_name} (local): {home_pitcher_yrfi:.1f}% YRFI permitido ({game_data['home_pitcher'].get('yrfi_ratio', 'N/A')})\n"
     prediction += f"  - Ajuste (70% equipo + 30% lanzador rival): {away_adj:.1f}%\n\n"
     
     # Probabilidad final
@@ -336,12 +338,20 @@ def format_prediction(game_data: Dict, home_team_name: str, away_team_name: str,
     # Estadísticas detalladas
     prediction += "## Estadísticas Detalladas\n\n"
     
-    # Temporada completa
-    prediction += f"### Temporada Completa\n"
-    prediction += f"- **{home_team_name} (Local):** {game_data['home_team']['yrfi_pct']:.1f}% "
-    prediction += f"({game_data['home_team']['yrfi']} YRFI en {game_data['home_team']['games']} partidos)\n"
-    prediction += f"- **{away_team_name} (Visitante):** {game_data['away_team']['yrfi_pct']:.1f}% "
-    prediction += f"({game_data['away_team']['yrfi']} YRFI en {game_data['away_team']['games']} partidos)\n\n"
+    # Estadísticas de lanzadores
+    prediction += "\n### Rendimiento de Lanzadores\n"
+    
+    # Estadísticas del lanzador local
+    hp_yrfi = game_data['home_pitcher'].get('yrfi_allowed', 0)
+    hp_ratio = game_data['home_pitcher'].get('yrfi_ratio', 'N/A')
+    prediction += f"- **{hp_name} ({home_team_name} - Local)**:\n"
+    prediction += f"  - Rendimiento YRFI: {hp_yrfi:.1f}% ({hp_ratio})\n"
+    
+    # Estadísticas del lanzador visitante
+    ap_yrfi = game_data['away_pitcher'].get('yrfi_allowed', 0)
+    ap_ratio = game_data['away_pitcher'].get('yrfi_ratio', 'N/A')
+    prediction += f"- **{ap_name} ({away_team_name} - Visitante)**:\n"
+    prediction += f"  - Rendimiento YRFI: {ap_yrfi:.1f}% ({ap_ratio})\n"
     
     # Tendencia
     prediction += f"### Tendencia (Últimos 15 partidos)\n"

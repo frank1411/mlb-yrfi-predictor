@@ -12,13 +12,13 @@ Este documento describe el plan estratégico para mejorar el proyecto MLB YRFI P
 **Objetivo:** Establecer una base sólida para el desarrollo continuo
 
 1. **Automatización Básica** (Alto Impacto/Bajo Esfuerzo)
-   - [ ] Configurar GitHub Actions para ejecución diaria
-   - [ ] Implementar sistema de logs básico
-   - [ ] Automatizar actualización de datos
+   - [x] Configurar GitHub Actions para ejecución diaria
+   - [x] Implementar sistema de logs básico
+   - [x] Automatizar actualización de datos
 
 2. **Dashboard Mínimo Viable (MVP)**
-   - [ ] Crear dashboard simple con Streamlit
-   - [ ] Mostrar predicciones del día
+   - [x] Crear dashboard simple con Streamlit
+   - [x] Mostrar predicciones del día
    - [ ] Incluir métricas básicas de precisión
 
 ### Fase 2: Mejora del Modelo (Semanas 3-5)
