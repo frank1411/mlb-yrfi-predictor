@@ -6,6 +6,55 @@
 
 Este documento describe el plan estratégico para mejorar el proyecto MLB YRFI Predictor, un sistema de predicción de carreras en la primera entrada (YRFI - Yes Run First Inning) para partidos de béisbol de las Grandes Ligas.
 
+## 🛣️ Ruta Óptima de Implementación
+
+### Fase 1: Cimientos Sólidos (Semanas 1-2)
+**Objetivo:** Establecer una base sólida para el desarrollo continuo
+
+1. **Automatización Básica** (Alto Impacto/Bajo Esfuerzo)
+   - [ ] Configurar GitHub Actions para ejecución diaria
+   - [ ] Implementar sistema de logs básico
+   - [ ] Automatizar actualización de datos
+
+2. **Dashboard Mínimo Viable (MVP)**
+   - [ ] Crear dashboard simple con Streamlit
+   - [ ] Mostrar predicciones del día
+   - [ ] Incluir métricas básicas de precisión
+
+### Fase 2: Mejora del Modelo (Semanas 3-5)
+**Objetivo:** Incrementar la precisión de las predicciones
+
+3. **Variables Clave**
+   - [ ] Añadir datos meteorológicos básicos
+   - [ ] Implementar ponderación ajustable de factores
+   - [ ] Mejorar estadísticas de lanzadores
+
+4. **Sistema de Retroalimentación**
+   - [ ] Registrar resultados reales vs predicciones
+   - [ ] Crear métricas de rendimiento
+   - [ ] Implementar validación cruzada básica
+
+### Fase 3: Escalabilidad (Semanas 6-9)
+**Objetivo:** Preparar el sistema para crecimiento
+
+5. **Infraestructura**
+   - [ ] Migrar a base de datos SQL
+   - [ ] Implementar sistema de caché
+   - [ ] Optimizar consultas frecuentes
+
+6. **API Básica**
+   - [ ] Desarrollar endpoints esenciales
+   - [ ] Documentación básica
+   - [ ] Autenticación simple
+
+### Fase 4: Refinamiento (Semanas 10+)
+**Objetivo:** Mejora continua y optimización
+
+7. **Mejoras Incrementales**
+   - [ ] Modelos avanzados de ML
+   - [ ] Dashboard avanzado
+   - [ ] Sistema de notificaciones
+
 ## 🎯 Objetivos
 
 1. Mejorar la precisión de las predicciones YRFI
