@@ -1,0 +1,24 @@
+{
+  "game_date": "2025-06-26",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": "Hunter Brown",
+    "yrfi_pct": 21.428571428571427
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": "Cristopher Sánchez",
+    "yrfi_pct": 27.500000000000004
+  },
+  "prediction": {
+    "base_prob": 0.2801190476190476,
+    "final_prob": 0.4144904999999999,
+    "text": "# Análisis YRFI - Philadelphia Phillies @ Houston Astros (2025-06-26)\n\n## Información del Partido\n**Philadelphia Phillies (Visitante) vs Houston Astros (Local)**  \n**Lanzadores:** Cristopher Sánchez (@Philadelphia Phillies) vs Hunter Brown (@Houston Astros)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**41.4%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**27.7%** de que Houston Astros anote en la primera entrada\n- Basado en:\n  - Rendimiento de Houston Astros como local: 21.4%\n  - Rendimiento del lanzador visitante: 25.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**19.0%** de que Philadelphia Phillies anote en la primera entrada\n- Basado en:\n  - Rendimiento de Philadelphia Phillies como visitante: 27.5%\n  - Rendimiento del lanzador local: 0.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Houston Astros (Local):** 21.4% (9 YRFI en 42 partidos)\n- **Philadelphia Phillies (Visitante):** 27.5% (11 YRFI en 40 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Houston Astros (Local):** 40.0% (6 YRFI en 15 partidos)\n- **Philadelphia Phillies (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Houston Astros (Local):** (21.4% * 0.6) + (40.0% * 0.4) = **28.9%**\n- **Philadelphia Phillies (Visitante):** (27.5% * 0.6) + (26.7% * 0.4) = **27.2%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Houston Astros (Local)**:\n  - Combinado (equipo + tendencia): 28.9%\n  - Afectado por Cristopher Sánchez (visitante): 25.0% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 27.7%\n\n- **Philadelphia Phillies (Visitante)**:\n  - Combinado (equipo + tendencia): 27.2%\n  - Afectado por Hunter Brown (local): 0.0% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 19.0%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (27.7% + 19.0%) / 2 = **23.4%**\n\n## Estadísticas Detalladas\n\n### Temporada Completa\n- **Houston Astros (Local):** 21.4% (9 YRFI en 42 partidos)\n- **Philadelphia Phillies (Visitante):** 27.5% (11 YRFI en 40 partidos)\n\n### Tendencia (Últimos 15 partidos)\n- **Houston Astros:** 40.0% (6/15 partidos)\n- **Philadelphia Phillies:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Hunter Brown (Houston Astros - Local):**\n  - Total: 0.0% (0/6 aperturas)\n- **Cristopher Sánchez (Philadelphia Phillies - Visitante):**\n  - Total: 25.0% (2/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Houston Astros       | Philadelphia Phillie | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 21.4% (9/42) | 27.5% (11/40) | 28.0% |\n| **Ajustado** | 27.7% | 19.0% | **41.4%** |\n| **Tendencia** | 40.0% (6/15) | 26.7% (4/15) | - |\n| **Lanzador** | 0.0% (0/6) | 25.0% (2/8) | - |\n\n**Nota:** La probabilidad final del partido (41.4%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-26T16:27:29.896907",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

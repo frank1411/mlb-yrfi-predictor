@@ -1,0 +1,24 @@
+{
+  "game_date": "2025-06-26",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": "Tanner Bibee",
+    "yrfi_pct": 25.0
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": "Kevin Gausman",
+    "yrfi_pct": 26.31578947368421
+  },
+  "prediction": {
+    "base_prob": 0.2739473684210526,
+    "final_prob": 0.44421010526315796,
+    "text": "# Análisis YRFI - Toronto Blue Jays @ Cleveland Guardians (2025-06-26)\n\n## Información del Partido\n**Toronto Blue Jays (Visitante) vs Cleveland Guardians (Local)**  \n**Lanzadores:** Kevin Gausman (@Toronto Blue Jays) vs Tanner Bibee (@Cleveland Guardians)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**44.4%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**23.6%** de que Cleveland Guardians anote en la primera entrada\n- Basado en:\n  - Rendimiento de Cleveland Guardians como local: 25.0%\n  - Rendimiento del lanzador visitante: 25.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**27.3%** de que Toronto Blue Jays anote en la primera entrada\n- Basado en:\n  - Rendimiento de Toronto Blue Jays como visitante: 26.3%\n  - Rendimiento del lanzador local: 16.7% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Cleveland Guardians (Local):** 25.0% (9 YRFI en 36 partidos)\n- **Toronto Blue Jays (Visitante):** 26.3% (10 YRFI en 38 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Cleveland Guardians (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Toronto Blue Jays (Visitante):** 40.0% (6 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Cleveland Guardians (Local):** (25.0% * 0.6) + (20.0% * 0.4) = **23.0%**\n- **Toronto Blue Jays (Visitante):** (26.3% * 0.6) + (40.0% * 0.4) = **31.8%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Cleveland Guardians (Local)**:\n  - Combinado (equipo + tendencia): 23.0%\n  - Afectado por Kevin Gausman (visitante): 25.0% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 23.6%\n\n- **Toronto Blue Jays (Visitante)**:\n  - Combinado (equipo + tendencia): 31.8%\n  - Afectado por Tanner Bibee (local): 16.7% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 27.3%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (23.6% + 27.3%) / 2 = **25.4%**\n\n## Estadísticas Detalladas\n\n### Temporada Completa\n- **Cleveland Guardians (Local):** 25.0% (9 YRFI en 36 partidos)\n- **Toronto Blue Jays (Visitante):** 26.3% (10 YRFI en 38 partidos)\n\n### Tendencia (Últimos 15 partidos)\n- **Cleveland Guardians:** 20.0% (3/15 partidos)\n- **Toronto Blue Jays:** 40.0% (6/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Tanner Bibee (Cleveland Guardians - Local):**\n  - Total: 16.7% (1/6 aperturas)\n- **Kevin Gausman (Toronto Blue Jays - Visitante):**\n  - Total: 25.0% (2/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Cleveland Guardians  | Toronto Blue Jays    | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 25.0% (9/36) | 26.3% (10/38) | 27.4% |\n| **Ajustado** | 23.6% | 27.3% | **44.4%** |\n| **Tendencia** | 20.0% (3/15) | 40.0% (6/15) | - |\n| **Lanzador** | 16.7% (1/6) | 25.0% (2/8) | - |\n\n**Nota:** La probabilidad final del partido (44.4%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-26T16:27:29.878559",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

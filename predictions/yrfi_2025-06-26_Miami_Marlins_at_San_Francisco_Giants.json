@@ -1,0 +1,24 @@
+{
+  "game_date": "2025-06-26",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": "Hayden Birdsong",
+    "yrfi_pct": 26.82926829268293
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": "Janson Junk",
+    "yrfi_pct": 27.027027027027028
+  },
+  "prediction": {
+    "base_prob": 0.2815688859591299,
+    "final_prob": 0.3574879214824581,
+    "text": "# Análisis YRFI - Miami Marlins @ San Francisco Giants (2025-06-26)\n\n## Información del Partido\n**Miami Marlins (Visitante) vs San Francisco Giants (Local)**  \n**Lanzadores:** Janson Junk (@Miami Marlins) vs Hayden Birdsong (@San Francisco Giants)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**35.7%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**24.3%** de que San Francisco Giants anote en la primera entrada\n- Basado en:\n  - Rendimiento de San Francisco Giants como local: 26.8%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**15.1%** de que Miami Marlins anote en la primera entrada\n- Basado en:\n  - Rendimiento de Miami Marlins como visitante: 27.0%\n  - Rendimiento del lanzador local: 0.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **San Francisco Giants (Local):** 26.8% (11 YRFI en 41 partidos)\n- **Miami Marlins (Visitante):** 27.0% (10 YRFI en 37 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **San Francisco Giants (Local):** 46.7% (7 YRFI en 15 partidos)\n- **Miami Marlins (Visitante):** 13.3% (2 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **San Francisco Giants (Local):** (26.8% * 0.6) + (46.7% * 0.4) = **34.8%**\n- **Miami Marlins (Visitante):** (27.0% * 0.6) + (13.3% * 0.4) = **21.5%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **San Francisco Giants (Local)**:\n  - Combinado (equipo + tendencia): 34.8%\n  - Afectado por Janson Junk (visitante): 0.0% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 24.3%\n\n- **Miami Marlins (Visitante)**:\n  - Combinado (equipo + tendencia): 21.5%\n  - Afectado por Hayden Birdsong (local): 0.0% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 15.1%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (24.3% + 15.1%) / 2 = **19.7%**\n\n## Estadísticas Detalladas\n\n### Temporada Completa\n- **San Francisco Giants (Local):** 26.8% (11 YRFI en 41 partidos)\n- **Miami Marlins (Visitante):** 27.0% (10 YRFI en 37 partidos)\n\n### Tendencia (Últimos 15 partidos)\n- **San Francisco Giants:** 46.7% (7/15 partidos)\n- **Miami Marlins:** 13.3% (2/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Hayden Birdsong (San Francisco Giants - Local):**\n  - Total: 0.0% (0/3 aperturas)\n- **Janson Junk (Miami Marlins - Visitante):**\n  - Sin datos suficientes\n\n## Resumen de Cálculos\n| Categoría | San Francisco Giants | Miami Marlins        | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 26.8% (11/41) | 27.0% (10/37) | 28.2% |\n| **Ajustado** | 24.3% | 15.1% | **35.7%** |\n| **Tendencia** | 46.7% (7/15) | 13.3% (2/15) | - |\n| **Lanzador** | 0.0% (0/3) | 0.0% (0/0) | - |\n\n**Nota:** La probabilidad final del partido (35.7%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-26T16:27:29.914309",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "game_date": "2025-06-26",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": "Griffin Canning",
+    "yrfi_pct": 32.5
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": "Grant Holmes",
+    "yrfi_pct": 28.57142857142857
+  },
+  "prediction": {
+    "base_prob": 0.3032142857142857,
+    "final_prob": 0.47419694444444443,
+    "text": "# Análisis YRFI - Atlanta Braves @ New York Mets (2025-06-26)\n\n## Información del Partido\n**Atlanta Braves (Visitante) vs New York Mets (Local)**  \n**Lanzadores:** Grant Holmes (@Atlanta Braves) vs Griffin Canning (@New York Mets)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**47.4%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**26.1%** de que New York Mets anote en la primera entrada\n- Basado en:\n  - Rendimiento de New York Mets como local: 32.5%\n  - Rendimiento del lanzador visitante: 16.7% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**28.8%** de que Atlanta Braves anote en la primera entrada\n- Basado en:\n  - Rendimiento de Atlanta Braves como visitante: 28.6%\n  - Rendimiento del lanzador local: 25.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **New York Mets (Local):** 32.5% (13 YRFI en 40 partidos)\n- **Atlanta Braves (Visitante):** 28.6% (12 YRFI en 42 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **New York Mets (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Atlanta Braves (Visitante):** 33.3% (5 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **New York Mets (Local):** (32.5% * 0.6) + (26.7% * 0.4) = **30.2%**\n- **Atlanta Braves (Visitante):** (28.6% * 0.6) + (33.3% * 0.4) = **30.5%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **New York Mets (Local)**:\n  - Combinado (equipo + tendencia): 30.2%\n  - Afectado por Grant Holmes (visitante): 16.7% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 26.1%\n\n- **Atlanta Braves (Visitante)**:\n  - Combinado (equipo + tendencia): 30.5%\n  - Afectado por Griffin Canning (local): 25.0% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 28.8%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (26.1% + 28.8%) / 2 = **27.5%**\n\n## Estadísticas Detalladas\n\n### Temporada Completa\n- **New York Mets (Local):** 32.5% (13 YRFI en 40 partidos)\n- **Atlanta Braves (Visitante):** 28.6% (12 YRFI en 42 partidos)\n\n### Tendencia (Últimos 15 partidos)\n- **New York Mets:** 26.7% (4/15 partidos)\n- **Atlanta Braves:** 33.3% (5/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Griffin Canning (New York Mets - Local):**\n  - Total: 25.0% (2/8 aperturas)\n- **Grant Holmes (Atlanta Braves - Visitante):**\n  - Total: 16.7% (1/6 aperturas)\n\n## Resumen de Cálculos\n| Categoría | New York Mets        | Atlanta Braves       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 32.5% (13/40) | 28.6% (12/42) | 30.3% |\n| **Ajustado** | 26.1% | 28.8% | **47.4%** |\n| **Tendencia** | 26.7% (4/15) | 33.3% (5/15) | - |\n| **Lanzador** | 25.0% (2/8) | 16.7% (1/6) | - |\n\n**Nota:** La probabilidad final del partido (47.4%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-26T16:27:29.920210",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

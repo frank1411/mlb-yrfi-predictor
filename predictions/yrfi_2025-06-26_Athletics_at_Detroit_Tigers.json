@@ -1,0 +1,24 @@
+{
+  "game_date": "2025-06-26",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": "Dietrich Enns",
+    "yrfi_pct": 32.5
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": "Jeffrey Springs",
+    "yrfi_pct": 27.500000000000004
+  },
+  "prediction": {
+    "base_prob": 0.2733333333333334,
+    "final_prob": 0.43965783333333325,
+    "text": "# Análisis YRFI - Athletics @ Detroit Tigers (2025-06-26)\n\n## Información del Partido\n**Athletics (Visitante) vs Detroit Tigers (Local)**  \n**Lanzadores:** Jeffrey Springs (@Athletics) vs Dietrich Enns (@Detroit Tigers)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**44.0%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**32.4%** de que Detroit Tigers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Detroit Tigers como local: 32.5%\n  - Rendimiento del lanzador visitante: 37.5% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**17.1%** de que Athletics anote en la primera entrada\n- Basado en:\n  - Rendimiento de Athletics como visitante: 27.5%\n  - Rendimiento del lanzador local: 0.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Detroit Tigers (Local):** 32.5% (13 YRFI en 40 partidos)\n- **Athletics (Visitante):** 27.5% (11 YRFI en 40 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Detroit Tigers (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Athletics (Visitante):** 20.0% (3 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Detroit Tigers (Local):** (32.5% * 0.6) + (26.7% * 0.4) = **30.2%**\n- **Athletics (Visitante):** (27.5% * 0.6) + (20.0% * 0.4) = **24.5%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Detroit Tigers (Local)**:\n  - Combinado (equipo + tendencia): 30.2%\n  - Afectado por Jeffrey Springs (visitante): 37.5% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 32.4%\n\n- **Athletics (Visitante)**:\n  - Combinado (equipo + tendencia): 24.5%\n  - Afectado por Dietrich Enns (local): 0.0% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 17.1%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (32.4% + 17.1%) / 2 = **24.8%**\n\n## Estadísticas Detalladas\n\n### Temporada Completa\n- **Detroit Tigers (Local):** 32.5% (13 YRFI en 40 partidos)\n- **Athletics (Visitante):** 27.5% (11 YRFI en 40 partidos)\n\n### Tendencia (Últimos 15 partidos)\n- **Detroit Tigers:** 26.7% (4/15 partidos)\n- **Athletics:** 20.0% (3/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Dietrich Enns (Detroit Tigers - Local):**\n  - Sin datos suficientes\n- **Jeffrey Springs (Athletics - Visitante):**\n  - Total: 37.5% (3/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Detroit Tigers       | Athletics            | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 32.5% (13/40) | 27.5% (11/40) | 27.3% |\n| **Ajustado** | 32.4% | 17.1% | **44.0%** |\n| **Tendencia** | 26.7% (4/15) | 20.0% (3/15) | - |\n| **Lanzador** | 0.0% (0/0) | 37.5% (3/8) | - |\n\n**Nota:** La probabilidad final del partido (44.0%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-26T16:27:29.872527",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

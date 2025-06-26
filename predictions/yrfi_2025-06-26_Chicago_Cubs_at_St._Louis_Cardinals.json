@@ -1,0 +1,24 @@
+{
+  "game_date": "2025-06-26",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": "Andre Pallante",
+    "yrfi_pct": 23.809523809523807
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": "Shota Imanaga",
+    "yrfi_pct": 30.0
+  },
+  "prediction": {
+    "base_prob": 0.3080952380952381,
+    "final_prob": 0.49261650793650785,
+    "text": "# Análisis YRFI - Chicago Cubs @ St. Louis Cardinals (2025-06-26)\n\n## Información del Partido\n**Chicago Cubs (Visitante) vs St. Louis Cardinals (Local)**  \n**Lanzadores:** Shota Imanaga (@Chicago Cubs) vs Andre Pallante (@St. Louis Cardinals)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**49.3%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**17.5%** de que St. Louis Cardinals anote en la primera entrada\n- Basado en:\n  - Rendimiento de St. Louis Cardinals como local: 23.8%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**38.5%** de que Chicago Cubs anote en la primera entrada\n- Basado en:\n  - Rendimiento de Chicago Cubs como visitante: 30.0%\n  - Rendimiento del lanzador local: 42.9% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **St. Louis Cardinals (Local):** 23.8% (10 YRFI en 42 partidos)\n- **Chicago Cubs (Visitante):** 30.0% (12 YRFI en 40 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **St. Louis Cardinals (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Chicago Cubs (Visitante):** 46.7% (7 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **St. Louis Cardinals (Local):** (23.8% * 0.6) + (26.7% * 0.4) = **25.0%**\n- **Chicago Cubs (Visitante):** (30.0% * 0.6) + (46.7% * 0.4) = **36.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **St. Louis Cardinals (Local)**:\n  - Combinado (equipo + tendencia): 25.0%\n  - Afectado por Shota Imanaga (visitante): 0.0% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 17.5%\n\n- **Chicago Cubs (Visitante)**:\n  - Combinado (equipo + tendencia): 36.7%\n  - Afectado por Andre Pallante (local): 42.9% YRFI permitido\n  - Ajuste (70% equipo + 30% lanzador rival): 38.5%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (17.5% + 38.5%) / 2 = **28.0%**\n\n## Estadísticas Detalladas\n\n### Temporada Completa\n- **St. Louis Cardinals (Local):** 23.8% (10 YRFI en 42 partidos)\n- **Chicago Cubs (Visitante):** 30.0% (12 YRFI en 40 partidos)\n\n### Tendencia (Últimos 15 partidos)\n- **St. Louis Cardinals:** 26.7% (4/15 partidos)\n- **Chicago Cubs:** 46.7% (7/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Andre Pallante (St. Louis Cardinals - Local):**\n  - Total: 42.9% (3/7 aperturas)\n- **Shota Imanaga (Chicago Cubs - Visitante):**\n  - Total: 0.0% (0/4 aperturas)\n\n## Resumen de Cálculos\n| Categoría | St. Louis Cardinals  | Chicago Cubs         | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 23.8% (10/42) | 30.0% (12/40) | 30.8% |\n| **Ajustado** | 17.5% | 38.5% | **49.3%** |\n| **Tendencia** | 26.7% (4/15) | 46.7% (7/15) | - |\n| **Lanzador** | 42.9% (3/7) | 0.0% (0/4) | - |\n\n**Nota:** La probabilidad final del partido (49.3%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-26T16:27:29.902899",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
