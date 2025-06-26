@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-06-26",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 22.5,
+        "ratio": "9/40"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 16.916666666666668
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 10.0,
+        "ratio": "3/30"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 15.799999999999999
+    }
+  },
+  "prediction": {
+    "base_prob": 19.083333333333336,
+    "final_prob": 30.043833333333335,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "22.5% (9/40)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Shane Baz (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "10.0% (3/30)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Michael Lorenzen (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Tampa Bay Rays @ Kansas City Royals (2025-06-26)\n\n## Información del Partido\n**Tampa Bay Rays (Visitante) vs Kansas City Royals (Local)**  \n**Lanzadores:** Shane Baz (@Tampa Bay Rays) vs Michael Lorenzen (@Kansas City Royals)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**30.0%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**16.9%** de que Kansas City Royals anote en la primera entrada\n- Basado en:\n  - Rendimiento de Kansas City Royals como local: 22.5%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**15.8%** de que Tampa Bay Rays anote en la primera entrada\n- Basado en:\n  - Rendimiento de Tampa Bay Rays como visitante: 10.0%\n  - Rendimiento del lanzador local: 20.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Kansas City Royals (Local):** 22.5% (9 YRFI en 40 partidos)\n- **Tampa Bay Rays (Visitante):** 10.0% (3 YRFI en 30 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Kansas City Royals (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Tampa Bay Rays (Visitante):** 20.0% (3 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Kansas City Royals (Local):** (22.5% * 0.6) + (26.7% * 0.4) = **24.2%**\n- **Tampa Bay Rays (Visitante):** (10.0% * 0.6) + (20.0% * 0.4) = **14.0%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Kansas City Royals (Local)**:\n  - Combinado (equipo + tendencia): 24.2%\n  - Afectado por Shane Baz (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 16.9%\n\n- **Tampa Bay Rays (Visitante)**:\n  - Combinado (equipo + tendencia): 14.0%\n  - Afectado por Michael Lorenzen (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 9.8%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (16.9% + 9.8%) / 2 = **13.4%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Michael Lorenzen (Kansas City Royals - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Shane Baz (Tampa Bay Rays - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Kansas City Royals:** 26.7% (4/15 partidos)\n- **Tampa Bay Rays:** 20.0% (3/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Michael Lorenzen (Kansas City Royals - Local):**\n  - Total: 20.0% (1/5 aperturas)\n- **Shane Baz (Tampa Bay Rays - Visitante):**\n  - Total: 0.0% (0/6 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Kansas City Royals   | Tampa Bay Rays       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 22.5% (9/40) | 10.0% (3/30) | 19.1% |\n| **Ajustado** | 16.9% | 15.8% | **30.0%** |\n| **Tendencia** | 26.7% (4/15) | 20.0% (3/15) | - |\n| **Lanzador** | 20.0% (1/5) | 0.0% (0/6) | - |\n\n**Nota:** La probabilidad final del partido (30.0%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-26T18:17:58.527030",
+    "data_source": "/Users/franklinsantaella/CascadeProjects/mlb_api_project/data/season_data.json"
+  }
+}
