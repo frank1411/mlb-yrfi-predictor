@@ -7,6 +7,12 @@ on:
   # También permitir ejecución manual
   workflow_dispatch:
 
+# Configurar permisos para el GITHUB_TOKEN
+permissions:
+  contents: write  # Permite hacer push de cambios al repositorio
+  pull-requests: write  # Permite crear y actualizar pull requests
+  statuses: write  # Permite actualizar estados de commits
+
 jobs:
   predict:
     name: Generate YRFI Predictions
@@ -31,24 +37,29 @@ jobs:
     
     - name: Generate predictions
       run: python scripts/generar_pronosticos_jornada.py
-      env:
-        # Agregar aquí las variables de entorno necesarias
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        # Configurar el usuario de git
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
+        
         # Configurar el remote con el token de autenticación
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        
         # Forzar la adición de archivos ignorados
         git add -f predictions/
+        
         # Verificar si hay cambios para hacer commit
-        if git diff-index --quiet HEAD --; then
+        if git diff --staged --quiet; then
           echo "No hay cambios para hacer commit"
-        else
-          git commit -m "Auto: Actualizar predicciones YRFI $(date +'%Y-%m-%d')"
-          git push origin $GITHUB_REF
+          exit 0
         fi
+        
+        # Hacer commit
+        git commit -m "Auto: Actualizar predicciones YRFI $(date +'%Y-%m-%d')" || echo "No hay cambios para hacer commit"
+        
+        # Hacer push
+        git push origin HEAD:${GITHUB_REF#refs/heads/}
