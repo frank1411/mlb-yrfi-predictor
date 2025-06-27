@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-06-27",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 38.46153846153847,
+        "ratio": "15/39"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      },
+      "adjusted_yrfi_pct": 43.944322344322345
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "José Berríos",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "3/7"
+    },
+    "stats": {
+      "base": {
+        "value": 25.64102564102564,
+        "ratio": "10/39"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 29.469230769230766
+    }
+  },
+  "prediction": {
+    "base_prob": 37.8974358974359,
+    "final_prob": 60.46349935193012,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "38.5% (15/39)",
+        "tendency": "53.3% (8/15)",
+        "pitcher": "José Berríos (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "25.6% (10/39)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Brayan Bello (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Toronto Blue Jays @ Boston Red Sox (2025-06-27)\n\n## Información del Partido\n**Toronto Blue Jays (Visitante) vs Boston Red Sox (Local)**  \n**Lanzadores:** José Berríos (@Toronto Blue Jays) vs Brayan Bello (@Boston Red Sox)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**60.5%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**43.9%** de que Boston Red Sox anote en la primera entrada\n- Basado en:\n  - Rendimiento de Boston Red Sox como local: 38.5%\n  - Rendimiento del lanzador visitante: 42.9% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**29.5%** de que Toronto Blue Jays anote en la primera entrada\n- Basado en:\n  - Rendimiento de Toronto Blue Jays como visitante: 25.6%\n  - Rendimiento del lanzador local: 25.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Boston Red Sox (Local):** 38.5% (15 YRFI en 39 partidos)\n- **Toronto Blue Jays (Visitante):** 25.6% (10 YRFI en 39 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Boston Red Sox (Local):** 53.3% (8 YRFI en 15 partidos)\n- **Toronto Blue Jays (Visitante):** 40.0% (6 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Boston Red Sox (Local):** (38.5% * 0.6) + (53.3% * 0.4) = **44.4%**\n- **Toronto Blue Jays (Visitante):** (25.6% * 0.6) + (40.0% * 0.4) = **31.4%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Boston Red Sox (Local)**:\n  - Combinado (equipo + tendencia): 44.4%\n  - Afectado por José Berríos (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 31.1%\n\n- **Toronto Blue Jays (Visitante)**:\n  - Combinado (equipo + tendencia): 31.4%\n  - Afectado por Brayan Bello (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 22.0%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (31.1% + 22.0%) / 2 = **26.5%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Brayan Bello (Boston Red Sox - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **José Berríos (Toronto Blue Jays - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Boston Red Sox:** 53.3% (8/15 partidos)\n- **Toronto Blue Jays:** 40.0% (6/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Brayan Bello (Boston Red Sox - Local):**\n  - Total: 25.0% (2/8 aperturas)\n- **José Berríos (Toronto Blue Jays - Visitante):**\n  - Total: 42.9% (3/7 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Boston Red Sox       | Toronto Blue Jays    | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 38.5% (15/39) | 25.6% (10/39) | 37.9% |\n| **Ajustado** | 43.9% | 29.5% | **60.5%** |\n| **Tendencia** | 53.3% (8/15) | 40.0% (6/15) | - |\n| **Lanzador** | 25.0% (2/8) | 42.9% (3/7) | - |\n\n**Nota:** La probabilidad final del partido (60.5%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-27T10:15:07.098141",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-06-28",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Nathan Eovaldi",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 20.51282051282051,
+        "ratio": "8/39"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 46.08205128205128
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 46.34146341463415,
+        "ratio": "19/41"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 26.930081300813004
+    }
+  },
+  "prediction": {
+    "base_prob": 30.72295184490306,
+    "final_prob": 60.60219870752553,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "20.5% (8/39)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Logan Gilbert (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "46.3% (19/41)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Nathan Eovaldi (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Seattle Mariners @ Texas Rangers (2025-06-28)\n\n## Información del Partido\n**Seattle Mariners (Visitante) vs Texas Rangers (Local)**  \n**Lanzadores:** Logan Gilbert (@Seattle Mariners) vs Nathan Eovaldi (@Texas Rangers)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**60.6%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**46.1%** de que Texas Rangers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Texas Rangers como local: 20.5%\n  - Rendimiento del lanzador visitante: 100.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**26.9%** de que Seattle Mariners anote en la primera entrada\n- Basado en:\n  - Rendimiento de Seattle Mariners como visitante: 46.3%\n  - Rendimiento del lanzador local: 0.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Texas Rangers (Local):** 20.5% (8 YRFI en 39 partidos)\n- **Seattle Mariners (Visitante):** 46.3% (19 YRFI en 41 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Texas Rangers (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Seattle Mariners (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Texas Rangers (Local):** (20.5% * 0.6) + (26.7% * 0.4) = **23.0%**\n- **Seattle Mariners (Visitante):** (46.3% * 0.6) + (26.7% * 0.4) = **38.5%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Texas Rangers (Local)**:\n  - Combinado (equipo + tendencia): 23.0%\n  - Afectado por Logan Gilbert (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 16.1%\n\n- **Seattle Mariners (Visitante)**:\n  - Combinado (equipo + tendencia): 38.5%\n  - Afectado por Nathan Eovaldi (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 26.9%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (16.1% + 26.9%) / 2 = **21.5%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Nathan Eovaldi (Texas Rangers - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Logan Gilbert (Seattle Mariners - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Texas Rangers:** 26.7% (4/15 partidos)\n- **Seattle Mariners:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Nathan Eovaldi (Texas Rangers - Local):**\n  - Total: 0.0% (0/5 aperturas)\n- **Logan Gilbert (Seattle Mariners - Visitante):**\n  - Total: 100.0% (2/2 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Texas Rangers        | Seattle Mariners     | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 20.5% (8/39) | 46.3% (19/41) | 30.7% |\n| **Ajustado** | 46.1% | 26.9% | **60.6%** |\n| **Tendencia** | 26.7% (4/15) | 26.7% (4/15) | - |\n| **Lanzador** | 0.0% (0/5) | 100.0% (2/2) | - |\n\n**Nota:** La probabilidad final del partido (60.6%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-27T10:15:07.121259",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
