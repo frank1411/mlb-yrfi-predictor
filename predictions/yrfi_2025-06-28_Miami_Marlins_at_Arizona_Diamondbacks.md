@@ -2,79 +2,79 @@
 
 ## Información del Partido
 **Miami Marlins (Visitante) vs Arizona Diamondbacks (Local)**  
-**Lanzadores:** Eury Pérez (@Miami Marlins) vs Merrill Kelly (@Arizona Diamondbacks)
+**Lanzadores:** Sandy Alcantara (@Miami Marlins) vs Brandon Pfaadt (@Arizona Diamondbacks)
 
 ## Probabilidades YRFI
 
 ### Probabilidad YRFI del Partido
-**58.6%** (promedio de ambas probabilidades ajustadas)
+**48.7%** (promedio de ambas probabilidades ajustadas)
 
 ### Probabilidad YRFI del Equipo Local
-**41.7%** de que Arizona Diamondbacks anote en la primera entrada
+**34.4%** de que Arizona Diamondbacks anote en la primera entrada
 - Basado en:
-  - Rendimiento de Arizona Diamondbacks como local: 36.8%
-  - Rendimiento del lanzador visitante: 50.0% YRFI permitido
+  - Rendimiento de Arizona Diamondbacks como local: 35.9%
+  - Rendimiento del lanzador visitante: 33.3% YRFI permitido
 
 ### Probabilidad YRFI del Equipo Visitante
-**29.0%** de que Miami Marlins anote en la primera entrada
+**21.7%** de que Miami Marlins anote en la primera entrada
 - Basado en:
-  - Rendimiento de Miami Marlins como visitante: 28.9%
-  - Rendimiento del lanzador local: 37.5% YRFI permitido
+  - Rendimiento de Miami Marlins como visitante: 28.2%
+  - Rendimiento del lanzador local: 14.3% YRFI permitido
 
 ### Cálculo Detallado
 
 #### 1. Probabilidades Base (Temporada Completa)
-- **Arizona Diamondbacks (Local):** 36.8% (14 YRFI en 38 partidos)
-- **Miami Marlins (Visitante):** 28.9% (11 YRFI en 38 partidos)
+- **Arizona Diamondbacks (Local):** 35.9% (14 YRFI en 39 partidos)
+- **Miami Marlins (Visitante):** 28.2% (11 YRFI en 39 partidos)
 
 #### 2. Cálculo de Tendencias (Últimos 15 partidos)
-- **Arizona Diamondbacks (Local):** 40.0% (6 YRFI en 15 partidos)
+- **Arizona Diamondbacks (Local):** 33.3% (5 YRFI en 15 partidos)
 - **Miami Marlins (Visitante):** 20.0% (3 YRFI en 15 partidos)
 
 #### 3. Combinación con Tendencia (60% base, 40% tendencia)
-- **Arizona Diamondbacks (Local):** (36.8% * 0.6) + (40.0% * 0.4) = **38.1%**
-- **Miami Marlins (Visitante):** (28.9% * 0.6) + (20.0% * 0.4) = **25.4%**
+- **Arizona Diamondbacks (Local):** (35.9% * 0.6) + (33.3% * 0.4) = **34.9%**
+- **Miami Marlins (Visitante):** (28.2% * 0.6) + (20.0% * 0.4) = **24.9%**
 
 #### 4. Ajuste por Lanzadores
 *Nota: El rendimiento del lanzador afecta al equipo contrario*
 
 - **Arizona Diamondbacks (Local)**:
-  - Combinado (equipo + tendencia): 38.1%
-  - Afectado por Eury Pérez (visitante): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 26.7%
+  - Combinado (equipo + tendencia): 34.9%
+  - Afectado por Sandy Alcantara (visitante): 0.0% YRFI permitido (N/A)
+  - Ajuste (70% equipo + 30% lanzador rival): 24.4%
 
 - **Miami Marlins (Visitante)**:
-  - Combinado (equipo + tendencia): 25.4%
-  - Afectado por Merrill Kelly (local): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 17.8%
+  - Combinado (equipo + tendencia): 24.9%
+  - Afectado por Brandon Pfaadt (local): 0.0% YRFI permitido (N/A)
+  - Ajuste (70% equipo + 30% lanzador rival): 17.4%
 
 #### 5. Probabilidad Final
-- **Promedio de ajustes:** (26.7% + 17.8%) / 2 = **22.2%**
+- **Promedio de ajustes:** (24.4% + 17.4%) / 2 = **20.9%**
 
 ## Estadísticas Detalladas
 
 
 ### Rendimiento de Lanzadores
-- **Merrill Kelly (Arizona Diamondbacks - Local)**:
+- **Brandon Pfaadt (Arizona Diamondbacks - Local)**:
   - Rendimiento YRFI: 0.0% (N/A)
-- **Eury Pérez (Miami Marlins - Visitante)**:
+- **Sandy Alcantara (Miami Marlins - Visitante)**:
   - Rendimiento YRFI: 0.0% (N/A)
 ### Tendencia (Últimos 15 partidos)
-- **Arizona Diamondbacks:** 40.0% (6/15 partidos)
+- **Arizona Diamondbacks:** 33.3% (5/15 partidos)
 - **Miami Marlins:** 20.0% (3/15 partidos)
 
 ### Rendimiento de Lanzadores
-- **Merrill Kelly (Arizona Diamondbacks - Local):**
-  - Total: 37.5% (3/8 aperturas)
-- **Eury Pérez (Miami Marlins - Visitante):**
-  - Total: 50.0% (1/2 aperturas)
+- **Brandon Pfaadt (Arizona Diamondbacks - Local):**
+  - Total: 14.3% (1/7 aperturas)
+- **Sandy Alcantara (Miami Marlins - Visitante):**
+  - Total: 33.3% (2/6 aperturas)
 
 ## Resumen de Cálculos
 | Categoría | Arizona Diamondbacks | Miami Marlins        | Promedio |
 |-----------|----------------------|----------------------|----------|
-| **Base** | 36.8% (14/38) | 28.9% (11/38) | 31.7% |
-| **Ajustado** | 41.7% | 29.0% | **58.6%** |
-| **Tendencia** | 40.0% (6/15) | 20.0% (3/15) | - |
-| **Lanzador** | 37.5% (3/8) | 50.0% (1/2) | - |
+| **Base** | 35.9% (14/39) | 28.2% (11/39) | 29.9% |
+| **Ajustado** | 34.4% | 21.7% | **48.7%** |
+| **Tendencia** | 33.3% (5/15) | 20.0% (3/15) | - |
+| **Lanzador** | 14.3% (1/7) | 33.3% (2/6) | - |
 
-**Nota:** La probabilidad final del partido (58.6%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).
+**Nota:** La probabilidad final del partido (48.7%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).

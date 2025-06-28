@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-06-28",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 30.952380952380953,
+        "ratio": "13/42"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 27.17142857142857
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 27.906976744186046,
+        "ratio": "12/43"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 19.187596899224804
+    }
+  },
+  "prediction": {
+    "base_prob": 26.991140642303428,
+    "final_prob": 41.14548128460685,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "31.0% (13/42)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Bailey Ober (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "27.9% (12/43)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Casey Mize (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Minnesota Twins @ Detroit Tigers (2025-06-28)\n\n## Información del Partido\n**Minnesota Twins (Visitante) vs Detroit Tigers (Local)**  \n**Lanzadores:** Bailey Ober (@Minnesota Twins) vs Casey Mize (@Detroit Tigers)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**41.1%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**27.2%** de que Detroit Tigers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Detroit Tigers como local: 31.0%\n  - Rendimiento del lanzador visitante: 28.6% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**19.2%** de que Minnesota Twins anote en la primera entrada\n- Basado en:\n  - Rendimiento de Minnesota Twins como visitante: 27.9%\n  - Rendimiento del lanzador local: 0.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Detroit Tigers (Local):** 31.0% (13 YRFI en 42 partidos)\n- **Minnesota Twins (Visitante):** 27.9% (12 YRFI en 43 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Detroit Tigers (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Minnesota Twins (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Detroit Tigers (Local):** (31.0% * 0.6) + (20.0% * 0.4) = **26.6%**\n- **Minnesota Twins (Visitante):** (27.9% * 0.6) + (26.7% * 0.4) = **27.4%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Detroit Tigers (Local)**:\n  - Combinado (equipo + tendencia): 26.6%\n  - Afectado por Bailey Ober (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 18.6%\n\n- **Minnesota Twins (Visitante)**:\n  - Combinado (equipo + tendencia): 27.4%\n  - Afectado por Casey Mize (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 19.2%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (18.6% + 19.2%) / 2 = **18.9%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Casey Mize (Detroit Tigers - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Bailey Ober (Minnesota Twins - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Detroit Tigers:** 20.0% (3/15 partidos)\n- **Minnesota Twins:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Casey Mize (Detroit Tigers - Local):**\n  - Total: 0.0% (0/5 aperturas)\n- **Bailey Ober (Minnesota Twins - Visitante):**\n  - Total: 28.6% (2/7 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Detroit Tigers       | Minnesota Twins      | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 31.0% (13/42) | 27.9% (12/43) | 27.0% |\n| **Ajustado** | 27.2% | 19.2% | **41.1%** |\n| **Tendencia** | 20.0% (3/15) | 26.7% (4/15) | - |\n| **Lanzador** | 0.0% (0/5) | 28.6% (2/7) | - |\n\n**Nota:** La probabilidad final del partido (41.1%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-28T10:13:43.752551",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
