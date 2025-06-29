@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-06-29",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "9/45"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 21.48333333333333
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Jameson Taillon",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 30.23255813953488,
+        "ratio": "13/43"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      },
+      "adjusted_yrfi_pct": 37.01434108527132
+    }
+  },
+  "prediction": {
+    "base_prob": 31.069767441860463,
+    "final_prob": 50.545760142118866,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "20.0% (9/45)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Jameson Taillon (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "30.2% (13/43)",
+        "tendency": "46.7% (7/15)",
+        "pitcher": "Framber Valdez (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Chicago Cubs @ Houston Astros (2025-06-29)\n\n## Información del Partido\n**Chicago Cubs (Visitante) vs Houston Astros (Local)**  \n**Lanzadores:** Jameson Taillon (@Chicago Cubs) vs Framber Valdez (@Houston Astros)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**50.5%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**21.5%** de que Houston Astros anote en la primera entrada\n- Basado en:\n  - Rendimiento de Houston Astros como local: 20.0%\n  - Rendimiento del lanzador visitante: 12.5% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**37.0%** de que Chicago Cubs anote en la primera entrada\n- Basado en:\n  - Rendimiento de Chicago Cubs como visitante: 30.2%\n  - Rendimiento del lanzador local: 37.5% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Houston Astros (Local):** 20.0% (9 YRFI en 45 partidos)\n- **Chicago Cubs (Visitante):** 30.2% (13 YRFI en 43 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Houston Astros (Local):** 33.3% (5 YRFI en 15 partidos)\n- **Chicago Cubs (Visitante):** 46.7% (7 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Houston Astros (Local):** (20.0% * 0.6) + (33.3% * 0.4) = **25.3%**\n- **Chicago Cubs (Visitante):** (30.2% * 0.6) + (46.7% * 0.4) = **36.8%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Houston Astros (Local)**:\n  - Combinado (equipo + tendencia): 25.3%\n  - Afectado por Jameson Taillon (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 17.7%\n\n- **Chicago Cubs (Visitante)**:\n  - Combinado (equipo + tendencia): 36.8%\n  - Afectado por Framber Valdez (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 25.8%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (17.7% + 25.8%) / 2 = **21.7%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Framber Valdez (Houston Astros - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Jameson Taillon (Chicago Cubs - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Houston Astros:** 33.3% (5/15 partidos)\n- **Chicago Cubs:** 46.7% (7/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Framber Valdez (Houston Astros - Local):**\n  - Total: 37.5% (3/8 aperturas)\n- **Jameson Taillon (Chicago Cubs - Visitante):**\n  - Total: 12.5% (1/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Houston Astros       | Chicago Cubs         | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 20.0% (9/45) | 30.2% (13/43) | 31.1% |\n| **Ajustado** | 21.5% | 37.0% | **50.5%** |\n| **Tendencia** | 33.3% (5/15) | 46.7% (7/15) | - |\n| **Lanzador** | 37.5% (3/8) | 12.5% (1/8) | - |\n\n**Nota:** La probabilidad final del partido (50.5%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-29T10:15:03.000613",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

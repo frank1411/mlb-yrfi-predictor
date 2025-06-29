@@ -2,79 +2,79 @@
 
 ## Información del Partido
 **Washington Nationals (Visitante) vs Los Angeles Angels (Local)**  
-**Lanzadores:** Michael Soroka (@Washington Nationals) vs Kyle Hendricks (@Los Angeles Angels)
+**Lanzadores:** Mitchell Parker (@Washington Nationals) vs Jack Kochanowicz (@Los Angeles Angels)
 
 ## Probabilidades YRFI
 
 ### Probabilidad YRFI del Partido
-**46.6%** (promedio de ambas probabilidades ajustadas)
+**51.8%** (promedio de ambas probabilidades ajustadas)
 
 ### Probabilidad YRFI del Equipo Local
-**24.3%** de que Los Angeles Angels anote en la primera entrada
+**31.9%** de que Los Angeles Angels anote en la primera entrada
 - Basado en:
-  - Rendimiento de Los Angeles Angels como local: 23.7%
-  - Rendimiento del lanzador visitante: 16.7% YRFI permitido
+  - Rendimiento de Los Angeles Angels como local: 23.1%
+  - Rendimiento del lanzador visitante: 42.9% YRFI permitido
 
 ### Probabilidad YRFI del Equipo Visitante
-**29.5%** de que Washington Nationals anote en la primera entrada
+**29.2%** de que Washington Nationals anote en la primera entrada
 - Basado en:
-  - Rendimiento de Washington Nationals como visitante: 26.2%
+  - Rendimiento de Washington Nationals como visitante: 25.6%
   - Rendimiento del lanzador local: 42.9% YRFI permitido
 
 ### Cálculo Detallado
 
 #### 1. Probabilidades Base (Temporada Completa)
-- **Los Angeles Angels (Local):** 23.7% (9 YRFI en 38 partidos)
-- **Washington Nationals (Visitante):** 26.2% (11 YRFI en 42 partidos)
+- **Los Angeles Angels (Local):** 23.1% (9 YRFI en 39 partidos)
+- **Washington Nationals (Visitante):** 25.6% (11 YRFI en 43 partidos)
 
 #### 2. Cálculo de Tendencias (Últimos 15 partidos)
 - **Los Angeles Angels (Local):** 33.3% (5 YRFI en 15 partidos)
 - **Washington Nationals (Visitante):** 20.0% (3 YRFI en 15 partidos)
 
 #### 3. Combinación con Tendencia (60% base, 40% tendencia)
-- **Los Angeles Angels (Local):** (23.7% * 0.6) + (33.3% * 0.4) = **27.5%**
-- **Washington Nationals (Visitante):** (26.2% * 0.6) + (20.0% * 0.4) = **23.7%**
+- **Los Angeles Angels (Local):** (23.1% * 0.6) + (33.3% * 0.4) = **27.2%**
+- **Washington Nationals (Visitante):** (25.6% * 0.6) + (20.0% * 0.4) = **23.3%**
 
 #### 4. Ajuste por Lanzadores
 *Nota: El rendimiento del lanzador afecta al equipo contrario*
 
 - **Los Angeles Angels (Local)**:
-  - Combinado (equipo + tendencia): 27.5%
-  - Afectado por Michael Soroka (visitante): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 19.3%
+  - Combinado (equipo + tendencia): 27.2%
+  - Afectado por Mitchell Parker (visitante): 0.0% YRFI permitido (N/A)
+  - Ajuste (70% equipo + 30% lanzador rival): 19.0%
 
 - **Washington Nationals (Visitante)**:
-  - Combinado (equipo + tendencia): 23.7%
-  - Afectado por Kyle Hendricks (local): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 16.6%
+  - Combinado (equipo + tendencia): 23.3%
+  - Afectado por Jack Kochanowicz (local): 0.0% YRFI permitido (N/A)
+  - Ajuste (70% equipo + 30% lanzador rival): 16.3%
 
 #### 5. Probabilidad Final
-- **Promedio de ajustes:** (19.3% + 16.6%) / 2 = **17.9%**
+- **Promedio de ajustes:** (19.0% + 16.3%) / 2 = **17.7%**
 
 ## Estadísticas Detalladas
 
 
 ### Rendimiento de Lanzadores
-- **Kyle Hendricks (Los Angeles Angels - Local)**:
+- **Jack Kochanowicz (Los Angeles Angels - Local)**:
   - Rendimiento YRFI: 0.0% (N/A)
-- **Michael Soroka (Washington Nationals - Visitante)**:
+- **Mitchell Parker (Washington Nationals - Visitante)**:
   - Rendimiento YRFI: 0.0% (N/A)
 ### Tendencia (Últimos 15 partidos)
 - **Los Angeles Angels:** 33.3% (5/15 partidos)
 - **Washington Nationals:** 20.0% (3/15 partidos)
 
 ### Rendimiento de Lanzadores
-- **Kyle Hendricks (Los Angeles Angels - Local):**
+- **Jack Kochanowicz (Los Angeles Angels - Local):**
   - Total: 42.9% (3/7 aperturas)
-- **Michael Soroka (Washington Nationals - Visitante):**
-  - Total: 16.7% (1/6 aperturas)
+- **Mitchell Parker (Washington Nationals - Visitante):**
+  - Total: 42.9% (3/7 aperturas)
 
 ## Resumen de Cálculos
 | Categoría | Los Angeles Angels   | Washington Nationals | Promedio |
 |-----------|----------------------|----------------------|----------|
-| **Base** | 23.7% (9/38) | 26.2% (11/42) | 25.6% |
-| **Ajustado** | 24.3% | 29.5% | **46.6%** |
+| **Base** | 23.1% (9/39) | 25.6% (11/43) | 25.3% |
+| **Ajustado** | 31.9% | 29.2% | **51.8%** |
 | **Tendencia** | 33.3% (5/15) | 20.0% (3/15) | - |
-| **Lanzador** | 42.9% (3/7) | 16.7% (1/6) | - |
+| **Lanzador** | 42.9% (3/7) | 42.9% (3/7) | - |
 
-**Nota:** La probabilidad final del partido (46.6%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).
+**Nota:** La probabilidad final del partido (51.8%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).

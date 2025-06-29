@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-06-29",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "15/40"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 26.95
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Cal Quantrill",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/8"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "12/40"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 32.06666666666666
+    }
+  },
+  "prediction": {
+    "base_prob": 33.583333333333336,
+    "final_prob": 50.374700000000004,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "37.5% (15/40)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Cal Quantrill (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "30.0% (12/40)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Eduardo Rodriguez (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Miami Marlins @ Arizona Diamondbacks (2025-06-29)\n\n## Información del Partido\n**Miami Marlins (Visitante) vs Arizona Diamondbacks (Local)**  \n**Lanzadores:** Cal Quantrill (@Miami Marlins) vs Eduardo Rodriguez (@Arizona Diamondbacks)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**50.4%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**26.9%** de que Arizona Diamondbacks anote en la primera entrada\n- Basado en:\n  - Rendimiento de Arizona Diamondbacks como local: 37.5%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**32.1%** de que Miami Marlins anote en la primera entrada\n- Basado en:\n  - Rendimiento de Miami Marlins como visitante: 30.0%\n  - Rendimiento del lanzador local: 40.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Arizona Diamondbacks (Local):** 37.5% (15 YRFI en 40 partidos)\n- **Miami Marlins (Visitante):** 30.0% (12 YRFI en 40 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Arizona Diamondbacks (Local):** 40.0% (6 YRFI en 15 partidos)\n- **Miami Marlins (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Arizona Diamondbacks (Local):** (37.5% * 0.6) + (40.0% * 0.4) = **38.5%**\n- **Miami Marlins (Visitante):** (30.0% * 0.6) + (26.7% * 0.4) = **28.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Arizona Diamondbacks (Local)**:\n  - Combinado (equipo + tendencia): 38.5%\n  - Afectado por Cal Quantrill (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 26.9%\n\n- **Miami Marlins (Visitante)**:\n  - Combinado (equipo + tendencia): 28.7%\n  - Afectado por Eduardo Rodriguez (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 20.1%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (26.9% + 20.1%) / 2 = **23.5%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Eduardo Rodriguez (Arizona Diamondbacks - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Cal Quantrill (Miami Marlins - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Arizona Diamondbacks:** 40.0% (6/15 partidos)\n- **Miami Marlins:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Eduardo Rodriguez (Arizona Diamondbacks - Local):**\n  - Total: 40.0% (2/5 aperturas)\n- **Cal Quantrill (Miami Marlins - Visitante):**\n  - Total: 0.0% (0/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Arizona Diamondbacks | Miami Marlins        | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 37.5% (15/40) | 30.0% (12/40) | 33.6% |\n| **Ajustado** | 26.9% | 32.1% | **50.4%** |\n| **Tendencia** | 40.0% (6/15) | 26.7% (4/15) | - |\n| **Lanzador** | 40.0% (2/5) | 0.0% (0/8) | - |\n\n**Nota:** La probabilidad final del partido (50.4%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-29T10:15:03.036858",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

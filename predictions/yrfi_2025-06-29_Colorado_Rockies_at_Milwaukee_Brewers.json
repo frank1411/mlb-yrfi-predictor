@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-06-29",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Chad Patrick",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 11.627906976744185,
+        "ratio": "5/43"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 30.350387596899225
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Germán Márquez",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "6/10"
+    },
+    "stats": {
+      "base": {
+        "value": 20.930232558139537,
+        "ratio": "9/43"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 22.25736434108527
+    }
+  },
+  "prediction": {
+    "base_prob": 20.434108527131784,
+    "final_prob": 45.852555591611086,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "11.6% (5/43)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Germán Márquez (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "20.9% (9/43)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Chad Patrick (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Colorado Rockies @ Milwaukee Brewers (2025-06-29)\n\n## Información del Partido\n**Colorado Rockies (Visitante) vs Milwaukee Brewers (Local)**  \n**Lanzadores:** Germán Márquez (@Colorado Rockies) vs Chad Patrick (@Milwaukee Brewers)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**45.9%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**30.4%** de que Milwaukee Brewers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Milwaukee Brewers como local: 11.6%\n  - Rendimiento del lanzador visitante: 60.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**22.3%** de que Colorado Rockies anote en la primera entrada\n- Basado en:\n  - Rendimiento de Colorado Rockies como visitante: 20.9%\n  - Rendimiento del lanzador local: 20.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Milwaukee Brewers (Local):** 11.6% (5 YRFI en 43 partidos)\n- **Colorado Rockies (Visitante):** 20.9% (9 YRFI en 43 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Milwaukee Brewers (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Colorado Rockies (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Milwaukee Brewers (Local):** (11.6% * 0.6) + (26.7% * 0.4) = **17.6%**\n- **Colorado Rockies (Visitante):** (20.9% * 0.6) + (26.7% * 0.4) = **23.2%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Milwaukee Brewers (Local)**:\n  - Combinado (equipo + tendencia): 17.6%\n  - Afectado por Germán Márquez (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 12.4%\n\n- **Colorado Rockies (Visitante)**:\n  - Combinado (equipo + tendencia): 23.2%\n  - Afectado por Chad Patrick (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 16.3%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (12.4% + 16.3%) / 2 = **14.3%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Chad Patrick (Milwaukee Brewers - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Germán Márquez (Colorado Rockies - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Milwaukee Brewers:** 26.7% (4/15 partidos)\n- **Colorado Rockies:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Chad Patrick (Milwaukee Brewers - Local):**\n  - Total: 20.0% (2/10 aperturas)\n- **Germán Márquez (Colorado Rockies - Visitante):**\n  - Total: 60.0% (6/10 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Milwaukee Brewers    | Colorado Rockies     | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 11.6% (5/43) | 20.9% (9/43) | 20.4% |\n| **Ajustado** | 30.4% | 22.3% | **45.9%** |\n| **Tendencia** | 26.7% (4/15) | 26.7% (4/15) | - |\n| **Lanzador** | 20.0% (2/10) | 60.0% (6/10) | - |\n\n**Nota:** La probabilidad final del partido (45.9%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-29T10:15:03.018820",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
