@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-06-30",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.82926829268293,
+        "ratio": "11/41"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 29.968292682926826
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "16/40"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 54.266666666666666
+    }
+  },
+  "prediction": {
+    "base_prob": 33.38211382113821,
+    "final_prob": 67.97216585365852,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "26.8% (11/41)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Carlos Rodón (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "40.0% (16/40)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Max Scherzer (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - New York Yankees @ Toronto Blue Jays (2025-06-30)\n\n## Información del Partido\n**New York Yankees (Visitante) vs Toronto Blue Jays (Local)**  \n**Lanzadores:** Carlos Rodón (@New York Yankees) vs Max Scherzer (@Toronto Blue Jays)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**68.0%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**30.0%** de que Toronto Blue Jays anote en la primera entrada\n- Basado en:\n  - Rendimiento de Toronto Blue Jays como local: 26.8%\n  - Rendimiento del lanzador visitante: 25.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**54.3%** de que New York Yankees anote en la primera entrada\n- Basado en:\n  - Rendimiento de New York Yankees como visitante: 40.0%\n  - Rendimiento del lanzador local: 100.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Toronto Blue Jays (Local):** 26.8% (11 YRFI en 41 partidos)\n- **New York Yankees (Visitante):** 40.0% (16 YRFI en 40 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Toronto Blue Jays (Local):** 40.0% (6 YRFI en 15 partidos)\n- **New York Yankees (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Toronto Blue Jays (Local):** (26.8% * 0.6) + (40.0% * 0.4) = **32.1%**\n- **New York Yankees (Visitante):** (40.0% * 0.6) + (26.7% * 0.4) = **34.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Toronto Blue Jays (Local)**:\n  - Combinado (equipo + tendencia): 32.1%\n  - Afectado por Carlos Rodón (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 22.5%\n\n- **New York Yankees (Visitante)**:\n  - Combinado (equipo + tendencia): 34.7%\n  - Afectado por Max Scherzer (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 24.3%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (22.5% + 24.3%) / 2 = **23.4%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Max Scherzer (Toronto Blue Jays - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Carlos Rodón (New York Yankees - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Toronto Blue Jays:** 40.0% (6/15 partidos)\n- **New York Yankees:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Max Scherzer (Toronto Blue Jays - Local):**\n  - Total: 100.0% (1/1 aperturas)\n- **Carlos Rodón (New York Yankees - Visitante):**\n  - Total: 25.0% (2/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Toronto Blue Jays    | New York Yankees     | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 26.8% (11/41) | 40.0% (16/40) | 33.4% |\n| **Ajustado** | 30.0% | 54.3% | **68.0%** |\n| **Tendencia** | 40.0% (6/15) | 26.7% (4/15) | - |\n| **Lanzador** | 100.0% (1/1) | 25.0% (2/8) | - |\n\n**Nota:** La probabilidad final del partido (68.0%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-06-30T10:15:51.964132",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
