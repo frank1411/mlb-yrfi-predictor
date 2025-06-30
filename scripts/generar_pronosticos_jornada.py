@@ -143,31 +143,64 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
     Genera predicciones para una lista de partidos.
     
     Args:
-        games: Lista de diccionarios con información de los partidos.
+        games: Lista de diccionarios con información de los partidos
         
     Returns:
-        Lista de predicciones generadas.
+        Lista de predicciones generadas
     """
+    # Mensaje de depuración para ver qué partidos se están recibiendo
+    print("\n🔍 DEPURACIÓN: generate_predictions_for_games - Partidos recibidos")
+    print("-" * 80)
+    for i, game in enumerate(games, 1):
+        home_team = game.get('home_team', {}).get('name', 'Desconocido')
+        away_team = game.get('away_team', {}).get('name', 'Desconocido')
+        game_pk = game.get('game_pk', 'N/A')
+        game_date = game.get('game_date', 'N/A')
+        
+        # Obtener información de lanzadores
+        home_pitcher = game.get('pitchers', {}).get('home', {})
+        away_pitcher = game.get('pitchers', {}).get('away', {})
+        
+        print(f"{i}. {away_team} @ {home_team} (ID: {game_pk}, Fecha: {game_date})")
+        print(f"   Lanzador Local: {home_pitcher.get('name', 'No definido')} (ID: {home_pitcher.get('id', 'N/A')})")
+        print(f"   Lanzador Visitante: {away_pitcher.get('name', 'No definido')} (ID: {away_pitcher.get('id', 'N/A')})")
+        print("   " + "-" * 60)
+    
+    # Mensaje de depuración
+    print("\n🔍 DEPURACIÓN: Partidos obtenidos listos para procesar")
+    
     # Cargar datos de la temporada
     data_dir = Path(__file__).parent.parent / 'data'
     data_file = data_dir / 'season_data.json'
     season_data = load_season_data(data_file)
     
     predictions = []
+    print("\n🔄 Iniciando procesamiento de partidos...")
+    print("-" * 60)
     
-    for game in games:
+    for i, game in enumerate(games, 1):
+        # Mensaje al inicio de procesamiento de cada partido
+        home_team_name = game.get('home_team', {}).get('name', 'Desconocido')
+        away_team_name = game.get('away_team', {}).get('name', 'Desconocido')
+        game_pk = game.get('game_pk', 'N/A')
+        print(f"\n🔍 Procesando partido {i}/{len(games)}: {away_team_name} @ {home_team_name} (ID: {game_pk})")
+        
         try:
             # Obtener información del partido
             home_team_id = game['home_team']['id']
             away_team_id = game['away_team']['id']
-            home_team_name = game['home_team']['name']
-            away_team_name = game['away_team']['name']
             game_date = datetime.fromisoformat(game['game_date'].replace('Z', '+00:00'))
             game_date_str = game_date.strftime('%Y-%m-%d')
             
             # Obtener lanzadores
             home_pitcher = game['pitchers'].get('home', {})
             away_pitcher = game['pitchers'].get('away', {})
+            
+            # Mostrar información de lanzadores
+            print(f"   Lanzadores: {away_pitcher.get('name', 'No definido')} (ID: {away_pitcher.get('id', 'N/A')}) vs {home_pitcher.get('name', 'No definido')} (ID: {home_pitcher.get('id', 'N/A')})")
+            
+            # Mensaje de depuración
+            print("\n🔍 DEPURACIÓN: Generando predicción para el partido")
             
             # Si no hay lanzadores, saltar este partido
             if not home_pitcher or not away_pitcher:
@@ -183,7 +216,8 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
                                                  pitcher_id=away_pitcher.get('id'),
                                                  pitcher_name=away_pitcher.get('name'))
             
-            # Calcular probabilidades
+            # Generar predicción
+            print(f"   Generando predicción para {away_team_name} @ {home_team_name}...")
             game_data = calculate_game_probability(
                 home_team_id=home_team_id,
                 away_team_id=away_team_id,
@@ -199,6 +233,15 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
                 away_team_name, 
                 game_date_str
             )
+            
+            # Mensaje de depuración después de generar la predicción
+            print(f"\n✅ Procesamiento completado para partido {i}/{len(games)}: {away_team_name} @ {home_team_name}")
+            print(f"   - ID del partido: {game.get('game_pk', 'N/A')}")
+            print(f"   - Lanzadores: {away_pitcher.get('name', 'N/A')} vs {home_pitcher.get('name', 'N/A')}")
+            print(f"   - Predicción generada: {'Sí' if game_data else 'No'}")
+            
+            # Mensaje de depuración
+            print("✅ Procesamiento completado para el partido")
             
             # Crear resultado con la nueva estructura
             prediction = {
@@ -284,6 +327,7 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
 def load_predictions_from_files(date_str: str = None) -> List[Dict]:
     """
     Carga las predicciones desde los archivos JSON generados.
+    Busca archivos para la fecha especificada y el día siguiente para manejar partidos nocturnos.
     
     Args:
         date_str: Fecha en formato YYYY-MM-DD (opcional, usa la fecha actual si no se especifica)
@@ -291,29 +335,61 @@ def load_predictions_from_files(date_str: str = None) -> List[Dict]:
     Returns:
         Lista de predicciones cargadas desde los archivos
     """
+    from datetime import datetime, timedelta
+    
     if date_str is None:
-        date_str = datetime.now().strftime("%Y-%m-%d")
+        date_obj = datetime.now()
+    else:
+        date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+    
+    # Obtener la fecha del día siguiente
+    next_date_obj = date_obj + timedelta(days=1)
     
     predictions_dir = Path(__file__).parent.parent / 'predictions'
     predictions = []
     
-    # Buscar archivos de predicción para la fecha especificada
-    pattern = f"yrfi_{date_str}_*_at_*.json"
-    prediction_files = list(predictions_dir.glob(pattern))
+    # Buscar archivos de predicción para ambas fechas
+    date_str = date_obj.strftime("%Y-%m-%d")
+    next_date_str = next_date_obj.strftime("%Y-%m-%d")
+    
+    # Patrones para buscar archivos de ambas fechas
+    patterns = [
+        f"yrfi_{date_str}_*_at_*.json",
+        f"yrfi_{next_date_str}_*_at_*.json"
+    ]
+    
+    # Encontrar archivos que coincidan con cualquiera de los patrones
+    prediction_files = []
+    for pattern in patterns:
+        prediction_files.extend(list(predictions_dir.glob(pattern)))
+    
+    # Eliminar duplicados (por si acaso)
+    prediction_files = list(set(prediction_files))
     
     if not prediction_files:
-        print(f"No se encontraron archivos de predicción para la fecha {date_str}")
+        print(f"No se encontraron archivos de predicción para las fechas {date_str} o {next_date_str}")
         return []
+    
+    print(f"\n📂 Archivos encontrados para procesar (fechas {date_str} y {next_date_str}):")
+    for i, file_path in enumerate(sorted(prediction_files), 1):
+        print(f"  {i}. {file_path.name}")
     
     # Cargar cada archivo de predicción
     for file_path in prediction_files:
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 prediction = json.load(f)
-                predictions.append(prediction)
+                # Incluir partidos de la fecha objetivo y del día siguiente
+                game_date = prediction.get('game_date', '')
+                if game_date.startswith(date_str) or game_date.startswith(next_date_str):
+                    predictions.append(prediction)
+                    print(f"✅ Cargado: {file_path.name} (fecha partido: {game_date})")
+                else:
+                    print(f"⏩ Omitido (fecha {game_date}): {file_path.name}")
         except Exception as e:
-            print(f"Error al cargar el archivo {file_path}: {str(e)}")
+            print(f"❌ Error al cargar el archivo {file_path}: {str(e)}")
     
+    print(f"\n📊 Total de predicciones cargadas: {len(predictions)}")
     return predictions
 
 def extract_team_info(prediction: dict, team_type: str) -> dict:
@@ -523,6 +599,26 @@ def main():
     """Función principal."""
     print("⚾ Obteniendo partidos de hoy...")
     games = get_next_day_games()
+    
+    # Mostrar información de depuración
+    print("\n🔍 DEPURACIÓN: Partidos obtenidos de la API")
+    print(f"Total de partidos: {len(games)}")
+    print("-" * 80)
+    
+    for i, game in enumerate(games, 1):
+        home_team = game['home_team']['name']
+        away_team = game['away_team']['name']
+        home_pitcher = game['pitchers'].get('home', {}).get('name', 'No definido')
+        away_pitcher = game['pitchers'].get('away', {}).get('name', 'No definido')
+        home_pitcher_id = game['pitchers'].get('home', {}).get('id', 'N/A')
+        away_pitcher_id = game['pitchers'].get('away', {}).get('id', 'N/A')
+        
+        print(f"{i}. {away_team} @ {home_team}")
+        print(f"   Lanzadores: {away_pitcher} (ID: {away_pitcher_id}) vs {home_pitcher} (ID: {home_pitcher_id})")
+    
+    print("\n" + "="*80)
+    print("🔍 DEPURACIÓN: Datos obtenidos, continuando con el procesamiento...")
+    print("="*80 + "\n")
     
     if not games:
         print("No se encontraron partidos para hoy.")
