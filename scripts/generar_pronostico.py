@@ -527,12 +527,12 @@ def save_prediction(prediction: Dict, output_dir: Path = None) -> Path:
     # Crear directorio si no existe
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # Generar nombre de archivo
-    game_date = prediction.get('game_date', datetime.now().strftime("%Y-%m-%d"))
+    # Generar nombre de archivo usando siempre la fecha actual
+    current_date = datetime.now().strftime("%Y-%m-%d")
     home_team = prediction['home_team']['name'].replace(' ', '_')
     away_team = prediction['away_team']['name'].replace(' ', '_')
     
-    filename = f"yrfi_{game_date}_{away_team}_at_{home_team}.json"
+    filename = f"yrfi_{current_date}_{away_team}_at_{home_team}.json"
     filepath = output_dir / filename
     
     # Guardar como JSON

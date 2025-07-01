@@ -1,80 +1,80 @@
-# Análisis YRFI - Baltimore Orioles @ Texas Rangers (2025-07-01)
+# Análisis YRFI - Baltimore Orioles @ Texas Rangers (2025-07-02)
 
 ## Información del Partido
 **Baltimore Orioles (Visitante) vs Texas Rangers (Local)**  
-**Lanzadores:** Trevor Rogers (@Baltimore Orioles) vs Patrick Corbin (@Texas Rangers)
+**Lanzadores:** Brandon Young (@Baltimore Orioles) vs Jacob deGrom (@Texas Rangers)
 
 ## Probabilidades YRFI
 
 ### Probabilidad YRFI del Partido
-**36.9%** (promedio de ambas probabilidades ajustadas)
+**39.1%** (promedio de ambas probabilidades ajustadas)
 
 ### Probabilidad YRFI del Equipo Local
-**16.5%** de que Texas Rangers anote en la primera entrada
+**16.3%** de que Texas Rangers anote en la primera entrada
 - Basado en:
-  - Rendimiento de Texas Rangers como local: 21.4%
+  - Rendimiento de Texas Rangers como local: 20.9%
   - Rendimiento del lanzador visitante: 0.0% YRFI permitido
 
 ### Probabilidad YRFI del Equipo Visitante
-**24.5%** de que Baltimore Orioles anote en la primera entrada
+**27.3%** de que Baltimore Orioles anote en la primera entrada
 - Basado en:
-  - Rendimiento de Baltimore Orioles como visitante: 28.6%
-  - Rendimiento del lanzador local: 16.7% YRFI permitido
+  - Rendimiento de Baltimore Orioles como visitante: 27.9%
+  - Rendimiento del lanzador local: 33.3% YRFI permitido
 
 ### Cálculo Detallado
 
 #### 1. Probabilidades Base (Temporada Completa)
-- **Texas Rangers (Local):** 21.4% (9 YRFI en 42 partidos)
-- **Baltimore Orioles (Visitante):** 28.6% (12 YRFI en 42 partidos)
+- **Texas Rangers (Local):** 20.9% (9 YRFI en 43 partidos)
+- **Baltimore Orioles (Visitante):** 27.9% (12 YRFI en 43 partidos)
 
 #### 2. Cálculo de Tendencias (Últimos 15 partidos)
 - **Texas Rangers (Local):** 26.7% (4 YRFI en 15 partidos)
-- **Baltimore Orioles (Visitante):** 26.7% (4 YRFI en 15 partidos)
+- **Baltimore Orioles (Visitante):** 20.0% (3 YRFI en 15 partidos)
 
 #### 3. Combinación con Tendencia (60% base, 40% tendencia)
-- **Texas Rangers (Local):** (21.4% * 0.6) + (26.7% * 0.4) = **23.5%**
-- **Baltimore Orioles (Visitante):** (28.6% * 0.6) + (26.7% * 0.4) = **27.8%**
+- **Texas Rangers (Local):** (20.9% * 0.6) + (26.7% * 0.4) = **23.2%**
+- **Baltimore Orioles (Visitante):** (27.9% * 0.6) + (20.0% * 0.4) = **24.7%**
 
 #### 4. Ajuste por Lanzadores
 *Nota: El rendimiento del lanzador afecta al equipo contrario*
 
 - **Texas Rangers (Local)**:
-  - Combinado (equipo + tendencia): 23.5%
-  - Afectado por Trevor Rogers (visitante): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 16.5%
+  - Combinado (equipo + tendencia): 23.2%
+  - Afectado por Brandon Young (visitante): 0.0% YRFI permitido (N/A)
+  - Ajuste (70% equipo + 30% lanzador rival): 16.3%
 
 - **Baltimore Orioles (Visitante)**:
-  - Combinado (equipo + tendencia): 27.8%
-  - Afectado por Patrick Corbin (local): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 19.5%
+  - Combinado (equipo + tendencia): 24.7%
+  - Afectado por Jacob deGrom (local): 0.0% YRFI permitido (N/A)
+  - Ajuste (70% equipo + 30% lanzador rival): 17.3%
 
 #### 5. Probabilidad Final
-- **Promedio de ajustes:** (16.5% + 19.5%) / 2 = **18.0%**
+- **Promedio de ajustes:** (16.3% + 17.3%) / 2 = **16.8%**
 
 ## Estadísticas Detalladas
 
 
 ### Rendimiento de Lanzadores
-- **Patrick Corbin (Texas Rangers - Local)**:
+- **Jacob deGrom (Texas Rangers - Local)**:
   - Rendimiento YRFI: 0.0% (N/A)
-- **Trevor Rogers (Baltimore Orioles - Visitante)**:
+- **Brandon Young (Baltimore Orioles - Visitante)**:
   - Rendimiento YRFI: 0.0% (N/A)
 ### Tendencia (Últimos 15 partidos)
 - **Texas Rangers:** 26.7% (4/15 partidos)
-- **Baltimore Orioles:** 26.7% (4/15 partidos)
+- **Baltimore Orioles:** 20.0% (3/15 partidos)
 
 ### Rendimiento de Lanzadores
-- **Patrick Corbin (Texas Rangers - Local):**
-  - Total: 16.7% (1/6 aperturas)
-- **Trevor Rogers (Baltimore Orioles - Visitante):**
-  - Total: 0.0% (0/2 aperturas)
+- **Jacob deGrom (Texas Rangers - Local):**
+  - Total: 33.3% (3/9 aperturas)
+- **Brandon Young (Baltimore Orioles - Visitante):**
+  - Total: 0.0% (0/1 aperturas)
 
 ## Resumen de Cálculos
 | Categoría | Texas Rangers        | Baltimore Orioles    | Promedio |
 |-----------|----------------------|----------------------|----------|
-| **Base** | 21.4% (9/42) | 28.6% (12/42) | 25.7% |
-| **Ajustado** | 16.5% | 24.5% | **36.9%** |
-| **Tendencia** | 26.7% (4/15) | 26.7% (4/15) | - |
-| **Lanzador** | 16.7% (1/6) | 0.0% (0/2) | - |
+| **Base** | 20.9% (9/43) | 27.9% (12/43) | 24.0% |
+| **Ajustado** | 16.3% | 27.3% | **39.1%** |
+| **Tendencia** | 26.7% (4/15) | 20.0% (3/15) | - |
+| **Lanzador** | 33.3% (3/9) | 0.0% (0/1) | - |
 
-**Nota:** La probabilidad final del partido (36.9%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).
+**Nota:** La probabilidad final del partido (39.1%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).

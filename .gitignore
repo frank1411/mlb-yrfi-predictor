@@ -81,4 +81,4 @@ data/cache/
 teams.txt
 home_games.txt
 away_games.txt
-#predictions/
+# La carpeta predictions ahora está siendo rastreada

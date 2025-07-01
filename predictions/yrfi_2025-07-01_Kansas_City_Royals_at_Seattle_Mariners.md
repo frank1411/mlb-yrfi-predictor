@@ -1,80 +1,80 @@
-# Análisis YRFI - Kansas City Royals @ Seattle Mariners (2025-07-01)
+# Análisis YRFI - Kansas City Royals @ Seattle Mariners (2025-07-02)
 
 ## Información del Partido
 **Kansas City Royals (Visitante) vs Seattle Mariners (Local)**  
-**Lanzadores:** Michael Wacha (@Kansas City Royals) vs George Kirby (@Seattle Mariners)
+**Lanzadores:** Michael Lorenzen (@Kansas City Royals) vs Emerson Hancock (@Seattle Mariners)
 
 ## Probabilidades YRFI
 
 ### Probabilidad YRFI del Partido
-**45.3%** (promedio de ambas probabilidades ajustadas)
+**46.9%** (promedio de ambas probabilidades ajustadas)
 
 ### Probabilidad YRFI del Equipo Local
-**16.1%** de que Seattle Mariners anote en la primera entrada
+**18.9%** de que Seattle Mariners anote en la primera entrada
 - Basado en:
-  - Rendimiento de Seattle Mariners como local: 20.5%
-  - Rendimiento del lanzador visitante: 0.0% YRFI permitido
+  - Rendimiento de Seattle Mariners como local: 20.0%
+  - Rendimiento del lanzador visitante: 10.0% YRFI permitido
 
 ### Probabilidad YRFI del Equipo Visitante
-**34.8%** de que Kansas City Royals anote en la primera entrada
+**34.5%** de que Kansas City Royals anote en la primera entrada
 - Basado en:
-  - Rendimiento de Kansas City Royals como visitante: 32.5%
+  - Rendimiento de Kansas City Royals como visitante: 31.7%
   - Rendimiento del lanzador local: 33.3% YRFI permitido
 
 ### Cálculo Detallado
 
 #### 1. Probabilidades Base (Temporada Completa)
-- **Seattle Mariners (Local):** 20.5% (8 YRFI en 39 partidos)
-- **Kansas City Royals (Visitante):** 32.5% (13 YRFI en 40 partidos)
+- **Seattle Mariners (Local):** 20.0% (8 YRFI en 40 partidos)
+- **Kansas City Royals (Visitante):** 31.7% (13 YRFI en 41 partidos)
 
 #### 2. Cálculo de Tendencias (Últimos 15 partidos)
 - **Seattle Mariners (Local):** 26.7% (4 YRFI en 15 partidos)
 - **Kansas City Royals (Visitante):** 40.0% (6 YRFI en 15 partidos)
 
 #### 3. Combinación con Tendencia (60% base, 40% tendencia)
-- **Seattle Mariners (Local):** (20.5% * 0.6) + (26.7% * 0.4) = **23.0%**
-- **Kansas City Royals (Visitante):** (32.5% * 0.6) + (40.0% * 0.4) = **35.5%**
+- **Seattle Mariners (Local):** (20.0% * 0.6) + (26.7% * 0.4) = **22.7%**
+- **Kansas City Royals (Visitante):** (31.7% * 0.6) + (40.0% * 0.4) = **35.0%**
 
 #### 4. Ajuste por Lanzadores
 *Nota: El rendimiento del lanzador afecta al equipo contrario*
 
 - **Seattle Mariners (Local)**:
-  - Combinado (equipo + tendencia): 23.0%
-  - Afectado por Michael Wacha (visitante): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 16.1%
+  - Combinado (equipo + tendencia): 22.7%
+  - Afectado por Michael Lorenzen (visitante): 0.0% YRFI permitido (N/A)
+  - Ajuste (70% equipo + 30% lanzador rival): 15.9%
 
 - **Kansas City Royals (Visitante)**:
-  - Combinado (equipo + tendencia): 35.5%
-  - Afectado por George Kirby (local): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 24.8%
+  - Combinado (equipo + tendencia): 35.0%
+  - Afectado por Emerson Hancock (local): 0.0% YRFI permitido (N/A)
+  - Ajuste (70% equipo + 30% lanzador rival): 24.5%
 
 #### 5. Probabilidad Final
-- **Promedio de ajustes:** (16.1% + 24.8%) / 2 = **20.5%**
+- **Promedio de ajustes:** (15.9% + 24.5%) / 2 = **20.2%**
 
 ## Estadísticas Detalladas
 
 
 ### Rendimiento de Lanzadores
-- **George Kirby (Seattle Mariners - Local)**:
+- **Emerson Hancock (Seattle Mariners - Local)**:
   - Rendimiento YRFI: 0.0% (N/A)
-- **Michael Wacha (Kansas City Royals - Visitante)**:
+- **Michael Lorenzen (Kansas City Royals - Visitante)**:
   - Rendimiento YRFI: 0.0% (N/A)
 ### Tendencia (Últimos 15 partidos)
 - **Seattle Mariners:** 26.7% (4/15 partidos)
 - **Kansas City Royals:** 40.0% (6/15 partidos)
 
 ### Rendimiento de Lanzadores
-- **George Kirby (Seattle Mariners - Local):**
-  - Total: 33.3% (1/3 aperturas)
-- **Michael Wacha (Kansas City Royals - Visitante):**
-  - Total: 0.0% (0/7 aperturas)
+- **Emerson Hancock (Seattle Mariners - Local):**
+  - Total: 33.3% (2/6 aperturas)
+- **Michael Lorenzen (Kansas City Royals - Visitante):**
+  - Total: 10.0% (1/10 aperturas)
 
 ## Resumen de Cálculos
 | Categoría | Seattle Mariners     | Kansas City Royals   | Promedio |
 |-----------|----------------------|----------------------|----------|
-| **Base** | 20.5% (8/39) | 32.5% (13/40) | 29.2% |
-| **Ajustado** | 16.1% | 34.8% | **45.3%** |
+| **Base** | 20.0% (8/40) | 31.7% (13/41) | 28.8% |
+| **Ajustado** | 18.9% | 34.5% | **46.9%** |
 | **Tendencia** | 26.7% (4/15) | 40.0% (6/15) | - |
-| **Lanzador** | 33.3% (1/3) | 0.0% (0/7) | - |
+| **Lanzador** | 33.3% (2/6) | 10.0% (1/10) | - |
 
-**Nota:** La probabilidad final del partido (45.3%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).
+**Nota:** La probabilidad final del partido (46.9%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).
