@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-04",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 34.090909090909086,
+        "ratio": "15/44"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 29.268181818181816
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "12/45"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 28.03333333333333
+    }
+  },
+  "prediction": {
+    "base_prob": 32.89393939393939,
+    "final_prob": 49.09666818181818,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "34.1% (15/44)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Robbie Ray (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "26.7% (12/45)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Brandon Pfaadt (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - San Francisco Giants @ Arizona Diamondbacks (2025-07-04)\n\n## Información del Partido\n**San Francisco Giants (Visitante) vs Arizona Diamondbacks (Local)**  \n**Lanzadores:** Robbie Ray (@San Francisco Giants) vs Brandon Pfaadt (@Arizona Diamondbacks)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**49.1%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**29.3%** de que Arizona Diamondbacks anote en la primera entrada\n- Basado en:\n  - Rendimiento de Arizona Diamondbacks como local: 34.1%\n  - Rendimiento del lanzador visitante: 12.5% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**28.0%** de que San Francisco Giants anote en la primera entrada\n- Basado en:\n  - Rendimiento de San Francisco Giants como visitante: 26.7%\n  - Rendimiento del lanzador local: 25.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Arizona Diamondbacks (Local):** 34.1% (15 YRFI en 44 partidos)\n- **San Francisco Giants (Visitante):** 26.7% (12 YRFI en 45 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Arizona Diamondbacks (Local):** 40.0% (6 YRFI en 15 partidos)\n- **San Francisco Giants (Visitante):** 33.3% (5 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Arizona Diamondbacks (Local):** (34.1% * 0.6) + (40.0% * 0.4) = **36.5%**\n- **San Francisco Giants (Visitante):** (26.7% * 0.6) + (33.3% * 0.4) = **29.3%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Arizona Diamondbacks (Local)**:\n  - Combinado (equipo + tendencia): 36.5%\n  - Afectado por Robbie Ray (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 25.5%\n\n- **San Francisco Giants (Visitante)**:\n  - Combinado (equipo + tendencia): 29.3%\n  - Afectado por Brandon Pfaadt (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 20.5%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (25.5% + 20.5%) / 2 = **23.0%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Brandon Pfaadt (Arizona Diamondbacks - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Robbie Ray (San Francisco Giants - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Arizona Diamondbacks:** 40.0% (6/15 partidos)\n- **San Francisco Giants:** 33.3% (5/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Brandon Pfaadt (Arizona Diamondbacks - Local):**\n  - Total: 25.0% (2/8 aperturas)\n- **Robbie Ray (San Francisco Giants - Visitante):**\n  - Total: 12.5% (1/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Arizona Diamondbacks | San Francisco Giants | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 34.1% (15/44) | 26.7% (12/45) | 32.9% |\n| **Ajustado** | 29.3% | 28.0% | **49.1%** |\n| **Tendencia** | 40.0% (6/15) | 33.3% (5/15) | - |\n| **Lanzador** | 25.0% (2/8) | 12.5% (1/8) | - |\n\n**Nota:** La probabilidad final del partido (49.1%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-03T10:15:44.883937",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
