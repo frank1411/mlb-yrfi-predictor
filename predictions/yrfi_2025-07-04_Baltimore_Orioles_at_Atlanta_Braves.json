@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-04",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Spencer Strider",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.23255813953488,
+        "ratio": "13/43"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 32.16434108527132
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Charlie Morton",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "12/45"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      },
+      "adjusted_yrfi_pct": 22.433333333333334
+    }
+  },
+  "prediction": {
+    "base_prob": 25.069767441860463,
+    "final_prob": 47.38214056847545,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "30.2% (13/43)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Charlie Morton (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "26.7% (12/45)",
+        "tendency": "13.3% (2/15)",
+        "pitcher": "Spencer Strider (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Baltimore Orioles @ Atlanta Braves (2025-07-04)\n\n## Información del Partido\n**Baltimore Orioles (Visitante) vs Atlanta Braves (Local)**  \n**Lanzadores:** Charlie Morton (@Baltimore Orioles) vs Spencer Strider (@Atlanta Braves)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**47.4%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**32.2%** de que Atlanta Braves anote en la primera entrada\n- Basado en:\n  - Rendimiento de Atlanta Braves como local: 30.2%\n  - Rendimiento del lanzador visitante: 40.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**22.4%** de que Baltimore Orioles anote en la primera entrada\n- Basado en:\n  - Rendimiento de Baltimore Orioles como visitante: 26.7%\n  - Rendimiento del lanzador local: 25.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Atlanta Braves (Local):** 30.2% (13 YRFI en 43 partidos)\n- **Baltimore Orioles (Visitante):** 26.7% (12 YRFI en 45 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Atlanta Braves (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Baltimore Orioles (Visitante):** 13.3% (2 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Atlanta Braves (Local):** (30.2% * 0.6) + (26.7% * 0.4) = **28.8%**\n- **Baltimore Orioles (Visitante):** (26.7% * 0.6) + (13.3% * 0.4) = **21.3%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Atlanta Braves (Local)**:\n  - Combinado (equipo + tendencia): 28.8%\n  - Afectado por Charlie Morton (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 20.2%\n\n- **Baltimore Orioles (Visitante)**:\n  - Combinado (equipo + tendencia): 21.3%\n  - Afectado por Spencer Strider (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 14.9%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (20.2% + 14.9%) / 2 = **17.5%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Spencer Strider (Atlanta Braves - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Charlie Morton (Baltimore Orioles - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Atlanta Braves:** 26.7% (4/15 partidos)\n- **Baltimore Orioles:** 13.3% (2/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Spencer Strider (Atlanta Braves - Local):**\n  - Total: 25.0% (1/4 aperturas)\n- **Charlie Morton (Baltimore Orioles - Visitante):**\n  - Total: 40.0% (2/5 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Atlanta Braves       | Baltimore Orioles    | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 30.2% (13/43) | 26.7% (12/45) | 25.1% |\n| **Ajustado** | 32.2% | 22.4% | **47.4%** |\n| **Tendencia** | 26.7% (4/15) | 13.3% (2/15) | - |\n| **Lanzador** | 25.0% (1/4) | 40.0% (2/5) | - |\n\n**Nota:** La probabilidad final del partido (47.4%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-04T10:15:17.405975",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
