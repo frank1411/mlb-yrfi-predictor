@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-05",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Mitchell Parker",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "16/44"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 38.015584415584414
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 57.14285714285714,
+      "yrfi_ratio": "4/7"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "12/44"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 35.987878787878785
+    }
+  },
+  "prediction": {
+    "base_prob": 31.09090909090909,
+    "final_prob": 60.322460763478944,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "36.4% (16/44)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Walker Buehler (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "27.3% (12/44)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Mitchell Parker (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Boston Red Sox @ Washington Nationals (2025-07-05)\n\n## Información del Partido\n**Boston Red Sox (Visitante) vs Washington Nationals (Local)**  \n**Lanzadores:** Walker Buehler (@Boston Red Sox) vs Mitchell Parker (@Washington Nationals)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**60.3%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**38.0%** de que Washington Nationals anote en la primera entrada\n- Basado en:\n  - Rendimiento de Washington Nationals como local: 36.4%\n  - Rendimiento del lanzador visitante: 57.1% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**36.0%** de que Boston Red Sox anote en la primera entrada\n- Basado en:\n  - Rendimiento de Boston Red Sox como visitante: 27.3%\n  - Rendimiento del lanzador local: 44.4% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Washington Nationals (Local):** 36.4% (16 YRFI en 44 partidos)\n- **Boston Red Sox (Visitante):** 27.3% (12 YRFI en 44 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Washington Nationals (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Boston Red Sox (Visitante):** 40.0% (6 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Washington Nationals (Local):** (36.4% * 0.6) + (20.0% * 0.4) = **29.8%**\n- **Boston Red Sox (Visitante):** (27.3% * 0.6) + (40.0% * 0.4) = **32.4%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Washington Nationals (Local)**:\n  - Combinado (equipo + tendencia): 29.8%\n  - Afectado por Walker Buehler (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 20.9%\n\n- **Boston Red Sox (Visitante)**:\n  - Combinado (equipo + tendencia): 32.4%\n  - Afectado por Mitchell Parker (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 22.7%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (20.9% + 22.7%) / 2 = **21.8%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Mitchell Parker (Washington Nationals - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Walker Buehler (Boston Red Sox - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Washington Nationals:** 20.0% (3/15 partidos)\n- **Boston Red Sox:** 40.0% (6/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Mitchell Parker (Washington Nationals - Local):**\n  - Total: 44.4% (4/9 aperturas)\n- **Walker Buehler (Boston Red Sox - Visitante):**\n  - Total: 57.1% (4/7 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Washington Nationals | Boston Red Sox       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 36.4% (16/44) | 27.3% (12/44) | 31.1% |\n| **Ajustado** | 38.0% | 36.0% | **60.3%** |\n| **Tendencia** | 20.0% (3/15) | 40.0% (6/15) | - |\n| **Lanzador** | 44.4% (4/9) | 57.1% (4/7) | - |\n\n**Nota:** La probabilidad final del partido (60.3%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-05T10:13:43.292008",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

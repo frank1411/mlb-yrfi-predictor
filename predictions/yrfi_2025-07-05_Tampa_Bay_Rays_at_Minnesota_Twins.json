@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-05",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.5,
+        "ratio": "13/40"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 34.25
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Taj Bradley",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "4/8"
+    },
+    "stats": {
+      "base": {
+        "value": 11.428571428571429,
+        "ratio": "4/35"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 10.4
+    }
+  },
+  "prediction": {
+    "base_prob": 21.17857142857143,
+    "final_prob": 41.088,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "32.5% (13/40)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Taj Bradley (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "11.4% (4/35)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Por anunciar (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Tampa Bay Rays @ Minnesota Twins (2025-07-05)\n\n## Información del Partido\n**Tampa Bay Rays (Visitante) vs Minnesota Twins (Local)**  \n**Lanzadores:** Taj Bradley (@Tampa Bay Rays) vs Por anunciar (@Minnesota Twins)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**41.1%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**34.2%** de que Minnesota Twins anote en la primera entrada\n- Basado en:\n  - Rendimiento de Minnesota Twins como local: 32.5%\n  - Rendimiento del lanzador visitante: 50.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**10.4%** de que Tampa Bay Rays anote en la primera entrada\n- Basado en:\n  - Rendimiento de Tampa Bay Rays como visitante: 11.4%\n  - Rendimiento del lanzador local: 0.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Minnesota Twins (Local):** 32.5% (13 YRFI en 40 partidos)\n- **Tampa Bay Rays (Visitante):** 11.4% (4 YRFI en 35 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Minnesota Twins (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Tampa Bay Rays (Visitante):** 20.0% (3 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Minnesota Twins (Local):** (32.5% * 0.6) + (20.0% * 0.4) = **27.5%**\n- **Tampa Bay Rays (Visitante):** (11.4% * 0.6) + (20.0% * 0.4) = **14.9%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Minnesota Twins (Local)**:\n  - Combinado (equipo + tendencia): 27.5%\n  - Afectado por Taj Bradley (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 19.2%\n\n- **Tampa Bay Rays (Visitante)**:\n  - Combinado (equipo + tendencia): 14.9%\n  - Afectado por Por anunciar (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 10.4%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (19.2% + 10.4%) / 2 = **14.8%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Por anunciar (Minnesota Twins - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Taj Bradley (Tampa Bay Rays - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Minnesota Twins:** 20.0% (3/15 partidos)\n- **Tampa Bay Rays:** 20.0% (3/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Por anunciar (Minnesota Twins - Local):**\n  - Sin datos suficientes\n- **Taj Bradley (Tampa Bay Rays - Visitante):**\n  - Total: 50.0% (4/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Minnesota Twins      | Tampa Bay Rays       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 32.5% (13/40) | 11.4% (4/35) | 21.2% |\n| **Ajustado** | 34.2% | 10.4% | **41.1%** |\n| **Tendencia** | 20.0% (3/15) | 20.0% (3/15) | - |\n| **Lanzador** | 0.0% (0/0) | 50.0% (4/8) | - |\n\n**Nota:** La probabilidad final del partido (41.1%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-05T10:13:43.267727",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
