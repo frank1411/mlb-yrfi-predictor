@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-06",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 40.816326530612244,
+        "ratio": "20/49"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 26.476190476190474
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.581395348837212,
+        "ratio": "11/43"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 20.07751937984496
+    }
+  },
+  "prediction": {
+    "base_prob": 33.25264989716817,
+    "final_prob": 41.23794758213363,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "40.8% (20/49)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Por anunciar (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "25.6% (11/43)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Emmet Sheehan (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Houston Astros @ Los Angeles Dodgers (2025-07-06)\n\n## Información del Partido\n**Houston Astros (Visitante) vs Los Angeles Dodgers (Local)**  \n**Lanzadores:** Por anunciar (@Houston Astros) vs Emmet Sheehan (@Los Angeles Dodgers)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**41.2%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**26.5%** de que Los Angeles Dodgers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Los Angeles Dodgers como local: 40.8%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**20.1%** de que Houston Astros anote en la primera entrada\n- Basado en:\n  - Rendimiento de Houston Astros como visitante: 25.6%\n  - Rendimiento del lanzador local: 0.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Los Angeles Dodgers (Local):** 40.8% (20 YRFI en 49 partidos)\n- **Houston Astros (Visitante):** 25.6% (11 YRFI en 43 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Los Angeles Dodgers (Local):** 33.3% (5 YRFI en 15 partidos)\n- **Houston Astros (Visitante):** 33.3% (5 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Los Angeles Dodgers (Local):** (40.8% * 0.6) + (33.3% * 0.4) = **37.8%**\n- **Houston Astros (Visitante):** (25.6% * 0.6) + (33.3% * 0.4) = **28.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Los Angeles Dodgers (Local)**:\n  - Combinado (equipo + tendencia): 37.8%\n  - Afectado por Por anunciar (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 26.5%\n\n- **Houston Astros (Visitante)**:\n  - Combinado (equipo + tendencia): 28.7%\n  - Afectado por Emmet Sheehan (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 20.1%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (26.5% + 20.1%) / 2 = **23.3%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Emmet Sheehan (Los Angeles Dodgers - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Por anunciar (Houston Astros - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Los Angeles Dodgers:** 33.3% (5/15 partidos)\n- **Houston Astros:** 33.3% (5/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Emmet Sheehan (Los Angeles Dodgers - Local):**\n  - Total: 0.0% (0/1 aperturas)\n- **Por anunciar (Houston Astros - Visitante):**\n  - Sin datos suficientes\n\n## Resumen de Cálculos\n| Categoría | Los Angeles Dodgers  | Houston Astros       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 40.8% (20/49) | 25.6% (11/43) | 33.3% |\n| **Ajustado** | 26.5% | 20.1% | **41.2%** |\n| **Tendencia** | 33.3% (5/15) | 33.3% (5/15) | - |\n| **Lanzador** | 0.0% (0/1) | 0.0% (0/0) | - |\n\n**Nota:** La probabilidad final del partido (41.2%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-06T10:14:22.225959",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
