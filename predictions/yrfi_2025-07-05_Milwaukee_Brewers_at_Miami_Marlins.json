@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-05",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Cal Quantrill",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "3/7"
+    },
+    "stats": {
+      "base": {
+        "value": 24.444444444444443,
+        "ratio": "11/45"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 29.599999999999994
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Chad Patrick",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "16/44"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 37.46320346320346
+    }
+  },
+  "prediction": {
+    "base_prob": 31.575757575757578,
+    "final_prob": 55.97409523809523,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "24.4% (11/45)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Chad Patrick (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "36.4% (16/44)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Cal Quantrill (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Milwaukee Brewers @ Miami Marlins (2025-07-05)\n\n## Información del Partido\n**Milwaukee Brewers (Visitante) vs Miami Marlins (Local)**  \n**Lanzadores:** Chad Patrick (@Milwaukee Brewers) vs Cal Quantrill (@Miami Marlins)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**56.0%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**29.6%** de que Miami Marlins anote en la primera entrada\n- Basado en:\n  - Rendimiento de Miami Marlins como local: 24.4%\n  - Rendimiento del lanzador visitante: 33.3% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**37.5%** de que Milwaukee Brewers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Milwaukee Brewers como visitante: 36.4%\n  - Rendimiento del lanzador local: 42.9% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Miami Marlins (Local):** 24.4% (11 YRFI en 45 partidos)\n- **Milwaukee Brewers (Visitante):** 36.4% (16 YRFI en 44 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Miami Marlins (Local):** 33.3% (5 YRFI en 15 partidos)\n- **Milwaukee Brewers (Visitante):** 33.3% (5 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Miami Marlins (Local):** (24.4% * 0.6) + (33.3% * 0.4) = **28.0%**\n- **Milwaukee Brewers (Visitante):** (36.4% * 0.6) + (33.3% * 0.4) = **35.2%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Miami Marlins (Local)**:\n  - Combinado (equipo + tendencia): 28.0%\n  - Afectado por Chad Patrick (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 19.6%\n\n- **Milwaukee Brewers (Visitante)**:\n  - Combinado (equipo + tendencia): 35.2%\n  - Afectado por Cal Quantrill (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 24.6%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (19.6% + 24.6%) / 2 = **22.1%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Cal Quantrill (Miami Marlins - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Chad Patrick (Milwaukee Brewers - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Miami Marlins:** 33.3% (5/15 partidos)\n- **Milwaukee Brewers:** 33.3% (5/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Cal Quantrill (Miami Marlins - Local):**\n  - Total: 42.9% (3/7 aperturas)\n- **Chad Patrick (Milwaukee Brewers - Visitante):**\n  - Total: 33.3% (2/6 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Miami Marlins        | Milwaukee Brewers    | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 24.4% (11/45) | 36.4% (16/44) | 31.6% |\n| **Ajustado** | 29.6% | 37.5% | **56.0%** |\n| **Tendencia** | 33.3% (5/15) | 33.3% (5/15) | - |\n| **Lanzador** | 42.9% (3/7) | 33.3% (2/6) | - |\n\n**Nota:** La probabilidad final del partido (56.0%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-05T10:13:43.328573",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

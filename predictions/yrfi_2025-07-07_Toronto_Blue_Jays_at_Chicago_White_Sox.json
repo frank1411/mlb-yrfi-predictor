@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-07",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
+    },
+    "stats": {
+      "base": {
+        "value": 30.23255813953488,
+        "ratio": "13/43"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 35.14767441860465
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "José Berríos",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "12/42"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      },
+      "adjusted_yrfi_pct": 38.4
+    }
+  },
+  "prediction": {
+    "base_prob": 34.97452934662237,
+    "final_prob": 60.05096744186047,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "30.2% (13/43)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "José Berríos (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "28.6% (12/42)",
+        "tendency": "46.7% (7/15)",
+        "pitcher": "Sean Burke (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Toronto Blue Jays @ Chicago White Sox (2025-07-07)\n\n## Información del Partido\n**Toronto Blue Jays (Visitante) vs Chicago White Sox (Local)**  \n**Lanzadores:** José Berríos (@Toronto Blue Jays) vs Sean Burke (@Chicago White Sox)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**60.1%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**35.1%** de que Chicago White Sox anote en la primera entrada\n- Basado en:\n  - Rendimiento de Chicago White Sox como local: 30.2%\n  - Rendimiento del lanzador visitante: 37.5% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**38.4%** de que Toronto Blue Jays anote en la primera entrada\n- Basado en:\n  - Rendimiento de Toronto Blue Jays como visitante: 28.6%\n  - Rendimiento del lanzador local: 44.4% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Chicago White Sox (Local):** 30.2% (13 YRFI en 43 partidos)\n- **Toronto Blue Jays (Visitante):** 28.6% (12 YRFI en 42 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Chicago White Sox (Local):** 40.0% (6 YRFI en 15 partidos)\n- **Toronto Blue Jays (Visitante):** 46.7% (7 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Chicago White Sox (Local):** (30.2% * 0.6) + (40.0% * 0.4) = **34.1%**\n- **Toronto Blue Jays (Visitante):** (28.6% * 0.6) + (46.7% * 0.4) = **35.8%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Chicago White Sox (Local)**:\n  - Combinado (equipo + tendencia): 34.1%\n  - Afectado por José Berríos (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 23.9%\n\n- **Toronto Blue Jays (Visitante)**:\n  - Combinado (equipo + tendencia): 35.8%\n  - Afectado por Sean Burke (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 25.1%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (23.9% + 25.1%) / 2 = **24.5%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Sean Burke (Chicago White Sox - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **José Berríos (Toronto Blue Jays - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Chicago White Sox:** 40.0% (6/15 partidos)\n- **Toronto Blue Jays:** 46.7% (7/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Sean Burke (Chicago White Sox - Local):**\n  - Total: 44.4% (4/9 aperturas)\n- **José Berríos (Toronto Blue Jays - Visitante):**\n  - Total: 37.5% (3/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Chicago White Sox    | Toronto Blue Jays    | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 30.2% (13/43) | 28.6% (12/42) | 35.0% |\n| **Ajustado** | 35.1% | 38.4% | **60.1%** |\n| **Tendencia** | 40.0% (6/15) | 46.7% (7/15) | - |\n| **Lanzador** | 44.4% (4/9) | 37.5% (3/8) | - |\n\n**Nota:** La probabilidad final del partido (60.1%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-07T10:17:03.726037",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

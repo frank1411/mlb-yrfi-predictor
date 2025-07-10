@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-03",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Nathan Eovaldi",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 20.454545454545457,
+        "ratio": "9/44"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 29.190909090909088
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "4/8"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "12/44"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      },
+      "adjusted_yrfi_pct": 20.187878787878784
+    }
+  },
+  "prediction": {
+    "base_prob": 20.984848484848484,
+    "final_prob": 43.48576253443526,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "20.5% (9/44)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Tomoyuki Sugano (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "27.3% (12/44)",
+        "tendency": "13.3% (2/15)",
+        "pitcher": "Nathan Eovaldi (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Baltimore Orioles @ Texas Rangers (2025-07-03)\n\n## Información del Partido\n**Baltimore Orioles (Visitante) vs Texas Rangers (Local)**  \n**Lanzadores:** Tomoyuki Sugano (@Baltimore Orioles) vs Nathan Eovaldi (@Texas Rangers)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**43.5%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**29.2%** de que Texas Rangers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Texas Rangers como local: 20.5%\n  - Rendimiento del lanzador visitante: 50.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**20.2%** de que Baltimore Orioles anote en la primera entrada\n- Basado en:\n  - Rendimiento de Baltimore Orioles como visitante: 27.3%\n  - Rendimiento del lanzador local: 16.7% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Texas Rangers (Local):** 20.5% (9 YRFI en 44 partidos)\n- **Baltimore Orioles (Visitante):** 27.3% (12 YRFI en 44 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Texas Rangers (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Baltimore Orioles (Visitante):** 13.3% (2 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Texas Rangers (Local):** (20.5% * 0.6) + (20.0% * 0.4) = **20.3%**\n- **Baltimore Orioles (Visitante):** (27.3% * 0.6) + (13.3% * 0.4) = **21.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Texas Rangers (Local)**:\n  - Combinado (equipo + tendencia): 20.3%\n  - Afectado por Tomoyuki Sugano (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 14.2%\n\n- **Baltimore Orioles (Visitante)**:\n  - Combinado (equipo + tendencia): 21.7%\n  - Afectado por Nathan Eovaldi (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 15.2%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (14.2% + 15.2%) / 2 = **14.7%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Nathan Eovaldi (Texas Rangers - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Tomoyuki Sugano (Baltimore Orioles - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Texas Rangers:** 20.0% (3/15 partidos)\n- **Baltimore Orioles:** 13.3% (2/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Nathan Eovaldi (Texas Rangers - Local):**\n  - Total: 16.7% (1/6 aperturas)\n- **Tomoyuki Sugano (Baltimore Orioles - Visitante):**\n  - Total: 50.0% (4/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Texas Rangers        | Baltimore Orioles    | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 20.5% (9/44) | 27.3% (12/44) | 21.0% |\n| **Ajustado** | 29.2% | 20.2% | **43.5%** |\n| **Tendencia** | 20.0% (3/15) | 13.3% (2/15) | - |\n| **Lanzador** | 16.7% (1/6) | 50.0% (4/8) | - |\n\n**Nota:** La probabilidad final del partido (43.5%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-02T10:15:55.227783",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

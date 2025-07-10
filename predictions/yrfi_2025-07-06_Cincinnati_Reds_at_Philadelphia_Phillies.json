@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-06",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "18/45"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 52.4
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Chase Burns",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.91304347826087,
+        "ratio": "11/46"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 20.843478260869563
+    }
+  },
+  "prediction": {
+    "base_prob": 28.507246376811597,
+    "final_prob": 62.32149565217391,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "40.0% (18/45)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Chase Burns (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "23.9% (11/46)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Zack Wheeler (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Cincinnati Reds @ Philadelphia Phillies (2025-07-06)\n\n## Información del Partido\n**Cincinnati Reds (Visitante) vs Philadelphia Phillies (Local)**  \n**Lanzadores:** Chase Burns (@Cincinnati Reds) vs Zack Wheeler (@Philadelphia Phillies)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**62.3%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**52.4%** de que Philadelphia Phillies anote en la primera entrada\n- Basado en:\n  - Rendimiento de Philadelphia Phillies como local: 40.0%\n  - Rendimiento del lanzador visitante: 100.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**20.8%** de que Cincinnati Reds anote en la primera entrada\n- Basado en:\n  - Rendimiento de Cincinnati Reds como visitante: 23.9%\n  - Rendimiento del lanzador local: 11.1% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Philadelphia Phillies (Local):** 40.0% (18 YRFI en 45 partidos)\n- **Cincinnati Reds (Visitante):** 23.9% (11 YRFI en 46 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Philadelphia Phillies (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Cincinnati Reds (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Philadelphia Phillies (Local):** (40.0% * 0.6) + (20.0% * 0.4) = **32.0%**\n- **Cincinnati Reds (Visitante):** (23.9% * 0.6) + (26.7% * 0.4) = **25.0%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Philadelphia Phillies (Local)**:\n  - Combinado (equipo + tendencia): 32.0%\n  - Afectado por Chase Burns (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 22.4%\n\n- **Cincinnati Reds (Visitante)**:\n  - Combinado (equipo + tendencia): 25.0%\n  - Afectado por Zack Wheeler (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 17.5%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (22.4% + 17.5%) / 2 = **20.0%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Zack Wheeler (Philadelphia Phillies - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Chase Burns (Cincinnati Reds - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Philadelphia Phillies:** 20.0% (3/15 partidos)\n- **Cincinnati Reds:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Zack Wheeler (Philadelphia Phillies - Local):**\n  - Total: 11.1% (1/9 aperturas)\n- **Chase Burns (Cincinnati Reds - Visitante):**\n  - Total: 100.0% (1/1 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Philadelphia Phillie | Cincinnati Reds      | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 40.0% (18/45) | 23.9% (11/46) | 28.5% |\n| **Ajustado** | 52.4% | 20.8% | **62.3%** |\n| **Tendencia** | 20.0% (3/15) | 26.7% (4/15) | - |\n| **Lanzador** | 11.1% (1/9) | 100.0% (1/1) | - |\n\n**Nota:** La probabilidad final del partido (62.3%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-06T10:14:22.174214",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
