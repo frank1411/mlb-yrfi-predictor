@@ -1,0 +1,65 @@
+{
+  "game_date": "2025-07-10",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "9/42"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      },
+      "adjusted_yrfi_pct": 10.866666666666665
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "10/45"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 26.18333333333333
+    }
+  },
+  "prediction": {
+    "base_prob": 18.428571428571427,
+    "final_prob": 34.204744444444444,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "21.4% (9/42)",
+        "tendency": "6.7% (1/15)",
+        "pitcher": "Por anunciar (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "22.2% (10/45)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Tomoyuki Sugano (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - New York Mets @ Baltimore Orioles (2025-07-10)\n\n## Información del Partido\n**New York Mets (Visitante) vs Baltimore Orioles (Local)**  \n**Lanzadores:** Por anunciar (@New York Mets) vs Tomoyuki Sugano (@Baltimore Orioles)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**34.2%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**10.9%** de que Baltimore Orioles anote en la primera entrada\n- Basado en:\n  - Rendimiento de Baltimore Orioles como local: 21.4%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**26.2%** de que New York Mets anote en la primera entrada\n- Basado en:\n  - Rendimiento de New York Mets como visitante: 22.2%\n  - Rendimiento del lanzador local: 37.5% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Baltimore Orioles (Local):** 21.4% (9 YRFI en 42 partidos)\n- **New York Mets (Visitante):** 22.2% (10 YRFI en 45 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Baltimore Orioles (Local):** 6.7% (1 YRFI en 15 partidos)\n- **New York Mets (Visitante):** 20.0% (3 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Baltimore Orioles (Local):** (21.4% * 0.6) + (6.7% * 0.4) = **15.5%**\n- **New York Mets (Visitante):** (22.2% * 0.6) + (20.0% * 0.4) = **21.3%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Baltimore Orioles (Local)**:\n  - Combinado (equipo + tendencia): 15.5%\n  - Afectado por Por anunciar (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 10.9%\n\n- **New York Mets (Visitante)**:\n  - Combinado (equipo + tendencia): 21.3%\n  - Afectado por Tomoyuki Sugano (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 14.9%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (10.9% + 14.9%) / 2 = **12.9%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Tomoyuki Sugano (Baltimore Orioles - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Por anunciar (New York Mets - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Baltimore Orioles:** 6.7% (1/15 partidos)\n- **New York Mets:** 20.0% (3/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Tomoyuki Sugano (Baltimore Orioles - Local):**\n  - Total: 37.5% (3/8 aperturas)\n- **Por anunciar (New York Mets - Visitante):**\n  - Sin datos suficientes\n\n## Resumen de Cálculos\n| Categoría | Baltimore Orioles    | New York Mets        | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 21.4% (9/42) | 22.2% (10/45) | 18.4% |\n| **Ajustado** | 10.9% | 26.2% | **34.2%** |\n| **Tendencia** | 6.7% (1/15) | 20.0% (3/15) | - |\n| **Lanzador** | 37.5% (3/8) | 0.0% (0/0) | - |\n\n**Nota:** La probabilidad final del partido (34.2%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-10T10:15:50.682218",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
