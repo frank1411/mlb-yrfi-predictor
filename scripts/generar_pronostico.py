@@ -94,6 +94,26 @@ def get_pitcher_stats(season_data: Dict, pitcher_id: Optional[str] = None, pitch
     """
     print(f"\n[DEBUG] Buscando lanzador - ID: {pitcher_id}, Tipo: {type(pitcher_id).__name__}, Nombre: {pitcher_name}")
     
+    # Verificar si el lanzador es "Por anunciar"
+    is_tba = pitcher_name and 'anunciar' in str(pitcher_name).lower()
+    
+    # Si es "Por anunciar", establecer valores predeterminados con 50%
+    if is_tba:
+        return {
+            'total_games': 0,
+            'yrfi_games': 0,
+            'home_games': 0,
+            'home_yrfi': 0,
+            'away_games': 0,
+            'away_yrfi': 0,
+            'yrfi_pct': 50.0,  # 50% para lanzadores "Por anunciar"
+            'home_yrfi_pct': 50.0,
+            'away_yrfi_pct': 50.0,
+            'name': pitcher_name,
+            'is_tba': True  # Marcar como "Por anunciar"
+        }
+    
+    # Valores predeterminados para lanzadores conocidos
     pitcher_stats = {
         'total_games': 0,
         'yrfi_games': 0,
@@ -104,7 +124,8 @@ def get_pitcher_stats(season_data: Dict, pitcher_id: Optional[str] = None, pitch
         'yrfi_pct': 0.0,
         'home_yrfi_pct': 0.0,
         'away_yrfi_pct': 0.0,
-        'name': pitcher_name or 'Desconocido'
+        'name': pitcher_name or 'Desconocido',
+        'is_tba': False  # No es "Por anunciar"
     }
     
     if not (pitcher_id or pitcher_name):
@@ -199,8 +220,23 @@ def calculate_game_probability(home_team_id: str, away_team_id: str, home_pitche
     
     # Ajustar por lanzadores (70% equipo, 30% lanzador RIVAL)
     # El rendimiento del lanzador visitante afecta al equipo local y viceversa
-    home_team_adj = (home_yrfi_combined * 0.7) + (away_pitcher.get('away_yrfi_pct', 0) * 0.3)
-    away_team_adj = (away_yrfi_combined * 0.7) + (home_pitcher.get('home_yrfi_pct', 0) * 0.3)
+    
+    # Usar los valores ya calculados en get_pitcher_stats para lanzadores "Por anunciar"
+    away_pitcher_yrfi = away_pitcher.get('yrfi_pct', 50.0)  # Ya incluye 50% para "Por anunciar"
+    home_pitcher_yrfi = home_pitcher.get('yrfi_pct', 50.0)  # Ya incluye 50% para "Por anunciar"
+    
+    # Aplicar el ajuste (70% rendimiento del equipo, 30% rendimiento del lanzador rival)
+    home_team_adj = (home_yrfi_combined * 0.7) + (away_pitcher_yrfi * 0.3)
+    away_team_adj = (away_yrfi_combined * 0.7) + (home_pitcher_yrfi * 0.3)
+    
+    # Guardar los valores usados para el reporte
+    home_pitcher['yrfi_used'] = away_pitcher_yrfi  # El lanzador local afecta al equipo visitante
+    away_pitcher['yrfi_used'] = home_pitcher_yrfi  # El lanzador visitante afecta al equipo local
+    
+    # Añadir información de depuración
+    print(f"[DEBUG] Ajuste por lanzadores:")
+    print(f"- Lanzador local ({home_pitcher.get('name')}): {home_pitcher_yrfi:.1f}%")
+    print(f"- Lanzador visitante ({away_pitcher.get('name')}): {away_pitcher_yrfi:.1f}%")
     
     # Probabilidad final usando la fórmula de probabilidad de eventos independientes
     # p_yrfi = 1 - ((1 - p_home) * (1 - p_away))
@@ -527,12 +563,14 @@ def save_prediction(prediction: Dict, output_dir: Path = None) -> Path:
     # Crear directorio si no existe
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # Generar nombre de archivo usando siempre la fecha actual
+    # Generar nombre de archivo usando la fecha y el ID del partido para garantizar unicidad
     current_date = datetime.now().strftime("%Y-%m-%d")
     home_team = prediction['home_team']['name'].replace(' ', '_')
     away_team = prediction['away_team']['name'].replace(' ', '_')
+    game_pk = prediction.get('game_pk', 'N/A')  # Obtener el ID del partido
     
-    filename = f"yrfi_{current_date}_{away_team}_at_{home_team}.json"
+    # Crear nombre de archivo con el formato: yrfi_YYYY-MM-DD_away_at_home_GAME_PK.json
+    filename = f"yrfi_{current_date}_{away_team}_at_{home_team}_{game_pk}.json"
     filepath = output_dir / filename
     
     # Guardar como JSON

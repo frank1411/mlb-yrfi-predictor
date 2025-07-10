@@ -184,7 +184,7 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
         away_team_name = game.get('away_team', {}).get('name', 'Desconocido')
         game_pk = game.get('game_pk', 'N/A')
         print(f"\n🔍 Procesando partido {i}/{len(games)}: {away_team_name} @ {home_team_name} (ID: {game_pk})")
-        
+
         try:
             # Obtener información del partido
             home_team_id = game['home_team']['id']
@@ -199,40 +199,72 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
             # Mostrar información de lanzadores
             print(f"   Lanzadores: {away_pitcher.get('name', 'No definido')} (ID: {away_pitcher.get('id', 'N/A')}) vs {home_pitcher.get('name', 'No definido')} (ID: {home_pitcher.get('id', 'N/A')})")
             
-            # Mensaje de depuración
-            print("\n🔍 DEPURACIÓN: Generando predicción para el partido")
+            # Mensaje de depuración detallado
+            print("\n" + "="*80)
+            print(f"🔍 DEPURACIÓN: Iniciando procesamiento para partido ID: {game_pk}")
+            print(f"   Equipos: {away_team_name} @ {home_team_name}")
+            print(f"   Estado: {game.get('status', 'No especificado')}")
+            print(f"   Lanzador Local: {home_pitcher.get('name', 'No definido')} (ID: {home_pitcher.get('id', 'N/A')})")
+            print(f"   Lanzador Visitante: {away_pitcher.get('name', 'No definido')} (ID: {away_pitcher.get('id', 'N/A')})")
+            print("="*80 + "\n")
             
             # Si no hay lanzadores, saltar este partido
             if not home_pitcher or not away_pitcher:
                 print(f"⚠️  No se encontraron lanzadores para {away_team_name} @ {home_team_name}")
                 continue
+                
+            print(f"✅ Ambos lanzadores están presentes. Continuando con el procesamiento...")
             
             # Obtener estadísticas de los lanzadores
-            home_pitcher_stats = get_pitcher_stats(season_data, 
-                                                 pitcher_id=home_pitcher.get('id'),
-                                                 pitcher_name=home_pitcher.get('name'))
+            print(f"\n📊 Obteniendo estadísticas para los lanzadores...")
             
+            home_pitcher_id = home_pitcher.get('id')
+            home_pitcher_name = home_pitcher.get('name')
+            print(f"   Lanzador Local: {home_pitcher_name} (ID: {home_pitcher_id})")
+            home_pitcher_stats = get_pitcher_stats(season_data, 
+                                                 pitcher_id=home_pitcher_id,
+                                                 pitcher_name=home_pitcher_name)
+            print(f"   Estadísticas del lanzador local obtenidas: {bool(home_pitcher_stats)}")
+            
+            away_pitcher_id = away_pitcher.get('id')
+            away_pitcher_name = away_pitcher.get('name')
+            print(f"   Lanzador Visitante: {away_pitcher_name} (ID: {away_pitcher_id})")
             away_pitcher_stats = get_pitcher_stats(season_data,
-                                                 pitcher_id=away_pitcher.get('id'),
-                                                 pitcher_name=away_pitcher.get('name'))
+                                                 pitcher_id=away_pitcher_id,
+                                                 pitcher_name=away_pitcher_name)
+            print(f"   Estadísticas del lanzador visitante obtenidas: {bool(away_pitcher_stats)}")
             
             # Generar predicción
-            print(f"   Generando predicción para {away_team_name} @ {home_team_name}...")
-            game_data = calculate_game_probability(
-                home_team_id=home_team_id,
-                away_team_id=away_team_id,
-                home_pitcher=home_pitcher_stats,
-                away_pitcher=away_pitcher_stats,
-                season_data=season_data
-            )
+            print(f"\n🎯 Generando predicción para {away_team_name} @ {home_team_name}...")
+            try:
+                game_data = calculate_game_probability(
+                    home_team_id=home_team_id,
+                    away_team_id=away_team_id,
+                    home_pitcher=home_pitcher_stats,
+                    away_pitcher=away_pitcher_stats,
+                    season_data=season_data
+                )
+                print(f"✅ Predicción generada exitosamente para el partido {game_pk}")
+            except Exception as e:
+                print(f"❌ Error al generar predicción para el partido {game_pk}: {str(e)}")
+                print(f"Tipo de error: {type(e).__name__}")
+                import traceback
+                traceback.print_exc()
+                continue
             
             # Formatear predicción
-            prediction_text = format_prediction(
-                game_data, 
-                home_team_name, 
-                away_team_name, 
-                game_date_str
-            )
+            print(f"📝 Formateando predicción para {away_team_name} @ {home_team_name}...")
+            try:
+                prediction_text = format_prediction(
+                    game_data, 
+                    home_team_name, 
+                    away_team_name, 
+                    game_date_str
+                )
+                print(f"✅ Predicción formateada exitosamente")
+            except Exception as e:
+                print(f"❌ Error al formatear la predicción: {str(e)}")
+                continue
             
             # Mensaje de depuración después de generar la predicción
             print(f"\n✅ Procesamiento completado para partido {i}/{len(games)}: {away_team_name} @ {home_team_name}")
@@ -245,6 +277,7 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
             
             # Crear resultado con la nueva estructura
             prediction = {
+                'game_pk': game.get('game_pk'),  # Asegurar que el game_pk esté incluido
                 'game_date': game_date_str,
                 'home_team': {
                     'id': home_team_id,
