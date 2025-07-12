@@ -1,0 +1,66 @@
+{
+  "game_pk": 777138,
+  "game_date": "2025-07-12",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 29.78723404255319,
+        "ratio": "14/47"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 32.04397163120567
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Tanner Bibee",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 22.0,
+        "ratio": "11/50"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 28.839999999999996
+    }
+  },
+  "prediction": {
+    "base_prob": 27.53617021276596,
+    "final_prob": 51.64249021276595,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "29.8% (14/47)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Tanner Bibee (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "22.0% (11/50)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Sean Burke (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Cleveland Guardians @ Chicago White Sox (2025-07-12)\n\n## Información del Partido\n**Cleveland Guardians (Visitante) vs Chicago White Sox (Local)**  \n**Lanzadores:** Tanner Bibee (@Cleveland Guardians) vs Sean Burke (@Chicago White Sox)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**51.6%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**32.0%** de que Chicago White Sox anote en la primera entrada\n- Basado en:\n  - Rendimiento de Chicago White Sox como local: 29.8%\n  - Rendimiento del lanzador visitante: 36.4% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**28.8%** de que Cleveland Guardians anote en la primera entrada\n- Basado en:\n  - Rendimiento de Cleveland Guardians como visitante: 22.0%\n  - Rendimiento del lanzador local: 40.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Chicago White Sox (Local):** 29.8% (14 YRFI en 47 partidos)\n- **Cleveland Guardians (Visitante):** 22.0% (11 YRFI en 50 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Chicago White Sox (Local):** 40.0% (6 YRFI en 15 partidos)\n- **Cleveland Guardians (Visitante):** 20.0% (3 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Chicago White Sox (Local):** (29.8% * 0.6) + (40.0% * 0.4) = **33.9%**\n- **Cleveland Guardians (Visitante):** (22.0% * 0.6) + (20.0% * 0.4) = **21.2%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Chicago White Sox (Local)**:\n  - Combinado (equipo + tendencia): 33.9%\n  - Afectado por Tanner Bibee (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 23.7%\n\n- **Cleveland Guardians (Visitante)**:\n  - Combinado (equipo + tendencia): 21.2%\n  - Afectado por Sean Burke (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 14.8%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (23.7% + 14.8%) / 2 = **19.3%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Sean Burke (Chicago White Sox - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Tanner Bibee (Cleveland Guardians - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Chicago White Sox:** 40.0% (6/15 partidos)\n- **Cleveland Guardians:** 20.0% (3/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Sean Burke (Chicago White Sox - Local):**\n  - Total: 40.0% (4/10 aperturas)\n- **Tanner Bibee (Cleveland Guardians - Visitante):**\n  - Total: 36.4% (4/11 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Chicago White Sox    | Cleveland Guardians  | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 29.8% (14/47) | 22.0% (11/50) | 27.5% |\n| **Ajustado** | 32.0% | 28.8% | **51.6%** |\n| **Tendencia** | 40.0% (6/15) | 20.0% (3/15) | - |\n| **Lanzador** | 40.0% (4/10) | 36.4% (4/11) | - |\n\n**Nota:** La probabilidad final del partido (51.6%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-12T10:14:11.094384",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
