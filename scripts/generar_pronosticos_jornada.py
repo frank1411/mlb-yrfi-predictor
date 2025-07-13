@@ -284,7 +284,7 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
                     'name': home_team_name,
                     'pitcher': {
                         'name': home_pitcher.get('name', 'Por definir'),
-                        'yrfi_allowed': home_pitcher_stats.get('home_yrfi_pct', 0) if home_pitcher_stats else 0,
+                        'yrfi_allowed': home_pitcher_stats.get('yrfi_allowed', 0) if home_pitcher_stats else 0,
                         'yrfi_ratio': f"{home_pitcher_stats.get('home_yrfi', 0)}/{home_pitcher_stats.get('home_games', 1)}" if home_pitcher_stats else '0/1'
                     },
                     'stats': {
@@ -305,7 +305,7 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
                     'name': away_team_name,
                     'pitcher': {
                         'name': away_pitcher.get('name', 'Por definir'),
-                        'yrfi_allowed': away_pitcher_stats.get('away_yrfi_pct', 0) if away_pitcher_stats else 0,
+                        'yrfi_allowed': away_pitcher_stats.get('yrfi_allowed', 0) if away_pitcher_stats else 0,
                         'yrfi_ratio': f"{away_pitcher_stats.get('away_yrfi', 0)}/{away_pitcher_stats.get('away_games', 1)}" if away_pitcher_stats else '0/1'
                     },
                     'stats': {
@@ -558,7 +558,7 @@ def generate_summary_from_files(date_str: str = None) -> str:
             'away_team': away_team['name'],
             'home_prob': home_team['final_pct'],
             'away_prob': away_team['final_pct'],
-            'final_prob': (home_team['final_pct'] + away_team['final_pct']) / 2,
+            'final_prob': pred['prediction']['final_prob'] * 100,  # Usar la probabilidad ya calculada
             'home_pitcher': home_team['lanzador_rival'],  # El lanzador es el del equipo rival
             'away_pitcher': away_team['lanzador_rival']   # El lanzador es el del equipo rival
         }
