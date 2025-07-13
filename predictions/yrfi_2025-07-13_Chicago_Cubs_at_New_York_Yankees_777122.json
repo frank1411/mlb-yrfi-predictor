@@ -1,0 +1,66 @@
+{
+  "game_pk": 777122,
+  "game_date": "2025-07-13",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "15/48"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 26.906818181818178
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "14/49"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 25.782456140350874
+    }
+  },
+  "prediction": {
+    "base_prob": 27.279761904761905,
+    "final_prob": 45.75203572567782,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "31.2% (15/48)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Shota Imanaga (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "28.6% (14/49)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Will Warren (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Chicago Cubs @ New York Yankees (2025-07-13)\n\n## Información del Partido\n**Chicago Cubs (Visitante) vs New York Yankees (Local)**  \n**Lanzadores:** Shota Imanaga (@Chicago Cubs) vs Will Warren (@New York Yankees)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**45.8%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**26.9%** de que New York Yankees anote en la primera entrada\n- Basado en:\n  - Rendimiento de New York Yankees como local: 31.2%\n  - Rendimiento del lanzador visitante: 16.7% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**25.8%** de que Chicago Cubs anote en la primera entrada\n- Basado en:\n  - Rendimiento de Chicago Cubs como visitante: 28.6%\n  - Rendimiento del lanzador local: 11.1% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **New York Yankees (Local):** 31.2% (15 YRFI en 48 partidos)\n- **Chicago Cubs (Visitante):** 28.6% (14 YRFI en 49 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **New York Yankees (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Chicago Cubs (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **New York Yankees (Local):** (31.2% * 0.6) + (20.0% * 0.4) = **26.8%**\n- **Chicago Cubs (Visitante):** (28.6% * 0.6) + (26.7% * 0.4) = **27.8%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **New York Yankees (Local)**:\n  - Combinado (equipo + tendencia): 26.8%\n  - Afectado por Shota Imanaga (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 18.7%\n\n- **Chicago Cubs (Visitante)**:\n  - Combinado (equipo + tendencia): 27.8%\n  - Afectado por Will Warren (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 19.5%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (18.7% + 19.5%) / 2 = **19.1%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Will Warren (New York Yankees - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Shota Imanaga (Chicago Cubs - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **New York Yankees:** 20.0% (3/15 partidos)\n- **Chicago Cubs:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Will Warren (New York Yankees - Local):**\n  - Total: 11.1% (1/9 aperturas)\n- **Shota Imanaga (Chicago Cubs - Visitante):**\n  - Total: 16.7% (1/6 aperturas)\n\n## Resumen de Cálculos\n| Categoría | New York Yankees     | Chicago Cubs         | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 31.2% (15/48) | 28.6% (14/49) | 27.3% |\n| **Ajustado** | 26.9% | 25.8% | **45.8%** |\n| **Tendencia** | 20.0% (3/15) | 26.7% (4/15) | - |\n| **Lanzador** | 11.1% (1/9) | 16.7% (1/6) | - |\n\n**Nota:** La probabilidad final del partido (45.8%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-13T10:14:17.630247",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
