@@ -211,19 +211,19 @@ def calculate_game_probability(home_team_id: str, away_team_id: str, home_pitche
     home_trend_pct = (home_stats.get('last_15_yrfi', 0) / home_stats.get('last_15_games', 1)) * 100 if home_stats.get('last_15_games', 0) > 0 else home_yrfi_pct
     away_trend_pct = (away_stats.get('last_15_yrfi', 0) / away_stats.get('last_15_games', 1)) * 100 if away_stats.get('last_15_games', 0) > 0 else away_yrfi_pct
     
-    # Combinar estadística base con tendencia (60% base, 40% tendencia)
+    # Calcular estadísticas combinadas para cada equipo
     home_yrfi_combined = (home_yrfi_pct * 0.6) + (home_trend_pct * 0.4)
     away_yrfi_combined = (away_yrfi_pct * 0.6) + (away_trend_pct * 0.4)
     
-    # Calcular probabilidad base (promedio de ambos equipos)
-    base_prob = (home_yrfi_combined + away_yrfi_combined) / 2
+    # Calcular probabilidad base usando la fórmula correcta
+    base_prob = ((home_yrfi_combined + away_yrfi_combined) / 2)
     
     # Ajustar por lanzadores (70% equipo, 30% lanzador RIVAL)
     # El rendimiento del lanzador visitante afecta al equipo local y viceversa
     
     # Usar los valores ya calculados en get_pitcher_stats para lanzadores "Por anunciar"
-    away_pitcher_yrfi = away_pitcher.get('yrfi_pct', 50.0)  # Ya incluye 50% para "Por anunciar"
-    home_pitcher_yrfi = home_pitcher.get('yrfi_pct', 50.0)  # Ya incluye 50% para "Por anunciar"
+    home_pitcher_yrfi = home_pitcher.get('yrfi_pct', 50.0)
+    away_pitcher_yrfi = away_pitcher.get('yrfi_pct', 50.0)
     
     # Aplicar el ajuste (70% rendimiento del equipo, 30% rendimiento del lanzador rival)
     home_team_adj = (home_yrfi_combined * 0.7) + (away_pitcher_yrfi * 0.3)
