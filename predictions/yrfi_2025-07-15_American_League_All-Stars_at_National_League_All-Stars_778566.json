@@ -1,0 +1,66 @@
+{
+  "game_pk": 778566,
+  "game_date": "2025-07-16",
+  "home_team": {
+    "id": "160",
+    "name": "National League All-Stars",
+    "pitcher": {
+      "name": "Paul Skenes",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "0/8"
+    },
+    "stats": {
+      "base": {
+        "value": 0,
+        "ratio": "0/0"
+      },
+      "tendency": {
+        "value": 0,
+        "ratio": "0/0"
+      },
+      "adjusted_yrfi_pct": 4.7368421052631575
+    }
+  },
+  "away_team": {
+    "id": "159",
+    "name": "American League All-Stars",
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 0,
+        "ratio": "0/0"
+      },
+      "tendency": {
+        "value": 0,
+        "ratio": "0/0"
+      },
+      "adjusted_yrfi_pct": 0.0
+    }
+  },
+  "prediction": {
+    "base_prob": 0.0,
+    "final_prob": 4.736842105263161,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "0.0% (0/0)",
+        "tendency": "0.0% (0/0)",
+        "pitcher": "Tarik Skubal (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "0.0% (0/0)",
+        "tendency": "0.0% (0/0)",
+        "pitcher": "Paul Skenes (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - American League All-Stars @ National League All-Stars (2025-07-16)\n\n## Información del Partido\n**American League All-Stars (Visitante) vs National League All-Stars (Local)**  \n**Lanzadores:** Tarik Skubal (@American League All-Stars) vs Paul Skenes (@National League All-Stars)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**4.7%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**4.7%** de que National League All-Stars anote en la primera entrada\n- Basado en:\n  - Rendimiento de National League All-Stars como local: 0.0%\n  - Rendimiento del lanzador visitante: 12.5% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**0.0%** de que American League All-Stars anote en la primera entrada\n- Basado en:\n  - Rendimiento de American League All-Stars como visitante: 0.0%\n  - Rendimiento del lanzador local: 0.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **National League All-Stars (Local):** 0.0% (0 YRFI en 0 partidos)\n- **American League All-Stars (Visitante):** 0.0% (0 YRFI en 0 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **National League All-Stars (Local):** 0.0% (0 YRFI en 0 partidos)\n- **American League All-Stars (Visitante):** 0.0% (0 YRFI en 0 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **National League All-Stars (Local):** (0.0% * 0.6) + (0.0% * 0.4) = **0.0%**\n- **American League All-Stars (Visitante):** (0.0% * 0.6) + (0.0% * 0.4) = **0.0%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **National League All-Stars (Local)**:\n  - Combinado (equipo + tendencia): 0.0%\n  - Afectado por Tarik Skubal (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 0.0%\n\n- **American League All-Stars (Visitante)**:\n  - Combinado (equipo + tendencia): 0.0%\n  - Afectado por Paul Skenes (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 0.0%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (0.0% + 0.0%) / 2 = **0.0%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Paul Skenes (National League All-Stars - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Tarik Skubal (American League All-Stars - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **National League All-Stars:** Sin datos recientes\n- **American League All-Stars:** Sin datos recientes\n\n### Rendimiento de Lanzadores\n- **Paul Skenes (National League All-Stars - Local):**\n  - Total: 0.0% (0/8 aperturas)\n- **Tarik Skubal (American League All-Stars - Visitante):**\n  - Total: 12.5% (1/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | National League All- | American League All- | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 0.0% (0/0) | 0.0% (0/0) | 0.0% |\n| **Ajustado** | 4.7% | 0.0% | **4.7%** |\n| **Tendencia** | 0.0% (0/0) | 0.0% (0/0) | - |\n| **Lanzador** | 0.0% (0/8) | 12.5% (1/8) | - |\n\n**Nota:** La probabilidad final del partido (4.7%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-15T10:15:42.535226",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

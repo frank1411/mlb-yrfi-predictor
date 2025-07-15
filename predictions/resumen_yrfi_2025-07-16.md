@@ -1,0 +1,1 @@
+No hay predicciones para mostrar.
