@@ -1,0 +1,66 @@
+{
+  "game_pk": 777109,
+  "game_date": "2025-07-18",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 23.404255319148938,
+        "ratio": "11/47"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 30.42978723404255
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.04255319148936,
+        "ratio": "16/47"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 38.83120567375886
+    }
+  },
+  "prediction": {
+    "base_prob": 29.234042553191486,
+    "final_prob": 57.444739640863126,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "23.4% (11/47)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Por anunciar (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "34.0% (16/47)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Sandy Alcantara (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Kansas City Royals @ Miami Marlins (2025-07-18)\n\n## Información del Partido\n**Kansas City Royals (Visitante) vs Miami Marlins (Local)**  \n**Lanzadores:** Por anunciar (@Kansas City Royals) vs Sandy Alcantara (@Miami Marlins)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**57.4%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**30.4%** de que Miami Marlins anote en la primera entrada\n- Basado en:\n  - Rendimiento de Miami Marlins como local: 23.4%\n  - Rendimiento del lanzador visitante: 50.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**38.8%** de que Kansas City Royals anote en la primera entrada\n- Basado en:\n  - Rendimiento de Kansas City Royals como visitante: 34.0%\n  - Rendimiento del lanzador local: 40.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Miami Marlins (Local):** 23.4% (11 YRFI en 47 partidos)\n- **Kansas City Royals (Visitante):** 34.0% (16 YRFI en 47 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Miami Marlins (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Kansas City Royals (Visitante):** 40.0% (6 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Miami Marlins (Local):** (23.4% * 0.6) + (20.0% * 0.4) = **22.0%**\n- **Kansas City Royals (Visitante):** (34.0% * 0.6) + (40.0% * 0.4) = **36.4%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Miami Marlins (Local)**:\n  - Combinado (equipo + tendencia): 22.0%\n  - Afectado por Por anunciar (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 15.4%\n\n- **Kansas City Royals (Visitante)**:\n  - Combinado (equipo + tendencia): 36.4%\n  - Afectado por Sandy Alcantara (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 25.5%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (15.4% + 25.5%) / 2 = **20.5%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Sandy Alcantara (Miami Marlins - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Por anunciar (Kansas City Royals - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Miami Marlins:** 20.0% (3/15 partidos)\n- **Kansas City Royals:** 40.0% (6/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Sandy Alcantara (Miami Marlins - Local):**\n  - Total: 40.0% (4/10 aperturas)\n- **Por anunciar (Kansas City Royals - Visitante):**\n  - Sin datos suficientes\n\n## Resumen de Cálculos\n| Categoría | Miami Marlins        | Kansas City Royals   | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 23.4% (11/47) | 34.0% (16/47) | 29.2% |\n| **Ajustado** | 30.4% | 38.8% | **57.4%** |\n| **Tendencia** | 20.0% (3/15) | 40.0% (6/15) | - |\n| **Lanzador** | 40.0% (4/10) | 50.0% (0/0) | - |\n\n**Nota:** La probabilidad final del partido (57.4%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-18T10:16:30.913177",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

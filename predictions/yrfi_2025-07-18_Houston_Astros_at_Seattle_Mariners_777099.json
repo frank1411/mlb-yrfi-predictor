@@ -1,0 +1,66 @@
+{
+  "game_pk": 777099,
+  "game_date": "2025-07-19",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 19.565217391304348,
+        "ratio": "9/46"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      },
+      "adjusted_yrfi_pct": 20.52215320910973
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Brandon Walter",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "11/44"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 36.7
+    }
+  },
+  "prediction": {
+    "base_prob": 24.03623188405797,
+    "final_prob": 49.690522981366456,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "19.6% (9/46)",
+        "tendency": "13.3% (2/15)",
+        "pitcher": "Brandon Walter (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "25.0% (11/44)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Por anunciar (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Houston Astros @ Seattle Mariners (2025-07-19)\n\n## Información del Partido\n**Houston Astros (Visitante) vs Seattle Mariners (Local)**  \n**Lanzadores:** Brandon Walter (@Houston Astros) vs Por anunciar (@Seattle Mariners)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**49.7%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**20.5%** de que Seattle Mariners anote en la primera entrada\n- Basado en:\n  - Rendimiento de Seattle Mariners como local: 19.6%\n  - Rendimiento del lanzador visitante: 25.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**36.7%** de que Houston Astros anote en la primera entrada\n- Basado en:\n  - Rendimiento de Houston Astros como visitante: 25.0%\n  - Rendimiento del lanzador local: 50.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Seattle Mariners (Local):** 19.6% (9 YRFI en 46 partidos)\n- **Houston Astros (Visitante):** 25.0% (11 YRFI en 44 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Seattle Mariners (Local):** 13.3% (2 YRFI en 15 partidos)\n- **Houston Astros (Visitante):** 40.0% (6 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Seattle Mariners (Local):** (19.6% * 0.6) + (13.3% * 0.4) = **17.1%**\n- **Houston Astros (Visitante):** (25.0% * 0.6) + (40.0% * 0.4) = **31.0%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Seattle Mariners (Local)**:\n  - Combinado (equipo + tendencia): 17.1%\n  - Afectado por Brandon Walter (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 12.0%\n\n- **Houston Astros (Visitante)**:\n  - Combinado (equipo + tendencia): 31.0%\n  - Afectado por Por anunciar (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 21.7%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (12.0% + 21.7%) / 2 = **16.8%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Por anunciar (Seattle Mariners - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Brandon Walter (Houston Astros - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Seattle Mariners:** 13.3% (2/15 partidos)\n- **Houston Astros:** 40.0% (6/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Por anunciar (Seattle Mariners - Local):**\n  - Sin datos suficientes\n- **Brandon Walter (Houston Astros - Visitante):**\n  - Total: 25.0% (1/4 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Seattle Mariners     | Houston Astros       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 19.6% (9/46) | 25.0% (11/44) | 24.0% |\n| **Ajustado** | 20.5% | 36.7% | **49.7%** |\n| **Tendencia** | 13.3% (2/15) | 40.0% (6/15) | - |\n| **Lanzador** | 50.0% (0/0) | 25.0% (1/4) | - |\n\n**Nota:** La probabilidad final del partido (49.7%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-18T10:16:30.945486",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

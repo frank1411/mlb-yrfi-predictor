@@ -1,0 +1,66 @@
+{
+  "game_pk": 777111,
+  "game_date": "2025-07-18",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.914893617021278,
+        "ratio": "15/47"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 33.502500933184024
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 23.404255319148938,
+        "ratio": "11/47"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 36.02978723404255
+    }
+  },
+  "prediction": {
+    "base_prob": 29.929078014184395,
+    "final_prob": 57.46140836291727,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "31.9% (15/47)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Nick Lodolo (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "23.4% (11/47)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Por anunciar (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Cincinnati Reds @ New York Mets (2025-07-18)\n\n## Información del Partido\n**Cincinnati Reds (Visitante) vs New York Mets (Local)**  \n**Lanzadores:** Nick Lodolo (@Cincinnati Reds) vs Por anunciar (@New York Mets)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**57.5%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**33.5%** de que New York Mets anote en la primera entrada\n- Basado en:\n  - Rendimiento de New York Mets como local: 31.9%\n  - Rendimiento del lanzador visitante: 33.3% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**36.0%** de que Cincinnati Reds anote en la primera entrada\n- Basado en:\n  - Rendimiento de Cincinnati Reds como visitante: 23.4%\n  - Rendimiento del lanzador local: 50.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **New York Mets (Local):** 31.9% (15 YRFI en 47 partidos)\n- **Cincinnati Reds (Visitante):** 23.4% (11 YRFI en 47 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **New York Mets (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Cincinnati Reds (Visitante):** 40.0% (6 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **New York Mets (Local):** (31.9% * 0.6) + (26.7% * 0.4) = **29.8%**\n- **Cincinnati Reds (Visitante):** (23.4% * 0.6) + (40.0% * 0.4) = **30.0%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **New York Mets (Local)**:\n  - Combinado (equipo + tendencia): 29.8%\n  - Afectado por Nick Lodolo (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 20.9%\n\n- **Cincinnati Reds (Visitante)**:\n  - Combinado (equipo + tendencia): 30.0%\n  - Afectado por Por anunciar (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 21.0%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (20.9% + 21.0%) / 2 = **21.0%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Por anunciar (New York Mets - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Nick Lodolo (Cincinnati Reds - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **New York Mets:** 26.7% (4/15 partidos)\n- **Cincinnati Reds:** 40.0% (6/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Por anunciar (New York Mets - Local):**\n  - Sin datos suficientes\n- **Nick Lodolo (Cincinnati Reds - Visitante):**\n  - Total: 33.3% (3/9 aperturas)\n\n## Resumen de Cálculos\n| Categoría | New York Mets        | Cincinnati Reds      | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 31.9% (15/47) | 23.4% (11/47) | 29.9% |\n| **Ajustado** | 33.5% | 36.0% | **57.5%** |\n| **Tendencia** | 26.7% (4/15) | 40.0% (6/15) | - |\n| **Lanzador** | 50.0% (0/0) | 33.3% (3/9) | - |\n\n**Nota:** La probabilidad final del partido (57.5%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-18T10:16:30.902096",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
