@@ -1,0 +1,66 @@
+{
+  "game_pk": 777088,
+  "game_date": "2025-07-19",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Kumar Rocker",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 19.565217391304348,
+        "ratio": "9/46"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      },
+      "adjusted_yrfi_pct": 25.569772256728776
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Keider Montero",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "14/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 32.49242424242424
+    }
+  },
+  "prediction": {
+    "base_prob": 30.619565217391305,
+    "final_prob": 49.753957619675006,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "19.6% (9/46)",
+        "tendency": "46.7% (7/15)",
+        "pitcher": "Keider Montero (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "29.2% (14/48)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Kumar Rocker (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Detroit Tigers @ Texas Rangers (2025-07-19)\n\n## Información del Partido\n**Detroit Tigers (Visitante) vs Texas Rangers (Local)**  \n**Lanzadores:** Keider Montero (@Detroit Tigers) vs Kumar Rocker (@Texas Rangers)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**49.8%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**25.6%** de que Texas Rangers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Texas Rangers como local: 19.6%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**32.5%** de que Detroit Tigers anote en la primera entrada\n- Basado en:\n  - Rendimiento de Detroit Tigers como visitante: 29.2%\n  - Rendimiento del lanzador local: 25.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Texas Rangers (Local):** 19.6% (9 YRFI en 46 partidos)\n- **Detroit Tigers (Visitante):** 29.2% (14 YRFI en 48 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Texas Rangers (Local):** 46.7% (7 YRFI en 15 partidos)\n- **Detroit Tigers (Visitante):** 33.3% (5 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Texas Rangers (Local):** (19.6% * 0.6) + (46.7% * 0.4) = **30.4%**\n- **Detroit Tigers (Visitante):** (29.2% * 0.6) + (33.3% * 0.4) = **30.8%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Texas Rangers (Local)**:\n  - Combinado (equipo + tendencia): 30.4%\n  - Afectado por Keider Montero (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 21.3%\n\n- **Detroit Tigers (Visitante)**:\n  - Combinado (equipo + tendencia): 30.8%\n  - Afectado por Kumar Rocker (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 21.6%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (21.3% + 21.6%) / 2 = **21.4%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Kumar Rocker (Texas Rangers - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Keider Montero (Detroit Tigers - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Texas Rangers:** 46.7% (7/15 partidos)\n- **Detroit Tigers:** 33.3% (5/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Kumar Rocker (Texas Rangers - Local):**\n  - Total: 25.0% (1/4 aperturas)\n- **Keider Montero (Detroit Tigers - Visitante):**\n  - Total: 0.0% (0/3 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Texas Rangers        | Detroit Tigers       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 19.6% (9/46) | 29.2% (14/48) | 30.6% |\n| **Ajustado** | 25.6% | 32.5% | **49.8%** |\n| **Tendencia** | 46.7% (7/15) | 33.3% (5/15) | - |\n| **Lanzador** | 25.0% (1/4) | 0.0% (0/3) | - |\n\n**Nota:** La probabilidad final del partido (49.8%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-19T10:14:12.376365",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

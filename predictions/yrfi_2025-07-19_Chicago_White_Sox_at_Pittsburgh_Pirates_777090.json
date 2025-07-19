@@ -1,0 +1,66 @@
+{
+  "game_pk": 777090,
+  "game_date": "2025-07-19",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mike Burrows",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "14/48"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      },
+      "adjusted_yrfi_pct": 19.316666666666666
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Adrian Houser",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "16/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 33.33333333333333
+    }
+  },
+  "prediction": {
+    "base_prob": 28.083333333333332,
+    "final_prob": 46.2111111111111,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "29.2% (14/48)",
+        "tendency": "13.3% (2/15)",
+        "pitcher": "Adrian Houser (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "33.3% (16/48)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Mike Burrows (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Chicago White Sox @ Pittsburgh Pirates (2025-07-19)\n\n## Información del Partido\n**Chicago White Sox (Visitante) vs Pittsburgh Pirates (Local)**  \n**Lanzadores:** Adrian Houser (@Chicago White Sox) vs Mike Burrows (@Pittsburgh Pirates)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**46.2%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**19.3%** de que Pittsburgh Pirates anote en la primera entrada\n- Basado en:\n  - Rendimiento de Pittsburgh Pirates como local: 29.2%\n  - Rendimiento del lanzador visitante: 20.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**33.3%** de que Chicago White Sox anote en la primera entrada\n- Basado en:\n  - Rendimiento de Chicago White Sox como visitante: 33.3%\n  - Rendimiento del lanzador local: 40.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Pittsburgh Pirates (Local):** 29.2% (14 YRFI en 48 partidos)\n- **Chicago White Sox (Visitante):** 33.3% (16 YRFI en 48 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Pittsburgh Pirates (Local):** 13.3% (2 YRFI en 15 partidos)\n- **Chicago White Sox (Visitante):** 33.3% (5 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Pittsburgh Pirates (Local):** (29.2% * 0.6) + (13.3% * 0.4) = **22.8%**\n- **Chicago White Sox (Visitante):** (33.3% * 0.6) + (33.3% * 0.4) = **33.3%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Pittsburgh Pirates (Local)**:\n  - Combinado (equipo + tendencia): 22.8%\n  - Afectado por Adrian Houser (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 16.0%\n\n- **Chicago White Sox (Visitante)**:\n  - Combinado (equipo + tendencia): 33.3%\n  - Afectado por Mike Burrows (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 23.3%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (16.0% + 23.3%) / 2 = **19.7%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Mike Burrows (Pittsburgh Pirates - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Adrian Houser (Chicago White Sox - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Pittsburgh Pirates:** 13.3% (2/15 partidos)\n- **Chicago White Sox:** 33.3% (5/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Mike Burrows (Pittsburgh Pirates - Local):**\n  - Total: 40.0% (2/5 aperturas)\n- **Adrian Houser (Chicago White Sox - Visitante):**\n  - Total: 20.0% (1/5 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Pittsburgh Pirates   | Chicago White Sox    | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 29.2% (14/48) | 33.3% (16/48) | 28.1% |\n| **Ajustado** | 19.3% | 33.3% | **46.2%** |\n| **Tendencia** | 13.3% (2/15) | 33.3% (5/15) | - |\n| **Lanzador** | 40.0% (2/5) | 20.0% (1/5) | - |\n\n**Nota:** La probabilidad final del partido (46.2%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-19T10:14:12.354865",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

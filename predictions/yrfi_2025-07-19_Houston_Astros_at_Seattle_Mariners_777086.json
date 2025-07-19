@@ -1,0 +1,66 @@
+{
+  "game_pk": 777086,
+  "game_date": "2025-07-20",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Evans",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 19.148936170212767,
+        "ratio": "9/47"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      },
+      "adjusted_yrfi_pct": 21.90921985815603
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Lance McCullers Jr.",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.444444444444443,
+        "ratio": "11/45"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "adjusted_yrfi_pct": 28.133333333333333
+    }
+  },
+  "prediction": {
+    "base_prob": 22.411347517730498,
+    "final_prob": 43.87875933806147,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "19.1% (9/47)",
+        "tendency": "6.7% (1/15)",
+        "pitcher": "Lance McCullers Jr. (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "24.4% (11/45)",
+        "tendency": "40.0% (6/15)",
+        "pitcher": "Logan Evans (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Houston Astros @ Seattle Mariners (2025-07-20)\n\n## Información del Partido\n**Houston Astros (Visitante) vs Seattle Mariners (Local)**  \n**Lanzadores:** Lance McCullers Jr. (@Houston Astros) vs Logan Evans (@Seattle Mariners)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**43.9%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**21.9%** de que Seattle Mariners anote en la primera entrada\n- Basado en:\n  - Rendimiento de Seattle Mariners como local: 19.1%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**28.1%** de que Houston Astros anote en la primera entrada\n- Basado en:\n  - Rendimiento de Houston Astros como visitante: 24.4%\n  - Rendimiento del lanzador local: 25.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Seattle Mariners (Local):** 19.1% (9 YRFI en 47 partidos)\n- **Houston Astros (Visitante):** 24.4% (11 YRFI en 45 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Seattle Mariners (Local):** 6.7% (1 YRFI en 15 partidos)\n- **Houston Astros (Visitante):** 40.0% (6 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Seattle Mariners (Local):** (19.1% * 0.6) + (6.7% * 0.4) = **14.2%**\n- **Houston Astros (Visitante):** (24.4% * 0.6) + (40.0% * 0.4) = **30.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Seattle Mariners (Local)**:\n  - Combinado (equipo + tendencia): 14.2%\n  - Afectado por Lance McCullers Jr. (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 9.9%\n\n- **Houston Astros (Visitante)**:\n  - Combinado (equipo + tendencia): 30.7%\n  - Afectado por Logan Evans (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 21.5%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (9.9% + 21.5%) / 2 = **15.7%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Logan Evans (Seattle Mariners - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Lance McCullers Jr. (Houston Astros - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Seattle Mariners:** 6.7% (1/15 partidos)\n- **Houston Astros:** 40.0% (6/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Logan Evans (Seattle Mariners - Local):**\n  - Total: 25.0% (1/4 aperturas)\n- **Lance McCullers Jr. (Houston Astros - Visitante):**\n  - Total: 0.0% (0/4 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Seattle Mariners     | Houston Astros       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 19.1% (9/47) | 24.4% (11/45) | 22.4% |\n| **Ajustado** | 21.9% | 28.1% | **43.9%** |\n| **Tendencia** | 6.7% (1/15) | 40.0% (6/15) | - |\n| **Lanzador** | 25.0% (1/4) | 0.0% (0/4) | - |\n\n**Nota:** La probabilidad final del partido (43.9%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-19T10:14:12.432650",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}

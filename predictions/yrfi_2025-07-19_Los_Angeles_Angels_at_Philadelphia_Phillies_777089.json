@@ -1,0 +1,66 @@
+{
+  "game_pk": 777089,
+  "game_date": "2025-07-19",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Taijuan Walker",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.42553191489361,
+        "ratio": "19/47"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "adjusted_yrfi_pct": 33.078723404255314
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 44.0,
+        "ratio": "22/50"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      },
+      "adjusted_yrfi_pct": 40.08
+    }
+  },
+  "prediction": {
+    "base_prob": 39.99432624113475,
+    "final_prob": 59.90077106382978,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "40.4% (19/47)",
+        "tendency": "20.0% (3/15)",
+        "pitcher": "Yusei Kikuchi (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "44.0% (22/50)",
+        "tendency": "53.3% (8/15)",
+        "pitcher": "Taijuan Walker (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Los Angeles Angels @ Philadelphia Phillies (2025-07-19)\n\n## Información del Partido\n**Los Angeles Angels (Visitante) vs Philadelphia Phillies (Local)**  \n**Lanzadores:** Yusei Kikuchi (@Los Angeles Angels) vs Taijuan Walker (@Philadelphia Phillies)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**59.9%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**33.1%** de que Philadelphia Phillies anote en la primera entrada\n- Basado en:\n  - Rendimiento de Philadelphia Phillies como local: 40.4%\n  - Rendimiento del lanzador visitante: 30.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**40.1%** de que Los Angeles Angels anote en la primera entrada\n- Basado en:\n  - Rendimiento de Los Angeles Angels como visitante: 44.0%\n  - Rendimiento del lanzador local: 20.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Philadelphia Phillies (Local):** 40.4% (19 YRFI en 47 partidos)\n- **Los Angeles Angels (Visitante):** 44.0% (22 YRFI en 50 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Philadelphia Phillies (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Los Angeles Angels (Visitante):** 53.3% (8 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Philadelphia Phillies (Local):** (40.4% * 0.6) + (20.0% * 0.4) = **32.3%**\n- **Los Angeles Angels (Visitante):** (44.0% * 0.6) + (53.3% * 0.4) = **47.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Philadelphia Phillies (Local)**:\n  - Combinado (equipo + tendencia): 32.3%\n  - Afectado por Yusei Kikuchi (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 22.6%\n\n- **Los Angeles Angels (Visitante)**:\n  - Combinado (equipo + tendencia): 47.7%\n  - Afectado por Taijuan Walker (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 33.4%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (22.6% + 33.4%) / 2 = **28.0%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Taijuan Walker (Philadelphia Phillies - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Yusei Kikuchi (Los Angeles Angels - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Philadelphia Phillies:** 20.0% (3/15 partidos)\n- **Los Angeles Angels:** 53.3% (8/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Taijuan Walker (Philadelphia Phillies - Local):**\n  - Total: 20.0% (1/5 aperturas)\n- **Yusei Kikuchi (Los Angeles Angels - Visitante):**\n  - Total: 30.0% (3/10 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Philadelphia Phillie | Los Angeles Angels   | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 40.4% (19/47) | 44.0% (22/50) | 40.0% |\n| **Ajustado** | 33.1% | 40.1% | **59.9%** |\n| **Tendencia** | 20.0% (3/15) | 53.3% (8/15) | - |\n| **Lanzador** | 20.0% (1/5) | 30.0% (3/10) | - |\n\n**Nota:** La probabilidad final del partido (59.9%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-19T10:14:12.348151",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
