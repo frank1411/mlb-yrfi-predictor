@@ -1,0 +1,66 @@
+{
+  "game_pk": 777059,
+  "game_date": "2025-07-21",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 32.142857142857146,
+        "ratio": "18/56"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      },
+      "adjusted_yrfi_pct": 35.96666666666667
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 34.0,
+        "ratio": "17/50"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "adjusted_yrfi_pct": 25.192280701754385
+    }
+  },
+  "prediction": {
+    "base_prob": 31.842857142857145,
+    "final_prob": 52.09812374269006,
+    "calculation": {
+      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
+      "home_team": {
+        "base": "32.1% (18/56)",
+        "tendency": "26.7% (4/15)",
+        "pitcher": "Sean Burke (0.0% YRFI permitido - 0/1)"
+      },
+      "away_team": {
+        "base": "34.0% (17/50)",
+        "tendency": "33.3% (5/15)",
+        "pitcher": "Shane Baz (0.0% YRFI permitido - 0/1)"
+      }
+    },
+    "text": "# Análisis YRFI - Chicago White Sox @ Tampa Bay Rays (2025-07-21)\n\n## Información del Partido\n**Chicago White Sox (Visitante) vs Tampa Bay Rays (Local)**  \n**Lanzadores:** Sean Burke (@Chicago White Sox) vs Shane Baz (@Tampa Bay Rays)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**52.1%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**36.0%** de que Tampa Bay Rays anote en la primera entrada\n- Basado en:\n  - Rendimiento de Tampa Bay Rays como local: 32.1%\n  - Rendimiento del lanzador visitante: 60.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**25.2%** de que Chicago White Sox anote en la primera entrada\n- Basado en:\n  - Rendimiento de Chicago White Sox como visitante: 34.0%\n  - Rendimiento del lanzador local: 10.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Tampa Bay Rays (Local):** 32.1% (18 YRFI en 56 partidos)\n- **Chicago White Sox (Visitante):** 34.0% (17 YRFI en 50 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Tampa Bay Rays (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Chicago White Sox (Visitante):** 33.3% (5 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Tampa Bay Rays (Local):** (32.1% * 0.6) + (26.7% * 0.4) = **30.0%**\n- **Chicago White Sox (Visitante):** (34.0% * 0.6) + (33.3% * 0.4) = **33.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Tampa Bay Rays (Local)**:\n  - Combinado (equipo + tendencia): 30.0%\n  - Afectado por Sean Burke (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 21.0%\n\n- **Chicago White Sox (Visitante)**:\n  - Combinado (equipo + tendencia): 33.7%\n  - Afectado por Shane Baz (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 23.6%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (21.0% + 23.6%) / 2 = **22.3%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Shane Baz (Tampa Bay Rays - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Sean Burke (Chicago White Sox - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Tampa Bay Rays:** 26.7% (4/15 partidos)\n- **Chicago White Sox:** 33.3% (5/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Shane Baz (Tampa Bay Rays - Local):**\n  - Total: 10.0% (1/10 aperturas)\n- **Sean Burke (Chicago White Sox - Visitante):**\n  - Total: 60.0% (3/5 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Tampa Bay Rays       | Chicago White Sox    | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 32.1% (18/56) | 34.0% (17/50) | 31.8% |\n| **Ajustado** | 36.0% | 25.2% | **52.1%** |\n| **Tendencia** | 26.7% (4/15) | 33.3% (5/15) | - |\n| **Lanzador** | 10.0% (1/10) | 60.0% (3/5) | - |\n\n**Nota:** La probabilidad final del partido (52.1%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+  },
+  "metadata": {
+    "generated_at": "2025-07-21T10:17:02.867897",
+    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+  }
+}
