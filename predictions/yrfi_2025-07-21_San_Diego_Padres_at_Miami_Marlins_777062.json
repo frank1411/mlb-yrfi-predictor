@@ -1,0 +1,67 @@
+{
+  "game_pk": 777062,
+  "game_date": "2025-07-21",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 26.0,
+        "ratio": "13/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 23.33,
+    "pitcher": {
+      "name": "Randy Vásquez",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "15/50"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.0,
+        "tendency": 26.666666666666668,
+        "combined": 26.27,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 28.39
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 13.333333333333334,
+        "combined": 23.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.33
+      },
+      "game_yrfi_probability": 50.83
+    },
+    "yrfi_probability": 50.83
+  },
+  "metadata": {
+    "generated_at": "2025-07-21T13:13:28.930421",
+    "data_source": "season_data.json"
+  }
+}

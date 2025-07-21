@@ -1,0 +1,67 @@
+{
+  "game_pk": 777064,
+  "game_date": "2025-07-21",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "6/9"
+    },
+    "stats": {
+      "base": {
+        "value": 32.6530612244898,
+        "ratio": "16/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 30.4,
+    "pitcher": {
+      "name": "Brady Singer",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "12/50"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.6530612244898,
+        "tendency": 20.0,
+        "combined": 27.59,
+        "pitcher_impact": 44.44444444444444,
+        "adjusted": 32.65
+      },
+      "away_team": {
+        "base": 24.0,
+        "tendency": 40.0,
+        "combined": 30.4,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 41.28
+      },
+      "game_yrfi_probability": 60.45
+    },
+    "yrfi_probability": 60.45
+  },
+  "metadata": {
+    "generated_at": "2025-07-21T13:13:28.937797",
+    "data_source": "season_data.json"
+  }
+}

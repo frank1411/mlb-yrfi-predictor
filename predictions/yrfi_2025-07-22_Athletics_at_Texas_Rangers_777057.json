@@ -1,0 +1,67 @@
+{
+  "game_pk": 777057,
+  "game_date": "2025-07-22",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 18.75,
+        "ratio": "9/48"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 28.93,
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 26.0,
+        "ratio": "13/50"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.75,
+        "tendency": 46.666666666666664,
+        "combined": 29.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.94
+      },
+      "away_team": {
+        "base": 26.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.93,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 28.82
+      },
+      "game_yrfi_probability": 43.73
+    },
+    "yrfi_probability": 43.73
+  },
+  "metadata": {
+    "generated_at": "2025-07-21T13:13:28.989317",
+    "data_source": "season_data.json"
+  }
+}

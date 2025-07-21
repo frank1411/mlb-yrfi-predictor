@@ -1,0 +1,67 @@
+{
+  "game_pk": 777068,
+  "game_date": "2025-07-21",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Tanner Bibee",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 23.91304347826087,
+        "ratio": "11/46"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 24.47,
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
+    },
+    "stats": {
+      "base": {
+        "value": 27.450980392156865,
+        "ratio": "14/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.91304347826087,
+        "tendency": 33.33333333333333,
+        "combined": 27.68,
+        "pitcher_impact": 44.44444444444444,
+        "adjusted": 32.71
+      },
+      "away_team": {
+        "base": 27.450980392156865,
+        "tendency": 20.0,
+        "combined": 24.47,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 21.42
+      },
+      "game_yrfi_probability": 47.12
+    },
+    "yrfi_probability": 47.12
+  },
+  "metadata": {
+    "generated_at": "2025-07-21T13:13:28.915031",
+    "data_source": "season_data.json"
+  }
+}
