@@ -6,7 +6,7 @@
     "name": "Atlanta Braves",
     "pitcher": {
       "name": "Bryce Elder",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 75.0,
       "yrfi_ratio": "6/8"
     },
     "stats": {
@@ -17,16 +17,16 @@
       "tendency": {
         "value": 33.33333333333333,
         "ratio": "5/15"
-      },
-      "adjusted_yrfi_pct": 25.52380952380952
+      }
     }
   },
   "away_team": {
     "id": "137",
     "name": "San Francisco Giants",
+    "combined_yrfi_pct": 31.79,
     "pitcher": {
       "name": "Hayden Birdsong",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/5"
     },
     "stats": {
@@ -37,30 +37,31 @@
       "tendency": {
         "value": 33.33333333333333,
         "ratio": "5/15"
-      },
-      "adjusted_yrfi_pct": 36.25641025641025
+      }
     }
   },
   "prediction": {
-    "base_prob": 31.747776033490315,
-    "final_prob": 52.52620268620267,
     "calculation": {
-      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
       "home_team": {
-        "base": "30.6% (15/49)",
-        "tendency": "33.3% (5/15)",
-        "pitcher": "Hayden Birdsong (0.0% YRFI permitido - 0/1)"
+        "base": 30.612244897959183,
+        "tendency": 33.33333333333333,
+        "combined": 31.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.19
       },
       "away_team": {
-        "base": "30.8% (16/52)",
-        "tendency": "33.3% (5/15)",
-        "pitcher": "Bryce Elder (0.0% YRFI permitido - 0/1)"
-      }
+        "base": 30.76923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 31.79,
+        "pitcher_impact": 75.0,
+        "adjusted": 44.76
+      },
+      "game_yrfi_probability": 57.02
     },
-    "text": "# Análisis YRFI - San Francisco Giants @ Atlanta Braves (2025-07-21)\n\n## Información del Partido\n**San Francisco Giants (Visitante) vs Atlanta Braves (Local)**  \n**Lanzadores:** Hayden Birdsong (@San Francisco Giants) vs Bryce Elder (@Atlanta Braves)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**52.5%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**25.5%** de que Atlanta Braves anote en la primera entrada\n- Basado en:\n  - Rendimiento de Atlanta Braves como local: 30.6%\n  - Rendimiento del lanzador visitante: 0.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**36.3%** de que San Francisco Giants anote en la primera entrada\n- Basado en:\n  - Rendimiento de San Francisco Giants como visitante: 30.8%\n  - Rendimiento del lanzador local: 75.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Atlanta Braves (Local):** 30.6% (15 YRFI en 49 partidos)\n- **San Francisco Giants (Visitante):** 30.8% (16 YRFI en 52 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Atlanta Braves (Local):** 33.3% (5 YRFI en 15 partidos)\n- **San Francisco Giants (Visitante):** 33.3% (5 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Atlanta Braves (Local):** (30.6% * 0.6) + (33.3% * 0.4) = **31.7%**\n- **San Francisco Giants (Visitante):** (30.8% * 0.6) + (33.3% * 0.4) = **31.8%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Atlanta Braves (Local)**:\n  - Combinado (equipo + tendencia): 31.7%\n  - Afectado por Hayden Birdsong (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 22.2%\n\n- **San Francisco Giants (Visitante)**:\n  - Combinado (equipo + tendencia): 31.8%\n  - Afectado por Bryce Elder (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 22.3%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (22.2% + 22.3%) / 2 = **22.2%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Bryce Elder (Atlanta Braves - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Hayden Birdsong (San Francisco Giants - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Atlanta Braves:** 33.3% (5/15 partidos)\n- **San Francisco Giants:** 33.3% (5/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Bryce Elder (Atlanta Braves - Local):**\n  - Total: 75.0% (6/8 aperturas)\n- **Hayden Birdsong (San Francisco Giants - Visitante):**\n  - Total: 0.0% (0/5 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Atlanta Braves       | San Francisco Giants | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 30.6% (15/49) | 30.8% (16/52) | 31.7% |\n| **Ajustado** | 25.5% | 36.3% | **52.5%** |\n| **Tendencia** | 33.3% (5/15) | 33.3% (5/15) | - |\n| **Lanzador** | 75.0% (6/8) | 0.0% (0/5) | - |\n\n**Nota:** La probabilidad final del partido (52.5%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+    "yrfi_probability": 57.02
   },
   "metadata": {
-    "generated_at": "2025-07-21T10:17:02.860966",
-    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+    "generated_at": "2025-07-21T13:13:28.967374",
+    "data_source": "season_data.json"
   }
 }

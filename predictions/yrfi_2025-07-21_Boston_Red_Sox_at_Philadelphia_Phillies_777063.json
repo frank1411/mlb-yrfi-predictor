@@ -6,7 +6,7 @@
     "name": "Philadelphia Phillies",
     "pitcher": {
       "name": "Zack Wheeler",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 10.0,
       "yrfi_ratio": "1/10"
     },
     "stats": {
@@ -17,16 +17,16 @@
       "tendency": {
         "value": 26.666666666666668,
         "ratio": "4/15"
-      },
-      "adjusted_yrfi_pct": 35.85952380952381
+      }
     }
   },
   "away_team": {
     "id": "111",
     "name": "Boston Red Sox",
+    "combined_yrfi_pct": 25.14,
     "pitcher": {
       "name": "Walker Buehler",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 50.0,
       "yrfi_ratio": "4/8"
     },
     "stats": {
@@ -37,30 +37,31 @@
       "tendency": {
         "value": 20.0,
         "ratio": "3/15"
-      },
-      "adjusted_yrfi_pct": 20.757894736842104
+      }
     }
   },
   "prediction": {
-    "base_prob": 30.149659863945576,
-    "final_prob": 49.17373634085212,
     "calculation": {
-      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
       "home_team": {
-        "base": "40.8% (20/49)",
-        "tendency": "26.7% (4/15)",
-        "pitcher": "Walker Buehler (0.0% YRFI permitido - 0/1)"
+        "base": 40.816326530612244,
+        "tendency": 26.666666666666668,
+        "combined": 35.16,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.61
       },
       "away_team": {
-        "base": "28.6% (14/49)",
-        "tendency": "20.0% (3/15)",
-        "pitcher": "Zack Wheeler (0.0% YRFI permitido - 0/1)"
-      }
+        "base": 28.57142857142857,
+        "tendency": 20.0,
+        "combined": 25.14,
+        "pitcher_impact": 10.0,
+        "adjusted": 20.6
+      },
+      "game_yrfi_probability": 52.05
     },
-    "text": "# Análisis YRFI - Boston Red Sox @ Philadelphia Phillies (2025-07-21)\n\n## Información del Partido\n**Boston Red Sox (Visitante) vs Philadelphia Phillies (Local)**  \n**Lanzadores:** Walker Buehler (@Boston Red Sox) vs Zack Wheeler (@Philadelphia Phillies)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**49.2%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**35.9%** de que Philadelphia Phillies anote en la primera entrada\n- Basado en:\n  - Rendimiento de Philadelphia Phillies como local: 40.8%\n  - Rendimiento del lanzador visitante: 50.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**20.8%** de que Boston Red Sox anote en la primera entrada\n- Basado en:\n  - Rendimiento de Boston Red Sox como visitante: 28.6%\n  - Rendimiento del lanzador local: 10.0% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Philadelphia Phillies (Local):** 40.8% (20 YRFI en 49 partidos)\n- **Boston Red Sox (Visitante):** 28.6% (14 YRFI en 49 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Philadelphia Phillies (Local):** 26.7% (4 YRFI en 15 partidos)\n- **Boston Red Sox (Visitante):** 20.0% (3 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Philadelphia Phillies (Local):** (40.8% * 0.6) + (26.7% * 0.4) = **35.2%**\n- **Boston Red Sox (Visitante):** (28.6% * 0.6) + (20.0% * 0.4) = **25.1%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Philadelphia Phillies (Local)**:\n  - Combinado (equipo + tendencia): 35.2%\n  - Afectado por Walker Buehler (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 24.6%\n\n- **Boston Red Sox (Visitante)**:\n  - Combinado (equipo + tendencia): 25.1%\n  - Afectado por Zack Wheeler (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 17.6%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (24.6% + 17.6%) / 2 = **21.1%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Zack Wheeler (Philadelphia Phillies - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Walker Buehler (Boston Red Sox - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Philadelphia Phillies:** 26.7% (4/15 partidos)\n- **Boston Red Sox:** 20.0% (3/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Zack Wheeler (Philadelphia Phillies - Local):**\n  - Total: 10.0% (1/10 aperturas)\n- **Walker Buehler (Boston Red Sox - Visitante):**\n  - Total: 50.0% (4/8 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Philadelphia Phillie | Boston Red Sox       | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 40.8% (20/49) | 28.6% (14/49) | 30.1% |\n| **Ajustado** | 35.9% | 20.8% | **49.2%** |\n| **Tendencia** | 26.7% (4/15) | 20.0% (3/15) | - |\n| **Lanzador** | 10.0% (1/10) | 50.0% (4/8) | - |\n\n**Nota:** La probabilidad final del partido (49.2%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+    "yrfi_probability": 52.05
   },
   "metadata": {
-    "generated_at": "2025-07-21T10:17:02.838498",
-    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+    "generated_at": "2025-07-21T13:13:28.945115",
+    "data_source": "season_data.json"
   }
 }

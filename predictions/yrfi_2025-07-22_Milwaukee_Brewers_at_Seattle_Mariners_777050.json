@@ -1,0 +1,67 @@
+{
+  "game_pk": 777050,
+  "game_date": "2025-07-22",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 18.367346938775512,
+        "ratio": "9/49"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 24.93,
+    "pitcher": {
+      "name": "Brandon Woodruff",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.6530612244898,
+        "ratio": "16/49"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.367346938775512,
+        "tendency": 6.666666666666667,
+        "combined": 13.69,
+        "pitcher_impact": 0.0,
+        "adjusted": 9.58
+      },
+      "away_team": {
+        "base": 32.6530612244898,
+        "tendency": 13.333333333333334,
+        "combined": 24.93,
+        "pitcher_impact": 20.0,
+        "adjusted": 23.45
+      },
+      "game_yrfi_probability": 30.78
+    },
+    "yrfi_probability": 30.78
+  },
+  "metadata": {
+    "generated_at": "2025-07-21T13:13:29.010836",
+    "data_source": "season_data.json"
+  }
+}

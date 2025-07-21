@@ -6,7 +6,7 @@
     "name": "Washington Nationals",
     "pitcher": {
       "name": "Jake Irvin",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 66.66666666666666,
       "yrfi_ratio": "6/9"
     },
     "stats": {
@@ -17,16 +17,16 @@
       "tendency": {
         "value": 20.0,
         "ratio": "3/15"
-      },
-      "adjusted_yrfi_pct": 27.209022556390977
+      }
     }
   },
   "away_team": {
     "id": "113",
     "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 30.4,
     "pitcher": {
       "name": "Brady Singer",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 44.44444444444444,
       "yrfi_ratio": "4/9"
     },
     "stats": {
@@ -37,30 +37,31 @@
       "tendency": {
         "value": 40.0,
         "ratio": "6/15"
-      },
-      "adjusted_yrfi_pct": 34.78
+      }
     }
   },
   "prediction": {
-    "base_prob": 28.99591836734694,
-    "final_prob": 52.52572451127819,
     "calculation": {
-      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
       "home_team": {
-        "base": "32.7% (16/49)",
-        "tendency": "20.0% (3/15)",
-        "pitcher": "Brady Singer (0.0% YRFI permitido - 0/1)"
+        "base": 32.6530612244898,
+        "tendency": 20.0,
+        "combined": 27.59,
+        "pitcher_impact": 44.44444444444444,
+        "adjusted": 32.65
       },
       "away_team": {
-        "base": "24.0% (12/50)",
-        "tendency": "40.0% (6/15)",
-        "pitcher": "Jake Irvin (0.0% YRFI permitido - 0/1)"
-      }
+        "base": 24.0,
+        "tendency": 40.0,
+        "combined": 30.4,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 41.28
+      },
+      "game_yrfi_probability": 60.45
     },
-    "text": "# Análisis YRFI - Cincinnati Reds @ Washington Nationals (2025-07-21)\n\n## Información del Partido\n**Cincinnati Reds (Visitante) vs Washington Nationals (Local)**  \n**Lanzadores:** Brady Singer (@Cincinnati Reds) vs Jake Irvin (@Washington Nationals)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**52.5%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**27.2%** de que Washington Nationals anote en la primera entrada\n- Basado en:\n  - Rendimiento de Washington Nationals como local: 32.7%\n  - Rendimiento del lanzador visitante: 44.4% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**34.8%** de que Cincinnati Reds anote en la primera entrada\n- Basado en:\n  - Rendimiento de Cincinnati Reds como visitante: 24.0%\n  - Rendimiento del lanzador local: 66.7% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Washington Nationals (Local):** 32.7% (16 YRFI en 49 partidos)\n- **Cincinnati Reds (Visitante):** 24.0% (12 YRFI en 50 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Washington Nationals (Local):** 20.0% (3 YRFI en 15 partidos)\n- **Cincinnati Reds (Visitante):** 40.0% (6 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Washington Nationals (Local):** (32.7% * 0.6) + (20.0% * 0.4) = **27.6%**\n- **Cincinnati Reds (Visitante):** (24.0% * 0.6) + (40.0% * 0.4) = **30.4%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Washington Nationals (Local)**:\n  - Combinado (equipo + tendencia): 27.6%\n  - Afectado por Brady Singer (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 19.3%\n\n- **Cincinnati Reds (Visitante)**:\n  - Combinado (equipo + tendencia): 30.4%\n  - Afectado por Jake Irvin (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 21.3%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (19.3% + 21.3%) / 2 = **20.3%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Jake Irvin (Washington Nationals - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Brady Singer (Cincinnati Reds - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Washington Nationals:** 20.0% (3/15 partidos)\n- **Cincinnati Reds:** 40.0% (6/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Jake Irvin (Washington Nationals - Local):**\n  - Total: 66.7% (6/9 aperturas)\n- **Brady Singer (Cincinnati Reds - Visitante):**\n  - Total: 44.4% (4/9 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Washington Nationals | Cincinnati Reds      | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 32.7% (16/49) | 24.0% (12/50) | 29.0% |\n| **Ajustado** | 27.2% | 34.8% | **52.5%** |\n| **Tendencia** | 20.0% (3/15) | 40.0% (6/15) | - |\n| **Lanzador** | 66.7% (6/9) | 44.4% (4/9) | - |\n\n**Nota:** La probabilidad final del partido (52.5%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+    "yrfi_probability": 60.45
   },
   "metadata": {
-    "generated_at": "2025-07-21T10:17:02.831405",
-    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+    "generated_at": "2025-07-21T13:13:28.937797",
+    "data_source": "season_data.json"
   }
 }

@@ -4,6 +4,7 @@ Script para generar pronósticos YRFI para todos los partidos de la próxima jor
 """
 import sys
 import json
+import re
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional, Any
@@ -138,12 +139,13 @@ def get_next_day_games() -> List[Dict[str, Any]]:
         print(f"Error al obtener partidos: {e}")
         return []
 
-def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+def generate_predictions_for_games(games: List[Dict[str, Any]], season_data: Dict) -> List[Dict[str, Any]]:
     """
     Genera predicciones para una lista de partidos.
     
     Args:
         games: Lista de diccionarios con información de los partidos
+        season_data: Diccionario con los datos de la temporada
         
     Returns:
         Lista de predicciones generadas
@@ -168,11 +170,6 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
     
     # Mensaje de depuración
     print("\n🔍 DEPURACIÓN: Partidos obtenidos listos para procesar")
-    
-    # Cargar datos de la temporada
-    data_dir = Path(__file__).parent.parent / 'data'
-    data_file = data_dir / 'season_data.json'
-    season_data = load_season_data(data_file)
     
     predictions = []
     print("\n🔄 Iniciando procesamiento de partidos...")
@@ -284,8 +281,8 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
                     'name': home_team_name,
                     'pitcher': {
                         'name': home_pitcher.get('name', 'Por definir'),
-                        'yrfi_allowed': home_pitcher_stats.get('yrfi_allowed', 0) if home_pitcher_stats else 0,
-                        'yrfi_ratio': f"{home_pitcher_stats.get('home_yrfi', 0)}/{home_pitcher_stats.get('home_games', 1)}" if home_pitcher_stats else '0/1'
+                        'yrfi_allowed': home_pitcher_stats.get('home_yrfi_pct', home_pitcher_stats.get('yrfi_pct', 0)) if home_pitcher_stats else 0,
+                        'yrfi_ratio': f"{home_pitcher_stats.get('home_yrfi', 0)}/{home_pitcher_stats.get('home_games', 1)}" if home_pitcher_stats and home_pitcher_stats.get('home_games', 0) > 0 else f"{home_pitcher_stats.get('yrfi_games', 0)}/{home_pitcher_stats.get('total_games', 1)}" if home_pitcher_stats else '0/1'
                     },
                     'stats': {
                         'base': {
@@ -296,17 +293,21 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
                             'value': (game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 
                                     if game_data['home_team'].get('last_15_games', 0) > 0 else 0,
                             'ratio': f"{game_data['home_team'].get('last_15_yrfi', 0)}/{game_data['home_team'].get('last_15_games', 1)}"
-                        },
-                        'adjusted_yrfi_pct': game_data['home_team'].get('adjusted_yrfi_pct', 0)
+                        }
                     }
                 },
                 'away_team': {
                     'id': away_team_id,
                     'name': away_team_name,
+                    # Mostrar el valor de adjusted_yrfi_pct para depuración
+                    'combined_yrfi_pct': round((game_data['away_team']['yrfi_pct'] * 0.6) + 
+                        (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 
+                        if game_data['away_team'].get('last_15_games', 0) > 0 
+                        else game_data['away_team']['yrfi_pct']) * 0.4), 2),
                     'pitcher': {
                         'name': away_pitcher.get('name', 'Por definir'),
-                        'yrfi_allowed': away_pitcher_stats.get('yrfi_allowed', 0) if away_pitcher_stats else 0,
-                        'yrfi_ratio': f"{away_pitcher_stats.get('away_yrfi', 0)}/{away_pitcher_stats.get('away_games', 1)}" if away_pitcher_stats else '0/1'
+                        'yrfi_allowed': away_pitcher_stats.get('away_yrfi_pct', away_pitcher_stats.get('yrfi_pct', 0)) if away_pitcher_stats else 0,
+                        'yrfi_ratio': f"{away_pitcher_stats.get('away_yrfi', 0)}/{away_pitcher_stats.get('away_games', 1)}" if away_pitcher_stats and away_pitcher_stats.get('away_games', 0) > 0 else f"{away_pitcher_stats.get('yrfi_games', 0)}/{away_pitcher_stats.get('total_games', 1)}" if away_pitcher_stats else '0/1'
                     },
                     'stats': {
                         'base': {
@@ -317,40 +318,68 @@ def generate_predictions_for_games(games: List[Dict[str, Any]]) -> List[Dict[str
                             'value': (game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 
                                     if game_data['away_team'].get('last_15_games', 0) > 0 else 0,
                             'ratio': f"{game_data['away_team'].get('last_15_yrfi', 0)}/{game_data['away_team'].get('last_15_games', 1)}"
-                        },
-                        'adjusted_yrfi_pct': game_data['away_team'].get('adjusted_yrfi_pct', 0)
+                        }
                     }
                 },
                 'prediction': {
-                    'base_prob': game_data['base_prob'] * 100,  # Convertir a porcentaje
-                    'final_prob': game_data['final_prob'] * 100,  # Convertir a porcentaje
                     'calculation': {
-                        'formula': '((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)',
                         'home_team': {
-                            'base': f"{game_data['home_team']['yrfi_pct']:.1f}% ({game_data['home_team'].get('yrfi', 0)}/{game_data['home_team'].get('games', 1)})",
-                            'tendency': f"{(game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 if game_data['home_team'].get('last_15_games', 0) > 0 else 0:.1f}% ({game_data['home_team'].get('last_15_yrfi', 0)}/{game_data['home_team'].get('last_15_games', 1)})",
-                            'pitcher': f"{away_pitcher.get('name', 'Por definir')} ({away_pitcher.get('away_yrfi_pct', 0):.1f}% YRFI permitido - {away_pitcher.get('away_yrfi', 0)}/{away_pitcher.get('away_games', 1)})"
+                            'base': game_data['home_team']['yrfi_pct'],
+                            'tendency': (game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 if game_data['home_team'].get('last_15_games', 0) > 0 else 0,
+                            'combined': (game_data['home_team']['yrfi_pct'] * 0.6) + (((game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 if game_data['home_team'].get('last_15_games', 0) > 0 else game_data['home_team']['yrfi_pct']) * 0.4),
+                            'pitcher_impact': away_pitcher_stats.get('away_yrfi_pct', away_pitcher_stats.get('yrfi_pct', 0)) if away_pitcher_stats else 0,
+                            'combined': round((game_data['home_team']['yrfi_pct'] * 0.6) + 
+                                (((game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 
+                                if game_data['home_team'].get('last_15_games', 0) > 0 
+                                else game_data['home_team']['yrfi_pct']) * 0.4), 2),
+                            'adjusted': round((((game_data['home_team']['yrfi_pct'] * 0.6) + 
+                                (((game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 
+                                if game_data['home_team'].get('last_15_games', 0) > 0 
+                                else game_data['home_team']['yrfi_pct']) * 0.4)) * 0.7) + 
+                                (away_pitcher_stats.get('away_yrfi_pct', away_pitcher_stats.get('yrfi_pct', 0)) * 0.3) 
+                                if away_pitcher_stats else 0, 2)
                         },
                         'away_team': {
-                            'base': f"{game_data['away_team']['yrfi_pct']:.1f}% ({game_data['away_team'].get('yrfi', 0)}/{game_data['away_team'].get('games', 1)})",
-                            'tendency': f"{(game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 if game_data['away_team'].get('last_15_games', 0) > 0 else 0:.1f}% ({game_data['away_team'].get('last_15_yrfi', 0)}/{game_data['away_team'].get('last_15_games', 1)})",
-                            'pitcher': f"{home_pitcher.get('name', 'Por definir')} ({home_pitcher.get('home_yrfi_pct', 0):.1f}% YRFI permitido - {home_pitcher.get('home_yrfi', 0)}/{home_pitcher.get('home_games', 1)})"
-                        }
+                            'base': game_data['away_team']['yrfi_pct'],
+                            'tendency': (game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 if game_data['away_team'].get('last_15_games', 0) > 0 else 0,
+                            'combined': (game_data['away_team']['yrfi_pct'] * 0.6) + (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 if game_data['away_team'].get('last_15_games', 0) > 0 else game_data['away_team']['yrfi_pct']) * 0.4),
+                            'pitcher_impact': home_pitcher_stats.get('home_yrfi_pct', home_pitcher_stats.get('yrfi_pct', 0)) if home_pitcher_stats else 0,
+                            'combined': round((game_data['away_team']['yrfi_pct'] * 0.6) + 
+                                (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 
+                                if game_data['away_team'].get('last_15_games', 0) > 0 
+                                else game_data['away_team']['yrfi_pct']) * 0.4), 2),
+                            'adjusted': round((((game_data['away_team']['yrfi_pct'] * 0.6) + 
+                                (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 
+                                if game_data['away_team'].get('last_15_games', 0) > 0 
+                                else game_data['away_team']['yrfi_pct']) * 0.4)) * 0.7) + 
+                                (home_pitcher_stats.get('home_yrfi_pct', home_pitcher_stats.get('yrfi_pct', 0)) * 0.3) 
+                                if home_pitcher_stats else 0, 2)
+                        },
+                        'game_yrfi_probability': None  # Se calculará después
                     },
-                    'text': prediction_text  # Mantener el texto original para compatibilidad
+                    'yrfi_probability': None
                 },
                 'metadata': {
                     'generated_at': datetime.now().isoformat(),
-                    'data_source': str(data_file)
+                    'data_source': 'season_data.json'
                 }
             }
+            
+            # Calcular la probabilidad YRFI del partido
+            home_adjusted = prediction['prediction']['calculation']['home_team']['adjusted']
+            away_adjusted = prediction['prediction']['calculation']['away_team']['adjusted']
+            yrfi_prob = round((1 - ((1 - home_adjusted / 100) * (1 - away_adjusted / 100))) * 100, 2)
+            
+            # Actualizar los campos de probabilidad
+            prediction['prediction']['calculation']['game_yrfi_probability'] = yrfi_prob
+            prediction['prediction']['yrfi_probability'] = yrfi_prob
             
             predictions.append(prediction)
             
             # Guardar predicción
             save_prediction(prediction)
             
-            print(f"✅ Generado pronóstico para {away_team_name} @ {home_team_name} - Probabilidad YRFI: {game_data['final_prob']*100:.1f}%")
+            print(f"✅ Generado pronóstico para {away_team_name} @ {home_team_name} - Probabilidad YRFI: {yrfi_prob}%")
             
         except Exception as e:
             print(f"❌ Error al generar predicción para {game.get('away_team', {}).get('name', 'Desconocido')} @ {game.get('home_team', {}).get('name', 'Desconocido')}: {str(e)}")
@@ -456,177 +485,64 @@ def extract_team_details(prediction: dict, team_type: str) -> dict:
     team = prediction[team_type]
     rival_type = 'away_team' if team_type == 'home_team' else 'home_team'
     rival = prediction[rival_type]
-    pred_text = prediction['prediction']['text']
     
-    # Inicializar valores por defecto
+    # Obtener los valores directamente de los campos estructurados
     base_pct = team.get('yrfi_pct', 0)
-    tendencia_pct = 0
-    lanzador_pct = 0
-    combinado_calc = 0
-    ajuste_calc = 0
-    final_pct = 0
+    base_ratio = f"{team.get('yrfi_count', 0)}/{team.get('games_played', 1)}"
     
-    # Extraer datos del texto usando patrones específicos
-    import re
+    # Calcular tendencia (últimos 15 partidos)
+    tendencia_yrfi = team.get('last_15_yrfi', 0)
+    tendencia_total = min(15, team.get('games_played', 0))  # No más que el total de partidos
+    tendencia_pct = (tendencia_yrfi / tendencia_total * 100) if tendencia_total > 0 else 0
+    tendencia_ratio = f"{tendencia_yrfi}/{tendencia_total}"
+    
+    # Obtener estadísticas del lanzador rival
+    lanzador_rival = rival.get('pitcher', {})
+    lanzador_pct = lanzador_rival.get('yrfi_pct', 0)
+    lanzador_ratio = f"{lanzador_rival.get('yrfi_count', 0)}/{lanzador_rival.get('games_started', 1)}"
+    
+    # Calcular valores combinados
+    combinado_calc = (base_pct * 0.6) + (tendencia_pct * 0.4)
+    ajuste_calc = (combinado_calc * 0.7) + (lanzador_pct * 0.3)
+    
+    # Obtener el porcentaje ajustado final
+    adjusted_pct = team.get('adjusted_yrfi_pct', 0)
+    final_pct = adjusted_pct if adjusted_pct > 0 else ajuste_calc
     
     # Determinar si es local o visitante
     es_local = team_type == 'home_team'
     equipo_tipo = 'Local' if es_local else 'Visitante'
     
-    # Buscar la sección de probabilidad del equipo
-    prob_pattern = (
-        fr"Probabilidad YRFI del Equipo {'Local' if es_local else 'Visitante'}\n"
-        fr"\*\*(\d+\.?\d*)%\*\* de que {re.escape(team['name'])} anote"
-    )
-    prob_match = re.search(prob_pattern, pred_text)
-    if prob_match:
-        final_pct = float(prob_match.group(1))
+    # Obtener rendimiento del lanzador rival directamente del JSON
+    lanzador_key = 'away_pitcher' if es_local else 'home_pitcher'
+    lanzador_pct = prediction.get(lanzador_key, {}).get('yrfi_allowed', 0)
+    lanzador_ratio = prediction.get(lanzador_key, {}).get('yrfi_ratio', '0/0')
     
-    # Extraer rendimiento base
-    base_pattern = fr"Rendimiento de {re.escape(team['name'])} como {'local' if es_local else 'visitante'}: (\d+\.?\d*)%"
-    base_match = re.search(base_pattern, pred_text)
-    if base_match:
-        base_pct = float(base_match.group(1))
+    # Extraer el valor 'adjusted' del JSON
+    adjusted_pct = 0.0
+    if 'prediction' in prediction and 'calculation' in prediction['prediction']:
+        team_key = 'home_team' if team_type == 'home_team' else 'away_team'
+        if team_key in prediction['prediction']['calculation'] and 'adjusted' in prediction['prediction']['calculation'][team_key]:
+            adjusted_pct = prediction['prediction']['calculation'][team_key]['adjusted']
     
-    # Extraer tendencia reciente (últimos 15 partidos)
-    tendencia_patterns = [
-        fr"Tendencia \(Últimos 15 partidos\)\n- \*\*{re.escape(team['name'])}.*?(\d+\.?\d*)% \(\d+/15 partidos\)",
-        fr"Tendencia \(Últimos 15 partidos\)\n.*?\n- \*\*{re.escape(team['name'])}.*?(\d+\.?\d*)% \(\d+/15 partidos\)",
-        fr"Tendencia \(Últimos 15 partidos\)\n.*?\n.*?\n- \*\*{re.escape(team['name'])}.*?(\d+\.?\d*)% \(\d+/15 partidos\)"
-    ]
-    
-    for pattern in tendencia_patterns:
-        tendencia_match = re.search(pattern, pred_text, re.DOTALL)
-        if tendencia_match:
-            tendencia_pct = float(tendencia_match.group(1))
-            break
-    
-    # Extraer rendimiento del lanzador rival
-    lanzador_pattern = fr"Rendimiento del lanzador {'visitante' if es_local else 'local'}: (\d+\.?\d*)%"
-    lanzador_match = re.search(lanzador_pattern, pred_text)
-    if lanzador_match:
-        lanzador_pct = float(lanzador_match.group(1))
-    
-    # Extraer cálculos intermedios
-    calculo_section_pattern = (
-        fr"{re.escape(team['name'])} \(\w+\):"
-        fr".*?Combinado \(equipo \+ tendencia\): (\d+\.?\d*)%"
-        fr".*?Ajuste \(70% equipo \+ 30% lanzador rival\): (\d+\.?\d*)%"
-    )
-    calculo_match = re.search(calculo_section_pattern, pred_text, re.DOTALL)
-    if calculo_match:
-        combinado_calc = float(calculo_match.group(1))
-        ajuste_calc = float(calculo_match.group(2))
+    # Obtener los ratios de base y tendencia directamente del JSON
+    base_ratio = team.get('stats', {}).get('base', {}).get('ratio', '0/0')
+    tendencia_ratio = team.get('stats', {}).get('tendency', {}).get('ratio', '0/15')
     
     return {
         'name': team['name'],
         'type': equipo_tipo,
         'base_pct': base_pct,
+        'base_ratio': base_ratio,  # Agregar ratio base
         'tendencia_pct': tendencia_pct,
+        'tendencia_ratio': tendencia_ratio,  # Agregar ratio de tendencia
         'lanzador_rival': rival['pitcher'],
         'lanzador_rival_pct': lanzador_pct,
         'combinado_calc': combinado_calc,
         'ajuste_calc': ajuste_calc,
+        'adjusted_pct': adjusted_pct,
         'final_pct': final_pct or base_pct  # Usar base_pct si final_pct es 0
     }
-
-def generate_summary_from_files(date_str: str = None) -> str:
-    """
-    Genera un resumen detallado de todas las predicciones a partir de los archivos generados.
-    """
-    # Cargar predicciones desde archivos
-    predictions = load_predictions_from_files(date_str)
-    
-    if not predictions:
-        return "No hay predicciones para mostrar."
-    
-    # Procesar todos los equipos y partidos
-    all_teams = []
-    all_games = []
-    
-    for pred in predictions:
-        # Extraer detalles de equipos
-        home_team = extract_team_details(pred, 'home_team')
-        away_team = extract_team_details(pred, 'away_team')
-        
-        # Agregar equipos a la lista
-        all_teams.extend([home_team, away_team])
-        
-        # Agregar información del partido
-        game_info = {
-            'home_team': home_team['name'],
-            'away_team': away_team['name'],
-            'home_prob': home_team['final_pct'],
-            'away_prob': away_team['final_pct'],
-            'final_prob': pred['prediction']['final_prob'] * 100,  # Usar la probabilidad ya calculada
-            'home_pitcher': home_team['lanzador_rival'],  # El lanzador es el del equipo rival
-            'away_pitcher': away_team['lanzador_rival']   # El lanzador es el del equipo rival
-        }
-        all_games.append(game_info)
-    
-    # Ordenar equipos por probabilidad final (de mayor a menor)
-    all_teams_sorted = sorted(all_teams, key=lambda x: x['final_pct'], reverse=True)
-    
-    # Ordenar partidos por probabilidad final (de mayor a menor)
-    all_games_sorted = sorted(all_games, key=lambda x: x['final_prob'], reverse=True)
-    
-    # Generar el resumen en formato Markdown
-    summary = []
-    
-    # Encabezado
-    game_date = predictions[0]['game_date'] if predictions else datetime.now().strftime('%Y-%m-%d')
-    summary.append(f"# 🏆 Análisis YRFI - {game_date}\n")
-    summary.append(f"**Total de partidos analizados:** {len(all_games)}\n")
-    
-    # Top 3 equipos con mayor probabilidad YRFI
-    summary.append("## 🔝 Top 3 Equipos con Mayor Probabilidad YRFI")
-    for i, team in enumerate(all_teams_sorted[:3], 1):
-        summary.append(
-            f"{i}. **{team['name']} ({team['type']}) - {team['final_pct']:.1f}%\n"
-            f"   • Base como {team['type']}: {team['base_pct']:.1f}%\n"
-            f"   • Tendencia Reciente: {team['tendencia_pct']:.1f}%\n"
-            f"   • Lanzador Rival: {team['lanzador_rival']['name']} ({team['lanzador_rival_pct']:.1f}% YRFI permitido - {team['lanzador_rival']['yrfi_ratio']})\n"
-            f"   • Cálculo:\n"
-            f"     • Combinado: {team['combinado_calc']:.1f}%\n"
-            f"     • Ajuste: {team['ajuste_calc']:.1f}%"
-        )
-    
-    # Top 2 partidos con mayor probabilidad YRFI
-    summary.append("\n## 🏆 Top 2 Partidos con Mayor Probabilidad YRFI")
-    for i, game in enumerate(all_games_sorted[:2], 1):
-        summary.append(
-            f"{i}. **{game['away_team']} @ {game['home_team']} - {game['final_prob']:.1f}%\n"
-            f"   • {game['away_team']} (Visitante): {game['away_prob']:.1f}% (vs {game['away_pitcher']['name']} - {game['away_pitcher']['yrfi_ratio']} YRFI)\n"
-            f"   • {game['home_team']} (Local): {game['home_prob']:.1f}% (vs {game['home_pitcher']['name']} - {game['home_pitcher']['yrfi_ratio']} YRFI)"
-        )
-    
-    # Top 3 equipos con menor probabilidad YRFI
-    summary.append("\n## 📉 Top 3 Equipos con Menor Probabilidad YRFI")
-    for i, team in enumerate(all_teams_sorted[-3:], 1):
-        summary.append(
-            f"{i}. **{team['name']} ({team['type']}) - {team['final_pct']:.1f}%\n"
-            f"   • Base como {team['type']}: {team['base_pct']:.1f}%\n"
-            f"   • Tendencia Reciente: {team['tendencia_pct']:.1f}%\n"
-            f"   • Lanzador Rival: {team['lanzador_rival']['name']} ({team['lanzador_rival_pct']:.1f}% YRFI permitido - {team['lanzador_rival']['yrfi_ratio']})"
-        )
-    
-    # Top 2 partidos con menor probabilidad YRFI
-    summary.append("\n## 🚫 Top 2 Partidos con Menor Probabilidad YRFI")
-    for i, game in enumerate(all_games_sorted[-2:], 1):
-        summary.append(
-            f"{i}. **{game['away_team']} @ {game['home_team']} - {game['final_prob']:.1f}%\n"
-            f"   • {game['away_team']} (Visitante): {game['away_prob']:.1f}% (vs {game['away_pitcher']['name']} - {game['away_pitcher']['yrfi_ratio']} YRFI)\n"
-            f"   • {game['home_team']} (Local): {game['home_prob']:.1f}% (vs {game['home_pitcher']['name']} - {game['home_pitcher']['yrfi_ratio']} YRFI)"
-        )
-    
-    # Nota final
-    summary.append(
-        "\n*Nota: Los porcentajes mostrados son las probabilidades calculadas "
-        "basadas en el rendimiento histórico de los equipos y lanzadores. "
-        "Los cálculos detallados están disponibles en los archivos individuales de cada partido.*"
-    )
-    
-    return '\n'.join(summary)
 
 def main():
     """Función principal."""
@@ -675,19 +591,337 @@ def main():
         for pred in predictions:
             save_prediction(pred)
         
-        # Generar y guardar resumen a partir de los archivos generados
+        print("\n✨ ¡Proceso completado! Se han generado los archivos JSON individuales.")
+    else:
+        print("No se generaron predicciones.")
+
+def generate_summary_markdown(prediction: Dict, output_dir: Path = None) -> str:
+    """
+    Genera un archivo de resumen en formato Markdown con la explicación de los cálculos.
+    
+    Args:
+        prediction: Diccionario con los datos de la predicción
+        output_dir: Directorio donde se guardará el archivo (opcional)
+        
+    Returns:
+        Ruta al archivo generado
+    """
+    # Obtener información básica del partido
+    game_date = prediction.get('game_date', '')
+    home_team = prediction.get('home_team', {})
+    away_team = prediction.get('away_team', {})
+    prediction_data = prediction.get('prediction', {})
+    calculation = prediction_data.get('calculation', {})
+    
+    # Obtener nombres de equipos y lanzadores
+    home_team_name = home_team.get('name', 'Equipo Local')
+    away_team_name = away_team.get('name', 'Equipo Visitante')
+    home_pitcher = home_team.get('pitcher', {}).get('name', 'Por definir')
+    away_pitcher = away_team.get('pitcher', {}).get('name', 'Por definir')
+    
+    # Obtener estadísticas de cálculo
+    home_calc = calculation.get('home_team', {})
+    away_calc = calculation.get('away_team', {})
+    
+    # Formatear la fecha para el nombre del archivo
+    if game_date:
+        game_date_obj = datetime.fromisoformat(game_date.replace('Z', '+00:00'))
+        date_str = game_date_obj.strftime('%Y-%m-%d')
+    else:
+        date_str = datetime.now().strftime('%Y-%m-%d')
+    
+    # Crear el contenido del archivo Markdown
+    markdown_content = f"# Análisis YRFI: {away_team_name} @ {home_team_name}\n\n"
+    markdown_content += f"**Fecha:** {date_str}  \n"
+    markdown_content += f"**Lanzadores:** {away_pitcher} (V) vs {home_pitcher} (L)\n\n"
+    
+    # Sección de probabilidad general
+    markdown_content += "## 📊 Probabilidad YRFI del Partido\n\n"
+    markdown_content += f"**Probabilidad de que anoten en la primera entrada:** {prediction_data.get('yrfi_probability', 0):.1f}%\n\n"
+    
+    # Explicación del cálculo
+    markdown_content += "## 🔍 Explicación de los Cálculos\n\n"
+    
+    # Explicación para el equipo local
+    markdown_content += f"### {home_team_name} (Local)\n"
+    markdown_content += f"- **Estadística base YRFI:** {home_team.get('stats', {}).get('base', {}).get('value', 0):.1f}% ({home_team.get('stats', {}).get('base', {}).get('ratio', '0/0')} partidos)\n"
+    markdown_content += f"- **Tendencia reciente (últimos 15 partidos):** {home_team.get('stats', {}).get('tendency', {}).get('value', 0):.1f}% ({home_team.get('stats', {}).get('tendency', {}).get('ratio', '0/0')} partidos)\n"
+    markdown_content += f"- **Impacto del lanzador visitante ({away_team_name} - {away_pitcher}):** {home_calc.get('pitcher_impact', 0):.1f}% ({away_team.get('pitcher', {}).get('yrfi_ratio', '0/0')} partidos)\n"
+    markdown_content += f"- **Puntuación ajustada:** {home_calc.get('adjusted', 0):.1f}%\n\n"
+    
+    # Explicación para el equipo visitante
+    markdown_content += f"### {away_team_name} (Visitante)\n"
+    markdown_content += f"- **Estadística base YRFI:** {away_team.get('stats', {}).get('base', {}).get('value', 0):.1f}% ({away_team.get('stats', {}).get('base', {}).get('ratio', '0/0')} partidos)\n"
+    markdown_content += f"- **Tendencia reciente (últimos 15 partidos):** {away_team.get('stats', {}).get('tendency', {}).get('value', 0):.1f}% ({away_team.get('stats', {}).get('tendency', {}).get('ratio', '0/0')} partidos)\n"
+    markdown_content += f"- **Impacto del lanzador local ({home_team_name} - {home_pitcher}):** {away_calc.get('pitcher_impact', 0):.1f}% ({home_team.get('pitcher', {}).get('yrfi_ratio', '0/0')} partidos)\n"
+    markdown_content += f"- **Puntuación ajustada:** {away_calc.get('adjusted', 0):.1f}%\n\n"
+    
+    # Fórmula de cálculo
+    markdown_content += "### 📝 Fórmula de Cálculo\n\n"
+    markdown_content += "La probabilidad final de que anoten en la primera entrada se calcula considerando:\n"
+    markdown_content += "1. **Puntuación combinada** para cada equipo (70% estadística base + 30% tendencia reciente)\n"
+    markdown_content += "2. **Ajuste por lanzador** (70% puntuación combinada + 30% impacto del lanzador contrario)\n"
+    markdown_content += "3. **Probabilidad final** considerando ambos equipos: `1 - ((1 - P_local) * (1 - P_visitante))`\n\n"
+    
+    # Detalles adicionales
+    markdown_content += "### 📌 Notas Adicionales\n\n"
+    markdown_content += f"- **Generado el:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+    markdown_content += f"- **Fuente de datos:** {prediction.get('metadata', {}).get('data_source', '')}\n"
+    
+    # Determinar el directorio de salida
+    if output_dir is None:
         output_dir = Path(__file__).parent.parent / 'predictions'
-        game_date = predictions[0]['game_date'] if predictions else datetime.now().strftime("%Y-%m-%d")
-        summary = generate_summary_from_files(game_date)
+    
+    # Crear el directorio si no existe
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Generar nombre del archivo con el mismo formato que los JSON pero con extensión .md
+    home_team = prediction.get('home_team', {}).get('name', 'Home')
+    away_team = prediction.get('away_team', {}).get('name', 'Away')
+    game_date = prediction.get('game_date', datetime.now().strftime('%Y-%m-%d'))
+    game_pk = prediction.get('game_pk', '')
+    
+    safe_home = "".join([c if c.isalnum() else "_" for c in home_team])
+    safe_away = "".join([c if c.isalnum() else "_" for c in away_team])
+    
+    filename = f"yrfi_{game_date}_{safe_away}_at_{safe_home}_{game_pk}.md"
+    filepath = output_dir / filename
+    
+    # Guardar el archivo
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(markdown_content)
+    
+    return str(filepath)
+
+def save_prediction(prediction: Dict, output_dir: Path = None) -> str:
+    """
+    Guarda la predicción en un archivo JSON y genera un resumen en Markdown.
+    
+    Args:
+        prediction: Diccionario con los datos de la predicción
+        output_dir: Directorio de salida (opcional)
         
-        output_file = output_dir / f"resumen_yrfi_{game_date}.md"
+    Returns:
+        Ruta al archivo guardado
+    """
+    if output_dir is None:
+        output_dir = Path(__file__).parent.parent / 'predictions'
+    
+    # Crear el directorio si no existe
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Generar nombre del archivo
+    home_team = prediction.get('home_team', {}).get('name', 'Home')
+    away_team = prediction.get('away_team', {}).get('name', 'Away')
+    game_date = prediction.get('game_date', datetime.now().strftime('%Y-%m-%d'))
+    game_pk = prediction.get('game_pk', '')
+    
+    safe_home = "".join([c if c.isalnum() else "_" for c in home_team])
+    safe_away = "".join([c if c.isalnum() else "_" for c in away_team])
+    
+    filename = f"yrfi_{game_date}_{safe_away}_at_{safe_home}_{game_pk}.json"
+    filepath = output_dir / filename
+    
+    # Guardar el archivo JSON
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(prediction, f, indent=2, ensure_ascii=False)
+    
+    # Generar el resumen en Markdown
+    try:
+        generate_summary_markdown(prediction, output_dir)
+    except Exception as e:
+        print(f"⚠️  No se pudo generar el resumen Markdown: {str(e)}")
+    
+    return str(filepath)
+
+def generate_global_summary(predictions: List[Dict], output_dir: Path = None) -> str:
+    """
+    Genera un resumen global en formato Markdown con estadísticas YRFI de todos los partidos.
+    
+    Args:
+        predictions: Lista de predicciones de partidos
+        output_dir: Directorio donde se guardará el archivo (opcional)
         
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(summary)
+    Returns:
+        Ruta al archivo generado
+    """
+    if not predictions:
+        return ""
+    
+    # Obtener la fecha del primer partido como fecha de referencia
+    game_date = predictions[0].get('game_date', datetime.now().strftime('%Y-%m-%d'))
+    
+    # Preparar listas para las estadísticas
+    teams_stats = []
+    games_stats = []
+    
+    # Procesar cada predicción
+    for pred in predictions:
+        home_team = pred.get('home_team', {})
+        away_team = pred.get('away_team', {})
+        pred_data = pred.get('prediction', {})
+        calc = pred_data.get('calculation', {})
         
-        print(f"\n✨ ¡Proceso completado! Resumen guardado en: {output_file}")
-        print("\n" + "="*50)
-        print(summary)
+        # Estadísticas del equipo local
+        home_stats = {
+            'name': home_team.get('name', 'Equipo Local'),
+            'is_home': True,
+            'opponent': away_team.get('name', 'Equipo Visitante'),
+            'opponent_pitcher': away_team.get('pitcher', {}).get('name', 'Por definir'),
+            'base_yrfi': home_team.get('stats', {}).get('base', {}).get('value', 0),
+            'tendency': home_team.get('stats', {}).get('tendency', {}).get('value', 0),
+            'pitcher_impact': calc.get('home_team', {}).get('pitcher_impact', 0),
+            'adjusted': calc.get('home_team', {}).get('adjusted', 0),
+            'game_yrfi': pred_data.get('yrfi_probability', 0)
+        }
+        
+        # Estadísticas del equipo visitante
+        away_stats = {
+            'name': away_team.get('name', 'Equipo Visitante'),
+            'is_home': False,
+            'opponent': home_team.get('name', 'Equipo Local'),
+            'opponent_pitcher': home_team.get('pitcher', {}).get('name', 'Por definir'),
+            'base_yrfi': away_team.get('stats', {}).get('base', {}).get('value', 0),
+            'tendency': away_team.get('stats', {}).get('tendency', {}).get('value', 0),
+            'pitcher_impact': calc.get('away_team', {}).get('pitcher_impact', 0),
+            'adjusted': calc.get('away_team', {}).get('adjusted', 0),
+            'game_yrfi': pred_data.get('yrfi_probability', 0)
+        }
+        
+        # Estadísticas del partido
+        game_stats = {
+            'home_team': home_team.get('name', 'Equipo Local'),
+            'away_team': away_team.get('name', 'Equipo Visitante'),
+            'home_pitcher': home_team.get('pitcher', {}).get('name', 'Por definir'),
+            'away_pitcher': away_team.get('pitcher', {}).get('name', 'Por definir'),
+            'yrfi_probability': pred_data.get('yrfi_probability', 0),
+            'home_adjusted': calc.get('home_team', {}).get('adjusted', 0),
+            'away_adjusted': calc.get('away_team', {}).get('adjusted', 0)
+        }
+        
+        teams_stats.extend([home_stats, away_stats])
+        games_stats.append(game_stats)
+    
+    # Ordenar equipos por YRFI ajustado (de mayor a menor)
+    teams_sorted = sorted(teams_stats, key=lambda x: x['adjusted'], reverse=True)
+    
+    # Ordenar partidos por probabilidad YRFI (de mayor a menor)
+    games_sorted = sorted(games_stats, key=lambda x: x['yrfi_probability'], reverse=True)
+    
+    # Determinar el directorio de salida
+    if output_dir is None:
+        output_dir = Path(__file__).parent.parent / 'predictions'
+    
+    # Crear el directorio si no existe
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Generar nombre del archivo
+    filename = f"yrfi_global_summary_{game_date}.md"
+    filepath = output_dir / filename
+    
+    # Crear el contenido del archivo Markdown
+    content = f"# 📊 Resumen Global YRFI - {game_date}\n\n"
+    
+    # Sección de equipos con mayor YRFI
+    content += "## 🏆 Top 3 Equipos con Mayor Probabilidad YRFI\n\n"
+    
+    for i, team in enumerate(teams_sorted[:3], 1):
+        local_visitante = "(Local 🏠)" if team['is_home'] else "(Visitante ✈️)"
+        content += f"{i}. **{team['name']}** {local_visitante}\n"
+        content += f"   - **Oponente:** {team['opponent']}\n"
+        content += f"   - **Lanzador Rival:** {team['opponent_pitcher']}\n"
+        content += f"   - **YRFI Ajustado:** {team['adjusted']:.1f}%\n\n"
+    
+    # Sección de partidos con mayor YRFI
+    content += "## 🎯 Top 2 Partidos con Mayor Probabilidad YRFI\n\n"
+    
+    for i, game in enumerate(games_sorted[:2], 1):
+        content += f"{i}. **{game['away_team']} @ {game['home_team']}**\n"
+        content += f"   - **Lanzadores:** {game['away_pitcher']} vs {game['home_pitcher']}\n"
+        content += f"   - **Probabilidad YRFI:** {game['yrfi_probability']:.1f}%\n"
+        content += f"   - **Prob. Equipos:** {game['away_adjusted']:.1f}% vs {game['home_adjusted']:.1f}%\n\n"
+    
+    # Sección de equipos con menor YRFI
+    content += "## 📉 Top 3 Equipos con Menor Probabilidad YRFI\n\n"
+    
+    for i, team in enumerate(teams_sorted[-3:][::-1], 1):
+        local_visitante = "(Local 🏠)" if team['is_home'] else "(Visitante ✈️)"
+        content += f"{i}. **{team['name']}** {local_visitante}\n"
+        content += f"   - **Oponente:** {team['opponent']}\n"
+        content += f"   - **Lanzador Rival:** {team['opponent_pitcher']}\n"
+        content += f"   - **YRFI Ajustado:** {team['adjusted']:.1f}%\n\n"
+    
+    # Sección de partidos con menor YRFI
+    content += "## 🛑 Top 2 Partidos con Menor Probabilidad YRFI\n\n"
+    
+    for i, game in enumerate(games_sorted[-2:][::-1], 1):
+        content += f"{i}. **{game['away_team']} @ {game['home_team']}**\n"
+        content += f"   - **Lanzadores:** {game['away_pitcher']} vs {game['home_pitcher']}\n"
+        content += f"   - **Probabilidad YRFI:** {game['yrfi_probability']:.1f}%\n"
+        content += f"   - **Prob. Equipos:** {game['away_adjusted']:.1f}% vs {game['home_adjusted']:.1f}%\n\n"
+    
+    # Estadísticas adicionales
+    content += "## 📈 Estadísticas Adicionales\n\n"
+    content += f"- **Total de partidos analizados:** {len(predictions)}\n"
+    content += f"- **Promedio de probabilidad YRFI:** {sum(g['yrfi_probability'] for g in games_stats) / len(games_stats):.1f}%\n"
+    content += f"- **Partido con mayor probabilidad YRFI:** {games_sorted[0]['away_team']} @ {games_sorted[0]['home_team']} ({games_sorted[0]['yrfi_probability']:.1f}%)\n"
+    content += f"- **Partido con menor probabilidad YRFI:** {games_sorted[-1]['away_team']} @ {games_sorted[-1]['home_team']} ({games_sorted[-1]['yrfi_probability']:.1f}%)\n"
+    
+    # Notas finales
+    content += "\n## 📝 Notas\n\n"
+    content += "- 🏠 Indica que el equipo juega de local\n"
+    content += "- ✈️ Indica que el equipo juega de visitante\n"
+    # Agregar información sobre los cálculos
+    content += "\n### ℹ️ Sobre los Cálculos\n"
+    content += "- Las probabilidades YRFI se calculan considerando el rendimiento reciente de los equipos y los lanzadores.\n"
+    content += "- El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.\n"
+    content += "- La probabilidad del partido combina las estadísticas de ambos equipos.\n"
+    
+    content += f"\n*Resumen generado el {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*"
+    
+    # Guardar el archivo
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(content)
+    
+    return str(filepath)
+
+def main():
+    """Función principal."""
+    print("⚾ Obteniendo partidos de hoy...")
+    
+    # Obtener partidos programados para hoy
+    games = get_next_day_games()
+    
+    if not games:
+        print("No hay partidos programados para hoy.")
+        return
+    
+    print(f"\n📅 Se encontraron {len(games)} partidos programados para hoy:")
+    for i, game in enumerate(games, 1):
+        print(f"   {i}. {game['away_team']['name']} @ {game['home_team']['name']}")
+    
+    # Cargar datos de la temporada
+    print("\n📊 Cargando datos de la temporada...")
+    season_data_file = Path(__file__).parent.parent / 'data' / 'season_data.json'
+    season_data = load_season_data(season_data_file)
+    
+    if not season_data:
+        print("No se pudieron cargar los datos de la temporada.")
+        return
+    
+    # Generar predicciones
+    print("\n🎯 Generando predicciones YRFI...")
+    predictions = generate_predictions_for_games(games, season_data)
+    
+    if predictions:
+        print(f"\n✨ ¡Proceso completado! Se han generado {len(predictions)} predicciones.")
+        
+        # Generar resumen global
+        try:
+            summary_path = generate_global_summary(predictions)
+            print(f"📊 Se ha generado el resumen global: {summary_path}")
+        except Exception as e:
+            print(f"⚠️  No se pudo generar el resumen global: {str(e)}")
     else:
         print("No se generaron predicciones.")
 

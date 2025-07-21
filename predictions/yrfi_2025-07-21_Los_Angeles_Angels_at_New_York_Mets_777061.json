@@ -6,7 +6,7 @@
     "name": "New York Mets",
     "pitcher": {
       "name": "Kodai Senga",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 28.57142857142857,
       "yrfi_ratio": "2/7"
     },
     "stats": {
@@ -17,16 +17,16 @@
       "tendency": {
         "value": 33.33333333333333,
         "ratio": "5/15"
-      },
-      "adjusted_yrfi_pct": 39.40280701754386
+      }
     }
   },
   "away_team": {
     "id": "108",
     "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 46.72,
     "pitcher": {
       "name": "Tyler Anderson",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 50.0,
       "yrfi_ratio": "5/10"
     },
     "stats": {
@@ -37,30 +37,31 @@
       "tendency": {
         "value": 53.333333333333336,
         "ratio": "8/15"
-      },
-      "adjusted_yrfi_pct": 41.273992673992666
+      }
     }
   },
   "prediction": {
-    "base_prob": 40.225641025641025,
-    "final_prob": 64.41368800976801,
     "calculation": {
-      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
       "home_team": {
-        "base": "34.0% (17/50)",
-        "tendency": "33.3% (5/15)",
-        "pitcher": "Tyler Anderson (0.0% YRFI permitido - 0/1)"
+        "base": 34.0,
+        "tendency": 33.33333333333333,
+        "combined": 33.73,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.61
       },
       "away_team": {
-        "base": "42.3% (22/52)",
-        "tendency": "53.3% (8/15)",
-        "pitcher": "Kodai Senga (0.0% YRFI permitido - 0/1)"
-      }
+        "base": 42.30769230769231,
+        "tendency": 53.333333333333336,
+        "combined": 46.72,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 41.27
+      },
+      "game_yrfi_probability": 63.95
     },
-    "text": "# Análisis YRFI - Los Angeles Angels @ New York Mets (2025-07-21)\n\n## Información del Partido\n**Los Angeles Angels (Visitante) vs New York Mets (Local)**  \n**Lanzadores:** Tyler Anderson (@Los Angeles Angels) vs Kodai Senga (@New York Mets)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**64.4%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**39.4%** de que New York Mets anote en la primera entrada\n- Basado en:\n  - Rendimiento de New York Mets como local: 34.0%\n  - Rendimiento del lanzador visitante: 50.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**41.3%** de que Los Angeles Angels anote en la primera entrada\n- Basado en:\n  - Rendimiento de Los Angeles Angels como visitante: 42.3%\n  - Rendimiento del lanzador local: 28.6% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **New York Mets (Local):** 34.0% (17 YRFI en 50 partidos)\n- **Los Angeles Angels (Visitante):** 42.3% (22 YRFI en 52 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **New York Mets (Local):** 33.3% (5 YRFI en 15 partidos)\n- **Los Angeles Angels (Visitante):** 53.3% (8 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **New York Mets (Local):** (34.0% * 0.6) + (33.3% * 0.4) = **33.7%**\n- **Los Angeles Angels (Visitante):** (42.3% * 0.6) + (53.3% * 0.4) = **46.7%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **New York Mets (Local)**:\n  - Combinado (equipo + tendencia): 33.7%\n  - Afectado por Tyler Anderson (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 23.6%\n\n- **Los Angeles Angels (Visitante)**:\n  - Combinado (equipo + tendencia): 46.7%\n  - Afectado por Kodai Senga (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 32.7%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (23.6% + 32.7%) / 2 = **28.2%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Kodai Senga (New York Mets - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Tyler Anderson (Los Angeles Angels - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **New York Mets:** 33.3% (5/15 partidos)\n- **Los Angeles Angels:** 53.3% (8/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Kodai Senga (New York Mets - Local):**\n  - Total: 28.6% (2/7 aperturas)\n- **Tyler Anderson (Los Angeles Angels - Visitante):**\n  - Total: 50.0% (5/10 aperturas)\n\n## Resumen de Cálculos\n| Categoría | New York Mets        | Los Angeles Angels   | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 34.0% (17/50) | 42.3% (22/52) | 40.2% |\n| **Ajustado** | 39.4% | 41.3% | **64.4%** |\n| **Tendencia** | 33.3% (5/15) | 53.3% (8/15) | - |\n| **Lanzador** | 28.6% (2/7) | 50.0% (5/10) | - |\n\n**Nota:** La probabilidad final del partido (64.4%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+    "yrfi_probability": 63.95
   },
   "metadata": {
-    "generated_at": "2025-07-21T10:17:02.854018",
-    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+    "generated_at": "2025-07-21T13:13:28.959969",
+    "data_source": "season_data.json"
   }
 }

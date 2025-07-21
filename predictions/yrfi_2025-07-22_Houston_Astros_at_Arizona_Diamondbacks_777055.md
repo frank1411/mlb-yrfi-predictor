@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Washington Nationals
+# Análisis YRFI: Houston Astros @ Arizona Diamondbacks
 
-**Fecha:** 2025-07-21  
-**Lanzadores:** Brady Singer (V) vs Jake Irvin (L)
+**Fecha:** 2025-07-22  
+**Lanzadores:** Colton Gordon (V) vs Zac Gallen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.5%
+**Probabilidad de que anoten en la primera entrada:** 51.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 32.7% (16/49 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 35.3% (18/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 44.4% (4/9 partidos)
-- **Puntuación ajustada:** 32.6%
+- **Impacto del lanzador visitante (Houston Astros - Colton Gordon):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 27.9%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 24.0% (12/50 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 23.4% (11/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Jake Irvin):** 66.7% (6/9 partidos)
-- **Puntuación ajustada:** 41.3%
+- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 40.0% (4/10 partidos)
+- **Puntuación ajustada:** 33.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-07-21 13:13:28
+- **Generado el:** 2025-07-21 13:13:29
 - **Fuente de datos:** season_data.json

@@ -1,80 +1,34 @@
-# Análisis YRFI - Chicago White Sox @ Tampa Bay Rays (2025-07-21)
+# Análisis YRFI: Chicago White Sox @ Tampa Bay Rays
 
-## Información del Partido
-**Chicago White Sox (Visitante) vs Tampa Bay Rays (Local)**  
-**Lanzadores:** Sean Burke (@Chicago White Sox) vs Shane Baz (@Tampa Bay Rays)
+**Fecha:** 2025-07-21  
+**Lanzadores:** Sean Burke (V) vs Shane Baz (L)
 
-## Probabilidades YRFI
+## 📊 Probabilidad YRFI del Partido
 
-### Probabilidad YRFI del Partido
-**52.1%** (promedio de ambas probabilidades ajustadas)
+**Probabilidad de que anoten en la primera entrada:** 55.2%
 
-### Probabilidad YRFI del Equipo Local
-**36.0%** de que Tampa Bay Rays anote en la primera entrada
-- Basado en:
-  - Rendimiento de Tampa Bay Rays como local: 32.1%
-  - Rendimiento del lanzador visitante: 60.0% YRFI permitido
+## 🔍 Explicación de los Cálculos
 
-### Probabilidad YRFI del Equipo Visitante
-**25.2%** de que Chicago White Sox anote en la primera entrada
-- Basado en:
-  - Rendimiento de Chicago White Sox como visitante: 34.0%
-  - Rendimiento del lanzador local: 10.0% YRFI permitido
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 32.1% (18/56 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 60.0% (3/5 partidos)
+- **Puntuación ajustada:** 39.0%
 
-### Cálculo Detallado
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 34.0% (17/50 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Shane Baz):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 26.6%
 
-#### 1. Probabilidades Base (Temporada Completa)
-- **Tampa Bay Rays (Local):** 32.1% (18 YRFI en 56 partidos)
-- **Chicago White Sox (Visitante):** 34.0% (17 YRFI en 50 partidos)
+### 📝 Fórmula de Cálculo
 
-#### 2. Cálculo de Tendencias (Últimos 15 partidos)
-- **Tampa Bay Rays (Local):** 26.7% (4 YRFI en 15 partidos)
-- **Chicago White Sox (Visitante):** 33.3% (5 YRFI en 15 partidos)
+La probabilidad final de que anoten en la primera entrada se calcula considerando:
+1. **Puntuación combinada** para cada equipo (70% estadística base + 30% tendencia reciente)
+2. **Ajuste por lanzador** (70% puntuación combinada + 30% impacto del lanzador contrario)
+3. **Probabilidad final** considerando ambos equipos: `1 - ((1 - P_local) * (1 - P_visitante))`
 
-#### 3. Combinación con Tendencia (60% base, 40% tendencia)
-- **Tampa Bay Rays (Local):** (32.1% * 0.6) + (26.7% * 0.4) = **30.0%**
-- **Chicago White Sox (Visitante):** (34.0% * 0.6) + (33.3% * 0.4) = **33.7%**
+### 📌 Notas Adicionales
 
-#### 4. Ajuste por Lanzadores
-*Nota: El rendimiento del lanzador afecta al equipo contrario*
-
-- **Tampa Bay Rays (Local)**:
-  - Combinado (equipo + tendencia): 30.0%
-  - Afectado por Sean Burke (visitante): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 21.0%
-
-- **Chicago White Sox (Visitante)**:
-  - Combinado (equipo + tendencia): 33.7%
-  - Afectado por Shane Baz (local): 0.0% YRFI permitido (N/A)
-  - Ajuste (70% equipo + 30% lanzador rival): 23.6%
-
-#### 5. Probabilidad Final
-- **Promedio de ajustes:** (21.0% + 23.6%) / 2 = **22.3%**
-
-## Estadísticas Detalladas
-
-
-### Rendimiento de Lanzadores
-- **Shane Baz (Tampa Bay Rays - Local)**:
-  - Rendimiento YRFI: 0.0% (N/A)
-- **Sean Burke (Chicago White Sox - Visitante)**:
-  - Rendimiento YRFI: 0.0% (N/A)
-### Tendencia (Últimos 15 partidos)
-- **Tampa Bay Rays:** 26.7% (4/15 partidos)
-- **Chicago White Sox:** 33.3% (5/15 partidos)
-
-### Rendimiento de Lanzadores
-- **Shane Baz (Tampa Bay Rays - Local):**
-  - Total: 10.0% (1/10 aperturas)
-- **Sean Burke (Chicago White Sox - Visitante):**
-  - Total: 60.0% (3/5 aperturas)
-
-## Resumen de Cálculos
-| Categoría | Tampa Bay Rays       | Chicago White Sox    | Promedio |
-|-----------|----------------------|----------------------|----------|
-| **Base** | 32.1% (18/56) | 34.0% (17/50) | 31.8% |
-| **Ajustado** | 36.0% | 25.2% | **52.1%** |
-| **Tendencia** | 26.7% (4/15) | 33.3% (5/15) | - |
-| **Lanzador** | 10.0% (1/10) | 60.0% (3/5) | - |
-
-**Nota:** La probabilidad final del partido (52.1%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).
+- **Generado el:** 2025-07-21 13:13:28
+- **Fuente de datos:** season_data.json

@@ -6,7 +6,7 @@
     "name": "Toronto Blue Jays",
     "pitcher": {
       "name": "Kevin Gausman",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 55.55555555555556,
       "yrfi_ratio": "5/9"
     },
     "stats": {
@@ -17,16 +17,16 @@
       "tendency": {
         "value": 26.666666666666668,
         "ratio": "4/15"
-      },
-      "adjusted_yrfi_pct": 27.319607843137256
+      }
     }
   },
   "away_team": {
     "id": "147",
     "name": "New York Yankees",
+    "combined_yrfi_pct": 33.47,
     "pitcher": {
       "name": "Carlos Rodón",
-      "yrfi_allowed": 0,
+      "yrfi_allowed": 30.0,
       "yrfi_ratio": "3/10"
     },
     "stats": {
@@ -37,30 +37,31 @@
       "tendency": {
         "value": 26.666666666666668,
         "ratio": "4/15"
-      },
-      "adjusted_yrfi_pct": 34.47929824561403
+      }
     }
   },
   "prediction": {
-    "base_prob": 30.890196078431376,
-    "final_prob": 52.37929702098383,
     "calculation": {
-      "formula": "((base × 0.6) + (tendency × 0.4)) × 0.7 + (opponent_pitcher_yrfi × 0.3)",
       "home_team": {
-        "base": "29.4% (15/51)",
-        "tendency": "26.7% (4/15)",
-        "pitcher": "Carlos Rodón (0.0% YRFI permitido - 0/1)"
+        "base": 29.411764705882355,
+        "tendency": 26.666666666666668,
+        "combined": 28.31,
+        "pitcher_impact": 30.0,
+        "adjusted": 28.82
       },
       "away_team": {
-        "base": "38.0% (19/50)",
-        "tendency": "26.7% (4/15)",
-        "pitcher": "Kevin Gausman (0.0% YRFI permitido - 0/1)"
-      }
+        "base": 38.0,
+        "tendency": 26.666666666666668,
+        "combined": 33.47,
+        "pitcher_impact": 55.55555555555556,
+        "adjusted": 40.09
+      },
+      "game_yrfi_probability": 57.36
     },
-    "text": "# Análisis YRFI - New York Yankees @ Toronto Blue Jays (2025-07-21)\n\n## Información del Partido\n**New York Yankees (Visitante) vs Toronto Blue Jays (Local)**  \n**Lanzadores:** Carlos Rodón (@New York Yankees) vs Kevin Gausman (@Toronto Blue Jays)\n\n## Probabilidades YRFI\n\n### Probabilidad YRFI del Partido\n**52.4%** (promedio de ambas probabilidades ajustadas)\n\n### Probabilidad YRFI del Equipo Local\n**27.3%** de que Toronto Blue Jays anote en la primera entrada\n- Basado en:\n  - Rendimiento de Toronto Blue Jays como local: 29.4%\n  - Rendimiento del lanzador visitante: 30.0% YRFI permitido\n\n### Probabilidad YRFI del Equipo Visitante\n**34.5%** de que New York Yankees anote en la primera entrada\n- Basado en:\n  - Rendimiento de New York Yankees como visitante: 38.0%\n  - Rendimiento del lanzador local: 55.6% YRFI permitido\n\n### Cálculo Detallado\n\n#### 1. Probabilidades Base (Temporada Completa)\n- **Toronto Blue Jays (Local):** 29.4% (15 YRFI en 51 partidos)\n- **New York Yankees (Visitante):** 38.0% (19 YRFI en 50 partidos)\n\n#### 2. Cálculo de Tendencias (Últimos 15 partidos)\n- **Toronto Blue Jays (Local):** 26.7% (4 YRFI en 15 partidos)\n- **New York Yankees (Visitante):** 26.7% (4 YRFI en 15 partidos)\n\n#### 3. Combinación con Tendencia (60% base, 40% tendencia)\n- **Toronto Blue Jays (Local):** (29.4% * 0.6) + (26.7% * 0.4) = **28.3%**\n- **New York Yankees (Visitante):** (38.0% * 0.6) + (26.7% * 0.4) = **33.5%**\n\n#### 4. Ajuste por Lanzadores\n*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n- **Toronto Blue Jays (Local)**:\n  - Combinado (equipo + tendencia): 28.3%\n  - Afectado por Carlos Rodón (visitante): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 19.8%\n\n- **New York Yankees (Visitante)**:\n  - Combinado (equipo + tendencia): 33.5%\n  - Afectado por Kevin Gausman (local): 0.0% YRFI permitido (N/A)\n  - Ajuste (70% equipo + 30% lanzador rival): 23.4%\n\n#### 5. Probabilidad Final\n- **Promedio de ajustes:** (19.8% + 23.4%) / 2 = **21.6%**\n\n## Estadísticas Detalladas\n\n\n### Rendimiento de Lanzadores\n- **Kevin Gausman (Toronto Blue Jays - Local)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n- **Carlos Rodón (New York Yankees - Visitante)**:\n  - Rendimiento YRFI: 0.0% (N/A)\n### Tendencia (Últimos 15 partidos)\n- **Toronto Blue Jays:** 26.7% (4/15 partidos)\n- **New York Yankees:** 26.7% (4/15 partidos)\n\n### Rendimiento de Lanzadores\n- **Kevin Gausman (Toronto Blue Jays - Local):**\n  - Total: 55.6% (5/9 aperturas)\n- **Carlos Rodón (New York Yankees - Visitante):**\n  - Total: 30.0% (3/10 aperturas)\n\n## Resumen de Cálculos\n| Categoría | Toronto Blue Jays    | New York Yankees     | Promedio |\n|-----------|----------------------|----------------------|----------|\n| **Base** | 29.4% (15/51) | 38.0% (19/50) | 30.9% |\n| **Ajustado** | 27.3% | 34.5% | **52.4%** |\n| **Tendencia** | 26.7% (4/15) | 26.7% (4/15) | - |\n| **Lanzador** | 55.6% (5/9) | 30.0% (3/10) | - |\n\n**Nota:** La probabilidad final del partido (52.4%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+    "yrfi_probability": 57.36
   },
   "metadata": {
-    "generated_at": "2025-07-21T10:17:02.845857",
-    "data_source": "/home/runner/work/mlb-yrfi-predictor/mlb-yrfi-predictor/data/season_data.json"
+    "generated_at": "2025-07-21T13:13:28.952692",
+    "data_source": "season_data.json"
   }
 }
