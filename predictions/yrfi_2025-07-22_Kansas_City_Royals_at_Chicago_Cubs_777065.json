@@ -1,0 +1,67 @@
+{
+  "game_pk": 777065,
+  "game_date": "2025-07-22",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Ryan Brasier",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.69387755102041,
+        "ratio": "17/49"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 29.87,
+    "pitcher": {
+      "name": "Noah Cameron",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "16/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.69387755102041,
+        "tendency": 40.0,
+        "combined": 36.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.77
+      },
+      "away_team": {
+        "base": 32.0,
+        "tendency": 26.666666666666668,
+        "combined": 29.87,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.91
+      },
+      "game_yrfi_probability": 41.29
+    },
+    "yrfi_probability": 41.29
+  },
+  "metadata": {
+    "generated_at": "2025-07-21T13:36:28.855420",
+    "data_source": "season_data.json"
+  }
+}

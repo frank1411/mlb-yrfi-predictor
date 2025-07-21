@@ -1,0 +1,67 @@
+{
+  "game_pk": 777063,
+  "game_date": "2025-07-21",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 40.816326530612244,
+        "ratio": "20/49"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 25.14,
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "4/8"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "14/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.816326530612244,
+        "tendency": 26.666666666666668,
+        "combined": 35.16,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.61
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 20.0,
+        "combined": 25.14,
+        "pitcher_impact": 10.0,
+        "adjusted": 20.6
+      },
+      "game_yrfi_probability": 52.05
+    },
+    "yrfi_probability": 52.05
+  },
+  "metadata": {
+    "generated_at": "2025-07-21T13:36:28.819384",
+    "data_source": "season_data.json"
+  }
+}
