@@ -1,0 +1,67 @@
+{
+  "game_pk": 777045,
+  "game_date": "2025-07-22",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "20/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 28.67,
+    "pitcher": {
+      "name": "Richard Fitts",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "15/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 26.666666666666668,
+        "combined": 34.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.27
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 26.666666666666668,
+        "combined": 28.67,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.57
+      },
+      "game_yrfi_probability": 45.15
+    },
+    "yrfi_probability": 45.15
+  },
+  "metadata": {
+    "generated_at": "2025-07-22T10:16:29.596070",
+    "data_source": "season_data.json"
+  }
+}

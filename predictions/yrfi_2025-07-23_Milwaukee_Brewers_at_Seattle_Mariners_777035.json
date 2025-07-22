@@ -1,0 +1,67 @@
+{
+  "game_pk": 777035,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "3/7"
+    },
+    "stats": {
+      "base": {
+        "value": 18.0,
+        "ratio": "9/50"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 24.53,
+    "pitcher": {
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "16/50"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.0,
+        "tendency": 6.666666666666667,
+        "combined": 13.47,
+        "pitcher_impact": 0.0,
+        "adjusted": 9.43
+      },
+      "away_team": {
+        "base": 32.0,
+        "tendency": 13.333333333333334,
+        "combined": 24.53,
+        "pitcher_impact": 42.857142857142854,
+        "adjusted": 30.03
+      },
+      "game_yrfi_probability": 36.63
+    },
+    "yrfi_probability": 36.63
+  },
+  "metadata": {
+    "generated_at": "2025-07-22T10:16:29.656940",
+    "data_source": "season_data.json"
+  }
+}

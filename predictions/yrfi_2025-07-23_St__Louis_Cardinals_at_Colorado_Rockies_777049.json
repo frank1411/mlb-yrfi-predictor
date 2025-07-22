@@ -1,0 +1,67 @@
+{
+  "game_pk": 777049,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Bradley Blalock",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "16/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 27.97,
+    "pitcher": {
+      "name": "Erick Fedde",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 28.846153846153843,
+        "ratio": "15/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.0,
+        "tendency": 26.666666666666668,
+        "combined": 29.87,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 31.82
+      },
+      "away_team": {
+        "base": 28.846153846153843,
+        "tendency": 26.666666666666668,
+        "combined": 27.97,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.58
+      },
+      "game_yrfi_probability": 65.62
+    },
+    "yrfi_probability": 65.62
+  },
+  "metadata": {
+    "generated_at": "2025-07-22T10:16:29.642944",
+    "data_source": "season_data.json"
+  }
+}

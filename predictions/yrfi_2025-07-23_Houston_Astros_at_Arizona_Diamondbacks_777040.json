@@ -1,0 +1,67 @@
+{
+  "game_pk": 777040,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 57.14285714285714,
+      "yrfi_ratio": "4/7"
+    },
+    "stats": {
+      "base": {
+        "value": 36.53846153846153,
+        "ratio": "19/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 29.75,
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 22.916666666666664,
+        "ratio": "11/48"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.53846153846153,
+        "tendency": 26.666666666666668,
+        "combined": 32.59,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.81
+      },
+      "away_team": {
+        "base": 22.916666666666664,
+        "tendency": 40.0,
+        "combined": 29.75,
+        "pitcher_impact": 57.14285714285714,
+        "adjusted": 37.97
+      },
+      "game_yrfi_probability": 58.32
+    },
+    "yrfi_probability": 58.32
+  },
+  "metadata": {
+    "generated_at": "2025-07-22T10:16:29.649980",
+    "data_source": "season_data.json"
+  }
+}

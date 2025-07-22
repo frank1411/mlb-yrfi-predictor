@@ -1,0 +1,67 @@
+{
+  "game_pk": 777044,
+  "game_date": "2025-07-22",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 27.450980392156865,
+        "ratio": "14/51"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 27.14,
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 27.450980392156865,
+        "ratio": "14/51"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.450980392156865,
+        "tendency": 0.0,
+        "combined": 16.47,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 18.2
+      },
+      "away_team": {
+        "base": 27.450980392156865,
+        "tendency": 26.666666666666668,
+        "combined": 27.14,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 24.0
+      },
+      "game_yrfi_probability": 37.83
+    },
+    "yrfi_probability": 37.83
+  },
+  "metadata": {
+    "generated_at": "2025-07-22T10:16:29.567442",
+    "data_source": "season_data.json"
+  }
+}
