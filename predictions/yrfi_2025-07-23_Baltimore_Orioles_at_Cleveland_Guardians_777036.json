@@ -1,0 +1,67 @@
+{
+  "game_pk": 777036,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 27.083333333333332,
+        "ratio": "13/48"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 27.65,
+    "pitcher": {
+      "name": "Zach Eflin",
+      "yrfi_allowed": 57.14285714285714,
+      "yrfi_ratio": "4/7"
+    },
+    "stats": {
+      "base": {
+        "value": 28.30188679245283,
+        "ratio": "15/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.083333333333332,
+        "tendency": 40.0,
+        "combined": 32.25,
+        "pitcher_impact": 57.14285714285714,
+        "adjusted": 39.72
+      },
+      "away_team": {
+        "base": 28.30188679245283,
+        "tendency": 26.666666666666668,
+        "combined": 27.65,
+        "pitcher_impact": 20.0,
+        "adjusted": 25.35
+      },
+      "game_yrfi_probability": 55.0
+    },
+    "yrfi_probability": 55.0
+  },
+  "metadata": {
+    "generated_at": "2025-07-23T10:16:21.514661",
+    "data_source": "season_data.json"
+  }
+}

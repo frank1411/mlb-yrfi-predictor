@@ -1,0 +1,67 @@
+{
+  "game_pk": 777024,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Luis Castillo",
+      "yrfi_allowed": 9.090909090909092,
+      "yrfi_ratio": "1/11"
+    },
+    "stats": {
+      "base": {
+        "value": 17.647058823529413,
+        "ratio": "9/51"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 21.49,
+    "pitcher": {
+      "name": "Quinn Priester",
+      "yrfi_allowed": 62.5,
+      "yrfi_ratio": "5/8"
+    },
+    "stats": {
+      "base": {
+        "value": 31.372549019607842,
+        "ratio": "16/51"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 17.647058823529413,
+        "tendency": 6.666666666666667,
+        "combined": 13.25,
+        "pitcher_impact": 62.5,
+        "adjusted": 28.03
+      },
+      "away_team": {
+        "base": 31.372549019607842,
+        "tendency": 6.666666666666667,
+        "combined": 21.49,
+        "pitcher_impact": 9.090909090909092,
+        "adjusted": 17.77
+      },
+      "game_yrfi_probability": 40.82
+    },
+    "yrfi_probability": 40.82
+  },
+  "metadata": {
+    "generated_at": "2025-07-23T10:16:21.500644",
+    "data_source": "season_data.json"
+  }
+}

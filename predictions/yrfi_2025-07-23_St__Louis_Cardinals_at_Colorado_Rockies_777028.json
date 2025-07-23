@@ -1,0 +1,67 @@
+{
+  "game_pk": 777028,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "17/51"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 27.65,
+    "pitcher": {
+      "name": "Andre Pallante",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/10"
+    },
+    "stats": {
+      "base": {
+        "value": 28.30188679245283,
+        "ratio": "15/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "away_team": {
+        "base": 28.30188679245283,
+        "tendency": 26.666666666666668,
+        "combined": 27.65,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.35
+      },
+      "game_yrfi_probability": 48.45
+    },
+    "yrfi_probability": 48.45
+  },
+  "metadata": {
+    "generated_at": "2025-07-23T10:16:21.486673",
+    "data_source": "season_data.json"
+  }
+}

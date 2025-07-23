@@ -1,0 +1,67 @@
+{
+  "game_pk": 777037,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "14/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 22.64,
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 28.846153846153843,
+        "ratio": "15/52"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.923076923076923,
+        "tendency": 26.666666666666668,
+        "combined": 26.82,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 26.96
+      },
+      "away_team": {
+        "base": 28.846153846153843,
+        "tendency": 13.333333333333334,
+        "combined": 22.64,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 26.76
+      },
+      "game_yrfi_probability": 46.51
+    },
+    "yrfi_probability": 46.51
+  },
+  "metadata": {
+    "generated_at": "2025-07-23T10:16:21.453409",
+    "data_source": "season_data.json"
+  }
+}

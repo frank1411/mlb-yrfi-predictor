@@ -1,0 +1,67 @@
+{
+  "game_pk": 777029,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Bailey Falter",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "14/52"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 24.15,
+    "pitcher": {
+      "name": "Troy Melton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "14/52"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.923076923076923,
+        "tendency": 0.0,
+        "combined": 16.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.31
+      },
+      "away_team": {
+        "base": 26.923076923076923,
+        "tendency": 20.0,
+        "combined": 24.15,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 27.82
+      },
+      "game_yrfi_probability": 35.98
+    },
+    "yrfi_probability": 35.98
+  },
+  "metadata": {
+    "generated_at": "2025-07-23T10:16:21.467831",
+    "data_source": "season_data.json"
+  }
+}

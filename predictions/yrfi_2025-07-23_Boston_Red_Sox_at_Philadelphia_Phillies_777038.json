@@ -1,0 +1,67 @@
+{
+  "game_pk": 777038,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Jesús Luzardo",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 41.17647058823529,
+        "ratio": "21/51"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 25.65,
+    "pitcher": {
+      "name": "Lucas Giolito",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "15/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.17647058823529,
+        "tendency": 33.33333333333333,
+        "combined": 38.04,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 35.2
+      },
+      "away_team": {
+        "base": 29.411764705882355,
+        "tendency": 20.0,
+        "combined": 25.65,
+        "pitcher_impact": 10.0,
+        "adjusted": 20.95
+      },
+      "game_yrfi_probability": 48.78
+    },
+    "yrfi_probability": 48.78
+  },
+  "metadata": {
+    "generated_at": "2025-07-23T10:16:21.522050",
+    "data_source": "season_data.json"
+  }
+}

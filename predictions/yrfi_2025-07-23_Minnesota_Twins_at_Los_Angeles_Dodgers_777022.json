@@ -1,0 +1,67 @@
+{
+  "game_pk": 777022,
+  "game_date": "2025-07-23",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Tyler Glasnow",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 38.18181818181819,
+        "ratio": "21/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 26.52,
+    "pitcher": {
+      "name": "Chris Paddack",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 26.41509433962264,
+        "ratio": "14/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.18181818181819,
+        "tendency": 26.666666666666668,
+        "combined": 33.58,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 37.14
+      },
+      "away_team": {
+        "base": 26.41509433962264,
+        "tendency": 26.666666666666668,
+        "combined": 26.52,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.06
+      },
+      "game_yrfi_probability": 53.52
+    },
+    "yrfi_probability": 53.52
+  },
+  "metadata": {
+    "generated_at": "2025-07-23T10:16:21.507593",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 777033,
+  "game_date": "2025-07-24",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 18.0,
+        "ratio": "9/50"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 29.49,
+    "pitcher": {
+      "name": "JP Sears",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/11"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "14/52"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.0,
+        "tendency": 46.666666666666664,
+        "combined": 29.47,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.63
+      },
+      "away_team": {
+        "base": 26.923076923076923,
+        "tendency": 33.33333333333333,
+        "combined": 29.49,
+        "pitcher_impact": 12.5,
+        "adjusted": 24.39
+      },
+      "game_yrfi_probability": 39.99
+    },
+    "yrfi_probability": 39.99
+  },
+  "metadata": {
+    "generated_at": "2025-07-23T10:16:21.543760",
+    "data_source": "season_data.json"
+  }
+}
