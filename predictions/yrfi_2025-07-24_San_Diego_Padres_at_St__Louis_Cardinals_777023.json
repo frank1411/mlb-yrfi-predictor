@@ -1,0 +1,67 @@
+{
+  "game_pk": 777023,
+  "game_date": "2025-07-24",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 26.53061224489796,
+        "ratio": "13/49"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 22.31,
+    "pitcher": {
+      "name": "Yu Darvish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.30188679245283,
+        "ratio": "15/53"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.53061224489796,
+        "tendency": 26.666666666666668,
+        "combined": 26.59,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.61
+      },
+      "away_team": {
+        "base": 28.30188679245283,
+        "tendency": 13.333333333333334,
+        "combined": 22.31,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 20.62
+      },
+      "game_yrfi_probability": 35.39
+    },
+    "yrfi_probability": 35.39
+  },
+  "metadata": {
+    "generated_at": "2025-07-24T10:16:44.411306",
+    "data_source": "season_data.json"
+  }
+}

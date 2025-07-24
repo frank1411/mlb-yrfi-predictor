@@ -1,0 +1,67 @@
+{
+  "game_pk": 777018,
+  "game_date": "2025-07-25",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 29.78723404255319,
+        "ratio": "14/47"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 24.0,
+    "pitcher": {
+      "name": "Logan Evans",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "20/50"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.78723404255319,
+        "tendency": 40.0,
+        "combined": 33.87,
+        "pitcher_impact": 20.0,
+        "adjusted": 29.71
+      },
+      "away_team": {
+        "base": 40.0,
+        "tendency": 0.0,
+        "combined": 24.0,
+        "pitcher_impact": 40.0,
+        "adjusted": 28.8
+      },
+      "game_yrfi_probability": 49.95
+    },
+    "yrfi_probability": 49.95
+  },
+  "metadata": {
+    "generated_at": "2025-07-24T10:16:44.426221",
+    "data_source": "season_data.json"
+  }
+}
