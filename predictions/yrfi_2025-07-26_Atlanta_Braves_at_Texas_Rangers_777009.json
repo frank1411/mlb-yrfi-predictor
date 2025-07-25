@@ -1,0 +1,67 @@
+{
+  "game_pk": 777009,
+  "game_date": "2025-07-26",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Nathan Eovaldi",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 17.647058823529413,
+        "ratio": "9/51"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 34.37,
+    "pitcher": {
+      "name": "Joey Wentz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.612244897959183,
+        "ratio": "15/49"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 17.647058823529413,
+        "tendency": 46.666666666666664,
+        "combined": 29.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.48
+      },
+      "away_team": {
+        "base": 30.612244897959183,
+        "tendency": 40.0,
+        "combined": 34.37,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 28.34
+      },
+      "game_yrfi_probability": 43.02
+    },
+    "yrfi_probability": 43.02
+  },
+  "metadata": {
+    "generated_at": "2025-07-25T10:16:23.709835",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 777010,
+  "game_date": "2025-07-26",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Michael Wacha",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/10"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "12/50"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 29.85,
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "12/52"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.0,
+        "tendency": 20.0,
+        "combined": 22.4,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 25.68
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 40.0,
+        "combined": 29.85,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.89
+      },
+      "game_yrfi_probability": 41.21
+    },
+    "yrfi_probability": 41.21
+  },
+  "metadata": {
+    "generated_at": "2025-07-25T10:16:23.716939",
+    "data_source": "season_data.json"
+  }
+}

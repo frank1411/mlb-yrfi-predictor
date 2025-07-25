@@ -1,0 +1,67 @@
+{
+  "game_pk": 777011,
+  "game_date": "2025-07-26",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "16/48"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 19.73,
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "12/50"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 29.65
+      },
+      "away_team": {
+        "base": 24.0,
+        "tendency": 13.333333333333334,
+        "combined": 19.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.81
+      },
+      "game_yrfi_probability": 39.37
+    },
+    "yrfi_probability": 39.37
+  },
+  "metadata": {
+    "generated_at": "2025-07-25T10:16:23.731874",
+    "data_source": "season_data.json"
+  }
+}

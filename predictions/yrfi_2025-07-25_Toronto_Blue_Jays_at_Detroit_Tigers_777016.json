@@ -1,0 +1,67 @@
+{
+  "game_pk": 777016,
+  "game_date": "2025-07-25",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Keider Montero",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "17/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 23.0,
+    "pitcher": {
+      "name": "José Berríos",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "12/48"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 20.0,
+        "combined": 28.0,
+        "pitcher_impact": 30.0,
+        "adjusted": 28.6
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 20.0,
+        "combined": 23.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.6
+      },
+      "game_yrfi_probability": 45.45
+    },
+    "yrfi_probability": 45.45
+  },
+  "metadata": {
+    "generated_at": "2025-07-25T10:16:23.688334",
+    "data_source": "season_data.json"
+  }
+}

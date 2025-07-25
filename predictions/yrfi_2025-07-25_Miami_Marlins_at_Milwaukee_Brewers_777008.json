@@ -1,0 +1,67 @@
+{
+  "game_pk": 777008,
+  "game_date": "2025-07-25",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/10"
+    },
+    "stats": {
+      "base": {
+        "value": 12.0,
+        "ratio": "6/50"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 26.92,
+    "pitcher": {
+      "name": "Cal Quantrill",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 27.083333333333332,
+        "ratio": "13/48"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 12.0,
+        "tendency": 6.666666666666667,
+        "combined": 9.87,
+        "pitcher_impact": 10.0,
+        "adjusted": 9.91
+      },
+      "away_team": {
+        "base": 27.083333333333332,
+        "tendency": 26.666666666666668,
+        "combined": 26.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.84
+      },
+      "game_yrfi_probability": 26.88
+    },
+    "yrfi_probability": 26.88
+  },
+  "metadata": {
+    "generated_at": "2025-07-25T10:16:23.643597",
+    "data_source": "season_data.json"
+  }
+}
