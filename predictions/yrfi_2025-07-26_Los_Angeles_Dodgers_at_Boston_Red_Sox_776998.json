@@ -1,0 +1,67 @@
+{
+  "game_pk": 776998,
+  "game_date": "2025-07-26",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Garrett Crochet",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 33.9622641509434,
+        "ratio": "18/53"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 24.25,
+    "pitcher": {
+      "name": "Clayton Kershaw",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 27.083333333333332,
+        "ratio": "13/48"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.9622641509434,
+        "tendency": 13.333333333333334,
+        "combined": 25.71,
+        "pitcher_impact": 20.0,
+        "adjusted": 24.0
+      },
+      "away_team": {
+        "base": 27.083333333333332,
+        "tendency": 20.0,
+        "combined": 24.25,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 23.64
+      },
+      "game_yrfi_probability": 41.97
+    },
+    "yrfi_probability": 41.97
+  },
+  "metadata": {
+    "generated_at": "2025-07-26T10:14:17.407658",
+    "data_source": "season_data.json"
+  }
+}

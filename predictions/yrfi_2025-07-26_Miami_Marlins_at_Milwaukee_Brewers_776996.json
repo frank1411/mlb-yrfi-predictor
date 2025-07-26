@@ -1,0 +1,67 @@
+{
+  "game_pk": 776996,
+  "game_date": "2025-07-26",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jose Quintana",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 11.76470588235294,
+        "ratio": "6/51"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 26.59,
+    "pitcher": {
+      "name": "Janson Junk",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.53061224489796,
+        "ratio": "13/49"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 11.76470588235294,
+        "tendency": 6.666666666666667,
+        "combined": 9.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 6.81
+      },
+      "away_team": {
+        "base": 26.53061224489796,
+        "tendency": 26.666666666666668,
+        "combined": 26.59,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 28.61
+      },
+      "game_yrfi_probability": 33.47
+    },
+    "yrfi_probability": 33.47
+  },
+  "metadata": {
+    "generated_at": "2025-07-26T10:14:17.400330",
+    "data_source": "season_data.json"
+  }
+}

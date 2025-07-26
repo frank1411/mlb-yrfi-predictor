@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Kansas City Royals
+# Análisis YRFI: Athletics @ Houston Astros
 
 **Fecha:** 2025-07-26  
-**Lanzadores:** Gavin Williams (V) vs Michael Wacha (L)
+**Lanzadores:** Jacob Lopez (V) vs Hunter Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.2%
+**Probabilidad de que anoten en la primera entrada:** 33.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 24.0% (12/50 partidos)
+### Houston Astros (Local)
+- **Estadística base YRFI:** 22.2% (12/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 25.7%
+- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 0.0% (0/6 partidos)
+- **Puntuación ajustada:** 14.9%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.1% (12/52 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/10 partidos)
-- **Puntuación ajustada:** 20.9%
+### Athletics (Visitante)
+- **Estadística base YRFI:** 27.3% (15/55 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Hunter Brown):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 22.2%
 
 ### 📝 Fórmula de Cálculo
 

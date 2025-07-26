@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Kansas City Royals
+# Análisis YRFI: Atlanta Braves @ Texas Rangers
 
 **Fecha:** 2025-07-26  
-**Lanzadores:** Gavin Williams (V) vs Michael Wacha (L)
+**Lanzadores:** Grant Holmes (V) vs Kumar Rocker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.2%
+**Probabilidad de que anoten en la primera entrada:** 49.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 24.0% (12/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 25.7%
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 19.2% (10/52 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 25.0% (2/8 partidos)
+- **Puntuación ajustada:** 28.6%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.1% (12/52 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 30.0% (15/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/10 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 29.8%
 
 ### 📝 Fórmula de Cálculo
 

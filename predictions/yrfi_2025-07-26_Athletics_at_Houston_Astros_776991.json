@@ -1,0 +1,67 @@
+{
+  "game_pk": 776991,
+  "game_date": "2025-07-26",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "12/54"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 27.03,
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "15/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.22222222222222,
+        "tendency": 20.0,
+        "combined": 21.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.93
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 26.666666666666668,
+        "combined": 27.03,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 22.25
+      },
+      "game_yrfi_probability": 33.86
+    },
+    "yrfi_probability": 33.86
+  },
+  "metadata": {
+    "generated_at": "2025-07-26T10:14:17.377395",
+    "data_source": "season_data.json"
+  }
+}

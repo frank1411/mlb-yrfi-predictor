@@ -1,0 +1,67 @@
+{
+  "game_pk": 777000,
+  "game_date": "2025-07-26",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/9"
+    },
+    "stats": {
+      "base": {
+        "value": 41.17647058823529,
+        "ratio": "21/51"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 22.67,
+    "pitcher": {
+      "name": "Ryan Pepiot",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 15.555555555555555,
+        "ratio": "7/45"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.17647058823529,
+        "tendency": 40.0,
+        "combined": 40.71,
+        "pitcher_impact": 12.5,
+        "adjusted": 32.24
+      },
+      "away_team": {
+        "base": 15.555555555555555,
+        "tendency": 33.33333333333333,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "game_yrfi_probability": 42.99
+    },
+    "yrfi_probability": 42.99
+  },
+  "metadata": {
+    "generated_at": "2025-07-26T10:14:17.355782",
+    "data_source": "season_data.json"
+  }
+}

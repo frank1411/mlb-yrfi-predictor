@@ -1,0 +1,67 @@
+{
+  "game_pk": 776995,
+  "game_date": "2025-07-27",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Tyler Anderson",
+      "yrfi_allowed": 55.55555555555556,
+      "yrfi_ratio": "5/9"
+    },
+    "stats": {
+      "base": {
+        "value": 32.6530612244898,
+        "ratio": "16/49"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 26.9,
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.38461538461539,
+        "ratio": "21/52"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.6530612244898,
+        "tendency": 40.0,
+        "combined": 35.59,
+        "pitcher_impact": 40.0,
+        "adjusted": 36.91
+      },
+      "away_team": {
+        "base": 40.38461538461539,
+        "tendency": 6.666666666666667,
+        "combined": 26.9,
+        "pitcher_impact": 55.55555555555556,
+        "adjusted": 35.49
+      },
+      "game_yrfi_probability": 59.3
+    },
+    "yrfi_probability": 59.3
+  },
+  "metadata": {
+    "generated_at": "2025-07-26T10:14:17.429822",
+    "data_source": "season_data.json"
+  }
+}

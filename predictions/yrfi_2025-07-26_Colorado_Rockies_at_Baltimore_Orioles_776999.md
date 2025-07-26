@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Kansas City Royals
+# Análisis YRFI: Colorado Rockies @ Baltimore Orioles
 
 **Fecha:** 2025-07-26  
-**Lanzadores:** Gavin Williams (V) vs Michael Wacha (L)
+**Lanzadores:** Antonio Senzatela (V) vs Trevor Rogers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.2%
+**Probabilidad de que anoten en la primera entrada:** 46.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 24.0% (12/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 25.7%
-
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.1% (12/52 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 22.9% (11/48 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/10 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador visitante (Colorado Rockies - Antonio Senzatela):** 55.6% (5/9 partidos)
+- **Puntuación ajustada:** 37.5%
+
+### Colorado Rockies (Visitante)
+- **Estadística base YRFI:** 17.6% (9/51 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 14.9%
 
 ### 📝 Fórmula de Cálculo
 

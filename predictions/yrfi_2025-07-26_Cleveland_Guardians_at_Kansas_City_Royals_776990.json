@@ -1,13 +1,13 @@
 {
-  "game_pk": 777010,
+  "game_pk": 776990,
   "game_date": "2025-07-26",
   "home_team": {
     "id": "118",
     "name": "Kansas City Royals",
     "pitcher": {
-      "name": "Michael Wacha",
+      "name": "Kris Bubic",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/10"
+      "yrfi_ratio": "0/9"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Cleveland Guardians",
     "combined_yrfi_pct": 29.85,
     "pitcher": {
-      "name": "Gavin Williams",
+      "name": "Tanner Bibee",
       "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "3/9"
+      "yrfi_ratio": "4/12"
     },
     "stats": {
       "base": {
@@ -61,7 +61,7 @@
     "yrfi_probability": 41.21
   },
   "metadata": {
-    "generated_at": "2025-07-26T10:14:17.325802",
+    "generated_at": "2025-07-26T10:14:17.333346",
     "data_source": "season_data.json"
   }
 }

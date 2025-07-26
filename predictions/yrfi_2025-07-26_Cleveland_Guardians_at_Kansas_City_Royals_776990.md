@@ -1,7 +1,7 @@
 # Análisis YRFI: Cleveland Guardians @ Kansas City Royals
 
 **Fecha:** 2025-07-26  
-**Lanzadores:** Gavin Williams (V) vs Michael Wacha (L)
+**Lanzadores:** Tanner Bibee (V) vs Kris Bubic (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -12,13 +12,13 @@
 ### Kansas City Royals (Local)
 - **Estadística base YRFI:** 24.0% (12/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 33.3% (3/9 partidos)
+- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 33.3% (4/12 partidos)
 - **Puntuación ajustada:** 25.7%
 
 ### Cleveland Guardians (Visitante)
 - **Estadística base YRFI:** 23.1% (12/52 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/10 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Kris Bubic):** 0.0% (0/9 partidos)
 - **Puntuación ajustada:** 20.9%
 
 ### 📝 Fórmula de Cálculo

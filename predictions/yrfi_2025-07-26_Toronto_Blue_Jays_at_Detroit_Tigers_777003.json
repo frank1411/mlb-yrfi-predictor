@@ -1,0 +1,67 @@
+{
+  "game_pk": 777003,
+  "game_date": "2025-07-26",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 32.69230769230769,
+        "ratio": "17/52"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 22.69,
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 24.489795918367346,
+        "ratio": "12/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.69230769230769,
+        "tendency": 20.0,
+        "combined": 27.62,
+        "pitcher_impact": 20.0,
+        "adjusted": 25.33
+      },
+      "away_team": {
+        "base": 24.489795918367346,
+        "tendency": 20.0,
+        "combined": 22.69,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 21.34
+      },
+      "game_yrfi_probability": 41.26
+    },
+    "yrfi_probability": 41.26
+  },
+  "metadata": {
+    "generated_at": "2025-07-26T10:14:17.340900",
+    "data_source": "season_data.json"
+  }
+}

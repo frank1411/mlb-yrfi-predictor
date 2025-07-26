@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Kansas City Royals
+# Análisis YRFI: Los Angeles Dodgers @ Boston Red Sox
 
 **Fecha:** 2025-07-26  
-**Lanzadores:** Gavin Williams (V) vs Michael Wacha (L)
+**Lanzadores:** Clayton Kershaw (V) vs Garrett Crochet (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.2%
+**Probabilidad de que anoten en la primera entrada:** 42.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 24.0% (12/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 25.7%
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 34.0% (18/53 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Clayton Kershaw):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 24.0%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.1% (12/52 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/10 partidos)
-- **Puntuación ajustada:** 20.9%
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 27.1% (13/48 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Boston Red Sox - Garrett Crochet):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 23.6%
 
 ### 📝 Fórmula de Cálculo
 
