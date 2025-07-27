@@ -1,0 +1,67 @@
+{
+  "game_pk": 776976,
+  "game_date": "2025-07-27",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Colton Gordon",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 21.818181818181817,
+        "ratio": "12/55"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 30.48,
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "16/56"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.818181818181817,
+        "tendency": 20.0,
+        "combined": 21.09,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.76
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 33.33333333333333,
+        "combined": 30.48,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 26.33
+      },
+      "game_yrfi_probability": 37.2
+    },
+    "yrfi_probability": 37.2
+  },
+  "metadata": {
+    "generated_at": "2025-07-27T10:14:48.044467",
+    "data_source": "season_data.json"
+  }
+}

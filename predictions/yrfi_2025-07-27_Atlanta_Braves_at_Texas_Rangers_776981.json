@@ -1,0 +1,67 @@
+{
+  "game_pk": 776981,
+  "game_date": "2025-07-27",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 18.867924528301888,
+        "ratio": "10/53"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 34.82,
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 31.372549019607842,
+        "ratio": "16/51"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.867924528301888,
+        "tendency": 40.0,
+        "combined": 27.32,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 23.41
+      },
+      "away_team": {
+        "base": 31.372549019607842,
+        "tendency": 40.0,
+        "combined": 34.82,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.88
+      },
+      "game_yrfi_probability": 47.83
+    },
+    "yrfi_probability": 47.83
+  },
+  "metadata": {
+    "generated_at": "2025-07-27T10:14:48.079337",
+    "data_source": "season_data.json"
+  }
+}

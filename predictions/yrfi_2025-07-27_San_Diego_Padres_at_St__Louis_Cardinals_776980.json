@@ -1,0 +1,67 @@
+{
+  "game_pk": 776980,
+  "game_date": "2025-07-27",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "14/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 22.48,
+    "pitcher": {
+      "name": "Stephen Kolek",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "16/56"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.923076923076923,
+        "tendency": 26.666666666666668,
+        "combined": 26.82,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 22.11
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 13.333333333333334,
+        "combined": 22.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.73
+      },
+      "game_yrfi_probability": 34.36
+    },
+    "yrfi_probability": 34.36
+  },
+  "metadata": {
+    "generated_at": "2025-07-27T10:14:48.071577",
+    "data_source": "season_data.json"
+  }
+}

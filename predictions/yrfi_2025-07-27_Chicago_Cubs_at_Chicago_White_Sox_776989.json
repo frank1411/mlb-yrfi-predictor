@@ -1,0 +1,67 @@
+{
+  "game_pk": 776989,
+  "game_date": "2025-07-27",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Grant Taylor",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "15/51"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 30.64,
+    "pitcher": {
+      "name": "Ben Brown",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 28.846153846153843,
+        "ratio": "15/52"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.411764705882355,
+        "tendency": 33.33333333333333,
+        "combined": 30.98,
+        "pitcher_impact": 37.5,
+        "adjusted": 32.94
+      },
+      "away_team": {
+        "base": 28.846153846153843,
+        "tendency": 33.33333333333333,
+        "combined": 30.64,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.45
+      },
+      "game_yrfi_probability": 47.32
+    },
+    "yrfi_probability": 47.32
+  },
+  "metadata": {
+    "generated_at": "2025-07-27T10:14:48.056826",
+    "data_source": "season_data.json"
+  }
+}

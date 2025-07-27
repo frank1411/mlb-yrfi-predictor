@@ -1,0 +1,67 @@
+{
+  "game_pk": 776983,
+  "game_date": "2025-07-27",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "18/54"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 27.81,
+    "pitcher": {
+      "name": "Dustin May",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "4/8"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "14/49"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 6.666666666666667,
+        "combined": 22.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.87
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 26.666666666666668,
+        "combined": 27.81,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.97
+      },
+      "game_yrfi_probability": 49.51
+    },
+    "yrfi_probability": 49.51
+  },
+  "metadata": {
+    "generated_at": "2025-07-27T10:14:47.988158",
+    "data_source": "season_data.json"
+  }
+}

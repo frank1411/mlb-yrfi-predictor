@@ -1,0 +1,67 @@
+{
+  "game_pk": 776977,
+  "game_date": "2025-07-27",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Kyle Hendricks",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "16/50"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 26.44,
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 80.0,
+      "yrfi_ratio": "4/5"
+    },
+    "stats": {
+      "base": {
+        "value": 39.62264150943396,
+        "ratio": "21/53"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.0,
+        "tendency": 33.33333333333333,
+        "combined": 32.53,
+        "pitcher_impact": 80.0,
+        "adjusted": 46.77
+      },
+      "away_team": {
+        "base": 39.62264150943396,
+        "tendency": 6.666666666666667,
+        "combined": 26.44,
+        "pitcher_impact": 44.44444444444444,
+        "adjusted": 31.84
+      },
+      "game_yrfi_probability": 63.72
+    },
+    "yrfi_probability": 63.72
+  },
+  "metadata": {
+    "generated_at": "2025-07-27T10:14:48.086537",
+    "data_source": "season_data.json"
+  }
+}
