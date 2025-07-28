@@ -1,0 +1,67 @@
+{
+  "game_pk": 776964,
+  "game_date": "2025-07-29",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Carson Whisenhunt",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "12/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 14.67,
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "10/50"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.52941176470588,
+        "tendency": 20.0,
+        "combined": 22.12,
+        "pitcher_impact": 37.5,
+        "adjusted": 26.73
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 6.666666666666667,
+        "combined": 14.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 10.27
+      },
+      "game_yrfi_probability": 34.25
+    },
+    "yrfi_probability": 34.25
+  },
+  "metadata": {
+    "generated_at": "2025-07-28T10:16:55.770220",
+    "data_source": "season_data.json"
+  }
+}

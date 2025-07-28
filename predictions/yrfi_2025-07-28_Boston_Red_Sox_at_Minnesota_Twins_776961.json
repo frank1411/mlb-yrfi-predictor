@@ -1,0 +1,67 @@
+{
+  "game_pk": 776961,
+  "game_date": "2025-07-28",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 31.372549019607842,
+        "ratio": "16/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 22.64,
+    "pitcher": {
+      "name": "Richard Fitts",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 28.846153846153843,
+        "ratio": "15/52"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.372549019607842,
+        "tendency": 20.0,
+        "combined": 26.82,
+        "pitcher_impact": 20.0,
+        "adjusted": 24.78
+      },
+      "away_team": {
+        "base": 28.846153846153843,
+        "tendency": 13.333333333333334,
+        "combined": 22.64,
+        "pitcher_impact": 12.5,
+        "adjusted": 19.6
+      },
+      "game_yrfi_probability": 39.52
+    },
+    "yrfi_probability": 39.52
+  },
+  "metadata": {
+    "generated_at": "2025-07-28T10:16:55.710874",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776957,
+  "game_date": "2025-07-29",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "JP Sears",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 35.294117647058826,
+        "ratio": "18/51"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 26.0,
+    "pitcher": {
+      "name": "Luis Castillo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/9"
+    },
+    "stats": {
+      "base": {
+        "value": 38.88888888888889,
+        "ratio": "21/54"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.294117647058826,
+        "tendency": 33.33333333333333,
+        "combined": 34.51,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.16
+      },
+      "away_team": {
+        "base": 38.88888888888889,
+        "tendency": 6.666666666666667,
+        "combined": 26.0,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 21.53
+      },
+      "game_yrfi_probability": 40.49
+    },
+    "yrfi_probability": 40.49
+  },
+  "metadata": {
+    "generated_at": "2025-07-28T10:16:55.777612",
+    "data_source": "season_data.json"
+  }
+}

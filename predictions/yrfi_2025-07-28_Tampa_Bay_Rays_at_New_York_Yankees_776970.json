@@ -1,0 +1,67 @@
+{
+  "game_pk": 776970,
+  "game_date": "2025-07-28",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "16/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 22.27,
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 14.893617021276595,
+        "ratio": "7/47"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.76923076923077,
+        "tendency": 26.666666666666668,
+        "combined": 29.13,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 28.96
+      },
+      "away_team": {
+        "base": 14.893617021276595,
+        "tendency": 33.33333333333333,
+        "combined": 22.27,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.59
+      },
+      "game_yrfi_probability": 40.04
+    },
+    "yrfi_probability": 40.04
+  },
+  "metadata": {
+    "generated_at": "2025-07-28T10:16:55.695482",
+    "data_source": "season_data.json"
+  }
+}

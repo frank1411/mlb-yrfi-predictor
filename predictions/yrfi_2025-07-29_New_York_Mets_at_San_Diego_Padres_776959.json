@@ -1,0 +1,67 @@
+{
+  "game_pk": 776959,
+  "game_date": "2025-07-29",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 24.489795918367346,
+        "ratio": "12/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 26.92,
+    "pitcher": {
+      "name": "Frankie Montas",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 22.641509433962266,
+        "ratio": "12/53"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.489795918367346,
+        "tendency": 20.0,
+        "combined": 22.69,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.89
+      },
+      "away_team": {
+        "base": 22.641509433962266,
+        "tendency": 33.33333333333333,
+        "combined": 26.92,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 25.51
+      },
+      "game_yrfi_probability": 48.52
+    },
+    "yrfi_probability": 48.52
+  },
+  "metadata": {
+    "generated_at": "2025-07-28T10:16:55.762886",
+    "data_source": "season_data.json"
+  }
+}
