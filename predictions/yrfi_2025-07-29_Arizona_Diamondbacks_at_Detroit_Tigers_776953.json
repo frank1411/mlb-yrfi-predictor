@@ -1,0 +1,67 @@
+{
+  "game_pk": 776953,
+  "game_date": "2025-07-29",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/7"
+    },
+    "stats": {
+      "base": {
+        "value": 32.72727272727273,
+        "ratio": "18/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 27.65,
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 28.30188679245283,
+        "ratio": "15/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.72727272727273,
+        "tendency": 26.666666666666668,
+        "combined": 30.3,
+        "pitcher_impact": 30.0,
+        "adjusted": 30.21
+      },
+      "away_team": {
+        "base": 28.30188679245283,
+        "tendency": 26.666666666666668,
+        "combined": 27.65,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.35
+      },
+      "game_yrfi_probability": 43.71
+    },
+    "yrfi_probability": 43.71
+  },
+  "metadata": {
+    "generated_at": "2025-07-29T10:16:34.368437",
+    "data_source": "season_data.json"
+  }
+}

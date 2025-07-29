@@ -1,0 +1,67 @@
+{
+  "game_pk": 776962,
+  "game_date": "2025-07-29",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "12/51"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 19.18,
+    "pitcher": {
+      "name": "Eric Lauer",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "12/52"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.52941176470588,
+        "tendency": 46.666666666666664,
+        "combined": 32.78,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.95
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 13.333333333333334,
+        "combined": 19.18,
+        "pitcher_impact": 50.0,
+        "adjusted": 28.43
+      },
+      "game_yrfi_probability": 52.01
+    },
+    "yrfi_probability": 52.01
+  },
+  "metadata": {
+    "generated_at": "2025-07-29T10:16:34.352938",
+    "data_source": "season_data.json"
+  }
+}

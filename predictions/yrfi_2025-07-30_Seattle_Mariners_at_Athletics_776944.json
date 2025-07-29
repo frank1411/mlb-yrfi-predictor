@@ -1,0 +1,67 @@
+{
+  "game_pk": 776944,
+  "game_date": "2025-07-30",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Luis Severino",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 34.61538461538461,
+        "ratio": "18/52"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 25.58,
+    "pitcher": {
+      "name": "Logan Evans",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 38.18181818181819,
+        "ratio": "21/55"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.61538461538461,
+        "tendency": 33.33333333333333,
+        "combined": 34.1,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 33.87
+      },
+      "away_team": {
+        "base": 38.18181818181819,
+        "tendency": 6.666666666666667,
+        "combined": 25.58,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 27.9
+      },
+      "game_yrfi_probability": 52.32
+    },
+    "yrfi_probability": 52.32
+  },
+  "metadata": {
+    "generated_at": "2025-07-29T10:16:34.459373",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776945,
+  "game_date": "2025-07-30",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "16/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 37.51,
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 35.84905660377358,
+        "ratio": "19/53"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.76923076923077,
+        "tendency": 26.666666666666668,
+        "combined": 29.13,
+        "pitcher_impact": 10.0,
+        "adjusted": 23.39
+      },
+      "away_team": {
+        "base": 35.84905660377358,
+        "tendency": 40.0,
+        "combined": 37.51,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 37.17
+      },
+      "game_yrfi_probability": 51.87
+    },
+    "yrfi_probability": 51.87
+  },
+  "metadata": {
+    "generated_at": "2025-07-29T10:16:34.434776",
+    "data_source": "season_data.json"
+  }
+}

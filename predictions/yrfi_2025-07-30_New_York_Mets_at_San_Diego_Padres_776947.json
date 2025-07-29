@@ -1,0 +1,67 @@
+{
+  "game_pk": 776947,
+  "game_date": "2025-07-30",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Ryan Bergert",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "12/50"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 26.67,
+    "pitcher": {
+      "name": "Sean Manaea",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "12/54"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.0,
+        "tendency": 20.0,
+        "combined": 22.4,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.68
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 33.33333333333333,
+        "combined": 26.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.67
+      },
+      "game_yrfi_probability": 31.42
+    },
+    "yrfi_probability": 31.42
+  },
+  "metadata": {
+    "generated_at": "2025-07-29T10:16:34.442603",
+    "data_source": "season_data.json"
+  }
+}

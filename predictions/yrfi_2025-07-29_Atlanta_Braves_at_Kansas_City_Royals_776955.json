@@ -1,0 +1,67 @@
+{
+  "game_pk": 776955,
+  "game_date": "2025-07-29",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 25.925925925925924,
+        "ratio": "14/54"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 34.11,
+    "pitcher": {
+      "name": "Erick Fedde",
+      "yrfi_allowed": 41.66666666666667,
+      "yrfi_ratio": "5/12"
+    },
+    "stats": {
+      "base": {
+        "value": 30.18867924528302,
+        "ratio": "16/53"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.925925925925924,
+        "tendency": 20.0,
+        "combined": 23.56,
+        "pitcher_impact": 41.66666666666667,
+        "adjusted": 28.99
+      },
+      "away_team": {
+        "base": 30.18867924528302,
+        "tendency": 40.0,
+        "combined": 34.11,
+        "pitcher_impact": 10.0,
+        "adjusted": 26.88
+      },
+      "game_yrfi_probability": 48.08
+    },
+    "yrfi_probability": 48.08
+  },
+  "metadata": {
+    "generated_at": "2025-07-29T10:16:34.396031",
+    "data_source": "season_data.json"
+  }
+}

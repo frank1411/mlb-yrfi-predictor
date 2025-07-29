@@ -1,0 +1,67 @@
+{
+  "game_pk": 776949,
+  "game_date": "2025-07-29",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Max Fried",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 32.075471698113205,
+        "ratio": "17/53"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 23.33,
+    "pitcher": {
+      "name": "Joe Boyle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 16.666666666666664,
+        "ratio": "8/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.075471698113205,
+        "tendency": 33.33333333333333,
+        "combined": 32.58,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.81
+      },
+      "away_team": {
+        "base": 16.666666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 23.33,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 26.33
+      },
+      "game_yrfi_probability": 43.13
+    },
+    "yrfi_probability": 43.13
+  },
+  "metadata": {
+    "generated_at": "2025-07-29T10:16:34.376040",
+    "data_source": "season_data.json"
+  }
+}
