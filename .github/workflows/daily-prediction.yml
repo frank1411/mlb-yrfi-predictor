@@ -2,8 +2,8 @@ name: Daily YRFI Prediction
 
 on:
   schedule:
-    # Ejecutar todos los días a las 10:00 AM UTC (6:00 AM hora de Nueva York)
-    - cron: '0 10 * * *'
+    # Ejecutar todos los días a las 13:00 UTC (9:00 AM hora de Nueva York)
+    - cron: '0 13 * * *'
   # También permitir ejecución manual
   workflow_dispatch:
 
