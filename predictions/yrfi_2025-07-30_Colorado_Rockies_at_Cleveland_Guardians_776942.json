@@ -1,0 +1,67 @@
+{
+  "game_pk": 776942,
+  "game_date": "2025-07-30",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Kolby Allard",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "14/52"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 15.15,
+    "pitcher": {
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "5/10"
+    },
+    "stats": {
+      "base": {
+        "value": 16.363636363636363,
+        "ratio": "9/55"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.923076923076923,
+        "tendency": 40.0,
+        "combined": 32.15,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.51
+      },
+      "away_team": {
+        "base": 16.363636363636363,
+        "tendency": 13.333333333333334,
+        "combined": 15.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 10.61
+      },
+      "game_yrfi_probability": 44.14
+    },
+    "yrfi_probability": 44.14
+  },
+  "metadata": {
+    "generated_at": "2025-07-30T13:34:37.155496",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776929,
+  "game_date": "2025-07-30",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/11"
+    },
+    "stats": {
+      "base": {
+        "value": 10.909090909090908,
+        "ratio": "6/55"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 34.55,
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 30.909090909090907,
+        "ratio": "17/55"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 10.909090909090908,
+        "tendency": 0.0,
+        "combined": 6.55,
+        "pitcher_impact": 25.0,
+        "adjusted": 12.08
+      },
+      "away_team": {
+        "base": 30.909090909090907,
+        "tendency": 40.0,
+        "combined": 34.55,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.18
+      },
+      "game_yrfi_probability": 33.34
+    },
+    "yrfi_probability": 33.34
+  },
+  "metadata": {
+    "generated_at": "2025-07-30T13:34:37.129759",
+    "data_source": "season_data.json"
+  }
+}

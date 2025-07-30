@@ -1,0 +1,67 @@
+{
+  "game_pk": 776931,
+  "game_date": "2025-07-30",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Yu Darvish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.49019607843137,
+        "ratio": "13/51"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 23.76,
+    "pitcher": {
+      "name": "Clay Holmes",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 21.818181818181817,
+        "ratio": "12/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.49019607843137,
+        "tendency": 26.666666666666668,
+        "combined": 25.96,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 23.63
+      },
+      "away_team": {
+        "base": 21.818181818181817,
+        "tendency": 26.666666666666668,
+        "combined": 23.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.63
+      },
+      "game_yrfi_probability": 36.33
+    },
+    "yrfi_probability": 36.33
+  },
+  "metadata": {
+    "generated_at": "2025-07-30T13:34:37.147189",
+    "data_source": "season_data.json"
+  }
+}

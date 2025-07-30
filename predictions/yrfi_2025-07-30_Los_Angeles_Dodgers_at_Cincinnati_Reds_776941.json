@@ -1,0 +1,67 @@
+{
+  "game_pk": 776941,
+  "game_date": "2025-07-30",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 41.81818181818181,
+        "ratio": "23/55"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 27.97,
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.846153846153843,
+        "ratio": "15/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.81818181818181,
+        "tendency": 40.0,
+        "combined": 41.09,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.76
+      },
+      "away_team": {
+        "base": 28.846153846153843,
+        "tendency": 26.666666666666668,
+        "combined": 27.97,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 27.76
+      },
+      "game_yrfi_probability": 48.54
+    },
+    "yrfi_probability": 48.54
+  },
+  "metadata": {
+    "generated_at": "2025-07-30T13:34:37.171522",
+    "data_source": "season_data.json"
+  }
+}
