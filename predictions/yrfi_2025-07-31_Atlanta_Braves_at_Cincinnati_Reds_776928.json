@@ -1,0 +1,67 @@
+{
+  "game_pk": 776928,
+  "game_date": "2025-07-31",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/10"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "24/56"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 30.79,
+    "pitcher": {
+      "name": "Carlos Carrasco",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.09090909090909,
+        "ratio": "16/55"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 40.0,
+        "combined": 41.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.2
+      },
+      "away_team": {
+        "base": 29.09090909090909,
+        "tendency": 33.33333333333333,
+        "combined": 30.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.55
+      },
+      "game_yrfi_probability": 44.46
+    },
+    "yrfi_probability": 44.46
+  },
+  "metadata": {
+    "generated_at": "2025-07-31T13:32:28.957754",
+    "data_source": "season_data.json"
+  }
+}
