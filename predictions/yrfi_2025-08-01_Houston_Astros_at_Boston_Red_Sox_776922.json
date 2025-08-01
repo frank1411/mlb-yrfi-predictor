@@ -1,0 +1,67 @@
+{
+  "game_pk": 776922,
+  "game_date": "2025-08-01",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.54545454545455,
+        "ratio": "19/55"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 21.2,
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 22.0,
+        "ratio": "11/50"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.54545454545455,
+        "tendency": 13.333333333333334,
+        "combined": 26.06,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 26.42
+      },
+      "away_team": {
+        "base": 22.0,
+        "tendency": 20.0,
+        "combined": 21.2,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.84
+      },
+      "game_yrfi_probability": 48.38
+    },
+    "yrfi_probability": 48.38
+  },
+  "metadata": {
+    "generated_at": "2025-08-01T13:32:12.067034",
+    "data_source": "season_data.json"
+  }
+}

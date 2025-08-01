@@ -1,0 +1,67 @@
+{
+  "game_pk": 776914,
+  "game_date": "2025-08-02",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.18518518518518,
+        "ratio": "19/54"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 30.79,
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 29.09090909090909,
+        "ratio": "16/55"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.18518518518518,
+        "tendency": 33.33333333333333,
+        "combined": 34.44,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 37.75
+      },
+      "away_team": {
+        "base": 29.09090909090909,
+        "tendency": 33.33333333333333,
+        "combined": 30.79,
+        "pitcher_impact": 50.0,
+        "adjusted": 36.55
+      },
+      "game_yrfi_probability": 60.5
+    },
+    "yrfi_probability": 60.5
+  },
+  "metadata": {
+    "generated_at": "2025-08-01T13:32:12.123013",
+    "data_source": "season_data.json"
+  }
+}

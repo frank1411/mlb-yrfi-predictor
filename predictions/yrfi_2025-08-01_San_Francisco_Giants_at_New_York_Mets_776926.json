@@ -1,0 +1,67 @@
+{
+  "game_pk": 776926,
+  "game_date": "2025-08-01",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "David Peterson",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 33.9622641509434,
+        "ratio": "18/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 29.21,
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 30.909090909090907,
+        "ratio": "17/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.9622641509434,
+        "tendency": 26.666666666666668,
+        "combined": 31.04,
+        "pitcher_impact": 20.0,
+        "adjusted": 27.73
+      },
+      "away_team": {
+        "base": 30.909090909090907,
+        "tendency": 26.666666666666668,
+        "combined": 29.21,
+        "pitcher_impact": 10.0,
+        "adjusted": 23.45
+      },
+      "game_yrfi_probability": 44.68
+    },
+    "yrfi_probability": 44.68
+  },
+  "metadata": {
+    "generated_at": "2025-08-01T13:32:12.074701",
+    "data_source": "season_data.json"
+  }
+}
