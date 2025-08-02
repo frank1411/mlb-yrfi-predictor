@@ -1,0 +1,67 @@
+{
+  "game_pk": 776901,
+  "game_date": "2025-08-02",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 31.666666666666664,
+        "ratio": "19/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 31.11,
+    "pitcher": {
+      "name": "Blake Snell",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "16/54"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.666666666666664,
+        "tendency": 26.666666666666668,
+        "combined": 29.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.77
+      },
+      "away_team": {
+        "base": 29.629629629629626,
+        "tendency": 33.33333333333333,
+        "combined": 31.11,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 28.7
+      },
+      "game_yrfi_probability": 43.51
+    },
+    "yrfi_probability": 43.51
+  },
+  "metadata": {
+    "generated_at": "2025-08-02T13:24:53.028975",
+    "data_source": "season_data.json"
+  }
+}

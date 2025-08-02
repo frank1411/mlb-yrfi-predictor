@@ -1,0 +1,67 @@
+{
+  "game_pk": 776898,
+  "game_date": "2025-08-03",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Kyle Hendricks",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 30.909090909090907,
+        "ratio": "17/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 32.22,
+    "pitcher": {
+      "name": "Aaron Civale",
+      "yrfi_allowed": 71.42857142857143,
+      "yrfi_ratio": "5/7"
+    },
+    "stats": {
+      "base": {
+        "value": 31.48148148148148,
+        "ratio": "17/54"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.909090909090907,
+        "tendency": 26.666666666666668,
+        "combined": 29.21,
+        "pitcher_impact": 71.42857142857143,
+        "adjusted": 41.88
+      },
+      "away_team": {
+        "base": 31.48148148148148,
+        "tendency": 33.33333333333333,
+        "combined": 32.22,
+        "pitcher_impact": 40.0,
+        "adjusted": 34.56
+      },
+      "game_yrfi_probability": 61.97
+    },
+    "yrfi_probability": 61.97
+  },
+  "metadata": {
+    "generated_at": "2025-08-02T13:24:53.152449",
+    "data_source": "season_data.json"
+  }
+}

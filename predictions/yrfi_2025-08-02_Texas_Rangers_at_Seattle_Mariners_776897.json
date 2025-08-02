@@ -1,0 +1,67 @@
+{
+  "game_pk": 776897,
+  "game_date": "2025-08-02",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Luis Castillo",
+      "yrfi_allowed": 8.333333333333332,
+      "yrfi_ratio": "1/12"
+    },
+    "stats": {
+      "base": {
+        "value": 16.666666666666664,
+        "ratio": "9/54"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 25.33,
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "19/57"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 16.666666666666664,
+        "tendency": 13.333333333333334,
+        "combined": 15.33,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 24.37
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 13.333333333333334,
+        "combined": 25.33,
+        "pitcher_impact": 8.333333333333332,
+        "adjusted": 20.23
+      },
+      "game_yrfi_probability": 39.67
+    },
+    "yrfi_probability": 39.67
+  },
+  "metadata": {
+    "generated_at": "2025-08-02T13:24:53.114569",
+    "data_source": "season_data.json"
+  }
+}

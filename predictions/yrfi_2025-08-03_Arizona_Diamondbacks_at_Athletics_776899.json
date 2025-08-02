@@ -1,0 +1,67 @@
+{
+  "game_pk": 776899,
+  "game_date": "2025-08-03",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "20/55"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 30.48,
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "16/56"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 40.0,
+        "combined": 37.82,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 37.38
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 33.33333333333333,
+        "combined": 30.48,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 31.33
+      },
+      "game_yrfi_probability": 57.0
+    },
+    "yrfi_probability": 57.0
+  },
+  "metadata": {
+    "generated_at": "2025-08-02T13:24:53.144870",
+    "data_source": "season_data.json"
+  }
+}

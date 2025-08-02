@@ -1,0 +1,67 @@
+{
+  "game_pk": 776902,
+  "game_date": "2025-08-02",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 32.075471698113205,
+        "ratio": "17/53"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 38.48,
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "5/10"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "16/56"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.075471698113205,
+        "tendency": 46.666666666666664,
+        "combined": 37.91,
+        "pitcher_impact": 50.0,
+        "adjusted": 41.54
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 53.333333333333336,
+        "combined": 38.48,
+        "pitcher_impact": 30.0,
+        "adjusted": 35.93
+      },
+      "game_yrfi_probability": 62.54
+    },
+    "yrfi_probability": 62.54
+  },
+  "metadata": {
+    "generated_at": "2025-08-02T13:24:53.038996",
+    "data_source": "season_data.json"
+  }
+}

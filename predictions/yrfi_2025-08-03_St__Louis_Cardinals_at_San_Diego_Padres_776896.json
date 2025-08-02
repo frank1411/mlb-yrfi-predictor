@@ -1,0 +1,67 @@
+{
+  "game_pk": 776896,
+  "game_date": "2025-08-03",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Randy Vásquez",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 24.528301886792452,
+        "ratio": "13/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 19.03,
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "15/55"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.528301886792452,
+        "tendency": 26.666666666666668,
+        "combined": 25.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.77
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 6.666666666666667,
+        "combined": 19.03,
+        "pitcher_impact": 10.0,
+        "adjusted": 16.32
+      },
+      "game_yrfi_probability": 31.19
+    },
+    "yrfi_probability": 31.19
+  },
+  "metadata": {
+    "generated_at": "2025-08-02T13:24:53.160217",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776904,
+  "game_date": "2025-08-02",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Austin Gomber",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.9622641509434,
+        "ratio": "18/53"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 21.33,
+    "pitcher": {
+      "name": "Paul Skenes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/12"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "12/54"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.9622641509434,
+        "tendency": 20.0,
+        "combined": 28.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.86
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 20.0,
+        "combined": 21.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.93
+      },
+      "game_yrfi_probability": 43.85
+    },
+    "yrfi_probability": 43.85
+  },
+  "metadata": {
+    "generated_at": "2025-08-02T13:24:53.061852",
+    "data_source": "season_data.json"
+  }
+}

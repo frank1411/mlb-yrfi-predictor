@@ -1,0 +1,67 @@
+{
+  "game_pk": 776909,
+  "game_date": "2025-08-02",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 33.92857142857143,
+        "ratio": "19/56"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 18.27,
+    "pitcher": {
+      "name": "Colton Gordon",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 21.568627450980394,
+        "ratio": "11/51"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.92857142857143,
+        "tendency": 13.333333333333334,
+        "combined": 25.69,
+        "pitcher_impact": 40.0,
+        "adjusted": 29.98
+      },
+      "away_team": {
+        "base": 21.568627450980394,
+        "tendency": 13.333333333333334,
+        "combined": 18.27,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 19.46
+      },
+      "game_yrfi_probability": 43.61
+    },
+    "yrfi_probability": 43.61
+  },
+  "metadata": {
+    "generated_at": "2025-08-02T13:24:53.098024",
+    "data_source": "season_data.json"
+  }
+}
