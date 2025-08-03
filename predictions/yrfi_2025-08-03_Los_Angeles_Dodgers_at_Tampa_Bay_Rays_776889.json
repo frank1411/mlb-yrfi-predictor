@@ -1,0 +1,67 @@
+{
+  "game_pk": 776889,
+  "game_date": "2025-08-03",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Joe Boyle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.78688524590164,
+        "ratio": "20/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 30.79,
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 29.09090909090909,
+        "ratio": "16/55"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.78688524590164,
+        "tendency": 33.33333333333333,
+        "combined": 33.01,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 31.29
+      },
+      "away_team": {
+        "base": 29.09090909090909,
+        "tendency": 33.33333333333333,
+        "combined": 30.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.55
+      },
+      "game_yrfi_probability": 46.1
+    },
+    "yrfi_probability": 46.1
+  },
+  "metadata": {
+    "generated_at": "2025-08-03T13:27:09.643438",
+    "data_source": "season_data.json"
+  }
+}

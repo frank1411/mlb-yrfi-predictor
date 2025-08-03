@@ -1,0 +1,67 @@
+{
+  "game_pk": 776890,
+  "game_date": "2025-08-03",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 40.74074074074074,
+        "ratio": "22/54"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 20.61,
+    "pitcher": {
+      "name": "Charlie Morton",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 25.454545454545453,
+        "ratio": "14/55"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.74074074074074,
+        "tendency": 40.0,
+        "combined": 40.44,
+        "pitcher_impact": 37.5,
+        "adjusted": 39.56
+      },
+      "away_team": {
+        "base": 25.454545454545453,
+        "tendency": 13.333333333333334,
+        "combined": 20.61,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 21.09
+      },
+      "game_yrfi_probability": 52.31
+    },
+    "yrfi_probability": 52.31
+  },
+  "metadata": {
+    "generated_at": "2025-08-03T13:27:09.752664",
+    "data_source": "season_data.json"
+  }
+}
