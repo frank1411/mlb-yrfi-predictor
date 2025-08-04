@@ -1,0 +1,67 @@
+{
+  "game_pk": 776877,
+  "game_date": "2025-08-04",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Jesús Luzardo",
+      "yrfi_allowed": 9.090909090909092,
+      "yrfi_ratio": "1/11"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "22/55"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 35.22,
+    "pitcher": {
+      "name": "Cade Povich",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "16/58"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 33.33333333333333,
+        "combined": 37.33,
+        "pitcher_impact": 20.0,
+        "adjusted": 32.13
+      },
+      "away_team": {
+        "base": 27.586206896551722,
+        "tendency": 46.666666666666664,
+        "combined": 35.22,
+        "pitcher_impact": 9.090909090909092,
+        "adjusted": 27.38
+      },
+      "game_yrfi_probability": 50.71
+    },
+    "yrfi_probability": 50.71
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T13:36:00.940852",
+    "data_source": "season_data.json"
+  }
+}

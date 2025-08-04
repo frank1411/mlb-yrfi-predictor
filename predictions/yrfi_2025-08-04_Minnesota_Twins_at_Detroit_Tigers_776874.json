@@ -1,0 +1,67 @@
+{
+  "game_pk": 776874,
+  "game_date": "2025-08-04",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "18/57"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 21.12,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "15/57"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.57894736842105,
+        "tendency": 13.333333333333334,
+        "combined": 24.28,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.0
+      },
+      "away_team": {
+        "base": 26.31578947368421,
+        "tendency": 13.333333333333334,
+        "combined": 21.12,
+        "pitcher_impact": 12.5,
+        "adjusted": 18.54
+      },
+      "game_yrfi_probability": 44.61
+    },
+    "yrfi_probability": 44.61
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T13:36:00.924863",
+    "data_source": "season_data.json"
+  }
+}

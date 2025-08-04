@@ -1,0 +1,67 @@
+{
+  "game_pk": 776879,
+  "game_date": "2025-08-04",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Johan Oviedo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.785714285714285,
+        "ratio": "15/56"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 28.25,
+    "pitcher": {
+      "name": "Justin Verlander",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 29.310344827586203,
+        "ratio": "17/58"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.785714285714285,
+        "tendency": 33.33333333333333,
+        "combined": 29.4,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.08
+      },
+      "away_team": {
+        "base": 29.310344827586203,
+        "tendency": 26.666666666666668,
+        "combined": 28.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.78
+      },
+      "game_yrfi_probability": 42.31
+    },
+    "yrfi_probability": 42.31
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T13:36:00.919688",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776870,
+  "game_date": "2025-08-05",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Tyler Glasnow",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 39.285714285714285,
+        "ratio": "22/56"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 18.46,
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "15/57"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.285714285714285,
+        "tendency": 33.33333333333333,
+        "combined": 36.9,
+        "pitcher_impact": 37.5,
+        "adjusted": 37.08
+      },
+      "away_team": {
+        "base": 26.31578947368421,
+        "tendency": 6.666666666666667,
+        "combined": 18.46,
+        "pitcher_impact": 20.0,
+        "adjusted": 18.92
+      },
+      "game_yrfi_probability": 48.98
+    },
+    "yrfi_probability": 48.98
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T13:36:01.044470",
+    "data_source": "season_data.json"
+  }
+}

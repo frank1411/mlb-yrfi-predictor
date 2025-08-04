@@ -1,0 +1,67 @@
+{
+  "game_pk": 776880,
+  "game_date": "2025-08-04",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 34.48275862068966,
+        "ratio": "20/58"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 28.88,
+    "pitcher": {
+      "name": "Bailey Falter",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 30.357142857142854,
+        "ratio": "17/56"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.48275862068966,
+        "tendency": 20.0,
+        "combined": 28.69,
+        "pitcher_impact": 30.0,
+        "adjusted": 29.08
+      },
+      "away_team": {
+        "base": 30.357142857142854,
+        "tendency": 26.666666666666668,
+        "combined": 28.88,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.72
+      },
+      "game_yrfi_probability": 48.74
+    },
+    "yrfi_probability": 48.74
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T13:36:00.948570",
+    "data_source": "season_data.json"
+  }
+}
