@@ -1,0 +1,67 @@
+{
+  "game_pk": 776855,
+  "game_date": "2025-08-06",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Nathan Eovaldi",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "11/55"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 41.82,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 38.59649122807017,
+        "ratio": "22/57"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.0,
+        "tendency": 13.333333333333334,
+        "combined": 17.33,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 20.32
+      },
+      "away_team": {
+        "base": 38.59649122807017,
+        "tendency": 46.666666666666664,
+        "combined": 41.82,
+        "pitcher_impact": 12.5,
+        "adjusted": 33.03
+      },
+      "game_yrfi_probability": 46.64
+    },
+    "yrfi_probability": 46.64
+  },
+  "metadata": {
+    "generated_at": "2025-08-05T13:35:45.344048",
+    "data_source": "season_data.json"
+  }
+}

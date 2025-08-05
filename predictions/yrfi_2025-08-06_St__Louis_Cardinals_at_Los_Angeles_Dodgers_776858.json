@@ -1,0 +1,67 @@
+{
+  "game_pk": 776858,
+  "game_date": "2025-08-06",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 38.59649122807017,
+        "ratio": "22/57"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 18.18,
+    "pitcher": {
+      "name": "Miles Mikolas",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 25.862068965517242,
+        "ratio": "15/58"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.59649122807017,
+        "tendency": 33.33333333333333,
+        "combined": 36.49,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 33.73
+      },
+      "away_team": {
+        "base": 25.862068965517242,
+        "tendency": 6.666666666666667,
+        "combined": 18.18,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.73
+      },
+      "game_yrfi_probability": 42.17
+    },
+    "yrfi_probability": 42.17
+  },
+  "metadata": {
+    "generated_at": "2025-08-05T13:35:45.384552",
+    "data_source": "season_data.json"
+  }
+}

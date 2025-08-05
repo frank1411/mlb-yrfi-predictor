@@ -1,0 +1,67 @@
+{
+  "game_pk": 776852,
+  "game_date": "2025-08-06",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Ryne Nelson",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 38.18181818181819,
+        "ratio": "21/55"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 30.92,
+    "pitcher": {
+      "name": "Yu Darvish",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 29.310344827586203,
+        "ratio": "17/58"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.18181818181819,
+        "tendency": 40.0,
+        "combined": 38.91,
+        "pitcher_impact": 50.0,
+        "adjusted": 42.24
+      },
+      "away_team": {
+        "base": 29.310344827586203,
+        "tendency": 33.33333333333333,
+        "combined": 30.92,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 26.64
+      },
+      "game_yrfi_probability": 57.63
+    },
+    "yrfi_probability": 57.63
+  },
+  "metadata": {
+    "generated_at": "2025-08-05T13:35:45.368541",
+    "data_source": "season_data.json"
+  }
+}
