@@ -35,6 +35,14 @@ jobs:
     - name: Run data initialization
       run: python scripts/initialize_season_data.py
     
+    - name: Eliminar predicciones antiguas
+      run: |
+        # Crear directorio predictions si no existe
+        mkdir -p predictions
+        # Eliminar todos los archivos dentro de la carpeta predictions
+        rm -f predictions/*
+        echo "Archivos de predicciones antiguos eliminados"
+    
     - name: Generate predictions
       run: python scripts/generar_pronosticos_jornada.py
     
