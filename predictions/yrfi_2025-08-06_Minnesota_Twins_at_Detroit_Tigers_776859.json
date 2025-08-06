@@ -1,0 +1,67 @@
+{
+  "game_pk": 776859,
+  "game_date": "2025-08-06",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 30.508474576271187,
+        "ratio": "18/59"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 27.95,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 28.8135593220339,
+        "ratio": "17/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.508474576271187,
+        "tendency": 13.333333333333334,
+        "combined": 23.64,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.55
+      },
+      "away_team": {
+        "base": 28.8135593220339,
+        "tendency": 26.666666666666668,
+        "combined": 27.95,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 24.57
+      },
+      "game_yrfi_probability": 48.37
+    },
+    "yrfi_probability": 48.37
+  },
+  "metadata": {
+    "generated_at": "2025-08-06T13:36:36.395307",
+    "data_source": "season_data.json"
+  }
+}

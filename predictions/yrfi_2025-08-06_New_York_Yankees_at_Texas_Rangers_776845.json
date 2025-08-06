@@ -1,0 +1,67 @@
+{
+  "game_pk": 776845,
+  "game_date": "2025-08-06",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 19.642857142857142,
+        "ratio": "11/56"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 38.76,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 37.93103448275862,
+        "ratio": "22/58"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.642857142857142,
+        "tendency": 13.333333333333334,
+        "combined": 17.12,
+        "pitcher_impact": 25.0,
+        "adjusted": 19.48
+      },
+      "away_team": {
+        "base": 37.93103448275862,
+        "tendency": 40.0,
+        "combined": 38.76,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 33.8
+      },
+      "game_yrfi_probability": 46.7
+    },
+    "yrfi_probability": 46.7
+  },
+  "metadata": {
+    "generated_at": "2025-08-06T13:36:36.411753",
+    "data_source": "season_data.json"
+  }
+}

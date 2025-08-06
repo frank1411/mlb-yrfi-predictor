@@ -1,0 +1,67 @@
+{
+  "game_pk": 776849,
+  "game_date": "2025-08-06",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Janson Junk",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "16/58"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 24.85,
+    "pitcher": {
+      "name": "Spencer Arrighetti",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.636363636363637,
+        "ratio": "13/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.586206896551722,
+        "tendency": 26.666666666666668,
+        "combined": 27.22,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.05
+      },
+      "away_team": {
+        "base": 23.636363636363637,
+        "tendency": 26.666666666666668,
+        "combined": 24.85,
+        "pitcher_impact": 25.0,
+        "adjusted": 24.89
+      },
+      "game_yrfi_probability": 39.2
+    },
+    "yrfi_probability": 39.2
+  },
+  "metadata": {
+    "generated_at": "2025-08-06T13:36:36.444000",
+    "data_source": "season_data.json"
+  }
+}

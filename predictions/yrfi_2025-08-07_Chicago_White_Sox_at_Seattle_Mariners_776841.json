@@ -1,0 +1,67 @@
+{
+  "game_pk": 776841,
+  "game_date": "2025-08-07",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 15.789473684210526,
+        "ratio": "9/57"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 33.33,
+    "pitcher": {
+      "name": "Jonathan Cannon",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "6/10"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "19/57"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 15.789473684210526,
+        "tendency": 13.333333333333334,
+        "combined": 14.81,
+        "pitcher_impact": 60.0,
+        "adjusted": 28.36
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 33.33333333333333,
+        "combined": 33.33,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 27.62
+      },
+      "game_yrfi_probability": 48.15
+    },
+    "yrfi_probability": 48.15
+  },
+  "metadata": {
+    "generated_at": "2025-08-06T13:36:36.484697",
+    "data_source": "season_data.json"
+  }
+}

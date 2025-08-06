@@ -1,0 +1,67 @@
+{
+  "game_pk": 776838,
+  "game_date": "2025-08-07",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Anthony DeSclafani",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 39.285714285714285,
+        "ratio": "22/56"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 27.95,
+    "pitcher": {
+      "name": "Nestor Cortes",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.8135593220339,
+        "ratio": "17/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.285714285714285,
+        "tendency": 46.666666666666664,
+        "combined": 42.24,
+        "pitcher_impact": 100.0,
+        "adjusted": 59.57
+      },
+      "away_team": {
+        "base": 28.8135593220339,
+        "tendency": 26.666666666666668,
+        "combined": 27.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.57
+      },
+      "game_yrfi_probability": 67.48
+    },
+    "yrfi_probability": 67.48
+  },
+  "metadata": {
+    "generated_at": "2025-08-06T13:36:36.476659",
+    "data_source": "season_data.json"
+  }
+}

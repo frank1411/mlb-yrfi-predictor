@@ -1,0 +1,67 @@
+{
+  "game_pk": 776853,
+  "game_date": "2025-08-06",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Spencer Strider",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 31.48148148148148,
+        "ratio": "17/54"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 26.95,
+    "pitcher": {
+      "name": "Jose Quintana",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "18/57"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.48148148148148,
+        "tendency": 20.0,
+        "combined": 26.89,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 25.49
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 20.0,
+        "combined": 26.95,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 23.15
+      },
+      "game_yrfi_probability": 42.74
+    },
+    "yrfi_probability": 42.74
+  },
+  "metadata": {
+    "generated_at": "2025-08-06T13:36:36.468831",
+    "data_source": "season_data.json"
+  }
+}

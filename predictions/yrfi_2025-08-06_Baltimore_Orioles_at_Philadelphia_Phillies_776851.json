@@ -1,0 +1,67 @@
+{
+  "game_pk": 776851,
+  "game_date": "2025-08-06",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Ranger Suárez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/8"
+    },
+    "stats": {
+      "base": {
+        "value": 40.35087719298245,
+        "ratio": "23/57"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 29.33,
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "16/60"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.35087719298245,
+        "tendency": 26.666666666666668,
+        "combined": 34.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.41
+      },
+      "away_team": {
+        "base": 26.666666666666668,
+        "tendency": 33.33333333333333,
+        "combined": 29.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.53
+      },
+      "game_yrfi_probability": 39.93
+    },
+    "yrfi_probability": 39.93
+  },
+  "metadata": {
+    "generated_at": "2025-08-06T13:36:36.377676",
+    "data_source": "season_data.json"
+  }
+}
