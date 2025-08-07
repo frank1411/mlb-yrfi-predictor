@@ -1,0 +1,67 @@
+{
+  "game_pk": 776842,
+  "game_date": "2025-08-07",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Carlos Carrasco",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.72727272727273,
+        "ratio": "18/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 28.89,
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 25.925925925925924,
+        "ratio": "14/54"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.72727272727273,
+        "tendency": 26.666666666666668,
+        "combined": 30.3,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 31.21
+      },
+      "away_team": {
+        "base": 25.925925925925924,
+        "tendency": 33.33333333333333,
+        "combined": 28.89,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.22
+      },
+      "game_yrfi_probability": 45.12
+    },
+    "yrfi_probability": 45.12
+  },
+  "metadata": {
+    "generated_at": "2025-08-07T13:35:00.461674",
+    "data_source": "season_data.json"
+  }
+}

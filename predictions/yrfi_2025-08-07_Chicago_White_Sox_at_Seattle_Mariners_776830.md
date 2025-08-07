@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Los Angeles Angels
+# Análisis YRFI: Chicago White Sox @ Seattle Mariners
 
-**Fecha:** 2025-08-06  
-**Lanzadores:** Shane Baz (V) vs Tyler Anderson (L)
+**Fecha:** 2025-08-07  
+**Lanzadores:** Shane Smith (V) vs Logan Gilbert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.2%
+**Probabilidad de que anoten en la primera entrada:** 45.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 28.8% (17/59 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 17.2% (10/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Shane Baz):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 20.7%
+- **Impacto del lanzador visitante (Chicago White Sox - Shane Smith):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 18.8%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 18.9% (10/53 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 32.8% (19/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Tyler Anderson):** 45.5% (5/11 partidos)
-- **Puntuación ajustada:** 30.9%
+- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 33.3% (3/9 partidos)
+- **Puntuación ajustada:** 33.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-06 13:36:36
+- **Generado el:** 2025-08-07 13:35:00
 - **Fuente de datos:** season_data.json

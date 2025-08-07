@@ -1,0 +1,67 @@
+{
+  "game_pk": 776830,
+  "game_date": "2025-08-07",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 17.24137931034483,
+        "ratio": "10/58"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 32.99,
+    "pitcher": {
+      "name": "Shane Smith",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 32.758620689655174,
+        "ratio": "19/58"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 17.24137931034483,
+        "tendency": 20.0,
+        "combined": 18.34,
+        "pitcher_impact": 20.0,
+        "adjusted": 18.84
+      },
+      "away_team": {
+        "base": 32.758620689655174,
+        "tendency": 33.33333333333333,
+        "combined": 32.99,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 33.09
+      },
+      "game_yrfi_probability": 45.7
+    },
+    "yrfi_probability": 45.7
+  },
+  "metadata": {
+    "generated_at": "2025-08-07T13:35:00.442611",
+    "data_source": "season_data.json"
+  }
+}

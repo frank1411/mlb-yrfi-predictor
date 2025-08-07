@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Chicago Cubs
+# Análisis YRFI: Miami Marlins @ Atlanta Braves
 
-**Fecha:** 2025-08-06  
-**Lanzadores:** Andrew Abbott (V) vs Cade Horton (L)
+**Fecha:** 2025-08-07  
+**Lanzadores:** Eury Pérez (V) vs Carlos Carrasco (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.7%
+**Probabilidad de que anoten en la primera entrada:** 45.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 31.6% (18/57 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 32.7% (18/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 12.5% (1/8 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 31.2%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 21.8% (12/55 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 25.9% (14/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Cade Horton):** 14.3% (1/7 partidos)
-- **Puntuación ajustada:** 22.8%
+- **Impacto del lanzador local (Atlanta Braves - Carlos Carrasco):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-06 13:36:36
+- **Generado el:** 2025-08-07 13:35:00
 - **Fuente de datos:** season_data.json

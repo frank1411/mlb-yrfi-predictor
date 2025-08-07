@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Detroit Tigers
+# Análisis YRFI: Cincinnati Reds @ Pittsburgh Pirates
 
-**Fecha:** 2025-08-06  
-**Lanzadores:** Por anunciar (V) vs Jack Flaherty (L)
+**Fecha:** 2025-08-07  
+**Lanzadores:** Brady Singer (V) vs Paul Skenes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.4%
+**Probabilidad de que anoten en la primera entrada:** 50.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 30.5% (18/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.6%
-
-### Minnesota Twins (Visitante)
+### Pittsburgh Pirates (Local)
 - **Estadística base YRFI:** 28.8% (17/59 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 50.0% (5/10 partidos)
+- **Puntuación ajustada:** 40.2%
+
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 21.4% (12/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 16.7% (2/12 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 0.0% (0/10 partidos)
+- **Puntuación ajustada:** 16.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-06 13:36:36
+- **Generado el:** 2025-08-07 13:35:00
 - **Fuente de datos:** season_data.json
