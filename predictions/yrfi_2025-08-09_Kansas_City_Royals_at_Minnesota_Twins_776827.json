@@ -1,0 +1,67 @@
+{
+  "game_pk": 776827,
+  "game_date": "2025-08-09",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 9.090909090909092,
+      "yrfi_ratio": "1/11"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "16/54"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 27.95,
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 28.8135593220339,
+        "ratio": "17/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.629629629629626,
+        "tendency": 33.33333333333333,
+        "combined": 31.11,
+        "pitcher_impact": 20.0,
+        "adjusted": 27.78
+      },
+      "away_team": {
+        "base": 28.8135593220339,
+        "tendency": 26.666666666666668,
+        "combined": 27.95,
+        "pitcher_impact": 9.090909090909092,
+        "adjusted": 22.3
+      },
+      "game_yrfi_probability": 43.89
+    },
+    "yrfi_probability": 43.89
+  },
+  "metadata": {
+    "generated_at": "2025-08-08T13:32:54.661056",
+    "data_source": "season_data.json"
+  }
+}

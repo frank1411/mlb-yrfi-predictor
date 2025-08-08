@@ -1,0 +1,67 @@
+{
+  "game_pk": 776822,
+  "game_date": "2025-08-09",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.074074074074073,
+        "ratio": "13/54"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 21.93,
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 23.214285714285715,
+        "ratio": "13/56"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.074074074074073,
+        "tendency": 26.666666666666668,
+        "combined": 25.11,
+        "pitcher_impact": 25.0,
+        "adjusted": 25.08
+      },
+      "away_team": {
+        "base": 23.214285714285715,
+        "tendency": 20.0,
+        "combined": 21.93,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.35
+      },
+      "game_yrfi_probability": 47.82
+    },
+    "yrfi_probability": 47.82
+  },
+  "metadata": {
+    "generated_at": "2025-08-08T13:32:54.724965",
+    "data_source": "season_data.json"
+  }
+}

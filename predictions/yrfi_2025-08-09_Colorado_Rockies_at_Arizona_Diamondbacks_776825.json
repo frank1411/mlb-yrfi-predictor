@@ -1,0 +1,67 @@
+{
+  "game_pk": 776825,
+  "game_date": "2025-08-09",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 40.35087719298245,
+        "ratio": "23/57"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 20.31,
+    "pitcher": {
+      "name": "Austin Gomber",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 16.071428571428573,
+        "ratio": "9/56"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.35087719298245,
+        "tendency": 46.666666666666664,
+        "combined": 42.88,
+        "pitcher_impact": 25.0,
+        "adjusted": 37.51
+      },
+      "away_team": {
+        "base": 16.071428571428573,
+        "tendency": 26.666666666666668,
+        "combined": 20.31,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 25.13
+      },
+      "game_yrfi_probability": 53.21
+    },
+    "yrfi_probability": 53.21
+  },
+  "metadata": {
+    "generated_at": "2025-08-08T13:32:54.688456",
+    "data_source": "season_data.json"
+  }
+}

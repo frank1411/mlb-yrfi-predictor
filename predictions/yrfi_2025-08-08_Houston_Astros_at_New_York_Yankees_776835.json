@@ -1,0 +1,67 @@
+{
+  "game_pk": 776835,
+  "game_date": "2025-08-08",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 32.142857142857146,
+        "ratio": "18/56"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 28.33,
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "14/56"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.142857142857146,
+        "tendency": 40.0,
+        "combined": 35.29,
+        "pitcher_impact": 25.0,
+        "adjusted": 32.2
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.83
+      },
+      "game_yrfi_probability": 55.81
+    },
+    "yrfi_probability": 55.81
+  },
+  "metadata": {
+    "generated_at": "2025-08-08T13:32:54.619806",
+    "data_source": "season_data.json"
+  }
+}

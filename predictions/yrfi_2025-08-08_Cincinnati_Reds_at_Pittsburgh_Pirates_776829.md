@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Pittsburgh Pirates
 
-**Fecha:** 2025-08-07  
-**Lanzadores:** Brady Singer (V) vs Paul Skenes (L)
+**Fecha:** 2025-08-08  
+**Lanzadores:** Chase Burns (V) vs Mitch Keller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.0%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 28.8% (17/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 50.0% (5/10 partidos)
-- **Puntuación ajustada:** 40.2%
+- **Estadística base YRFI:** 30.0% (18/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 37.5%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 21.4% (12/56 partidos)
+- **Estadística base YRFI:** 21.1% (12/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 0.0% (0/10 partidos)
-- **Puntuación ajustada:** 16.5%
+- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 20.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-07 13:35:00
+- **Generado el:** 2025-08-08 13:32:54
 - **Fuente de datos:** season_data.json

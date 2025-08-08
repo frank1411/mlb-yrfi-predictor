@@ -1,0 +1,67 @@
+{
+  "game_pk": 776831,
+  "game_date": "2025-08-08",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 25.925925925925924,
+        "ratio": "14/54"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 36.67,
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "18/60"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.925925925925924,
+        "tendency": 33.33333333333333,
+        "combined": 28.89,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.22
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 46.666666666666664,
+        "combined": 36.67,
+        "pitcher_impact": 40.0,
+        "adjusted": 37.67
+      },
+      "game_yrfi_probability": 50.27
+    },
+    "yrfi_probability": 50.27
+  },
+  "metadata": {
+    "generated_at": "2025-08-08T13:32:54.611852",
+    "data_source": "season_data.json"
+  }
+}
