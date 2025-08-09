@@ -1,0 +1,67 @@
+{
+  "game_pk": 776805,
+  "game_date": "2025-08-10",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Evans",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 16.666666666666664,
+        "ratio": "10/60"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 31.76,
+    "pitcher": {
+      "name": "Joe Boyle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 21.818181818181817,
+        "ratio": "12/55"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 16.666666666666664,
+        "tendency": 20.0,
+        "combined": 18.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.6
+      },
+      "away_team": {
+        "base": 21.818181818181817,
+        "tendency": 46.666666666666664,
+        "combined": 31.76,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 27.23
+      },
+      "game_yrfi_probability": 36.4
+    },
+    "yrfi_probability": 36.4
+  },
+  "metadata": {
+    "generated_at": "2025-08-09T13:23:13.783783",
+    "data_source": "season_data.json"
+  }
+}

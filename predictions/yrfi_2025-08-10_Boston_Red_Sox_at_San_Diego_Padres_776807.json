@@ -1,0 +1,67 @@
+{
+  "game_pk": 776807,
+  "game_date": "2025-08-10",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "14/56"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 26.74,
+    "pitcher": {
+      "name": "Lucas Giolito",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 26.785714285714285,
+        "ratio": "15/56"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 27.97
+      },
+      "away_team": {
+        "base": 26.785714285714285,
+        "tendency": 26.666666666666668,
+        "combined": 26.74,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 23.0
+      },
+      "game_yrfi_probability": 44.54
+    },
+    "yrfi_probability": 44.54
+  },
+  "metadata": {
+    "generated_at": "2025-08-09T13:23:13.767580",
+    "data_source": "season_data.json"
+  }
+}

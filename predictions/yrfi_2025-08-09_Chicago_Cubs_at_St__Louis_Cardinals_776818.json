@@ -1,0 +1,67 @@
+{
+  "game_pk": 776818,
+  "game_date": "2025-08-09",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Andre Pallante",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 24.561403508771928,
+        "ratio": "14/57"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 29.61,
+    "pitcher": {
+      "name": "Colin Rea",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "18/57"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.561403508771928,
+        "tendency": 6.666666666666667,
+        "combined": 17.4,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 20.75
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 26.666666666666668,
+        "combined": 29.61,
+        "pitcher_impact": 40.0,
+        "adjusted": 32.73
+      },
+      "game_yrfi_probability": 46.69
+    },
+    "yrfi_probability": 46.69
+  },
+  "metadata": {
+    "generated_at": "2025-08-09T13:23:13.743111",
+    "data_source": "season_data.json"
+  }
+}

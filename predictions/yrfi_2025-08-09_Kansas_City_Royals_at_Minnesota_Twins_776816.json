@@ -1,0 +1,67 @@
+{
+  "game_pk": 776816,
+  "game_date": "2025-08-09",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 30.909090909090907,
+        "ratio": "17/55"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 31.33,
+    "pitcher": {
+      "name": "Noah Cameron",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/7"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "18/60"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.909090909090907,
+        "tendency": 33.33333333333333,
+        "combined": 31.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.32
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 33.33333333333333,
+        "combined": 31.33,
+        "pitcher_impact": 37.5,
+        "adjusted": 33.18
+      },
+      "game_yrfi_probability": 48.09
+    },
+    "yrfi_probability": 48.09
+  },
+  "metadata": {
+    "generated_at": "2025-08-09T13:23:13.721588",
+    "data_source": "season_data.json"
+  }
+}

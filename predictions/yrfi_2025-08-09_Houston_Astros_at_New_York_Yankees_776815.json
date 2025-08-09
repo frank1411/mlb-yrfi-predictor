@@ -1,0 +1,67 @@
+{
+  "game_pk": 776815,
+  "game_date": "2025-08-09",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Luis Gil",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "18/57"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 31.79,
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "15/57"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.57894736842105,
+        "tendency": 33.33333333333333,
+        "combined": 32.28,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 30.78
+      },
+      "away_team": {
+        "base": 26.31578947368421,
+        "tendency": 40.0,
+        "combined": 31.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.25
+      },
+      "game_yrfi_probability": 46.18
+    },
+    "yrfi_probability": 46.18
+  },
+  "metadata": {
+    "generated_at": "2025-08-09T13:23:13.679154",
+    "data_source": "season_data.json"
+  }
+}
