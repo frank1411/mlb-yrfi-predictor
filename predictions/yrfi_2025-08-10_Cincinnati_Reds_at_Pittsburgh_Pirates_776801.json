@@ -1,0 +1,67 @@
+{
+  "game_pk": 776801,
+  "game_date": "2025-08-10",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mike Burrows",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 29.03225806451613,
+        "ratio": "18/62"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 22.87,
+    "pitcher": {
+      "name": "Zack Littell",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 20.33898305084746,
+        "ratio": "12/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.03225806451613,
+        "tendency": 46.666666666666664,
+        "combined": 36.09,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 32.18
+      },
+      "away_team": {
+        "base": 20.33898305084746,
+        "tendency": 26.666666666666668,
+        "combined": 22.87,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.51
+      },
+      "game_yrfi_probability": 48.12
+    },
+    "yrfi_probability": 48.12
+  },
+  "metadata": {
+    "generated_at": "2025-08-10T13:23:42.216345",
+    "data_source": "season_data.json"
+  }
+}

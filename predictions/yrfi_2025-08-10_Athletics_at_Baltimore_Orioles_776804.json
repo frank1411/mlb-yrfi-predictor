@@ -1,0 +1,67 @@
+{
+  "game_pk": 776804,
+  "game_date": "2025-08-10",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Cade Povich",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "16/56"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 37.05,
+    "pitcher": {
+      "name": "Luis Morales",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.64516129032258,
+        "ratio": "19/62"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.57142857142857,
+        "tendency": 40.0,
+        "combined": 33.14,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.2
+      },
+      "away_team": {
+        "base": 30.64516129032258,
+        "tendency": 46.666666666666664,
+        "combined": 37.05,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 30.22
+      },
+      "game_yrfi_probability": 46.41
+    },
+    "yrfi_probability": 46.41
+  },
+  "metadata": {
+    "generated_at": "2025-08-10T13:23:42.203947",
+    "data_source": "season_data.json"
+  }
+}

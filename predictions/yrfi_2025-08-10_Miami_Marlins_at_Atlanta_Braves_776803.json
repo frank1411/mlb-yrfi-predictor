@@ -1,0 +1,67 @@
+{
+  "game_pk": 776803,
+  "game_date": "2025-08-10",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Joey Wentz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 32.20338983050847,
+        "ratio": "19/59"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 22.48,
+    "pitcher": {
+      "name": "Cal Quantrill",
+      "yrfi_allowed": 8.333333333333332,
+      "yrfi_ratio": "1/12"
+    },
+    "stats": {
+      "base": {
+        "value": 24.137931034482758,
+        "ratio": "14/58"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.20338983050847,
+        "tendency": 20.0,
+        "combined": 27.32,
+        "pitcher_impact": 8.333333333333332,
+        "adjusted": 21.63
+      },
+      "away_team": {
+        "base": 24.137931034482758,
+        "tendency": 20.0,
+        "combined": 22.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.74
+      },
+      "game_yrfi_probability": 33.97
+    },
+    "yrfi_probability": 33.97
+  },
+  "metadata": {
+    "generated_at": "2025-08-10T13:23:42.228585",
+    "data_source": "season_data.json"
+  }
+}

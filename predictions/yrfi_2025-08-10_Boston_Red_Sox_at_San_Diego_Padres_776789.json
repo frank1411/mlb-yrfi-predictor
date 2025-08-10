@@ -1,0 +1,67 @@
+{
+  "game_pk": 776789,
+  "game_date": "2025-08-10",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 24.561403508771928,
+        "ratio": "14/57"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 30.18,
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "3/6"
+    },
+    "stats": {
+      "base": {
+        "value": 28.07017543859649,
+        "ratio": "16/57"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.561403508771928,
+        "tendency": 26.666666666666668,
+        "combined": 25.4,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.78
+      },
+      "away_team": {
+        "base": 28.07017543859649,
+        "tendency": 33.33333333333333,
+        "combined": 30.18,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 26.58
+      },
+      "game_yrfi_probability": 50.65
+    },
+    "yrfi_probability": 50.65
+  },
+  "metadata": {
+    "generated_at": "2025-08-10T13:23:42.313127",
+    "data_source": "season_data.json"
+  }
+}

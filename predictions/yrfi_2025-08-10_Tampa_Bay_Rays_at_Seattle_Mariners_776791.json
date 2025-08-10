@@ -1,0 +1,67 @@
+{
+  "game_pk": 776791,
+  "game_date": "2025-08-10",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 18.0327868852459,
+        "ratio": "11/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 32.6,
+    "pitcher": {
+      "name": "Adrian Houser",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 23.214285714285715,
+        "ratio": "13/56"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.0327868852459,
+        "tendency": 26.666666666666668,
+        "combined": 21.49,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 19.33
+      },
+      "away_team": {
+        "base": 23.214285714285715,
+        "tendency": 46.666666666666664,
+        "combined": 32.6,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 29.48
+      },
+      "game_yrfi_probability": 43.11
+    },
+    "yrfi_probability": 43.11
+  },
+  "metadata": {
+    "generated_at": "2025-08-10T13:23:42.321478",
+    "data_source": "season_data.json"
+  }
+}
