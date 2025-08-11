@@ -1,0 +1,67 @@
+{
+  "game_pk": 776792,
+  "game_date": "2025-08-11",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/11"
+    },
+    "stats": {
+      "base": {
+        "value": 42.3728813559322,
+        "ratio": "25/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 23.25,
+    "pitcher": {
+      "name": "Taijuan Walker",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 25.423728813559322,
+        "ratio": "15/59"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.3728813559322,
+        "tendency": 26.666666666666668,
+        "combined": 36.09,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 35.26
+      },
+      "away_team": {
+        "base": 25.423728813559322,
+        "tendency": 20.0,
+        "combined": 23.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.28
+      },
+      "game_yrfi_probability": 45.8
+    },
+    "yrfi_probability": 45.8
+  },
+  "metadata": {
+    "generated_at": "2025-08-11T13:31:53.501043",
+    "data_source": "season_data.json"
+  }
+}

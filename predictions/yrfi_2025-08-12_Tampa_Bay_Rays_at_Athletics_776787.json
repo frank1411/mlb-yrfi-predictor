@@ -1,0 +1,67 @@
+{
+  "game_pk": 776787,
+  "game_date": "2025-08-12",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 55.55555555555556,
+      "yrfi_ratio": "5/9"
+    },
+    "stats": {
+      "base": {
+        "value": 35.08771929824561,
+        "ratio": "20/57"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 32.35,
+    "pitcher": {
+      "name": "Ryan Pepiot",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 22.807017543859647,
+        "ratio": "13/57"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.08771929824561,
+        "tendency": 46.666666666666664,
+        "combined": 39.72,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 33.26
+      },
+      "away_team": {
+        "base": 22.807017543859647,
+        "tendency": 46.666666666666664,
+        "combined": 32.35,
+        "pitcher_impact": 55.55555555555556,
+        "adjusted": 39.31
+      },
+      "game_yrfi_probability": 59.5
+    },
+    "yrfi_probability": 59.5
+  },
+  "metadata": {
+    "generated_at": "2025-08-11T13:31:53.580702",
+    "data_source": "season_data.json"
+  }
+}

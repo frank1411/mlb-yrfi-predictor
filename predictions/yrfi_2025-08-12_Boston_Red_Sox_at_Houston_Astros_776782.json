@@ -1,0 +1,67 @@
+{
+  "game_pk": 776782,
+  "game_date": "2025-08-12",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Cristian Javier",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.728813559322035,
+        "ratio": "14/59"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 29.89,
+    "pitcher": {
+      "name": "Garrett Crochet",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "16/58"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.728813559322035,
+        "tendency": 53.333333333333336,
+        "combined": 35.57,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 29.9
+      },
+      "away_team": {
+        "base": 27.586206896551722,
+        "tendency": 33.33333333333333,
+        "combined": 29.89,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.92
+      },
+      "game_yrfi_probability": 44.56
+    },
+    "yrfi_probability": 44.56
+  },
+  "metadata": {
+    "generated_at": "2025-08-11T13:31:53.555901",
+    "data_source": "season_data.json"
+  }
+}

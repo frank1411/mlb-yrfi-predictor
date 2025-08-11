@@ -1,0 +1,67 @@
+{
+  "game_pk": 776783,
+  "game_date": "2025-08-11",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Miles Mikolas",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "5/10"
+    },
+    "stats": {
+      "base": {
+        "value": 23.728813559322035,
+        "ratio": "14/59"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 17.15,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 15.254237288135593,
+        "ratio": "9/59"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.728813559322035,
+        "tendency": 0.0,
+        "combined": 14.24,
+        "pitcher_impact": 50.0,
+        "adjusted": 24.97
+      },
+      "away_team": {
+        "base": 15.254237288135593,
+        "tendency": 20.0,
+        "combined": 17.15,
+        "pitcher_impact": 50.0,
+        "adjusted": 27.01
+      },
+      "game_yrfi_probability": 45.24
+    },
+    "yrfi_probability": 45.24
+  },
+  "metadata": {
+    "generated_at": "2025-08-11T13:31:53.539585",
+    "data_source": "season_data.json"
+  }
+}
