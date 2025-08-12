@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Los Angeles Angels
+# Análisis YRFI: Chicago Cubs @ Toronto Blue Jays
 
 **Fecha:** 2025-08-12  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs José Soriano (L)
+**Lanzadores:** Ben Brown (V) vs José Berríos (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.5%
+**Probabilidad de que anoten en la primera entrada:** 52.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 28.3% (17/60 partidos)
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 29.8% (17/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 25.0%
+- **Impacto del lanzador visitante (Chicago Cubs - Ben Brown):** 44.4% (4/9 partidos)
+- **Puntuación ajustada:** 31.5%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 28.6% (16/56 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 32.2% (19/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - José Soriano):** 15.4% (2/13 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador local (Toronto Blue Jays - José Berríos):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 31.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-11 13:31:53
+- **Generado el:** 2025-08-12 13:28:30
 - **Fuente de datos:** season_data.json

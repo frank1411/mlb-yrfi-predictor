@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ Texas Rangers
+# Análisis YRFI: Boston Red Sox @ Houston Astros
 
-**Fecha:** 2025-08-12  
-**Lanzadores:** Ryne Nelson (V) vs Nathan Eovaldi (L)
+**Fecha:** 2025-08-13  
+**Lanzadores:** Dustin May (V) vs Spencer Arrighetti (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.8%
+**Probabilidad de que anoten en la primera entrada:** 55.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
+### Houston Astros (Local)
 - **Estadística base YRFI:** 23.3% (14/60 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Ryne Nelson):** 28.6% (2/7 partidos)
-- **Puntuación ajustada:** 27.7%
-
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 29.3% (17/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 30.6%
+- **Impacto del lanzador visitante (Boston Red Sox - Dustin May):** 55.6% (5/9 partidos)
+- **Puntuación ajustada:** 41.4%
+
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 28.8% (17/59 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Spencer Arrighetti):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-11 13:31:53
+- **Generado el:** 2025-08-12 13:28:30
 - **Fuente de datos:** season_data.json

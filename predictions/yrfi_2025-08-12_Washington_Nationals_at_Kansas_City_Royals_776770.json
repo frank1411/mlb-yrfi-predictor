@@ -1,0 +1,67 @@
+{
+  "game_pk": 776770,
+  "game_date": "2025-08-12",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Michael Wacha",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/11"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "15/57"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 25.67,
+    "pitcher": {
+      "name": "Mitchell Parker",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "15/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.31578947368421,
+        "tendency": 33.33333333333333,
+        "combined": 29.12,
+        "pitcher_impact": 40.0,
+        "adjusted": 32.39
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.97
+      },
+      "game_yrfi_probability": 44.54
+    },
+    "yrfi_probability": 44.54
+  },
+  "metadata": {
+    "generated_at": "2025-08-12T13:28:30.056477",
+    "data_source": "season_data.json"
+  }
+}

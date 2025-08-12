@@ -1,0 +1,67 @@
+{
+  "game_pk": 776769,
+  "game_date": "2025-08-13",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Spencer Arrighetti",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "14/60"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 33.29,
+    "pitcher": {
+      "name": "Dustin May",
+      "yrfi_allowed": 55.55555555555556,
+      "yrfi_ratio": "5/9"
+    },
+    "stats": {
+      "base": {
+        "value": 28.8135593220339,
+        "ratio": "17/59"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.333333333333332,
+        "tendency": 53.333333333333336,
+        "combined": 35.33,
+        "pitcher_impact": 55.55555555555556,
+        "adjusted": 41.4
+      },
+      "away_team": {
+        "base": 28.8135593220339,
+        "tendency": 40.0,
+        "combined": 33.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.3
+      },
+      "game_yrfi_probability": 55.05
+    },
+    "yrfi_probability": 55.05
+  },
+  "metadata": {
+    "generated_at": "2025-08-12T13:28:30.095599",
+    "data_source": "season_data.json"
+  }
+}

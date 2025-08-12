@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Cincinnati Reds
 
-**Fecha:** 2025-08-11  
-**Lanzadores:** Taijuan Walker (V) vs Andrew Abbott (L)
+**Fecha:** 2025-08-12  
+**Lanzadores:** Ranger Suárez (V) vs Brady Singer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.8%
+**Probabilidad de que anoten en la primera entrada:** 44.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 42.4% (25/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Taijuan Walker):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 35.3%
+- **Estadística base YRFI:** 43.3% (26/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Ranger Suárez):** 12.5% (1/8 partidos)
+- **Puntuación ajustada:** 31.3%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.4% (15/59 partidos)
+- **Estadística base YRFI:** 25.0% (15/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 0.0% (0/11 partidos)
-- **Puntuación ajustada:** 16.3%
+- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 8.3% (1/12 partidos)
+- **Puntuación ajustada:** 18.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-11 13:31:53
+- **Generado el:** 2025-08-12 13:28:30
 - **Fuente de datos:** season_data.json

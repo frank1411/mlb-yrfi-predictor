@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Chicago White Sox
 
-**Fecha:** 2025-08-11  
-**Lanzadores:** Chris Paddack (V) vs Elvis Peguero (L)
+**Fecha:** 2025-08-12  
+**Lanzadores:** Jack Flaherty (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.7%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 29.3% (17/58 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Chris Paddack):** 50.0% (6/12 partidos)
-- **Puntuación ajustada:** 36.6%
+- **Estadística base YRFI:** 28.8% (17/59 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 25.6%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 25.0% (14/56 partidos)
+- **Estadística base YRFI:** 24.6% (14/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Elvis Peguero):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.2%
+- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 29.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-11 13:31:53
+- **Generado el:** 2025-08-12 13:28:30
 - **Fuente de datos:** season_data.json

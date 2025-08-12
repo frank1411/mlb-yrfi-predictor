@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Athletics
 
-**Fecha:** 2025-08-12  
-**Lanzadores:** Ryan Pepiot (V) vs Jeffrey Springs (L)
+**Fecha:** 2025-08-13  
+**Lanzadores:** Shane Baz (V) vs Jacob Lopez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.5%
+**Probabilidad de que anoten en la primera entrada:** 51.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 35.1% (20/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Ryan Pepiot):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 33.3%
+- **Estadística base YRFI:** 34.5% (20/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Shane Baz):** 9.1% (1/11 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 22.8% (13/57 partidos)
+- **Estadística base YRFI:** 22.4% (13/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 55.6% (5/9 partidos)
-- **Puntuación ajustada:** 39.3%
+- **Impacto del lanzador local (Athletics - Jacob Lopez):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-11 13:31:53
+- **Generado el:** 2025-08-12 13:28:30
 - **Fuente de datos:** season_data.json

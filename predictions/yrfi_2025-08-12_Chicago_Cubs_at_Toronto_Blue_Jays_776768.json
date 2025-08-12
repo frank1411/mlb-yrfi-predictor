@@ -1,0 +1,67 @@
+{
+  "game_pk": 776768,
+  "game_date": "2025-08-12",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "José Berríos",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 29.82456140350877,
+        "ratio": "17/57"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 32.66,
+    "pitcher": {
+      "name": "Ben Brown",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
+    },
+    "stats": {
+      "base": {
+        "value": 32.20338983050847,
+        "ratio": "19/59"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.82456140350877,
+        "tendency": 20.0,
+        "combined": 25.89,
+        "pitcher_impact": 44.44444444444444,
+        "adjusted": 31.46
+      },
+      "away_team": {
+        "base": 32.20338983050847,
+        "tendency": 33.33333333333333,
+        "combined": 32.66,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 31.04
+      },
+      "game_yrfi_probability": 52.73
+    },
+    "yrfi_probability": 52.73
+  },
+  "metadata": {
+    "generated_at": "2025-08-12T13:28:30.039684",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776764,
+  "game_date": "2025-08-13",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 22.950819672131146,
+        "ratio": "14/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 38.62,
+    "pitcher": {
+      "name": "Anthony DeSclafani",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.8135593220339,
+        "ratio": "17/59"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.950819672131146,
+        "tendency": 26.666666666666668,
+        "combined": 24.44,
+        "pitcher_impact": 100.0,
+        "adjusted": 47.11
+      },
+      "away_team": {
+        "base": 28.8135593220339,
+        "tendency": 53.333333333333336,
+        "combined": 38.62,
+        "pitcher_impact": 20.0,
+        "adjusted": 33.04
+      },
+      "game_yrfi_probability": 64.58
+    },
+    "yrfi_probability": 64.58
+  },
+  "metadata": {
+    "generated_at": "2025-08-12T13:28:30.087153",
+    "data_source": "season_data.json"
+  }
+}
