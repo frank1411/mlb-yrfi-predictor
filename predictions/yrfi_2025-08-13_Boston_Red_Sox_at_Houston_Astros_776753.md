@@ -1,7 +1,7 @@
 # Análisis YRFI: Boston Red Sox @ Houston Astros
 
 **Fecha:** 2025-08-13  
-**Lanzadores:** Dustin May (V) vs Spencer Arrighetti (L)
+**Lanzadores:** Walker Buehler (V) vs Hunter Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -10,16 +10,16 @@
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 23.3% (14/60 partidos)
+- **Estadística base YRFI:** 23.0% (14/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Dustin May):** 55.6% (5/9 partidos)
-- **Puntuación ajustada:** 41.4%
+- **Impacto del lanzador visitante (Boston Red Sox - Walker Buehler):** 40.0% (4/10 partidos)
+- **Puntuación ajustada:** 36.6%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 28.8% (17/59 partidos)
+- **Estadística base YRFI:** 28.3% (17/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Spencer Arrighetti):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador local (Houston Astros - Hunter Brown):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 29.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-12 13:28:30
+- **Generado el:** 2025-08-13 13:29:30
 - **Fuente de datos:** season_data.json

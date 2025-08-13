@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ St. Louis Cardinals
 
-**Fecha:** 2025-08-12  
-**Lanzadores:** Kyle Freeland (V) vs Matthew Liberatore (L)
+**Fecha:** 2025-08-13  
+**Lanzadores:** Austin Gomber (V) vs Michael McGreevy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.4%
+**Probabilidad de que anoten en la primera entrada:** 36.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 23.3% (14/60 partidos)
+- **Estadística base YRFI:** 23.0% (14/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 54.5% (6/11 partidos)
-- **Puntuación ajustada:** 26.2%
+- **Impacto del lanzador visitante (Colorado Rockies - Austin Gomber):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 21.6%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 15.0% (9/60 partidos)
+- **Estadística base YRFI:** 14.8% (9/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 17.9%
+- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 19.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-12 13:28:30
+- **Generado el:** 2025-08-13 13:29:30
 - **Fuente de datos:** season_data.json

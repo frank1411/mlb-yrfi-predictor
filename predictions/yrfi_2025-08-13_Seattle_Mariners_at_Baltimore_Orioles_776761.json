@@ -1,0 +1,67 @@
+{
+  "game_pk": 776761,
+  "game_date": "2025-08-13",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "16/58"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 37.13,
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "4/6"
+    },
+    "stats": {
+      "base": {
+        "value": 39.6551724137931,
+        "ratio": "23/58"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.586206896551722,
+        "tendency": 26.666666666666668,
+        "combined": 27.22,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 39.05
+      },
+      "away_team": {
+        "base": 39.6551724137931,
+        "tendency": 33.33333333333333,
+        "combined": 37.13,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.99
+      },
+      "game_yrfi_probability": 54.89
+    },
+    "yrfi_probability": 54.89
+  },
+  "metadata": {
+    "generated_at": "2025-08-13T13:29:30.738191",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Chicago White Sox
 
-**Fecha:** 2025-08-12  
-**Lanzadores:** Jack Flaherty (V) vs Por anunciar (L)
+**Fecha:** 2025-08-13  
+**Lanzadores:** Por anunciar (V) vs Shane Smith (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.2%
+**Probabilidad de que anoten en la primera entrada:** 50.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 28.8% (17/59 partidos)
+- **Estadística base YRFI:** 28.3% (17/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador visitante (Detroit Tigers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 34.4%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 24.6% (14/57 partidos)
+- **Estadística base YRFI:** 24.1% (14/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 29.1%
+- **Impacto del lanzador local (Chicago White Sox - Shane Smith):** 33.3% (3/9 partidos)
+- **Puntuación ajustada:** 23.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-12 13:28:30
+- **Generado el:** 2025-08-13 13:29:30
 - **Fuente de datos:** season_data.json

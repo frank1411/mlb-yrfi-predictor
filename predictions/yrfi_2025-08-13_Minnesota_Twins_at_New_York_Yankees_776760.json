@@ -1,0 +1,67 @@
+{
+  "game_pk": 776760,
+  "game_date": "2025-08-13",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.42622950819672,
+        "ratio": "21/61"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 34.39,
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 30.64516129032258,
+        "ratio": "19/62"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.42622950819672,
+        "tendency": 46.666666666666664,
+        "combined": 39.32,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 38.43
+      },
+      "away_team": {
+        "base": 30.64516129032258,
+        "tendency": 40.0,
+        "combined": 34.39,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 44.07
+      },
+      "game_yrfi_probability": 65.56
+    },
+    "yrfi_probability": 65.56
+  },
+  "metadata": {
+    "generated_at": "2025-08-13T13:29:30.755399",
+    "data_source": "season_data.json"
+  }
+}

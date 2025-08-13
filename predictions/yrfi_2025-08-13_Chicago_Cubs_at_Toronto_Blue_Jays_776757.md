@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Toronto Blue Jays
 
-**Fecha:** 2025-08-12  
-**Lanzadores:** Ben Brown (V) vs José Berríos (L)
+**Fecha:** 2025-08-13  
+**Lanzadores:** Cade Horton (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.7%
+**Probabilidad de que anoten en la primera entrada:** 62.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.8% (17/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Ben Brown):** 44.4% (4/9 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Estadística base YRFI:** 31.0% (18/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Cade Horton):** 66.7% (4/6 partidos)
+- **Puntuación ajustada:** 40.5%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 32.2% (19/59 partidos)
+- **Estadística base YRFI:** 31.7% (19/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - José Berríos):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 31.0%
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 45.5% (5/11 partidos)
+- **Puntuación ajustada:** 36.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-12 13:28:30
+- **Generado el:** 2025-08-13 13:29:30
 - **Fuente de datos:** season_data.json

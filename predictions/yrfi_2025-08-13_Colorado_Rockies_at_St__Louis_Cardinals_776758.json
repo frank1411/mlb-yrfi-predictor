@@ -1,0 +1,67 @@
+{
+  "game_pk": 776758,
+  "game_date": "2025-08-13",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.950819672131146,
+        "ratio": "14/61"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 16.85,
+    "pitcher": {
+      "name": "Austin Gomber",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 14.754098360655737,
+        "ratio": "9/61"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.950819672131146,
+        "tendency": 0.0,
+        "combined": 13.77,
+        "pitcher_impact": 40.0,
+        "adjusted": 21.64
+      },
+      "away_team": {
+        "base": 14.754098360655737,
+        "tendency": 20.0,
+        "combined": 16.85,
+        "pitcher_impact": 25.0,
+        "adjusted": 19.3
+      },
+      "game_yrfi_probability": 36.76
+    },
+    "yrfi_probability": 36.76
+  },
+  "metadata": {
+    "generated_at": "2025-08-13T13:29:30.704914",
+    "data_source": "season_data.json"
+  }
+}

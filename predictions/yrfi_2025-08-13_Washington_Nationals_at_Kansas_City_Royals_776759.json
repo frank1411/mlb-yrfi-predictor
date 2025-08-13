@@ -1,0 +1,67 @@
+{
+  "game_pk": 776759,
+  "game_date": "2025-08-13",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 9.090909090909092,
+      "yrfi_ratio": "1/11"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "16/58"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 25.42,
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 24.59016393442623,
+        "ratio": "15/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.586206896551722,
+        "tendency": 40.0,
+        "combined": 32.55,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 32.02
+      },
+      "away_team": {
+        "base": 24.59016393442623,
+        "tendency": 26.666666666666668,
+        "combined": 25.42,
+        "pitcher_impact": 9.090909090909092,
+        "adjusted": 20.52
+      },
+      "game_yrfi_probability": 45.97
+    },
+    "yrfi_probability": 45.97
+  },
+  "metadata": {
+    "generated_at": "2025-08-13T13:29:30.682591",
+    "data_source": "season_data.json"
+  }
+}

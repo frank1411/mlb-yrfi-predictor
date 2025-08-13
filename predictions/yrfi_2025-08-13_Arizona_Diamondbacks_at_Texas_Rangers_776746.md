@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Texas Rangers
 
 **Fecha:** 2025-08-13  
-**Lanzadores:** Anthony DeSclafani (V) vs Jack Leiter (L)
+**Lanzadores:** Zac Gallen (V) vs Merrill Kelly (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 64.6%
+**Probabilidad de que anoten en la primera entrada:** 54.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 23.0% (14/61 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Anthony DeSclafani):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 47.1%
+- **Estadística base YRFI:** 22.6% (14/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Zac Gallen):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 28.8% (17/59 partidos)
+- **Estadística base YRFI:** 28.3% (17/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Impacto del lanzador local (Texas Rangers - Merrill Kelly):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 39.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-12 13:28:30
+- **Generado el:** 2025-08-13 13:29:30
 - **Fuente de datos:** season_data.json

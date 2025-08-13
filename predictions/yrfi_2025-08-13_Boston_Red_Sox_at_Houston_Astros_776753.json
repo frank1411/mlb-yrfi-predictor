@@ -1,0 +1,67 @@
+{
+  "game_pk": 776753,
+  "game_date": "2025-08-13",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 22.950819672131146,
+        "ratio": "14/61"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 33.0,
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 28.333333333333332,
+        "ratio": "17/60"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.950819672131146,
+        "tendency": 53.333333333333336,
+        "combined": 35.1,
+        "pitcher_impact": 40.0,
+        "adjusted": 36.57
+      },
+      "away_team": {
+        "base": 28.333333333333332,
+        "tendency": 40.0,
+        "combined": 33.0,
+        "pitcher_impact": 20.0,
+        "adjusted": 29.1
+      },
+      "game_yrfi_probability": 55.03
+    },
+    "yrfi_probability": 55.03
+  },
+  "metadata": {
+    "generated_at": "2025-08-13T13:29:30.775667",
+    "data_source": "season_data.json"
+  }
+}

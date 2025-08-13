@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Kansas City Royals
 
-**Fecha:** 2025-08-12  
-**Lanzadores:** Mitchell Parker (V) vs Michael Wacha (L)
+**Fecha:** 2025-08-13  
+**Lanzadores:** Jake Irvin (V) vs Seth Lugo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.5%
+**Probabilidad de que anoten en la primera entrada:** 46.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 26.3% (15/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Mitchell Parker):** 40.0% (4/10 partidos)
-- **Puntuación ajustada:** 32.4%
+- **Estadística base YRFI:** 27.6% (16/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 32.0%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.0% (15/60 partidos)
+- **Estadística base YRFI:** 24.6% (15/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/11 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 9.1% (1/11 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-12 13:28:30
+- **Generado el:** 2025-08-13 13:29:30
 - **Fuente de datos:** season_data.json

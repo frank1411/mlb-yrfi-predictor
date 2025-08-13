@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Athletics
 
-**Fecha:** 2025-08-13  
-**Lanzadores:** Shane Baz (V) vs Jacob Lopez (L)
+**Fecha:** 2025-08-14  
+**Lanzadores:** Drew Rasmussen (V) vs J.T. Ginn (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.7%
+**Probabilidad de que anoten en la primera entrada:** 58.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 34.5% (20/58 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Shane Baz):** 9.1% (1/11 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Estadística base YRFI:** 33.9% (20/59 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 33.3% (3/9 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 22.4% (13/58 partidos)
+- **Estadística base YRFI:** 22.0% (13/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Athletics - Jacob Lopez):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador local (Athletics - J.T. Ginn):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 37.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-12 13:28:30
+- **Generado el:** 2025-08-13 13:29:30
 - **Fuente de datos:** season_data.json

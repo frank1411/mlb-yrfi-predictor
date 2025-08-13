@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Cleveland Guardians
 
-**Fecha:** 2025-08-12  
-**Lanzadores:** Janson Junk (V) vs Logan Allen (L)
+**Fecha:** 2025-08-13  
+**Lanzadores:** Eury Pérez (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.5%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 30.4% (17/56 partidos)
+- **Estadística base YRFI:** 31.6% (18/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 25.8%
+- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 42.9% (3/7 partidos)
+- **Puntuación ajustada:** 39.2%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 23.7% (14/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Logan Allen):** 36.4% (4/11 partidos)
-- **Puntuación ajustada:** 26.5%
+- **Estadística base YRFI:** 23.3% (14/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-12 13:28:30
+- **Generado el:** 2025-08-13 13:29:30
 - **Fuente de datos:** season_data.json

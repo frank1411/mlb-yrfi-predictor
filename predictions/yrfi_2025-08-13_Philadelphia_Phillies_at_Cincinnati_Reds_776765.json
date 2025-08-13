@@ -1,0 +1,67 @@
+{
+  "game_pk": 776765,
+  "game_date": "2025-08-13",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Hunter Greene",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 42.62295081967213,
+        "ratio": "26/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 20.09,
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 24.59016393442623,
+        "ratio": "15/61"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.62295081967213,
+        "tendency": 26.666666666666668,
+        "combined": 36.24,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 32.29
+      },
+      "away_team": {
+        "base": 24.59016393442623,
+        "tendency": 13.333333333333334,
+        "combined": 20.09,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 19.06
+      },
+      "game_yrfi_probability": 45.2
+    },
+    "yrfi_probability": 45.2
+  },
+  "metadata": {
+    "generated_at": "2025-08-13T13:29:30.729972",
+    "data_source": "season_data.json"
+  }
+}
