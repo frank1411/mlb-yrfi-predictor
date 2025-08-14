@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Chicago White Sox
+# Análisis YRFI: Atlanta Braves @ New York Mets
 
-**Fecha:** 2025-08-13  
-**Lanzadores:** Por anunciar (V) vs Shane Smith (L)
+**Fecha:** 2025-08-14  
+**Lanzadores:** Bryce Elder (V) vs Kodai Senga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.0%
+**Probabilidad de que anoten en la primera entrada:** 50.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
+### New York Mets (Local)
+- **Estadística base YRFI:** 36.1% (22/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 33.0%
+
+### Atlanta Braves (Visitante)
 - **Estadística base YRFI:** 28.3% (17/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 34.4%
-
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 24.1% (14/58 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Shane Smith):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 23.9%
+- **Impacto del lanzador local (New York Mets - Kodai Senga):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 26.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-13 13:29:30
+- **Generado el:** 2025-08-14 13:29:51
 - **Fuente de datos:** season_data.json

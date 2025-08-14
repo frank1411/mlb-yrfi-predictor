@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Cincinnati Reds
+# Análisis YRFI: Philadelphia Phillies @ Washington Nationals
 
-**Fecha:** 2025-08-13  
-**Lanzadores:** Cristopher Sánchez (V) vs Hunter Greene (L)
+**Fecha:** 2025-08-14  
+**Lanzadores:** Jesús Luzardo (V) vs Brad Lord (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.2%
+**Probabilidad de que anoten en la primera entrada:** 46.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 42.6% (26/61 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 31.0% (18/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 32.3%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 33.0%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 24.6% (15/61 partidos)
+- **Estadística base YRFI:** 24.2% (15/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador local (Washington Nationals - Brad Lord):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 19.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-13 13:29:30
+- **Generado el:** 2025-08-14 13:29:51
 - **Fuente de datos:** season_data.json

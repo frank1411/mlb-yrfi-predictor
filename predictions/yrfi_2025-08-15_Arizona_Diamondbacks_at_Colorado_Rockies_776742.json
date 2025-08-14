@@ -1,0 +1,67 @@
+{
+  "game_pk": 776742,
+  "game_date": "2025-08-15",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Bradley Blalock",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.48275862068966,
+        "ratio": "20/58"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 38.05,
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 27.86885245901639,
+        "ratio": "17/61"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.48275862068966,
+        "tendency": 20.0,
+        "combined": 28.69,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 33.72
+      },
+      "away_team": {
+        "base": 27.86885245901639,
+        "tendency": 53.333333333333336,
+        "combined": 38.05,
+        "pitcher_impact": 75.0,
+        "adjusted": 49.14
+      },
+      "game_yrfi_probability": 66.29
+    },
+    "yrfi_probability": 66.29
+  },
+  "metadata": {
+    "generated_at": "2025-08-14T13:29:51.501811",
+    "data_source": "season_data.json"
+  }
+}

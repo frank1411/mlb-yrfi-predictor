@@ -1,0 +1,67 @@
+{
+  "game_pk": 776747,
+  "game_date": "2025-08-14",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 30.508474576271187,
+        "ratio": "18/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 32.02,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 31.147540983606557,
+        "ratio": "19/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.508474576271187,
+        "tendency": 26.666666666666668,
+        "combined": 28.97,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 25.28
+      },
+      "away_team": {
+        "base": 31.147540983606557,
+        "tendency": 33.33333333333333,
+        "combined": 32.02,
+        "pitcher_impact": 60.0,
+        "adjusted": 40.42
+      },
+      "game_yrfi_probability": 55.48
+    },
+    "yrfi_probability": 55.48
+  },
+  "metadata": {
+    "generated_at": "2025-08-14T13:29:51.442494",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Los Angeles Angels
+# Análisis YRFI: Seattle Mariners @ Baltimore Orioles
 
 **Fecha:** 2025-08-14  
-**Lanzadores:** Shohei Ohtani (V) vs Kyle Hendricks (L)
+**Lanzadores:** Logan Evans (V) vs Tomoyuki Sugano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.0%
+**Probabilidad de que anoten en la primera entrada:** 54.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 30.6% (19/62 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 27.1% (16/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Shohei Ohtani):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.3%
+- **Impacto del lanzador visitante (Seattle Mariners - Logan Evans):** 28.6% (2/7 partidos)
+- **Puntuación ajustada:** 27.4%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 29.3% (17/58 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 39.0% (23/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Kyle Hendricks):** 36.4% (4/11 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador local (Baltimore Orioles - Tomoyuki Sugano):** 36.4% (4/11 partidos)
+- **Puntuación ajustada:** 36.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-13 13:29:30
+- **Generado el:** 2025-08-14 13:29:51
 - **Fuente de datos:** season_data.json
