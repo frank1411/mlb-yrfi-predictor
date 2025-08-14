@@ -197,7 +197,8 @@ def calculate_game_probability(home_team_id: str, away_team_id: str, home_pitche
     Calcula la probabilidad de YRFI para un partido.
     
     Returns:
-        Dict con las probabilidades y estadísticas detalladas
+        Dict con las probabilidades y estadísticas detalladas, incluyendo todos los valores intermedios
+        necesarios para la generación de informes.
     """
     # Obtener estadísticas de los equipos
     home_stats = get_team_stats(season_data, home_team_id)
@@ -211,89 +212,128 @@ def calculate_game_probability(home_team_id: str, away_team_id: str, home_pitche
     home_trend_pct = (home_stats.get('last_15_yrfi', 0) / home_stats.get('last_15_games', 1)) * 100 if home_stats.get('last_15_games', 0) > 0 else home_yrfi_pct
     away_trend_pct = (away_stats.get('last_15_yrfi', 0) / away_stats.get('last_15_games', 1)) * 100 if away_stats.get('last_15_games', 0) > 0 else away_yrfi_pct
     
-    # Calcular estadísticas combinadas para cada equipo
-    home_yrfi_combined = (home_yrfi_pct * 0.6) + (home_trend_pct * 0.4)
-    away_yrfi_combined = (away_yrfi_pct * 0.6) + (away_trend_pct * 0.4)
+    # Calcular estadísticas combinadas para cada equipo (45% base, 55% tendencia)
+    home_yrfi_combined = (home_yrfi_pct * 0.45) + (home_trend_pct * 0.55)
+    away_yrfi_combined = (away_yrfi_pct * 0.45) + (away_trend_pct * 0.55)
     
     # Calcular probabilidad base usando la fórmula de probabilidad conjunta
-    # P(YRFI) = 1 - P(no YRFI local) * P(no YRFI visitante)
-    # Convertimos a decimal (0-1) para el cálculo
     p_home_no_yrfi = 1 - (home_yrfi_combined / 100)
     p_away_no_yrfi = 1 - (away_yrfi_combined / 100)
-    base_prob = (1 - (p_home_no_yrfi * p_away_no_yrfi)) * 100  # Convertir de vuelta a porcentaje
-    
-    # Ajustar por lanzadores (70% equipo, 30% lanzador RIVAL)
-    # El rendimiento del lanzador visitante afecta al equipo local y viceversa
+    base_prob = (1 - (p_home_no_yrfi * p_away_no_yrfi)) * 100  # Convertir a porcentaje
     
     # Obtener el rendimiento YRFI de los lanzadores
-    # Usar yrfi_pct si está disponible, de lo contrario usar yrfi_allowed, o 50% por defecto
     home_pitcher_yrfi = home_pitcher.get('yrfi_pct', home_pitcher.get('yrfi_allowed', 50.0))
     away_pitcher_yrfi = away_pitcher.get('yrfi_pct', away_pitcher.get('yrfi_allowed', 50.0))
     
-    # Aplicar el ajuste (70% rendimiento del equipo, 30% rendimiento del lanzador rival)
-    # Para el equipo local: 70% su rendimiento + 30% rendimiento del lanzador visitante
-    home_team_adj = (home_yrfi_combined * 0.7) + (away_pitcher_yrfi * 0.3)
+    # Aplicar el ajuste (65% rendimiento del equipo, 35% rendimiento del lanzador rival)
+    home_team_adj = (home_yrfi_combined * 0.65) + (away_pitcher_yrfi * 0.35)
+    away_team_adj = (away_yrfi_combined * 0.65) + (home_pitcher_yrfi * 0.35)
     
-    # Para el equipo visitante: 70% su rendimiento + 30% rendimiento del lanzador local
-    # Usamos el valor directo del lanzador (no invertido) ya que representa el % de veces que permite YRFI
-    print(f"[DEBUG] Cálculo detallado para visitante:")
-    print(f"  - away_yrfi_combined: {away_yrfi_combined:.4f}")
-    print(f"  - home_pitcher_yrfi: {home_pitcher_yrfi:.4f}")
-    print(f"  - Cálculo: ({away_yrfi_combined:.4f} * 0.7) + ({home_pitcher_yrfi:.4f} * 0.3)")
-    print(f"  - Primer término: {away_yrfi_combined * 0.7:.4f}")
-    print(f"  - Segundo término: {home_pitcher_yrfi * 0.3:.4f}")
-    
-    away_team_adj = (away_yrfi_combined * 0.7) + (home_pitcher_yrfi * 0.3)
-    print(f"  - Resultado: {away_team_adj:.4f}")
-
     # Asegurar que los valores estén dentro del rango 0-100
     home_team_adj = max(0, min(100, home_team_adj))
     away_team_adj = max(0, min(100, away_team_adj))
     
-    # Guardar los valores usados para el reporte
-    home_pitcher['yrfi_used'] = away_pitcher_yrfi  # El lanzador visitante afecta al equipo local
-    away_pitcher['yrfi_used'] = home_pitcher_yrfi  # El lanzador local afecta al equipo visitante
-    
-    # Debug: Mostrar valores intermedios
-    print(f"[DEBUG] Cálculo de probabilidades ajustadas:")
-    print(f"- Equipo local ({home_team_id}): {home_yrfi_combined:.1f}% * 0.7 + {away_pitcher_yrfi:.1f}% * 0.3 = {home_team_adj:.1f}%")
-    print(f"- Equipo visitante ({away_team_id}): {away_yrfi_combined:.1f}% * 0.7 + {home_pitcher_yrfi:.1f}% * 0.3 = {away_team_adj:.1f}%")
-    
-    # Añadir información de depuración
-    print(f"[DEBUG] Ajuste por lanzadores:")
-    print(f"- Lanzador local ({home_pitcher.get('name')}): {home_pitcher_yrfi:.1f}%")
-    print(f"- Lanzador visitante ({away_pitcher.get('name')}): {away_pitcher_yrfi:.1f}%")
-    
-    # Probabilidad final usando la fórmula de probabilidad de eventos independientes
-    # p_yrfi = 1 - ((1 - p_home) * (1 - p_away))
-    # Convertimos primero a decimal (0-1) para el cálculo y luego de vuelta a porcentaje
+    # Calcular la probabilidad final del partido
     p_home = home_team_adj / 100
     p_away = away_team_adj / 100
     final_prob = (1 - (1 - p_home) * (1 - p_away)) * 100
     
+    # Devolver todos los valores intermedios necesarios para los informes
     return {
         'base_prob': base_prob / 100,  # Convertir a decimal
         'final_prob': final_prob / 100,  # Convertir a decimal
         'home_team': {
             'id': home_team_id,
+            'name': home_stats.get('name', ''),
             'yrfi_pct': home_yrfi_pct,
-            'games': home_stats.get('home_games', 0),
             'yrfi': home_stats.get('home_yrfi', 0),
+            'games': home_stats.get('home_games', 0),
             'last_15_games': home_stats.get('last_15_games', 0),
             'last_15_yrfi': home_stats.get('last_15_yrfi', 0),
-            'adjusted_yrfi_pct': home_team_adj  # Añadimos el porcentaje ajustado
+            'trend_pct': home_trend_pct,
+            'combined_pct': home_yrfi_combined,
+            'adjusted_yrfi_pct': home_team_adj,
+            'stats': {
+                'base': {
+                    'value': home_yrfi_pct,
+                    'ratio': f"{home_stats.get('home_yrfi', 0)}/{home_stats.get('home_games', 1)}"
+                },
+                'tendency': {
+                    'value': home_trend_pct,
+                    'ratio': f"{home_stats.get('last_15_yrfi', 0)}/{home_stats.get('last_15_games', 1)}"
+                },
+                'combined': home_yrfi_combined,
+                'adjusted': home_team_adj,
+                'pitcher_impact': away_pitcher_yrfi
+            }
         },
         'away_team': {
             'id': away_team_id,
+            'name': away_stats.get('name', ''),
             'yrfi_pct': away_yrfi_pct,
-            'games': away_stats.get('away_games', 0),
             'yrfi': away_stats.get('away_yrfi', 0),
+            'games': away_stats.get('away_games', 0),
             'last_15_games': away_stats.get('last_15_games', 0),
             'last_15_yrfi': away_stats.get('last_15_yrfi', 0),
-            'adjusted_yrfi_pct': away_team_adj  # Añadimos el porcentaje ajustado
+            'trend_pct': away_trend_pct,
+            'combined_pct': away_yrfi_combined,
+            'adjusted_yrfi_pct': away_team_adj,
+            'stats': {
+                'base': {
+                    'value': away_yrfi_pct,
+                    'ratio': f"{away_stats.get('away_yrfi', 0)}/{away_stats.get('away_games', 1)}"
+                },
+                'tendency': {
+                    'value': away_trend_pct,
+                    'ratio': f"{away_stats.get('last_15_yrfi', 0)}/{away_stats.get('last_15_games', 1)}"
+                },
+                'combined': away_yrfi_combined,
+                'adjusted': away_team_adj,
+                'pitcher_impact': home_pitcher_yrfi
+            }
         },
-        'home_pitcher': home_pitcher,
-        'away_pitcher': away_pitcher
+        'home_pitcher': {
+            'name': home_pitcher.get('name', 'Por definir'),
+            'yrfi_allowed': home_pitcher_yrfi,
+            'yrfi_ratio': f"{home_pitcher.get('yrfi_games', 0)}/{home_pitcher.get('total_games', 1)}",
+            'yrfi_used': home_pitcher_yrfi
+        },
+        'away_pitcher': {
+            'name': away_pitcher.get('name', 'Por definir'),
+            'yrfi_allowed': away_pitcher_yrfi,
+            'yrfi_ratio': f"{away_pitcher.get('yrfi_games', 0)}/{away_pitcher.get('total_games', 1)}",
+            'yrfi_used': away_pitcher_yrfi
+        },
+        'calculation': {
+            'home_team': {
+                'base': home_yrfi_pct,
+                'tendency': home_trend_pct,
+                'combined': home_yrfi_combined,
+                'pitcher_impact': away_pitcher_yrfi,
+                'adjusted': home_team_adj
+            },
+            'away_team': {
+                'base': away_yrfi_pct,
+                'tendency': away_trend_pct,
+                'combined': away_yrfi_combined,
+                'pitcher_impact': home_pitcher_yrfi,
+                'adjusted': away_team_adj
+            },
+            'game_yrfi_probability': final_prob,
+            'formula': {
+                'combined': "(0.45 × Estadística Base) + (0.55 × Tendencia Reciente)",
+                'adjusted': "(0.65 × Puntuación Combinada) + (0.35 × Rendimiento Lanzador Rival)",
+                'final': "1 - ((1 - P_local) × (1 - P_visitante))"
+            }
+        },
+        'metadata': {
+            'generated_at': datetime.now().isoformat(),
+            'data_source': 'season_data.json',
+            'weights': {
+                'base_vs_trend': {'base': 0.45, 'trend': 0.55},
+                'team_vs_pitcher': {'team': 0.65, 'pitcher': 0.35}
+            }
+        }
     }
 
 def format_prediction(game_data: Dict, home_team_name: str, away_team_name: str, game_date: str) -> str:
@@ -314,38 +354,33 @@ def format_prediction(game_data: Dict, home_team_name: str, away_team_name: str,
     home_pitcher = game_data['home_pitcher']
     away_pitcher = game_data['away_pitcher']
     
-    # Calcular porcentajes de tendencia
+    # Usar directamente los valores calculados y ajustados
     home_trend_pct = (home_team['last_15_yrfi'] / home_team['last_15_games'] * 100) if home_team['last_15_games'] > 0 else 0
     away_trend_pct = (away_team['last_15_yrfi'] / away_team['last_15_games'] * 100) if away_team['last_15_games'] > 0 else 0
-    
+
+    # Valores ajustados y finales desde calculate_game_probability
+    home_combined = home_team['adjusted_yrfi_pct']
+    away_combined = away_team['adjusted_yrfi_pct']
+    final_prob = game_data.get('final_prob', 0) * 100  # Convertir a porcentaje si viene en decimal
+
     # Obtener estadísticas de lanzadores
     home_pitcher_name = home_pitcher.get('name', 'Por definir')
     away_pitcher_name = away_pitcher.get('name', 'Por definir')
-    
-    # Usar yrfi_used si está disponible, de lo contrario yrfi_allowed o 0
     home_pitcher_yrfi = home_pitcher.get('yrfi_used', home_pitcher.get('yrfi_allowed', 0))
     away_pitcher_yrfi = away_pitcher.get('yrfi_used', away_pitcher.get('yrfi_allowed', 0))
-    
-    # Obtener el ratio de YRFI permitidos
+
+    # Ratios
     home_pitcher_yrfi_count = home_pitcher.get('yrfi', 0)
     home_pitcher_total = home_pitcher.get('games', 1)
     away_pitcher_yrfi_count = away_pitcher.get('yrfi', 0)
     away_pitcher_total = away_pitcher.get('games', 1)
-    
-    # Formatear ratios
     home_pitcher_ratio = f"{home_pitcher_yrfi_count}/{home_pitcher_total}"
     away_pitcher_ratio = f"{away_pitcher_yrfi_count}/{away_pitcher_total}"
     
-    # Calcular valores intermedios
-    home_combined = (home_team['yrfi_pct'] * 0.6) + (home_trend_pct * 0.4)
-    away_combined = (away_team['yrfi_pct'] * 0.6) + (away_trend_pct * 0.4)
-    
-    # Ajustar por lanzadores (70% equipo + tendencia, 30% lanzador rival)
-    home_adj = (home_combined * 0.7) + (away_pitcher_yrfi * 0.3)
-    away_adj = (away_combined * 0.7) + (home_pitcher_yrfi * 0.3)
-    final_prob = (home_adj + away_adj) / 2
-    
-    # Construir el texto de la predicción
+    # Calcular valores intermedios para mostrar en el reporte
+    home_combined_calc = (home_team['yrfi_pct'] * 0.45 + home_trend_pct * 0.55)
+    away_combined_calc = (away_team['yrfi_pct'] * 0.45 + away_trend_pct * 0.55)
+
     prediction = [
         f"# Análisis YRFI - {away_team_name} @ {home_team_name} ({game_date})\n",
         "## Información del Partido\n",
@@ -353,83 +388,42 @@ def format_prediction(game_data: Dict, home_team_name: str, away_team_name: str,
         f"**Lanzadores:** {away_pitcher_name} (@{away_team_name}) vs {home_pitcher_name} (@{home_team_name})\n\n",
         "## Probabilidades YRFI\n\n",
         f"### Probabilidad YRFI del Partido\n",
-        f"**{final_prob:.1f}%** (promedio ponderado de ambas probabilidades ajustadas)\n\n",
-        
+        f"**{final_prob:.1f}%** (probabilidad final ajustada)\n\n",
         f"### Probabilidad YRFI del Equipo Local\n",
-        f"**{home_adj:.1f}%** de que {home_team_name} anote en la primera entrada\n",
+        f"**{home_combined:.1f}%** de que {home_team_name} anote en la primera entrada (ajustado)\n",
         f"- Basado en:\n",
         f"  - Rendimiento de {home_team_name} como local: {home_team['yrfi_pct']:.1f}% ({home_team['yrfi']}/{home_team['games']} partidos)\n",
+        f"  - Tendencia últimos 15 juegos: {home_trend_pct:.1f}% ({home_team['last_15_yrfi']}/{home_team['last_15_games']} partidos)\n",
         f"  - Rendimiento del lanzador visitante: {away_pitcher_yrfi:.1f}% YRFI permitido ({away_pitcher_ratio})\n\n",
-        
         f"### Probabilidad YRFI del Equipo Visitante\n",
-        f"**{away_adj:.1f}%** de que {away_team_name} anote en la primera entrada\n",
+        f"**{away_combined:.1f}%** de que {away_team_name} anote en la primera entrada (ajustado)\n",
         f"- Basado en:\n",
         f"  - Rendimiento de {away_team_name} como visitante: {away_team['yrfi_pct']:.1f}% ({away_team['yrfi']}/{away_team['games']} partidos)\n",
+        f"  - Tendencia últimos 15 juegos: {away_trend_pct:.1f}% ({away_team['last_15_yrfi']}/{away_team['last_15_games']} partidos)\n",
         f"  - Rendimiento del lanzador local: {home_pitcher_yrfi:.1f}% YRFI permitido ({home_pitcher_ratio})\n\n",
-        
         "## Cálculo Detallado\n\n",
         "### 1. Estadísticas Base (Temporada Completa)\n",
         f"- **{home_team_name} (Local):** {home_team['yrfi_pct']:.1f}% ({home_team['yrfi']}/{home_team['games']} partidos)\n",
         f"- **{away_team_name} (Visitante):** {away_team['yrfi_pct']:.1f}% ({away_team['yrfi']}/{away_team['games']} partidos)\n\n",
-        
-        "### 2. Tendencias Recientes (Últimos 15 partidos)\n",
+        "### 2. Tendencia Reciente (últimos 15 partidos)\n",
         f"- **{home_team_name} (Local):** {home_trend_pct:.1f}% ({home_team['last_15_yrfi']}/{home_team['last_15_games']} partidos)\n",
         f"- **{away_team_name} (Visitante):** {away_trend_pct:.1f}% ({away_team['last_15_yrfi']}/{away_team['last_15_games']} partidos)\n\n",
-        
-        "### 3. Combinación con Tendencia (60% base, 40% tendencia)\n",
-        f"- **{home_team_name} (Local):** "
-        f"({home_team['yrfi_pct']:.1f}% × 0.6) + ({home_trend_pct:.1f}% × 0.4) = **{home_combined:.1f}%**\n",
-        f"- **{away_team_name} (Visitante):** "
-        f"({away_team['yrfi_pct']:.1f}% × 0.6) + ({away_trend_pct:.1f}% × 0.4) = **{away_combined:.1f}%**\n\n",
-        
-        "### 4. Ajuste por Lanzadores\n",
-        "*Nota: El rendimiento del lanzador afecta al equipo contrario*\n\n",
-        
-        f"- **{home_team_name} (Local)**:\n",
-        f"  - Combinado (equipo + tendencia): {home_combined:.1f}%\n",
-        f"  - Afectado por {away_pitcher_name} (visitante): {away_pitcher_yrfi:.1f}% YRFI permitido ({away_pitcher_ratio})\n",
-        f"  - Ajuste (70% equipo + 30% lanzador rival): {home_adj:.1f}%\n\n",
-        
-        f"- **{away_team_name} (Visitante)**:\n",
-        f"  - Combinado (equipo + tendencia): {away_combined:.1f}%\n",
-        f"  - Afectado por {home_pitcher_name} (local): {home_pitcher_yrfi:.1f}% YRFI permitido ({home_pitcher_ratio})\n",
-        f"  - Ajuste (70% equipo + 30% lanzador rival): {away_adj:.1f}%\n\n",
-        
-        "### 5. Probabilidad Final\n",
-        f"- **Promedio de ajustes:** ({home_adj:.1f}% + {away_adj:.1f}%) / 2 = **{final_prob:.1f}%**\n\n",
-        
-        "## Estadísticas Detalladas\n\n",
-        f"### Rendimiento de Lanzadores\n",
-        f"- **{home_pitcher_name} ({home_team_name} - Local):**\n",
-        f"  - YRFI permitido: {home_pitcher_yrfi:.1f}% ({home_pitcher_ratio})\n",
-        f"- **{away_pitcher_name} ({away_team_name} - Visitante):**\n",
-        f"  - YRFI permitido: {away_pitcher_yrfi:.1f}% ({away_pitcher_ratio})\n\n",
-        
-        "### Resumen de Cálculos\n",
-        "| Categoría | Local | Visitante | Promedio |\n",
-        "|-----------|--------|-----------|----------|\n",
-        f"| **Base** | {home_team['yrfi_pct']:.1f}% | {away_team['yrfi_pct']:.1f}% | {(home_team['yrfi_pct'] + away_team['yrfi_pct'])/2:.1f}% |\n",
-        f"| **Tendencia** | {home_trend_pct:.1f}% | {away_trend_pct:.1f}% | - |\n",
-        f"| **Lanzador** | {home_pitcher_yrfi:.1f}% | {away_pitcher_yrfi:.1f}% | - |\n",
-        f"| **Ajustado** | {home_adj:.1f}% | {away_adj:.1f}% | **{final_prob:.1f}%** |\n\n",
-        
-        "**Nota:** La probabilidad final del partido es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local)."
+        "### 3. Impacto de los Lanzadores\n",
+        f"- **{home_pitcher_name} (Local):** {home_pitcher_yrfi:.1f}% YRFI permitido ({home_pitcher_ratio})\n",
+        f"- **{away_pitcher_name} (Visitante):** {away_pitcher_yrfi:.1f}% YRFI permitido ({away_pitcher_ratio})\n\n",
+        "### 4. Cálculo de Probabilidades\n",
+        f"1. **Ponderación Base vs. Tendencia (45% base, 55% tendencia):**\n",
+        f"   - {home_team_name}: (45% × {home_team['yrfi_pct']:.1f}%) + (55% × {home_trend_pct:.1f}%) = {home_combined_calc:.1f}%\n",
+        f"   - {away_team_name}: (45% × {away_team['yrfi_pct']:.1f}%) + (55% × {away_trend_pct:.1f}%) = {away_combined_calc:.1f}%\n\n",
+        f"2. **Ajuste por Lanzadores (65% equipo, 35% lanzador rival):**\n",
+        f"   - {home_team_name}: (65% × {home_combined_calc:.1f}%) + (35% × {away_pitcher_yrfi:.1f}%) = {home_combined:.1f}%\n",
+        f"   - {away_team_name}: (65% × {away_combined_calc:.1f}%) + (35% × {home_pitcher_yrfi:.1f}%) = {away_combined:.1f}%\n\n",
+        f"3. **Probabilidad Final YRFI (eventos independientes):**\n",
+        f"   - Fórmula: 1 - ((1 - {home_combined/100:.3f}) × (1 - {away_combined/100:.3f}))\n",
+        f"   - Resultado: **{final_prob:.1f}%**\n"
     ]
     
     return "".join(prediction)
-    prediction += "## Estadísticas Detalladas\n\n"
-    
-    # Estadísticas de lanzadores
-    prediction += "\n### Rendimiento de Lanzadores\n"
-    
-    # Estadísticas del lanzador local
-    hp_yrfi = game_data['home_pitcher'].get('yrfi_allowed', 0)
-    hp_ratio = game_data['home_pitcher'].get('yrfi_ratio', 'N/A')
-    prediction += f"- **{hp_name} ({home_team_name} - Local)**:\n"
-    prediction += f"  - Rendimiento YRFI: {hp_yrfi:.1f}% ({hp_ratio})\n"
-    
-    # Estadísticas del lanzador visitante
-    ap_yrfi = game_data['away_pitcher'].get('yrfi_allowed', 0)
     ap_ratio = game_data['away_pitcher'].get('yrfi_ratio', 'N/A')
     prediction += f"- **{ap_name} ({away_team_name} - Visitante)**:\n"
     prediction += f"  - Rendimiento YRFI: {ap_yrfi:.1f}% ({ap_ratio})\n"
@@ -492,26 +486,46 @@ def format_prediction(game_data: Dict, home_team_name: str, away_team_name: str,
     
     # Línea de ajuste
     prediction += "| **Ajustado** | {:.1f}% | {:.1f}% | **{:.1f}%** |\n".format(
-        home_adj, away_adj, final_prob
+        home_combined, away_combined, final_prob
     )
     
-    # Línea de tendencia
-    home_trend = (game_data['home_team']['last_15_yrfi'] / game_data['home_team']['last_15_games'] * 100) if game_data['home_team']['last_15_games'] > 0 else 0
-    away_trend = (game_data['away_team']['last_15_yrfi'] / game_data['away_team']['last_15_games'] * 100) if game_data['away_team']['last_15_games'] > 0 else 0
+    # Línea de tendencia (usar valores ya calculados)
+    home_trend = home_trend_pct
+    away_trend = away_trend_pct
     
     prediction += "| **Tendencia** | {:.1f}% ({}/{}) | {:.1f}% ({}/{}) | - |\n".format(
         home_trend, game_data['home_team']['last_15_yrfi'], game_data['home_team']['last_15_games'],
         away_trend, game_data['away_team']['last_15_yrfi'], game_data['away_team']['last_15_games']
     )
     
-    # Línea de lanzadores
+    # Línea de lanzadores (usar yrfi_used que ya incluye el ajuste)
     prediction += "| **Lanzador** | {:.1f}% ({}/{}) | {:.1f}% ({}/{}) | - |\n".format(
-        hp_yrfi, game_data['home_pitcher'].get('home_yrfi', 0), hp_games,
-        ap_yrfi, game_data['away_pitcher'].get('away_yrfi', 0), ap_games
+        home_pitcher_yrfi, game_data['home_pitcher'].get('yrfi', 0), home_pitcher_total,
+        away_pitcher_yrfi, game_data['away_pitcher'].get('yrfi', 0), away_pitcher_total
     )
     
     # Nota final
-    prediction += "\n**Nota:** La probabilidad final del partido ({:.1f}%) es un promedio ponderado que considera tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local).".format(final_prob)
+    prediction += "\n**Nota:** La probabilidad final del partido ({:.1f}%) se calcula considerando tanto el rendimiento histórico de los equipos como el rendimiento específico de los lanzadores en sus respectivos roles (visitante/local). Los cálculos utilizan las siguientes ponderaciones:".format(final_prob)
+    prediction += """
+- 45% estadísticas base de la temporada
+- 55% tendencia reciente (últimos 15 partidos)
+- 65% rendimiento del equipo
+- 35% rendimiento del lanzador contrario
+
+### 📝 Fórmula de Cálculo
+
+La probabilidad final de que anoten en la primera entrada se calcula en tres pasos:
+
+1. **Puntuación combinada** para cada equipo (45% estadística base + 55% tendencia reciente):
+   - `Puntuación = (0.45 × Estadística Base) + (0.55 × Tendencia Reciente)`
+
+2. **Ajuste por lanzador** (65% puntuación combinada + 35% impacto del lanzador contrario):
+   - `Puntuación Ajustada = (0.65 × Puntuación) + (0.35 × Rendimiento Lanzador Rival)`
+
+3. **Probabilidad final** considerando ambos equipos como eventos independientes:
+   - `Probabilidad Final = 1 - ((1 - P_local) × (1 - P_visitante))`
+   - Donde P_local y P_visitante son las probabilidades ajustadas convertidas a decimal (0-1)
+"""
     
     return prediction
 
@@ -624,7 +638,9 @@ def save_prediction(prediction: Dict, output_dir: Path = None) -> Path:
     return filepath
 
 def main():
-    """Función principal para ejecutar el script desde la línea de comandos."""
+    """
+    Función principal para ejecutar el script desde la línea de comandos.
+    """
     import argparse
     
     parser = argparse.ArgumentParser(description='Generar pronóstico YRFI para un partido de MLB')

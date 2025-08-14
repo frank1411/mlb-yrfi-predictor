@@ -300,10 +300,10 @@ def generate_predictions_for_games(games: List[Dict[str, Any]], season_data: Dic
                     'id': away_team_id,
                     'name': away_team_name,
                     # Mostrar el valor de adjusted_yrfi_pct para depuración
-                    'combined_yrfi_pct': round((game_data['away_team']['yrfi_pct'] * 0.6) + 
+                    'combined_yrfi_pct': round((game_data['away_team']['yrfi_pct'] * 0.45) + 
                         (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 
                         if game_data['away_team'].get('last_15_games', 0) > 0 
-                        else game_data['away_team']['yrfi_pct']) * 0.4), 2),
+                        else game_data['away_team']['yrfi_pct']) * 0.55), 2),
                     'pitcher': {
                         'name': away_pitcher.get('name', 'Por definir'),
                         'yrfi_allowed': away_pitcher_stats.get('away_yrfi_pct', away_pitcher_stats.get('yrfi_pct', 0)) if away_pitcher_stats else 0,
@@ -326,33 +326,33 @@ def generate_predictions_for_games(games: List[Dict[str, Any]], season_data: Dic
                         'home_team': {
                             'base': game_data['home_team']['yrfi_pct'],
                             'tendency': (game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 if game_data['home_team'].get('last_15_games', 0) > 0 else 0,
-                            'combined': (game_data['home_team']['yrfi_pct'] * 0.6) + (((game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 if game_data['home_team'].get('last_15_games', 0) > 0 else game_data['home_team']['yrfi_pct']) * 0.4),
+                            'combined': (game_data['home_team']['yrfi_pct'] * 0.45) + (((game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 if game_data['home_team'].get('last_15_games', 0) > 0 else game_data['home_team']['yrfi_pct']) * 0.55),
                             'pitcher_impact': away_pitcher_stats.get('away_yrfi_pct', away_pitcher_stats.get('yrfi_pct', 0)) if away_pitcher_stats else 0,
-                            'combined': round((game_data['home_team']['yrfi_pct'] * 0.6) + 
+                            'combined': round((game_data['home_team']['yrfi_pct'] * 0.45) + 
                                 (((game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 
                                 if game_data['home_team'].get('last_15_games', 0) > 0 
-                                else game_data['home_team']['yrfi_pct']) * 0.4), 2),
-                            'adjusted': round((((game_data['home_team']['yrfi_pct'] * 0.6) + 
+                                else game_data['home_team']['yrfi_pct']) * 0.55), 2),
+                            'adjusted': round((((game_data['home_team']['yrfi_pct'] * 0.45) + 
                                 (((game_data['home_team'].get('last_15_yrfi', 0) / game_data['home_team'].get('last_15_games', 1)) * 100 
                                 if game_data['home_team'].get('last_15_games', 0) > 0 
-                                else game_data['home_team']['yrfi_pct']) * 0.4)) * 0.7) + 
-                                (away_pitcher_stats.get('away_yrfi_pct', away_pitcher_stats.get('yrfi_pct', 0)) * 0.3) 
+                                else game_data['home_team']['yrfi_pct']) * 0.55)) * 0.65) + 
+                                (away_pitcher_stats.get('away_yrfi_pct', away_pitcher_stats.get('yrfi_pct', 0)) * 0.35) 
                                 if away_pitcher_stats else 0, 2)
                         },
                         'away_team': {
                             'base': game_data['away_team']['yrfi_pct'],
                             'tendency': (game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 if game_data['away_team'].get('last_15_games', 0) > 0 else 0,
-                            'combined': (game_data['away_team']['yrfi_pct'] * 0.6) + (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 if game_data['away_team'].get('last_15_games', 0) > 0 else game_data['away_team']['yrfi_pct']) * 0.4),
+                            'combined': (game_data['away_team']['yrfi_pct'] * 0.45) + (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 if game_data['away_team'].get('last_15_games', 0) > 0 else game_data['away_team']['yrfi_pct']) * 0.55),
                             'pitcher_impact': home_pitcher_stats.get('home_yrfi_pct', home_pitcher_stats.get('yrfi_pct', 0)) if home_pitcher_stats else 0,
-                            'combined': round((game_data['away_team']['yrfi_pct'] * 0.6) + 
+                            'combined': round((game_data['away_team']['yrfi_pct'] * 0.45) + 
                                 (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 
                                 if game_data['away_team'].get('last_15_games', 0) > 0 
-                                else game_data['away_team']['yrfi_pct']) * 0.4), 2),
-                            'adjusted': round((((game_data['away_team']['yrfi_pct'] * 0.6) + 
+                                else game_data['away_team']['yrfi_pct']) * 0.55), 2),
+                            'adjusted': round((((game_data['away_team']['yrfi_pct'] * 0.45) + 
                                 (((game_data['away_team'].get('last_15_yrfi', 0) / game_data['away_team'].get('last_15_games', 1)) * 100 
                                 if game_data['away_team'].get('last_15_games', 0) > 0 
-                                else game_data['away_team']['yrfi_pct']) * 0.4)) * 0.7) + 
-                                (home_pitcher_stats.get('home_yrfi_pct', home_pitcher_stats.get('yrfi_pct', 0)) * 0.3) 
+                                else game_data['away_team']['yrfi_pct']) * 0.55)) * 0.65) + 
+                                (home_pitcher_stats.get('home_yrfi_pct', home_pitcher_stats.get('yrfi_pct', 0)) * 0.35) 
                                 if home_pitcher_stats else 0, 2)
                         },
                         'game_yrfi_probability': None  # Se calculará después
@@ -502,8 +502,8 @@ def extract_team_details(prediction: dict, team_type: str) -> dict:
     lanzador_ratio = f"{lanzador_rival.get('yrfi_count', 0)}/{lanzador_rival.get('games_started', 1)}"
     
     # Calcular valores combinados
-    combinado_calc = (base_pct * 0.6) + (tendencia_pct * 0.4)
-    ajuste_calc = (combinado_calc * 0.7) + (lanzador_pct * 0.3)
+    combinado_calc = (base_pct * 0.45) + (tendencia_pct * 0.55)
+    ajuste_calc = (combinado_calc * 0.65) + (lanzador_pct * 0.35)
     
     # Obtener el porcentaje ajustado final
     adjusted_pct = team.get('adjusted_yrfi_pct', 0)
@@ -658,10 +658,14 @@ def generate_summary_markdown(prediction: Dict, output_dir: Path = None) -> str:
     
     # Fórmula de cálculo
     markdown_content += "### 📝 Fórmula de Cálculo\n\n"
-    markdown_content += "La probabilidad final de que anoten en la primera entrada se calcula considerando:\n"
-    markdown_content += "1. **Puntuación combinada** para cada equipo (70% estadística base + 30% tendencia reciente)\n"
-    markdown_content += "2. **Ajuste por lanzador** (70% puntuación combinada + 30% impacto del lanzador contrario)\n"
-    markdown_content += "3. **Probabilidad final** considerando ambos equipos: `1 - ((1 - P_local) * (1 - P_visitante))`\n\n"
+    markdown_content += "La probabilidad final de que anoten en la primera entrada se calcula en tres pasos:\n\n"
+    markdown_content += "1. **Puntuación combinada** para cada equipo (45% estadística base + 55% tendencia reciente):\n"
+    markdown_content += "   - `Puntuación = (0.45 × Estadística Base) + (0.55 × Tendencia Reciente)`\n\n"
+    markdown_content += "2. **Ajuste por lanzador** (65% puntuación combinada + 35% impacto del lanzador contrario):\n"
+    markdown_content += "   - `Puntuación Ajustada = (0.65 × Puntuación) + (0.35 × Rendimiento Lanzador Rival)`\n\n"
+    markdown_content += "3. **Probabilidad final** considerando ambos equipos como eventos independientes:\n"
+    markdown_content += "   - `Probabilidad Final = 1 - ((1 - P_local) × (1 - P_visitante))`\n"
+    markdown_content += "   - Donde P_local y P_visitante son las probabilidades ajustadas convertidas a decimal (0-1)\n\n"
     
     # Detalles adicionales
     markdown_content += "### 📌 Notas Adicionales\n\n"
