@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ New York Mets
+# Análisis YRFI: Miami Marlins @ Boston Red Sox
 
-**Fecha:** 2025-08-14  
-**Lanzadores:** Bryce Elder (V) vs Kodai Senga (L)
+**Fecha:** 2025-08-15  
+**Lanzadores:** Sandy Alcantara (V) vs Lucas Giolito (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 55.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
+### Boston Red Sox (Local)
 - **Estadística base YRFI:** 36.1% (22/61 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 22.2% (2/9 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 40.0% (4/10 partidos)
+- **Puntuación ajustada:** 36.5%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 28.3% (17/60 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 25.8% (16/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - Kodai Senga):** 22.2% (2/9 partidos)
-- **Puntuación ajustada:** 26.0%
+- **Impacto del lanzador local (Boston Red Sox - Lucas Giolito):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-14 13:29:51
+- **Generado el:** 2025-08-15 13:25:13
 - **Fuente de datos:** season_data.json

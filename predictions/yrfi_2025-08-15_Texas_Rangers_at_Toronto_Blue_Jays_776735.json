@@ -1,0 +1,67 @@
+{
+  "game_pk": 776735,
+  "game_date": "2025-08-15",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 7.6923076923076925,
+      "yrfi_ratio": "1/13"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "18/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 29.99,
+    "pitcher": {
+      "name": "Jacob deGrom",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 32.20338983050847,
+        "ratio": "19/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.0,
+        "tendency": 26.666666666666668,
+        "combined": 28.67,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 30.98
+      },
+      "away_team": {
+        "base": 32.20338983050847,
+        "tendency": 26.666666666666668,
+        "combined": 29.99,
+        "pitcher_impact": 7.6923076923076925,
+        "adjusted": 23.3
+      },
+      "game_yrfi_probability": 47.06
+    },
+    "yrfi_probability": 47.06
+  },
+  "metadata": {
+    "generated_at": "2025-08-15T13:25:13.023108",
+    "data_source": "season_data.json"
+  }
+}

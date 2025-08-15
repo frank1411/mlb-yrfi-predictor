@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Minnesota Twins
 
-**Fecha:** 2025-08-14  
-**Lanzadores:** Tarik Skubal (V) vs Bailey Ober (L)
+**Fecha:** 2025-08-16  
+**Lanzadores:** Charlie Morton (V) vs Pierson Ohl (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.1%
+**Probabilidad de que anoten en la primera entrada:** 41.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 29.8% (17/57 partidos)
+- **Estadística base YRFI:** 29.3% (17/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 26.7%
+- **Impacto del lanzador visitante (Detroit Tigers - Charlie Morton):** 33.3% (3/9 partidos)
+- **Puntuación ajustada:** 33.5%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 23.7% (14/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 23.7%
+- **Estadística base YRFI:** 23.3% (14/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Pierson Ohl):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 11.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-14 13:29:51
+- **Generado el:** 2025-08-15 13:25:13
 - **Fuente de datos:** season_data.json

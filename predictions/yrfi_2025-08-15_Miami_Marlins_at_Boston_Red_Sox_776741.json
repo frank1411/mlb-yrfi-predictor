@@ -1,0 +1,67 @@
+{
+  "game_pk": 776741,
+  "game_date": "2025-08-15",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Lucas Giolito",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 36.0655737704918,
+        "ratio": "22/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 26.15,
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 25.806451612903224,
+        "ratio": "16/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.0655737704918,
+        "tendency": 33.33333333333333,
+        "combined": 34.97,
+        "pitcher_impact": 40.0,
+        "adjusted": 36.48
+      },
+      "away_team": {
+        "base": 25.806451612903224,
+        "tendency": 26.666666666666668,
+        "combined": 26.15,
+        "pitcher_impact": 37.5,
+        "adjusted": 29.56
+      },
+      "game_yrfi_probability": 55.26
+    },
+    "yrfi_probability": 55.26
+  },
+  "metadata": {
+    "generated_at": "2025-08-15T13:25:13.048203",
+    "data_source": "season_data.json"
+  }
+}

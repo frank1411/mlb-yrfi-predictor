@@ -1,0 +1,67 @@
+{
+  "game_pk": 776738,
+  "game_date": "2025-08-15",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Joey Cantillo",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.89830508474576,
+        "ratio": "20/59"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 27.39,
+    "pitcher": {
+      "name": "Hurston Waldrep",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.86885245901639,
+        "ratio": "17/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.89830508474576,
+        "tendency": 60.0,
+        "combined": 44.34,
+        "pitcher_impact": 0.0,
+        "adjusted": 31.04
+      },
+      "away_team": {
+        "base": 27.86885245901639,
+        "tendency": 26.666666666666668,
+        "combined": 27.39,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.17
+      },
+      "game_yrfi_probability": 54.6
+    },
+    "yrfi_probability": 54.6
+  },
+  "metadata": {
+    "generated_at": "2025-08-15T13:25:13.039901",
+    "data_source": "season_data.json"
+  }
+}

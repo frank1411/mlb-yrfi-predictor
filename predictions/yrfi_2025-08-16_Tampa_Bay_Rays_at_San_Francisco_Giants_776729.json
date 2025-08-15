@@ -1,0 +1,67 @@
+{
+  "game_pk": 776729,
+  "game_date": "2025-08-16",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "15/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 32.67,
+    "pitcher": {
+      "name": "Joe Boyle",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "14/60"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.97
+      },
+      "away_team": {
+        "base": 23.333333333333332,
+        "tendency": 46.666666666666664,
+        "combined": 32.67,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.37
+      },
+      "game_yrfi_probability": 53.33
+    },
+    "yrfi_probability": 53.33
+  },
+  "metadata": {
+    "generated_at": "2025-08-15T13:25:13.111774",
+    "data_source": "season_data.json"
+  }
+}
