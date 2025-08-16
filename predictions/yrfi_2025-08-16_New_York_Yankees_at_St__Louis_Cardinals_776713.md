@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ St. Louis Cardinals
 
 **Fecha:** 2025-08-16  
-**Lanzadores:** Luis Gil (V) vs Andre Pallante (L)
+**Lanzadores:** Max Fried (V) vs Sonny Gray (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.1%
+**Probabilidad de que anoten en la primera entrada:** 44.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 22.6% (14/62 partidos)
+- **Estadística base YRFI:** 22.2% (14/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Luis Gil):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 9.5%
+- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 13.9%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 37.3% (22/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 45.5% (5/11 partidos)
-- **Puntuación ajustada:** 40.5%
+- **Estadística base YRFI:** 38.3% (23/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Sonny Gray):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 35.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-15 13:25:13
+- **Generado el:** 2025-08-16 13:21:03
 - **Fuente de datos:** season_data.json

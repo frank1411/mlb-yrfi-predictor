@@ -1,0 +1,67 @@
+{
+  "game_pk": 776724,
+  "game_date": "2025-08-16",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 35.483870967741936,
+        "ratio": "22/62"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 25.9,
+    "pitcher": {
+      "name": "Cal Quantrill",
+      "yrfi_allowed": 7.6923076923076925,
+      "yrfi_ratio": "1/13"
+    },
+    "stats": {
+      "base": {
+        "value": 25.396825396825395,
+        "ratio": "16/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.483870967741936,
+        "tendency": 33.33333333333333,
+        "combined": 34.62,
+        "pitcher_impact": 7.6923076923076925,
+        "adjusted": 26.54
+      },
+      "away_team": {
+        "base": 25.396825396825395,
+        "tendency": 26.666666666666668,
+        "combined": 25.9,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 25.06
+      },
+      "game_yrfi_probability": 44.95
+    },
+    "yrfi_probability": 44.95
+  },
+  "metadata": {
+    "generated_at": "2025-08-16T13:21:03.647030",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Cincinnati Reds
 
-**Fecha:** 2025-08-15  
-**Lanzadores:** Por anunciar (V) vs Nick Martinez (L)
+**Fecha:** 2025-08-16  
+**Lanzadores:** Quinn Priester (V) vs Zack Littell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.7%
+**Probabilidad de que anoten en la primera entrada:** 61.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 41.9% (26/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 38.2%
+- **Estadística base YRFI:** 42.9% (27/63 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Milwaukee Brewers - Quinn Priester):** 60.0% (6/10 partidos)
+- **Puntuación ajustada:** 43.5%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 31.0% (18/58 partidos)
+- **Estadística base YRFI:** 30.5% (18/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Nick Martinez):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 29.9%
+- **Impacto del lanzador local (Cincinnati Reds - Zack Littell):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 31.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-15 13:25:13
+- **Generado el:** 2025-08-16 13:21:03
 - **Fuente de datos:** season_data.json

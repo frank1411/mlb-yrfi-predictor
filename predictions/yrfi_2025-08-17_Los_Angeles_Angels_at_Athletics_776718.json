@@ -1,0 +1,67 @@
+{
+  "game_pk": 776718,
+  "game_date": "2025-08-17",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Luis Morales",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 34.42622950819672,
+        "ratio": "21/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 34.06,
+    "pitcher": {
+      "name": "Tyler Anderson",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 38.983050847457626,
+        "ratio": "23/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.42622950819672,
+        "tendency": 33.33333333333333,
+        "combined": 33.99,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 37.43
+      },
+      "away_team": {
+        "base": 38.983050847457626,
+        "tendency": 26.666666666666668,
+        "combined": 34.06,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.84
+      },
+      "game_yrfi_probability": 52.35
+    },
+    "yrfi_probability": 52.35
+  },
+  "metadata": {
+    "generated_at": "2025-08-16T13:21:03.735353",
+    "data_source": "season_data.json"
+  }
+}

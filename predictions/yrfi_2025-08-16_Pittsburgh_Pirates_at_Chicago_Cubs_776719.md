@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Chicago Cubs
 
-**Fecha:** 2025-08-15  
-**Lanzadores:** Braxton Ashcraft (V) vs Colin Rea (L)
+**Fecha:** 2025-08-16  
+**Lanzadores:** Mike Burrows (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.3%
+**Probabilidad de que anoten en la primera entrada:** 46.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 31.0% (18/58 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.5%
+- **Estadística base YRFI:** 30.5% (18/59 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Mike Burrows):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 24.4%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 23.7% (14/59 partidos)
+- **Estadística base YRFI:** 23.3% (14/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 33.3% (4/12 partidos)
-- **Puntuación ajustada:** 31.2%
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 28.6% (2/7 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-15 13:25:13
+- **Generado el:** 2025-08-16 13:21:03
 - **Fuente de datos:** season_data.json

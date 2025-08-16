@@ -1,0 +1,67 @@
+{
+  "game_pk": 776722,
+  "game_date": "2025-08-16",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Jason Alexander",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "15/63"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 26.15,
+    "pitcher": {
+      "name": "Rico Garcia",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.806451612903224,
+        "ratio": "16/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.809523809523807,
+        "tendency": 60.0,
+        "combined": 38.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.8
+      },
+      "away_team": {
+        "base": 25.806451612903224,
+        "tendency": 26.666666666666668,
+        "combined": 26.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.31
+      },
+      "game_yrfi_probability": 40.2
+    },
+    "yrfi_probability": 40.2
+  },
+  "metadata": {
+    "generated_at": "2025-08-16T13:21:03.664170",
+    "data_source": "season_data.json"
+  }
+}

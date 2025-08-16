@@ -1,0 +1,67 @@
+{
+  "game_pk": 776717,
+  "game_date": "2025-08-17",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Blake Snell",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 38.095238095238095,
+        "ratio": "24/63"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 24.88,
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 28.125,
+        "ratio": "18/64"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.095238095238095,
+        "tendency": 33.33333333333333,
+        "combined": 36.19,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 35.33
+      },
+      "away_team": {
+        "base": 28.125,
+        "tendency": 20.0,
+        "combined": 24.88,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 27.41
+      },
+      "game_yrfi_probability": 53.06
+    },
+    "yrfi_probability": 53.06
+  },
+  "metadata": {
+    "generated_at": "2025-08-16T13:21:03.726792",
+    "data_source": "season_data.json"
+  }
+}

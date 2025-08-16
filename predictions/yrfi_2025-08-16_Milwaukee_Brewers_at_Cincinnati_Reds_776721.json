@@ -1,0 +1,67 @@
+{
+  "game_pk": 776721,
+  "game_date": "2025-08-16",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Zack Littell",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "27/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 31.64,
+    "pitcher": {
+      "name": "Quinn Priester",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "6/10"
+    },
+    "stats": {
+      "base": {
+        "value": 30.508474576271187,
+        "ratio": "18/59"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 26.666666666666668,
+        "combined": 36.38,
+        "pitcher_impact": 60.0,
+        "adjusted": 43.47
+      },
+      "away_team": {
+        "base": 30.508474576271187,
+        "tendency": 33.33333333333333,
+        "combined": 31.64,
+        "pitcher_impact": 30.0,
+        "adjusted": 31.15
+      },
+      "game_yrfi_probability": 61.08
+    },
+    "yrfi_probability": 61.08
+  },
+  "metadata": {
+    "generated_at": "2025-08-16T13:21:03.655798",
+    "data_source": "season_data.json"
+  }
+}

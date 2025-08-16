@@ -1,0 +1,67 @@
+{
+  "game_pk": 776726,
+  "game_date": "2025-08-16",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Nolan McLean",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.507936507936506,
+        "ratio": "23/63"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 39.61,
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 53.84615384615385,
+      "yrfi_ratio": "7/13"
+    },
+    "stats": {
+      "base": {
+        "value": 39.34426229508197,
+        "ratio": "24/61"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.507936507936506,
+        "tendency": 46.666666666666664,
+        "combined": 40.57,
+        "pitcher_impact": 53.84615384615385,
+        "adjusted": 44.55
+      },
+      "away_team": {
+        "base": 39.34426229508197,
+        "tendency": 40.0,
+        "combined": 39.61,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.72
+      },
+      "game_yrfi_probability": 59.92
+    },
+    "yrfi_probability": 59.92
+  },
+  "metadata": {
+    "generated_at": "2025-08-16T13:21:03.637670",
+    "data_source": "season_data.json"
+  }
+}

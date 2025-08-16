@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Cleveland Guardians
 
-**Fecha:** 2025-08-15  
-**Lanzadores:** Hurston Waldrep (V) vs Joey Cantillo (L)
+**Fecha:** 2025-08-16  
+**Lanzadores:** Joey Wentz (V) vs Slade Cecconi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.6%
+**Probabilidad de que anoten en la primera entrada:** 58.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 33.9% (20/59 partidos)
+- **Estadística base YRFI:** 33.3% (20/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Hurston Waldrep):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 31.0%
+- **Impacto del lanzador visitante (Atlanta Braves - Joey Wentz):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 45.8%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 27.9% (17/61 partidos)
+- **Estadística base YRFI:** 27.4% (17/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.2%
+- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 14.3% (1/7 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-15 13:25:13
+- **Generado el:** 2025-08-16 13:21:03
 - **Fuente de datos:** season_data.json

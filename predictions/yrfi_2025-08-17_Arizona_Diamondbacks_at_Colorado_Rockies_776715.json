@@ -1,0 +1,67 @@
+{
+  "game_pk": 776715,
+  "game_date": "2025-08-17",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Chase Dollander",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 35.0,
+        "ratio": "21/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 38.48,
+    "pitcher": {
+      "name": "Ryne Nelson",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "18/63"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.0,
+        "tendency": 26.666666666666668,
+        "combined": 31.67,
+        "pitcher_impact": 25.0,
+        "adjusted": 29.67
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 53.333333333333336,
+        "combined": 38.48,
+        "pitcher_impact": 12.5,
+        "adjusted": 30.68
+      },
+      "game_yrfi_probability": 51.25
+    },
+    "yrfi_probability": 51.25
+  },
+  "metadata": {
+    "generated_at": "2025-08-16T13:21:03.709696",
+    "data_source": "season_data.json"
+  }
+}

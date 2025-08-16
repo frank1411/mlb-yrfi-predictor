@@ -1,0 +1,67 @@
+{
+  "game_pk": 776723,
+  "game_date": "2025-08-16",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Eric Lauer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.508196721311474,
+        "ratio": "18/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 29.67,
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 31.666666666666664,
+        "ratio": "19/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.508196721311474,
+        "tendency": 26.666666666666668,
+        "combined": 28.37,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 25.31
+      },
+      "away_team": {
+        "base": 31.666666666666664,
+        "tendency": 26.666666666666668,
+        "combined": 29.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.77
+      },
+      "game_yrfi_probability": 40.82
+    },
+    "yrfi_probability": 40.82
+  },
+  "metadata": {
+    "generated_at": "2025-08-16T13:21:03.620333",
+    "data_source": "season_data.json"
+  }
+}
