@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Kansas City Royals
 
-**Fecha:** 2025-08-16  
-**Lanzadores:** Sean Burke (V) vs Michael Lorenzen (L)
+**Fecha:** 2025-08-17  
+**Lanzadores:** Davis Martin (V) vs Ryan Bergert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.8%
+**Probabilidad de que anoten en la primera entrada:** 47.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 30.0% (18/60 partidos)
+- **Estadística base YRFI:** 31.1% (19/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 42.9% (3/7 partidos)
-- **Puntuación ajustada:** 36.7%
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 35.5%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 31.7% (19/60 partidos)
+- **Estadística base YRFI:** 31.1% (19/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Lorenzen):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 23.9%
+- **Impacto del lanzador local (Kansas City Royals - Ryan Bergert):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-16 13:21:03
+- **Generado el:** 2025-08-17 13:21:53
 - **Fuente de datos:** season_data.json

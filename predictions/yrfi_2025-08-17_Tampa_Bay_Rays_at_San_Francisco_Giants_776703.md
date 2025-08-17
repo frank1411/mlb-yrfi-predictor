@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Houston Astros
+# Análisis YRFI: Tampa Bay Rays @ San Francisco Giants
 
-**Fecha:** 2025-08-16  
-**Lanzadores:** Rico Garcia (V) vs Jason Alexander (L)
+**Fecha:** 2025-08-17  
+**Lanzadores:** Ryan Pepiot (V) vs Logan Webb (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.2%
+**Probabilidad de que anoten en la primera entrada:** 42.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 23.8% (15/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Rico Garcia):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.8%
-
-### Baltimore Orioles (Visitante)
+### San Francisco Giants (Local)
 - **Estadística base YRFI:** 25.8% (16/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Jason Alexander):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 18.3%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Ryan Pepiot):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 23.3%
+
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 22.6% (14/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 25.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-16 13:21:03
+- **Generado el:** 2025-08-17 13:21:53
 - **Fuente de datos:** season_data.json

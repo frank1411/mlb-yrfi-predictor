@@ -1,18 +1,18 @@
 {
-  "game_pk": 776719,
-  "game_date": "2025-08-16",
+  "game_pk": 776704,
+  "game_date": "2025-08-17",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Shota Imanaga",
-      "yrfi_allowed": 28.57142857142857,
-      "yrfi_ratio": "2/7"
+      "name": "Javier Assad",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 30.508474576271187,
-        "ratio": "18/59"
+        "value": 30.0,
+        "ratio": "18/60"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
-    "combined_yrfi_pct": 30.0,
+    "combined_yrfi_pct": 29.77,
     "pitcher": {
-      "name": "Mike Burrows",
+      "name": "Carmen Mlodzinski",
       "yrfi_allowed": 20.0,
       "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
-        "value": 23.333333333333332,
-        "ratio": "14/60"
+        "value": 22.950819672131146,
+        "ratio": "14/61"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.508474576271187,
+        "base": 30.0,
         "tendency": 20.0,
-        "combined": 26.31,
+        "combined": 26.0,
         "pitcher_impact": 20.0,
-        "adjusted": 24.41
+        "adjusted": 24.2
       },
       "away_team": {
-        "base": 23.333333333333332,
+        "base": 22.950819672131146,
         "tendency": 40.0,
-        "combined": 30.0,
-        "pitcher_impact": 28.57142857142857,
-        "adjusted": 29.57
+        "combined": 29.77,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.84
       },
-      "game_yrfi_probability": 46.76
+      "game_yrfi_probability": 40.0
     },
-    "yrfi_probability": 46.76
+    "yrfi_probability": 40.0
   },
   "metadata": {
-    "generated_at": "2025-08-16T13:21:03.611184",
+    "generated_at": "2025-08-17T13:21:53.132874",
     "data_source": "season_data.json"
   }
 }

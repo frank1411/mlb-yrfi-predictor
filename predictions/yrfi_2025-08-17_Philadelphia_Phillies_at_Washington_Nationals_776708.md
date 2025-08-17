@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Washington Nationals
 
-**Fecha:** 2025-08-16  
-**Lanzadores:** Taijuan Walker (V) vs Cade Cavalli (L)
+**Fecha:** 2025-08-17  
+**Lanzadores:** Aaron Nola (V) vs Mitchell Parker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.9%
+**Probabilidad de que anoten en la primera entrada:** 48.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 31.7% (19/60 partidos)
+- **Estadística base YRFI:** 31.1% (19/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Taijuan Walker):** 42.9% (3/7 partidos)
-- **Puntuación ajustada:** 35.5%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
+- **Estadística base YRFI:** 24.6% (16/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Impacto del lanzador local (Washington Nationals - Mitchell Parker):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 27.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-16 13:21:03
+- **Generado el:** 2025-08-17 13:21:53
 - **Fuente de datos:** season_data.json

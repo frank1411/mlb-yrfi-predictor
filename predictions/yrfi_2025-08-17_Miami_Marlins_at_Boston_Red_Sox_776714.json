@@ -1,0 +1,67 @@
+{
+  "game_pk": 776714,
+  "game_date": "2025-08-17",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Garrett Crochet",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 36.507936507936506,
+        "ratio": "23/63"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 25.67,
+    "pitcher": {
+      "name": "Janson Junk",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "16/64"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.507936507936506,
+        "tendency": 40.0,
+        "combined": 37.9,
+        "pitcher_impact": 20.0,
+        "adjusted": 32.53
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 26.15
+      },
+      "game_yrfi_probability": 50.17
+    },
+    "yrfi_probability": 50.17
+  },
+  "metadata": {
+    "generated_at": "2025-08-17T13:21:53.064282",
+    "data_source": "season_data.json"
+  }
+}

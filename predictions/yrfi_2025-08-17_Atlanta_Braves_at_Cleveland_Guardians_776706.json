@@ -1,0 +1,67 @@
+{
+  "game_pk": 776706,
+  "game_date": "2025-08-17",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Logan Allen",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 32.78688524590164,
+        "ratio": "20/61"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 26.86,
+    "pitcher": {
+      "name": "Erick Fedde",
+      "yrfi_allowed": 46.15384615384615,
+      "yrfi_ratio": "6/13"
+    },
+    "stats": {
+      "base": {
+        "value": 26.984126984126984,
+        "ratio": "17/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.78688524590164,
+        "tendency": 53.333333333333336,
+        "combined": 41.01,
+        "pitcher_impact": 46.15384615384615,
+        "adjusted": 42.55
+      },
+      "away_team": {
+        "base": 26.984126984126984,
+        "tendency": 26.666666666666668,
+        "combined": 26.86,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 28.8
+      },
+      "game_yrfi_probability": 59.1
+    },
+    "yrfi_probability": 59.1
+  },
+  "metadata": {
+    "generated_at": "2025-08-17T13:21:53.082844",
+    "data_source": "season_data.json"
+  }
+}

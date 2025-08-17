@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Colorado Rockies
 
 **Fecha:** 2025-08-17  
-**Lanzadores:** Ryne Nelson (V) vs Chase Dollander (L)
+**Lanzadores:** Nabil Crismatt (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.2%
+**Probabilidad de que anoten en la primera entrada:** 56.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 35.0% (21/60 partidos)
+- **Estadística base YRFI:** 34.4% (21/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Ryne Nelson):** 25.0% (2/8 partidos)
-- **Puntuación ajustada:** 29.7%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Nabil Crismatt):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 28.6% (18/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Chase Dollander):** 12.5% (1/8 partidos)
-- **Puntuación ajustada:** 30.7%
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 44.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-16 13:21:03
+- **Generado el:** 2025-08-17 13:21:53
 - **Fuente de datos:** season_data.json
