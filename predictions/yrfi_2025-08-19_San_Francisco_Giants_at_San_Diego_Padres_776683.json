@@ -1,0 +1,67 @@
+{
+  "game_pk": 776683,
+  "game_date": "2025-08-19",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Nestor Cortes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 24.137931034482758,
+        "ratio": "14/58"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 28.37,
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 29.508196721311474,
+        "ratio": "18/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.137931034482758,
+        "tendency": 13.333333333333334,
+        "combined": 19.82,
+        "pitcher_impact": 25.0,
+        "adjusted": 21.37
+      },
+      "away_team": {
+        "base": 29.508196721311474,
+        "tendency": 26.666666666666668,
+        "combined": 28.37,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.86
+      },
+      "game_yrfi_probability": 36.99
+    },
+    "yrfi_probability": 36.99
+  },
+  "metadata": {
+    "generated_at": "2025-08-18T13:30:01.726094",
+    "data_source": "season_data.json"
+  }
+}

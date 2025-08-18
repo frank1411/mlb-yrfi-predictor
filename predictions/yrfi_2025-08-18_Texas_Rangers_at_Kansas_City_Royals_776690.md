@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Boston Red Sox
+# Análisis YRFI: Texas Rangers @ Kansas City Royals
 
-**Fecha:** 2025-08-17  
-**Lanzadores:** Janson Junk (V) vs Garrett Crochet (L)
+**Fecha:** 2025-08-18  
+**Lanzadores:** Jack Leiter (V) vs Michael Wacha (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.2%
+**Probabilidad de que anoten en la primera entrada:** 44.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
-- **Estadística base YRFI:** 36.5% (23/63 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 30.6% (19/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 30.1%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 30.6% (19/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Garrett Crochet):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/12 partidos)
+- **Puntuación ajustada:** 20.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-17 13:21:53
+- **Generado el:** 2025-08-18 13:30:01
 - **Fuente de datos:** season_data.json

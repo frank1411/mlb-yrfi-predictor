@@ -1,0 +1,67 @@
+{
+  "game_pk": 777459,
+  "game_date": "2025-08-18",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Cade Horton",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 29.508196721311474,
+        "ratio": "18/61"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 28.37,
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 29.508196721311474,
+        "ratio": "18/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.508196721311474,
+        "tendency": 13.333333333333334,
+        "combined": 23.04,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.63
+      },
+      "away_team": {
+        "base": 29.508196721311474,
+        "tendency": 26.666666666666668,
+        "combined": 28.37,
+        "pitcher_impact": 12.5,
+        "adjusted": 23.61
+      },
+      "game_yrfi_probability": 41.66
+    },
+    "yrfi_probability": 41.66
+  },
+  "metadata": {
+    "generated_at": "2025-08-18T13:30:01.599505",
+    "data_source": "season_data.json"
+  }
+}

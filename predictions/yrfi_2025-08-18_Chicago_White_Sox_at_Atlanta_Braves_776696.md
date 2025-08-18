@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Toronto Blue Jays
+# Análisis YRFI: Chicago White Sox @ Atlanta Braves
 
-**Fecha:** 2025-08-17  
-**Lanzadores:** Nathan Eovaldi (V) vs José Berríos (L)
+**Fecha:** 2025-08-18  
+**Lanzadores:** Yoendrys Gómez (V) vs Spencer Strider (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.5%
+**Probabilidad de que anoten en la primera entrada:** 40.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.0% (18/62 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 31.7% (19/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 25.7%
+- **Impacto del lanzador visitante (Chicago White Sox - Yoendrys Gómez):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.8%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 31.1% (19/61 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 32.3% (20/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - José Berríos):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador local (Atlanta Braves - Spencer Strider):** 12.5% (1/8 partidos)
+- **Puntuación ajustada:** 24.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-17 13:21:53
+- **Generado el:** 2025-08-18 13:30:01
 - **Fuente de datos:** season_data.json

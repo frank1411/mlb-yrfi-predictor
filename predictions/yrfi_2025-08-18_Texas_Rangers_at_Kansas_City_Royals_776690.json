@@ -1,0 +1,67 @@
+{
+  "game_pk": 776690,
+  "game_date": "2025-08-18",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Michael Wacha",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/12"
+    },
+    "stats": {
+      "base": {
+        "value": 30.64516129032258,
+        "ratio": "19/62"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 29.05,
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 30.64516129032258,
+        "ratio": "19/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.64516129032258,
+        "tendency": 40.0,
+        "combined": 34.39,
+        "pitcher_impact": 20.0,
+        "adjusted": 30.07
+      },
+      "away_team": {
+        "base": 30.64516129032258,
+        "tendency": 26.666666666666668,
+        "combined": 29.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.34
+      },
+      "game_yrfi_probability": 44.29
+    },
+    "yrfi_probability": 44.29
+  },
+  "metadata": {
+    "generated_at": "2025-08-18T13:30:01.694843",
+    "data_source": "season_data.json"
+  }
+}

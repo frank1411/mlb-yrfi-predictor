@@ -1,0 +1,67 @@
+{
+  "game_pk": 776689,
+  "game_date": "2025-08-18",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Ranger Suárez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/9"
+    },
+    "stats": {
+      "base": {
+        "value": 39.6551724137931,
+        "ratio": "23/58"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 36.19,
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 57.14285714285714,
+      "yrfi_ratio": "4/7"
+    },
+    "stats": {
+      "base": {
+        "value": 38.095238095238095,
+        "ratio": "24/63"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.6551724137931,
+        "tendency": 26.666666666666668,
+        "combined": 34.46,
+        "pitcher_impact": 57.14285714285714,
+        "adjusted": 41.26
+      },
+      "away_team": {
+        "base": 38.095238095238095,
+        "tendency": 33.33333333333333,
+        "combined": 36.19,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.33
+      },
+      "game_yrfi_probability": 56.14
+    },
+    "yrfi_probability": 56.14
+  },
+  "metadata": {
+    "generated_at": "2025-08-18T13:30:01.656462",
+    "data_source": "season_data.json"
+  }
+}

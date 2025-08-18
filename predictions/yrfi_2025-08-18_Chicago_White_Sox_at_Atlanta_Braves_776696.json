@@ -1,0 +1,67 @@
+{
+  "game_pk": 776696,
+  "game_date": "2025-08-18",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Spencer Strider",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 31.666666666666664,
+        "ratio": "19/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 30.02,
+    "pitcher": {
+      "name": "Yoendrys Gómez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.25806451612903,
+        "ratio": "20/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.666666666666664,
+        "tendency": 26.666666666666668,
+        "combined": 29.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.77
+      },
+      "away_team": {
+        "base": 32.25806451612903,
+        "tendency": 26.666666666666668,
+        "combined": 30.02,
+        "pitcher_impact": 12.5,
+        "adjusted": 24.77
+      },
+      "game_yrfi_probability": 40.4
+    },
+    "yrfi_probability": 40.4
+  },
+  "metadata": {
+    "generated_at": "2025-08-18T13:30:01.682090",
+    "data_source": "season_data.json"
+  }
+}

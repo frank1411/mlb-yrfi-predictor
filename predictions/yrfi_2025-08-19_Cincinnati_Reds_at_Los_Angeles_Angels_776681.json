@@ -1,0 +1,67 @@
+{
+  "game_pk": 776681,
+  "game_date": "2025-08-19",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Victor Mederos",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.158730158730158,
+        "ratio": "19/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 20.0,
+    "pitcher": {
+      "name": "Brady Singer",
+      "yrfi_allowed": 54.54545454545454,
+      "yrfi_ratio": "6/11"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "12/60"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.158730158730158,
+        "tendency": 26.666666666666668,
+        "combined": 28.76,
+        "pitcher_impact": 54.54545454545454,
+        "adjusted": 36.5
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 20.0,
+        "combined": 20.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 44.0
+      },
+      "game_yrfi_probability": 64.44
+    },
+    "yrfi_probability": 64.44
+  },
+  "metadata": {
+    "generated_at": "2025-08-18T13:30:01.712014",
+    "data_source": "season_data.json"
+  }
+}
