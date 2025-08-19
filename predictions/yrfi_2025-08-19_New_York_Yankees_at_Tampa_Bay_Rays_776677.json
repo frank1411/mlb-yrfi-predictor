@@ -1,0 +1,67 @@
+{
+  "game_pk": 776677,
+  "game_date": "2025-08-19",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 32.25806451612903,
+        "ratio": "20/62"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 41.89,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 38.70967741935484,
+        "ratio": "24/62"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.25806451612903,
+        "tendency": 40.0,
+        "combined": 35.35,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 31.67
+      },
+      "away_team": {
+        "base": 38.70967741935484,
+        "tendency": 46.666666666666664,
+        "combined": 41.89,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 34.32
+      },
+      "game_yrfi_probability": 55.12
+    },
+    "yrfi_probability": 55.12
+  },
+  "metadata": {
+    "generated_at": "2025-08-19T13:23:48.703491",
+    "data_source": "season_data.json"
+  }
+}

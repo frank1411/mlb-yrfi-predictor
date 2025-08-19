@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Miami Marlins
 
-**Fecha:** 2025-08-18  
-**Lanzadores:** Matthew Liberatore (V) vs Eury Pérez (L)
+**Fecha:** 2025-08-19  
+**Lanzadores:** Michael McGreevy (V) vs Edward Cabrera (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.6%
+**Probabilidad de que anoten en la primera entrada:** 42.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 28.8% (17/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Estadística base YRFI:** 30.0% (18/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.1%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 25.0% (15/60 partidos)
+- **Estadística base YRFI:** 24.6% (15/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador local (Miami Marlins - Edward Cabrera):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 17.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-18 13:30:01
+- **Generado el:** 2025-08-19 13:23:48
 - **Fuente de datos:** season_data.json

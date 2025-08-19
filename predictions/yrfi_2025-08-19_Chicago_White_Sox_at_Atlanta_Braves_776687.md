@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Atlanta Braves
 
-**Fecha:** 2025-08-18  
-**Lanzadores:** Yoendrys Gómez (V) vs Spencer Strider (L)
+**Fecha:** 2025-08-19  
+**Lanzadores:** Shane Smith (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.4%
+**Probabilidad de que anoten en la primera entrada:** 56.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 31.7% (19/60 partidos)
+- **Estadística base YRFI:** 31.1% (19/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Yoendrys Gómez):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador visitante (Chicago White Sox - Shane Smith):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 26.0%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 32.3% (20/62 partidos)
+- **Estadística base YRFI:** 31.7% (20/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Spencer Strider):** 12.5% (1/8 partidos)
-- **Puntuación ajustada:** 24.8%
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 70.0% (7/10 partidos)
+- **Puntuación ajustada:** 41.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-18 13:30:01
+- **Generado el:** 2025-08-19 13:23:48
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776675,
+  "game_date": "2025-08-19",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 31.746031746031743,
+        "ratio": "20/63"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 28.76,
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 41.66666666666667,
+      "yrfi_ratio": "5/12"
+    },
+    "stats": {
+      "base": {
+        "value": 30.158730158730158,
+        "ratio": "19/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.746031746031743,
+        "tendency": 46.666666666666664,
+        "combined": 37.71,
+        "pitcher_impact": 41.66666666666667,
+        "adjusted": 38.9
+      },
+      "away_team": {
+        "base": 30.158730158730158,
+        "tendency": 26.666666666666668,
+        "combined": 28.76,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 25.13
+      },
+      "game_yrfi_probability": 54.25
+    },
+    "yrfi_probability": 54.25
+  },
+  "metadata": {
+    "generated_at": "2025-08-19T13:23:48.713072",
+    "data_source": "season_data.json"
+  }
+}

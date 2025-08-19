@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Pittsburgh Pirates
+# Análisis YRFI: Cincinnati Reds @ Los Angeles Angels
 
-**Fecha:** 2025-08-18  
-**Lanzadores:** Kevin Gausman (V) vs Paul Skenes (L)
+**Fecha:** 2025-08-20  
+**Lanzadores:** Hunter Greene (V) vs Kyle Hendricks (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.0%
+**Probabilidad de que anoten en la primera entrada:** 49.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 28.6% (18/63 partidos)
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 31.2% (20/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador visitante (Cincinnati Reds - Hunter Greene):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 28.5%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 23.0% (14/61 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 21.3% (13/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 0.0% (0/11 partidos)
-- **Puntuación ajustada:** 17.1%
+- **Impacto del lanzador local (Los Angeles Angels - Kyle Hendricks):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 28.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-18 13:30:01
+- **Generado el:** 2025-08-19 13:23:48
 - **Fuente de datos:** season_data.json

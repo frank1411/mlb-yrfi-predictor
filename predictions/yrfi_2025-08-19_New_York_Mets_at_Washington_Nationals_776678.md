@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Kansas City Royals
+# Análisis YRFI: New York Mets @ Washington Nationals
 
-**Fecha:** 2025-08-18  
-**Lanzadores:** Jack Leiter (V) vs Michael Wacha (L)
+**Fecha:** 2025-08-19  
+**Lanzadores:** David Peterson (V) vs Jake Irvin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.3%
+**Probabilidad de que anoten en la primera entrada:** 57.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 30.6% (19/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 30.1%
-
-### Texas Rangers (Visitante)
+### Washington Nationals (Local)
 - **Estadística base YRFI:** 30.6% (19/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/12 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Impacto del lanzador visitante (New York Mets - David Peterson):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 26.3%
+
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 23.7% (14/59 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Washington Nationals - Jake Irvin):** 63.6% (7/11 partidos)
+- **Puntuación ajustada:** 42.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-18 13:30:01
+- **Generado el:** 2025-08-19 13:23:48
 - **Fuente de datos:** season_data.json

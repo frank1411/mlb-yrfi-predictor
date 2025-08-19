@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Detroit Tigers
 
-**Fecha:** 2025-08-18  
-**Lanzadores:** Spencer Arrighetti (V) vs Jack Flaherty (L)
+**Fecha:** 2025-08-19  
+**Lanzadores:** Hunter Brown (V) vs Tarik Skubal (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.7%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 30.2% (19/63 partidos)
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Spencer Arrighetti):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 33.3%
+- **Impacto del lanzador visitante (Houston Astros - Hunter Brown):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 25.0%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 28.8% (17/59 partidos)
+- **Estadística base YRFI:** 28.3% (17/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 32.1%
+- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-18 13:30:01
+- **Generado el:** 2025-08-19 13:23:48
 - **Fuente de datos:** season_data.json

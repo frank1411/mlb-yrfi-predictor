@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Los Angeles Angels
+# Análisis YRFI: Toronto Blue Jays @ Pittsburgh Pirates
 
 **Fecha:** 2025-08-19  
-**Lanzadores:** Brady Singer (V) vs Victor Mederos (L)
+**Lanzadores:** Max Scherzer (V) vs Mitch Keller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 64.4%
+**Probabilidad de que anoten en la primera entrada:** 41.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 30.2% (19/63 partidos)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 28.1% (18/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 54.5% (6/11 partidos)
-- **Puntuación ajustada:** 36.5%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 26.8%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 20.0% (12/60 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 22.6% (14/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Victor Mederos):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 44.0%
+- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 19.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-18 13:30:01
+- **Generado el:** 2025-08-19 13:23:48
 - **Fuente de datos:** season_data.json

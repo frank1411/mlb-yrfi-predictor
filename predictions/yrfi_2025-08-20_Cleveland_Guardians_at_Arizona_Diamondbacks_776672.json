@@ -1,0 +1,67 @@
+{
+  "game_pk": 776672,
+  "game_date": "2025-08-20",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
+    },
+    "stats": {
+      "base": {
+        "value": 42.62295081967213,
+        "ratio": "26/61"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 30.52,
+    "pitcher": {
+      "name": "Tanner Bibee",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 24.193548387096776,
+        "ratio": "15/62"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.62295081967213,
+        "tendency": 60.0,
+        "combined": 49.57,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 43.27
+      },
+      "away_team": {
+        "base": 24.193548387096776,
+        "tendency": 40.0,
+        "combined": 30.52,
+        "pitcher_impact": 44.44444444444444,
+        "adjusted": 34.69
+      },
+      "game_yrfi_probability": 62.95
+    },
+    "yrfi_probability": 62.95
+  },
+  "metadata": {
+    "generated_at": "2025-08-19T13:23:48.751764",
+    "data_source": "season_data.json"
+  }
+}

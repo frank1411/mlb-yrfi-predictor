@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Chicago Cubs
+# Análisis YRFI: Texas Rangers @ Kansas City Royals
 
 **Fecha:** 2025-08-19  
-**Lanzadores:** Chad Patrick (V) vs Matthew Boyd (L)
+**Lanzadores:** Merrill Kelly (V) vs Seth Lugo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.5%
+**Probabilidad de que anoten en la primera entrada:** 54.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 29.0% (18/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Chad Patrick):** 28.6% (2/7 partidos)
-- **Puntuación ajustada:** 24.5%
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 31.7% (20/63 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Merrill Kelly):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 38.9%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 29.0% (18/62 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 30.2% (19/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 27.8%
+- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### 📝 Fórmula de Cálculo
 

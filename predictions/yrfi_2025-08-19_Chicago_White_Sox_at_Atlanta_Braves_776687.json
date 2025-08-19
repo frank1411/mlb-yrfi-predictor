@@ -1,0 +1,67 @@
+{
+  "game_pk": 776687,
+  "game_date": "2025-08-19",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 70.0,
+      "yrfi_ratio": "7/10"
+    },
+    "stats": {
+      "base": {
+        "value": 31.147540983606557,
+        "ratio": "19/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 29.71,
+    "pitcher": {
+      "name": "Shane Smith",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 31.746031746031743,
+        "ratio": "20/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.147540983606557,
+        "tendency": 26.666666666666668,
+        "combined": 29.36,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 26.0
+      },
+      "away_team": {
+        "base": 31.746031746031743,
+        "tendency": 26.666666666666668,
+        "combined": 29.71,
+        "pitcher_impact": 70.0,
+        "adjusted": 41.8
+      },
+      "game_yrfi_probability": 56.93
+    },
+    "yrfi_probability": 56.93
+  },
+  "metadata": {
+    "generated_at": "2025-08-19T13:23:48.693260",
+    "data_source": "season_data.json"
+  }
+}
