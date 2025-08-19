@@ -97,13 +97,13 @@ if __name__ == "__main__":
         # que calculaste para el día de hoy.
         #
         DATOS_DEL_PARTIDO_A_PREDECIR = {
-            'local_pct_anota_1inn_local': 0.3103,
-            'local_pct_anota_1inn_ult15': 0.2667,
-            'visit_pct_anota_1inn_visit': 0.3167,
-            'visit_pct_anota_1inn_ult15': 0.3333,
-            'pitcher_local_pct_permite_carrera_suavizado': 0.3252,
-            'pitcher_visit_pct_permite_carrera_suavizado': 0.3227
-        }
+        "local_pct_anota_1inn_local": 0.4262295081967213,
+        "local_pct_anota_1inn_ult15": 0.6,
+        "visit_pct_anota_1inn_visit": 0.24193548387096775,
+        "visit_pct_anota_1inn_ult15": 0.4,
+        "pitcher_local_pct_permite_carrera_suavizado": 0.34773676261549397,
+        "pitcher_visit_pct_permite_carrera_suavizado": 0.2877821483714433
+      }
 
         # --- PASO 3: HACER Y MOSTRAR LAS PREDICCIONES ---
         hacer_predicciones(modelo_local, modelo_visitante, DATOS_DEL_PARTIDO_A_PREDECIR)
