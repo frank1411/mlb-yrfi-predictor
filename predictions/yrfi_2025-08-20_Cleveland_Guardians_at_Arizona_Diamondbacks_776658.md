@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Arizona Diamondbacks
 
 **Fecha:** 2025-08-20  
-**Lanzadores:** Tanner Bibee (V) vs Eduardo Rodriguez (L)
+**Lanzadores:** Parker Messick (V) vs Brandon Pfaadt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.0%
+**Probabilidad de que anoten en la primera entrada:** 51.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 42.6% (26/61 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 43.3%
+- **Estadística base YRFI:** 41.9% (26/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 24.2% (15/62 partidos)
+- **Estadística base YRFI:** 23.8% (15/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 44.4% (4/9 partidos)
-- **Puntuación ajustada:** 34.7%
+- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

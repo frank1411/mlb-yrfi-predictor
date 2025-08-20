@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Philadelphia Phillies
 
-**Fecha:** 2025-08-19  
-**Lanzadores:** Bryce Miller (V) vs Cristopher Sánchez (L)
+**Fecha:** 2025-08-20  
+**Lanzadores:** Luis Castillo (V) vs Jesús Luzardo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.8%
+**Probabilidad de que anoten en la primera entrada:** 48.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 39.0% (23/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 35.8%
+- **Estadística base YRFI:** 40.0% (24/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - Luis Castillo):** 9.1% (1/11 partidos)
+- **Puntuación ajustada:** 28.9%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 37.5% (24/64 partidos)
+- **Estadística base YRFI:** 36.9% (24/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 31.1%
+- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 8.3% (1/12 partidos)
+- **Puntuación ajustada:** 27.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

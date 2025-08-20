@@ -1,0 +1,67 @@
+{
+  "game_pk": 776659,
+  "game_date": "2025-08-20",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Brad Lord",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 30.158730158730158,
+        "ratio": "19/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 32.67,
+    "pitcher": {
+      "name": "Kodai Senga",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "14/60"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.158730158730158,
+        "tendency": 26.666666666666668,
+        "combined": 28.76,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 26.8
+      },
+      "away_team": {
+        "base": 23.333333333333332,
+        "tendency": 46.666666666666664,
+        "combined": 32.67,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 27.87
+      },
+      "game_yrfi_probability": 47.2
+    },
+    "yrfi_probability": 47.2
+  },
+  "metadata": {
+    "generated_at": "2025-08-20T13:24:47.244142",
+    "data_source": "season_data.json"
+  }
+}

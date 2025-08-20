@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Washington Nationals
 
-**Fecha:** 2025-08-19  
-**Lanzadores:** David Peterson (V) vs Jake Irvin (L)
+**Fecha:** 2025-08-20  
+**Lanzadores:** Kodai Senga (V) vs Brad Lord (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.4%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 30.6% (19/62 partidos)
+- **Estadística base YRFI:** 30.2% (19/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - David Peterson):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 26.3%
+- **Impacto del lanzador visitante (New York Mets - Kodai Senga):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.7% (14/59 partidos)
+- **Estadística base YRFI:** 23.3% (14/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Jake Irvin):** 63.6% (7/11 partidos)
-- **Puntuación ajustada:** 42.1%
+- **Impacto del lanzador local (Washington Nationals - Brad Lord):** 16.7% (1/6 partidos)
+- **Puntuación ajustada:** 27.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Chicago Cubs
 
-**Fecha:** 2025-08-19  
-**Lanzadores:** Chad Patrick (V) vs Matthew Boyd (L)
+**Fecha:** 2025-08-21  
+**Lanzadores:** Jacob Misiorowski (V) vs Colin Rea (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.5%
+**Probabilidad de que anoten en la primera entrada:** 44.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 29.0% (18/62 partidos)
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Chad Patrick):** 28.6% (2/7 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.7%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 29.0% (18/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 27.8%
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 27.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

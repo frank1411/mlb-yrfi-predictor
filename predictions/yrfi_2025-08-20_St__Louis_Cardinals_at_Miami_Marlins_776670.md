@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Miami Marlins
 
-**Fecha:** 2025-08-19  
-**Lanzadores:** Michael McGreevy (V) vs Edward Cabrera (L)
+**Fecha:** 2025-08-20  
+**Lanzadores:** Andre Pallante (V) vs Sandy Alcantara (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.4%
+**Probabilidad de que anoten en la primera entrada:** 38.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 30.0% (18/60 partidos)
+- **Estadística base YRFI:** 29.5% (18/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.1%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Andre Pallante):** 0.0% (0/12 partidos)
+- **Puntuación ajustada:** 19.9%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 24.6% (15/61 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Edward Cabrera):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 17.6%
+- **Estadística base YRFI:** 25.8% (16/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Miami Marlins - Sandy Alcantara):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

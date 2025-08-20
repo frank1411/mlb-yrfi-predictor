@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Minnesota Twins
 
-**Fecha:** 2025-08-19  
-**Lanzadores:** Jacob Lopez (V) vs Joe Ryan (L)
+**Fecha:** 2025-08-20  
+**Lanzadores:** J.T. Ginn (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.2%
+**Probabilidad de que anoten en la primera entrada:** 51.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 27.9% (17/61 partidos)
+- **Estadística base YRFI:** 27.4% (17/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 0.0% (0/8 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 30.2%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 30.2% (19/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 16.7% (2/12 partidos)
-- **Puntuación ajustada:** 28.9%
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 30.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

@@ -1,7 +1,7 @@
-# Análisis YRFI: San Francisco Giants @ San Diego Padres
+# Análisis YRFI: Texas Rangers @ Kansas City Royals
 
 **Fecha:** 2025-08-20  
-**Lanzadores:** Kai-Wei Teng (V) vs Nick Pivetta (L)
+**Lanzadores:** Por anunciar (V) vs Noah Cameron (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,16 +9,16 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 23.7% (14/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Kai-Wei Teng):** 100.0% (1/1 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 32.8% (21/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Por anunciar):** 50.0% (0/0 partidos)
 - **Puntuación ajustada:** 43.7%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 30.6% (19/62 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 31.2% (20/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Nick Pivetta):** 23.1% (3/13 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 22.2% (2/9 partidos)
 - **Puntuación ajustada:** 29.1%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

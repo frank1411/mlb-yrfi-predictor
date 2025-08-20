@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Tampa Bay Rays
 
-**Fecha:** 2025-08-19  
-**Lanzadores:** Carlos Rodón (V) vs Shane Baz (L)
+**Fecha:** 2025-08-20  
+**Lanzadores:** Cam Schlittler (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.1%
+**Probabilidad de que anoten en la primera entrada:** 71.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 32.3% (20/62 partidos)
+- **Estadística base YRFI:** 31.7% (20/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 31.7%
+- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 54.5%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 38.7% (24/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Shane Baz):** 16.7% (2/12 partidos)
-- **Puntuación ajustada:** 34.3%
+- **Estadística base YRFI:** 39.7% (25/63 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 38.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

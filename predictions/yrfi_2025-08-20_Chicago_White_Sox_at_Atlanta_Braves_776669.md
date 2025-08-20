@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Pittsburgh Pirates
+# Análisis YRFI: Chicago White Sox @ Atlanta Braves
 
-**Fecha:** 2025-08-19  
-**Lanzadores:** Max Scherzer (V) vs Mitch Keller (L)
+**Fecha:** 2025-08-20  
+**Lanzadores:** Martín Pérez (V) vs Hurston Waldrep (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.0%
+**Probabilidad de que anoten en la primera entrada:** 48.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 28.1% (18/64 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 32.3% (20/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Impacto del lanzador visitante (Chicago White Sox - Martín Pérez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 36.0%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 22.6% (14/62 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 31.2% (20/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 19.4%
+- **Impacto del lanzador local (Atlanta Braves - Hurston Waldrep):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-19 13:23:48
+- **Generado el:** 2025-08-20 13:24:47
 - **Fuente de datos:** season_data.json

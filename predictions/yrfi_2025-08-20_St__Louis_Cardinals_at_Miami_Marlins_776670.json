@@ -1,0 +1,67 @@
+{
+  "game_pk": 776670,
+  "game_date": "2025-08-20",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 29.508196721311474,
+        "ratio": "18/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 20.82,
+    "pitcher": {
+      "name": "Andre Pallante",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/12"
+    },
+    "stats": {
+      "base": {
+        "value": 25.806451612903224,
+        "ratio": "16/62"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.508196721311474,
+        "tendency": 26.666666666666668,
+        "combined": 28.37,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.86
+      },
+      "away_team": {
+        "base": 25.806451612903224,
+        "tendency": 13.333333333333334,
+        "combined": 20.82,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 23.8
+      },
+      "game_yrfi_probability": 38.93
+    },
+    "yrfi_probability": 38.93
+  },
+  "metadata": {
+    "generated_at": "2025-08-20T13:24:47.235423",
+    "data_source": "season_data.json"
+  }
+}
