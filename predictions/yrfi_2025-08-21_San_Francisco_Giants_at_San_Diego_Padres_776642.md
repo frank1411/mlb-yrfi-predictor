@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ San Diego Padres
 
 **Fecha:** 2025-08-21  
-**Lanzadores:** Landen Roupp (V) vs JP Sears (L)
+**Lanzadores:** Justin Verlander (V) vs Dylan Cease (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.6%
+**Probabilidad de que anoten en la primera entrada:** 48.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 25.0% (15/60 partidos)
+- **Estadística base YRFI:** 26.2% (16/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Impacto del lanzador visitante (San Francisco Giants - Justin Verlander):** 33.3% (3/9 partidos)
+- **Puntuación ajustada:** 26.6%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 31.7% (20/63 partidos)
+- **Estadística base YRFI:** 31.2% (20/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - JP Sears):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 27.5%
+- **Impacto del lanzador local (San Diego Padres - Dylan Cease):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 29.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-20 13:24:47
+- **Generado el:** 2025-08-21 13:23:58
 - **Fuente de datos:** season_data.json

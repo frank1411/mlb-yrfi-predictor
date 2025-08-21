@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Los Angeles Angels
+# Análisis YRFI: Los Angeles Dodgers @ Colorado Rockies
 
 **Fecha:** 2025-08-21  
-**Lanzadores:** Nick Martinez (V) vs Yusei Kikuchi (L)
+**Lanzadores:** Clayton Kershaw (V) vs Chase Dollander (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.3%
+**Probabilidad de que anoten en la primera entrada:** 48.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
+### Colorado Rockies (Local)
 - **Estadística base YRFI:** 32.3% (21/65 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Nick Martinez):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 33.0%
-
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 21.0% (13/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Yusei Kikuchi):** 38.5% (5/13 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Clayton Kershaw):** 14.3% (1/7 partidos)
+- **Puntuación ajustada:** 23.4%
+
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 30.6% (19/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Chase Dollander):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 32.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-20 13:24:47
+- **Generado el:** 2025-08-21 13:23:58
 - **Fuente de datos:** season_data.json

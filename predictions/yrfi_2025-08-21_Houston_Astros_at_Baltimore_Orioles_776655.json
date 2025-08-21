@@ -1,0 +1,67 @@
+{
+  "game_pk": 776655,
+  "game_date": "2025-08-21",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Brandon Young",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "16/60"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 32.45,
+    "pitcher": {
+      "name": "Jason Alexander",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.419354838709676,
+        "ratio": "17/62"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.666666666666668,
+        "tendency": 13.333333333333334,
+        "combined": 21.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.93
+      },
+      "away_team": {
+        "base": 27.419354838709676,
+        "tendency": 40.0,
+        "combined": 32.45,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.72
+      },
+      "game_yrfi_probability": 42.76
+    },
+    "yrfi_probability": 42.76
+  },
+  "metadata": {
+    "generated_at": "2025-08-21T13:23:58.481048",
+    "data_source": "season_data.json"
+  }
+}

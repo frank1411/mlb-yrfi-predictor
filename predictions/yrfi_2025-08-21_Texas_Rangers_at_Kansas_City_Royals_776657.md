@@ -1,24 +1,24 @@
 # Análisis YRFI: Texas Rangers @ Kansas City Royals
 
-**Fecha:** 2025-08-20  
-**Lanzadores:** Por anunciar (V) vs Noah Cameron (L)
+**Fecha:** 2025-08-21  
+**Lanzadores:** Patrick Corbin (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.1%
+**Probabilidad de que anoten en la primera entrada:** 54.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 32.8% (21/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 43.7%
+- **Estadística base YRFI:** 33.8% (22/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Patrick Corbin):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 36.0%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 31.2% (20/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 22.2% (2/9 partidos)
+- **Estadística base YRFI:** 32.3% (21/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Michael Lorenzen):** 14.3% (1/7 partidos)
 - **Puntuación ajustada:** 29.1%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-20 13:24:47
+- **Generado el:** 2025-08-21 13:23:58
 - **Fuente de datos:** season_data.json

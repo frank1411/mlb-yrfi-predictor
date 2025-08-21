@@ -1,0 +1,67 @@
+{
+  "game_pk": 776654,
+  "game_date": "2025-08-21",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Luis Gil",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.87096774193548,
+        "ratio": "21/62"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 30.05,
+    "pitcher": {
+      "name": "Lucas Giolito",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 27.86885245901639,
+        "ratio": "17/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.87096774193548,
+        "tendency": 60.0,
+        "combined": 44.32,
+        "pitcher_impact": 30.0,
+        "adjusted": 40.03
+      },
+      "away_team": {
+        "base": 27.86885245901639,
+        "tendency": 33.33333333333333,
+        "combined": 30.05,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.04
+      },
+      "game_yrfi_probability": 70.64
+    },
+    "yrfi_probability": 70.64
+  },
+  "metadata": {
+    "generated_at": "2025-08-21T13:23:58.493320",
+    "data_source": "season_data.json"
+  }
+}

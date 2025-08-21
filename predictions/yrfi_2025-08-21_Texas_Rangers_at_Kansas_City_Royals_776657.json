@@ -1,0 +1,67 @@
+{
+  "game_pk": 776657,
+  "game_date": "2025-08-21",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 33.84615384615385,
+        "ratio": "22/65"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 35.38,
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 32.30769230769231,
+        "ratio": "21/65"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.84615384615385,
+        "tendency": 60.0,
+        "combined": 44.31,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 36.02
+      },
+      "away_team": {
+        "base": 32.30769230769231,
+        "tendency": 40.0,
+        "combined": 35.38,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 29.05
+      },
+      "game_yrfi_probability": 54.61
+    },
+    "yrfi_probability": 54.61
+  },
+  "metadata": {
+    "generated_at": "2025-08-21T13:23:58.411526",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Minnesota Twins
+# Análisis YRFI: Houston Astros @ Baltimore Orioles
 
-**Fecha:** 2025-08-20  
-**Lanzadores:** J.T. Ginn (V) vs Bailey Ober (L)
+**Fecha:** 2025-08-21  
+**Lanzadores:** Jason Alexander (V) vs Brandon Young (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.7%
+**Probabilidad de que anoten en la primera entrada:** 42.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 26.7% (16/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.9%
+
+### Houston Astros (Visitante)
 - **Estadística base YRFI:** 27.4% (17/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.2%
-
-### Athletics (Visitante)
-- **Estadística base YRFI:** 29.7% (19/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 30.8%
+- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 32.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-20 13:24:47
+- **Generado el:** 2025-08-21 13:23:58
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776631,
+  "game_date": "2025-08-21",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Joe Boyle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "20/64"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 20.57,
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 25.396825396825395,
+        "ratio": "16/63"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 33.33333333333333,
+        "combined": 32.08,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.46
+      },
+      "away_team": {
+        "base": 25.396825396825395,
+        "tendency": 13.333333333333334,
+        "combined": 20.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.4
+      },
+      "game_yrfi_probability": 42.19
+    },
+    "yrfi_probability": 42.19
+  },
+  "metadata": {
+    "generated_at": "2025-08-21T13:23:58.510014",
+    "data_source": "season_data.json"
+  }
+}

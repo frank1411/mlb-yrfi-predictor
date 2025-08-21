@@ -1,0 +1,67 @@
+{
+  "game_pk": 776650,
+  "game_date": "2025-08-21",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 29.6875,
+        "ratio": "19/64"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 29.77,
+    "pitcher": {
+      "name": "Sean Manaea",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 22.950819672131146,
+        "ratio": "14/61"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.6875,
+        "tendency": 26.666666666666668,
+        "combined": 28.48,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.94
+      },
+      "away_team": {
+        "base": 22.950819672131146,
+        "tendency": 40.0,
+        "combined": 29.77,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 34.48
+      },
+      "game_yrfi_probability": 57.37
+    },
+    "yrfi_probability": 57.37
+  },
+  "metadata": {
+    "generated_at": "2025-08-21T13:23:58.454121",
+    "data_source": "season_data.json"
+  }
+}
