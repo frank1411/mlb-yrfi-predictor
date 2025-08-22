@@ -1,0 +1,67 @@
+{
+  "game_pk": 776649,
+  "game_date": "2025-08-22",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 30.303030303030305,
+        "ratio": "20/66"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 42.39,
+    "pitcher": {
+      "name": "Ryan Bergert",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 30.64516129032258,
+        "ratio": "19/62"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.303030303030305,
+        "tendency": 26.666666666666668,
+        "combined": 28.85,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.19
+      },
+      "away_team": {
+        "base": 30.64516129032258,
+        "tendency": 60.0,
+        "combined": 42.39,
+        "pitcher_impact": 20.0,
+        "adjusted": 35.67
+      },
+      "game_yrfi_probability": 48.66
+    },
+    "yrfi_probability": 48.66
+  },
+  "metadata": {
+    "generated_at": "2025-08-22T13:22:38.866001",
+    "data_source": "season_data.json"
+  }
+}

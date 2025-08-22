@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Baltimore Orioles
 
-**Fecha:** 2025-08-21  
-**Lanzadores:** Jason Alexander (V) vs Brandon Young (L)
+**Fecha:** 2025-08-22  
+**Lanzadores:** Lance McCullers Jr. (V) vs Cade Povich (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.8%
+**Probabilidad de que anoten en la primera entrada:** 39.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.7% (16/60 partidos)
+- **Estadística base YRFI:** 26.2% (16/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 14.9%
+- **Impacto del lanzador visitante (Houston Astros - Lance McCullers Jr.):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 14.8%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 27.4% (17/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 32.7%
+- **Estadística base YRFI:** 28.6% (18/63 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 12.5% (1/8 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-21 13:23:58
+- **Generado el:** 2025-08-22 13:22:38
 - **Fuente de datos:** season_data.json

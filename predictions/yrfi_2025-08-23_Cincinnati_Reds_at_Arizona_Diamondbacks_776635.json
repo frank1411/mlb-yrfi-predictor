@@ -1,0 +1,67 @@
+{
+  "game_pk": 776635,
+  "game_date": "2025-08-23",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Ryne Nelson",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "27/63"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 20.38,
+    "pitcher": {
+      "name": "Zack Littell",
+      "yrfi_allowed": 21.428571428571427,
+      "yrfi_ratio": "3/14"
+    },
+    "stats": {
+      "base": {
+        "value": 20.634920634920633,
+        "ratio": "13/63"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 53.333333333333336,
+        "combined": 47.05,
+        "pitcher_impact": 21.428571428571427,
+        "adjusted": 39.36
+      },
+      "away_team": {
+        "base": 20.634920634920633,
+        "tendency": 20.0,
+        "combined": 20.38,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 18.55
+      },
+      "game_yrfi_probability": 50.61
+    },
+    "yrfi_probability": 50.61
+  },
+  "metadata": {
+    "generated_at": "2025-08-22T13:22:38.928030",
+    "data_source": "season_data.json"
+  }
+}

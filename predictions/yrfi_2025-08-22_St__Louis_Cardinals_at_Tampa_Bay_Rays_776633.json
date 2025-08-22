@@ -1,38 +1,38 @@
 {
-  "game_pk": 776631,
-  "game_date": "2025-08-21",
+  "game_pk": 776633,
+  "game_date": "2025-08-22",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Joe Boyle",
+      "name": "Adrian Houser",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/5"
     },
     "stats": {
       "base": {
-        "value": 31.25,
-        "ratio": "20/64"
+        "value": 32.30769230769231,
+        "ratio": "21/65"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "away_team": {
     "id": "138",
     "name": "St. Louis Cardinals",
-    "combined_yrfi_pct": 20.57,
+    "combined_yrfi_pct": 20.33,
     "pitcher": {
-      "name": "Sonny Gray",
+      "name": "Miles Mikolas",
       "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "3/9"
+      "yrfi_ratio": "4/12"
     },
     "stats": {
       "base": {
-        "value": 25.396825396825395,
-        "ratio": "16/63"
+        "value": 25.0,
+        "ratio": "16/64"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.25,
-        "tendency": 33.33333333333333,
-        "combined": 32.08,
+        "base": 32.30769230769231,
+        "tendency": 40.0,
+        "combined": 35.38,
         "pitcher_impact": 33.33333333333333,
-        "adjusted": 32.46
+        "adjusted": 34.77
       },
       "away_team": {
-        "base": 25.396825396825395,
+        "base": 25.0,
         "tendency": 13.333333333333334,
-        "combined": 20.57,
+        "combined": 20.33,
         "pitcher_impact": 0.0,
-        "adjusted": 14.4
+        "adjusted": 14.23
       },
-      "game_yrfi_probability": 42.19
+      "game_yrfi_probability": 44.05
     },
-    "yrfi_probability": 42.19
+    "yrfi_probability": 44.05
   },
   "metadata": {
-    "generated_at": "2025-08-21T13:23:58.510014",
+    "generated_at": "2025-08-22T13:22:38.889700",
     "data_source": "season_data.json"
   }
 }

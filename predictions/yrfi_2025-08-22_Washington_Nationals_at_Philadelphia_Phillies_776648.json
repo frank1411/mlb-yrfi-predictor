@@ -1,0 +1,67 @@
+{
+  "game_pk": 776648,
+  "game_date": "2025-08-22",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Taijuan Walker",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 40.98360655737705,
+        "ratio": "25/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 26.15,
+    "pitcher": {
+      "name": "Cade Cavalli",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.806451612903224,
+        "ratio": "16/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.98360655737705,
+        "tendency": 33.33333333333333,
+        "combined": 37.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.55
+      },
+      "away_team": {
+        "base": 25.806451612903224,
+        "tendency": 26.666666666666668,
+        "combined": 26.15,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 22.59
+      },
+      "game_yrfi_probability": 43.14
+    },
+    "yrfi_probability": 43.14
+  },
+  "metadata": {
+    "generated_at": "2025-08-22T13:22:38.837464",
+    "data_source": "season_data.json"
+  }
+}

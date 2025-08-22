@@ -1,0 +1,67 @@
+{
+  "game_pk": 776645,
+  "game_date": "2025-08-22",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Joey Wentz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.746031746031743,
+        "ratio": "20/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 30.52,
+    "pitcher": {
+      "name": "Nolan McLean",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 24.193548387096776,
+        "ratio": "15/62"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.746031746031743,
+        "tendency": 26.666666666666668,
+        "combined": 29.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.8
+      },
+      "away_team": {
+        "base": 24.193548387096776,
+        "tendency": 40.0,
+        "combined": 30.52,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.36
+      },
+      "game_yrfi_probability": 37.72
+    },
+    "yrfi_probability": 37.72
+  },
+  "metadata": {
+    "generated_at": "2025-08-22T13:22:38.880524",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776637,
+  "game_date": "2025-08-22",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.78787878787879,
+        "ratio": "19/66"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 16.71,
+    "pitcher": {
+      "name": "Antonio Senzatela",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "6/10"
+    },
+    "stats": {
+      "base": {
+        "value": 14.516129032258066,
+        "ratio": "9/62"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.78787878787879,
+        "tendency": 20.0,
+        "combined": 25.27,
+        "pitcher_impact": 60.0,
+        "adjusted": 35.69
+      },
+      "away_team": {
+        "base": 14.516129032258066,
+        "tendency": 20.0,
+        "combined": 16.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.7
+      },
+      "game_yrfi_probability": 43.21
+    },
+    "yrfi_probability": 43.21
+  },
+  "metadata": {
+    "generated_at": "2025-08-22T13:22:38.825730",
+    "data_source": "season_data.json"
+  }
+}

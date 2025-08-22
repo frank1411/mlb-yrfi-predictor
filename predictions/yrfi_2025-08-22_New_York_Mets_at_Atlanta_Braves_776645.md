@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Washington Nationals
+# Análisis YRFI: New York Mets @ Atlanta Braves
 
-**Fecha:** 2025-08-21  
-**Lanzadores:** Sean Manaea (V) vs MacKenzie Gore (L)
+**Fecha:** 2025-08-22  
+**Lanzadores:** Nolan McLean (V) vs Joey Wentz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.4%
+**Probabilidad de que anoten en la primera entrada:** 37.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 29.7% (19/64 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 31.7% (20/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Sean Manaea):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.9%
+- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.0% (14/61 partidos)
+- **Estadística base YRFI:** 24.2% (15/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - MacKenzie Gore):** 45.5% (5/11 partidos)
-- **Puntuación ajustada:** 34.5%
+- **Impacto del lanzador local (Atlanta Braves - Joey Wentz):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-21 13:23:58
+- **Generado el:** 2025-08-22 13:22:38
 - **Fuente de datos:** season_data.json
