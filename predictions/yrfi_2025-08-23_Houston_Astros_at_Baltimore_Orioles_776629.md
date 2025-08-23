@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Baltimore Orioles
 
-**Fecha:** 2025-08-22  
-**Lanzadores:** Lance McCullers Jr. (V) vs Cade Povich (L)
+**Fecha:** 2025-08-23  
+**Lanzadores:** Cristian Javier (V) vs Dean Kremer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.3%
+**Probabilidad de que anoten en la primera entrada:** 37.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.2% (16/61 partidos)
+- **Estadística base YRFI:** 25.8% (16/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Lance McCullers Jr.):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 14.8%
+- **Impacto del lanzador visitante (Houston Astros - Cristian Javier):** 0.0% (1/2 partidos)
+- **Puntuación ajustada:** 14.6%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 28.6% (18/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 12.5% (1/8 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Estadística base YRFI:** 28.1% (18/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Dean Kremer):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 26.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-22 13:22:38
+- **Generado el:** 2025-08-23 13:18:31
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Chicago White Sox
 
-**Fecha:** 2025-08-22  
-**Lanzadores:** Zebby Matthews (V) vs Aaron Civale (L)
+**Fecha:** 2025-08-23  
+**Lanzadores:** Por anunciar (V) vs Davis Martin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.6%
+**Probabilidad de que anoten en la primera entrada:** 49.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 27.9% (17/61 partidos)
+- **Estadística base YRFI:** 29.0% (18/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 27.3%
+- **Impacto del lanzador visitante (Minnesota Twins - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 32.8%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 30.2% (19/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Aaron Civale):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 25.1%
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 24.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-22 13:22:38
+- **Generado el:** 2025-08-23 13:18:31
 - **Fuente de datos:** season_data.json

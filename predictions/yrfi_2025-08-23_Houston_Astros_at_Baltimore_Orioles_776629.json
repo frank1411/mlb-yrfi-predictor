@@ -1,0 +1,67 @@
+{
+  "game_pk": 776629,
+  "game_date": "2025-08-23",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Dean Kremer",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 25.806451612903224,
+        "ratio": "16/62"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 32.88,
+    "pitcher": {
+      "name": "Cristian Javier",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.125,
+        "ratio": "18/64"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.806451612903224,
+        "tendency": 13.333333333333334,
+        "combined": 20.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.57
+      },
+      "away_team": {
+        "base": 28.125,
+        "tendency": 40.0,
+        "combined": 32.88,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 26.35
+      },
+      "game_yrfi_probability": 37.08
+    },
+    "yrfi_probability": 37.08
+  },
+  "metadata": {
+    "generated_at": "2025-08-23T13:18:31.407098",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Texas Rangers
 
 **Fecha:** 2025-08-23  
-**Lanzadores:** Slade Cecconi (V) vs Nathan Eovaldi (L)
+**Lanzadores:** Logan Allen (V) vs Jack Leiter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.3%
+**Probabilidad de que anoten en la primera entrada:** 44.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 23.8% (15/63 partidos)
+- **Estadística base YRFI:** 23.4% (15/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 25.0% (2/8 partidos)
-- **Puntuación ajustada:** 28.7%
+- **Impacto del lanzador visitante (Cleveland Guardians - Logan Allen):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 24.4%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
+- **Estadística base YRFI:** 24.6% (16/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 24.7%
+- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 27.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-22 13:22:38
+- **Generado el:** 2025-08-23 13:18:31
 - **Fuente de datos:** season_data.json

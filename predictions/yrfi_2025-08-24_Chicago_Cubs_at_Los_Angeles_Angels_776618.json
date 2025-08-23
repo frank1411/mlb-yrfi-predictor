@@ -1,0 +1,67 @@
+{
+  "game_pk": 776618,
+  "game_date": "2025-08-24",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Victor Mederos",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 31.343283582089555,
+        "ratio": "21/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 27.05,
+    "pitcher": {
+      "name": "Cade Horton",
+      "yrfi_allowed": 57.14285714285714,
+      "yrfi_ratio": "4/7"
+    },
+    "stats": {
+      "base": {
+        "value": 31.746031746031743,
+        "ratio": "20/63"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.343283582089555,
+        "tendency": 40.0,
+        "combined": 34.81,
+        "pitcher_impact": 57.14285714285714,
+        "adjusted": 41.51
+      },
+      "away_team": {
+        "base": 31.746031746031743,
+        "tendency": 20.0,
+        "combined": 27.05,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.93
+      },
+      "game_yrfi_probability": 70.13
+    },
+    "yrfi_probability": 70.13
+  },
+  "metadata": {
+    "generated_at": "2025-08-23T13:18:31.466525",
+    "data_source": "season_data.json"
+  }
+}

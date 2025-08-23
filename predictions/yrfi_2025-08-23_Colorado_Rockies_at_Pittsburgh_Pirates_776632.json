@@ -1,0 +1,67 @@
+{
+  "game_pk": 776632,
+  "game_date": "2025-08-23",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mike Burrows",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 29.850746268656714,
+        "ratio": "20/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 13.9,
+    "pitcher": {
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "6/12"
+    },
+    "stats": {
+      "base": {
+        "value": 14.285714285714285,
+        "ratio": "9/63"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.850746268656714,
+        "tendency": 26.666666666666668,
+        "combined": 28.58,
+        "pitcher_impact": 50.0,
+        "adjusted": 35.0
+      },
+      "away_team": {
+        "base": 14.285714285714285,
+        "tendency": 13.333333333333334,
+        "combined": 13.9,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 16.4
+      },
+      "game_yrfi_probability": 45.66
+    },
+    "yrfi_probability": 45.66
+  },
+  "metadata": {
+    "generated_at": "2025-08-23T13:18:31.398221",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776626,
+  "game_date": "2025-08-23",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Cal Quantrill",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "20/64"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 30.29,
+    "pitcher": {
+      "name": "Clay Holmes",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "15/63"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 20.0,
+        "combined": 26.75,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 23.72
+      },
+      "away_team": {
+        "base": 23.809523809523807,
+        "tendency": 40.0,
+        "combined": 30.29,
+        "pitcher_impact": 40.0,
+        "adjusted": 33.2
+      },
+      "game_yrfi_probability": 49.04
+    },
+    "yrfi_probability": 49.04
+  },
+  "metadata": {
+    "generated_at": "2025-08-23T13:18:31.439742",
+    "data_source": "season_data.json"
+  }
+}

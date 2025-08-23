@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Detroit Tigers
 
-**Fecha:** 2025-08-22  
-**Lanzadores:** Ryan Bergert (V) vs Casey Mize (L)
+**Fecha:** 2025-08-23  
+**Lanzadores:** Michael Wacha (V) vs Chris Paddack (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.7%
+**Probabilidad de que anoten en la primera entrada:** 56.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 30.3% (20/66 partidos)
+- **Estadística base YRFI:** 29.9% (20/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Ryan Bergert):** 0.0% (0/6 partidos)
-- **Puntuación ajustada:** 20.2%
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 27.5%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 30.6% (19/62 partidos)
+- **Estadística base YRFI:** 30.2% (19/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 35.7%
+- **Impacto del lanzador local (Detroit Tigers - Chris Paddack):** 36.4% (4/11 partidos)
+- **Puntuación ajustada:** 40.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-22 13:22:38
+- **Generado el:** 2025-08-23 13:18:31
 - **Fuente de datos:** season_data.json

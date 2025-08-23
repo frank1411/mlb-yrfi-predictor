@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Miami Marlins
 
-**Fecha:** 2025-08-22  
-**Lanzadores:** Shane Bieber (V) vs Por anunciar (L)
+**Fecha:** 2025-08-23  
+**Lanzadores:** José Berríos (V) vs Janson Junk (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.6%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 29.0% (18/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.7%
+- **Estadística base YRFI:** 28.6% (18/63 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - José Berríos):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 29.1%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
+- **Estadística base YRFI:** 26.2% (17/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 34.8%
+- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 32.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-22 13:22:38
+- **Generado el:** 2025-08-23 13:18:31
 - **Fuente de datos:** season_data.json

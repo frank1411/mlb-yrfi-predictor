@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Seattle Mariners
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** Luis Morales (V) vs Por anunciar (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Jeffrey Springs (V) vs George Kirby (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.7%
+**Probabilidad de que anoten en la primera entrada:** 46.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 19.4% (12/62 partidos)
+- **Estadística base YRFI:** 19.0% (12/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Luis Morales):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 19.3%
+- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 28.8% (19/66 partidos)
+- **Estadística base YRFI:** 29.9% (20/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 36.4%
+- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 12.5% (1/8 partidos)
+- **Puntuación ajustada:** 25.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-22 13:22:38
+- **Generado el:** 2025-08-23 13:18:31
 - **Fuente de datos:** season_data.json

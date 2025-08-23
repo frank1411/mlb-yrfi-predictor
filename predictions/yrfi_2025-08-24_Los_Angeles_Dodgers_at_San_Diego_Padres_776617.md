@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ San Diego Padres
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** Blake Snell (V) vs Yu Darvish (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Tyler Glasnow (V) vs Nestor Cortes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.6%
+**Probabilidad de que anoten en la primera entrada:** 52.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 25.8% (16/62 partidos)
+- **Estadística base YRFI:** 25.4% (16/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Blake Snell):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 46.4%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 16.3%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 31.7% (20/63 partidos)
+- **Estadística base YRFI:** 31.2% (20/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Yu Darvish):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 28.3%
+- **Impacto del lanzador local (San Diego Padres - Nestor Cortes):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 43.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-22 13:22:38
+- **Generado el:** 2025-08-23 13:18:31
 - **Fuente de datos:** season_data.json

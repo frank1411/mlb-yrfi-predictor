@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Arizona Diamondbacks
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** Zack Littell (V) vs Ryne Nelson (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Andrew Abbott (V) vs Nabil Crismatt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.6%
+**Probabilidad de que anoten en la primera entrada:** 45.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 42.9% (27/63 partidos)
+- **Estadística base YRFI:** 43.8% (28/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 39.4%
+- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 36.6%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 20.6% (13/63 partidos)
+- **Estadística base YRFI:** 20.3% (13/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 14.3% (1/7 partidos)
-- **Puntuación ajustada:** 18.6%
+- **Impacto del lanzador local (Arizona Diamondbacks - Nabil Crismatt):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 14.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-22 13:22:38
+- **Generado el:** 2025-08-23 13:18:31
 - **Fuente de datos:** season_data.json

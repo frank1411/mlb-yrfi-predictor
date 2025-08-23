@@ -1,0 +1,67 @@
+{
+  "game_pk": 776620,
+  "game_date": "2025-08-24",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 19.047619047619047,
+        "ratio": "12/63"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 31.24,
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 29.850746268656714,
+        "ratio": "20/67"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.047619047619047,
+        "tendency": 40.0,
+        "combined": 27.43,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 28.43
+      },
+      "away_team": {
+        "base": 29.850746268656714,
+        "tendency": 33.33333333333333,
+        "combined": 31.24,
+        "pitcher_impact": 12.5,
+        "adjusted": 25.62
+      },
+      "game_yrfi_probability": 46.77
+    },
+    "yrfi_probability": 46.77
+  },
+  "metadata": {
+    "generated_at": "2025-08-23T13:18:31.475463",
+    "data_source": "season_data.json"
+  }
+}
