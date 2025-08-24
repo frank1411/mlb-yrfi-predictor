@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ San Diego Padres
 
 **Fecha:** 2025-08-24  
-**Lanzadores:** Tyler Glasnow (V) vs Nestor Cortes (L)
+**Lanzadores:** Yoshinobu Yamamoto (V) vs Nick Pivetta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.3%
+**Probabilidad de que anoten en la primera entrada:** 50.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 25.4% (16/63 partidos)
+- **Estadística base YRFI:** 25.0% (16/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 16.3%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 24.7%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 31.2% (20/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Nestor Cortes):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 43.1%
+- **Estadística base YRFI:** 30.8% (20/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Nick Pivetta):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 34.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Atlanta Braves
+# Análisis YRFI: San Francisco Giants @ Milwaukee Brewers
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** Clay Holmes (V) vs Cal Quantrill (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Robbie Ray (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.0%
+**Probabilidad de que anoten en la primera entrada:** 50.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 31.2% (20/64 partidos)
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 14.1% (9/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Clay Holmes):** 16.7% (2/12 partidos)
-- **Puntuación ajustada:** 23.7%
+- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 18.4%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.8% (15/63 partidos)
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 31.3% (21/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Cal Quantrill):** 40.0% (4/10 partidos)
-- **Puntuación ajustada:** 33.2%
+- **Impacto del lanzador local (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 39.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json

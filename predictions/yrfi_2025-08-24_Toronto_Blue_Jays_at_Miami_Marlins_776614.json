@@ -1,0 +1,67 @@
+{
+  "game_pk": 776614,
+  "game_date": "2025-08-24",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 28.125,
+        "ratio": "18/64"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 28.79,
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 25.757575757575758,
+        "ratio": "17/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.125,
+        "tendency": 20.0,
+        "combined": 24.88,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 24.34
+      },
+      "away_team": {
+        "base": 25.757575757575758,
+        "tendency": 33.33333333333333,
+        "combined": 28.79,
+        "pitcher_impact": 20.0,
+        "adjusted": 26.15
+      },
+      "game_yrfi_probability": 44.13
+    },
+    "yrfi_probability": 44.13
+  },
+  "metadata": {
+    "generated_at": "2025-08-24T13:19:18.818524",
+    "data_source": "season_data.json"
+  }
+}

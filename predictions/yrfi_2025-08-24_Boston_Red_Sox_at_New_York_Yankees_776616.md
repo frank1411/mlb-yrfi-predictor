@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ New York Yankees
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** Garrett Crochet (V) vs Will Warren (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Dustin May (V) vs Carlos Rodón (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 56.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 32.8% (21/64 partidos)
+- **Estadística base YRFI:** 32.3% (21/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Garrett Crochet):** 15.4% (2/13 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Impacto del lanzador visitante (Boston Red Sox - Dustin May):** 50.0% (5/10 partidos)
+- **Puntuación ajustada:** 41.6%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 27.0% (17/63 partidos)
+- **Estadística base YRFI:** 26.6% (17/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Will Warren):** 15.4% (2/13 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 26.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json

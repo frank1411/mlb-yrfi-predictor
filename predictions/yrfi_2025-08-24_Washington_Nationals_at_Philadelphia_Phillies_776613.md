@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Philadelphia Phillies
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** Mitchell Parker (V) vs Aaron Nola (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Jake Irvin (V) vs Ranger Suárez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.3%
+**Probabilidad de que anoten en la primera entrada:** 49.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.3% (25/62 partidos)
+- **Estadística base YRFI:** 39.7% (25/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Mitchell Parker):** 45.5% (5/11 partidos)
-- **Puntuación ajustada:** 39.9%
+- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 36.7%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 27.0% (17/63 partidos)
+- **Estadística base YRFI:** 26.6% (17/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.7%
+- **Impacto del lanzador local (Philadelphia Phillies - Ranger Suárez):** 0.0% (0/10 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Seattle Mariners
 
 **Fecha:** 2025-08-24  
-**Lanzadores:** Jeffrey Springs (V) vs George Kirby (L)
+**Lanzadores:** Jacob Lopez (V) vs Logan Gilbert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.8%
+**Probabilidad de que anoten en la primera entrada:** 43.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 19.0% (12/63 partidos)
+- **Estadística base YRFI:** 18.8% (12/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 0.0% (0/9 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 29.9% (20/67 partidos)
+- **Estadística base YRFI:** 29.4% (20/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 12.5% (1/8 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 30.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json

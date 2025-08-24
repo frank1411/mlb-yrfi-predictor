@@ -1,0 +1,67 @@
+{
+  "game_pk": 776609,
+  "game_date": "2025-08-24",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 44.61538461538462,
+        "ratio": "29/65"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 20.0,
+    "pitcher": {
+      "name": "Brady Singer",
+      "yrfi_allowed": 58.333333333333336,
+      "yrfi_ratio": "7/12"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "13/65"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.61538461538462,
+        "tendency": 53.333333333333336,
+        "combined": 48.1,
+        "pitcher_impact": 58.333333333333336,
+        "adjusted": 51.17
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 20.0,
+        "combined": 20.0,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 23.23
+      },
+      "game_yrfi_probability": 62.51
+    },
+    "yrfi_probability": 62.51
+  },
+  "metadata": {
+    "generated_at": "2025-08-24T13:19:18.861959",
+    "data_source": "season_data.json"
+  }
+}

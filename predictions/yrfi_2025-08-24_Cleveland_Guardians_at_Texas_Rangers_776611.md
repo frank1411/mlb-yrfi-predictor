@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Texas Rangers
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** Logan Allen (V) vs Jack Leiter (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Gavin Williams (V) vs Merrill Kelly (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.8%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 23.4% (15/64 partidos)
+- **Estadística base YRFI:** 23.1% (15/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Logan Allen):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 24.4%
+- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 24.6% (16/65 partidos)
+- **Estadística base YRFI:** 24.2% (16/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 27.0%
+- **Impacto del lanzador local (Texas Rangers - Merrill Kelly):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 32.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json

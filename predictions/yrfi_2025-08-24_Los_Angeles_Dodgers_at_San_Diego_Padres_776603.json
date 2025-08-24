@@ -1,0 +1,67 @@
+{
+  "game_pk": 776603,
+  "game_date": "2025-08-24",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Nick Pivetta",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "16/64"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 37.13,
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "20/65"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 20.0,
+        "combined": 23.0,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 24.67
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 46.666666666666664,
+        "combined": 37.13,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 34.56
+      },
+      "game_yrfi_probability": 50.7
+    },
+    "yrfi_probability": 50.7
+  },
+  "metadata": {
+    "generated_at": "2025-08-24T13:19:18.873442",
+    "data_source": "season_data.json"
+  }
+}

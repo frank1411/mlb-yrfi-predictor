@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Miami Marlins
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** José Berríos (V) vs Janson Junk (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Kevin Gausman (V) vs Eury Pérez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 44.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 28.6% (18/63 partidos)
+- **Estadística base YRFI:** 28.1% (18/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - José Berríos):** 38.5% (5/13 partidos)
-- **Puntuación ajustada:** 29.1%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 24.3%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 26.2% (17/65 partidos)
+- **Estadística base YRFI:** 25.8% (17/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 32.3%
+- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 26.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json

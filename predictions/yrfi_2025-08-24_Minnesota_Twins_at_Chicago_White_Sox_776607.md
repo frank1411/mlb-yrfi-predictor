@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Chicago White Sox
 
-**Fecha:** 2025-08-23  
-**Lanzadores:** Por anunciar (V) vs Davis Martin (L)
+**Fecha:** 2025-08-24  
+**Lanzadores:** Taj Bradley (V) vs Yoendrys Gómez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.4%
+**Probabilidad de que anoten en la primera entrada:** 40.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 29.0% (18/62 partidos)
+- **Estadística base YRFI:** 28.6% (18/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.8%
+- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 40.0% (4/10 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 29.7% (19/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 22.2% (2/9 partidos)
-- **Puntuación ajustada:** 24.7%
+- **Estadística base YRFI:** 29.2% (19/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Yoendrys Gómez):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 16.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json

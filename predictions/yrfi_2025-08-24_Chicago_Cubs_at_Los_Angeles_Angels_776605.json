@@ -1,0 +1,67 @@
+{
+  "game_pk": 776605,
+  "game_date": "2025-08-24",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Kyle Hendricks",
+      "yrfi_allowed": 38.46153846153847,
+      "yrfi_ratio": "5/13"
+    },
+    "stats": {
+      "base": {
+        "value": 30.88235294117647,
+        "ratio": "21/68"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 24.08,
+    "pitcher": {
+      "name": "Jameson Taillon",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "20/64"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.88235294117647,
+        "tendency": 40.0,
+        "combined": 34.53,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 27.5
+      },
+      "away_team": {
+        "base": 31.25,
+        "tendency": 13.333333333333334,
+        "combined": 24.08,
+        "pitcher_impact": 38.46153846153847,
+        "adjusted": 28.4
+      },
+      "game_yrfi_probability": 48.09
+    },
+    "yrfi_probability": 48.09
+  },
+  "metadata": {
+    "generated_at": "2025-08-24T13:19:18.852719",
+    "data_source": "season_data.json"
+  }
+}

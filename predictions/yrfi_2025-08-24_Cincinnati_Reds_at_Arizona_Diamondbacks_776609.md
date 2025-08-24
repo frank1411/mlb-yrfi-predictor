@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Arizona Diamondbacks
 
 **Fecha:** 2025-08-24  
-**Lanzadores:** Andrew Abbott (V) vs Nabil Crismatt (L)
+**Lanzadores:** Brady Singer (V) vs Zac Gallen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.6%
+**Probabilidad de que anoten en la primera entrada:** 62.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 43.8% (28/64 partidos)
+- **Estadística base YRFI:** 44.6% (29/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 36.6%
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 58.3% (7/12 partidos)
+- **Puntuación ajustada:** 51.2%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 20.3% (13/64 partidos)
+- **Estadística base YRFI:** 20.0% (13/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Nabil Crismatt):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.1%
+- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 23.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-23 13:18:31
+- **Generado el:** 2025-08-24 13:19:18
 - **Fuente de datos:** season_data.json
