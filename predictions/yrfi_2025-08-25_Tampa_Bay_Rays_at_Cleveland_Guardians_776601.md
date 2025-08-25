@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Seattle Mariners
+# Análisis YRFI: Tampa Bay Rays @ Cleveland Guardians
 
-**Fecha:** 2025-08-24  
-**Lanzadores:** Jacob Lopez (V) vs Logan Gilbert (L)
+**Fecha:** 2025-08-25  
+**Lanzadores:** Ian Seymour (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.9%
+**Probabilidad de que anoten en la primera entrada:** 45.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 18.8% (12/64 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 32.3% (20/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 0.0% (0/9 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Ian Seymour):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.8%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 29.4% (20/68 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 22.2% (14/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 30.7%
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-24 13:19:18
+- **Generado el:** 2025-08-25 13:25:31
 - **Fuente de datos:** season_data.json

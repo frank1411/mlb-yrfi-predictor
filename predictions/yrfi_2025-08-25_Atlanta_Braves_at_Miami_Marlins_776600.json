@@ -1,0 +1,67 @@
+{
+  "game_pk": 776600,
+  "game_date": "2025-08-25",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Edward Cabrera",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 27.692307692307693,
+        "ratio": "18/65"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 21.27,
+    "pitcher": {
+      "name": "Spencer Strider",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 26.5625,
+        "ratio": "17/64"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.692307692307693,
+        "tendency": 20.0,
+        "combined": 24.62,
+        "pitcher_impact": 37.5,
+        "adjusted": 28.48
+      },
+      "away_team": {
+        "base": 26.5625,
+        "tendency": 13.333333333333334,
+        "combined": 21.27,
+        "pitcher_impact": 25.0,
+        "adjusted": 22.39
+      },
+      "game_yrfi_probability": 44.49
+    },
+    "yrfi_probability": 44.49
+  },
+  "metadata": {
+    "generated_at": "2025-08-25T13:25:31.374147",
+    "data_source": "season_data.json"
+  }
+}

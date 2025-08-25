@@ -1,33 +1,33 @@
 {
-  "game_pk": 776614,
-  "game_date": "2025-08-24",
+  "game_pk": 776598,
+  "game_date": "2025-08-25",
   "home_team": {
-    "id": "146",
-    "name": "Miami Marlins",
+    "id": "121",
+    "name": "New York Mets",
     "pitcher": {
-      "name": "Eury Pérez",
+      "name": "Kodai Senga",
       "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "yrfi_ratio": "2/10"
     },
     "stats": {
       "base": {
-        "value": 28.125,
-        "ratio": "18/64"
+        "value": 35.38461538461539,
+        "ratio": "23/65"
       },
       "tendency": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
-    "id": "141",
-    "name": "Toronto Blue Jays",
+    "id": "143",
+    "name": "Philadelphia Phillies",
     "combined_yrfi_pct": 28.79,
     "pitcher": {
-      "name": "Kevin Gausman",
-      "yrfi_allowed": 23.076923076923077,
-      "yrfi_ratio": "3/13"
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 21.428571428571427,
+      "yrfi_ratio": "3/14"
     },
     "stats": {
       "base": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.125,
-        "tendency": 20.0,
-        "combined": 24.88,
-        "pitcher_impact": 23.076923076923077,
-        "adjusted": 24.34
+        "base": 35.38461538461539,
+        "tendency": 33.33333333333333,
+        "combined": 34.56,
+        "pitcher_impact": 21.428571428571427,
+        "adjusted": 30.62
       },
       "away_team": {
         "base": 25.757575757575758,
@@ -56,12 +56,12 @@
         "pitcher_impact": 20.0,
         "adjusted": 26.15
       },
-      "game_yrfi_probability": 44.13
+      "game_yrfi_probability": 48.76
     },
-    "yrfi_probability": 44.13
+    "yrfi_probability": 48.76
   },
   "metadata": {
-    "generated_at": "2025-08-24T13:19:18.818524",
+    "generated_at": "2025-08-25T13:25:31.402277",
     "data_source": "season_data.json"
   }
 }

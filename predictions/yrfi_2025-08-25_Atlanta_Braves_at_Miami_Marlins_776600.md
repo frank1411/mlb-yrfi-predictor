@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Pittsburgh Pirates
+# Análisis YRFI: Atlanta Braves @ Miami Marlins
 
-**Fecha:** 2025-08-24  
-**Lanzadores:** McCade Brown (V) vs Paul Skenes (L)
+**Fecha:** 2025-08-25  
+**Lanzadores:** Spencer Strider (V) vs Edward Cabrera (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 25.9%
+**Probabilidad de que anoten en la primera entrada:** 44.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 29.4% (20/68 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 27.7% (18/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - McCade Brown):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.9%
+- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 28.5%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 14.1% (9/64 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 26.6% (17/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 0.0% (0/12 partidos)
-- **Puntuación ajustada:** 9.6%
+- **Impacto del lanzador local (Miami Marlins - Edward Cabrera):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-24 13:19:18
+- **Generado el:** 2025-08-25 13:25:31
 - **Fuente de datos:** season_data.json

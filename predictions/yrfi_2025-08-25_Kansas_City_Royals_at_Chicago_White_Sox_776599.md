@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Detroit Tigers
+# Análisis YRFI: Kansas City Royals @ Chicago White Sox
 
-**Fecha:** 2025-08-24  
-**Lanzadores:** Seth Lugo (V) vs Jack Flaherty (L)
+**Fecha:** 2025-08-25  
+**Lanzadores:** Noah Cameron (V) vs Shane Smith (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.7%
+**Probabilidad de que anoten en la primera entrada:** 50.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 29.4% (20/68 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Seth Lugo):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 0.0% (0/8 partidos)
+- **Puntuación ajustada:** 19.9%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 29.7% (19/64 partidos)
+- **Estadística base YRFI:** 29.2% (19/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 35.7%
+- **Impacto del lanzador local (Chicago White Sox - Shane Smith):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 38.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-24 13:19:18
+- **Generado el:** 2025-08-25 13:25:31
 - **Fuente de datos:** season_data.json

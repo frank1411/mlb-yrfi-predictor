@@ -1,0 +1,67 @@
+{
+  "game_pk": 776589,
+  "game_date": "2025-08-25",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "15/65"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 18.88,
+    "pitcher": {
+      "name": "Johan Oviedo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 22.58064516129032,
+        "ratio": "14/62"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.076923076923077,
+        "tendency": 13.333333333333334,
+        "combined": 19.18,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.43
+      },
+      "away_team": {
+        "base": 22.58064516129032,
+        "tendency": 13.333333333333334,
+        "combined": 18.88,
+        "pitcher_impact": 20.0,
+        "adjusted": 19.22
+      },
+      "game_yrfi_probability": 30.07
+    },
+    "yrfi_probability": 30.07
+  },
+  "metadata": {
+    "generated_at": "2025-08-25T13:25:31.429252",
+    "data_source": "season_data.json"
+  }
+}
