@@ -1,0 +1,67 @@
+{
+  "game_pk": 776591,
+  "game_date": "2025-08-26",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.692307692307693,
+        "ratio": "18/65"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 27.03,
+    "pitcher": {
+      "name": "Lucas Giolito",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "18/66"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.692307692307693,
+        "tendency": 20.0,
+        "combined": 24.62,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 25.41
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 26.666666666666668,
+        "combined": 27.03,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.92
+      },
+      "game_yrfi_probability": 39.52
+    },
+    "yrfi_probability": 39.52
+  },
+  "metadata": {
+    "generated_at": "2025-08-26T13:27:01.186130",
+    "data_source": "season_data.json"
+  }
+}

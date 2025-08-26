@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Miami Marlins
+# Análisis YRFI: Boston Red Sox @ Baltimore Orioles
 
-**Fecha:** 2025-08-25  
-**Lanzadores:** Spencer Strider (V) vs Edward Cabrera (L)
+**Fecha:** 2025-08-26  
+**Lanzadores:** Lucas Giolito (V) vs Kyle Bradish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.5%
+**Probabilidad de que anoten en la primera entrada:** 39.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
+### Baltimore Orioles (Local)
 - **Estadística base YRFI:** 27.7% (18/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 37.5% (3/8 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Impacto del lanzador visitante (Boston Red Sox - Lucas Giolito):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 25.4%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 26.6% (17/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Edward Cabrera):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 22.4%
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 27.3% (18/66 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-25 13:25:31
+- **Generado el:** 2025-08-26 13:27:01
 - **Fuente de datos:** season_data.json

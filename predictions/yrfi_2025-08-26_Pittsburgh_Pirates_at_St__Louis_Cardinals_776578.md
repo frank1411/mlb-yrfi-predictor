@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ St. Louis Cardinals
 
-**Fecha:** 2025-08-25  
-**Lanzadores:** Johan Oviedo (V) vs Michael McGreevy (L)
+**Fecha:** 2025-08-26  
+**Lanzadores:** Mitch Keller (V) vs Andre Pallante (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 30.1%
+**Probabilidad de que anoten en la primera entrada:** 47.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 23.1% (15/65 partidos)
+- **Estadística base YRFI:** 22.7% (15/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Johan Oviedo):** 0.0% (2/2 partidos)
-- **Puntuación ajustada:** 13.4%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 36.4% (4/11 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 22.6% (14/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 19.2%
+- **Estadística base YRFI:** 23.8% (15/63 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 50.0% (6/12 partidos)
+- **Puntuación ajustada:** 30.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-25 13:25:31
+- **Generado el:** 2025-08-26 13:27:01
 - **Fuente de datos:** season_data.json

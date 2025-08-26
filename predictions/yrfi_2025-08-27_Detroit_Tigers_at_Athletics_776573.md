@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Athletics
 
-**Fecha:** 2025-08-26  
-**Lanzadores:** Tarik Skubal (V) vs J.T. Ginn (L)
+**Fecha:** 2025-08-27  
+**Lanzadores:** Charlie Morton (V) vs Osvaldo Bido (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.6%
+**Probabilidad de que anoten en la primera entrada:** 55.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 36.5% (23/63 partidos)
+- **Estadística base YRFI:** 35.9% (23/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 9.1% (1/11 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Impacto del lanzador visitante (Detroit Tigers - Charlie Morton):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 33.4%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 25.4% (16/63 partidos)
+- **Estadística base YRFI:** 25.0% (16/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - J.T. Ginn):** 60.0% (3/5 partidos)
-- **Puntuación ajustada:** 36.1%
+- **Impacto del lanzador local (Athletics - Osvaldo Bido):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-25 13:25:31
+- **Generado el:** 2025-08-26 13:27:01
 - **Fuente de datos:** season_data.json

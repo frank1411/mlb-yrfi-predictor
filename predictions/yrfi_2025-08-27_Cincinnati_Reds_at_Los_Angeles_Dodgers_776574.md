@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Los Angeles Dodgers
 
-**Fecha:** 2025-08-26  
-**Lanzadores:** Hunter Greene (V) vs Emmet Sheehan (L)
+**Fecha:** 2025-08-27  
+**Lanzadores:** Nick Martinez (V) vs Clayton Kershaw (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.8%
+**Probabilidad de que anoten en la primera entrada:** 55.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 40.0% (26/65 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Hunter Greene):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 41.7%
+- **Estadística base YRFI:** 39.4% (26/66 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Nick Martinez):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 37.1%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 19.7% (13/66 partidos)
+- **Estadística base YRFI:** 19.4% (13/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 13.9%
+- **Impacto del lanzador local (Los Angeles Dodgers - Clayton Kershaw):** 50.0% (4/8 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-25 13:25:31
+- **Generado el:** 2025-08-26 13:27:01
 - **Fuente de datos:** season_data.json

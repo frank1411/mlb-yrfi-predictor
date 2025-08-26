@@ -1,0 +1,67 @@
+{
+  "game_pk": 776576,
+  "game_date": "2025-08-27",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Justin Verlander",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 25.396825396825395,
+        "ratio": "16/63"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 23.79,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 15.384615384615385,
+      "yrfi_ratio": "2/13"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "20/65"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.396825396825395,
+        "tendency": 40.0,
+        "combined": 31.24,
+        "pitcher_impact": 15.384615384615385,
+        "adjusted": 26.48
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 13.333333333333334,
+        "combined": 23.79,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 21.66
+      },
+      "game_yrfi_probability": 42.4
+    },
+    "yrfi_probability": 42.4
+  },
+  "metadata": {
+    "generated_at": "2025-08-26T13:27:01.293999",
+    "data_source": "season_data.json"
+  }
+}

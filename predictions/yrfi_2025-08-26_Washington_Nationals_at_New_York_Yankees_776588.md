@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ New York Yankees
 
-**Fecha:** 2025-08-25  
-**Lanzadores:** Brad Lord (V) vs Cam Schlittler (L)
+**Fecha:** 2025-08-26  
+**Lanzadores:** MacKenzie Gore (V) vs Luis Gil (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.0%
+**Probabilidad de que anoten en la primera entrada:** 58.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 31.8% (21/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Brad Lord):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 32.4%
+- **Estadística base YRFI:** 32.8% (22/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - MacKenzie Gore):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 37.3%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 26.2% (17/65 partidos)
+- **Estadística base YRFI:** 25.8% (17/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 33.5%
+- **Impacto del lanzador local (New York Yankees - Luis Gil):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 33.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-25 13:25:31
+- **Generado el:** 2025-08-26 13:27:01
 - **Fuente de datos:** season_data.json

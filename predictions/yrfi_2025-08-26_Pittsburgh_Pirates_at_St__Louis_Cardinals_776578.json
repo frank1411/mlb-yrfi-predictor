@@ -1,0 +1,67 @@
+{
+  "game_pk": 776578,
+  "game_date": "2025-08-26",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Andre Pallante",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "6/12"
+    },
+    "stats": {
+      "base": {
+        "value": 22.727272727272727,
+        "ratio": "15/66"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 22.29,
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "15/63"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.727272727272727,
+        "tendency": 13.333333333333334,
+        "combined": 18.97,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 24.19
+      },
+      "away_team": {
+        "base": 23.809523809523807,
+        "tendency": 20.0,
+        "combined": 22.29,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.6
+      },
+      "game_yrfi_probability": 47.39
+    },
+    "yrfi_probability": 47.39
+  },
+  "metadata": {
+    "generated_at": "2025-08-26T13:27:01.258271",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776587,
+  "game_date": "2025-08-27",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "15/65"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 13.64,
+    "pitcher": {
+      "name": "Tanner Gordon",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 13.846153846153847,
+        "ratio": "9/65"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.076923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 27.18,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.03
+      },
+      "away_team": {
+        "base": 13.846153846153847,
+        "tendency": 13.333333333333334,
+        "combined": 13.64,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 15.0
+      },
+      "game_yrfi_probability": 56.68
+    },
+    "yrfi_probability": 56.68
+  },
+  "metadata": {
+    "generated_at": "2025-08-26T13:27:01.276264",
+    "data_source": "season_data.json"
+  }
+}

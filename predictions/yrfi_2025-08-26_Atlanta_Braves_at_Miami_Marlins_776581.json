@@ -1,0 +1,67 @@
+{
+  "game_pk": 776581,
+  "game_date": "2025-08-26",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "18/66"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 21.03,
+    "pitcher": {
+      "name": "Hurston Waldrep",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.153846153846157,
+        "ratio": "17/65"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.27272727272727,
+        "tendency": 20.0,
+        "combined": 24.36,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.05
+      },
+      "away_team": {
+        "base": 26.153846153846157,
+        "tendency": 13.333333333333334,
+        "combined": 21.03,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 23.29
+      },
+      "game_yrfi_probability": 36.37
+    },
+    "yrfi_probability": 36.37
+  },
+  "metadata": {
+    "generated_at": "2025-08-26T13:27:01.204168",
+    "data_source": "season_data.json"
+  }
+}

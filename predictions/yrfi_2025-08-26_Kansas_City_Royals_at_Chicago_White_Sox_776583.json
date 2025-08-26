@@ -1,0 +1,67 @@
+{
+  "game_pk": 776583,
+  "game_date": "2025-08-26",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Martín Pérez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "20/65"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 38.61,
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 8.333333333333332,
+      "yrfi_ratio": "1/12"
+    },
+    "stats": {
+      "base": {
+        "value": 28.78787878787879,
+        "ratio": "19/66"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.76923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 31.79,
+        "pitcher_impact": 8.333333333333332,
+        "adjusted": 24.76
+      },
+      "away_team": {
+        "base": 28.78787878787879,
+        "tendency": 53.333333333333336,
+        "combined": 38.61,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.02
+      },
+      "game_yrfi_probability": 45.09
+    },
+    "yrfi_probability": 45.09
+  },
+  "metadata": {
+    "generated_at": "2025-08-26T13:27:01.240545",
+    "data_source": "season_data.json"
+  }
+}
