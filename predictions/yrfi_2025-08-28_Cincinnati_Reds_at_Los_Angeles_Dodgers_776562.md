@@ -1,7 +1,7 @@
-# Análisis YRFI: Washington Nationals @ New York Yankees
+# Análisis YRFI: Cincinnati Reds @ Los Angeles Dodgers
 
-**Fecha:** 2025-08-26  
-**Lanzadores:** MacKenzie Gore (V) vs Luis Gil (L)
+**Fecha:** 2025-08-28  
+**Lanzadores:** Nick Lodolo (V) vs Shohei Ohtani (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 32.8% (22/67 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 40.3% (27/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - MacKenzie Gore):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 37.3%
+- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 41.9%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.8% (17/66 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 20.6% (14/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Luis Gil):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 33.3%
+- **Impacto del lanzador local (Los Angeles Dodgers - Shohei Ohtani):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-26 13:27:01
+- **Generado el:** 2025-08-27 13:21:56
 - **Fuente de datos:** season_data.json

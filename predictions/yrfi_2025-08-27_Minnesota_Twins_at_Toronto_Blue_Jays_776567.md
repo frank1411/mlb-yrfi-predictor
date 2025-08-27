@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Toronto Blue Jays
 
-**Fecha:** 2025-08-26  
-**Lanzadores:** Bailey Ober (V) vs Chris Bassitt (L)
+**Fecha:** 2025-08-27  
+**Lanzadores:** Simeon Woods Richardson (V) vs Eric Lauer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.4%
+**Probabilidad de que anoten en la primera entrada:** 41.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.7% (19/64 partidos)
+- **Estadística base YRFI:** 30.8% (20/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Bailey Ober):** 22.2% (2/9 partidos)
-- **Puntuación ajustada:** 30.3%
+- **Impacto del lanzador visitante (Minnesota Twins - Simeon Woods Richardson):** 28.6% (2/7 partidos)
+- **Puntuación ajustada:** 32.7%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 28.4% (19/67 partidos)
+- **Estadística base YRFI:** 27.9% (19/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Chris Bassitt):** 7.1% (1/14 partidos)
-- **Puntuación ajustada:** 15.9%
+- **Impacto del lanzador local (Toronto Blue Jays - Eric Lauer):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 13.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-26 13:27:01
+- **Generado el:** 2025-08-27 13:21:56
 - **Fuente de datos:** season_data.json

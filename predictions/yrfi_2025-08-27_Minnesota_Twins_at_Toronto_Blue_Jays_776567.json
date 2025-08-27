@@ -1,0 +1,67 @@
+{
+  "game_pk": 776567,
+  "game_date": "2025-08-27",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Eric Lauer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "20/65"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 19.43,
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 27.941176470588236,
+        "ratio": "19/68"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.76923076923077,
+        "tendency": 40.0,
+        "combined": 34.46,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 32.69
+      },
+      "away_team": {
+        "base": 27.941176470588236,
+        "tendency": 6.666666666666667,
+        "combined": 19.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.6
+      },
+      "game_yrfi_probability": 41.84
+    },
+    "yrfi_probability": 41.84
+  },
+  "metadata": {
+    "generated_at": "2025-08-27T13:21:56.032124",
+    "data_source": "season_data.json"
+  }
+}

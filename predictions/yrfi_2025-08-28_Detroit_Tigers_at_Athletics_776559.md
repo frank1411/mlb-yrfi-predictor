@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Athletics
 
-**Fecha:** 2025-08-27  
-**Lanzadores:** Charlie Morton (V) vs Osvaldo Bido (L)
+**Fecha:** 2025-08-28  
+**Lanzadores:** Casey Mize (V) vs Luis Morales (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.4%
+**Probabilidad de que anoten en la primera entrada:** 41.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 35.9% (23/64 partidos)
+- **Estadística base YRFI:** 36.9% (24/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Charlie Morton):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 33.4%
+- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 30.3%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - Osvaldo Bido):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Estadística base YRFI:** 24.6% (16/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Athletics - Luis Morales):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-26 13:27:01
+- **Generado el:** 2025-08-27 13:21:56
 - **Fuente de datos:** season_data.json

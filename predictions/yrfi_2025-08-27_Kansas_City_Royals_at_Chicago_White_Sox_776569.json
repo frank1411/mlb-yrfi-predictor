@@ -1,0 +1,67 @@
+{
+  "game_pk": 776569,
+  "game_date": "2025-08-27",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Aaron Civale",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 30.303030303030305,
+        "ratio": "20/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 35.68,
+    "pitcher": {
+      "name": "Ryan Bergert",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/7"
+    },
+    "stats": {
+      "base": {
+        "value": 28.35820895522388,
+        "ratio": "19/67"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.303030303030305,
+        "tendency": 33.33333333333333,
+        "combined": 31.52,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.06
+      },
+      "away_team": {
+        "base": 28.35820895522388,
+        "tendency": 46.666666666666664,
+        "combined": 35.68,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 29.26
+      },
+      "game_yrfi_probability": 44.87
+    },
+    "yrfi_probability": 44.87
+  },
+  "metadata": {
+    "generated_at": "2025-08-27T13:21:56.050197",
+    "data_source": "season_data.json"
+  }
+}

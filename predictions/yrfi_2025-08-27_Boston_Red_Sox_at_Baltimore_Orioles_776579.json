@@ -1,0 +1,67 @@
+{
+  "game_pk": 776579,
+  "game_date": "2025-08-27",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Dietrich Enns",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "18/66"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 26.79,
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 26.865671641791046,
+        "ratio": "18/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.27272727272727,
+        "tendency": 13.333333333333334,
+        "combined": 21.7,
+        "pitcher_impact": 37.5,
+        "adjusted": 26.44
+      },
+      "away_team": {
+        "base": 26.865671641791046,
+        "tendency": 26.666666666666668,
+        "combined": 26.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.75
+      },
+      "game_yrfi_probability": 40.23
+    },
+    "yrfi_probability": 40.23
+  },
+  "metadata": {
+    "generated_at": "2025-08-27T13:21:56.023125",
+    "data_source": "season_data.json"
+  }
+}

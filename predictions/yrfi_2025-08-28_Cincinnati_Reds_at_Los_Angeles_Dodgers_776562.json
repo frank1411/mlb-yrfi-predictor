@@ -1,0 +1,67 @@
+{
+  "game_pk": 776562,
+  "game_date": "2025-08-28",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.298507462686565,
+        "ratio": "27/67"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 23.02,
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 20.588235294117645,
+        "ratio": "14/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.298507462686565,
+        "tendency": 53.333333333333336,
+        "combined": 45.51,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 41.86
+      },
+      "away_team": {
+        "base": 20.588235294117645,
+        "tendency": 26.666666666666668,
+        "combined": 23.02,
+        "pitcher_impact": 40.0,
+        "adjusted": 28.11
+      },
+      "game_yrfi_probability": 58.2
+    },
+    "yrfi_probability": 58.2
+  },
+  "metadata": {
+    "generated_at": "2025-08-27T13:21:56.095979",
+    "data_source": "season_data.json"
+  }
+}

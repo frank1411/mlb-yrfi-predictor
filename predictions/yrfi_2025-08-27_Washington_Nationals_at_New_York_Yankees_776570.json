@@ -1,0 +1,67 @@
+{
+  "game_pk": 776570,
+  "game_date": "2025-08-27",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Max Fried",
+      "yrfi_allowed": 41.66666666666667,
+      "yrfi_ratio": "5/12"
+    },
+    "stats": {
+      "base": {
+        "value": 32.35294117647059,
+        "ratio": "22/68"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 25.89,
+    "pitcher": {
+      "name": "Cade Cavalli",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.37313432835821,
+        "ratio": "17/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.35294117647059,
+        "tendency": 46.666666666666664,
+        "combined": 38.08,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.65
+      },
+      "away_team": {
+        "base": 25.37313432835821,
+        "tendency": 26.666666666666668,
+        "combined": 25.89,
+        "pitcher_impact": 41.66666666666667,
+        "adjusted": 30.62
+      },
+      "game_yrfi_probability": 49.11
+    },
+    "yrfi_probability": 49.11
+  },
+  "metadata": {
+    "generated_at": "2025-08-27T13:21:55.986569",
+    "data_source": "season_data.json"
+  }
+}

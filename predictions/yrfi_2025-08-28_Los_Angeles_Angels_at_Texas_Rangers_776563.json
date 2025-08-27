@@ -1,0 +1,67 @@
+{
+  "game_pk": 776563,
+  "game_date": "2025-08-28",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jacob Latz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "16/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 42.48,
+    "pitcher": {
+      "name": "Jack Kochanowicz",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 39.682539682539684,
+        "ratio": "25/63"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.52941176470588,
+        "tendency": 26.666666666666668,
+        "combined": 24.78,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 28.26
+      },
+      "away_team": {
+        "base": 39.682539682539684,
+        "tendency": 46.666666666666664,
+        "combined": 42.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.73
+      },
+      "game_yrfi_probability": 49.59
+    },
+    "yrfi_probability": 49.59
+  },
+  "metadata": {
+    "generated_at": "2025-08-27T13:21:56.078048",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ New York Mets
 
-**Fecha:** 2025-08-26  
-**Lanzadores:** Jesús Luzardo (V) vs Sean Manaea (L)
+**Fecha:** 2025-08-27  
+**Lanzadores:** Taijuan Walker (V) vs Nolan McLean (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.6%
+**Probabilidad de que anoten en la primera entrada:** 46.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 34.8% (23/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 38.5% (5/13 partidos)
-- **Puntuación ajustada:** 35.5%
+- **Estadística base YRFI:** 34.3% (23/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Taijuan Walker):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 33.1%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.9% (18/67 partidos)
+- **Estadística base YRFI:** 26.5% (18/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Mets - Sean Manaea):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador local (New York Mets - Nolan McLean):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-26 13:27:01
+- **Generado el:** 2025-08-27 13:21:56
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Texas Rangers
+# Análisis YRFI: Pittsburgh Pirates @ St. Louis Cardinals
 
 **Fecha:** 2025-08-27  
-**Lanzadores:** Yusei Kikuchi (V) vs Patrick Corbin (L)
+**Lanzadores:** Carmen Mlodzinski (V) vs Sonny Gray (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.1%
+**Probabilidad de que anoten en la primera entrada:** 39.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
+### St. Louis Cardinals (Local)
 - **Estadística base YRFI:** 22.4% (15/67 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Yusei Kikuchi):** 38.5% (5/13 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Carmen Mlodzinski):** 16.7% (1/6 partidos)
+- **Puntuación ajustada:** 18.1%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 40.3% (25/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Patrick Corbin):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 37.3%
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 25.0% (16/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Sonny Gray):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 25.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-26 13:27:01
+- **Generado el:** 2025-08-27 13:21:56
 - **Fuente de datos:** season_data.json

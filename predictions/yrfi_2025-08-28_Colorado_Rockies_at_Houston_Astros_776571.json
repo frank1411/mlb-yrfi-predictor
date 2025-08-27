@@ -1,0 +1,67 @@
+{
+  "game_pk": 776571,
+  "game_date": "2025-08-28",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 22.727272727272727,
+        "ratio": "15/66"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 13.52,
+    "pitcher": {
+      "name": "Chase Dollander",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 13.636363636363635,
+        "ratio": "9/66"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.727272727272727,
+        "tendency": 26.666666666666668,
+        "combined": 24.3,
+        "pitcher_impact": 37.5,
+        "adjusted": 28.26
+      },
+      "away_team": {
+        "base": 13.636363636363635,
+        "tendency": 13.333333333333334,
+        "combined": 13.52,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 19.46
+      },
+      "game_yrfi_probability": 42.22
+    },
+    "yrfi_probability": 42.22
+  },
+  "metadata": {
+    "generated_at": "2025-08-27T13:21:56.086999",
+    "data_source": "season_data.json"
+  }
+}
