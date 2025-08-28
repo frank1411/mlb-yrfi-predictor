@@ -1,0 +1,67 @@
+{
+  "game_pk": 776556,
+  "game_date": "2025-08-28",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 29.850746268656714,
+        "ratio": "20/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 45.71,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 40.625,
+        "ratio": "26/64"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.850746268656714,
+        "tendency": 26.666666666666668,
+        "combined": 28.58,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 26.93
+      },
+      "away_team": {
+        "base": 40.625,
+        "tendency": 53.333333333333336,
+        "combined": 45.71,
+        "pitcher_impact": 20.0,
+        "adjusted": 38.0
+      },
+      "game_yrfi_probability": 54.7
+    },
+    "yrfi_probability": 54.7
+  },
+  "metadata": {
+    "generated_at": "2025-08-28T13:22:58.948376",
+    "data_source": "season_data.json"
+  }
+}

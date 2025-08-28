@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Cleveland Guardians
+# Análisis YRFI: Atlanta Braves @ Philadelphia Phillies
 
-**Fecha:** 2025-08-27  
-**Lanzadores:** Drew Rasmussen (V) vs Slade Cecconi (L)
+**Fecha:** 2025-08-28  
+**Lanzadores:** Cal Quantrill (V) vs Aaron Nola (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.9%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 32.8% (21/64 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 39.1% (25/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 32.1%
+- **Impacto del lanzador visitante (Atlanta Braves - Cal Quantrill):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 30.0%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 21.5% (14/65 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 28.4% (19/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 12.5% (1/8 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 31.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-27 13:21:55
+- **Generado el:** 2025-08-28 13:22:58
 - **Fuente de datos:** season_data.json

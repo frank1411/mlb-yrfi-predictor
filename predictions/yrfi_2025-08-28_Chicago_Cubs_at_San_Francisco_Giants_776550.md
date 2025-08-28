@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ San Francisco Giants
 
 **Fecha:** 2025-08-28  
-**Lanzadores:** Colin Rea (V) vs Carson Whisenhunt (L)
+**Lanzadores:** Shota Imanaga (V) vs Logan Webb (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.1%
+**Probabilidad de que anoten en la primera entrada:** 45.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Colin Rea):** 25.0% (2/8 partidos)
-- **Puntuación ajustada:** 27.3%
+- **Estadística base YRFI:** 26.2% (17/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 31.2%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 30.3% (20/66 partidos)
+- **Estadística base YRFI:** 29.9% (20/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Carson Whisenhunt):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 46.5%
+- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 20.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-27 13:21:56
+- **Generado el:** 2025-08-28 13:22:58
 - **Fuente de datos:** season_data.json

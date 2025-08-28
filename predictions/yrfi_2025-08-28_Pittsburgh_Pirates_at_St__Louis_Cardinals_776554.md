@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ St. Louis Cardinals
 
-**Fecha:** 2025-08-27  
-**Lanzadores:** Carmen Mlodzinski (V) vs Sonny Gray (L)
+**Fecha:** 2025-08-28  
+**Lanzadores:** Braxton Ashcraft (V) vs Miles Mikolas (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.0%
+**Probabilidad de que anoten en la primera entrada:** 39.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 22.4% (15/67 partidos)
+- **Estadística base YRFI:** 22.1% (15/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Carmen Mlodzinski):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 18.1%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 13.0%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
+- **Estadística base YRFI:** 24.6% (16/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Sonny Gray):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 25.5%
+- **Impacto del lanzador local (St. Louis Cardinals - Miles Mikolas):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 30.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-27 13:21:56
+- **Generado el:** 2025-08-28 13:22:58
 - **Fuente de datos:** season_data.json

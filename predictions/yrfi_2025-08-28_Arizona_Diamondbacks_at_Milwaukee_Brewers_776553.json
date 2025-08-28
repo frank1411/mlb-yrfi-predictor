@@ -1,0 +1,67 @@
+{
+  "game_pk": 776553,
+  "game_date": "2025-08-28",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jose Quintana",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 14.705882352941178,
+        "ratio": "10/68"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 32.76,
+    "pitcher": {
+      "name": "Nabil Crismatt",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.941176470588236,
+        "ratio": "19/68"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 14.705882352941178,
+        "tendency": 13.333333333333334,
+        "combined": 14.16,
+        "pitcher_impact": 0.0,
+        "adjusted": 9.91
+      },
+      "away_team": {
+        "base": 27.941176470588236,
+        "tendency": 40.0,
+        "combined": 32.76,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.94
+      },
+      "game_yrfi_probability": 39.59
+    },
+    "yrfi_probability": 39.59
+  },
+  "metadata": {
+    "generated_at": "2025-08-28T13:22:58.904322",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776554,
+  "game_date": "2025-08-28",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Miles Mikolas",
+      "yrfi_allowed": 41.66666666666667,
+      "yrfi_ratio": "5/12"
+    },
+    "stats": {
+      "base": {
+        "value": 22.058823529411764,
+        "ratio": "15/68"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 25.44,
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 24.615384615384617,
+        "ratio": "16/65"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.058823529411764,
+        "tendency": 13.333333333333334,
+        "combined": 18.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.0
+      },
+      "away_team": {
+        "base": 24.615384615384617,
+        "tendency": 26.666666666666668,
+        "combined": 25.44,
+        "pitcher_impact": 41.66666666666667,
+        "adjusted": 30.31
+      },
+      "game_yrfi_probability": 39.37
+    },
+    "yrfi_probability": 39.37
+  },
+  "metadata": {
+    "generated_at": "2025-08-28T13:22:58.913667",
+    "data_source": "season_data.json"
+  }
+}
