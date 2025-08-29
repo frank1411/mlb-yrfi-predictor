@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Philadelphia Phillies
 
-**Fecha:** 2025-08-28  
-**Lanzadores:** Cal Quantrill (V) vs Aaron Nola (L)
+**Fecha:** 2025-08-29  
+**Lanzadores:** Bryce Elder (V) vs Ranger Suárez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 47.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 39.1% (25/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Cal Quantrill):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 30.0%
+- **Estadística base YRFI:** 40.0% (26/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 34.0%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 28.4% (19/67 partidos)
+- **Estadística base YRFI:** 29.4% (20/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 31.4%
+- **Impacto del lanzador local (Philadelphia Phillies - Ranger Suárez):** 0.0% (0/11 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-28 13:22:58
+- **Generado el:** 2025-08-29 13:20:55
 - **Fuente de datos:** season_data.json

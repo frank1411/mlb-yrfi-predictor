@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Baltimore Orioles
+# Análisis YRFI: San Diego Padres @ Minnesota Twins
 
-**Fecha:** 2025-08-28  
-**Lanzadores:** Garrett Crochet (V) vs Cade Povich (L)
+**Fecha:** 2025-08-30  
+**Lanzadores:** Nestor Cortes (V) vs Zebby Matthews (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.5%
+**Probabilidad de que anoten en la primera entrada:** 59.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.9% (18/67 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 26.6% (17/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Garrett Crochet):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 19.3%
+- **Impacto del lanzador visitante (San Diego Padres - Nestor Cortes):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 44.9%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 27.9% (19/68 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 27.5% (19/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador local (Minnesota Twins - Zebby Matthews):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 26.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-28 13:22:58
+- **Generado el:** 2025-08-29 13:20:55
 - **Fuente de datos:** season_data.json

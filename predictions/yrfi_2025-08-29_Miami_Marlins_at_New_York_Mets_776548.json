@@ -1,0 +1,67 @@
+{
+  "game_pk": 776548,
+  "game_date": "2025-08-29",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Jonah Tong",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.78260869565217,
+        "ratio": "24/69"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 28.79,
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "4/8"
+    },
+    "stats": {
+      "base": {
+        "value": 25.757575757575758,
+        "ratio": "17/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.78260869565217,
+        "tendency": 26.666666666666668,
+        "combined": 31.54,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.08
+      },
+      "away_team": {
+        "base": 25.757575757575758,
+        "tendency": 33.33333333333333,
+        "combined": 28.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.15
+      },
+      "game_yrfi_probability": 49.76
+    },
+    "yrfi_probability": 49.76
+  },
+  "metadata": {
+    "generated_at": "2025-08-29T13:20:55.159383",
+    "data_source": "season_data.json"
+  }
+}

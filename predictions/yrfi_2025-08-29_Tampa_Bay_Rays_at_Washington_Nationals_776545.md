@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ New York Mets
+# Análisis YRFI: Tampa Bay Rays @ Washington Nationals
 
-**Fecha:** 2025-08-28  
-**Lanzadores:** Por anunciar (V) vs Clay Holmes (L)
+**Fecha:** 2025-08-29  
+**Lanzadores:** Adrian Houser (V) vs Mitchell Parker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.9%
+**Probabilidad de que anoten en la primera entrada:** 46.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 33.8% (23/68 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 29.2% (19/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 34.8%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Adrian Houser):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 24.5%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 24.6% (16/65 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 21.2% (14/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - Clay Holmes):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 24.7%
+- **Impacto del lanzador local (Washington Nationals - Mitchell Parker):** 42.9% (6/14 partidos)
+- **Puntuación ajustada:** 29.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-28 13:22:58
+- **Generado el:** 2025-08-29 13:20:55
 - **Fuente de datos:** season_data.json

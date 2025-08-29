@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Houston Astros
+# Análisis YRFI: St. Louis Cardinals @ Cincinnati Reds
 
-**Fecha:** 2025-08-28  
-**Lanzadores:** Kyle Freeland (V) vs Jason Alexander (L)
+**Fecha:** 2025-08-29  
+**Lanzadores:** Matthew Liberatore (V) vs Zack Littell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.8%
+**Probabilidad de que anoten en la primera entrada:** 48.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 23.9% (16/67 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 41.5% (27/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 46.2% (6/13 partidos)
-- **Puntuación ajustada:** 31.3%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 34.1%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 13.4% (9/67 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 24.2% (16/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Jason Alexander):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 9.4%
+- **Impacto del lanzador local (Cincinnati Reds - Zack Littell):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-28 13:22:58
+- **Generado el:** 2025-08-29 13:20:55
 - **Fuente de datos:** season_data.json

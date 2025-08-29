@@ -1,0 +1,67 @@
+{
+  "game_pk": 776534,
+  "game_date": "2025-08-30",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Blake Snell",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 39.705882352941174,
+        "ratio": "27/68"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 32.52,
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 38.46153846153847,
+      "yrfi_ratio": "5/13"
+    },
+    "stats": {
+      "base": {
+        "value": 27.536231884057973,
+        "ratio": "19/69"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.705882352941174,
+        "tendency": 53.333333333333336,
+        "combined": 45.16,
+        "pitcher_impact": 38.46153846153847,
+        "adjusted": 43.15
+      },
+      "away_team": {
+        "base": 27.536231884057973,
+        "tendency": 40.0,
+        "combined": 32.52,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.27
+      },
+      "game_yrfi_probability": 60.36
+    },
+    "yrfi_probability": 60.36
+  },
+  "metadata": {
+    "generated_at": "2025-08-29T13:20:55.226446",
+    "data_source": "season_data.json"
+  }
+}
