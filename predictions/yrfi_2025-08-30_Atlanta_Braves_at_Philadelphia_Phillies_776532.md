@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Philadelphia Phillies
 
-**Fecha:** 2025-08-29  
-**Lanzadores:** Bryce Elder (V) vs Ranger Suárez (L)
+**Fecha:** 2025-08-30  
+**Lanzadores:** Por anunciar (V) vs Cristopher Sánchez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.1%
+**Probabilidad de que anoten en la primera entrada:** 57.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.0% (26/65 partidos)
+- **Estadística base YRFI:** 39.4% (26/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 34.0%
+- **Impacto del lanzador visitante (Atlanta Braves - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 42.8%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 29.4% (20/68 partidos)
+- **Estadística base YRFI:** 29.0% (20/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Ranger Suárez):** 0.0% (0/11 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-29 13:20:55
+- **Generado el:** 2025-08-30 13:16:24
 - **Fuente de datos:** season_data.json

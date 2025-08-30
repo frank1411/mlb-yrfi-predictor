@@ -1,0 +1,67 @@
+{
+  "game_pk": 776532,
+  "game_date": "2025-08-30",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 39.39393939393939,
+        "ratio": "26/66"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 28.06,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 28.985507246376812,
+        "ratio": "20/69"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.39393939393939,
+        "tendency": 40.0,
+        "combined": 39.64,
+        "pitcher_impact": 50.0,
+        "adjusted": 42.75
+      },
+      "away_team": {
+        "base": 28.985507246376812,
+        "tendency": 26.666666666666668,
+        "combined": 28.06,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 25.1
+      },
+      "game_yrfi_probability": 57.12
+    },
+    "yrfi_probability": 57.12
+  },
+  "metadata": {
+    "generated_at": "2025-08-30T13:16:24.894993",
+    "data_source": "season_data.json"
+  }
+}

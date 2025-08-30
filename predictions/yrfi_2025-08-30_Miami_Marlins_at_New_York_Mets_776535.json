@@ -1,0 +1,67 @@
+{
+  "game_pk": 776535,
+  "game_date": "2025-08-30",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "David Peterson",
+      "yrfi_allowed": 7.6923076923076925,
+      "yrfi_ratio": "1/13"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "25/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 25.89,
+    "pitcher": {
+      "name": "Edward Cabrera",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "6/10"
+    },
+    "stats": {
+      "base": {
+        "value": 25.37313432835821,
+        "ratio": "17/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.714285714285715,
+        "tendency": 26.666666666666668,
+        "combined": 32.1,
+        "pitcher_impact": 60.0,
+        "adjusted": 40.47
+      },
+      "away_team": {
+        "base": 25.37313432835821,
+        "tendency": 26.666666666666668,
+        "combined": 25.89,
+        "pitcher_impact": 7.6923076923076925,
+        "adjusted": 20.43
+      },
+      "game_yrfi_probability": 52.63
+    },
+    "yrfi_probability": 52.63
+  },
+  "metadata": {
+    "generated_at": "2025-08-30T13:16:24.887051",
+    "data_source": "season_data.json"
+  }
+}

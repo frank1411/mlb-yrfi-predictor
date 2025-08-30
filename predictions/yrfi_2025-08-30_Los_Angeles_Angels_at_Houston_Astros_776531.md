@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Houston Astros
 
 **Fecha:** 2025-08-30  
-**Lanzadores:** Tyler Anderson (V) vs Cristian Javier (L)
+**Lanzadores:** Kyle Hendricks (V) vs Spencer Arrighetti (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.5%
+**Probabilidad de que anoten en la primera entrada:** 46.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 25.0% (17/68 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Tyler Anderson):** 50.0% (6/12 partidos)
-- **Puntuación ajustada:** 34.8%
+- **Estadística base YRFI:** 24.6% (17/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Angels - Kyle Hendricks):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 40.6% (26/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Cristian Javier):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 47.0%
+- **Estadística base YRFI:** 40.0% (26/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Spencer Arrighetti):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 29.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-29 13:20:55
+- **Generado el:** 2025-08-30 13:16:24
 - **Fuente de datos:** season_data.json

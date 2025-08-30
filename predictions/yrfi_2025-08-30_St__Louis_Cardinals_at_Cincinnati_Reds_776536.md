@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Cincinnati Reds
 
-**Fecha:** 2025-08-29  
-**Lanzadores:** Matthew Liberatore (V) vs Zack Littell (L)
+**Fecha:** 2025-08-30  
+**Lanzadores:** Michael McGreevy (V) vs Andrew Abbott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.7%
+**Probabilidad de que anoten en la primera entrada:** 43.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 41.5% (27/65 partidos)
+- **Estadística base YRFI:** 42.4% (28/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 34.1%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 32.8%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 24.2% (16/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Zack Littell):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Estadística base YRFI:** 25.4% (17/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 0.0% (0/13 partidos)
+- **Puntuación ajustada:** 16.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-29 13:20:55
+- **Generado el:** 2025-08-30 13:16:24
 - **Fuente de datos:** season_data.json

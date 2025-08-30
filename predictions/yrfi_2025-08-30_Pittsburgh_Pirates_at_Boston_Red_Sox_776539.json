@@ -1,0 +1,67 @@
+{
+  "game_pk": 776539,
+  "game_date": "2025-08-30",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Dustin May",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 34.32835820895522,
+        "ratio": "23/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 28.56,
+    "pitcher": {
+      "name": "Johan Oviedo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.37313432835821,
+        "ratio": "17/67"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.32835820895522,
+        "tendency": 26.666666666666668,
+        "combined": 31.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.88
+      },
+      "away_team": {
+        "base": 25.37313432835821,
+        "tendency": 33.33333333333333,
+        "combined": 28.56,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 25.44
+      },
+      "game_yrfi_probability": 41.75
+    },
+    "yrfi_probability": 41.75
+  },
+  "metadata": {
+    "generated_at": "2025-08-30T13:16:24.875223",
+    "data_source": "season_data.json"
+  }
+}

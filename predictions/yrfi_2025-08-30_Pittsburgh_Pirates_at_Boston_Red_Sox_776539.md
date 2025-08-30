@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ New York Mets
+# Análisis YRFI: Pittsburgh Pirates @ Boston Red Sox
 
-**Fecha:** 2025-08-29  
-**Lanzadores:** Eury Pérez (V) vs Jonah Tong (L)
+**Fecha:** 2025-08-30  
+**Lanzadores:** Johan Oviedo (V) vs Dustin May (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.8%
+**Probabilidad de que anoten en la primera entrada:** 41.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 34.8% (24/69 partidos)
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 34.3% (23/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 50.0% (4/8 partidos)
-- **Puntuación ajustada:** 37.1%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Johan Oviedo):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.9%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 25.8% (17/66 partidos)
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 25.4% (17/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Mets - Jonah Tong):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador local (Boston Red Sox - Dustin May):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-29 13:20:55
+- **Generado el:** 2025-08-30 13:16:24
 - **Fuente de datos:** season_data.json

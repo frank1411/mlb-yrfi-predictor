@@ -1,38 +1,38 @@
 {
-  "game_pk": 776534,
-  "game_date": "2025-08-30",
+  "game_pk": 776523,
+  "game_date": "2025-08-31",
   "home_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Blake Snell",
+      "name": "Tyler Glasnow",
       "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "yrfi_ratio": "2/8"
     },
     "stats": {
       "base": {
-        "value": 39.705882352941174,
-        "ratio": "27/68"
+        "value": 39.130434782608695,
+        "ratio": "27/69"
       },
       "tendency": {
-        "value": 53.333333333333336,
-        "ratio": "8/15"
+        "value": 46.666666666666664,
+        "ratio": "7/15"
       }
     }
   },
   "away_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
-    "combined_yrfi_pct": 32.52,
+    "combined_yrfi_pct": 32.29,
     "pitcher": {
-      "name": "Zac Gallen",
+      "name": "Eduardo Rodriguez",
       "yrfi_allowed": 38.46153846153847,
       "yrfi_ratio": "5/13"
     },
     "stats": {
       "base": {
-        "value": 27.536231884057973,
-        "ratio": "19/69"
+        "value": 27.142857142857142,
+        "ratio": "19/70"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 39.705882352941174,
-        "tendency": 53.333333333333336,
-        "combined": 45.16,
+        "base": 39.130434782608695,
+        "tendency": 46.666666666666664,
+        "combined": 42.14,
         "pitcher_impact": 38.46153846153847,
-        "adjusted": 43.15
+        "adjusted": 41.04
       },
       "away_team": {
-        "base": 27.536231884057973,
+        "base": 27.142857142857142,
         "tendency": 40.0,
-        "combined": 32.52,
+        "combined": 32.29,
         "pitcher_impact": 25.0,
-        "adjusted": 30.27
+        "adjusted": 30.1
       },
-      "game_yrfi_probability": 60.36
+      "game_yrfi_probability": 58.79
     },
-    "yrfi_probability": 60.36
+    "yrfi_probability": 58.79
   },
   "metadata": {
-    "generated_at": "2025-08-29T13:20:55.226446",
+    "generated_at": "2025-08-30T13:16:24.990212",
     "data_source": "season_data.json"
   }
 }

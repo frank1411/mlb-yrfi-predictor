@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ San Francisco Giants
 
 **Fecha:** 2025-08-30  
-**Lanzadores:** Dean Kremer (V) vs Robbie Ray (L)
+**Lanzadores:** Trevor Rogers (V) vs Carson Seymour (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.2%
+**Probabilidad de que anoten en la primera entrada:** 38.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 27.3% (18/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Dean Kremer):** 40.0% (6/15 partidos)
-- **Puntuación ajustada:** 36.5%
+- **Estadística base YRFI:** 28.4% (19/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/8 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 24.2% (16/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Robbie Ray):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 23.1%
+- **Estadística base YRFI:** 25.4% (17/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (San Francisco Giants - Carson Seymour):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-29 13:20:55
+- **Generado el:** 2025-08-30 13:16:24
 - **Fuente de datos:** season_data.json

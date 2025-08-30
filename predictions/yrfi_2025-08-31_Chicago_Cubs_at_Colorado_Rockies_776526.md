@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Colorado Rockies
 
-**Fecha:** 2025-08-30  
-**Lanzadores:** Cade Horton (V) vs Germán Márquez (L)
+**Fecha:** 2025-08-31  
+**Lanzadores:** Javier Assad (V) vs McCade Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.3%
+**Probabilidad de que anoten en la primera entrada:** 44.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 33.3% (22/66 partidos)
+- **Estadística base YRFI:** 32.8% (22/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Cade Horton):** 50.0% (4/8 partidos)
-- **Puntuación ajustada:** 32.7%
+- **Impacto del lanzador visitante (Chicago Cubs - Javier Assad):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 30.9% (21/68 partidos)
+- **Estadística base YRFI:** 30.4% (21/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Germán Márquez):** 25.0% (2/8 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Impacto del lanzador local (Colorado Rockies - McCade Brown):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-29 13:20:55
+- **Generado el:** 2025-08-30 13:16:24
 - **Fuente de datos:** season_data.json

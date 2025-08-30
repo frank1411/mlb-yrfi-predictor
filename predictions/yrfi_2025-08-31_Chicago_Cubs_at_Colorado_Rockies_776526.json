@@ -1,18 +1,18 @@
 {
-  "game_pk": 776542,
-  "game_date": "2025-08-30",
+  "game_pk": 776526,
+  "game_date": "2025-08-31",
   "home_team": {
     "id": "115",
     "name": "Colorado Rockies",
     "pitcher": {
-      "name": "Germán Márquez",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "2/8"
+      "name": "McCade Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "22/66"
+        "value": 32.83582089552239,
+        "ratio": "22/67"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "112",
     "name": "Chicago Cubs",
-    "combined_yrfi_pct": 26.53,
+    "combined_yrfi_pct": 26.26,
     "pitcher": {
-      "name": "Cade Horton",
+      "name": "Javier Assad",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "4/8"
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 30.88235294117647,
-        "ratio": "21/68"
+        "value": 30.434782608695656,
+        "ratio": "21/69"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.33333333333333,
+        "base": 32.83582089552239,
         "tendency": 13.333333333333334,
-        "combined": 25.33,
+        "combined": 25.03,
         "pitcher_impact": 50.0,
-        "adjusted": 32.73
+        "adjusted": 32.52
       },
       "away_team": {
-        "base": 30.88235294117647,
+        "base": 30.434782608695656,
         "tendency": 20.0,
-        "combined": 26.53,
-        "pitcher_impact": 25.0,
-        "adjusted": 26.07
+        "combined": 26.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.38
       },
-      "game_yrfi_probability": 50.27
+      "game_yrfi_probability": 44.92
     },
-    "yrfi_probability": 50.27
+    "yrfi_probability": 44.92
   },
   "metadata": {
-    "generated_at": "2025-08-29T13:20:55.207516",
+    "generated_at": "2025-08-30T13:16:24.979655",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Kansas City Royals
 
 **Fecha:** 2025-08-30  
-**Lanzadores:** Chris Paddack (V) vs Seth Lugo (L)
+**Lanzadores:** Jack Flaherty (V) vs Stephen Kolek (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.6%
+**Probabilidad de que anoten en la primera entrada:** 58.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 33.3% (22/66 partidos)
+- **Estadística base YRFI:** 34.3% (23/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Chris Paddack):** 42.9% (6/14 partidos)
-- **Puntuación ajustada:** 39.9%
+- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 32.9%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 24.2% (16/66 partidos)
+- **Estadística base YRFI:** 23.9% (16/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Impacto del lanzador local (Kansas City Royals - Stephen Kolek):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 38.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-29 13:20:55
+- **Generado el:** 2025-08-30 13:16:24
 - **Fuente de datos:** season_data.json
