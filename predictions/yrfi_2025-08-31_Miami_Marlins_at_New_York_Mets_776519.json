@@ -1,0 +1,67 @@
+{
+  "game_pk": 776519,
+  "game_date": "2025-08-31",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Kodai Senga",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 36.61971830985916,
+        "ratio": "26/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 26.55,
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 26.47058823529412,
+        "ratio": "18/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.61971830985916,
+        "tendency": 33.33333333333333,
+        "combined": 35.31,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 35.62
+      },
+      "away_team": {
+        "base": 26.47058823529412,
+        "tendency": 26.666666666666668,
+        "combined": 26.55,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 26.77
+      },
+      "game_yrfi_probability": 52.85
+    },
+    "yrfi_probability": 52.85
+  },
+  "metadata": {
+    "generated_at": "2025-08-31T13:17:10.199870",
+    "data_source": "season_data.json"
+  }
+}

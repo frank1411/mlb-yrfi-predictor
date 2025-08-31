@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Cleveland Guardians
 
-**Fecha:** 2025-08-30  
-**Lanzadores:** Logan Gilbert (V) vs Gavin Williams (L)
+**Fecha:** 2025-08-31  
+**Lanzadores:** Bryce Miller (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.2%
+**Probabilidad de que anoten en la primera entrada:** 56.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 31.8% (21/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (4/8 partidos)
-- **Puntuación ajustada:** 35.8%
+- **Estadística base YRFI:** 31.3% (21/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 50.0% (3/6 partidos)
+- **Puntuación ajustada:** 33.8%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 38.8% (26/67 partidos)
+- **Estadística base YRFI:** 38.2% (26/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 34.9%
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-30 13:16:24
+- **Generado el:** 2025-08-31 13:17:10
 - **Fuente de datos:** season_data.json

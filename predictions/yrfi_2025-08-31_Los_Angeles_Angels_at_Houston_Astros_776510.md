@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Houston Astros
 
-**Fecha:** 2025-08-30  
-**Lanzadores:** Kyle Hendricks (V) vs Spencer Arrighetti (L)
+**Fecha:** 2025-08-31  
+**Lanzadores:** José Soriano (V) vs Hunter Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.2%
+**Probabilidad de que anoten en la primera entrada:** 50.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 24.6% (17/69 partidos)
+- **Estadística base YRFI:** 24.3% (17/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Kyle Hendricks):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador visitante (Los Angeles Angels - José Soriano):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 40.0% (26/65 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Spencer Arrighetti):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 29.9%
+- **Estadística base YRFI:** 39.4% (26/66 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Hunter Brown):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 32.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-30 13:16:24
+- **Generado el:** 2025-08-31 13:17:10
 - **Fuente de datos:** season_data.json

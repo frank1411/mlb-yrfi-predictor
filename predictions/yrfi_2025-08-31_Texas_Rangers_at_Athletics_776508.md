@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Athletics
 
 **Fecha:** 2025-08-31  
-**Lanzadores:** Merrill Kelly (V) vs Mason Barnett (L)
+**Lanzadores:** Jacob deGrom (V) vs J.T. Ginn (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.0%
+**Probabilidad de que anoten en la primera entrada:** 59.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 37.3% (25/67 partidos)
+- **Estadística base YRFI:** 36.8% (25/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Merrill Kelly):** 46.2% (6/13 partidos)
-- **Puntuación ajustada:** 40.7%
+- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 36.6%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 31.3% (21/67 partidos)
+- **Estadística base YRFI:** 30.9% (21/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - Mason Barnett):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.6%
+- **Impacto del lanzador local (Athletics - J.T. Ginn):** 50.0% (3/6 partidos)
+- **Puntuación ajustada:** 35.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-30 13:16:25
+- **Generado el:** 2025-08-31 13:17:10
 - **Fuente de datos:** season_data.json

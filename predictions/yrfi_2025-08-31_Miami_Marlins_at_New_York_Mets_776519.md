@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ New York Mets
 
-**Fecha:** 2025-08-30  
-**Lanzadores:** Edward Cabrera (V) vs David Peterson (L)
+**Fecha:** 2025-08-31  
+**Lanzadores:** Sandy Alcantara (V) vs Kodai Senga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.6%
+**Probabilidad de que anoten en la primera entrada:** 52.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 35.7% (25/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Edward Cabrera):** 60.0% (6/10 partidos)
-- **Puntuación ajustada:** 40.5%
+- **Estadística base YRFI:** 36.6% (26/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 36.4% (4/11 partidos)
+- **Puntuación ajustada:** 35.6%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 25.4% (17/67 partidos)
+- **Estadística base YRFI:** 26.5% (18/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - David Peterson):** 7.7% (1/13 partidos)
-- **Puntuación ajustada:** 20.4%
+- **Impacto del lanzador local (New York Mets - Kodai Senga):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-30 13:16:24
+- **Generado el:** 2025-08-31 13:17:10
 - **Fuente de datos:** season_data.json

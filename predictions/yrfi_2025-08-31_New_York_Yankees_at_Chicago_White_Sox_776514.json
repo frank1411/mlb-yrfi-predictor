@@ -1,0 +1,67 @@
+{
+  "game_pk": 776514,
+  "game_date": "2025-08-31",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Martín Pérez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "20/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 46.41,
+    "pitcher": {
+      "name": "Luis Gil",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 41.7910447761194,
+        "ratio": "28/67"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.57142857142857,
+        "tendency": 26.666666666666668,
+        "combined": 27.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.47
+      },
+      "away_team": {
+        "base": 41.7910447761194,
+        "tendency": 53.333333333333336,
+        "combined": 46.41,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.49
+      },
+      "game_yrfi_probability": 45.63
+    },
+    "yrfi_probability": 45.63
+  },
+  "metadata": {
+    "generated_at": "2025-08-31T13:17:10.230283",
+    "data_source": "season_data.json"
+  }
+}

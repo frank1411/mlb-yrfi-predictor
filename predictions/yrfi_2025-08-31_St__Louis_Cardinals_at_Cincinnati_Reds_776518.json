@@ -1,0 +1,67 @@
+{
+  "game_pk": 776518,
+  "game_date": "2025-08-31",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Brady Singer",
+      "yrfi_allowed": 7.6923076923076925,
+      "yrfi_ratio": "1/13"
+    },
+    "stats": {
+      "base": {
+        "value": 43.28358208955223,
+        "ratio": "29/67"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 23.0,
+    "pitcher": {
+      "name": "Andre Pallante",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/13"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "17/68"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 43.28358208955223,
+        "tendency": 33.33333333333333,
+        "combined": 39.3,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.51
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 20.0,
+        "combined": 23.0,
+        "pitcher_impact": 7.6923076923076925,
+        "adjusted": 18.41
+      },
+      "game_yrfi_probability": 40.86
+    },
+    "yrfi_probability": 40.86
+  },
+  "metadata": {
+    "generated_at": "2025-08-31T13:17:10.111487",
+    "data_source": "season_data.json"
+  }
+}

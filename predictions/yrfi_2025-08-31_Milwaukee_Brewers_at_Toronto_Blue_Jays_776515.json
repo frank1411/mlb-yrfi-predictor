@@ -1,0 +1,67 @@
+{
+  "game_pk": 776515,
+  "game_date": "2025-08-31",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "3/7"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "20/68"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 24.76,
+    "pitcher": {
+      "name": "Brandon Woodruff",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.941176470588236,
+        "ratio": "19/68"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.411764705882355,
+        "tendency": 33.33333333333333,
+        "combined": 30.98,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.69
+      },
+      "away_team": {
+        "base": 27.941176470588236,
+        "tendency": 20.0,
+        "combined": 24.76,
+        "pitcher_impact": 42.857142857142854,
+        "adjusted": 30.19
+      },
+      "game_yrfi_probability": 45.33
+    },
+    "yrfi_probability": 45.33
+  },
+  "metadata": {
+    "generated_at": "2025-08-31T13:17:10.180175",
+    "data_source": "season_data.json"
+  }
+}

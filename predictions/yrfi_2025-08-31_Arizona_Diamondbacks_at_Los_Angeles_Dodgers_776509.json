@@ -1,0 +1,67 @@
+{
+  "game_pk": 776509,
+  "game_date": "2025-08-31",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 38.57142857142858,
+        "ratio": "27/70"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 29.39,
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 38.46153846153847,
+      "yrfi_ratio": "5/13"
+    },
+    "stats": {
+      "base": {
+        "value": 26.76056338028169,
+        "ratio": "19/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.57142857142858,
+        "tendency": 40.0,
+        "combined": 39.14,
+        "pitcher_impact": 38.46153846153847,
+        "adjusted": 38.94
+      },
+      "away_team": {
+        "base": 26.76056338028169,
+        "tendency": 33.33333333333333,
+        "combined": 29.39,
+        "pitcher_impact": 30.0,
+        "adjusted": 29.57
+      },
+      "game_yrfi_probability": 57.0
+    },
+    "yrfi_probability": 57.0
+  },
+  "metadata": {
+    "generated_at": "2025-08-31T13:17:10.271273",
+    "data_source": "season_data.json"
+  }
+}

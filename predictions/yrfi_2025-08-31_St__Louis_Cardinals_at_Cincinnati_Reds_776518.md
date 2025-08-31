@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Toronto Blue Jays
+# Análisis YRFI: St. Louis Cardinals @ Cincinnati Reds
 
-**Fecha:** 2025-08-30  
-**Lanzadores:** Quinn Priester (V) vs Kevin Gausman (L)
+**Fecha:** 2025-08-31  
+**Lanzadores:** Andre Pallante (V) vs Brady Singer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.8%
+**Probabilidad de que anoten en la primera entrada:** 40.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.9% (20/67 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 43.3% (29/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Quinn Priester):** 50.0% (6/12 partidos)
-- **Puntuación ajustada:** 36.9%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Andre Pallante):** 0.0% (0/13 partidos)
+- **Puntuación ajustada:** 27.5%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 28.4% (19/67 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 25.0% (17/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 41.7% (5/12 partidos)
-- **Puntuación ajustada:** 30.0%
+- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 7.7% (1/13 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-30 13:16:24
+- **Generado el:** 2025-08-31 13:17:10
 - **Fuente de datos:** season_data.json

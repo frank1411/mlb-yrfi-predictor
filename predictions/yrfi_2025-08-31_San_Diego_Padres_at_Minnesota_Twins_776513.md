@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Minnesota Twins
 
-**Fecha:** 2025-08-30  
-**Lanzadores:** Nick Pivetta (V) vs Taj Bradley (L)
+**Fecha:** 2025-08-31  
+**Lanzadores:** David Morgan (V) vs Joe Ryan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.9%
+**Probabilidad de que anoten en la primera entrada:** 31.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 26.2% (17/65 partidos)
+- **Estadística base YRFI:** 25.8% (17/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Nick Pivetta):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 18.3%
+- **Impacto del lanzador visitante (San Diego Padres - David Morgan):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 12.7%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 27.1% (19/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 45.5% (5/11 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Estadística base YRFI:** 26.8% (19/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 21.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-08-30 13:16:24
+- **Generado el:** 2025-08-31 13:17:10
 - **Fuente de datos:** season_data.json

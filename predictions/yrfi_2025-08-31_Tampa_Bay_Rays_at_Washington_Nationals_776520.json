@@ -1,0 +1,67 @@
+{
+  "game_pk": 776520,
+  "game_date": "2025-08-31",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Brad Lord",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 29.850746268656714,
+        "ratio": "20/67"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 27.45,
+    "pitcher": {
+      "name": "Ian Seymour",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "16/68"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.850746268656714,
+        "tendency": 20.0,
+        "combined": 25.91,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.14
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 33.33333333333333,
+        "combined": 27.45,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 23.5
+      },
+      "game_yrfi_probability": 37.38
+    },
+    "yrfi_probability": 37.38
+  },
+  "metadata": {
+    "generated_at": "2025-08-31T13:17:10.170512",
+    "data_source": "season_data.json"
+  }
+}

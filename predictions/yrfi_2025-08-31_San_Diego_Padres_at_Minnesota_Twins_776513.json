@@ -1,0 +1,67 @@
+{
+  "game_pk": 776513,
+  "game_date": "2025-08-31",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 15.384615384615385,
+      "yrfi_ratio": "2/13"
+    },
+    "stats": {
+      "base": {
+        "value": 25.757575757575758,
+        "ratio": "17/66"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 24.06,
+    "pitcher": {
+      "name": "David Morgan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.76056338028169,
+        "ratio": "19/71"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.757575757575758,
+        "tendency": 6.666666666666667,
+        "combined": 18.12,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.68
+      },
+      "away_team": {
+        "base": 26.76056338028169,
+        "tendency": 20.0,
+        "combined": 24.06,
+        "pitcher_impact": 15.384615384615385,
+        "adjusted": 21.45
+      },
+      "game_yrfi_probability": 31.41
+    },
+    "yrfi_probability": 31.41
+  },
+  "metadata": {
+    "generated_at": "2025-08-31T13:17:10.131990",
+    "data_source": "season_data.json"
+  }
+}
