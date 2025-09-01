@@ -1,0 +1,67 @@
+{
+  "game_pk": 776495,
+  "game_date": "2025-09-02",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Ryne Nelson",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 45.45454545454545,
+        "ratio": "30/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 32.46,
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 15.384615384615385,
+      "yrfi_ratio": "2/13"
+    },
+    "stats": {
+      "base": {
+        "value": 31.88405797101449,
+        "ratio": "22/69"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 45.45454545454545,
+        "tendency": 33.33333333333333,
+        "combined": 40.61,
+        "pitcher_impact": 15.384615384615385,
+        "adjusted": 33.04
+      },
+      "away_team": {
+        "base": 31.88405797101449,
+        "tendency": 33.33333333333333,
+        "combined": 32.46,
+        "pitcher_impact": 12.5,
+        "adjusted": 26.47
+      },
+      "game_yrfi_probability": 50.76
+    },
+    "yrfi_probability": 50.76
+  },
+  "metadata": {
+    "generated_at": "2025-09-01T13:22:58.829075",
+    "data_source": "season_data.json"
+  }
+}

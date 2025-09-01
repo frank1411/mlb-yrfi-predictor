@@ -1,0 +1,67 @@
+{
+  "game_pk": 776503,
+  "game_date": "2025-09-01",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Hunter Greene",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 42.64705882352941,
+        "ratio": "29/68"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 31.22,
+    "pitcher": {
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 54.54545454545454,
+      "yrfi_ratio": "6/11"
+    },
+    "stats": {
+      "base": {
+        "value": 25.37313432835821,
+        "ratio": "17/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.64705882352941,
+        "tendency": 33.33333333333333,
+        "combined": 38.92,
+        "pitcher_impact": 54.54545454545454,
+        "adjusted": 43.61
+      },
+      "away_team": {
+        "base": 25.37313432835821,
+        "tendency": 40.0,
+        "combined": 31.22,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 26.14
+      },
+      "game_yrfi_probability": 58.35
+    },
+    "yrfi_probability": 58.35
+  },
+  "metadata": {
+    "generated_at": "2025-09-01T13:22:58.713993",
+    "data_source": "season_data.json"
+  }
+}

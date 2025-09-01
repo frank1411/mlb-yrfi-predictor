@@ -1,0 +1,67 @@
+{
+  "game_pk": 776500,
+  "game_date": "2025-09-01",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 15.942028985507244,
+        "ratio": "11/69"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 28.99,
+    "pitcher": {
+      "name": "Taijuan Walker",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "3/9"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "18/69"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 15.942028985507244,
+        "tendency": 26.666666666666668,
+        "combined": 20.23,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 24.16
+      },
+      "away_team": {
+        "base": 26.08695652173913,
+        "tendency": 33.33333333333333,
+        "combined": 28.99,
+        "pitcher_impact": 40.0,
+        "adjusted": 32.29
+      },
+      "game_yrfi_probability": 48.65
+    },
+    "yrfi_probability": 48.65
+  },
+  "metadata": {
+    "generated_at": "2025-09-01T13:22:58.796878",
+    "data_source": "season_data.json"
+  }
+}
