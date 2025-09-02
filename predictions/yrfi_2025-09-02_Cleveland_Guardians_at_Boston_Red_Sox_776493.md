@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Boston Red Sox
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Parker Messick (V) vs Brayan Bello (L)
+**Fecha:** 2025-09-02  
+**Lanzadores:** Slade Cecconi (V) vs Garrett Crochet (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.3%
+**Probabilidad de que anoten en la primera entrada:** 43.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 33.3% (23/69 partidos)
+- **Estadística base YRFI:** 34.3% (24/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 51.5%
+- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 28.5%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.9% (16/67 partidos)
+- **Estadística base YRFI:** 23.5% (16/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Brayan Bello):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 20.2%
+- **Impacto del lanzador local (Boston Red Sox - Garrett Crochet):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 21.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

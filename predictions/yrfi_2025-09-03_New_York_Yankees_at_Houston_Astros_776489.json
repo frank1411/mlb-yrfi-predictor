@@ -1,0 +1,67 @@
+{
+  "game_pk": 776489,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 23.61111111111111,
+        "ratio": "17/72"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 46.92,
+    "pitcher": {
+      "name": "Max Fried",
+      "yrfi_allowed": 21.428571428571427,
+      "yrfi_ratio": "3/14"
+    },
+    "stats": {
+      "base": {
+        "value": 42.64705882352941,
+        "ratio": "29/68"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.61111111111111,
+        "tendency": 26.666666666666668,
+        "combined": 24.83,
+        "pitcher_impact": 21.428571428571427,
+        "adjusted": 23.81
+      },
+      "away_team": {
+        "base": 42.64705882352941,
+        "tendency": 53.333333333333336,
+        "combined": 46.92,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 42.08
+      },
+      "game_yrfi_probability": 55.87
+    },
+    "yrfi_probability": 55.87
+  },
+  "metadata": {
+    "generated_at": "2025-09-02T13:23:54.364702",
+    "data_source": "season_data.json"
+  }
+}

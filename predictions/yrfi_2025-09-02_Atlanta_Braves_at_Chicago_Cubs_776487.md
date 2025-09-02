@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Milwaukee Brewers
+# Análisis YRFI: Atlanta Braves @ Chicago Cubs
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Taijuan Walker (V) vs Jacob Misiorowski (L)
+**Fecha:** 2025-09-02  
+**Lanzadores:** Joey Wentz (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.6%
+**Probabilidad de que anoten en la primera entrada:** 47.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 15.9% (11/69 partidos)
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 28.4% (19/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Taijuan Walker):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 24.2%
+- **Impacto del lanzador visitante (Atlanta Braves - Joey Wentz):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 26.9%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.1% (18/69 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 29.2% (21/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 32.3%
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

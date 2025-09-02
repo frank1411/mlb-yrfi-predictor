@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Cincinnati Reds
+# Análisis YRFI: Los Angeles Angels @ Kansas City Royals
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Chris Bassitt (V) vs Hunter Greene (L)
+**Fecha:** 2025-09-02  
+**Lanzadores:** Por anunciar (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.4%
+**Probabilidad de que anoten en la primera entrada:** 57.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 42.6% (29/68 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 33.3% (23/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Chris Bassitt):** 54.5% (6/11 partidos)
-- **Puntuación ajustada:** 43.6%
+- **Impacto del lanzador visitante (Los Angeles Angels - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.3%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 25.4% (17/67 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 38.2% (26/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 14.3% (1/7 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Impacto del lanzador local (Kansas City Royals - Michael Lorenzen):** 12.5% (1/8 partidos)
+- **Puntuación ajustada:** 31.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

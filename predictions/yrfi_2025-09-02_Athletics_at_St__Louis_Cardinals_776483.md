@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ St. Louis Cardinals
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Luis Morales (V) vs Sonny Gray (L)
+**Fecha:** 2025-09-02  
+**Lanzadores:** Luis Severino (V) vs Miles Mikolas (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.7%
+**Probabilidad de que anoten en la primera entrada:** 48.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 21.7% (15/69 partidos)
+- **Estadística base YRFI:** 21.4% (15/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Luis Morales):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 14.7%
+- **Impacto del lanzador visitante (Athletics - Luis Severino):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 29.0% (20/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Sonny Gray):** 23.5% (4/17 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Estadística base YRFI:** 28.6% (20/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Miles Mikolas):** 46.2% (6/13 partidos)
+- **Puntuación ajustada:** 35.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

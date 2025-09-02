@@ -1,0 +1,67 @@
+{
+  "game_pk": 776493,
+  "game_date": "2025-09-02",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Garrett Crochet",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 34.285714285714285,
+        "ratio": "24/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 19.45,
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "16/68"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.285714285714285,
+        "tendency": 26.666666666666668,
+        "combined": 31.24,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 28.53
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 13.333333333333334,
+        "combined": 19.45,
+        "pitcher_impact": 25.0,
+        "adjusted": 21.12
+      },
+      "game_yrfi_probability": 43.62
+    },
+    "yrfi_probability": 43.62
+  },
+  "metadata": {
+    "generated_at": "2025-09-02T13:23:54.298890",
+    "data_source": "season_data.json"
+  }
+}

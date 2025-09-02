@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Colorado Rockies
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Kai-Wei Teng (V) vs Chase Dollander (L)
+**Fecha:** 2025-09-03  
+**Lanzadores:** Logan Webb (V) vs Kyle Freeland (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.5%
+**Probabilidad de que anoten en la primera entrada:** 57.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 31.9% (22/69 partidos)
+- **Estadística base YRFI:** 31.4% (22/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Kai-Wei Teng):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 45.3%
+- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 24.3%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 30.9% (21/68 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Chase Dollander):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 36.9%
+- **Estadística base YRFI:** 31.9% (22/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 45.5% (5/11 partidos)
+- **Puntuación ajustada:** 43.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

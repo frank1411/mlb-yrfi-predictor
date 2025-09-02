@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Houston Astros
+# Análisis YRFI: Toronto Blue Jays @ Cincinnati Reds
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Yusei Kikuchi (V) vs Luis Garcia (L)
+**Fecha:** 2025-09-02  
+**Lanzadores:** José Berríos (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.5%
+**Probabilidad de que anoten en la primera entrada:** 58.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 23.9% (17/71 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 42.0% (29/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Yusei Kikuchi):** 42.9% (6/14 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador visitante (Toronto Blue Jays - José Berríos):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 35.8%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 38.8% (26/67 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 25.0% (17/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Luis Garcia):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 27.5%
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 45.5% (5/11 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

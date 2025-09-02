@@ -1,0 +1,67 @@
+{
+  "game_pk": 776482,
+  "game_date": "2025-09-02",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Cade Cavalli",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.985507246376812,
+        "ratio": "20/69"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 29.62,
+    "pitcher": {
+      "name": "Adam Mazur",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.142857142857142,
+        "ratio": "19/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.985507246376812,
+        "tendency": 13.333333333333334,
+        "combined": 22.72,
+        "pitcher_impact": 100.0,
+        "adjusted": 45.91
+      },
+      "away_team": {
+        "base": 27.142857142857142,
+        "tendency": 33.33333333333333,
+        "combined": 29.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.73
+      },
+      "game_yrfi_probability": 57.12
+    },
+    "yrfi_probability": 57.12
+  },
+  "metadata": {
+    "generated_at": "2025-09-02T13:23:54.308888",
+    "data_source": "season_data.json"
+  }
+}

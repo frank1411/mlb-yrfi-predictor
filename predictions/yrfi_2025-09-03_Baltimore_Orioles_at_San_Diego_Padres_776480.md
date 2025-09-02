@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ San Diego Padres
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Kyle Bradish (V) vs Dylan Cease (L)
+**Fecha:** 2025-09-03  
+**Lanzadores:** Tyler Wells (V) vs Yu Darvish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.2%
+**Probabilidad de que anoten en la primera entrada:** 29.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 24.6% (16/65 partidos)
+- **Estadística base YRFI:** 24.2% (16/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 15.9%
+- **Impacto del lanzador visitante (Baltimore Orioles - Tyler Wells):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.8%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 24.6% (17/69 partidos)
+- **Estadística base YRFI:** 24.3% (17/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Dylan Cease):** 15.4% (2/13 partidos)
-- **Puntuación ajustada:** 20.6%
+- **Impacto del lanzador local (San Diego Padres - Yu Darvish):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 15.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

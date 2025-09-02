@@ -1,18 +1,18 @@
 {
-  "game_pk": 776494,
-  "game_date": "2025-09-01",
+  "game_pk": 776480,
+  "game_date": "2025-09-03",
   "home_team": {
     "id": "135",
     "name": "San Diego Padres",
     "pitcher": {
-      "name": "Dylan Cease",
-      "yrfi_allowed": 15.384615384615385,
-      "yrfi_ratio": "2/13"
+      "name": "Yu Darvish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 24.615384615384617,
-        "ratio": "16/65"
+        "value": 24.242424242424242,
+        "ratio": "16/66"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "110",
     "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 22.78,
+    "combined_yrfi_pct": 22.57,
     "pitcher": {
-      "name": "Kyle Bradish",
+      "name": "Tyler Wells",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 24.637681159420293,
-        "ratio": "17/69"
+        "value": 24.285714285714285,
+        "ratio": "17/70"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 24.615384615384617,
+        "base": 24.242424242424242,
         "tendency": 20.0,
-        "combined": 22.77,
+        "combined": 22.55,
         "pitcher_impact": 0.0,
-        "adjusted": 15.94
+        "adjusted": 15.78
       },
       "away_team": {
-        "base": 24.637681159420293,
+        "base": 24.285714285714285,
         "tendency": 20.0,
-        "combined": 22.78,
-        "pitcher_impact": 15.384615384615385,
-        "adjusted": 20.56
+        "combined": 22.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.8
       },
-      "game_yrfi_probability": 33.22
+      "game_yrfi_probability": 29.09
     },
-    "yrfi_probability": 33.22
+    "yrfi_probability": 29.09
   },
   "metadata": {
-    "generated_at": "2025-09-01T13:22:58.807634",
+    "generated_at": "2025-09-02T13:23:54.383676",
     "data_source": "season_data.json"
   }
 }

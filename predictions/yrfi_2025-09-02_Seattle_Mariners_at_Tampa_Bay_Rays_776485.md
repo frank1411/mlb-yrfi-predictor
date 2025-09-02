@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Chicago Cubs
+# Análisis YRFI: Seattle Mariners @ Tampa Bay Rays
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Spencer Strider (V) vs Colin Rea (L)
+**Fecha:** 2025-09-02  
+**Lanzadores:** Bryan Woo (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.2%
+**Probabilidad de que anoten en la primera entrada:** 55.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 28.8% (19/66 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 32.4% (22/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Impacto del lanzador visitante (Seattle Mariners - Bryan Woo):** 50.0% (7/14 partidos)
+- **Puntuación ajustada:** 36.0%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 28.2% (20/71 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 37.1% (26/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 27.9%
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 26.7% (4/15 partidos)
+- **Puntuación ajustada:** 31.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

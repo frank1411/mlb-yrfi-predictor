@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Washington Nationals
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Por anunciar (V) vs Andrew Alvarez (L)
+**Fecha:** 2025-09-02  
+**Lanzadores:** Adam Mazur (V) vs Cade Cavalli (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.0%
+**Probabilidad de que anoten en la primera entrada:** 57.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 29.4% (20/68 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Estadística base YRFI:** 29.0% (20/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Adam Mazur):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 45.9%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 27.5% (19/69 partidos)
+- **Estadística base YRFI:** 27.1% (19/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json

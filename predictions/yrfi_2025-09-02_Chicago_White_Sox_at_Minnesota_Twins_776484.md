@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Minnesota Twins
 
-**Fecha:** 2025-09-01  
-**Lanzadores:** Aaron Civale (V) vs Bailey Ober (L)
+**Fecha:** 2025-09-02  
+**Lanzadores:** Davis Martin (V) vs Simeon Woods Richardson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.8%
+**Probabilidad de que anoten en la primera entrada:** 40.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 25.4% (17/67 partidos)
+- **Estadística base YRFI:** 25.0% (17/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Aaron Civale):** 66.7% (6/9 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 33.3% (3/9 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 30.8% (20/65 partidos)
+- **Estadística base YRFI:** 30.3% (20/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Impacto del lanzador local (Minnesota Twins - Simeon Woods Richardson):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 23.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-01 13:22:58
+- **Generado el:** 2025-09-02 13:23:54
 - **Fuente de datos:** season_data.json
