@@ -1,0 +1,67 @@
+{
+  "game_pk": 776466,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Ryan Bergert",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.857142857142854,
+        "ratio": "23/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 35.94,
+    "pitcher": {
+      "name": "Caden Dana",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 37.68115942028986,
+        "ratio": "26/69"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.857142857142854,
+        "tendency": 26.666666666666668,
+        "combined": 30.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.27
+      },
+      "away_team": {
+        "base": 37.68115942028986,
+        "tendency": 33.33333333333333,
+        "combined": 35.94,
+        "pitcher_impact": 25.0,
+        "adjusted": 32.66
+      },
+      "game_yrfi_probability": 46.98
+    },
+    "yrfi_probability": 46.98
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:41.019977",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Chicago Cubs
 
-**Fecha:** 2025-09-02  
-**Lanzadores:** Joey Wentz (V) vs Shota Imanaga (L)
+**Fecha:** 2025-09-03  
+**Lanzadores:** Bryce Elder (V) vs Cade Horton (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 43.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 28.4% (19/67 partidos)
+- **Estadística base YRFI:** 27.9% (19/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Joey Wentz):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 24.7%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 29.2% (21/72 partidos)
+- **Estadística base YRFI:** 28.8% (21/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 22.2% (2/9 partidos)
-- **Puntuación ajustada:** 28.2%
+- **Impacto del lanzador local (Chicago Cubs - Cade Horton):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 24.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-02 13:23:54
+- **Generado el:** 2025-09-03 13:20:41
 - **Fuente de datos:** season_data.json

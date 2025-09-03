@@ -1,0 +1,67 @@
+{
+  "game_pk": 776479,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "21/70"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 34.81,
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 31.343283582089555,
+        "ratio": "21/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.0,
+        "tendency": 46.666666666666664,
+        "combined": 36.67,
+        "pitcher_impact": 20.0,
+        "adjusted": 31.67
+      },
+      "away_team": {
+        "base": 31.343283582089555,
+        "tendency": 40.0,
+        "combined": 34.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.36
+      },
+      "game_yrfi_probability": 48.32
+    },
+    "yrfi_probability": 48.32
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:40.981346",
+    "data_source": "season_data.json"
+  }
+}

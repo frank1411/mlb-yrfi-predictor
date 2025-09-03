@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ St. Louis Cardinals
 
-**Fecha:** 2025-09-02  
-**Lanzadores:** Luis Severino (V) vs Miles Mikolas (L)
+**Fecha:** 2025-09-03  
+**Lanzadores:** Jeffrey Springs (V) vs Matthew Liberatore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.2%
+**Probabilidad de que anoten en la primera entrada:** 42.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 21.4% (15/70 partidos)
+- **Estadística base YRFI:** 21.1% (15/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Luis Severino):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 23.0%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 28.6% (20/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Miles Mikolas):** 46.2% (6/13 partidos)
-- **Puntuación ajustada:** 35.2%
+- **Estadística base YRFI:** 28.2% (20/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 24.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-02 13:23:54
+- **Generado el:** 2025-09-03 13:20:41
 - **Fuente de datos:** season_data.json

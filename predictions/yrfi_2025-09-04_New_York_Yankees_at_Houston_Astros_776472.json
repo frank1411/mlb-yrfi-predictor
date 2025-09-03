@@ -1,0 +1,67 @@
+{
+  "game_pk": 776472,
+  "game_date": "2025-09-04",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Jason Alexander",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.28767123287671,
+        "ratio": "17/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 43.88,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 21.428571428571427,
+      "yrfi_ratio": "3/14"
+    },
+    "stats": {
+      "base": {
+        "value": 42.028985507246375,
+        "ratio": "29/69"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.28767123287671,
+        "tendency": 26.666666666666668,
+        "combined": 24.64,
+        "pitcher_impact": 21.428571428571427,
+        "adjusted": 23.68
+      },
+      "away_team": {
+        "base": 42.028985507246375,
+        "tendency": 46.666666666666664,
+        "combined": 43.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.72
+      },
+      "game_yrfi_probability": 47.13
+    },
+    "yrfi_probability": 47.13
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:41.068591",
+    "data_source": "season_data.json"
+  }
+}

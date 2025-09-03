@@ -1,0 +1,67 @@
+{
+  "game_pk": 776474,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Brennan Bernardino",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.80281690140845,
+        "ratio": "24/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 19.25,
+    "pitcher": {
+      "name": "Joey Cantillo",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 23.18840579710145,
+        "ratio": "16/69"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.80281690140845,
+        "tendency": 26.666666666666668,
+        "combined": 30.95,
+        "pitcher_impact": 40.0,
+        "adjusted": 33.66
+      },
+      "away_team": {
+        "base": 23.18840579710145,
+        "tendency": 13.333333333333334,
+        "combined": 19.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.47
+      },
+      "game_yrfi_probability": 42.6
+    },
+    "yrfi_probability": 42.6
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:41.001093",
+    "data_source": "season_data.json"
+  }
+}

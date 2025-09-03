@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Boston Red Sox
 
-**Fecha:** 2025-09-02  
-**Lanzadores:** Slade Cecconi (V) vs Garrett Crochet (L)
+**Fecha:** 2025-09-03  
+**Lanzadores:** Joey Cantillo (V) vs Brennan Bernardino (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.6%
+**Probabilidad de que anoten en la primera entrada:** 42.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 34.3% (24/70 partidos)
+- **Estadística base YRFI:** 33.8% (24/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 22.2% (2/9 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 33.7%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.5% (16/68 partidos)
+- **Estadística base YRFI:** 23.2% (16/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Garrett Crochet):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 21.1%
+- **Impacto del lanzador local (Boston Red Sox - Brennan Bernardino):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 13.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-02 13:23:54
+- **Generado el:** 2025-09-03 13:20:41
 - **Fuente de datos:** season_data.json

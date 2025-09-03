@@ -1,0 +1,67 @@
+{
+  "game_pk": 776473,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Cade Horton",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 27.941176470588236,
+        "ratio": "19/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 30.59,
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 28.767123287671232,
+        "ratio": "21/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.941176470588236,
+        "tendency": 26.666666666666668,
+        "combined": 27.43,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 24.66
+      },
+      "away_team": {
+        "base": 28.767123287671232,
+        "tendency": 33.33333333333333,
+        "combined": 30.59,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 24.75
+      },
+      "game_yrfi_probability": 43.31
+    },
+    "yrfi_probability": 43.31
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:41.029554",
+    "data_source": "season_data.json"
+  }
+}

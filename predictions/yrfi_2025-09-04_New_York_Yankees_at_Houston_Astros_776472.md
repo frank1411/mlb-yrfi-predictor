@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Houston Astros
 
-**Fecha:** 2025-09-03  
-**Lanzadores:** Max Fried (V) vs Framber Valdez (L)
+**Fecha:** 2025-09-04  
+**Lanzadores:** Will Warren (V) vs Jason Alexander (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.9%
+**Probabilidad de que anoten en la primera entrada:** 47.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 23.6% (17/72 partidos)
+- **Estadística base YRFI:** 23.3% (17/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 23.7%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 42.6% (29/68 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Framber Valdez):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 42.1%
+- **Estadística base YRFI:** 42.0% (29/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Jason Alexander):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 30.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-02 13:23:54
+- **Generado el:** 2025-09-03 13:20:41
 - **Fuente de datos:** season_data.json

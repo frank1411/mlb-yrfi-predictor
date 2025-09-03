@@ -1,0 +1,67 @@
+{
+  "game_pk": 776471,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jose Quintana",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 17.142857142857142,
+        "ratio": "12/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 28.76,
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 25.71428571428571,
+        "ratio": "18/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 17.142857142857142,
+        "tendency": 33.33333333333333,
+        "combined": 23.62,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 21.53
+      },
+      "away_team": {
+        "base": 25.71428571428571,
+        "tendency": 33.33333333333333,
+        "combined": 28.76,
+        "pitcher_impact": 30.0,
+        "adjusted": 29.13
+      },
+      "game_yrfi_probability": 44.39
+    },
+    "yrfi_probability": 44.39
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:41.048873",
+    "data_source": "season_data.json"
+  }
+}

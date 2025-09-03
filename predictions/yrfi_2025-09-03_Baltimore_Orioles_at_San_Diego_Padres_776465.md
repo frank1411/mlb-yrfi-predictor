@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ San Diego Padres
 
 **Fecha:** 2025-09-03  
-**Lanzadores:** Tyler Wells (V) vs Yu Darvish (L)
+**Lanzadores:** Cade Povich (V) vs Nestor Cortes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 29.1%
+**Probabilidad de que anoten en la primera entrada:** 46.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 24.2% (16/66 partidos)
+- **Estadística base YRFI:** 23.9% (16/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Tyler Wells):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.8%
+- **Impacto del lanzador visitante (Baltimore Orioles - Cade Povich):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 25.6%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 24.3% (17/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Yu Darvish):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 15.8%
+- **Estadística base YRFI:** 25.4% (18/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Nestor Cortes):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-02 13:23:54
+- **Generado el:** 2025-09-03 13:20:40
 - **Fuente de datos:** season_data.json

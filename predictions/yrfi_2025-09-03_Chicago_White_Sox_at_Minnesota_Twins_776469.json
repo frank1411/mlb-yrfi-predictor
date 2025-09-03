@@ -1,0 +1,67 @@
+{
+  "game_pk": 776469,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "18/69"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 25.91,
+    "pitcher": {
+      "name": "Yoendrys Gómez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 29.850746268656714,
+        "ratio": "20/67"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.08695652173913,
+        "tendency": 13.333333333333334,
+        "combined": 20.99,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.69
+      },
+      "away_team": {
+        "base": 29.850746268656714,
+        "tendency": 20.0,
+        "combined": 25.91,
+        "pitcher_impact": 20.0,
+        "adjusted": 24.14
+      },
+      "game_yrfi_probability": 35.28
+    },
+    "yrfi_probability": 35.28
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:41.039289",
+    "data_source": "season_data.json"
+  }
+}

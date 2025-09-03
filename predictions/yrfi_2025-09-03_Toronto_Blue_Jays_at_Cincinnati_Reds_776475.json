@@ -1,0 +1,67 @@
+{
+  "game_pk": 776475,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Zack Littell",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "30/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 34.32,
+    "pitcher": {
+      "name": "Shane Bieber",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "18/69"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 33.33333333333333,
+        "combined": 39.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.33
+      },
+      "away_team": {
+        "base": 26.08695652173913,
+        "tendency": 46.666666666666664,
+        "combined": 34.32,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 34.02
+      },
+      "game_yrfi_probability": 52.05
+    },
+    "yrfi_probability": 52.05
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:40.990887",
+    "data_source": "season_data.json"
+  }
+}

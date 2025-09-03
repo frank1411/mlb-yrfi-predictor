@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Colorado Rockies
 
-**Fecha:** 2025-09-03  
-**Lanzadores:** Logan Webb (V) vs Kyle Freeland (L)
+**Fecha:** 2025-09-04  
+**Lanzadores:** Robbie Ray (V) vs Germán Márquez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.5%
+**Probabilidad de que anoten en la primera entrada:** 52.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 31.4% (22/70 partidos)
+- **Estadística base YRFI:** 31.0% (22/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 24.3%
+- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 21.3%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 31.9% (22/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 45.5% (5/11 partidos)
-- **Puntuación ajustada:** 43.8%
+- **Estadística base YRFI:** 32.9% (23/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 66.7% (10/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Germán Márquez):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 39.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-02 13:23:54
+- **Generado el:** 2025-09-03 13:20:41
 - **Fuente de datos:** season_data.json

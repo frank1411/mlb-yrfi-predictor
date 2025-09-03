@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Arizona Diamondbacks
 
 **Fecha:** 2025-09-03  
-**Lanzadores:** Por anunciar (V) vs Nabil Crismatt (L)
+**Lanzadores:** Jack Leiter (V) vs Zac Gallen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.9%
+**Probabilidad de que anoten en la primera entrada:** 55.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 46.3% (31/67 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 45.6%
+- **Estadística base YRFI:** 45.6% (31/68 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 36.0%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 31.4% (22/70 partidos)
+- **Estadística base YRFI:** 31.0% (22/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Nabil Crismatt):** 0.0% (1/2 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 30.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-02 13:23:54
+- **Generado el:** 2025-09-03 13:20:40
 - **Fuente de datos:** season_data.json

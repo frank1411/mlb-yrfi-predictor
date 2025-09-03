@@ -1,0 +1,67 @@
+{
+  "game_pk": 776470,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 21.12676056338028,
+        "ratio": "15/71"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 27.57,
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 28.169014084507044,
+        "ratio": "20/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.12676056338028,
+        "tendency": 20.0,
+        "combined": 20.68,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 23.04
+      },
+      "away_team": {
+        "base": 28.169014084507044,
+        "tendency": 26.666666666666668,
+        "combined": 27.57,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 24.75
+      },
+      "game_yrfi_probability": 42.09
+    },
+    "yrfi_probability": 42.09
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:41.058763",
+    "data_source": "season_data.json"
+  }
+}

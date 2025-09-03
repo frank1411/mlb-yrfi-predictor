@@ -1,0 +1,67 @@
+{
+  "game_pk": 776478,
+  "game_date": "2025-09-03",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 30.985915492957744,
+        "ratio": "22/71"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 27.66,
+    "pitcher": {
+      "name": "Clay Holmes",
+      "yrfi_allowed": 15.384615384615385,
+      "yrfi_ratio": "2/13"
+    },
+    "stats": {
+      "base": {
+        "value": 23.88059701492537,
+        "ratio": "16/67"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.985915492957744,
+        "tendency": 20.0,
+        "combined": 26.59,
+        "pitcher_impact": 15.384615384615385,
+        "adjusted": 23.23
+      },
+      "away_team": {
+        "base": 23.88059701492537,
+        "tendency": 33.33333333333333,
+        "combined": 27.66,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 24.82
+      },
+      "game_yrfi_probability": 42.28
+    },
+    "yrfi_probability": 42.28
+  },
+  "metadata": {
+    "generated_at": "2025-09-03T13:20:40.952413",
+    "data_source": "season_data.json"
+  }
+}
