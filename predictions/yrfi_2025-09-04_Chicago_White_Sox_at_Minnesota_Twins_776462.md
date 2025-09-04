@@ -1,7 +1,7 @@
-# Análisis YRFI: New York Mets @ Detroit Tigers
+# Análisis YRFI: Chicago White Sox @ Minnesota Twins
 
-**Fecha:** 2025-09-03  
-**Lanzadores:** Clay Holmes (V) vs Casey Mize (L)
+**Fecha:** 2025-09-04  
+**Lanzadores:** Fraser Ellard (V) vs Taj Bradley (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 31.0% (22/71 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 27.1% (19/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Clay Holmes):** 15.4% (2/13 partidos)
-- **Puntuación ajustada:** 23.2%
+- **Impacto del lanzador visitante (Chicago White Sox - Fraser Ellard):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 17.0%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.9% (16/67 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 24.8%
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 29.4% (20/68 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 30.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-03 13:20:40
+- **Generado el:** 2025-09-04 13:20:05
 - **Fuente de datos:** season_data.json

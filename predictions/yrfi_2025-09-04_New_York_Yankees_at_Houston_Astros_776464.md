@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Houston Astros
 
 **Fecha:** 2025-09-04  
-**Lanzadores:** Will Warren (V) vs Jason Alexander (L)
+**Lanzadores:** Carlos Rodón (V) vs Cristian Javier (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.1%
+**Probabilidad de que anoten en la primera entrada:** 54.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 23.3% (17/73 partidos)
+- **Estadística base YRFI:** 23.0% (17/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 23.7%
+- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 23.1%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 42.0% (29/69 partidos)
+- **Estadística base YRFI:** 41.4% (29/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Jason Alexander):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 30.7%
+- **Impacto del lanzador local (Houston Astros - Cristian Javier):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 40.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-03 13:20:41
+- **Generado el:** 2025-09-04 13:20:05
 - **Fuente de datos:** season_data.json

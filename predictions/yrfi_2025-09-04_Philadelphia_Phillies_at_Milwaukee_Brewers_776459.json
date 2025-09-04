@@ -1,0 +1,67 @@
+{
+  "game_pk": 776459,
+  "game_date": "2025-09-04",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 7.142857142857142,
+      "yrfi_ratio": "1/14"
+    },
+    "stats": {
+      "base": {
+        "value": 18.30985915492958,
+        "ratio": "13/71"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 25.88,
+    "pitcher": {
+      "name": "Ranger Suárez",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 25.352112676056336,
+        "ratio": "18/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.30985915492958,
+        "tendency": 40.0,
+        "combined": 26.99,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 22.22
+      },
+      "away_team": {
+        "base": 25.352112676056336,
+        "tendency": 26.666666666666668,
+        "combined": 25.88,
+        "pitcher_impact": 7.142857142857142,
+        "adjusted": 20.26
+      },
+      "game_yrfi_probability": 37.98
+    },
+    "yrfi_probability": 37.98
+  },
+  "metadata": {
+    "generated_at": "2025-09-04T13:20:05.748628",
+    "data_source": "season_data.json"
+  }
+}

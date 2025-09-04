@@ -1,18 +1,18 @@
 {
-  "game_pk": 776472,
+  "game_pk": 776464,
   "game_date": "2025-09-04",
   "home_team": {
     "id": "117",
     "name": "Houston Astros",
     "pitcher": {
-      "name": "Jason Alexander",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "name": "Cristian Javier",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 23.28767123287671,
-        "ratio": "17/73"
+        "value": 22.972972972972975,
+        "ratio": "17/74"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "147",
     "name": "New York Yankees",
-    "combined_yrfi_pct": 43.88,
+    "combined_yrfi_pct": 43.52,
     "pitcher": {
-      "name": "Will Warren",
-      "yrfi_allowed": 21.428571428571427,
-      "yrfi_ratio": "3/14"
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "3/15"
     },
     "stats": {
       "base": {
-        "value": 42.028985507246375,
-        "ratio": "29/69"
+        "value": 41.42857142857143,
+        "ratio": "29/70"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 23.28767123287671,
+        "base": 22.972972972972975,
         "tendency": 26.666666666666668,
-        "combined": 24.64,
-        "pitcher_impact": 21.428571428571427,
-        "adjusted": 23.68
+        "combined": 24.45,
+        "pitcher_impact": 20.0,
+        "adjusted": 23.12
       },
       "away_team": {
-        "base": 42.028985507246375,
+        "base": 41.42857142857143,
         "tendency": 46.666666666666664,
-        "combined": 43.88,
-        "pitcher_impact": 0.0,
-        "adjusted": 30.72
+        "combined": 43.52,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 40.47
       },
-      "game_yrfi_probability": 47.13
+      "game_yrfi_probability": 54.23
     },
-    "yrfi_probability": 47.13
+    "yrfi_probability": 54.23
   },
   "metadata": {
-    "generated_at": "2025-09-03T13:20:41.068591",
+    "generated_at": "2025-09-04T13:20:05.819982",
     "data_source": "season_data.json"
   }
 }
