@@ -1,0 +1,67 @@
+{
+  "game_pk": 776450,
+  "game_date": "2025-09-05",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/14"
+    },
+    "stats": {
+      "base": {
+        "value": 42.25352112676056,
+        "ratio": "30/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 27.45,
+    "pitcher": {
+      "name": "David Peterson",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "16/68"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.25352112676056,
+        "tendency": 33.33333333333333,
+        "combined": 38.69,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 32.08
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 33.33333333333333,
+        "combined": 27.45,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.22
+      },
+      "game_yrfi_probability": 45.13
+    },
+    "yrfi_probability": 45.13
+  },
+  "metadata": {
+    "generated_at": "2025-09-05T13:20:22.678600",
+    "data_source": "season_data.json"
+  }
+}

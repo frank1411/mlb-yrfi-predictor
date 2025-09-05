@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ Minnesota Twins
+# Análisis YRFI: Minnesota Twins @ Kansas City Royals
 
-**Fecha:** 2025-09-04  
-**Lanzadores:** Fraser Ellard (V) vs Taj Bradley (L)
+**Fecha:** 2025-09-05  
+**Lanzadores:** Por anunciar (V) vs Michael Wacha (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.3%
+**Probabilidad de que anoten en la primera entrada:** 45.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 27.1% (19/70 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 31.9% (23/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Fraser Ellard):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.0%
+- **Impacto del lanzador visitante (Minnesota Twins - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 34.0%
 
-### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 29.4% (20/68 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 29.0% (20/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 41.7% (5/12 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/14 partidos)
+- **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-04 13:20:05
+- **Generado el:** 2025-09-05 13:20:22
 - **Fuente de datos:** season_data.json

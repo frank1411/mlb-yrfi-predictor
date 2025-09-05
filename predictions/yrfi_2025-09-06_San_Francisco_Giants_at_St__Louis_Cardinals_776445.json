@@ -1,0 +1,67 @@
+{
+  "game_pk": 776445,
+  "game_date": "2025-09-06",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 20.833333333333336,
+        "ratio": "15/72"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 43.44,
+    "pitcher": {
+      "name": "Carson Seymour",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.3943661971831,
+        "ratio": "23/71"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.833333333333336,
+        "tendency": 20.0,
+        "combined": 20.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.35
+      },
+      "away_team": {
+        "base": 32.3943661971831,
+        "tendency": 60.0,
+        "combined": 43.44,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 40.41
+      },
+      "game_yrfi_probability": 48.96
+    },
+    "yrfi_probability": 48.96
+  },
+  "metadata": {
+    "generated_at": "2025-09-05T13:20:22.770068",
+    "data_source": "season_data.json"
+  }
+}

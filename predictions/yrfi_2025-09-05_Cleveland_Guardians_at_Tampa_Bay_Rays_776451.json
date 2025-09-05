@@ -1,0 +1,67 @@
+{
+  "game_pk": 776451,
+  "game_date": "2025-09-05",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.2112676056338,
+        "ratio": "25/71"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 22.37,
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 23.943661971830984,
+        "ratio": "17/71"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.2112676056338,
+        "tendency": 46.666666666666664,
+        "combined": 39.79,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 34.78
+      },
+      "away_team": {
+        "base": 23.943661971830984,
+        "tendency": 20.0,
+        "combined": 22.37,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.66
+      },
+      "game_yrfi_probability": 44.99
+    },
+    "yrfi_probability": 44.99
+  },
+  "metadata": {
+    "generated_at": "2025-09-05T13:20:22.748297",
+    "data_source": "season_data.json"
+  }
+}

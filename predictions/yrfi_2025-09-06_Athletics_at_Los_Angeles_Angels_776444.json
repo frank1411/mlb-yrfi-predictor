@@ -1,0 +1,67 @@
+{
+  "game_pk": 776444,
+  "game_date": "2025-09-06",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 31.88405797101449,
+        "ratio": "22/69"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 24.67,
+    "pitcher": {
+      "name": "Mason Barnett",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "20/72"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.88405797101449,
+        "tendency": 33.33333333333333,
+        "combined": 32.46,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.72
+      },
+      "away_team": {
+        "base": 27.77777777777778,
+        "tendency": 20.0,
+        "combined": 24.67,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 21.55
+      },
+      "game_yrfi_probability": 39.37
+    },
+    "yrfi_probability": 39.37
+  },
+  "metadata": {
+    "generated_at": "2025-09-05T13:20:22.786746",
+    "data_source": "season_data.json"
+  }
+}

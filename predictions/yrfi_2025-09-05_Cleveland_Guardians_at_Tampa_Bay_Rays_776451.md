@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Tampa Bay Rays
 
-**Fecha:** 2025-09-04  
-**Lanzadores:** Logan Allen (V) vs Ryan Pepiot (L)
+**Fecha:** 2025-09-05  
+**Lanzadores:** Gavin Williams (V) vs Griffin Jax (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 45.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 34.3% (24/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Logan Allen):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Estadística base YRFI:** 35.2% (25/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 34.8%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 24.3% (17/70 partidos)
+- **Estadística base YRFI:** 23.9% (17/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Ryan Pepiot):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 26.5%
+- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-04 13:20:05
+- **Generado el:** 2025-09-05 13:20:22
 - **Fuente de datos:** season_data.json

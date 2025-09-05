@@ -1,0 +1,67 @@
+{
+  "game_pk": 776452,
+  "game_date": "2025-09-05",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "3/15"
+    },
+    "stats": {
+      "base": {
+        "value": 30.555555555555557,
+        "ratio": "22/72"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 25.39,
+    "pitcher": {
+      "name": "Shane Smith",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 28.985507246376812,
+        "ratio": "20/69"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.555555555555557,
+        "tendency": 20.0,
+        "combined": 26.33,
+        "pitcher_impact": 25.0,
+        "adjusted": 25.93
+      },
+      "away_team": {
+        "base": 28.985507246376812,
+        "tendency": 20.0,
+        "combined": 25.39,
+        "pitcher_impact": 20.0,
+        "adjusted": 23.77
+      },
+      "game_yrfi_probability": 43.54
+    },
+    "yrfi_probability": 43.54
+  },
+  "metadata": {
+    "generated_at": "2025-09-05T13:20:22.688592",
+    "data_source": "season_data.json"
+  }
+}

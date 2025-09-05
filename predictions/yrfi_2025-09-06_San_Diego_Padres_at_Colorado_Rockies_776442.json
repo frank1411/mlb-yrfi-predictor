@@ -1,0 +1,67 @@
+{
+  "game_pk": 776442,
+  "game_date": "2025-09-06",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "6/12"
+    },
+    "stats": {
+      "base": {
+        "value": 30.555555555555557,
+        "ratio": "22/72"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 23.83,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.38888888888889,
+        "ratio": "19/72"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.555555555555557,
+        "tendency": 6.666666666666667,
+        "combined": 21.0,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.7
+      },
+      "away_team": {
+        "base": 26.38888888888889,
+        "tendency": 20.0,
+        "combined": 23.83,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.68
+      },
+      "game_yrfi_probability": 51.97
+    },
+    "yrfi_probability": 51.97
+  },
+  "metadata": {
+    "generated_at": "2025-09-05T13:20:22.776584",
+    "data_source": "season_data.json"
+  }
+}

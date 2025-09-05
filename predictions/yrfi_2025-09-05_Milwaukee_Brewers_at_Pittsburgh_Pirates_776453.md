@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Pittsburgh Pirates
+# Análisis YRFI: Milwaukee Brewers @ Pittsburgh Pirates
 
-**Fecha:** 2025-09-04  
-**Lanzadores:** Blake Snell (V) vs Paul Skenes (L)
+**Fecha:** 2025-09-05  
+**Lanzadores:** Quinn Priester (V) vs Johan Oviedo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.7%
+**Probabilidad de que anoten en la primera entrada:** 71.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 31.0% (22/71 partidos)
+- **Estadística base YRFI:** 30.6% (22/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Blake Snell):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 43.0%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Quinn Priester):** 46.2% (6/13 partidos)
+- **Puntuación ajustada:** 41.6%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 30.9% (21/68 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 29.0% (20/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 0.0% (0/13 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Impacto del lanzador local (Pittsburgh Pirates - Johan Oviedo):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 51.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-04 13:20:05
+- **Generado el:** 2025-09-05 13:20:22
 - **Fuente de datos:** season_data.json

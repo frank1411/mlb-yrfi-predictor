@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Milwaukee Brewers
+# Análisis YRFI: Boston Red Sox @ Arizona Diamondbacks
 
-**Fecha:** 2025-09-04  
-**Lanzadores:** Ranger Suárez (V) vs Freddy Peralta (L)
+**Fecha:** 2025-09-06  
+**Lanzadores:** Payton Tolle (V) vs Eduardo Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.0%
+**Probabilidad de que anoten en la primera entrada:** 52.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 18.3% (13/71 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 46.4% (32/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Ranger Suárez):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 22.2%
+- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 30.7%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.4% (18/71 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 29.0% (20/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Freddy Peralta):** 7.1% (1/14 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 40.0% (4/10 partidos)
+- **Puntuación ajustada:** 31.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-04 13:20:05
+- **Generado el:** 2025-09-05 13:20:22
 - **Fuente de datos:** season_data.json
