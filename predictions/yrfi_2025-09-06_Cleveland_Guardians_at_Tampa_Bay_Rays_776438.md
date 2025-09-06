@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Tampa Bay Rays
 
-**Fecha:** 2025-09-05  
-**Lanzadores:** Gavin Williams (V) vs Griffin Jax (L)
+**Fecha:** 2025-09-06  
+**Lanzadores:** Tanner Bibee (V) vs Shane Baz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.0%
+**Probabilidad de que anoten en la primera entrada:** 48.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 35.2% (25/71 partidos)
+- **Estadística base YRFI:** 34.7% (25/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 34.8%
+- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 26.7% (4/15 partidos)
+- **Puntuación ajustada:** 35.6%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.9% (17/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.7%
+- **Estadística base YRFI:** 23.6% (17/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Shane Baz):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-05 13:20:22
+- **Generado el:** 2025-09-06 13:14:26
 - **Fuente de datos:** season_data.json

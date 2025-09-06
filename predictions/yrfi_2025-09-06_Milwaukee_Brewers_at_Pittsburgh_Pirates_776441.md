@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Pittsburgh Pirates
 
-**Fecha:** 2025-09-05  
-**Lanzadores:** Quinn Priester (V) vs Johan Oviedo (L)
+**Fecha:** 2025-09-06  
+**Lanzadores:** Brandon Woodruff (V) vs Mitch Keller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 71.7%
+**Probabilidad de que anoten en la primera entrada:** 53.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Quinn Priester):** 46.2% (6/13 partidos)
-- **Puntuación ajustada:** 41.6%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Brandon Woodruff):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 29.0% (20/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Johan Oviedo):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 51.5%
+- **Estadística base YRFI:** 30.0% (21/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 29.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-05 13:20:22
+- **Generado el:** 2025-09-06 13:14:26
 - **Fuente de datos:** season_data.json

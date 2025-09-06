@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Miami Marlins
+# Análisis YRFI: Houston Astros @ Texas Rangers
 
-**Fecha:** 2025-09-05  
-**Lanzadores:** Cristopher Sánchez (V) vs Valente Bellozo (L)
+**Fecha:** 2025-09-06  
+**Lanzadores:** Hunter Brown (V) vs Jacob deGrom (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.1%
+**Probabilidad de que anoten en la primera entrada:** 47.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 27.9% (19/68 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 24.3% (17/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Impacto del lanzador visitante (Houston Astros - Hunter Brown):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 24.1%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.0% (18/72 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 28.4% (19/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Valente Bellozo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 30.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-05 13:20:22
+- **Generado el:** 2025-09-06 13:14:26
 - **Fuente de datos:** season_data.json

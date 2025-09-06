@@ -1,0 +1,67 @@
+{
+  "game_pk": 776440,
+  "game_date": "2025-09-06",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "20/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 22.78,
+    "pitcher": {
+      "name": "Brad Lord",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 24.637681159420293,
+        "ratio": "17/69"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.57142857142857,
+        "tendency": 26.666666666666668,
+        "combined": 27.81,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 29.47
+      },
+      "away_team": {
+        "base": 24.637681159420293,
+        "tendency": 20.0,
+        "combined": 22.78,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.45
+      },
+      "game_yrfi_probability": 46.01
+    },
+    "yrfi_probability": 46.01
+  },
+  "metadata": {
+    "generated_at": "2025-09-06T13:14:26.634882",
+    "data_source": "season_data.json"
+  }
+}

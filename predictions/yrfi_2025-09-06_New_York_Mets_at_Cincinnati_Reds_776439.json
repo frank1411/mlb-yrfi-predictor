@@ -1,0 +1,67 @@
+{
+  "game_pk": 776439,
+  "game_date": "2025-09-06",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Brady Singer",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "30/72"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 30.78,
+    "pitcher": {
+      "name": "Jonah Tong",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 24.637681159420293,
+        "ratio": "17/69"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.66666666666667,
+        "tendency": 26.666666666666668,
+        "combined": 35.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.97
+      },
+      "away_team": {
+        "base": 24.637681159420293,
+        "tendency": 40.0,
+        "combined": 30.78,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 25.83
+      },
+      "game_yrfi_probability": 44.35
+    },
+    "yrfi_probability": 44.35
+  },
+  "metadata": {
+    "generated_at": "2025-09-06T13:14:26.683532",
+    "data_source": "season_data.json"
+  }
+}

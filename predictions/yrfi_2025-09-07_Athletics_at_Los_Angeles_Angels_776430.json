@@ -1,0 +1,67 @@
+{
+  "game_pk": 776430,
+  "game_date": "2025-09-07",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 32.857142857142854,
+        "ratio": "23/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 27.93,
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 28.767123287671232,
+        "ratio": "21/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.857142857142854,
+        "tendency": 33.33333333333333,
+        "combined": 33.05,
+        "pitcher_impact": 20.0,
+        "adjusted": 29.13
+      },
+      "away_team": {
+        "base": 28.767123287671232,
+        "tendency": 26.666666666666668,
+        "combined": 27.93,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 30.26
+      },
+      "game_yrfi_probability": 50.58
+    },
+    "yrfi_probability": 50.58
+  },
+  "metadata": {
+    "generated_at": "2025-09-06T13:14:26.802887",
+    "data_source": "season_data.json"
+  }
+}

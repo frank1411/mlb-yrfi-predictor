@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ St. Louis Cardinals
 
 **Fecha:** 2025-09-06  
-**Lanzadores:** Carson Seymour (V) vs Michael McGreevy (L)
+**Lanzadores:** Justin Verlander (V) vs Andre Pallante (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.0%
+**Probabilidad de que anoten en la primera entrada:** 58.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 20.8% (15/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Carson Seymour):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.3%
+- **Estadística base YRFI:** 20.5% (15/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Justin Verlander):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 21.4%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 32.4% (23/71 partidos)
+- **Estadística base YRFI:** 33.3% (24/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 40.4%
+- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 53.8% (7/13 partidos)
+- **Puntuación ajustada:** 47.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-05 13:20:22
+- **Generado el:** 2025-09-06 13:14:26
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776431,
+  "game_date": "2025-09-07",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "McCade Brown",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.136986301369863,
+        "ratio": "22/73"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 20.95,
+    "pitcher": {
+      "name": "Randy Vásquez",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 26.027397260273972,
+        "ratio": "19/73"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.136986301369863,
+        "tendency": 6.666666666666667,
+        "combined": 20.75,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 22.71
+      },
+      "away_team": {
+        "base": 26.027397260273972,
+        "tendency": 13.333333333333334,
+        "combined": 20.95,
+        "pitcher_impact": 100.0,
+        "adjusted": 44.66
+      },
+      "game_yrfi_probability": 57.23
+    },
+    "yrfi_probability": 57.23
+  },
+  "metadata": {
+    "generated_at": "2025-09-06T13:14:26.791716",
+    "data_source": "season_data.json"
+  }
+}

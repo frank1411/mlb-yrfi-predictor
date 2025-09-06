@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Detroit Tigers
 
-**Fecha:** 2025-09-05  
-**Lanzadores:** Shane Smith (V) vs Jack Flaherty (L)
+**Fecha:** 2025-09-06  
+**Lanzadores:** Martín Pérez (V) vs Tarik Skubal (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.5%
+**Probabilidad de que anoten en la primera entrada:** 45.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Shane Smith):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador visitante (Chicago White Sox - Martín Pérez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.3%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 29.0% (20/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Estadística base YRFI:** 30.0% (21/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 24.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-05 13:20:22
+- **Generado el:** 2025-09-06 13:14:26
 - **Fuente de datos:** season_data.json

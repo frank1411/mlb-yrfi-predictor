@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Kansas City Royals
 
-**Fecha:** 2025-09-05  
-**Lanzadores:** Por anunciar (V) vs Michael Wacha (L)
+**Fecha:** 2025-09-06  
+**Lanzadores:** Joe Ryan (V) vs Stephen Kolek (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.7%
+**Probabilidad de que anoten en la primera entrada:** 54.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 31.9% (23/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 34.0%
+- **Estadística base YRFI:** 31.5% (23/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 28.5%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 29.0% (20/69 partidos)
+- **Estadística base YRFI:** 28.6% (20/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/14 partidos)
-- **Puntuación ajustada:** 17.8%
+- **Impacto del lanzador local (Kansas City Royals - Stephen Kolek):** 60.0% (3/5 partidos)
+- **Puntuación ajustada:** 35.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-05 13:20:22
+- **Generado el:** 2025-09-06 13:14:26
 - **Fuente de datos:** season_data.json

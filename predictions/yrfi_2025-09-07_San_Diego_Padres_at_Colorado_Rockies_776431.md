@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Colorado Rockies
 
-**Fecha:** 2025-09-06  
-**Lanzadores:** Por anunciar (V) vs Kyle Freeland (L)
+**Fecha:** 2025-09-07  
+**Lanzadores:** Randy Vásquez (V) vs McCade Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 57.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 29.7%
+- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 22.7%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 26.4% (19/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 50.0% (6/12 partidos)
-- **Puntuación ajustada:** 31.7%
+- **Estadística base YRFI:** 26.0% (19/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - McCade Brown):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 44.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-05 13:20:22
+- **Generado el:** 2025-09-06 13:14:26
 - **Fuente de datos:** season_data.json

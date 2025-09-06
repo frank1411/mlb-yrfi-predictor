@@ -1,0 +1,67 @@
+{
+  "game_pk": 776435,
+  "game_date": "2025-09-06",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 30.136986301369863,
+        "ratio": "22/73"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 28.67,
+    "pitcher": {
+      "name": "Martín Pérez",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "21/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.136986301369863,
+        "tendency": 20.0,
+        "combined": 26.08,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 28.26
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 26.666666666666668,
+        "combined": 28.67,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 24.35
+      },
+      "game_yrfi_probability": 45.73
+    },
+    "yrfi_probability": 45.73
+  },
+  "metadata": {
+    "generated_at": "2025-09-06T13:14:26.669238",
+    "data_source": "season_data.json"
+  }
+}
