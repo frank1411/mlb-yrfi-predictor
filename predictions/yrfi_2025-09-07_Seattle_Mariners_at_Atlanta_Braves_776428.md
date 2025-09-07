@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Atlanta Braves
 
-**Fecha:** 2025-09-06  
-**Lanzadores:** Bryce Miller (V) vs Hurston Waldrep (L)
+**Fecha:** 2025-09-07  
+**Lanzadores:** Luis Castillo (V) vs Spencer Strider (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.9%
+**Probabilidad de que anoten en la primera entrada:** 47.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 31.3% (21/67 partidos)
+- **Estadística base YRFI:** 30.9% (21/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 42.9% (3/7 partidos)
-- **Puntuación ajustada:** 35.4%
+- **Impacto del lanzador visitante (Seattle Mariners - Luis Castillo):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 35.6% (26/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Hurston Waldrep):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.4%
+- **Estadística base YRFI:** 36.5% (27/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Spencer Strider):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 28.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:26
 - **Fuente de datos:** season_data.json

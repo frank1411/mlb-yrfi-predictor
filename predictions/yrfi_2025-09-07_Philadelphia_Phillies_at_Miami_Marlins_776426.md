@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Miami Marlins
 
-**Fecha:** 2025-09-06  
-**Lanzadores:** Jesús Luzardo (V) vs Sandy Alcantara (L)
+**Fecha:** 2025-09-07  
+**Lanzadores:** Taijuan Walker (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.7%
+**Probabilidad de que anoten en la primera entrada:** 54.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 27.5% (19/69 partidos)
+- **Estadística base YRFI:** 27.1% (19/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 29.8%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Taijuan Walker):** 40.0% (4/10 partidos)
+- **Puntuación ajustada:** 30.9%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
+- **Estadística base YRFI:** 27.0% (20/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Sandy Alcantara):** 33.3% (5/15 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Impacto del lanzador local (Miami Marlins - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 33.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:27
 - **Fuente de datos:** season_data.json

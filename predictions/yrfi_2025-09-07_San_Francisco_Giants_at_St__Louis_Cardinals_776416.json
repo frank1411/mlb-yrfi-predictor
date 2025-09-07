@@ -1,0 +1,67 @@
+{
+  "game_pk": 776416,
+  "game_date": "2025-09-07",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "4/18"
+    },
+    "stats": {
+      "base": {
+        "value": 20.27027027027027,
+        "ratio": "15/74"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 43.73,
+    "pitcher": {
+      "name": "Kai-Wei Teng",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.87671232876712,
+        "ratio": "24/73"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.27027027027027,
+        "tendency": 13.333333333333334,
+        "combined": 17.5,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 32.25
+      },
+      "away_team": {
+        "base": 32.87671232876712,
+        "tendency": 60.0,
+        "combined": 43.73,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 37.27
+      },
+      "game_yrfi_probability": 57.5
+    },
+    "yrfi_probability": 57.5
+  },
+  "metadata": {
+    "generated_at": "2025-09-07T12:28:27.056851",
+    "data_source": "season_data.json"
+  }
+}

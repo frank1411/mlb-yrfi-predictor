@@ -1,0 +1,67 @@
+{
+  "game_pk": 776417,
+  "game_date": "2025-09-07",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Tanner Gordon",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 29.72972972972973,
+        "ratio": "22/74"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 20.74,
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 25.675675675675674,
+        "ratio": "19/74"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.72972972972973,
+        "tendency": 0.0,
+        "combined": 17.84,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 23.2
+      },
+      "away_team": {
+        "base": 25.675675675675674,
+        "tendency": 13.333333333333334,
+        "combined": 20.74,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 23.09
+      },
+      "game_yrfi_probability": 40.93
+    },
+    "yrfi_probability": 40.93
+  },
+  "metadata": {
+    "generated_at": "2025-09-07T12:28:27.087253",
+    "data_source": "season_data.json"
+  }
+}

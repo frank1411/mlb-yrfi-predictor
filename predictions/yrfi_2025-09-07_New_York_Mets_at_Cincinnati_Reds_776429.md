@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Cincinnati Reds
 
-**Fecha:** 2025-09-06  
-**Lanzadores:** Jonah Tong (V) vs Brady Singer (L)
+**Fecha:** 2025-09-07  
+**Lanzadores:** Brandon Sproat (V) vs Hunter Greene (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.4%
+**Probabilidad de que anoten en la primera entrada:** 42.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 41.7% (30/72 partidos)
+- **Estadística base YRFI:** 41.1% (30/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Jonah Tong):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.0%
+- **Impacto del lanzador visitante (New York Mets - Brandon Sproat):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.7%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 24.6% (17/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 25.8%
+- **Estadística base YRFI:** 24.3% (17/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 12.5% (1/8 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:27
 - **Fuente de datos:** season_data.json

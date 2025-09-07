@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Baltimore Orioles
 
-**Fecha:** 2025-09-06  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Trevor Rogers (L)
+**Fecha:** 2025-09-07  
+**Lanzadores:** Clayton Kershaw (V) vs Tomoyuki Sugano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.7%
+**Probabilidad de que anoten en la primera entrada:** 50.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.1% (18/69 partidos)
+- **Estadística base YRFI:** 25.7% (18/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 26.7% (4/15 partidos)
-- **Puntuación ajustada:** 28.3%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Clayton Kershaw):** 33.3% (3/9 partidos)
+- **Puntuación ajustada:** 30.1%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 30.0% (21/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Estadística base YRFI:** 29.6% (21/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Tomoyuki Sugano):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:26
 - **Fuente de datos:** season_data.json

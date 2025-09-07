@@ -1,0 +1,67 @@
+{
+  "game_pk": 776414,
+  "game_date": "2025-09-07",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Mitch Farris",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.3943661971831,
+        "ratio": "23/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 31.17,
+    "pitcher": {
+      "name": "Luis Severino",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 29.72972972972973,
+        "ratio": "22/74"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.3943661971831,
+        "tendency": 33.33333333333333,
+        "combined": 32.77,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 27.94
+      },
+      "away_team": {
+        "base": 29.72972972972973,
+        "tendency": 33.33333333333333,
+        "combined": 31.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.82
+      },
+      "game_yrfi_probability": 43.66
+    },
+    "yrfi_probability": 43.66
+  },
+  "metadata": {
+    "generated_at": "2025-09-07T12:28:27.097384",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Arizona Diamondbacks
 
 **Fecha:** 2025-09-07  
-**Lanzadores:** Lucas Giolito (V) vs Brandon Pfaadt (L)
+**Lanzadores:** Brayan Bello (V) vs Ryne Nelson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.7%
+**Probabilidad de que anoten en la primera entrada:** 54.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 47.1% (33/70 partidos)
+- **Estadística base YRFI:** 46.5% (33/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Lucas Giolito):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 38.5%
+- **Impacto del lanzador visitante (Boston Red Sox - Brayan Bello):** 33.3% (3/9 partidos)
+- **Puntuación ajustada:** 40.7%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 28.6% (20/70 partidos)
+- **Estadística base YRFI:** 28.2% (20/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:27
 - **Fuente de datos:** season_data.json

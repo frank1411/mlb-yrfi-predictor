@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Chicago Cubs
 
-**Fecha:** 2025-09-06  
-**Lanzadores:** Brad Lord (V) vs Matthew Boyd (L)
+**Fecha:** 2025-09-07  
+**Lanzadores:** Andrew Alvarez (V) vs Drew Pomeranz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.0%
+**Probabilidad de que anoten en la primera entrada:** 46.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 28.6% (20/70 partidos)
+- **Estadística base YRFI:** 28.2% (20/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Brad Lord):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 29.5%
+- **Impacto del lanzador visitante (Washington Nationals - Andrew Alvarez):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 19.3%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 24.6% (17/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Estadística base YRFI:** 25.7% (18/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Drew Pomeranz):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 33.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:27
 - **Fuente de datos:** season_data.json

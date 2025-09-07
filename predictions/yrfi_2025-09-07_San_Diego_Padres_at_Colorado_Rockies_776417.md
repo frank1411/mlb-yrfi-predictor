@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Colorado Rockies
 
 **Fecha:** 2025-09-07  
-**Lanzadores:** Randy Vásquez (V) vs McCade Brown (L)
+**Lanzadores:** Dylan Cease (V) vs Tanner Gordon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.2%
+**Probabilidad de que anoten en la primera entrada:** 40.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 30.1% (22/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
+- **Impacto del lanzador visitante (San Diego Padres - Dylan Cease):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 23.2%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - McCade Brown):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 44.7%
+- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 28.6% (2/7 partidos)
+- **Puntuación ajustada:** 23.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:27
 - **Fuente de datos:** season_data.json

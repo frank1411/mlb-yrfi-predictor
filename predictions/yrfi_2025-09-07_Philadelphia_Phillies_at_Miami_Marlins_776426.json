@@ -1,0 +1,67 @@
+{
+  "game_pk": 776426,
+  "game_date": "2025-09-07",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.142857142857142,
+        "ratio": "19/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 26.88,
+    "pitcher": {
+      "name": "Taijuan Walker",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 27.027027027027028,
+        "ratio": "20/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.142857142857142,
+        "tendency": 26.666666666666668,
+        "combined": 26.95,
+        "pitcher_impact": 40.0,
+        "adjusted": 30.87
+      },
+      "away_team": {
+        "base": 27.027027027027028,
+        "tendency": 26.666666666666668,
+        "combined": 26.88,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.82
+      },
+      "game_yrfi_probability": 54.25
+    },
+    "yrfi_probability": 54.25
+  },
+  "metadata": {
+    "generated_at": "2025-09-07T12:28:27.036259",
+    "data_source": "season_data.json"
+  }
+}

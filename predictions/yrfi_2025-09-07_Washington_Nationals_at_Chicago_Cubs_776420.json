@@ -1,0 +1,67 @@
+{
+  "game_pk": 776420,
+  "game_date": "2025-09-07",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Drew Pomeranz",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.169014084507044,
+        "ratio": "20/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 26.1,
+    "pitcher": {
+      "name": "Andrew Alvarez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.71428571428571,
+        "ratio": "18/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.169014084507044,
+        "tendency": 26.666666666666668,
+        "combined": 27.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.3
+      },
+      "away_team": {
+        "base": 25.71428571428571,
+        "tendency": 26.666666666666668,
+        "combined": 26.1,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.27
+      },
+      "game_yrfi_probability": 46.15
+    },
+    "yrfi_probability": 46.15
+  },
+  "metadata": {
+    "generated_at": "2025-09-07T12:28:27.066749",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776429,
+  "game_date": "2025-09-07",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Hunter Greene",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 41.0958904109589,
+        "ratio": "30/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 27.9,
+    "pitcher": {
+      "name": "Brandon Sproat",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.285714285714285,
+        "ratio": "17/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.0958904109589,
+        "tendency": 26.666666666666668,
+        "combined": 35.32,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.73
+      },
+      "away_team": {
+        "base": 24.285714285714285,
+        "tendency": 33.33333333333333,
+        "combined": 27.9,
+        "pitcher_impact": 12.5,
+        "adjusted": 23.28
+      },
+      "game_yrfi_probability": 42.25
+    },
+    "yrfi_probability": 42.25
+  },
+  "metadata": {
+    "generated_at": "2025-09-07T12:28:27.019347",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ St. Louis Cardinals
 
-**Fecha:** 2025-09-06  
-**Lanzadores:** Justin Verlander (V) vs Andre Pallante (L)
+**Fecha:** 2025-09-07  
+**Lanzadores:** Kai-Wei Teng (V) vs Sonny Gray (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.3%
+**Probabilidad de que anoten en la primera entrada:** 57.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 20.5% (15/73 partidos)
+- **Estadística base YRFI:** 20.3% (15/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Justin Verlander):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 21.4%
+- **Impacto del lanzador visitante (San Francisco Giants - Kai-Wei Teng):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 32.2%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 33.3% (24/72 partidos)
+- **Estadística base YRFI:** 32.9% (24/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 53.8% (7/13 partidos)
-- **Puntuación ajustada:** 47.0%
+- **Impacto del lanzador local (St. Louis Cardinals - Sonny Gray):** 22.2% (4/18 partidos)
+- **Puntuación ajustada:** 37.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:27
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ New York Yankees
 
-**Fecha:** 2025-09-06  
-**Lanzadores:** Chris Bassitt (V) vs Luis Gil (L)
+**Fecha:** 2025-09-07  
+**Lanzadores:** Max Scherzer (V) vs Max Fried (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.5%
+**Probabilidad de que anoten en la primera entrada:** 54.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 32.9% (23/70 partidos)
+- **Estadística base YRFI:** 32.4% (23/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Chris Bassitt):** 50.0% (6/12 partidos)
-- **Puntuación ajustada:** 38.1%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 28.9%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 26.8% (19/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Luis Gil):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 36.2%
+- **Estadística base YRFI:** 26.4% (19/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Max Fried):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 35.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-06 13:14:26
+- **Generado el:** 2025-09-07 12:28:26
 - **Fuente de datos:** season_data.json
