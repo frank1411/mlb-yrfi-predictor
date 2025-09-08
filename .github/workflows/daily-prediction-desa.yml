@@ -36,6 +36,8 @@ jobs:
         # Remove old prediction files, but keep the directory and any .gitkeep file
         find predictions/ -type f -name '*.json' -delete
         find predictions/ -type f -name '*.md' -delete
+        # Remove old ML dataset
+        rm -f data/ml_datasets/yrfi_ml_dataset.csv
 
     - name: Run full prediction pipeline
       run: |
