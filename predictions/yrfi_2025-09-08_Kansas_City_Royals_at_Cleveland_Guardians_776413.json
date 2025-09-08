@@ -1,0 +1,67 @@
+{
+  "game_pk": 776413,
+  "game_date": "2025-09-08",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 30.88235294117647,
+        "ratio": "21/68"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 22.1,
+    "pitcher": {
+      "name": "Ryan Bergert",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/8"
+    },
+    "stats": {
+      "base": {
+        "value": 27.941176470588236,
+        "ratio": "19/68"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.88235294117647,
+        "tendency": 13.333333333333334,
+        "combined": 23.86,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.7
+      },
+      "away_team": {
+        "base": 27.941176470588236,
+        "tendency": 13.333333333333334,
+        "combined": 22.1,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 18.8
+      },
+      "game_yrfi_probability": 32.36
+    },
+    "yrfi_probability": 32.36
+  },
+  "metadata": {
+    "generated_at": "2025-09-08T13:23:56.353146",
+    "data_source": "season_data.json"
+  }
+}

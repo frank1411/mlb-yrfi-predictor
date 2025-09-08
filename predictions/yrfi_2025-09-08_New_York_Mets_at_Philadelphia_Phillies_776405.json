@@ -1,0 +1,67 @@
+{
+  "game_pk": 776405,
+  "game_date": "2025-09-08",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "3/6"
+    },
+    "stats": {
+      "base": {
+        "value": 38.23529411764706,
+        "ratio": "26/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 27.7,
+    "pitcher": {
+      "name": "Nolan McLean",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.943661971830984,
+        "ratio": "17/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.23529411764706,
+        "tendency": 26.666666666666668,
+        "combined": 33.61,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.53
+      },
+      "away_team": {
+        "base": 23.943661971830984,
+        "tendency": 33.33333333333333,
+        "combined": 27.7,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.39
+      },
+      "game_yrfi_probability": 59.67
+    },
+    "yrfi_probability": 59.67
+  },
+  "metadata": {
+    "generated_at": "2025-09-08T13:23:56.373672",
+    "data_source": "season_data.json"
+  }
+}

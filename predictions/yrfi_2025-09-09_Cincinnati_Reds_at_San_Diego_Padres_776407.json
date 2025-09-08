@@ -1,0 +1,67 @@
+{
+  "game_pk": 776407,
+  "game_date": "2025-09-09",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Yu Darvish",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "16/68"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 22.84,
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 20.28985507246377,
+        "ratio": "14/69"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.52941176470588,
+        "tendency": 13.333333333333334,
+        "combined": 19.45,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 22.85
+      },
+      "away_team": {
+        "base": 20.28985507246377,
+        "tendency": 26.666666666666668,
+        "combined": 22.84,
+        "pitcher_impact": 20.0,
+        "adjusted": 21.99
+      },
+      "game_yrfi_probability": 39.82
+    },
+    "yrfi_probability": 39.82
+  },
+  "metadata": {
+    "generated_at": "2025-09-08T13:23:56.413188",
+    "data_source": "season_data.json"
+  }
+}

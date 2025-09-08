@@ -1,0 +1,67 @@
+{
+  "game_pk": 776410,
+  "game_date": "2025-09-09",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Luis Morales",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.231884057971016,
+        "ratio": "25/69"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 27.33,
+    "pitcher": {
+      "name": "Garrett Crochet",
+      "yrfi_allowed": 13.333333333333334,
+      "yrfi_ratio": "2/15"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "20/72"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.231884057971016,
+        "tendency": 33.33333333333333,
+        "combined": 35.07,
+        "pitcher_impact": 13.333333333333334,
+        "adjusted": 28.55
+      },
+      "away_team": {
+        "base": 27.77777777777778,
+        "tendency": 26.666666666666668,
+        "combined": 27.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.13
+      },
+      "game_yrfi_probability": 42.22
+    },
+    "yrfi_probability": 42.22
+  },
+  "metadata": {
+    "generated_at": "2025-09-08T13:23:56.443511",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Arizona Diamondbacks
+# Análisis YRFI: Minnesota Twins @ Los Angeles Angels
 
-**Fecha:** 2025-09-07  
-**Lanzadores:** Brayan Bello (V) vs Ryne Nelson (L)
+**Fecha:** 2025-09-09  
+**Lanzadores:** Simeon Woods Richardson (V) vs Caden Dana (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.1%
+**Probabilidad de que anoten en la primera entrada:** 46.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 46.5% (33/71 partidos)
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 33.3% (24/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Brayan Bello):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 40.7%
+- **Impacto del lanzador visitante (Minnesota Twins - Simeon Woods Richardson):** 25.0% (2/8 partidos)
+- **Puntuación ajustada:** 32.7%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 28.2% (20/71 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 29.2% (21/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador local (Los Angeles Angels - Caden Dana):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 19.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-07 13:15:39
+- **Generado el:** 2025-09-08 13:23:56
 - **Fuente de datos:** season_data.json

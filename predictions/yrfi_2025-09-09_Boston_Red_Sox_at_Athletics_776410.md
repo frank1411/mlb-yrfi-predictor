@@ -1,7 +1,7 @@
-# Análisis YRFI: New York Mets @ Cincinnati Reds
+# Análisis YRFI: Boston Red Sox @ Athletics
 
-**Fecha:** 2025-09-07  
-**Lanzadores:** Brandon Sproat (V) vs Hunter Greene (L)
+**Fecha:** 2025-09-09  
+**Lanzadores:** Garrett Crochet (V) vs Luis Morales (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 41.1% (30/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Brandon Sproat):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.7%
-
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 24.3% (17/70 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 36.2% (25/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 12.5% (1/8 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador visitante (Boston Red Sox - Garrett Crochet):** 13.3% (2/15 partidos)
+- **Puntuación ajustada:** 28.6%
+
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 27.8% (20/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Athletics - Luis Morales):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-07 13:15:39
+- **Generado el:** 2025-09-08 13:23:56
 - **Fuente de datos:** season_data.json
