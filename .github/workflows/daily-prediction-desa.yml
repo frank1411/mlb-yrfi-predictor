@@ -41,7 +41,7 @@ jobs:
 
     - name: Run full prediction pipeline
       run: |
-        python scripts/initialize_season_data.py
+        python scripts/01_initialize_season_data.py
         python scripts/02_generar_pronosticos_jornada.py
         python scripts/03_generate_yrfi_dataset.py
         python scripts/05_predecir_desde_json.py
