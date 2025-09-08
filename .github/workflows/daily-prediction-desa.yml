@@ -31,6 +31,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
+    - name: Clean up old predictions
+      run: |
+        # Remove old prediction files, but keep the directory and any .gitkeep file
+        find predictions/ -type f -name '*.json' -delete
+        find predictions/ -type f -name '*.md' -delete
+
     - name: Run full prediction pipeline
       run: |
         python scripts/01_initialize_season_data.py
