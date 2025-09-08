@@ -1,0 +1,61 @@
+name: Daily YRFI Prediction (Desa)
+
+on:
+  schedule:
+    # Ejecutar todos los días a las 11:00 AM UTC (7:00 AM hora de Nueva York)
+    - cron: '30 9 * * *'
+  # También permitir ejecución manual
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  predict:
+    name: Generate YRFI Predictions for Desa
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout desa branch
+      uses: actions/checkout@v3
+      with:
+        ref: 'desa'
+    
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run full prediction pipeline
+      run: |
+        python scripts/01_initialize_season_data.py
+        python scripts/02_generar_pronosticos_jornada.py
+        python scripts/03_generate_yrfi_dataset.py
+        python scripts/05_predecir_desde_json.py
+    
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        
+        # Add all new/modified files in predictions and data
+        git add -f predictions/
+        git add -f data/
+        
+        if git diff --staged --quiet; then
+          echo "No new predictions to commit."
+          exit 0
+        fi
+        
+        git commit -m "Auto (desa): Update YRFI predictions for $(date +'%Y-%m-%d')"
+        
+        git push origin HEAD:desa
