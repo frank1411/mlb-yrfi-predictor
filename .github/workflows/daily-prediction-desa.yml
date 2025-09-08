@@ -36,7 +36,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         # Instalar dependencias adicionales
-        pip install tqdm pandas matplotlib seaborn
+        pip install tqdm pandas matplotlib seaborn joblib scikit-learn
     
     - name: Clean up old predictions
       run: |
