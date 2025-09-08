@@ -1,8 +1,7 @@
 name: Daily YRFI Prediction (Desa)
-
 on:
   schedule:
-    # Ejecutar todos los días a las 11:00 AM UTC (7:00 AM hora de Nueva York)
+    # Ejecutar todos los días a las 9:30 AM UTC (5:30 AM hora de Nueva York)
     - cron: '30 9 * * *'
   # También permitir ejecución manual
   workflow_dispatch:
