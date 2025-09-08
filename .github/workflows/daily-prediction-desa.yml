@@ -1,0 +1,76 @@
+name: Daily YRFI Prediction (Desa)
+on:
+  schedule:
+    # Ejecutar todos los días a las 9:30 AM UTC (5:30 AM hora de Nueva York)
+    - cron: '30 9 * * *'
+  # También permitir ejecución manual
+  workflow_dispatch:
+    inputs:
+      target-branch:
+        description: 'Rama objetivo para ejecutar el workflow (default: desa)'
+        required: false
+        default: 'desa'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  predict:
+    name: Generate YRFI Predictions for Desa
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout desa branch
+      uses: actions/checkout@v3
+      with:
+        ref: ${{ github.event.inputs.target-branch || 'desa' }}
+    
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Clean up old predictions
+      run: |
+        # Remove old prediction files, but keep the directory and any .gitkeep file
+        find predictions/ -type f -name '*.json' -delete
+        find predictions/ -type f -name '*.md' -delete
+        # Remove old ML dataset
+        rm -f data/ml_datasets/yrfi_ml_dataset.csv
+
+    - name: Run full prediction pipeline
+      run: |
+        python scripts/01_initialize_season_data.py
+        python scripts/02_generar_pronosticos_jornada.py
+        python scripts/03_generate_yrfi_dataset.py
+        python scripts/05_predecir_desde_json.py
+    
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        
+        # Configurar el remote con el token de autenticación
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        
+        # Agregar solo los archivos de predicciones y datos
+        git add -f predictions/
+        git add -f data/
+        
+        # Verificar si hay cambios para hacer commit
+        if git diff --staged --quiet; then
+          echo "No hay cambios para hacer commit"
+          exit 0
+        fi
+        
+        # Hacer commit y push
+        git commit -m "Auto: Actualizar predicciones YRFI $(date +'%Y-%m-%d')"
+        git push origin HEAD:${{ github.event.inputs.target-branch || 'desa' }}
