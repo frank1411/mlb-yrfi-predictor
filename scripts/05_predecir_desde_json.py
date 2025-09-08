@@ -92,9 +92,9 @@ def predict_daily_games(
     
     # Mapeo de modelos reales a los nombres usados en el script
     model_mapping = {
-        'partido': '../models/modelo_yrfi.pkl',
-        'local': '../models/modelo_local.pkl',
-        'visitante': '../models/modelo_visitante.pkl'
+        'partido': os.path.join(models_folder, 'modelo_yrfi.pkl'),
+        'local': os.path.join(models_folder, 'modelo_local.pkl'),
+        'visitante': os.path.join(models_folder, 'modelo_visitante.pkl')
     }
     
     # Cargar los modelos reales

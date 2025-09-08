@@ -1,0 +1,67 @@
+{
+  "game_pk": 776400,
+  "game_date": "2025-09-09",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 20.588235294117645,
+        "ratio": "14/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 19.07,
+    "pitcher": {
+      "name": "Miles Mikolas",
+      "yrfi_allowed": 38.46153846153847,
+      "yrfi_ratio": "5/13"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "18/69"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.588235294117645,
+        "tendency": 26.666666666666668,
+        "combined": 23.93,
+        "pitcher_impact": 38.46153846153847,
+        "adjusted": 29.02
+      },
+      "away_team": {
+        "base": 26.08695652173913,
+        "tendency": 13.333333333333334,
+        "combined": 19.07,
+        "pitcher_impact": 25.0,
+        "adjusted": 21.15
+      },
+      "game_yrfi_probability": 44.03
+    },
+    "yrfi_probability": 44.03
+  },
+  "metadata": {
+    "generated_at": "2025-09-08T12:18:25.037741",
+    "data_source": "season_data.json"
+  }
+}

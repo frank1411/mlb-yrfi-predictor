@@ -1,0 +1,67 @@
+{
+  "game_pk": 776411,
+  "game_date": "2025-09-09",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Caden Dana",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "24/72"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 27.79,
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "2/8"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "21/72"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 37.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 32.8
+      },
+      "away_team": {
+        "base": 29.166666666666668,
+        "tendency": 26.666666666666668,
+        "combined": 27.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.06
+      },
+      "game_yrfi_probability": 44.94
+    },
+    "yrfi_probability": 44.94
+  },
+  "metadata": {
+    "generated_at": "2025-09-08T12:18:25.027130",
+    "data_source": "season_data.json"
+  }
+}

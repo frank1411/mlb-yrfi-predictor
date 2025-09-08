@@ -1,0 +1,67 @@
+{
+  "game_pk": 776412,
+  "game_date": "2025-09-08",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 58.333333333333336,
+      "yrfi_ratio": "7/12"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "21/69"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 28.61,
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 30.985915492957744,
+        "ratio": "22/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.434782608695656,
+        "tendency": 33.33333333333333,
+        "combined": 32.03,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 33.55
+      },
+      "away_team": {
+        "base": 30.985915492957744,
+        "tendency": 26.666666666666668,
+        "combined": 28.61,
+        "pitcher_impact": 58.333333333333336,
+        "adjusted": 39.01
+      },
+      "game_yrfi_probability": 59.47
+    },
+    "yrfi_probability": 59.47
+  },
+  "metadata": {
+    "generated_at": "2025-09-08T12:18:25.015718",
+    "data_source": "season_data.json"
+  }
+}
