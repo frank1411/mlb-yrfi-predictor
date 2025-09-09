@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ Seattle Mariners
+# Análisis YRFI: Colorado Rockies @ Los Angeles Dodgers
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Miles Mikolas (V) vs Bryan Woo (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Germán Márquez (V) vs Emmet Sheehan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.0%
+**Probabilidad de que anoten en la primera entrada:** 40.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 20.6% (14/68 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 38.9% (28/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Miles Mikolas):** 38.5% (5/13 partidos)
-- **Puntuación ajustada:** 29.0%
+- **Impacto del lanzador visitante (Colorado Rockies - Germán Márquez):** 50.0% (6/12 partidos)
+- **Puntuación ajustada:** 38.4%
 
-### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 26.1% (18/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 21.1%
+### Colorado Rockies (Visitante)
+- **Estadística base YRFI:** 13.0% (9/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 3.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 22:45:00
+- **Generado el:** 2025-09-09 09:40:50
 - **Fuente de datos:** season_data.json

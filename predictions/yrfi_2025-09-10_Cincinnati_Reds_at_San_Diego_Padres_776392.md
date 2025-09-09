@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Philadelphia Phillies
+# Análisis YRFI: Cincinnati Reds @ San Diego Padres
 
-**Fecha:** 2025-09-08  
-**Lanzadores:** Nolan McLean (V) vs Aaron Nola (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Zack Littell (V) vs Michael King (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.7%
+**Probabilidad de que anoten en la primera entrada:** 42.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 38.2% (26/68 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.2%
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 23.2% (16/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 26.7% (4/15 partidos)
+- **Puntuación ajustada:** 20.9%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.9% (17/71 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 21.4% (15/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (3/6 partidos)
-- **Puntuación ajustada:** 36.4%
+- **Impacto del lanzador local (San Diego Padres - Michael King):** 25.0% (2/8 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 22:45:00
+- **Generado el:** 2025-09-09 09:40:50
 - **Fuente de datos:** season_data.json

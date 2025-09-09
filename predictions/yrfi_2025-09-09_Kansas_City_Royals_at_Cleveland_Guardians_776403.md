@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Miami Marlins
+# Análisis YRFI: Kansas City Royals @ Cleveland Guardians
 
-**Fecha:** 2025-09-08  
-**Lanzadores:** Cade Cavalli (V) vs Janson Junk (L)
+**Fecha:** 2025-09-09  
+**Lanzadores:** Noah Cameron (V) vs Joey Cantillo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.3%
+**Probabilidad de que anoten en la primera entrada:** 39.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 28.2% (20/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.8%
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 31.9% (22/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 20.4%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.4% (18/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 28.6%
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 27.5% (19/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 22:45:00
+- **Generado el:** 2025-09-09 09:40:50
 - **Fuente de datos:** season_data.json

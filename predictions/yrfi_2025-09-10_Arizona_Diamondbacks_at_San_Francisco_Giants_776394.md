@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Los Angeles Angels
+# Análisis YRFI: Arizona Diamondbacks @ San Francisco Giants
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Simeon Woods Richardson (V) vs Caden Dana (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Zac Gallen (V) vs Robbie Ray (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.9%
+**Probabilidad de que anoten en la primera entrada:** 59.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 33.3% (24/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Simeon Woods Richardson):** 25.0% (2/8 partidos)
-- **Puntuación ajustada:** 32.8%
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 30.0% (21/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Zac Gallen):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 42.7%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 29.2% (21/72 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 26.0% (19/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Caden Dana):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 18.1%
+- **Impacto del lanzador local (San Francisco Giants - Robbie Ray):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 22:45:00
+- **Generado el:** 2025-09-09 09:40:50
 - **Fuente de datos:** season_data.json

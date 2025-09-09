@@ -1,7 +1,7 @@
-# Análisis YRFI: Milwaukee Brewers @ Texas Rangers
+# Análisis YRFI: Tampa Bay Rays @ Chicago White Sox
 
 **Fecha:** 2025-09-09  
-**Lanzadores:** Jose Quintana (V) vs Jacob Latz (L)
+**Lanzadores:** Por anunciar (V) vs Yoendrys Gómez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 23.6% (17/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Jose Quintana):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 23.6%
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 28.2% (20/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 35.3%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob Latz):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 43.1%
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 23.2% (16/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Yoendrys Gómez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 32.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 22:45:00
+- **Generado el:** 2025-09-09 09:40:50
 - **Fuente de datos:** season_data.json

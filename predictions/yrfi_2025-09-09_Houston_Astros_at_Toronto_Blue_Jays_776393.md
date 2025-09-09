@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Atlanta Braves
+# Análisis YRFI: Houston Astros @ Toronto Blue Jays
 
-**Fecha:** 2025-09-08  
-**Lanzadores:** Shota Imanaga (V) vs Bryce Elder (L)
+**Fecha:** 2025-09-09  
+**Lanzadores:** Luis Garcia (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.5%
+**Probabilidad de que anoten en la primera entrada:** 48.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
+### Toronto Blue Jays (Local)
 - **Estadística base YRFI:** 30.4% (21/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 36.4% (4/11 partidos)
-- **Puntuación ajustada:** 33.5%
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Luis Garcia):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 23.2%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 31.0% (22/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 58.3% (7/12 partidos)
-- **Puntuación ajustada:** 39.0%
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 27.5% (19/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 32.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 22:45:00
+- **Generado el:** 2025-09-09 09:40:50
 - **Fuente de datos:** season_data.json

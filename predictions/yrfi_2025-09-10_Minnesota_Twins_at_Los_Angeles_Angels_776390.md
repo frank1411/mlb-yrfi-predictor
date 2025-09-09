@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Athletics
+# Análisis YRFI: Minnesota Twins @ Los Angeles Angels
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Garrett Crochet (V) vs Luis Morales (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Zebby Matthews (V) vs Kyle Hendricks (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.0%
+**Probabilidad de que anoten en la primera entrada:** 55.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 36.2% (25/69 partidos)
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 32.9% (24/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Garrett Crochet):** 13.3% (2/15 partidos)
-- **Puntuación ajustada:** 27.2%
+- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 42.9% (3/7 partidos)
+- **Puntuación ajustada:** 36.5%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 27.8% (20/72 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 28.8% (21/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - Luis Morales):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Impacto del lanzador local (Los Angeles Angels - Kyle Hendricks):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 30.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 22:45:00
+- **Generado el:** 2025-09-09 09:40:50
 - **Fuente de datos:** season_data.json
