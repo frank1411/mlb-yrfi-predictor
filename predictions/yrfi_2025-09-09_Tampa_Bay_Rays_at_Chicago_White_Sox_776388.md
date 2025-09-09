@@ -1,19 +1,19 @@
 # Análisis YRFI: Tampa Bay Rays @ Chicago White Sox
 
 **Fecha:** 2025-09-09  
-**Lanzadores:** Por anunciar (V) vs Yoendrys Gómez (L)
+**Lanzadores:** Adrian Houser (V) vs Yoendrys Gómez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.6%
+**Probabilidad de que anoten en la primera entrada:** 50.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
 - **Estadística base YRFI:** 28.2% (20/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 34.3%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Adrian Houser):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 28.3%
 
 ### Tampa Bay Rays (Visitante)
 - **Estadística base YRFI:** 23.2% (16/69 partidos)
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 13:25:15
+- **Generado el:** 2025-09-09 20:05:00
 - **Fuente de datos:** season_data.json

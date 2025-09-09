@@ -25,9 +25,9 @@
     "name": "Tampa Bay Rays",
     "combined_yrfi_pct": 29.91,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Adrian Houser",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
     },
     "stats": {
       "base": {
@@ -46,8 +46,8 @@
         "base": 28.169014084507044,
         "tendency": 26.666666666666668,
         "combined": 27.57,
-        "pitcher_impact": 50.0,
-        "adjusted": 34.3
+        "pitcher_impact": 30.0,
+        "adjusted": 28.3
       },
       "away_team": {
         "base": 23.18840579710145,
@@ -56,12 +56,12 @@
         "pitcher_impact": 33.33333333333333,
         "adjusted": 30.94
       },
-      "game_yrfi_probability": 54.63
+      "game_yrfi_probability": 50.48
     },
-    "yrfi_probability": 54.63
+    "yrfi_probability": 50.48
   },
   "metadata": {
-    "generated_at": "2025-09-09T13:25:15.091503",
+    "generated_at": "2025-09-09T20:05:00.679349",
     "data_source": "season_data.json"
   }
 }
