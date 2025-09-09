@@ -1,7 +1,7 @@
-# Análisis YRFI: Colorado Rockies @ Los Angeles Dodgers
+# Análisis YRFI: New York Mets @ Philadelphia Phillies
 
 **Fecha:** 2025-09-09  
-**Lanzadores:** Chase Dollander (V) vs Por anunciar (L)
+**Lanzadores:** Sean Manaea (V) vs Ranger Suárez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 39.4% (28/71 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 37.7% (26/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Chase Dollander):** 44.4% (4/9 partidos)
-- **Puntuación ajustada:** 37.4%
+- **Impacto del lanzador visitante (New York Mets - Sean Manaea):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 38.3%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 13.2% (9/68 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.6%
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 23.6% (17/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Ranger Suárez):** 0.0% (0/12 partidos)
+- **Puntuación ajustada:** 19.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 21:45:28
+- **Generado el:** 2025-09-09 13:25:15
 - **Fuente de datos:** season_data.json

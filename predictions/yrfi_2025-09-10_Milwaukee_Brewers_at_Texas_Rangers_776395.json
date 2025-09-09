@@ -1,0 +1,67 @@
+{
+  "game_pk": 776395,
+  "game_date": "2025-09-10",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 23.28767123287671,
+        "ratio": "17/73"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 36.75,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.136986301369863,
+        "ratio": "22/73"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.28767123287671,
+        "tendency": 20.0,
+        "combined": 21.97,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.38
+      },
+      "away_team": {
+        "base": 30.136986301369863,
+        "tendency": 46.666666666666664,
+        "combined": 36.75,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 30.72
+      },
+      "game_yrfi_probability": 51.77
+    },
+    "yrfi_probability": 51.77
+  },
+  "metadata": {
+    "generated_at": "2025-09-09T13:25:15.098036",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,13 +1,13 @@
 {
-  "game_pk": 776411,
+  "game_pk": 776398,
   "game_date": "2025-09-09",
   "home_team": {
-    "id": "108",
-    "name": "Los Angeles Angels",
+    "id": "147",
+    "name": "New York Yankees",
     "pitcher": {
-      "name": "Caden Dana",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "Will Warren",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
     },
     "stats": {
       "base": {
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "142",
-    "name": "Minnesota Twins",
-    "combined_yrfi_pct": 28.17,
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 24.58,
     "pitcher": {
-      "name": "Simeon Woods Richardson",
+      "name": "Casey Mize",
       "yrfi_allowed": 25.0,
-      "yrfi_ratio": "2/8"
+      "yrfi_ratio": "3/12"
     },
     "stats": {
       "base": {
-        "value": 29.166666666666668,
-        "ratio": "21/72"
+        "value": 23.18840579710145,
+        "ratio": "16/69"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -50,18 +50,18 @@
         "adjusted": 32.7
       },
       "away_team": {
-        "base": 29.166666666666668,
+        "base": 23.18840579710145,
         "tendency": 26.666666666666668,
-        "combined": 28.17,
-        "pitcher_impact": 0.0,
-        "adjusted": 19.72
+        "combined": 24.58,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 21.49
       },
-      "game_yrfi_probability": 45.97
+      "game_yrfi_probability": 47.16
     },
-    "yrfi_probability": 45.97
+    "yrfi_probability": 47.16
   },
   "metadata": {
-    "generated_at": "2025-09-08T21:45:28.176135",
+    "generated_at": "2025-09-09T13:25:15.068491",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Philadelphia Phillies
+# Análisis YRFI: Boston Red Sox @ Athletics
 
-**Fecha:** 2025-09-08  
-**Lanzadores:** Nolan McLean (V) vs Aaron Nola (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Dustin May (V) vs Jeffrey Springs (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.7%
+**Probabilidad de que anoten en la primera entrada:** 59.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 38.2% (26/68 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 35.7% (25/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.5%
+- **Impacto del lanzador visitante (Boston Red Sox - Dustin May):** 45.5% (5/11 partidos)
+- **Puntuación ajustada:** 36.1%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.9% (17/71 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 28.8% (21/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (3/6 partidos)
-- **Puntuación ajustada:** 34.4%
+- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 50.0% (6/12 partidos)
+- **Puntuación ajustada:** 36.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 21:45:28
+- **Generado el:** 2025-09-09 13:25:15
 - **Fuente de datos:** season_data.json

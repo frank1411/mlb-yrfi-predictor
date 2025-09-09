@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Atlanta Braves
+# Análisis YRFI: Minnesota Twins @ Los Angeles Angels
 
-**Fecha:** 2025-09-08  
-**Lanzadores:** Shota Imanaga (V) vs Bryce Elder (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Zebby Matthews (V) vs Kyle Hendricks (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.5%
+**Probabilidad de que anoten en la primera entrada:** 55.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 30.4% (21/69 partidos)
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 32.9% (24/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 36.4% (4/11 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 42.9% (3/7 partidos)
+- **Puntuación ajustada:** 36.0%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 31.0% (22/71 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 28.8% (21/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 58.3% (7/12 partidos)
-- **Puntuación ajustada:** 38.0%
+- **Impacto del lanzador local (Los Angeles Angels - Kyle Hendricks):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 30.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 21:45:28
+- **Generado el:** 2025-09-09 13:25:15
 - **Fuente de datos:** season_data.json

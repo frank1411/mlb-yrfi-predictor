@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Los Angeles Angels
+# Análisis YRFI: Detroit Tigers @ New York Yankees
 
 **Fecha:** 2025-09-09  
-**Lanzadores:** Simeon Woods Richardson (V) vs Caden Dana (L)
+**Lanzadores:** Casey Mize (V) vs Will Warren (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.0%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
+### New York Yankees (Local)
 - **Estadística base YRFI:** 33.3% (24/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Simeon Woods Richardson):** 25.0% (2/8 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 25.0% (3/12 partidos)
 - **Puntuación ajustada:** 32.7%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 29.2% (21/72 partidos)
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 23.2% (16/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Caden Dana):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 19.7%
+- **Impacto del lanzador local (New York Yankees - Will Warren):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 21:45:28
+- **Generado el:** 2025-09-09 13:25:15
 - **Fuente de datos:** season_data.json

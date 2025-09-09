@@ -1,18 +1,18 @@
 {
-  "game_pk": 776405,
-  "game_date": "2025-09-08",
+  "game_pk": 776404,
+  "game_date": "2025-09-09",
   "home_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Aaron Nola",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "3/6"
+      "name": "Ranger Suárez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/12"
     },
     "stats": {
       "base": {
-        "value": 38.23529411764706,
-        "ratio": "26/68"
+        "value": 37.68115942028986,
+        "ratio": "26/69"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "121",
     "name": "New York Mets",
-    "combined_yrfi_pct": 27.7,
+    "combined_yrfi_pct": 27.5,
     "pitcher": {
-      "name": "Nolan McLean",
+      "name": "Sean Manaea",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 23.943661971830984,
-        "ratio": "17/71"
+        "value": 23.61111111111111,
+        "ratio": "17/72"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 38.23529411764706,
+        "base": 37.68115942028986,
         "tendency": 26.666666666666668,
-        "combined": 33.61,
+        "combined": 33.28,
         "pitcher_impact": 50.0,
-        "adjusted": 38.53
+        "adjusted": 38.29
       },
       "away_team": {
-        "base": 23.943661971830984,
+        "base": 23.61111111111111,
         "tendency": 33.33333333333333,
-        "combined": 27.7,
-        "pitcher_impact": 50.0,
-        "adjusted": 34.39
+        "combined": 27.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.25
       },
-      "game_yrfi_probability": 59.67
+      "game_yrfi_probability": 50.17
     },
-    "yrfi_probability": 59.67
+    "yrfi_probability": 50.17
   },
   "metadata": {
-    "generated_at": "2025-09-08T21:45:28.134189",
+    "generated_at": "2025-09-09T13:25:15.058254",
     "data_source": "season_data.json"
   }
 }

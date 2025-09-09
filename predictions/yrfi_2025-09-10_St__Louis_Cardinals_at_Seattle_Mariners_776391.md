@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Seattle Mariners
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Miles Mikolas (V) vs Bryan Woo (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Matthew Liberatore (V) vs George Kirby (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.7%
+**Probabilidad de que anoten en la primera entrada:** 39.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 20.6% (14/68 partidos)
+- **Estadística base YRFI:** 20.3% (14/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Miles Mikolas):** 38.5% (5/13 partidos)
-- **Puntuación ajustada:** 27.6%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 26.7%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 26.1% (18/69 partidos)
+- **Estadística base YRFI:** 25.7% (18/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 22.2%
+- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 17.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 21:45:28
+- **Generado el:** 2025-09-09 13:25:15
 - **Fuente de datos:** season_data.json

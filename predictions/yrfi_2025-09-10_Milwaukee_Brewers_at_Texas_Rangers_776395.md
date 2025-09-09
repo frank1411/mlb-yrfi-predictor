@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Texas Rangers
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Jose Quintana (V) vs Jacob Latz (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Por anunciar (V) vs Jack Leiter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.9%
+**Probabilidad de que anoten en la primera entrada:** 51.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 23.6% (17/72 partidos)
+- **Estadística base YRFI:** 23.3% (17/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Jose Quintana):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 23.7%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 30.4%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob Latz):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 40.9%
+- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 30.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 21:45:28
+- **Generado el:** 2025-09-09 13:25:15
 - **Fuente de datos:** season_data.json

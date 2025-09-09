@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Miami Marlins
+# Análisis YRFI: Tampa Bay Rays @ Chicago White Sox
 
-**Fecha:** 2025-09-08  
-**Lanzadores:** Cade Cavalli (V) vs Janson Junk (L)
+**Fecha:** 2025-09-09  
+**Lanzadores:** Por anunciar (V) vs Yoendrys Gómez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 54.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
+### Chicago White Sox (Local)
 - **Estadística base YRFI:** 28.2% (20/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.2%
-
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.4% (18/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 34.3%
+
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 23.2% (16/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Yoendrys Gómez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-08 21:45:28
+- **Generado el:** 2025-09-09 13:25:15
 - **Fuente de datos:** season_data.json
