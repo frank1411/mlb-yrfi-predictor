@@ -25,9 +25,9 @@
     "name": "Milwaukee Brewers",
     "combined_yrfi_pct": 39.23,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Chad Patrick",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
     },
     "stats": {
       "base": {
@@ -46,8 +46,8 @@
         "base": 23.28767123287671,
         "tendency": 20.0,
         "combined": 21.48,
-        "pitcher_impact": 50.0,
-        "adjusted": 31.46
+        "pitcher_impact": 37.5,
+        "adjusted": 27.09
       },
       "away_team": {
         "base": 30.136986301369863,
@@ -56,12 +56,12 @@
         "pitcher_impact": 16.666666666666664,
         "adjusted": 31.33
       },
-      "game_yrfi_probability": 52.93
+      "game_yrfi_probability": 49.93
     },
-    "yrfi_probability": 52.93
+    "yrfi_probability": 49.93
   },
   "metadata": {
-    "generated_at": "2025-09-09T09:40:50.244377",
+    "generated_at": "2025-09-09T20:25:51.468569",
     "data_source": "season_data.json"
   }
 }

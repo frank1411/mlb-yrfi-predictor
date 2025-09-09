@@ -8,14 +8,13 @@
 
 | Partido | Prob. YRFI | Recomendación |
 |---------|------------|---------------|
-| Athletics vs Boston Red Sox | 60.1% | ✅ APUESTA |
+| Athletics vs Boston Red Sox | 61.1% | ✅ APUESTA |
 | San Francisco Giants vs Arizona Diamondbacks | 59.7% | ✅ APUESTA |
-| Chicago White Sox vs Tampa Bay Rays | 56.5% | ✅ APUESTA |
 | Los Angeles Angels vs Minnesota Twins | 55.9% | ✅ APUESTA |
-| Texas Rangers vs Milwaukee Brewers | 52.9% | ✅ APUESTA |
+| Chicago White Sox vs Tampa Bay Rays | 51.8% | 🟡 CERCANO |
 | Atlanta Braves vs Chicago Cubs | 51.2% | 🟡 CERCANO |
+| Texas Rangers vs Milwaukee Brewers | 49.9% | 🟡 CERCANO |
 | Philadelphia Phillies vs New York Mets | 49.7% | 🟡 CERCANO |
-| Toronto Blue Jays vs Houston Astros | 48.3% | 🟡 CERCANO |
 | New York Yankees vs Detroit Tigers | 47.1% | ❌ NO APUESTA |
 | Miami Marlins vs Washington Nationals | 44.1% | ❌ NO APUESTA |
 | San Diego Padres vs Cincinnati Reds | 42.2% | ❌ NO APUESTA |
@@ -23,6 +22,7 @@
 | Los Angeles Dodgers vs Colorado Rockies | 40.8% | ❌ NO APUESTA |
 | Cleveland Guardians vs Kansas City Royals | 39.9% | ❌ NO APUESTA |
 | Seattle Mariners vs St. Louis Cardinals | 39.6% | ❌ NO APUESTA |
+| Toronto Blue Jays vs Houston Astros | 34.9% | ❌ NO APUESTA |
 
 ## ⚾ EQUIPOS CON MAYOR PROBABILIDAD DE ANOTAR EN 1RA ENTRADA
 
@@ -33,18 +33,17 @@
 | Los Angeles Dodgers | 38.4% | 🏠 Local 🔴 Baja |
 | Philadelphia Phillies | 38.1% | 🏠 Local 🔴 Baja |
 | Boston Red Sox | 37.8% | ✈️ Visitante 🔴 Baja |
+| Athletics | 37.5% | 🏠 Local 🔴 Baja |
 | Los Angeles Angels | 36.5% | 🏠 Local 🔴 Baja |
-| Athletics | 35.9% | 🏠 Local 🔴 Baja |
-| Chicago White Sox | 35.3% | 🏠 Local 🔴 Baja |
 | Miami Marlins | 34.6% | 🏠 Local 🔴 Baja |
 | New York Yankees | 32.8% | 🏠 Local 🔴 Baja |
 | Tampa Bay Rays | 32.8% | ✈️ Visitante 🔴 Baja |
-| Houston Astros | 32.7% | ✈️ Visitante 🔴 Baja |
-| Texas Rangers | 31.5% | 🏠 Local 🔴 Baja |
 | Milwaukee Brewers | 31.3% | ✈️ Visitante 🔴 Baja |
 | Minnesota Twins | 30.4% | ✈️ Visitante 🔴 Baja |
 | Arizona Diamondbacks | 29.6% | ✈️ Visitante 🔴 Baja |
+| Chicago White Sox | 28.3% | 🏠 Local 🔴 Baja |
 | Seattle Mariners | 28.0% | 🏠 Local 🔴 Baja |
+| Texas Rangers | 27.1% | 🏠 Local 🔴 Baja |
 | Cincinnati Reds | 26.9% | ✈️ Visitante 🔴 Baja |
 | Baltimore Orioles | 25.2% | 🏠 Local 🔴 Baja |
 | Kansas City Royals | 24.5% | ✈️ Visitante 🔴 Baja |
@@ -56,14 +55,15 @@
 | Chicago Cubs | 20.0% | ✈️ Visitante 🔴 Baja |
 | New York Mets | 18.8% | ✈️ Visitante 🔴 Baja |
 | St. Louis Cardinals | 16.2% | ✈️ Visitante 🔴 Baja |
+| Houston Astros | 15.2% | ✈️ Visitante 🔴 Baja |
 | Washington Nationals | 14.5% | ✈️ Visitante 🔴 Baja |
 | Colorado Rockies | 3.8% | ✈️ Visitante 🔴 Baja |
 
 ## 🔍 ANÁLISIS DETALLADO POR PARTIDO
 
 ### Athletics vs Boston Red Sox
-- **Probabilidad YRFI:** 60.1%
-- **Athletics (Local):** 35.9%
+- **Probabilidad YRFI:** 61.1%
+- **Athletics (Local):** 37.5%
 - **Boston Red Sox (Visitante):** 37.8%
 
 **Recomendación:** ✅ APUESTA ALTA
@@ -75,13 +75,6 @@
 
 **Recomendación:** ✅ APUESTA ALTA
 
-### Chicago White Sox vs Tampa Bay Rays
-- **Probabilidad YRFI:** 56.5%
-- **Chicago White Sox (Local):** 35.3%
-- **Tampa Bay Rays (Visitante):** 32.8%
-
-**Recomendación:** ✅ APUESTA ALTA
-
 ### Los Angeles Angels vs Minnesota Twins
 - **Probabilidad YRFI:** 55.9%
 - **Los Angeles Angels (Local):** 36.5%
@@ -89,12 +82,12 @@
 
 **Recomendación:** ✅ APUESTA ALTA
 
-### Texas Rangers vs Milwaukee Brewers
-- **Probabilidad YRFI:** 52.9%
-- **Texas Rangers (Local):** 31.5%
-- **Milwaukee Brewers (Visitante):** 31.3%
+### Chicago White Sox vs Tampa Bay Rays
+- **Probabilidad YRFI:** 51.8%
+- **Chicago White Sox (Local):** 28.3%
+- **Tampa Bay Rays (Visitante):** 32.8%
 
-**Recomendación:** ✅ APUESTA ALTA
+**Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
 
 ### Atlanta Braves vs Chicago Cubs
 - **Probabilidad YRFI:** 51.2%
@@ -103,17 +96,17 @@
 
 **Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
 
+### Texas Rangers vs Milwaukee Brewers
+- **Probabilidad YRFI:** 49.9%
+- **Texas Rangers (Local):** 27.1%
+- **Milwaukee Brewers (Visitante):** 31.3%
+
+**Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
+
 ### Philadelphia Phillies vs New York Mets
 - **Probabilidad YRFI:** 49.7%
 - **Philadelphia Phillies (Local):** 38.1%
 - **New York Mets (Visitante):** 18.8%
-
-**Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
-
-### Toronto Blue Jays vs Houston Astros
-- **Probabilidad YRFI:** 48.3%
-- **Toronto Blue Jays (Local):** 23.2%
-- **Houston Astros (Visitante):** 32.7%
 
 **Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
 
@@ -163,6 +156,13 @@
 - **Probabilidad YRFI:** 39.6%
 - **Seattle Mariners (Local):** 28.0%
 - **St. Louis Cardinals (Visitante):** 16.2%
+
+**Recomendación:** ❌ NO RECOMENDADO
+
+### Toronto Blue Jays vs Houston Astros
+- **Probabilidad YRFI:** 34.9%
+- **Toronto Blue Jays (Local):** 23.2%
+- **Houston Astros (Visitante):** 15.2%
 
 **Recomendación:** ❌ NO RECOMENDADO
 

@@ -1,19 +1,19 @@
 # Análisis YRFI: Milwaukee Brewers @ Texas Rangers
 
 **Fecha:** 2025-09-10  
-**Lanzadores:** Por anunciar (V) vs Jack Leiter (L)
+**Lanzadores:** Chad Patrick (V) vs Jack Leiter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.9%
+**Probabilidad de que anoten en la primera entrada:** 49.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
 - **Estadística base YRFI:** 23.3% (17/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Chad Patrick):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### Milwaukee Brewers (Visitante)
 - **Estadística base YRFI:** 30.1% (22/73 partidos)
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 09:40:50
+- **Generado el:** 2025-09-09 20:25:51
 - **Fuente de datos:** season_data.json

@@ -25,9 +25,9 @@
     "name": "Boston Red Sox",
     "combined_yrfi_pct": 31.28,
     "pitcher": {
-      "name": "Dustin May",
-      "yrfi_allowed": 45.45454545454545,
-      "yrfi_ratio": "5/11"
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -46,8 +46,8 @@
         "base": 35.714285714285715,
         "tendency": 26.666666666666668,
         "combined": 30.74,
-        "pitcher_impact": 45.45454545454545,
-        "adjusted": 35.89
+        "pitcher_impact": 50.0,
+        "adjusted": 37.48
       },
       "away_team": {
         "base": 28.767123287671232,
@@ -56,12 +56,12 @@
         "pitcher_impact": 50.0,
         "adjusted": 37.83
       },
-      "game_yrfi_probability": 60.14
+      "game_yrfi_probability": 61.13
     },
-    "yrfi_probability": 60.14
+    "yrfi_probability": 61.13
   },
   "metadata": {
-    "generated_at": "2025-09-09T09:40:50.295909",
+    "generated_at": "2025-09-09T20:25:51.516024",
     "data_source": "season_data.json"
   }
 }

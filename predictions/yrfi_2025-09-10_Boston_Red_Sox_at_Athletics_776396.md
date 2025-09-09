@@ -1,19 +1,19 @@
 # Análisis YRFI: Boston Red Sox @ Athletics
 
 **Fecha:** 2025-09-10  
-**Lanzadores:** Dustin May (V) vs Jeffrey Springs (L)
+**Lanzadores:** Por anunciar (V) vs Jeffrey Springs (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.1%
+**Probabilidad de que anoten en la primera entrada:** 61.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
 - **Estadística base YRFI:** 35.7% (25/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Dustin May):** 45.5% (5/11 partidos)
-- **Puntuación ajustada:** 35.9%
+- **Impacto del lanzador visitante (Boston Red Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.5%
 
 ### Boston Red Sox (Visitante)
 - **Estadística base YRFI:** 28.8% (21/73 partidos)
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 09:40:50
+- **Generado el:** 2025-09-09 20:25:51
 - **Fuente de datos:** season_data.json

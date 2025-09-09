@@ -20,9 +20,9 @@
 ## 🎯 Top 2 Partidos con Mayor Probabilidad YRFI
 
 1. **Boston Red Sox @ Athletics**
-   - **Lanzadores:** Dustin May vs Jeffrey Springs
-   - **Probabilidad YRFI:** 60.1%
-   - **Prob. Equipos:** 37.8% vs 35.9%
+   - **Lanzadores:** Por anunciar vs Jeffrey Springs
+   - **Probabilidad YRFI:** 61.1%
+   - **Prob. Equipos:** 37.8% vs 37.5%
 
 2. **Arizona Diamondbacks @ San Francisco Giants**
    - **Lanzadores:** Zac Gallen vs Robbie Ray
@@ -41,29 +41,29 @@
    - **Lanzador Rival:** Adam Mazur
    - **YRFI Ajustado:** 14.5%
 
-3. **St. Louis Cardinals** (Visitante ✈️)
-   - **Oponente:** Seattle Mariners
-   - **Lanzador Rival:** George Kirby
-   - **YRFI Ajustado:** 16.2%
+3. **Houston Astros** (Visitante ✈️)
+   - **Oponente:** Toronto Blue Jays
+   - **Lanzador Rival:** Shane Bieber
+   - **YRFI Ajustado:** 15.2%
 
 ## 🛑 Top 2 Partidos con Menor Probabilidad YRFI
 
-1. **St. Louis Cardinals @ Seattle Mariners**
+1. **Houston Astros @ Toronto Blue Jays**
+   - **Lanzadores:** Luis Garcia vs Shane Bieber
+   - **Probabilidad YRFI:** 34.9%
+   - **Prob. Equipos:** 15.2% vs 23.2%
+
+2. **St. Louis Cardinals @ Seattle Mariners**
    - **Lanzadores:** Matthew Liberatore vs George Kirby
    - **Probabilidad YRFI:** 39.6%
    - **Prob. Equipos:** 16.2% vs 28.0%
 
-2. **Kansas City Royals @ Cleveland Guardians**
-   - **Lanzadores:** Noah Cameron vs Joey Cantillo
-   - **Probabilidad YRFI:** 39.9%
-   - **Prob. Equipos:** 24.5% vs 20.4%
-
 ## 📈 Estadísticas Adicionales
 
 - **Total de partidos analizados:** 15
-- **Promedio de probabilidad YRFI:** 48.6%
-- **Partido con mayor probabilidad YRFI:** Boston Red Sox @ Athletics (60.1%)
-- **Partido con menor probabilidad YRFI:** St. Louis Cardinals @ Seattle Mariners (39.6%)
+- **Promedio de probabilidad YRFI:** 47.3%
+- **Partido con mayor probabilidad YRFI:** Boston Red Sox @ Athletics (61.1%)
+- **Partido con menor probabilidad YRFI:** Houston Astros @ Toronto Blue Jays (34.9%)
 
 ## 📝 Notas
 
@@ -75,4 +75,4 @@
 - El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.
 - La probabilidad del partido combina las estadísticas de ambos equipos.
 
-*Resumen generado el 2025-09-09 09:40:50*
+*Resumen generado el 2025-09-09 20:25:51*
