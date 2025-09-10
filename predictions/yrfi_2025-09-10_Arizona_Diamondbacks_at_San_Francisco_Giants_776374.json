@@ -1,0 +1,67 @@
+{
+  "game_pk": 776374,
+  "game_date": "2025-09-10",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Carson Seymour",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.985915492957744,
+        "ratio": "22/71"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 22.55,
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 25.675675675675674,
+        "ratio": "19/74"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.985915492957744,
+        "tendency": 60.0,
+        "combined": 46.94,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 43.01
+      },
+      "away_team": {
+        "base": 25.675675675675674,
+        "tendency": 20.0,
+        "combined": 22.55,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.66
+      },
+      "game_yrfi_probability": 51.36
+    },
+    "yrfi_probability": 51.36
+  },
+  "metadata": {
+    "generated_at": "2025-09-10T09:39:09.783247",
+    "data_source": "season_data.json"
+  }
+}

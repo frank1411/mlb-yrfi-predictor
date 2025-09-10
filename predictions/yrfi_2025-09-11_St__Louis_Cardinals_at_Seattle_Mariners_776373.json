@@ -1,0 +1,67 @@
+{
+  "game_pk": 776373,
+  "game_date": "2025-09-11",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "14/70"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 18.74,
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.352112676056336,
+        "ratio": "18/71"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.0,
+        "tendency": 20.0,
+        "combined": 20.0,
+        "pitcher_impact": 40.0,
+        "adjusted": 27.0
+      },
+      "away_team": {
+        "base": 25.352112676056336,
+        "tendency": 13.333333333333334,
+        "combined": 18.74,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 21.73
+      },
+      "game_yrfi_probability": 42.86
+    },
+    "yrfi_probability": 42.86
+  },
+  "metadata": {
+    "generated_at": "2025-09-10T09:39:09.890538",
+    "data_source": "season_data.json"
+  }
+}

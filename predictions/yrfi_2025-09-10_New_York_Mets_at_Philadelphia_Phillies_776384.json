@@ -1,0 +1,67 @@
+{
+  "game_pk": 776384,
+  "game_date": "2025-09-10",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 38.57142857142858,
+        "ratio": "27/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 28.81,
+    "pitcher": {
+      "name": "Clay Holmes",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 23.28767123287671,
+        "ratio": "17/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.57142857142858,
+        "tendency": 33.33333333333333,
+        "combined": 35.69,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 28.2
+      },
+      "away_team": {
+        "base": 23.28767123287671,
+        "tendency": 33.33333333333333,
+        "combined": 28.81,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 24.56
+      },
+      "game_yrfi_probability": 45.83
+    },
+    "yrfi_probability": 45.83
+  },
+  "metadata": {
+    "generated_at": "2025-09-10T09:39:09.835858",
+    "data_source": "season_data.json"
+  }
+}
