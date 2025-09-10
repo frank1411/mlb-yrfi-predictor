@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Athletics
+# Análisis YRFI: Tampa Bay Rays @ Chicago White Sox
 
 **Fecha:** 2025-09-10  
-**Lanzadores:** Por anunciar (V) vs Jeffrey Springs (L)
+**Lanzadores:** Griffin Jax (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.2%
+**Probabilidad de que anoten en la primera entrada:** 47.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 35.7% (25/70 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 29.2% (21/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 37.5%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 19.7%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 28.8% (21/73 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 22.9% (16/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 50.0% (6/12 partidos)
-- **Puntuación ajustada:** 36.4%
+- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ San Francisco Giants
+# Análisis YRFI: Washington Nationals @ Miami Marlins
 
 **Fecha:** 2025-09-10  
-**Lanzadores:** Zac Gallen (V) vs Robbie Ray (L)
+**Lanzadores:** Jake Irvin (V) vs Eury Pérez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.5%
+**Probabilidad de que anoten en la primera entrada:** 48.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Francisco Giants (Local)
-- **Estadística base YRFI:** 30.0% (21/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Zac Gallen):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 40.1%
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 27.4% (20/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 37.5% (6/16 partidos)
+- **Puntuación ajustada:** 32.1%
 
-### Arizona Diamondbacks (Visitante)
+### Washington Nationals (Visitante)
 - **Estadística base YRFI:** 26.0% (19/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Robbie Ray):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 29.1%
+- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 16.7% (1/6 partidos)
+- **Puntuación ajustada:** 23.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

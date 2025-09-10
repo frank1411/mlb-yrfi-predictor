@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Texas Rangers
 
 **Fecha:** 2025-09-10  
-**Lanzadores:** Por anunciar (V) vs Jack Leiter (L)
+**Lanzadores:** Freddy Peralta (V) vs Merrill Kelly (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.8%
+**Probabilidad de que anoten en la primera entrada:** 49.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 23.3% (17/73 partidos)
+- **Estadística base YRFI:** 23.0% (17/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Freddy Peralta):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 21.7%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 30.1% (22/73 partidos)
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 16.7% (2/12 partidos)
-- **Puntuación ajustada:** 30.7%
+- **Impacto del lanzador local (Texas Rangers - Merrill Kelly):** 33.3% (5/15 partidos)
+- **Puntuación ajustada:** 35.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

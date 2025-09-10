@@ -1,0 +1,67 @@
+{
+  "game_pk": 776382,
+  "game_date": "2025-09-10",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Logan Allen",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 32.857142857142854,
+        "ratio": "23/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 21.62,
+    "pitcher": {
+      "name": "Jonathan Bowlan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.142857142857142,
+        "ratio": "19/70"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.857142857142854,
+        "tendency": 26.666666666666668,
+        "combined": 30.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.27
+      },
+      "away_team": {
+        "base": 27.142857142857142,
+        "tendency": 13.333333333333334,
+        "combined": 21.62,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 25.85
+      },
+      "game_yrfi_probability": 41.62
+    },
+    "yrfi_probability": 41.62
+  },
+  "metadata": {
+    "generated_at": "2025-09-10T13:20:22.716936",
+    "data_source": "season_data.json"
+  }
+}

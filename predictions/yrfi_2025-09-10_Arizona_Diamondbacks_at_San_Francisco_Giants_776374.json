@@ -1,18 +1,18 @@
 {
-  "game_pk": 776394,
+  "game_pk": 776374,
   "game_date": "2025-09-10",
   "home_team": {
     "id": "137",
     "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Robbie Ray",
-      "yrfi_allowed": 35.714285714285715,
-      "yrfi_ratio": "5/14"
+      "name": "Carson Seymour",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 30.0,
-        "ratio": "21/70"
+        "value": 30.985915492957744,
+        "ratio": "22/71"
       },
       "tendency": {
         "value": 60.0,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
-    "combined_yrfi_pct": 26.28,
+    "combined_yrfi_pct": 23.41,
     "pitcher": {
-      "name": "Zac Gallen",
+      "name": "Eduardo Rodriguez",
       "yrfi_allowed": 35.714285714285715,
       "yrfi_ratio": "5/14"
     },
     "stats": {
       "base": {
-        "value": 26.027397260273972,
-        "ratio": "19/73"
+        "value": 25.675675675675674,
+        "ratio": "19/74"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 20.0,
+        "ratio": "3/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.0,
+        "base": 30.985915492957744,
         "tendency": 60.0,
-        "combined": 42.0,
+        "combined": 42.59,
         "pitcher_impact": 35.714285714285715,
-        "adjusted": 40.11
+        "adjusted": 40.53
       },
       "away_team": {
-        "base": 26.027397260273972,
-        "tendency": 26.666666666666668,
-        "combined": 26.28,
-        "pitcher_impact": 35.714285714285715,
-        "adjusted": 29.11
+        "base": 25.675675675675674,
+        "tendency": 20.0,
+        "combined": 23.41,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.38
       },
-      "game_yrfi_probability": 57.54
+      "game_yrfi_probability": 50.27
     },
-    "yrfi_probability": 57.54
+    "yrfi_probability": 50.27
   },
   "metadata": {
-    "generated_at": "2025-09-09T20:05:00.726172",
+    "generated_at": "2025-09-10T13:20:22.682047",
     "data_source": "season_data.json"
   }
 }

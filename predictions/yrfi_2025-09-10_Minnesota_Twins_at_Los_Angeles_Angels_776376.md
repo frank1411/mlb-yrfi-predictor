@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Los Angeles Angels
 
 **Fecha:** 2025-09-10  
-**Lanzadores:** Zebby Matthews (V) vs Kyle Hendricks (L)
+**Lanzadores:** Taj Bradley (V) vs José Soriano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.4%
+**Probabilidad de que anoten en la primera entrada:** 54.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 32.9% (24/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 42.9% (3/7 partidos)
-- **Puntuación ajustada:** 36.0%
+- **Estadística base YRFI:** 33.8% (25/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 45.5% (5/11 partidos)
+- **Puntuación ajustada:** 39.0%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 28.8% (21/73 partidos)
+- **Estadística base YRFI:** 28.4% (21/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Kyle Hendricks):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 30.3%
+- **Impacto del lanzador local (Los Angeles Angels - José Soriano):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

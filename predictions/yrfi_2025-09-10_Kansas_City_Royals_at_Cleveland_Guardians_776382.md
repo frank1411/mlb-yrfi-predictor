@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ Seattle Mariners
+# Análisis YRFI: Kansas City Royals @ Cleveland Guardians
 
 **Fecha:** 2025-09-10  
-**Lanzadores:** Matthew Liberatore (V) vs George Kirby (L)
+**Lanzadores:** Jonathan Bowlan (V) vs Logan Allen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.8%
+**Probabilidad de que anoten en la primera entrada:** 41.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 20.3% (14/69 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 32.9% (23/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 26.7%
+- **Impacto del lanzador visitante (Kansas City Royals - Jonathan Bowlan):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.3%
 
-### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 25.7% (18/70 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 27.1% (19/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 17.9%
+- **Impacto del lanzador local (Cleveland Guardians - Logan Allen):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 25.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

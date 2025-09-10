@@ -1,0 +1,67 @@
+{
+  "game_pk": 776376,
+  "game_date": "2025-09-10",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "3/15"
+    },
+    "stats": {
+      "base": {
+        "value": 33.78378378378378,
+        "ratio": "25/74"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 27.69,
+    "pitcher": {
+      "name": "Taj Bradley",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 28.37837837837838,
+        "ratio": "21/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.78378378378378,
+        "tendency": 40.0,
+        "combined": 36.27,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 39.03
+      },
+      "away_team": {
+        "base": 28.37837837837838,
+        "tendency": 26.666666666666668,
+        "combined": 27.69,
+        "pitcher_impact": 20.0,
+        "adjusted": 25.39
+      },
+      "game_yrfi_probability": 54.51
+    },
+    "yrfi_probability": 54.51
+  },
+  "metadata": {
+    "generated_at": "2025-09-10T13:20:22.696963",
+    "data_source": "season_data.json"
+  }
+}

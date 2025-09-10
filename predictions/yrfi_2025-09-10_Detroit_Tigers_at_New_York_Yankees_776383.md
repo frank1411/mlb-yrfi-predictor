@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ New York Yankees
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Casey Mize (V) vs Will Warren (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Jack Flaherty (V) vs Carlos Rodón (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.2%
+**Probabilidad de que anoten en la primera entrada:** 48.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 33.3% (24/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 32.7%
+- **Estadística base YRFI:** 34.2% (25/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 23.2% (16/69 partidos)
+- **Estadística base YRFI:** 22.9% (16/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Will Warren):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

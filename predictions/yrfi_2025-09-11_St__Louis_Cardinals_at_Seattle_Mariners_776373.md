@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Cleveland Guardians
+# Análisis YRFI: St. Louis Cardinals @ Seattle Mariners
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Noah Cameron (V) vs Joey Cantillo (L)
+**Fecha:** 2025-09-11  
+**Lanzadores:** Michael McGreevy (V) vs Logan Gilbert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.0%
+**Probabilidad de que anoten en la primera entrada:** 42.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 31.9% (22/69 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 20.0% (14/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 26.0%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 27.5% (19/69 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 25.4% (18/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.3%
+- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

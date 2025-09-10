@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Baltimore Orioles
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Mike Burrows (V) vs Kyle Bradish (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Paul Skenes (V) vs Tyler Wells (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.6%
+**Probabilidad de que anoten en la primera entrada:** 41.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 25.4% (18/71 partidos)
+- **Estadística base YRFI:** 26.4% (19/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Mike Burrows):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 25.0%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 6.7% (1/15 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 26.1% (18/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 22.2%
+- **Estadística base YRFI:** 27.1% (19/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Tyler Wells):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

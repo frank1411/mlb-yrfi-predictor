@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Toronto Blue Jays
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Luis Garcia (V) vs Shane Bieber (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Jason Alexander (V) vs José Berríos (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.0%
+**Probabilidad de que anoten en la primera entrada:** 41.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 30.4% (21/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Luis Garcia):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Estadística base YRFI:** 30.0% (21/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 27.5% (19/69 partidos)
+- **Estadística base YRFI:** 28.6% (20/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Shane Bieber):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.2%
+- **Impacto del lanzador local (Toronto Blue Jays - José Berríos):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

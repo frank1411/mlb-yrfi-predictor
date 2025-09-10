@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Atlanta Braves
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Cade Horton (V) vs Spencer Strider (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Por anunciar (V) vs Chris Sale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.3%
+**Probabilidad de que anoten en la primera entrada:** 57.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 31.4% (22/70 partidos)
+- **Estadística base YRFI:** 31.0% (22/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Cade Horton):** 44.4% (4/9 partidos)
-- **Puntuación ajustada:** 37.7%
+- **Impacto del lanzador visitante (Chicago Cubs - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 39.2%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Spencer Strider):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 21.8%
+- **Estadística base YRFI:** 31.5% (23/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 28.6% (2/7 partidos)
+- **Puntuación ajustada:** 29.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json

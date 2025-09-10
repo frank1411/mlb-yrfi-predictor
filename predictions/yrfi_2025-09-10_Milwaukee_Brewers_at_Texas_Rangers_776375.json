@@ -1,0 +1,67 @@
+{
+  "game_pk": 776375,
+  "game_date": "2025-09-10",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "5/15"
+    },
+    "stats": {
+      "base": {
+        "value": 22.972972972972975,
+        "ratio": "17/74"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 36.5,
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 21.428571428571427,
+      "yrfi_ratio": "3/14"
+    },
+    "stats": {
+      "base": {
+        "value": 29.72972972972973,
+        "ratio": "22/74"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.972972972972975,
+        "tendency": 20.0,
+        "combined": 21.78,
+        "pitcher_impact": 21.428571428571427,
+        "adjusted": 21.68
+      },
+      "away_team": {
+        "base": 29.72972972972973,
+        "tendency": 46.666666666666664,
+        "combined": 36.5,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 35.55
+      },
+      "game_yrfi_probability": 49.52
+    },
+    "yrfi_probability": 49.52
+  },
+  "metadata": {
+    "generated_at": "2025-09-10T13:20:22.652487",
+    "data_source": "season_data.json"
+  }
+}

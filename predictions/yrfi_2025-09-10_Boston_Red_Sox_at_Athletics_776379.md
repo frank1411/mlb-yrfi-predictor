@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Chicago White Sox
+# Análisis YRFI: Boston Red Sox @ Athletics
 
-**Fecha:** 2025-09-09  
-**Lanzadores:** Adrian Houser (V) vs Yoendrys Gómez (L)
+**Fecha:** 2025-09-10  
+**Lanzadores:** Payton Tolle (V) vs Mason Barnett (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 63.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 28.2% (20/71 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 35.2% (25/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Adrian Houser):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 28.3%
+- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 52.3%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 23.2% (16/69 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Yoendrys Gómez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.9%
+- **Impacto del lanzador local (Athletics - Mason Barnett):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 23.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-09 20:05:00
+- **Generado el:** 2025-09-10 13:20:22
 - **Fuente de datos:** season_data.json
