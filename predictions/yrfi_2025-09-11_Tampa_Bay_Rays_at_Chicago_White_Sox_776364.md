@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Los Angeles Dodgers
+# Análisis YRFI: Tampa Bay Rays @ Chicago White Sox
 
 **Fecha:** 2025-09-11  
-**Lanzadores:** Kyle Freeland (V) vs Blake Snell (L)
+**Lanzadores:** Ian Seymour (V) vs Shane Smith (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.8%
+**Probabilidad de que anoten en la primera entrada:** 40.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 38.4% (28/73 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 28.8% (21/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 50.0% (7/14 partidos)
-- **Puntuación ajustada:** 35.9%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Ian Seymour):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 15.6%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 12.9% (9/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 10.8%
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 23.9% (17/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Shane Smith):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 30.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 09:39:09
+- **Generado el:** 2025-09-11 09:38:55
 - **Fuente de datos:** season_data.json

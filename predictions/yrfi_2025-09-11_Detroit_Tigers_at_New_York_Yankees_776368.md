@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Miami Marlins
+# Análisis YRFI: Detroit Tigers @ New York Yankees
 
-**Fecha:** 2025-09-10  
-**Lanzadores:** Jake Irvin (V) vs Eury Pérez (L)
+**Fecha:** 2025-09-11  
+**Lanzadores:** Tyler Holton (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.4%
+**Probabilidad de que anoten en la primera entrada:** 51.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 27.4% (20/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 37.5% (6/16 partidos)
-- **Puntuación ajustada:** 33.1%
+### New York Yankees (Local)
+- **Estadística base YRFI:** 33.8% (25/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Tyler Holton):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 26.6%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 22.5% (16/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 23.0%
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 50.0% (3/6 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 09:39:09
+- **Generado el:** 2025-09-11 09:38:55
 - **Fuente de datos:** season_data.json

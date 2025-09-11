@@ -1,0 +1,67 @@
+{
+  "game_pk": 776370,
+  "game_date": "2025-09-11",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 33.80281690140845,
+        "ratio": "24/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 23.68,
+    "pitcher": {
+      "name": "Stephen Kolek",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 28.169014084507044,
+        "ratio": "20/71"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.80281690140845,
+        "tendency": 33.33333333333333,
+        "combined": 33.54,
+        "pitcher_impact": 10.0,
+        "adjusted": 25.3
+      },
+      "away_team": {
+        "base": 28.169014084507044,
+        "tendency": 20.0,
+        "combined": 23.68,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 25.39
+      },
+      "game_yrfi_probability": 44.27
+    },
+    "yrfi_probability": 44.27
+  },
+  "metadata": {
+    "generated_at": "2025-09-11T09:38:55.674365",
+    "data_source": "season_data.json"
+  }
+}

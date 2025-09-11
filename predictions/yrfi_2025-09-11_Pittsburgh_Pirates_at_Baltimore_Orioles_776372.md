@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Cleveland Guardians
+# Análisis YRFI: Pittsburgh Pirates @ Baltimore Orioles
 
-**Fecha:** 2025-09-10  
-**Lanzadores:** Jonathan Bowlan (V) vs Logan Allen (L)
+**Fecha:** 2025-09-11  
+**Lanzadores:** Johan Oviedo (V) vs Cade Povich (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.5%
+**Probabilidad de que anoten en la primera entrada:** 43.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 32.9% (23/70 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 26.0% (19/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Jonathan Bowlan):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Johan Oviedo):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.1%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 27.1% (19/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Logan Allen):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 25.2%
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 26.8% (19/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 31.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 09:39:09
+- **Generado el:** 2025-09-11 09:38:55
 - **Fuente de datos:** season_data.json

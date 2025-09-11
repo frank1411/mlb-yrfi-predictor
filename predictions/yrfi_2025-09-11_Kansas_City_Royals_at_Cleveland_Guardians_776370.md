@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Athletics
+# Análisis YRFI: Kansas City Royals @ Cleveland Guardians
 
-**Fecha:** 2025-09-10  
-**Lanzadores:** Payton Tolle (V) vs Mason Barnett (L)
+**Fecha:** 2025-09-11  
+**Lanzadores:** Stephen Kolek (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.2%
+**Probabilidad de que anoten en la primera entrada:** 44.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 35.2% (25/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 54.8%
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 33.8% (24/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Stephen Kolek):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 25.3%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 29.7% (22/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Athletics - Mason Barnett):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 23.0%
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 28.2% (20/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 09:39:09
+- **Generado el:** 2025-09-11 09:38:55
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ Seattle Mariners
+# Análisis YRFI: Houston Astros @ Toronto Blue Jays
 
 **Fecha:** 2025-09-11  
-**Lanzadores:** Michael McGreevy (V) vs Logan Gilbert (L)
+**Lanzadores:** Cristian Javier (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.9%
+**Probabilidad de que anoten en la primera entrada:** 68.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 20.0% (14/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 27.0%
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 29.6% (21/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Cristian Javier):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 55.6%
 
-### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 25.4% (18/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 21.7%
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 28.2% (20/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 28.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 09:39:09
+- **Generado el:** 2025-09-11 09:38:55
 - **Fuente de datos:** season_data.json

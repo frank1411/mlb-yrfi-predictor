@@ -1,25 +1,25 @@
-# Análisis YRFI: Pittsburgh Pirates @ Baltimore Orioles
+# Análisis YRFI: Colorado Rockies @ San Diego Padres
 
-**Fecha:** 2025-09-10  
-**Lanzadores:** Paul Skenes (V) vs Tyler Wells (L)
+**Fecha:** 2025-09-12  
+**Lanzadores:** McCade Brown (V) vs Randy Vásquez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.2%
+**Probabilidad de que anoten en la primera entrada:** 17.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.4% (19/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 6.7% (1/15 partidos)
-- **Puntuación ajustada:** 22.0%
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 22.5% (16/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Colorado Rockies - McCade Brown):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 11.4%
 
-### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 27.1% (19/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Tyler Wells):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 24.6%
+### Colorado Rockies (Visitante)
+- **Estadística base YRFI:** 12.7% (9/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Randy Vásquez):** 9.1% (1/11 partidos)
+- **Puntuación ajustada:** 6.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 09:39:09
+- **Generado el:** 2025-09-11 09:38:55
 - **Fuente de datos:** season_data.json

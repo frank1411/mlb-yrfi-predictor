@@ -1,25 +1,25 @@
-# Análisis YRFI: Houston Astros @ Toronto Blue Jays
+# Análisis YRFI: Washington Nationals @ Miami Marlins
 
-**Fecha:** 2025-09-10  
-**Lanzadores:** Jason Alexander (V) vs José Berríos (L)
+**Fecha:** 2025-09-11  
+**Lanzadores:** MacKenzie Gore (V) vs Ryan Weathers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.4%
+**Probabilidad de que anoten en la primera entrada:** 53.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 30.0% (21/70 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 27.0% (20/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 20.7%
+- **Impacto del lanzador visitante (Washington Nationals - MacKenzie Gore):** 26.7% (4/15 partidos)
+- **Puntuación ajustada:** 29.2%
 
-### Houston Astros (Visitante)
-- **Estadística base YRFI:** 28.6% (20/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - José Berríos):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 23.6%
+### Washington Nationals (Visitante)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Miami Marlins - Ryan Weathers):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 34.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 09:39:09
+- **Generado el:** 2025-09-11 09:38:55
 - **Fuente de datos:** season_data.json
