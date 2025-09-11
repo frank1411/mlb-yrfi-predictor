@@ -1,0 +1,67 @@
+{
+  "game_pk": 776369,
+  "game_date": "2025-09-11",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 38.46153846153847,
+      "yrfi_ratio": "5/13"
+    },
+    "stats": {
+      "base": {
+        "value": 29.577464788732392,
+        "ratio": "21/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 24.9,
+    "pitcher": {
+      "name": "Cristian Javier",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.169014084507044,
+        "ratio": "20/71"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.577464788732392,
+        "tendency": 33.33333333333333,
+        "combined": 31.08,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.76
+      },
+      "away_team": {
+        "base": 28.169014084507044,
+        "tendency": 20.0,
+        "combined": 24.9,
+        "pitcher_impact": 38.46153846153847,
+        "adjusted": 28.97
+      },
+      "game_yrfi_probability": 65.74
+    },
+    "yrfi_probability": 65.74
+  },
+  "metadata": {
+    "generated_at": "2025-09-11T13:18:55.250687",
+    "data_source": "season_data.json"
+  }
+}

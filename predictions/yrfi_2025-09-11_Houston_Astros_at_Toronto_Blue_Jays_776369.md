@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Toronto Blue Jays
 
-**Fecha:** 2025-09-10  
-**Lanzadores:** Jason Alexander (V) vs José Berríos (L)
+**Fecha:** 2025-09-11  
+**Lanzadores:** Cristian Javier (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.1%
+**Probabilidad de que anoten en la primera entrada:** 65.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 30.0% (21/70 partidos)
+- **Estadística base YRFI:** 29.6% (21/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 21.9%
+- **Impacto del lanzador visitante (Houston Astros - Cristian Javier):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 51.8%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 28.6% (20/70 partidos)
+- **Estadística base YRFI:** 28.2% (20/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - José Berríos):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 38.5% (5/13 partidos)
+- **Puntuación ajustada:** 29.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 13:20:22
+- **Generado el:** 2025-09-11 13:18:55
 - **Fuente de datos:** season_data.json

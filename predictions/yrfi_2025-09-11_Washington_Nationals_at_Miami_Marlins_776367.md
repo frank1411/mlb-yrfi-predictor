@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Miami Marlins
 
-**Fecha:** 2025-09-10  
-**Lanzadores:** Jake Irvin (V) vs Eury Pérez (L)
+**Fecha:** 2025-09-11  
+**Lanzadores:** MacKenzie Gore (V) vs Ryan Weathers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.0%
+**Probabilidad de que anoten en la primera entrada:** 52.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 27.4% (20/73 partidos)
+- **Estadística base YRFI:** 27.0% (20/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 37.5% (6/16 partidos)
-- **Puntuación ajustada:** 32.1%
+- **Impacto del lanzador visitante (Washington Nationals - MacKenzie Gore):** 26.7% (4/15 partidos)
+- **Puntuación ajustada:** 28.7%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Impacto del lanzador local (Miami Marlins - Ryan Weathers):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 33.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-10 13:20:22
+- **Generado el:** 2025-09-11 13:18:55
 - **Fuente de datos:** season_data.json
