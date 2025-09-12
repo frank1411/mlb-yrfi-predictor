@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Seattle Mariners
+# Análisis YRFI: Cincinnati Reds @ Athletics
 
-**Fecha:** 2025-09-12  
-**Lanzadores:** José Soriano (V) vs Bryce Miller (L)
+**Fecha:** 2025-09-13  
+**Lanzadores:** Brady Singer (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.7%
+**Probabilidad de que anoten en la primera entrada:** 65.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 19.7% (14/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - José Soriano):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 22.9%
-
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 38.0% (27/71 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 36.1% (26/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryce Miller):** 0.0% (0/6 partidos)
-- **Puntuación ajustada:** 23.0%
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 61.5% (8/13 partidos)
+- **Puntuación ajustada:** 44.0%
+
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 22.2% (16/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Athletics - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-11 09:38:55
+- **Generado el:** 2025-09-12 09:38:12
 - **Fuente de datos:** season_data.json

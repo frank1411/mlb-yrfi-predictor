@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Cleveland Guardians
+# Análisis YRFI: Houston Astros @ Atlanta Braves
 
-**Fecha:** 2025-09-11  
-**Lanzadores:** Stephen Kolek (V) vs Gavin Williams (L)
+**Fecha:** 2025-09-12  
+**Lanzadores:** Por anunciar (V) vs Hurston Waldrep (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.3%
+**Probabilidad de que anoten en la primera entrada:** 56.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 33.8% (24/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Stephen Kolek):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 25.3%
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 40.7%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 28.2% (20/71 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 27.8% (20/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 25.4%
+- **Impacto del lanzador local (Atlanta Braves - Hurston Waldrep):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-11 09:38:55
+- **Generado el:** 2025-09-12 09:38:12
 - **Fuente de datos:** season_data.json

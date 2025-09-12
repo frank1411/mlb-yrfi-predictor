@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Miami Marlins
+# Análisis YRFI: Tampa Bay Rays @ Chicago Cubs
 
-**Fecha:** 2025-09-11  
-**Lanzadores:** MacKenzie Gore (V) vs Ryan Weathers (L)
+**Fecha:** 2025-09-12  
+**Lanzadores:** Shane Baz (V) vs Matthew Boyd (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.6%
+**Probabilidad de que anoten en la primera entrada:** 47.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - MacKenzie Gore):** 26.7% (4/15 partidos)
-- **Puntuación ajustada:** 29.2%
-
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.7% (19/74 partidos)
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 27.8% (20/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Ryan Weathers):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.5%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Shane Baz):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 23.0%
+
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 23.6% (17/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 32.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-11 09:38:55
+- **Generado el:** 2025-09-12 09:38:12
 - **Fuente de datos:** season_data.json

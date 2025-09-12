@@ -1,25 +1,25 @@
-# Análisis YRFI: Pittsburgh Pirates @ Baltimore Orioles
+# Análisis YRFI: Texas Rangers @ New York Mets
 
-**Fecha:** 2025-09-11  
-**Lanzadores:** Johan Oviedo (V) vs Cade Povich (L)
+**Fecha:** 2025-09-12  
+**Lanzadores:** Jacob deGrom (V) vs Jonah Tong (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.3%
+**Probabilidad de que anoten en la primera entrada:** 46.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Johan Oviedo):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.1%
+### New York Mets (Local)
+- **Estadística base YRFI:** 36.1% (26/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 35.6%
 
-### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 26.8% (19/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 31.5%
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (New York Mets - Jonah Tong):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 16.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-11 09:38:55
+- **Generado el:** 2025-09-12 09:38:12
 - **Fuente de datos:** season_data.json

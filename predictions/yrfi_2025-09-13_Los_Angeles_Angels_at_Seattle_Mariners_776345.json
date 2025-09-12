@@ -1,0 +1,67 @@
+{
+  "game_pk": 776345,
+  "game_date": "2025-09-13",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Luis Castillo",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "3/15"
+    },
+    "stats": {
+      "base": {
+        "value": 19.444444444444446,
+        "ratio": "14/72"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 35.21,
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "6/15"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "27/72"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.444444444444446,
+        "tendency": 13.333333333333334,
+        "combined": 16.08,
+        "pitcher_impact": 40.0,
+        "adjusted": 24.45
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 33.33333333333333,
+        "combined": 35.21,
+        "pitcher_impact": 20.0,
+        "adjusted": 29.89
+      },
+      "game_yrfi_probability": 47.03
+    },
+    "yrfi_probability": 47.03
+  },
+  "metadata": {
+    "generated_at": "2025-09-12T09:38:12.857997",
+    "data_source": "season_data.json"
+  }
+}

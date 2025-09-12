@@ -1,25 +1,25 @@
-# Análisis YRFI: Houston Astros @ Toronto Blue Jays
+# Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
 
-**Fecha:** 2025-09-11  
-**Lanzadores:** Cristian Javier (V) vs Kevin Gausman (L)
+**Fecha:** 2025-09-12  
+**Lanzadores:** Trevor Rogers (V) vs Chris Bassitt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 68.4%
+**Probabilidad de que anoten en la primera entrada:** 43.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.6% (21/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Cristian Javier):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 55.6%
+- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 27.1%
 
-### Houston Astros (Visitante)
-- **Estadística base YRFI:** 28.2% (20/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 38.5% (5/13 partidos)
-- **Puntuación ajustada:** 28.9%
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 26.4% (19/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Chris Bassitt):** 6.7% (1/15 partidos)
+- **Puntuación ajustada:** 22.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-11 09:38:55
+- **Generado el:** 2025-09-12 09:38:12
 - **Fuente de datos:** season_data.json

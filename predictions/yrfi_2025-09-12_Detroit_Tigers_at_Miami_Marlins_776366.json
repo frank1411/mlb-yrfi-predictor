@@ -1,0 +1,67 @@
+{
+  "game_pk": 776366,
+  "game_date": "2025-09-12",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "6/16"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "21/75"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 24.67,
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 7.6923076923076925,
+      "yrfi_ratio": "1/13"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "16/72"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.000000000000004,
+        "tendency": 33.33333333333333,
+        "combined": 30.93,
+        "pitcher_impact": 7.6923076923076925,
+        "adjusted": 22.8
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 26.666666666666668,
+        "combined": 24.67,
+        "pitcher_impact": 37.5,
+        "adjusted": 29.16
+      },
+      "game_yrfi_probability": 45.31
+    },
+    "yrfi_probability": 45.31
+  },
+  "metadata": {
+    "generated_at": "2025-09-12T09:38:12.795665",
+    "data_source": "season_data.json"
+  }
+}

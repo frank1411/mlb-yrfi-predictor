@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Chicago White Sox
+# Análisis YRFI: Detroit Tigers @ Miami Marlins
 
-**Fecha:** 2025-09-11  
-**Lanzadores:** Ian Seymour (V) vs Shane Smith (L)
+**Fecha:** 2025-09-12  
+**Lanzadores:** Tarik Skubal (V) vs Sandy Alcantara (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.9%
+**Probabilidad de que anoten en la primera entrada:** 45.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 28.8% (21/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Ian Seymour):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.6%
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 7.7% (1/13 partidos)
+- **Puntuación ajustada:** 22.8%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 23.9% (17/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Shane Smith):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 30.1%
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 22.2% (16/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Miami Marlins - Sandy Alcantara):** 37.5% (6/16 partidos)
+- **Puntuación ajustada:** 29.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-11 09:38:55
+- **Generado el:** 2025-09-12 09:38:12
 - **Fuente de datos:** season_data.json

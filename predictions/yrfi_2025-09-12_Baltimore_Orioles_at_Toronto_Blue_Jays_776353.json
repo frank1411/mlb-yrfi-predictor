@@ -1,0 +1,67 @@
+{
+  "game_pk": 776353,
+  "game_date": "2025-09-12",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 6.666666666666667,
+      "yrfi_ratio": "1/15"
+    },
+    "stats": {
+      "base": {
+        "value": 30.555555555555557,
+        "ratio": "22/72"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 30.21,
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 11.11111111111111,
+      "yrfi_ratio": "1/9"
+    },
+    "stats": {
+      "base": {
+        "value": 26.38888888888889,
+        "ratio": "19/72"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.555555555555557,
+        "tendency": 40.0,
+        "combined": 35.75,
+        "pitcher_impact": 11.11111111111111,
+        "adjusted": 27.13
+      },
+      "away_team": {
+        "base": 26.38888888888889,
+        "tendency": 33.33333333333333,
+        "combined": 30.21,
+        "pitcher_impact": 6.666666666666667,
+        "adjusted": 21.97
+      },
+      "game_yrfi_probability": 43.14
+    },
+    "yrfi_probability": 43.14
+  },
+  "metadata": {
+    "generated_at": "2025-09-12T09:38:12.763649",
+    "data_source": "season_data.json"
+  }
+}
