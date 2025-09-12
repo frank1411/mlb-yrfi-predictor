@@ -1,0 +1,67 @@
+{
+  "game_pk": 776350,
+  "game_date": "2025-09-13",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Justin Verlander",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 30.555555555555557,
+        "ratio": "22/72"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 26.33,
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "4/16"
+    },
+    "stats": {
+      "base": {
+        "value": 30.555555555555557,
+        "ratio": "22/72"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.555555555555557,
+        "tendency": 60.0,
+        "combined": 42.33,
+        "pitcher_impact": 25.0,
+        "adjusted": 37.13
+      },
+      "away_team": {
+        "base": 30.555555555555557,
+        "tendency": 20.0,
+        "combined": 26.33,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 22.72
+      },
+      "game_yrfi_probability": 51.41
+    },
+    "yrfi_probability": 51.41
+  },
+  "metadata": {
+    "generated_at": "2025-09-12T13:19:23.873344",
+    "data_source": "season_data.json"
+  }
+}

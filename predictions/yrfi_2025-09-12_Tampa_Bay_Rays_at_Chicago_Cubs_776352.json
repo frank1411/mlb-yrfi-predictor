@@ -1,0 +1,67 @@
+{
+  "game_pk": 776352,
+  "game_date": "2025-09-12",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "20/72"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 30.17,
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 15.384615384615385,
+      "yrfi_ratio": "2/13"
+    },
+    "stats": {
+      "base": {
+        "value": 23.61111111111111,
+        "ratio": "17/72"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.77777777777778,
+        "tendency": 26.666666666666668,
+        "combined": 27.33,
+        "pitcher_impact": 15.384615384615385,
+        "adjusted": 23.75
+      },
+      "away_team": {
+        "base": 23.61111111111111,
+        "tendency": 40.0,
+        "combined": 30.17,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 30.35
+      },
+      "game_yrfi_probability": 46.89
+    },
+    "yrfi_probability": 46.89
+  },
+  "metadata": {
+    "generated_at": "2025-09-12T13:19:23.741737",
+    "data_source": "season_data.json"
+  }
+}

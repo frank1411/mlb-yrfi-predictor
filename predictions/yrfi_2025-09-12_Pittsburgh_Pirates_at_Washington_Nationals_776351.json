@@ -1,0 +1,67 @@
+{
+  "game_pk": 776351,
+  "game_date": "2025-09-12",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Brad Lord",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 29.577464788732392,
+        "ratio": "21/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 35.33,
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "20/72"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.577464788732392,
+        "tendency": 26.666666666666668,
+        "combined": 28.41,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 29.12
+      },
+      "away_team": {
+        "base": 27.77777777777778,
+        "tendency": 46.666666666666664,
+        "combined": 35.33,
+        "pitcher_impact": 12.5,
+        "adjusted": 28.48
+      },
+      "game_yrfi_probability": 49.31
+    },
+    "yrfi_probability": 49.31
+  },
+  "metadata": {
+    "generated_at": "2025-09-12T13:19:23.752048",
+    "data_source": "season_data.json"
+  }
+}

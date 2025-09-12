@@ -1,0 +1,67 @@
+{
+  "game_pk": 776355,
+  "game_date": "2025-09-13",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Pablo López",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.76056338028169,
+        "ratio": "19/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 26.67,
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "6/14"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "20/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.76056338028169,
+        "tendency": 26.666666666666668,
+        "combined": 26.72,
+        "pitcher_impact": 42.857142857142854,
+        "adjusted": 31.56
+      },
+      "away_team": {
+        "base": 26.666666666666668,
+        "tendency": 26.666666666666668,
+        "combined": 26.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.67
+      },
+      "game_yrfi_probability": 54.6
+    },
+    "yrfi_probability": 54.6
+  },
+  "metadata": {
+    "generated_at": "2025-09-12T13:19:23.830054",
+    "data_source": "season_data.json"
+  }
+}
