@@ -1,0 +1,67 @@
+{
+  "game_pk": 776339,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 17.80821917808219,
+        "ratio": "13/73"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 22.71,
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
+    },
+    "stats": {
+      "base": {
+        "value": 26.027397260273972,
+        "ratio": "19/73"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 17.80821917808219,
+        "tendency": 46.666666666666664,
+        "combined": 33.68,
+        "pitcher_impact": 40.0,
+        "adjusted": 35.89
+      },
+      "away_team": {
+        "base": 26.027397260273972,
+        "tendency": 20.0,
+        "combined": 22.71,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 26.43
+      },
+      "game_yrfi_probability": 52.83
+    },
+    "yrfi_probability": 52.83
+  },
+  "metadata": {
+    "generated_at": "2025-09-13T09:35:57.398745",
+    "data_source": "season_data.json"
+  }
+}

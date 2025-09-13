@@ -1,0 +1,67 @@
+{
+  "game_pk": 776343,
+  "game_date": "2025-09-13",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "4/8"
+    },
+    "stats": {
+      "base": {
+        "value": 30.136986301369863,
+        "ratio": "22/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 30.05,
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 46.15384615384615,
+      "yrfi_ratio": "6/13"
+    },
+    "stats": {
+      "base": {
+        "value": 26.027397260273972,
+        "ratio": "19/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.136986301369863,
+        "tendency": 33.33333333333333,
+        "combined": 31.89,
+        "pitcher_impact": 46.15384615384615,
+        "adjusted": 36.89
+      },
+      "away_team": {
+        "base": 26.027397260273972,
+        "tendency": 33.33333333333333,
+        "combined": 30.05,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.03
+      },
+      "game_yrfi_probability": 60.26
+    },
+    "yrfi_probability": 60.26
+  },
+  "metadata": {
+    "generated_at": "2025-09-13T09:35:57.306383",
+    "data_source": "season_data.json"
+  }
+}

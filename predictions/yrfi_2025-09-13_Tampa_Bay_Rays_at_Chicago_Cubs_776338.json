@@ -1,0 +1,67 @@
+{
+  "game_pk": 776338,
+  "game_date": "2025-09-13",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Colin Rea",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "5/15"
+    },
+    "stats": {
+      "base": {
+        "value": 27.397260273972602,
+        "ratio": "20/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 36.76,
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 24.65753424657534,
+        "ratio": "18/73"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.397260273972602,
+        "tendency": 26.666666666666668,
+        "combined": 27.0,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 27.09
+      },
+      "away_team": {
+        "base": 24.65753424657534,
+        "tendency": 46.666666666666664,
+        "combined": 36.76,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 35.56
+      },
+      "game_yrfi_probability": 53.02
+    },
+    "yrfi_probability": 53.02
+  },
+  "metadata": {
+    "generated_at": "2025-09-13T09:35:57.296069",
+    "data_source": "season_data.json"
+  }
+}

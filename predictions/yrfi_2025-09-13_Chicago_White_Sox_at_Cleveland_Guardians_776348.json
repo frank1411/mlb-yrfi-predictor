@@ -1,0 +1,67 @@
+{
+  "game_pk": 776348,
+  "game_date": "2025-09-13",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.87671232876712,
+        "ratio": "24/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 28.23,
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 30.136986301369863,
+        "ratio": "22/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.87671232876712,
+        "tendency": 26.666666666666668,
+        "combined": 29.46,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 35.06
+      },
+      "away_team": {
+        "base": 30.136986301369863,
+        "tendency": 26.666666666666668,
+        "combined": 28.23,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.35
+      },
+      "game_yrfi_probability": 46.98
+    },
+    "yrfi_probability": 46.98
+  },
+  "metadata": {
+    "generated_at": "2025-09-13T09:35:57.368087",
+    "data_source": "season_data.json"
+  }
+}
