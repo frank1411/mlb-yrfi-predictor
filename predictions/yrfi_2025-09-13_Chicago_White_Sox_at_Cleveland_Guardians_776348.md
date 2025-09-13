@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Cleveland Guardians
 
-**Fecha:** 2025-09-12  
-**Lanzadores:** Martín Pérez (V) vs Tanner Bibee (L)
+**Fecha:** 2025-09-13  
+**Lanzadores:** Davis Martin (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.1%
+**Probabilidad de que anoten en la primera entrada:** 48.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 33.3% (24/72 partidos)
+- **Estadística base YRFI:** 32.9% (24/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Martín Pérez):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 36.5%
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 45.5% (5/11 partidos)
+- **Puntuación ajustada:** 34.9%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 27.8%
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-12 13:19:23
+- **Generado el:** 2025-09-13 13:15:02
 - **Fuente de datos:** season_data.json

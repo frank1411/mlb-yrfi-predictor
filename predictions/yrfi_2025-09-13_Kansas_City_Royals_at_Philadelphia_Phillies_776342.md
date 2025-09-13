@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Philadelphia Phillies
 
-**Fecha:** 2025-09-12  
-**Lanzadores:** Michael Lorenzen (V) vs Walker Buehler (L)
+**Fecha:** 2025-09-13  
+**Lanzadores:** Ryan Bergert (V) vs Taijuan Walker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.1%
+**Probabilidad de que anoten en la primera entrada:** 49.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 38.9% (28/72 partidos)
+- **Estadística base YRFI:** 38.4% (28/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Michael Lorenzen):** 7.7% (1/13 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador visitante (Kansas City Royals - Ryan Bergert):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 29.2% (21/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Walker Buehler):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 27.9%
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Taijuan Walker):** 25.0% (2/8 partidos)
+- **Puntuación ajustada:** 29.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-12 13:19:23
+- **Generado el:** 2025-09-13 13:15:02
 - **Fuente de datos:** season_data.json

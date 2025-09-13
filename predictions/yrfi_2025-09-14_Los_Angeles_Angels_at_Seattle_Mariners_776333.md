@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Seattle Mariners
 
-**Fecha:** 2025-09-13  
-**Lanzadores:** Yusei Kikuchi (V) vs Luis Castillo (L)
+**Fecha:** 2025-09-14  
+**Lanzadores:** Mitch Farris (V) vs Bryan Woo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 38.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 19.4% (14/72 partidos)
+- **Estadística base YRFI:** 19.2% (14/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Yusei Kikuchi):** 40.0% (6/15 partidos)
-- **Puntuación ajustada:** 23.9%
+- **Impacto del lanzador visitante (Los Angeles Angels - Mitch Farris):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 11.8%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 37.5% (27/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 31.1%
+- **Estadística base YRFI:** 37.0% (27/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 29.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-12 13:19:23
+- **Generado el:** 2025-09-13 13:15:02
 - **Fuente de datos:** season_data.json

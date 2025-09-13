@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ San Diego Padres
 
-**Fecha:** 2025-09-13  
-**Lanzadores:** Tanner Gordon (V) vs Por anunciar (L)
+**Fecha:** 2025-09-14  
+**Lanzadores:** Bradley Blalock (V) vs Dylan Cease (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.6%
+**Probabilidad de que anoten en la primera entrada:** 37.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 22.2% (16/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tanner Gordon):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Estadística base YRFI:** 23.3% (17/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Colorado Rockies - Bradley Blalock):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 30.4%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 12.5% (9/72 partidos)
+- **Estadística base YRFI:** 12.3% (9/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.2%
+- **Impacto del lanzador local (San Diego Padres - Dylan Cease):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 9.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-12 13:19:23
+- **Generado el:** 2025-09-13 13:15:02
 - **Fuente de datos:** season_data.json

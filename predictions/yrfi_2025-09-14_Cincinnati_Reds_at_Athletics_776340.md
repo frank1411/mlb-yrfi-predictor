@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Athletics
 
-**Fecha:** 2025-09-13  
-**Lanzadores:** Brady Singer (V) vs Por anunciar (L)
+**Fecha:** 2025-09-14  
+**Lanzadores:** Hunter Greene (V) vs Luis Severino (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.2%
+**Probabilidad de que anoten en la primera entrada:** 54.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 36.1% (26/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 61.5% (8/13 partidos)
-- **Puntuación ajustada:** 43.0%
+- **Estadística base YRFI:** 37.0% (27/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Hunter Greene):** 28.6% (2/7 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 22.2% (16/72 partidos)
+- **Estadística base YRFI:** 21.9% (16/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Athletics - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.5%
+- **Impacto del lanzador local (Athletics - Luis Severino):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-12 13:19:23
+- **Generado el:** 2025-09-13 13:15:02
 - **Fuente de datos:** season_data.json

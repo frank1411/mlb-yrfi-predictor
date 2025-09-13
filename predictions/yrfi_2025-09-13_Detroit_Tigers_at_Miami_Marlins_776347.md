@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Miami Marlins
 
-**Fecha:** 2025-09-12  
-**Lanzadores:** Tarik Skubal (V) vs Sandy Alcantara (L)
+**Fecha:** 2025-09-13  
+**Lanzadores:** Charlie Morton (V) vs Janson Junk (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.9%
+**Probabilidad de que anoten en la primera entrada:** 50.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 28.0% (21/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 7.7% (1/13 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Estadística base YRFI:** 28.9% (22/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Charlie Morton):** 36.4% (4/11 partidos)
+- **Puntuación ajustada:** 34.3%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 22.2% (16/72 partidos)
+- **Estadística base YRFI:** 21.9% (16/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Sandy Alcantara):** 37.5% (6/16 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 28.6% (2/7 partidos)
+- **Puntuación ajustada:** 25.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-12 13:19:23
+- **Generado el:** 2025-09-13 13:15:02
 - **Fuente de datos:** season_data.json

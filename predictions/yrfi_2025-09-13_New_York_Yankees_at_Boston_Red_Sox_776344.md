@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Boston Red Sox
 
-**Fecha:** 2025-09-12  
-**Lanzadores:** Luis Gil (V) vs Lucas Giolito (L)
+**Fecha:** 2025-09-13  
+**Lanzadores:** Max Fried (V) vs Brayan Bello (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.4%
+**Probabilidad de que anoten en la primera entrada:** 56.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 33.3% (24/72 partidos)
+- **Estadística base YRFI:** 32.9% (24/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Luis Gil):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 29.1%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 40.8% (29/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Lucas Giolito):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 39.2%
+- **Estadística base YRFI:** 41.7% (30/72 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Boston Red Sox - Brayan Bello):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 38.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-12 13:19:23
+- **Generado el:** 2025-09-13 13:15:02
 - **Fuente de datos:** season_data.json

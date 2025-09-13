@@ -1,0 +1,67 @@
+{
+  "game_pk": 776333,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 19.17808219178082,
+        "ratio": "14/73"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 32.86,
+    "pitcher": {
+      "name": "Mitch Farris",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 36.986301369863014,
+        "ratio": "27/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.17808219178082,
+        "tendency": 13.333333333333334,
+        "combined": 16.84,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.79
+      },
+      "away_team": {
+        "base": 36.986301369863014,
+        "tendency": 26.666666666666668,
+        "combined": 32.86,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 29.92
+      },
+      "game_yrfi_probability": 38.18
+    },
+    "yrfi_probability": 38.18
+  },
+  "metadata": {
+    "generated_at": "2025-09-13T13:15:02.756670",
+    "data_source": "season_data.json"
+  }
+}

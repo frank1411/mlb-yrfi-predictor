@@ -1,0 +1,67 @@
+{
+  "game_pk": 776341,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 23.28767123287671,
+        "ratio": "17/73"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 7.4,
+    "pitcher": {
+      "name": "Bradley Blalock",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 12.32876712328767,
+        "ratio": "9/73"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.28767123287671,
+        "tendency": 20.0,
+        "combined": 21.97,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.38
+      },
+      "away_team": {
+        "base": 12.32876712328767,
+        "tendency": 0.0,
+        "combined": 7.4,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 9.46
+      },
+      "game_yrfi_probability": 36.97
+    },
+    "yrfi_probability": 36.97
+  },
+  "metadata": {
+    "generated_at": "2025-09-13T13:15:02.728281",
+    "data_source": "season_data.json"
+  }
+}

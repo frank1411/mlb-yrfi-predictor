@@ -1,0 +1,67 @@
+{
+  "game_pk": 776347,
+  "game_date": "2025-09-13",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Janson Junk",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 28.947368421052634,
+        "ratio": "22/76"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 23.82,
+    "pitcher": {
+      "name": "Charlie Morton",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 21.91780821917808,
+        "ratio": "16/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.947368421052634,
+        "tendency": 40.0,
+        "combined": 33.37,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 34.27
+      },
+      "away_team": {
+        "base": 21.91780821917808,
+        "tendency": 26.666666666666668,
+        "combined": 23.82,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 25.24
+      },
+      "game_yrfi_probability": 50.86
+    },
+    "yrfi_probability": 50.86
+  },
+  "metadata": {
+    "generated_at": "2025-09-13T13:15:02.653407",
+    "data_source": "season_data.json"
+  }
+}

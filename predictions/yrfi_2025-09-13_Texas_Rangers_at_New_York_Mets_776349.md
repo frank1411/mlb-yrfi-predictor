@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ New York Mets
 
-**Fecha:** 2025-09-12  
-**Lanzadores:** Jacob deGrom (V) vs Jonah Tong (L)
+**Fecha:** 2025-09-13  
+**Lanzadores:** Patrick Corbin (V) vs Brandon Sproat (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 46.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 36.1% (26/72 partidos)
+- **Estadística base YRFI:** 35.6% (26/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Impacto del lanzador visitante (Texas Rangers - Patrick Corbin):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 32.6%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Mets - Jonah Tong):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 18.4%
+- **Estadística base YRFI:** 31.5% (23/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (New York Mets - Brandon Sproat):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-12 13:19:23
+- **Generado el:** 2025-09-13 13:15:02
 - **Fuente de datos:** season_data.json
