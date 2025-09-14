@@ -1,0 +1,67 @@
+{
+  "game_pk": 776320,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Cade Cavalli",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.767123287671232,
+        "ratio": "21/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 34.16,
+    "pitcher": {
+      "name": "Mike Burrows",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 27.027027027027028,
+        "ratio": "20/74"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.767123287671232,
+        "tendency": 26.666666666666668,
+        "combined": 27.61,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 27.95
+      },
+      "away_team": {
+        "base": 27.027027027027028,
+        "tendency": 40.0,
+        "combined": 34.16,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.21
+      },
+      "game_yrfi_probability": 43.95
+    },
+    "yrfi_probability": 43.95
+  },
+  "metadata": {
+    "generated_at": "2025-09-14T09:36:39.038212",
+    "data_source": "season_data.json"
+  }
+}
