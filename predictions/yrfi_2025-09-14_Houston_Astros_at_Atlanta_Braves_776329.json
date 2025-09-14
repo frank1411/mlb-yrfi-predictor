@@ -1,0 +1,67 @@
+{
+  "game_pk": 776329,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Joey Wentz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 29.72972972972973,
+        "ratio": "22/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 18.88,
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 27.027027027027028,
+        "ratio": "20/74"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.72972972972973,
+        "tendency": 26.666666666666668,
+        "combined": 28.5,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 30.67
+      },
+      "away_team": {
+        "base": 27.027027027027028,
+        "tendency": 6.666666666666667,
+        "combined": 18.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.22
+      },
+      "game_yrfi_probability": 39.84
+    },
+    "yrfi_probability": 39.84
+  },
+  "metadata": {
+    "generated_at": "2025-09-14T13:14:37.611024",
+    "data_source": "season_data.json"
+  }
+}

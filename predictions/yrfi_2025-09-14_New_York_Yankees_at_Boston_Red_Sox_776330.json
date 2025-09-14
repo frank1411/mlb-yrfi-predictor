@@ -1,0 +1,67 @@
+{
+  "game_pk": 776330,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Garrett Crochet",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 32.432432432432435,
+        "ratio": "24/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 46.81,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "3/15"
+    },
+    "stats": {
+      "base": {
+        "value": 42.465753424657535,
+        "ratio": "31/73"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.432432432432435,
+        "tendency": 26.666666666666668,
+        "combined": 30.13,
+        "pitcher_impact": 20.0,
+        "adjusted": 27.09
+      },
+      "away_team": {
+        "base": 42.465753424657535,
+        "tendency": 53.333333333333336,
+        "combined": 46.81,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 39.69
+      },
+      "game_yrfi_probability": 56.03
+    },
+    "yrfi_probability": 56.03
+  },
+  "metadata": {
+    "generated_at": "2025-09-14T13:14:37.745528",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776326,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jose Quintana",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 17.56756756756757,
+        "ratio": "13/74"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 26.88,
+    "pitcher": {
+      "name": "Miles Mikolas",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 27.027027027027028,
+        "ratio": "20/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 17.56756756756757,
+        "tendency": 46.666666666666664,
+        "combined": 29.21,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 31.16
+      },
+      "away_team": {
+        "base": 27.027027027027028,
+        "tendency": 26.666666666666668,
+        "combined": 26.88,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 27.0
+      },
+      "game_yrfi_probability": 49.75
+    },
+    "yrfi_probability": 49.75
+  },
+  "metadata": {
+    "generated_at": "2025-09-14T13:14:37.682339",
+    "data_source": "season_data.json"
+  }
+}

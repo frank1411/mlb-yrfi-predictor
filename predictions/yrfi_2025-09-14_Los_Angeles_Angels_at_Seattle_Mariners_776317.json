@@ -1,0 +1,67 @@
+{
+  "game_pk": 776317,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 20.27027027027027,
+        "ratio": "15/74"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 32.56,
+    "pitcher": {
+      "name": "Kyle Hendricks",
+      "yrfi_allowed": 15.384615384615385,
+      "yrfi_ratio": "2/13"
+    },
+    "stats": {
+      "base": {
+        "value": 36.486486486486484,
+        "ratio": "27/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.27027027027027,
+        "tendency": 20.0,
+        "combined": 20.16,
+        "pitcher_impact": 15.384615384615385,
+        "adjusted": 18.73
+      },
+      "away_team": {
+        "base": 36.486486486486484,
+        "tendency": 26.666666666666668,
+        "combined": 32.56,
+        "pitcher_impact": 10.0,
+        "adjusted": 25.79
+      },
+      "game_yrfi_probability": 39.69
+    },
+    "yrfi_probability": 39.69
+  },
+  "metadata": {
+    "generated_at": "2025-09-14T13:14:37.735144",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Miami Marlins
 
-**Fecha:** 2025-09-13  
-**Lanzadores:** Charlie Morton (V) vs Janson Junk (L)
+**Fecha:** 2025-09-14  
+**Lanzadores:** Por anunciar (V) vs Adam Mazur (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.9%
+**Probabilidad de que anoten en la primera entrada:** 58.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 28.9% (22/76 partidos)
+- **Estadística base YRFI:** 29.9% (23/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Charlie Morton):** 36.4% (4/11 partidos)
-- **Puntuación ajustada:** 34.3%
+- **Impacto del lanzador visitante (Detroit Tigers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.8%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 21.9% (16/73 partidos)
+- **Estadística base YRFI:** 21.6% (16/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 28.6% (2/7 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Impacto del lanzador local (Miami Marlins - Adam Mazur):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 31.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-13 13:15:02
+- **Generado el:** 2025-09-14 13:14:37
 - **Fuente de datos:** season_data.json

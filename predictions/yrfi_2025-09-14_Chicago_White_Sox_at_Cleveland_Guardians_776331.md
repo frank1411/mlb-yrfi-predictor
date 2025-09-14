@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Cleveland Guardians
 
-**Fecha:** 2025-09-13  
-**Lanzadores:** Davis Martin (V) vs Parker Messick (L)
+**Fecha:** 2025-09-14  
+**Lanzadores:** Yoendrys Gómez (V) vs Slade Cecconi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.0%
+**Probabilidad de que anoten en la primera entrada:** 52.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 32.9% (24/73 partidos)
+- **Estadística base YRFI:** 32.4% (24/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 45.5% (5/11 partidos)
-- **Puntuación ajustada:** 34.9%
+- **Impacto del lanzador visitante (Chicago White Sox - Yoendrys Gómez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 36.1%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 30.1% (22/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Estadística base YRFI:** 31.1% (23/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-13 13:15:02
+- **Generado el:** 2025-09-14 13:14:37
 - **Fuente de datos:** season_data.json

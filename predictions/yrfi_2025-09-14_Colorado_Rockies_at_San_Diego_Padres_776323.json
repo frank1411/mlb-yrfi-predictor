@@ -1,0 +1,67 @@
+{
+  "game_pk": 776323,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Yu Darvish",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 24.324324324324326,
+        "ratio": "18/74"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 10.77,
+    "pitcher": {
+      "name": "Germán Márquez",
+      "yrfi_allowed": 46.15384615384615,
+      "yrfi_ratio": "6/13"
+    },
+    "stats": {
+      "base": {
+        "value": 13.513513513513514,
+        "ratio": "10/74"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.324324324324326,
+        "tendency": 20.0,
+        "combined": 22.59,
+        "pitcher_impact": 46.15384615384615,
+        "adjusted": 29.66
+      },
+      "away_team": {
+        "base": 13.513513513513514,
+        "tendency": 6.666666666666667,
+        "combined": 10.77,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 17.54
+      },
+      "game_yrfi_probability": 42.0
+    },
+    "yrfi_probability": 42.0
+  },
+  "metadata": {
+    "generated_at": "2025-09-14T13:14:37.724741",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Milwaukee Brewers
 
 **Fecha:** 2025-09-14  
-**Lanzadores:** Sonny Gray (V) vs Jacob Misiorowski (L)
+**Lanzadores:** Miles Mikolas (V) vs Jose Quintana (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.4%
+**Probabilidad de que anoten en la primera entrada:** 49.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 17.8% (13/73 partidos)
+- **Estadística base YRFI:** 17.6% (13/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Sonny Gray):** 40.0% (4/10 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Miles Mikolas):** 35.7% (5/14 partidos)
+- **Puntuación ajustada:** 31.2%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 26.5%
+- **Estadística base YRFI:** 27.0% (20/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Jose Quintana):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 27.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-13 13:15:02
+- **Generado el:** 2025-09-14 13:14:37
 - **Fuente de datos:** season_data.json

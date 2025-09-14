@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Minnesota Twins
 
-**Fecha:** 2025-09-13  
-**Lanzadores:** Ryne Nelson (V) vs Joe Ryan (L)
+**Fecha:** 2025-09-14  
+**Lanzadores:** Nabil Crismatt (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.6%
+**Probabilidad de que anoten en la primera entrada:** 47.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 26.4% (19/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Ryne Nelson):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Estadística base YRFI:** 26.0% (19/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Nabil Crismatt):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.5%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.6% (21/76 partidos)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 28.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-13 13:15:02
+- **Generado el:** 2025-09-14 13:14:37
 - **Fuente de datos:** season_data.json

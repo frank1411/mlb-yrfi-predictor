@@ -1,0 +1,67 @@
+{
+  "game_pk": 776332,
+  "game_date": "2025-09-14",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Adam Mazur",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 29.87012987012987,
+        "ratio": "23/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 23.64,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.62162162162162,
+        "ratio": "16/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.87012987012987,
+        "tendency": 40.0,
+        "combined": 33.92,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.75
+      },
+      "away_team": {
+        "base": 21.62162162162162,
+        "tendency": 26.666666666666668,
+        "combined": 23.64,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.55
+      },
+      "game_yrfi_probability": 58.07
+    },
+    "yrfi_probability": 58.07
+  },
+  "metadata": {
+    "generated_at": "2025-09-14T13:14:37.660930",
+    "data_source": "season_data.json"
+  }
+}

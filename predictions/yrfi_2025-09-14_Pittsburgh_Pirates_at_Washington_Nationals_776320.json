@@ -1,18 +1,18 @@
 {
-  "game_pk": 776336,
-  "game_date": "2025-09-13",
+  "game_pk": 776320,
+  "game_date": "2025-09-14",
   "home_team": {
     "id": "120",
     "name": "Washington Nationals",
     "pitcher": {
-      "name": "Andrew Alvarez",
+      "name": "Cade Cavalli",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 29.166666666666668,
-        "ratio": "21/72"
+        "value": 28.767123287671232,
+        "ratio": "21/73"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
-    "combined_yrfi_pct": 32.44,
+    "combined_yrfi_pct": 32.22,
     "pitcher": {
-      "name": "Bubba Chandler",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/1"
+      "name": "Mike Burrows",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
     },
     "stats": {
       "base": {
-        "value": 27.397260273972602,
-        "ratio": "20/73"
+        "value": 27.027027027027028,
+        "ratio": "20/74"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 29.166666666666668,
+        "base": 28.767123287671232,
         "tendency": 26.666666666666668,
-        "combined": 28.17,
-        "pitcher_impact": 0.0,
-        "adjusted": 19.72
+        "combined": 27.93,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 28.12
       },
       "away_team": {
-        "base": 27.397260273972602,
+        "base": 27.027027027027028,
         "tendency": 40.0,
-        "combined": 32.44,
+        "combined": 32.22,
         "pitcher_impact": 0.0,
-        "adjusted": 22.71
+        "adjusted": 22.55
       },
-      "game_yrfi_probability": 37.95
+      "game_yrfi_probability": 44.33
     },
-    "yrfi_probability": 37.95
+    "yrfi_probability": 44.33
   },
   "metadata": {
-    "generated_at": "2025-09-13T13:15:02.626984",
+    "generated_at": "2025-09-14T13:14:37.580577",
     "data_source": "season_data.json"
   }
 }

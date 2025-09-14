@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ San Diego Padres
 
 **Fecha:** 2025-09-14  
-**Lanzadores:** Bradley Blalock (V) vs Dylan Cease (L)
+**Lanzadores:** Germán Márquez (V) vs Yu Darvish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.0%
+**Probabilidad de que anoten en la primera entrada:** 42.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 23.3% (17/73 partidos)
+- **Estadística base YRFI:** 24.3% (18/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Bradley Blalock):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador visitante (Colorado Rockies - Germán Márquez):** 46.2% (6/13 partidos)
+- **Puntuación ajustada:** 29.7%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 12.3% (9/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Dylan Cease):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 9.5%
+- **Estadística base YRFI:** 13.5% (10/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Yu Darvish):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 17.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-13 13:15:02
+- **Generado el:** 2025-09-14 13:14:37
 - **Fuente de datos:** season_data.json

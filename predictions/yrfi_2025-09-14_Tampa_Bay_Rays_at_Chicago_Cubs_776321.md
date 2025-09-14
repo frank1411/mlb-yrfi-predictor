@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Chicago Cubs
 
-**Fecha:** 2025-09-13  
-**Lanzadores:** Drew Rasmussen (V) vs Colin Rea (L)
+**Fecha:** 2025-09-14  
+**Lanzadores:** Adrian Houser (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.5%
+**Probabilidad de que anoten en la primera entrada:** 49.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 27.4% (20/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 27.2%
+- **Estadística base YRFI:** 27.0% (20/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Adrian Houser):** 36.4% (4/11 partidos)
+- **Puntuación ajustada:** 27.9%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 24.7% (18/73 partidos)
+- **Estadística base YRFI:** 24.3% (18/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 33.3% (5/15 partidos)
-- **Puntuación ajustada:** 33.4%
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 29.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-13 13:15:02
+- **Generado el:** 2025-09-14 13:14:37
 - **Fuente de datos:** season_data.json
