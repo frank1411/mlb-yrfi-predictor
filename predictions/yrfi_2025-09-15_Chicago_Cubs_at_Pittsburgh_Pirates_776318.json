@@ -1,0 +1,67 @@
+{
+  "game_pk": 776318,
+  "game_date": "2025-09-15",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.333333333333332,
+        "ratio": "22/75"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 29.32,
+    "pitcher": {
+      "name": "Jameson Taillon",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 31.08108108108108,
+        "ratio": "23/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.333333333333332,
+        "tendency": 40.0,
+        "combined": 33.6,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 28.97
+      },
+      "away_team": {
+        "base": 31.08108108108108,
+        "tendency": 26.666666666666668,
+        "combined": 29.32,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.52
+      },
+      "game_yrfi_probability": 43.55
+    },
+    "yrfi_probability": 43.55
+  },
+  "metadata": {
+    "generated_at": "2025-09-15T13:21:55.211515",
+    "data_source": "season_data.json"
+  }
+}

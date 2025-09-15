@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Chicago Cubs
+# Análisis YRFI: New York Yankees @ Minnesota Twins
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Adrian Houser (V) vs Shota Imanaga (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Carlos Rodón (V) vs Simeon Woods Richardson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.0%
+**Probabilidad de que anoten en la primera entrada:** 48.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Adrian Houser):** 36.4% (4/11 partidos)
-- **Puntuación ajustada:** 27.9%
+- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 18.8% (3/16 partidos)
+- **Puntuación ajustada:** 22.0%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 24.3% (18/74 partidos)
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 41.9% (31/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 29.3%
+- **Impacto del lanzador local (Minnesota Twins - Simeon Woods Richardson):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 33.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 13:14:37
+- **Generado el:** 2025-09-15 13:21:55
 - **Fuente de datos:** season_data.json

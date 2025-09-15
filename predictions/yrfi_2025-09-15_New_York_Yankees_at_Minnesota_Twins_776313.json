@@ -1,0 +1,67 @@
+{
+  "game_pk": 776313,
+  "game_date": "2025-09-15",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 25.675675675675674,
+        "ratio": "19/74"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 43.8,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 18.75,
+      "yrfi_ratio": "3/16"
+    },
+    "stats": {
+      "base": {
+        "value": 41.891891891891895,
+        "ratio": "31/74"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.675675675675674,
+        "tendency": 20.0,
+        "combined": 23.41,
+        "pitcher_impact": 18.75,
+        "adjusted": 22.01
+      },
+      "away_team": {
+        "base": 41.891891891891895,
+        "tendency": 46.666666666666664,
+        "combined": 43.8,
+        "pitcher_impact": 10.0,
+        "adjusted": 33.66
+      },
+      "game_yrfi_probability": 48.26
+    },
+    "yrfi_probability": 48.26
+  },
+  "metadata": {
+    "generated_at": "2025-09-15T13:21:55.245684",
+    "data_source": "season_data.json"
+  }
+}

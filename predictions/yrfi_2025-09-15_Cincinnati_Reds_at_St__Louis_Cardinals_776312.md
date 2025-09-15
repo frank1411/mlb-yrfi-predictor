@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
+# Análisis YRFI: Cincinnati Reds @ St. Louis Cardinals
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Albert Suárez (V) vs Shane Bieber (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Zack Littell (V) vs Matthew Liberatore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.0%
+**Probabilidad de que anoten en la primera entrada:** 43.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.7% (22/74 partidos)
+### St. Louis Cardinals (Local)
+- **Estadística base YRFI:** 20.0% (15/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Albert Suárez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 23.4%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 22.7% (17/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Shane Bieber):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.5%
+- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 25.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 13:14:37
+- **Generado el:** 2025-09-15 13:21:55
 - **Fuente de datos:** season_data.json

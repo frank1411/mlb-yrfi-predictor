@@ -1,0 +1,67 @@
+{
+  "game_pk": 776319,
+  "game_date": "2025-09-16",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Jason Alexander",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 22.666666666666664,
+        "ratio": "17/75"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 23.73,
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 30.666666666666664,
+        "ratio": "23/75"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.666666666666664,
+        "tendency": 13.333333333333334,
+        "combined": 18.93,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 22.48
+      },
+      "away_team": {
+        "base": 30.666666666666664,
+        "tendency": 13.333333333333334,
+        "combined": 23.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.61
+      },
+      "game_yrfi_probability": 35.36
+    },
+    "yrfi_probability": 35.36
+  },
+  "metadata": {
+    "generated_at": "2025-09-15T13:21:55.266393",
+    "data_source": "season_data.json"
+  }
+}

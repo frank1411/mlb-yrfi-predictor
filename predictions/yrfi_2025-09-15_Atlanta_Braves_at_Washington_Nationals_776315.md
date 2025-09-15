@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Seattle Mariners
+# Análisis YRFI: Atlanta Braves @ Washington Nationals
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Kyle Hendricks (V) vs George Kirby (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Spencer Strider (V) vs Mitchell Parker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.7%
+**Probabilidad de que anoten en la primera entrada:** 50.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 20.3% (15/74 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 28.4% (21/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Kyle Hendricks):** 15.4% (2/13 partidos)
-- **Puntuación ajustada:** 18.7%
+- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 26.5%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 36.5% (27/74 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 28.4% (21/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 25.8%
+- **Impacto del lanzador local (Washington Nationals - Mitchell Parker):** 43.8% (7/16 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 13:14:37
+- **Generado el:** 2025-09-15 13:21:55
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Philadelphia Phillies
+# Análisis YRFI: Baltimore Orioles @ Chicago White Sox
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Noah Cameron (V) vs Aaron Nola (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Kyle Bradish (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.1%
+**Probabilidad de que anoten en la primera entrada:** 51.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 39.2% (29/74 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 31.8%
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.8%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 31.1% (23/74 partidos)
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 26.7% (20/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 42.9% (3/7 partidos)
-- **Puntuación ajustada:** 37.1%
+- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 13:14:37
+- **Generado el:** 2025-09-15 13:21:55
 - **Fuente de datos:** season_data.json

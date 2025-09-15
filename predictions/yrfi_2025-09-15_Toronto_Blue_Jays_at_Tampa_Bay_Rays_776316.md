@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ Milwaukee Brewers
+# Análisis YRFI: Toronto Blue Jays @ Tampa Bay Rays
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Miles Mikolas (V) vs Jose Quintana (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Trey Yesavage (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.8%
+**Probabilidad de que anoten en la primera entrada:** 51.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 17.6% (13/74 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 33.8% (25/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Miles Mikolas):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 31.2%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.3%
 
-### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.0% (19/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jose Quintana):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 27.0%
+- **Impacto del lanzador local (Tampa Bay Rays - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 33.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 13:14:37
+- **Generado el:** 2025-09-15 13:21:55
 - **Fuente de datos:** season_data.json
