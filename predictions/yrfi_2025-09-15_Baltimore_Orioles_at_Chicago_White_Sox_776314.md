@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Chicago Cubs
+# Análisis YRFI: Baltimore Orioles @ Chicago White Sox
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Adrian Houser (V) vs Shota Imanaga (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Kyle Bradish (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.0%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Adrian Houser):** 36.4% (4/11 partidos)
-- **Puntuación ajustada:** 27.8%
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.6%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 24.3% (18/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 30.8%
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 26.7% (20/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 39.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776311,
+  "game_date": "2025-09-16",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 37.83783783783784,
+        "ratio": "28/74"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 34.0,
+    "pitcher": {
+      "name": "Ranger Suárez",
+      "yrfi_allowed": 10.0,
+      "yrfi_ratio": "1/10"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "20/75"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.83783783783784,
+        "tendency": 20.0,
+        "combined": 28.03,
+        "pitcher_impact": 10.0,
+        "adjusted": 21.72
+      },
+      "away_team": {
+        "base": 26.666666666666668,
+        "tendency": 40.0,
+        "combined": 34.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.1
+      },
+      "game_yrfi_probability": 39.02
+    },
+    "yrfi_probability": 39.02
+  },
+  "metadata": {
+    "generated_at": "2025-09-15T09:41:15.095230",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ New York Mets
+# Análisis YRFI: San Francisco Giants @ Arizona Diamondbacks
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Jacob Latz (V) vs Nolan McLean (L)
+**Fecha:** 2025-09-16  
+**Lanzadores:** Kai-Wei Teng (V) vs Zac Gallen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.8%
+**Probabilidad de que anoten en la primera entrada:** 65.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 35.1% (26/74 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 45.8% (33/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jacob Latz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.2%
+- **Impacto del lanzador visitante (San Francisco Giants - Kai-Wei Teng):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 42.8%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 31.1% (23/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Mets - Nolan McLean):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 16.2%
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 32.4% (24/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 26.7% (4/15 partidos)
+- **Puntuación ajustada:** 40.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json

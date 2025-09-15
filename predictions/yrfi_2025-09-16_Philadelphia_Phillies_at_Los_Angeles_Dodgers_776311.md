@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ Minnesota Twins
+# Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Nabil Crismatt (V) vs Bailey Ober (L)
+**Fecha:** 2025-09-16  
+**Lanzadores:** Ranger Suárez (V) vs Emmet Sheehan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 39.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 37.8% (28/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Nabil Crismatt):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Ranger Suárez):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 21.7%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.3% (21/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 28.6%
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 26.7% (20/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 0.0% (0/6 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Pittsburgh Pirates @ Washington Nationals
+# Análisis YRFI: Toronto Blue Jays @ Tampa Bay Rays
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Mike Burrows (V) vs Cade Cavalli (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Trey Yesavage (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.0%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 28.8% (21/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Mike Burrows):** 28.6% (2/7 partidos)
-- **Puntuación ajustada:** 27.9%
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 33.8% (25/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.6%
 
-### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.2%
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.0% (19/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 34.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json

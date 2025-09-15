@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Athletics
+# Análisis YRFI: Texas Rangers @ Houston Astros
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Nick Lodolo (V) vs Luis Morales (L)
+**Fecha:** 2025-09-16  
+**Lanzadores:** Jack Leiter (V) vs Jason Alexander (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.8%
+**Probabilidad de que anoten en la primera entrada:** 32.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 36.5% (27/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 32.6%
+### Houston Astros (Local)
+- **Estadística base YRFI:** 22.7% (17/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 22.2%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 21.6% (16/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Luis Morales):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.9%
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 30.7% (23/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Jason Alexander):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 13.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Philadelphia Phillies
+# Análisis YRFI: Chicago Cubs @ Pittsburgh Pirates
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Noah Cameron (V) vs Aaron Nola (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Jameson Taillon (V) vs Braxton Ashcraft (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.1%
+**Probabilidad de que anoten en la primera entrada:** 42.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 39.2% (29/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 30.4%
-
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 31.1% (23/74 partidos)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 29.3% (22/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 42.9% (3/7 partidos)
-- **Puntuación ajustada:** 38.4%
+- **Impacto del lanzador visitante (Chicago Cubs - Jameson Taillon):** 18.2% (2/11 partidos)
+- **Puntuación ajustada:** 29.2%
+
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 31.1% (23/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json

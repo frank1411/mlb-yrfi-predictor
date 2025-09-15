@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ Milwaukee Brewers
+# Análisis YRFI: New York Yankees @ Minnesota Twins
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Miles Mikolas (V) vs Jose Quintana (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Carlos Rodón (V) vs Simeon Woods Richardson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 46.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 17.6% (13/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Miles Mikolas):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 34.3%
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 18.8% (3/16 partidos)
+- **Puntuación ajustada:** 21.2%
 
-### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jose Quintana):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 27.0%
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 41.9% (31/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Simeon Woods Richardson):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 32.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json

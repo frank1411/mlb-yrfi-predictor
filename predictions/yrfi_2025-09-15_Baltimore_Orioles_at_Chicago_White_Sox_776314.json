@@ -1,13 +1,13 @@
 {
-  "game_pk": 776322,
-  "game_date": "2025-09-14",
+  "game_pk": 776314,
+  "game_date": "2025-09-15",
   "home_team": {
-    "id": "141",
-    "name": "Toronto Blue Jays",
+    "id": "145",
+    "name": "Chicago White Sox",
     "pitcher": {
-      "name": "Shane Bieber",
+      "name": "Por anunciar",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -15,24 +15,24 @@
         "ratio": "22/74"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
     "id": "110",
     "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 34.16,
+    "combined_yrfi_pct": 34.0,
     "pitcher": {
-      "name": "Albert Suárez",
+      "name": "Kyle Bradish",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 27.027027027027028,
-        "ratio": "20/74"
+        "value": 26.666666666666668,
+        "ratio": "20/75"
       },
       "tendency": {
         "value": 40.0,
@@ -44,24 +44,24 @@
     "calculation": {
       "home_team": {
         "base": 29.72972972972973,
-        "tendency": 26.666666666666668,
-        "combined": 28.05,
+        "tendency": 33.33333333333333,
+        "combined": 31.71,
         "pitcher_impact": 0.0,
-        "adjusted": 18.23
+        "adjusted": 20.61
       },
       "away_team": {
-        "base": 27.027027027027028,
+        "base": 26.666666666666668,
         "tendency": 40.0,
-        "combined": 34.16,
+        "combined": 34.0,
         "pitcher_impact": 50.0,
-        "adjusted": 39.71
+        "adjusted": 39.6
       },
-      "game_yrfi_probability": 50.7
+      "game_yrfi_probability": 52.05
     },
-    "yrfi_probability": 50.7
+    "yrfi_probability": 52.05
   },
   "metadata": {
-    "generated_at": "2025-09-14T09:36:39.079008",
+    "generated_at": "2025-09-15T09:41:15.038081",
     "data_source": "season_data.json"
   }
 }

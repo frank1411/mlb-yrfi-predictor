@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Boston Red Sox
+# Análisis YRFI: Cincinnati Reds @ St. Louis Cardinals
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Will Warren (V) vs Garrett Crochet (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Zack Littell (V) vs Matthew Liberatore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.3%
+**Probabilidad de que anoten en la primera entrada:** 44.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
-- **Estadística base YRFI:** 32.4% (24/74 partidos)
+### St. Louis Cardinals (Local)
+- **Estadística base YRFI:** 20.0% (15/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 26.0%
+- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 24.1%
 
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 42.5% (31/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Garrett Crochet):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 39.6%
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 22.7% (17/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json

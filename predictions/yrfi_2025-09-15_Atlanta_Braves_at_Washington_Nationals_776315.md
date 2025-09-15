@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
+# Análisis YRFI: Atlanta Braves @ Washington Nationals
 
-**Fecha:** 2025-09-14  
-**Lanzadores:** Albert Suárez (V) vs Shane Bieber (L)
+**Fecha:** 2025-09-15  
+**Lanzadores:** Spencer Strider (V) vs Mitchell Parker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.7%
+**Probabilidad de que anoten en la primera entrada:** 50.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.7% (22/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Albert Suárez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.2%
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 28.4% (21/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 25.9%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Shane Bieber):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 39.7%
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 28.4% (21/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Washington Nationals - Mitchell Parker):** 43.8% (7/16 partidos)
+- **Puntuación ajustada:** 33.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-14 09:36:39
+- **Generado el:** 2025-09-15 09:41:15
 - **Fuente de datos:** season_data.json
