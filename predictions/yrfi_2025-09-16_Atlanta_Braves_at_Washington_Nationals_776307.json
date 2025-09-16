@@ -11,8 +11,8 @@
     },
     "stats": {
       "base": {
-        "value": 28.000000000000004,
-        "ratio": "21/75"
+        "value": 27.631578947368425,
+        "ratio": "21/76"
       },
       "tendency": {
         "value": 20.0,
@@ -23,7 +23,7 @@
   "away_team": {
     "id": "144",
     "name": "Atlanta Braves",
-    "combined_yrfi_pct": 27.27,
+    "combined_yrfi_pct": 27.1,
     "pitcher": {
       "name": "Chris Sale",
       "yrfi_allowed": 20.0,
@@ -31,8 +31,8 @@
     },
     "stats": {
       "base": {
-        "value": 28.000000000000004,
-        "ratio": "21/75"
+        "value": 27.631578947368425,
+        "ratio": "21/76"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.000000000000004,
+        "base": 27.631578947368425,
         "tendency": 20.0,
-        "combined": 23.6,
+        "combined": 23.43,
         "pitcher_impact": 20.0,
-        "adjusted": 22.34
+        "adjusted": 22.23
       },
       "away_team": {
-        "base": 28.000000000000004,
+        "base": 27.631578947368425,
         "tendency": 26.666666666666668,
-        "combined": 27.27,
+        "combined": 27.1,
         "pitcher_impact": 50.0,
-        "adjusted": 35.22
+        "adjusted": 35.12
       },
-      "game_yrfi_probability": 49.69
+      "game_yrfi_probability": 49.54
     },
-    "yrfi_probability": 49.69
+    "yrfi_probability": 49.54
   },
   "metadata": {
-    "generated_at": "2025-09-16T14:58:27.716800",
+    "generated_at": "2025-09-16T23:14:58.704629",
     "data_source": "season_data.json"
   }
 }

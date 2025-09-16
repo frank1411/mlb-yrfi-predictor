@@ -1,19 +1,19 @@
 # Análisis YRFI: San Francisco Giants @ Arizona Diamondbacks
 
 **Fecha:** 2025-09-17  
-**Lanzadores:** Por anunciar (V) vs Eduardo Rodriguez (L)
+**Lanzadores:** Tristan Beck (V) vs Eduardo Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 67.9%
+**Probabilidad de que anoten en la primera entrada:** 57.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
 - **Estadística base YRFI:** 46.6% (34/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 45.4%
+- **Impacto del lanzador visitante (San Francisco Giants - Tristan Beck):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.9%
 
 ### San Francisco Giants (Visitante)
 - **Estadística base YRFI:** 32.0% (24/75 partidos)
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-16 14:58:27
+- **Generado el:** 2025-09-16 23:14:58
 - **Fuente de datos:** season_data.json

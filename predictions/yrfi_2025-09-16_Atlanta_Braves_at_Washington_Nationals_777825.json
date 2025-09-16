@@ -6,13 +6,13 @@
     "name": "Washington Nationals",
     "pitcher": {
       "name": "Jake Irvin",
-      "yrfi_allowed": 61.53846153846154,
-      "yrfi_ratio": "8/13"
+      "yrfi_allowed": 57.14285714285714,
+      "yrfi_ratio": "8/14"
     },
     "stats": {
       "base": {
-        "value": 28.000000000000004,
-        "ratio": "21/75"
+        "value": 27.631578947368425,
+        "ratio": "21/76"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "144",
     "name": "Atlanta Braves",
-    "combined_yrfi_pct": 27.27,
+    "combined_yrfi_pct": 27.1,
     "pitcher": {
       "name": "José Suarez",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 28.000000000000004,
-        "ratio": "21/75"
+        "value": 27.631578947368425,
+        "ratio": "21/76"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.000000000000004,
+        "base": 27.631578947368425,
         "tendency": 20.0,
-        "combined": 23.6,
+        "combined": 23.43,
         "pitcher_impact": 0.0,
-        "adjusted": 15.34
+        "adjusted": 15.23
       },
       "away_team": {
-        "base": 28.000000000000004,
+        "base": 27.631578947368425,
         "tendency": 26.666666666666668,
-        "combined": 27.27,
-        "pitcher_impact": 61.53846153846154,
-        "adjusted": 39.26
+        "combined": 27.1,
+        "pitcher_impact": 57.14285714285714,
+        "adjusted": 37.62
       },
-      "game_yrfi_probability": 48.58
+      "game_yrfi_probability": 47.12
     },
-    "yrfi_probability": 48.58
+    "yrfi_probability": 47.12
   },
   "metadata": {
-    "generated_at": "2025-09-16T14:58:27.706272",
+    "generated_at": "2025-09-16T23:14:58.693227",
     "data_source": "season_data.json"
   }
 }

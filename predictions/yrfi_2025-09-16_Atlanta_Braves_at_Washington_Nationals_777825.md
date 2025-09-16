@@ -5,21 +5,21 @@
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.6%
+**Probabilidad de que anoten en la primera entrada:** 47.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - José Suarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador visitante (Atlanta Braves - José Suarez):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 15.2%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Jake Irvin):** 61.5% (8/13 partidos)
-- **Puntuación ajustada:** 39.3%
+- **Impacto del lanzador local (Washington Nationals - Jake Irvin):** 57.1% (8/14 partidos)
+- **Puntuación ajustada:** 37.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-16 14:58:27
+- **Generado el:** 2025-09-16 23:14:58
 - **Fuente de datos:** season_data.json

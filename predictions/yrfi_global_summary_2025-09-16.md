@@ -2,32 +2,32 @@
 
 ## 🏆 Top 3 Equipos con Mayor Probabilidad YRFI
 
-1. **Arizona Diamondbacks** (Local 🏠)
-   - **Oponente:** San Francisco Giants
-   - **Lanzador Rival:** Por anunciar
-   - **YRFI Ajustado:** 45.4%
-
-2. **Kansas City Royals** (Local 🏠)
+1. **Kansas City Royals** (Local 🏠)
    - **Oponente:** Seattle Mariners
    - **Lanzador Rival:** Logan Gilbert
    - **YRFI Ajustado:** 41.2%
 
-3. **San Francisco Giants** (Visitante ✈️)
+2. **San Francisco Giants** (Visitante ✈️)
    - **Oponente:** Arizona Diamondbacks
    - **Lanzador Rival:** Eduardo Rodriguez
    - **YRFI Ajustado:** 41.1%
 
+3. **Tampa Bay Rays** (Local 🏠)
+   - **Oponente:** Toronto Blue Jays
+   - **Lanzador Rival:** José Berríos
+   - **YRFI Ajustado:** 40.8%
+
 ## 🎯 Top 2 Partidos con Mayor Probabilidad YRFI
 
-1. **San Francisco Giants @ Arizona Diamondbacks**
-   - **Lanzadores:** Por anunciar vs Eduardo Rodriguez
-   - **Probabilidad YRFI:** 67.9%
-   - **Prob. Equipos:** 41.1% vs 45.4%
-
-2. **Miami Marlins @ Colorado Rockies**
+1. **Miami Marlins @ Colorado Rockies**
    - **Lanzadores:** Eury Pérez vs Kyle Freeland
    - **Probabilidad YRFI:** 57.9%
    - **Prob. Equipos:** 38.2% vs 32.0%
+
+2. **Toronto Blue Jays @ Tampa Bay Rays**
+   - **Lanzadores:** José Berríos vs Ryan Pepiot
+   - **Probabilidad YRFI:** 57.8%
+   - **Prob. Equipos:** 28.7% vs 40.8%
 
 ## 📉 Top 3 Equipos con Menor Probabilidad YRFI
 
@@ -39,7 +39,7 @@
 2. **Washington Nationals** (Local 🏠)
    - **Oponente:** Atlanta Braves
    - **Lanzador Rival:** José Suarez
-   - **YRFI Ajustado:** 15.3%
+   - **YRFI Ajustado:** 15.2%
 
 3. **Seattle Mariners** (Visitante ✈️)
    - **Oponente:** Kansas City Royals
@@ -61,8 +61,8 @@
 ## 📈 Estadísticas Adicionales
 
 - **Total de partidos analizados:** 16
-- **Promedio de probabilidad YRFI:** 49.8%
-- **Partido con mayor probabilidad YRFI:** San Francisco Giants @ Arizona Diamondbacks (67.9%)
+- **Promedio de probabilidad YRFI:** 49.0%
+- **Partido con mayor probabilidad YRFI:** Miami Marlins @ Colorado Rockies (57.9%)
 - **Partido con menor probabilidad YRFI:** Los Angeles Angels @ Milwaukee Brewers (37.4%)
 
 ## 📝 Notas
@@ -75,4 +75,4 @@
 - El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.
 - La probabilidad del partido combina las estadísticas de ambos equipos.
 
-*Resumen generado el 2025-09-16 14:58:27*
+*Resumen generado el 2025-09-16 23:14:58*

@@ -5,21 +5,21 @@
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.7%
+**Probabilidad de que anoten en la primera entrada:** 49.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
 - **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Puntuación ajustada:** 22.2%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
 - **Impacto del lanzador local (Washington Nationals - MacKenzie Gore):** 50.0% (6/12 partidos)
-- **Puntuación ajustada:** 35.2%
+- **Puntuación ajustada:** 35.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-16 14:58:27
+- **Generado el:** 2025-09-16 23:14:58
 - **Fuente de datos:** season_data.json
