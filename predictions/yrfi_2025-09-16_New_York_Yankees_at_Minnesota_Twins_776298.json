@@ -1,0 +1,67 @@
+{
+  "game_pk": 776298,
+  "game_date": "2025-09-16",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 25.333333333333336,
+        "ratio": "19/75"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 40.8,
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.333333333333336,
+        "ratio": "31/75"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.333333333333336,
+        "tendency": 20.0,
+        "combined": 23.2,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.24
+      },
+      "away_team": {
+        "base": 41.333333333333336,
+        "tendency": 40.0,
+        "combined": 40.8,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 33.56
+      },
+      "game_yrfi_probability": 54.32
+    },
+    "yrfi_probability": 54.32
+  },
+  "metadata": {
+    "generated_at": "2025-09-16T13:22:31.442594",
+    "data_source": "season_data.json"
+  }
+}

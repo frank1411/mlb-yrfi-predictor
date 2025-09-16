@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Pittsburgh Pirates
+# Análisis YRFI: Los Angeles Angels @ Milwaukee Brewers
 
-**Fecha:** 2025-09-15  
-**Lanzadores:** Jameson Taillon (V) vs Braxton Ashcraft (L)
+**Fecha:** 2025-09-16  
+**Lanzadores:** Caden Dana (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.5%
+**Probabilidad de que anoten en la primera entrada:** 38.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 29.3% (22/75 partidos)
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 17.3% (13/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Jameson Taillon):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 29.0%
+- **Impacto del lanzador visitante (Los Angeles Angels - Caden Dana):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.5%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 31.1% (23/74 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 36.0% (27/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.5%
+- **Impacto del lanzador local (Milwaukee Brewers - Freddy Peralta):** 6.7% (1/15 partidos)
+- **Puntuación ajustada:** 24.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 13:21:55
+- **Generado el:** 2025-09-16 13:22:31
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776302,
+  "game_date": "2025-09-16",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Michael Wacha",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/15"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "24/75"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 29.6,
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "5/10"
+    },
+    "stats": {
+      "base": {
+        "value": 36.0,
+        "ratio": "27/75"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.0,
+        "tendency": 40.0,
+        "combined": 35.2,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.64
+      },
+      "away_team": {
+        "base": 36.0,
+        "tendency": 20.0,
+        "combined": 29.6,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.72
+      },
+      "game_yrfi_probability": 52.15
+    },
+    "yrfi_probability": 52.15
+  },
+  "metadata": {
+    "generated_at": "2025-09-16T13:22:31.421605",
+    "data_source": "season_data.json"
+  }
+}

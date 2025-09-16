@@ -1,0 +1,67 @@
+{
+  "game_pk": 777825,
+  "game_date": "2025-09-16",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 61.53846153846154,
+      "yrfi_ratio": "8/13"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "21/75"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 27.47,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "21/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.000000000000004,
+        "tendency": 20.0,
+        "combined": 24.8,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.36
+      },
+      "away_team": {
+        "base": 28.000000000000004,
+        "tendency": 26.666666666666668,
+        "combined": 27.47,
+        "pitcher_impact": 61.53846153846154,
+        "adjusted": 37.69
+      },
+      "game_yrfi_probability": 57.85
+    },
+    "yrfi_probability": 57.85
+  },
+  "metadata": {
+    "generated_at": "2025-09-16T13:22:31.328918",
+    "data_source": "season_data.json"
+  }
+}

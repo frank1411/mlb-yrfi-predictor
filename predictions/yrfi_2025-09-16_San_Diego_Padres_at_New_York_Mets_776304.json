@@ -1,0 +1,67 @@
+{
+  "game_pk": 776304,
+  "game_date": "2025-09-16",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Clay Holmes",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 34.66666666666667,
+        "ratio": "26/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 26.67,
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "20/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.66666666666667,
+        "tendency": 26.666666666666668,
+        "combined": 31.47,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.03
+      },
+      "away_team": {
+        "base": 26.666666666666668,
+        "tendency": 26.666666666666668,
+        "combined": 26.67,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 27.24
+      },
+      "game_yrfi_probability": 43.27
+    },
+    "yrfi_probability": 43.27
+  },
+  "metadata": {
+    "generated_at": "2025-09-16T13:22:31.399770",
+    "data_source": "season_data.json"
+  }
+}

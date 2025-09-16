@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Houston Astros
 
-**Fecha:** 2025-09-16  
-**Lanzadores:** Jack Leiter (V) vs Jason Alexander (L)
+**Fecha:** 2025-09-17  
+**Lanzadores:** Merrill Kelly (V) vs AJ Blubaugh (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.4%
+**Probabilidad de que anoten en la primera entrada:** 40.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 22.7% (17/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Estadística base YRFI:** 23.7% (18/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Merrill Kelly):** 42.9% (6/14 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 30.7% (23/75 partidos)
+- **Estadística base YRFI:** 30.3% (23/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Jason Alexander):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 16.6%
+- **Impacto del lanzador local (Houston Astros - AJ Blubaugh):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 16.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 13:21:55
+- **Generado el:** 2025-09-16 13:22:31
 - **Fuente de datos:** season_data.json
