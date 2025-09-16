@@ -25,8 +25,8 @@
     "name": "Atlanta Braves",
     "combined_yrfi_pct": 27.47,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
+      "name": "José Suarez",
+      "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
@@ -46,8 +46,8 @@
         "base": 28.000000000000004,
         "tendency": 20.0,
         "combined": 24.8,
-        "pitcher_impact": 50.0,
-        "adjusted": 32.36
+        "pitcher_impact": 0.0,
+        "adjusted": 17.36
       },
       "away_team": {
         "base": 28.000000000000004,
@@ -56,12 +56,12 @@
         "pitcher_impact": 61.53846153846154,
         "adjusted": 37.69
       },
-      "game_yrfi_probability": 57.85
+      "game_yrfi_probability": 48.51
     },
-    "yrfi_probability": 57.85
+    "yrfi_probability": 48.51
   },
   "metadata": {
-    "generated_at": "2025-09-16T13:22:31.328918",
+    "generated_at": "2025-09-16T14:58:27.712728",
     "data_source": "season_data.json"
   }
 }
