@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Minnesota Twins
+# Análisis YRFI: Seattle Mariners @ Kansas City Royals
 
-**Fecha:** 2025-09-15  
-**Lanzadores:** Carlos Rodón (V) vs Simeon Woods Richardson (L)
+**Fecha:** 2025-09-16  
+**Lanzadores:** Logan Gilbert (V) vs Michael Wacha (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.8%
+**Probabilidad de que anoten en la primera entrada:** 51.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 25.7% (19/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 18.8% (3/16 partidos)
-- **Puntuación ajustada:** 21.2%
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 32.0% (24/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (5/10 partidos)
+- **Puntuación ajustada:** 41.2%
 
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 41.9% (31/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Simeon Woods Richardson):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 32.4%
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 36.0% (27/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 0.0% (0/15 partidos)
+- **Puntuación ajustada:** 17.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json

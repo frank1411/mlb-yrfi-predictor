@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ St. Louis Cardinals
+# Análisis YRFI: San Francisco Giants @ Arizona Diamondbacks
 
-**Fecha:** 2025-09-15  
-**Lanzadores:** Zack Littell (V) vs Matthew Liberatore (L)
+**Fecha:** 2025-09-17  
+**Lanzadores:** Por anunciar (V) vs Eduardo Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.4%
+**Probabilidad de que anoten en la primera entrada:** 67.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 20.0% (15/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 24.1%
-
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 22.7% (17/75 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 46.6% (34/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 16.7% (2/12 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Impacto del lanzador visitante (San Francisco Giants - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 45.4%
+
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 32.0% (24/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 36.4% (4/11 partidos)
+- **Puntuación ajustada:** 41.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json

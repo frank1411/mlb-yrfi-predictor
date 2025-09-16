@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Tampa Bay Rays
+# Análisis YRFI: Los Angeles Angels @ Milwaukee Brewers
 
-**Fecha:** 2025-09-15  
-**Lanzadores:** Trey Yesavage (V) vs Por anunciar (L)
+**Fecha:** 2025-09-16  
+**Lanzadores:** Caden Dana (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 37.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 33.8% (25/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.6%
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 17.3% (13/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Angels - Caden Dana):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 19.4%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 36.0% (27/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 34.6%
+- **Impacto del lanzador local (Milwaukee Brewers - Freddy Peralta):** 6.7% (1/15 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json

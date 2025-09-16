@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Houston Astros
+# Análisis YRFI: Baltimore Orioles @ Chicago White Sox
 
 **Fecha:** 2025-09-16  
-**Lanzadores:** Jack Leiter (V) vs Jason Alexander (L)
+**Lanzadores:** Dean Kremer (V) vs Shane Smith (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.9%
+**Probabilidad de que anoten en la primera entrada:** 57.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 22.7% (17/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 30.8% (4/13 partidos)
-- **Puntuación ajustada:** 22.2%
-
-### Texas Rangers (Visitante)
+### Chicago White Sox (Local)
 - **Estadística base YRFI:** 30.7% (23/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Jason Alexander):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 13.7%
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Dean Kremer):** 43.8% (7/16 partidos)
+- **Puntuación ajustada:** 38.6%
+
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 26.3% (20/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Shane Smith):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 30.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json

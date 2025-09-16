@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Pittsburgh Pirates
+# Análisis YRFI: Atlanta Braves @ Washington Nationals
 
-**Fecha:** 2025-09-15  
-**Lanzadores:** Jameson Taillon (V) vs Braxton Ashcraft (L)
+**Fecha:** 2025-09-16  
+**Lanzadores:** Chris Sale (V) vs MacKenzie Gore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.4%
+**Probabilidad de que anoten en la primera entrada:** 49.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 29.3% (22/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Jameson Taillon):** 18.2% (2/11 partidos)
-- **Puntuación ajustada:** 29.2%
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 22.3%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 31.1% (23/74 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 28.0% (21/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.6%
+- **Impacto del lanzador local (Washington Nationals - MacKenzie Gore):** 50.0% (6/12 partidos)
+- **Puntuación ajustada:** 35.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json

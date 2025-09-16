@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Arizona Diamondbacks
+# Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
 
-**Fecha:** 2025-09-16  
-**Lanzadores:** Kai-Wei Teng (V) vs Zac Gallen (L)
+**Fecha:** 2025-09-17  
+**Lanzadores:** Cristopher Sánchez (V) vs Shohei Ohtani (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.8%
+**Probabilidad de que anoten en la primera entrada:** 52.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 45.8% (33/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Kai-Wei Teng):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 42.8%
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 37.3% (28/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 18.8% (3/16 partidos)
+- **Puntuación ajustada:** 24.6%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 32.4% (24/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 26.7% (4/15 partidos)
-- **Puntuación ajustada:** 40.3%
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Shohei Ohtani):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 36.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Chicago White Sox
+# Análisis YRFI: Texas Rangers @ Houston Astros
 
-**Fecha:** 2025-09-15  
-**Lanzadores:** Kyle Bradish (V) vs Por anunciar (L)
+**Fecha:** 2025-09-17  
+**Lanzadores:** Merrill Kelly (V) vs AJ Blubaugh (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 38.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 29.7% (22/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.6%
+### Houston Astros (Local)
+- **Estadística base YRFI:** 23.7% (18/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Merrill Kelly):** 42.9% (6/14 partidos)
+- **Puntuación ajustada:** 29.1%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 26.7% (20/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 39.6%
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 30.3% (23/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Houston Astros - AJ Blubaugh):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 13.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json

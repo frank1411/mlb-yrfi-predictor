@@ -1,0 +1,67 @@
+{
+  "game_pk": 776300,
+  "game_date": "2025-09-16",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "3/7"
+    },
+    "stats": {
+      "base": {
+        "value": 19.736842105263158,
+        "ratio": "15/76"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 28.4,
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 22.36842105263158,
+        "ratio": "17/76"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.736842105263158,
+        "tendency": 20.0,
+        "combined": 19.88,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 19.29
+      },
+      "away_team": {
+        "base": 22.36842105263158,
+        "tendency": 33.33333333333333,
+        "combined": 28.4,
+        "pitcher_impact": 42.857142857142854,
+        "adjusted": 33.46
+      },
+      "game_yrfi_probability": 46.3
+    },
+    "yrfi_probability": 46.3
+  },
+  "metadata": {
+    "generated_at": "2025-09-16T09:40:57.740763",
+    "data_source": "season_data.json"
+  }
+}

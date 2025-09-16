@@ -1,0 +1,67 @@
+{
+  "game_pk": 776301,
+  "game_date": "2025-09-17",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "AJ Blubaugh",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.684210526315788,
+        "ratio": "18/76"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 20.95,
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "6/14"
+    },
+    "stats": {
+      "base": {
+        "value": 30.263157894736842,
+        "ratio": "23/76"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.684210526315788,
+        "tendency": 20.0,
+        "combined": 21.66,
+        "pitcher_impact": 42.857142857142854,
+        "adjusted": 29.08
+      },
+      "away_team": {
+        "base": 30.263157894736842,
+        "tendency": 13.333333333333334,
+        "combined": 20.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.62
+      },
+      "game_yrfi_probability": 38.74
+    },
+    "yrfi_probability": 38.74
+  },
+  "metadata": {
+    "generated_at": "2025-09-16T09:40:57.751019",
+    "data_source": "season_data.json"
+  }
+}

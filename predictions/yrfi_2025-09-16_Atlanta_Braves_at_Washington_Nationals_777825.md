@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
+# Análisis YRFI: Atlanta Braves @ Washington Nationals
 
 **Fecha:** 2025-09-16  
-**Lanzadores:** Ranger Suárez (V) vs Emmet Sheehan (L)
+**Lanzadores:** Por anunciar (V) vs Jake Irvin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.0%
+**Probabilidad de que anoten en la primera entrada:** 59.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 37.8% (28/74 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 28.0% (21/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Ranger Suárez):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Impacto del lanzador visitante (Atlanta Braves - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 32.8%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.7% (20/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 0.0% (0/6 partidos)
-- **Puntuación ajustada:** 22.1%
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Washington Nationals - Jake Irvin):** 61.5% (8/13 partidos)
+- **Puntuación ajustada:** 39.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json

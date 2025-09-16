@@ -1,18 +1,18 @@
 {
-  "game_pk": 776318,
-  "game_date": "2025-09-15",
+  "game_pk": 776308,
+  "game_date": "2025-09-16",
   "home_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Braxton Ashcraft",
+      "name": "Paul Skenes",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/14"
     },
     "stats": {
       "base": {
-        "value": 29.333333333333332,
-        "ratio": "22/75"
+        "value": 28.947368421052634,
+        "ratio": "22/76"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "112",
     "name": "Chicago Cubs",
-    "combined_yrfi_pct": 28.65,
+    "combined_yrfi_pct": 28.47,
     "pitcher": {
-      "name": "Jameson Taillon",
-      "yrfi_allowed": 18.181818181818183,
-      "yrfi_ratio": "2/11"
+      "name": "Cade Horton",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "4/10"
     },
     "stats": {
       "base": {
-        "value": 31.08108108108108,
-        "ratio": "23/74"
+        "value": 30.666666666666664,
+        "ratio": "23/75"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 29.333333333333332,
+        "base": 28.947368421052634,
         "tendency": 40.0,
-        "combined": 35.2,
-        "pitcher_impact": 18.181818181818183,
-        "adjusted": 29.24
+        "combined": 35.03,
+        "pitcher_impact": 40.0,
+        "adjusted": 36.77
       },
       "away_team": {
-        "base": 31.08108108108108,
+        "base": 30.666666666666664,
         "tendency": 26.666666666666668,
-        "combined": 28.65,
+        "combined": 28.47,
         "pitcher_impact": 0.0,
-        "adjusted": 18.62
+        "adjusted": 18.5
       },
-      "game_yrfi_probability": 42.42
+      "game_yrfi_probability": 48.47
     },
-    "yrfi_probability": 42.42
+    "yrfi_probability": 48.47
   },
   "metadata": {
-    "generated_at": "2025-09-15T09:41:15.012739",
+    "generated_at": "2025-09-16T09:40:57.657877",
     "data_source": "season_data.json"
   }
 }

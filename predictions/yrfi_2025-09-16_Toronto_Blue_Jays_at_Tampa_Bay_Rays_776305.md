@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Washington Nationals
+# Análisis YRFI: Toronto Blue Jays @ Tampa Bay Rays
 
-**Fecha:** 2025-09-15  
-**Lanzadores:** Spencer Strider (V) vs Mitchell Parker (L)
+**Fecha:** 2025-09-16  
+**Lanzadores:** José Berríos (V) vs Ryan Pepiot (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 57.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 28.4% (21/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 25.9%
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 34.7% (26/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - José Berríos):** 40.0% (6/15 partidos)
+- **Puntuación ajustada:** 40.8%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 28.4% (21/74 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Mitchell Parker):** 43.8% (7/16 partidos)
-- **Puntuación ajustada:** 33.1%
+- **Impacto del lanzador local (Tampa Bay Rays - Ryan Pepiot):** 33.3% (5/15 partidos)
+- **Puntuación ajustada:** 28.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-15 09:41:15
+- **Generado el:** 2025-09-16 09:40:57
 - **Fuente de datos:** season_data.json
