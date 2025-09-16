@@ -1,19 +1,19 @@
 # Análisis YRFI: Atlanta Braves @ Washington Nationals
 
 **Fecha:** 2025-09-16  
-**Lanzadores:** Por anunciar (V) vs Jake Irvin (L)
+**Lanzadores:** José Suarez (V) vs Jake Irvin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.2%
+**Probabilidad de que anoten en la primera entrada:** 48.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
 - **Estadística base YRFI:** 28.0% (21/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.8%
+- **Impacto del lanzador visitante (Atlanta Braves - José Suarez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.3%
 
 ### Atlanta Braves (Visitante)
 - **Estadística base YRFI:** 28.0% (21/75 partidos)
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-16 09:40:57
+- **Generado el:** 2025-09-16 14:58:27
 - **Fuente de datos:** season_data.json

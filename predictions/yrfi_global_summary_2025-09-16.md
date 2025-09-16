@@ -24,10 +24,10 @@
    - **Probabilidad YRFI:** 67.9%
    - **Prob. Equipos:** 41.1% vs 45.4%
 
-2. **Atlanta Braves @ Washington Nationals**
-   - **Lanzadores:** Por anunciar vs Jake Irvin
-   - **Probabilidad YRFI:** 59.2%
-   - **Prob. Equipos:** 39.3% vs 32.8%
+2. **Miami Marlins @ Colorado Rockies**
+   - **Lanzadores:** Eury Pérez vs Kyle Freeland
+   - **Probabilidad YRFI:** 57.9%
+   - **Prob. Equipos:** 38.2% vs 32.0%
 
 ## 📉 Top 3 Equipos con Menor Probabilidad YRFI
 
@@ -36,15 +36,15 @@
    - **Lanzador Rival:** AJ Blubaugh
    - **YRFI Ajustado:** 13.6%
 
-2. **Seattle Mariners** (Visitante ✈️)
+2. **Washington Nationals** (Local 🏠)
+   - **Oponente:** Atlanta Braves
+   - **Lanzador Rival:** José Suarez
+   - **YRFI Ajustado:** 15.3%
+
+3. **Seattle Mariners** (Visitante ✈️)
    - **Oponente:** Kansas City Royals
    - **Lanzador Rival:** Michael Wacha
    - **YRFI Ajustado:** 17.7%
-
-3. **Athletics** (Visitante ✈️)
-   - **Oponente:** Boston Red Sox
-   - **Lanzador Rival:** Connelly Early
-   - **YRFI Ajustado:** 18.1%
 
 ## 🛑 Top 2 Partidos con Menor Probabilidad YRFI
 
@@ -61,7 +61,7 @@
 ## 📈 Estadísticas Adicionales
 
 - **Total de partidos analizados:** 16
-- **Promedio de probabilidad YRFI:** 50.4%
+- **Promedio de probabilidad YRFI:** 49.8%
 - **Partido con mayor probabilidad YRFI:** San Francisco Giants @ Arizona Diamondbacks (67.9%)
 - **Partido con menor probabilidad YRFI:** Los Angeles Angels @ Milwaukee Brewers (37.4%)
 
@@ -75,4 +75,4 @@
 - El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.
 - La probabilidad del partido combina las estadísticas de ambos equipos.
 
-*Resumen generado el 2025-09-16 09:40:57*
+*Resumen generado el 2025-09-16 14:58:27*

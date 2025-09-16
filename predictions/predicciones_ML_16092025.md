@@ -9,7 +9,6 @@
 | Partido | Prob. YRFI | Recomendación |
 |---------|------------|---------------|
 | Arizona Diamondbacks vs San Francisco Giants | 67.9% | ✅ APUESTA |
-| Washington Nationals vs Atlanta Braves | 59.2% | ✅ APUESTA |
 | Colorado Rockies vs Miami Marlins | 57.9% | ✅ APUESTA |
 | Tampa Bay Rays vs Toronto Blue Jays | 57.8% | ✅ APUESTA |
 | Chicago White Sox vs Baltimore Orioles | 57.0% | ✅ APUESTA |
@@ -17,6 +16,7 @@
 | Los Angeles Dodgers vs Philadelphia Phillies | 52.1% | ✅ APUESTA |
 | Kansas City Royals vs Seattle Mariners | 51.6% | 🟡 CERCANO |
 | Washington Nationals vs Atlanta Braves | 49.7% | 🟡 CERCANO |
+| Washington Nationals vs Atlanta Braves | 48.6% | 🟡 CERCANO |
 | Pittsburgh Pirates vs Chicago Cubs | 48.5% | 🟡 CERCANO |
 | St. Louis Cardinals vs Cincinnati Reds | 46.3% | ❌ NO APUESTA |
 | Detroit Tigers vs Cleveland Guardians | 45.9% | ❌ NO APUESTA |
@@ -40,7 +40,6 @@
 | Philadelphia Phillies | 36.4% | ✈️ Visitante 🔴 Baja |
 | Atlanta Braves | 35.2% | ✈️ Visitante 🔴 Baja |
 | Cincinnati Reds | 33.5% | ✈️ Visitante 🔴 Baja |
-| Washington Nationals | 32.8% | 🏠 Local 🔴 Baja |
 | New York Yankees | 32.2% | ✈️ Visitante 🔴 Baja |
 | Minnesota Twins | 32.1% | 🏠 Local 🔴 Baja |
 | Colorado Rockies | 32.0% | 🏠 Local 🔴 Baja |
@@ -60,6 +59,7 @@
 | Chicago Cubs | 18.5% | ✈️ Visitante 🔴 Baja |
 | Athletics | 18.1% | ✈️ Visitante 🔴 Baja |
 | Seattle Mariners | 17.7% | ✈️ Visitante 🔴 Baja |
+| Washington Nationals | 15.3% | 🏠 Local 🔴 Baja |
 | Texas Rangers | 13.6% | ✈️ Visitante 🔴 Baja |
 
 ## 🔍 ANÁLISIS DETALLADO POR PARTIDO
@@ -68,13 +68,6 @@
 - **Probabilidad YRFI:** 67.9%
 - **Arizona Diamondbacks (Local):** 45.4%
 - **San Francisco Giants (Visitante):** 41.1%
-
-**Recomendación:** ✅ APUESTA ALTA
-
-### Washington Nationals vs Atlanta Braves
-- **Probabilidad YRFI:** 59.2%
-- **Washington Nationals (Local):** 32.8%
-- **Atlanta Braves (Visitante):** 39.3%
 
 **Recomendación:** ✅ APUESTA ALTA
 
@@ -124,6 +117,13 @@
 - **Probabilidad YRFI:** 49.7%
 - **Washington Nationals (Local):** 22.3%
 - **Atlanta Braves (Visitante):** 35.2%
+
+**Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
+
+### Washington Nationals vs Atlanta Braves
+- **Probabilidad YRFI:** 48.6%
+- **Washington Nationals (Local):** 15.3%
+- **Atlanta Braves (Visitante):** 39.3%
 
 **Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
 
