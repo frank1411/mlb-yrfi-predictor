@@ -1,0 +1,67 @@
+{
+  "game_pk": 776296,
+  "game_date": "2025-09-17",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "4/16"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "24/76"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 24.87,
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 21.428571428571427,
+      "yrfi_ratio": "3/14"
+    },
+    "stats": {
+      "base": {
+        "value": 22.666666666666664,
+        "ratio": "17/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.57894736842105,
+        "tendency": 26.666666666666668,
+        "combined": 28.88,
+        "pitcher_impact": 21.428571428571427,
+        "adjusted": 26.27
+      },
+      "away_team": {
+        "base": 22.666666666666664,
+        "tendency": 26.666666666666668,
+        "combined": 24.87,
+        "pitcher_impact": 25.0,
+        "adjusted": 24.91
+      },
+      "game_yrfi_probability": 44.64
+    },
+    "yrfi_probability": 44.64
+  },
+  "metadata": {
+    "generated_at": "2025-09-17T09:39:33.747439",
+    "data_source": "season_data.json"
+  }
+}

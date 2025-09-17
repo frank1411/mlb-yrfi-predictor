@@ -1,0 +1,67 @@
+{
+  "game_pk": 776291,
+  "game_date": "2025-09-17",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Brandon Woodruff",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 18.421052631578945,
+        "ratio": "14/76"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 30.65,
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 26.666666666666668,
+      "yrfi_ratio": "4/15"
+    },
+    "stats": {
+      "base": {
+        "value": 35.526315789473685,
+        "ratio": "27/76"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.421052631578945,
+        "tendency": 46.666666666666664,
+        "combined": 33.96,
+        "pitcher_impact": 26.666666666666668,
+        "adjusted": 31.4
+      },
+      "away_team": {
+        "base": 35.526315789473685,
+        "tendency": 26.666666666666668,
+        "combined": 30.65,
+        "pitcher_impact": 40.0,
+        "adjusted": 33.92
+      },
+      "game_yrfi_probability": 54.67
+    },
+    "yrfi_probability": 54.67
+  },
+  "metadata": {
+    "generated_at": "2025-09-17T09:39:33.811917",
+    "data_source": "season_data.json"
+  }
+}

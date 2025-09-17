@@ -1,0 +1,67 @@
+{
+  "game_pk": 776287,
+  "game_date": "2025-09-17",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Johan Oviedo",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.87012987012987,
+        "ratio": "23/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 32.54,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 13.333333333333334,
+      "yrfi_ratio": "2/15"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "24/76"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.87012987012987,
+        "tendency": 40.0,
+        "combined": 35.44,
+        "pitcher_impact": 13.333333333333334,
+        "adjusted": 27.7
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 33.33333333333333,
+        "combined": 32.54,
+        "pitcher_impact": 100.0,
+        "adjusted": 56.15
+      },
+      "game_yrfi_probability": 68.3
+    },
+    "yrfi_probability": 68.3
+  },
+  "metadata": {
+    "generated_at": "2025-09-17T09:39:33.672937",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776284,
+  "game_date": "2025-09-17",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Taj Bradley",
+      "yrfi_allowed": 38.46153846153847,
+      "yrfi_ratio": "5/13"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "20/76"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 44.61,
+    "pitcher": {
+      "name": "Luis Gil",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 42.10526315789473,
+        "ratio": "32/76"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.31578947368421,
+        "tendency": 26.666666666666668,
+        "combined": 26.51,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.23
+      },
+      "away_team": {
+        "base": 42.10526315789473,
+        "tendency": 46.666666666666664,
+        "combined": 44.61,
+        "pitcher_impact": 38.46153846153847,
+        "adjusted": 42.46
+      },
+      "game_yrfi_probability": 52.37
+    },
+    "yrfi_probability": 52.37
+  },
+  "metadata": {
+    "generated_at": "2025-09-17T09:39:33.800964",
+    "data_source": "season_data.json"
+  }
+}
