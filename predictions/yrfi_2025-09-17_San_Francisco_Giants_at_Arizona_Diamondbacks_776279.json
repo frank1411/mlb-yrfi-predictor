@@ -1,0 +1,67 @@
+{
+  "game_pk": 776279,
+  "game_date": "2025-09-17",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 26.666666666666668,
+      "yrfi_ratio": "4/15"
+    },
+    "stats": {
+      "base": {
+        "value": 45.94594594594595,
+        "ratio": "34/74"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 41.07,
+    "pitcher": {
+      "name": "Justin Verlander",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 32.89473684210527,
+        "ratio": "25/76"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 45.94594594594595,
+        "tendency": 40.0,
+        "combined": 43.57,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 38.68
+      },
+      "away_team": {
+        "base": 32.89473684210527,
+        "tendency": 53.333333333333336,
+        "combined": 41.07,
+        "pitcher_impact": 26.666666666666668,
+        "adjusted": 36.75
+      },
+      "game_yrfi_probability": 61.22
+    },
+    "yrfi_probability": 61.22
+  },
+  "metadata": {
+    "generated_at": "2025-09-17T13:21:32.811398",
+    "data_source": "season_data.json"
+  }
+}
