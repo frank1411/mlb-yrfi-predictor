@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ St. Louis Cardinals
+# Análisis YRFI: Cleveland Guardians @ Detroit Tigers
 
-**Fecha:** 2025-09-17  
-**Lanzadores:** Brady Singer (V) vs Andre Pallante (L)
+**Fecha:** 2025-09-18  
+**Lanzadores:** Tanner Bibee (V) vs Tarik Skubal (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.8%
+**Probabilidad de que anoten en la primera entrada:** 42.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 20.8% (16/77 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 31.2% (24/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 64.3% (9/14 partidos)
-- **Puntuación ajustada:** 38.1%
+- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 27.4%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 22.1% (17/77 partidos)
+### Cleveland Guardians (Visitante)
+- **Estadística base YRFI:** 22.4% (17/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 50.0% (7/14 partidos)
-- **Puntuación ajustada:** 33.5%
+- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json

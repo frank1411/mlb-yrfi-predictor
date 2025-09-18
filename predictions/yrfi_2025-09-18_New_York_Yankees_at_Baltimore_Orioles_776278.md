@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Houston Astros
+# Análisis YRFI: New York Yankees @ Baltimore Orioles
 
 **Fecha:** 2025-09-18  
-**Lanzadores:** Jacob deGrom (V) vs Cristian Javier (L)
+**Lanzadores:** Max Fried (V) vs Cade Povich (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.3%
+**Probabilidad de que anoten en la primera entrada:** 56.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 24.7% (19/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 26.8%
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 27.0% (20/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 18.8% (3/16 partidos)
+- **Puntuación ajustada:** 28.8%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 29.9% (23/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Cristian Javier):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 19.9%
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 42.9% (33/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 38.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json

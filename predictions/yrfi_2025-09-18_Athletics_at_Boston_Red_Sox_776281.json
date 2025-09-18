@@ -1,0 +1,67 @@
+{
+  "game_pk": 776281,
+  "game_date": "2025-09-18",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "4/16"
+    },
+    "stats": {
+      "base": {
+        "value": 33.76623376623377,
+        "ratio": "26/77"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 27.52,
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "22/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.76623376623377,
+        "tendency": 33.33333333333333,
+        "combined": 33.53,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 27.63
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 26.666666666666668,
+        "combined": 27.52,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.64
+      },
+      "game_yrfi_probability": 46.91
+    },
+    "yrfi_probability": 46.91
+  },
+  "metadata": {
+    "generated_at": "2025-09-18T09:39:37.261806",
+    "data_source": "season_data.json"
+  }
+}

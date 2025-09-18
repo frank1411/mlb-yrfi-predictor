@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Colorado Rockies
+# Análisis YRFI: Seattle Mariners @ Kansas City Royals
 
 **Fecha:** 2025-09-18  
-**Lanzadores:** Ryan Weathers (V) vs McCade Brown (L)
+**Lanzadores:** Luis Castillo (V) vs Stephen Kolek (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.9%
+**Probabilidad de que anoten en la primera entrada:** 55.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 28.9% (22/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Ryan Weathers):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 10.8%
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 32.5% (25/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - Luis Castillo):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 28.8%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - McCade Brown):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.0%
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 36.4% (28/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Stephen Kolek):** 50.0% (3/6 partidos)
+- **Puntuación ajustada:** 37.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json

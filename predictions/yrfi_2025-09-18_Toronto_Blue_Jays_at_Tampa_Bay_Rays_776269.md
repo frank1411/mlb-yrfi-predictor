@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
+# Análisis YRFI: Toronto Blue Jays @ Tampa Bay Rays
 
 **Fecha:** 2025-09-18  
-**Lanzadores:** Jesús Luzardo (V) vs Blake Snell (L)
+**Lanzadores:** Chris Bassitt (V) vs Shane Baz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.4%
+**Probabilidad de que anoten en la primera entrada:** 58.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.8% (28/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 33.3% (5/15 partidos)
-- **Puntuación ajustada:** 27.2%
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 35.1% (27/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Chris Bassitt):** 46.2% (6/13 partidos)
+- **Puntuación ajustada:** 45.5%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 27.3% (21/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 30.5%
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.3% (20/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Shane Baz):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json

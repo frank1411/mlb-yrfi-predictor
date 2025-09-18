@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ New York Mets
+# Análisis YRFI: Chicago Cubs @ Cincinnati Reds
 
-**Fecha:** 2025-09-17  
-**Lanzadores:** Nick Pivetta (V) vs David Peterson (L)
+**Fecha:** 2025-09-18  
+**Lanzadores:** Por anunciar (V) vs Hunter Greene (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.9%
+**Probabilidad de que anoten en la primera entrada:** 54.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 35.5% (27/76 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 40.5% (30/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Nick Pivetta):** 15.4% (2/13 partidos)
-- **Puntuación ajustada:** 25.3%
+- **Impacto del lanzador visitante (Chicago Cubs - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.9%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 26.3% (20/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - David Peterson):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 22.2%
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 32.5% (25/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 25.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json

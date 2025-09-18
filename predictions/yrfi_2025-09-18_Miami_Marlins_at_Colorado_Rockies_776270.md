@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Minnesota Twins
+# Análisis YRFI: Miami Marlins @ Colorado Rockies
 
-**Fecha:** 2025-09-17  
-**Lanzadores:** Luis Gil (V) vs Taj Bradley (L)
+**Fecha:** 2025-09-18  
+**Lanzadores:** Sandy Alcantara (V) vs Tanner Gordon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.4%
+**Probabilidad de que anoten en la primera entrada:** 45.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 26.3% (20/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Luis Gil):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 17.2%
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 28.6% (22/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 22.4%
 
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 42.1% (32/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 38.5% (5/13 partidos)
-- **Puntuación ajustada:** 42.5%
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 30.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json

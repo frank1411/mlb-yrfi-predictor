@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Kansas City Royals
+# Análisis YRFI: Los Angeles Angels @ Milwaukee Brewers
 
-**Fecha:** 2025-09-17  
-**Lanzadores:** Bryce Miller (V) vs Cole Ragans (L)
+**Fecha:** 2025-09-18  
+**Lanzadores:** Yusei Kikuchi (V) vs Quinn Priester (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.5%
+**Probabilidad de que anoten en la primera entrada:** 50.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 31.6% (24/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 37.5% (3/8 partidos)
-- **Puntuación ajustada:** 34.3%
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 18.2% (14/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Angels - Yusei Kikuchi):** 37.5% (6/16 partidos)
+- **Puntuación ajustada:** 35.1%
 
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 36.8% (28/76 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 35.1% (27/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Cole Ragans):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Impacto del lanzador local (Milwaukee Brewers - Quinn Priester):** 12.5% (1/8 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Detroit Tigers
+# Análisis YRFI: Athletics @ Boston Red Sox
 
-**Fecha:** 2025-09-17  
-**Lanzadores:** Gavin Williams (V) vs Jack Flaherty (L)
+**Fecha:** 2025-09-18  
+**Lanzadores:** J.T. Ginn (V) vs Brayan Bello (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.6%
+**Probabilidad de que anoten en la primera entrada:** 46.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 31.6% (24/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 26.3%
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 33.8% (26/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 16.7% (1/6 partidos)
+- **Puntuación ajustada:** 27.6%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 22.7% (17/75 partidos)
+### Athletics (Visitante)
+- **Estadística base YRFI:** 28.6% (22/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Impacto del lanzador local (Boston Red Sox - Brayan Bello):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 26.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json

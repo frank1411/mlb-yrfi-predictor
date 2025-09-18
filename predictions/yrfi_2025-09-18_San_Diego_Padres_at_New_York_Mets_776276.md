@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Boston Red Sox
+# Análisis YRFI: San Diego Padres @ New York Mets
 
-**Fecha:** 2025-09-17  
-**Lanzadores:** Mason Barnett (V) vs Lucas Giolito (L)
+**Fecha:** 2025-09-18  
+**Lanzadores:** Randy Vásquez (V) vs Jonah Tong (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 68.2%
+**Probabilidad de que anoten en la primera entrada:** 57.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
-- **Estadística base YRFI:** 32.9% (25/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Mason Barnett):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 54.2%
+### New York Mets (Local)
+- **Estadística base YRFI:** 36.4% (28/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 31.3%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 28.9% (22/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Lucas Giolito):** 36.4% (4/11 partidos)
-- **Puntuación ajustada:** 30.7%
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (New York Mets - Jonah Tong):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 37.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 09:39:33
+- **Generado el:** 2025-09-18 09:39:37
 - **Fuente de datos:** season_data.json
