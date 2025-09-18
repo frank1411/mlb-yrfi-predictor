@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
+# Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Jesús Luzardo (V) vs Blake Snell (L)
+**Fecha:** 2025-09-19  
+**Lanzadores:** Logan Webb (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.1%
+**Probabilidad de que anoten en la primera entrada:** 52.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.8% (28/76 partidos)
+- **Estadística base YRFI:** 36.4% (28/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 33.3% (5/15 partidos)
-- **Puntuación ajustada:** 29.2%
+- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 27.6%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 27.3% (21/77 partidos)
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 32.5% (25/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 29.5%
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 34.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 13:21:32
+- **Generado el:** 2025-09-18 13:21:48
 - **Fuente de datos:** season_data.json

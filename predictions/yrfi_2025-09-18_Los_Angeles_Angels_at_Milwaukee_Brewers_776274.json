@@ -1,0 +1,67 @@
+{
+  "game_pk": 776274,
+  "game_date": "2025-09-18",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Quinn Priester",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "1/8"
+    },
+    "stats": {
+      "base": {
+        "value": 18.181818181818183,
+        "ratio": "14/77"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 31.71,
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "6/16"
+    },
+    "stats": {
+      "base": {
+        "value": 35.064935064935064,
+        "ratio": "27/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.181818181818183,
+        "tendency": 46.666666666666664,
+        "combined": 29.58,
+        "pitcher_impact": 37.5,
+        "adjusted": 31.95
+      },
+      "away_team": {
+        "base": 35.064935064935064,
+        "tendency": 26.666666666666668,
+        "combined": 31.71,
+        "pitcher_impact": 12.5,
+        "adjusted": 25.94
+      },
+      "game_yrfi_probability": 49.6
+    },
+    "yrfi_probability": 49.6
+  },
+  "metadata": {
+    "generated_at": "2025-09-18T13:21:48.658953",
+    "data_source": "season_data.json"
+  }
+}

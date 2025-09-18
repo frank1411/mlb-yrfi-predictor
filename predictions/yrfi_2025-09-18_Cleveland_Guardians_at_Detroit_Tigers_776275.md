@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Detroit Tigers
 
-**Fecha:** 2025-09-17  
-**Lanzadores:** Gavin Williams (V) vs Jack Flaherty (L)
+**Fecha:** 2025-09-18  
+**Lanzadores:** Tanner Bibee (V) vs Tarik Skubal (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.0%
+**Probabilidad de que anoten en la primera entrada:** 43.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 31.6% (24/76 partidos)
+- **Estadística base YRFI:** 31.2% (24/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 27.2%
+- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 22.7% (17/75 partidos)
+- **Estadística base YRFI:** 22.4% (17/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
+- **Puntuación ajustada:** 20.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 13:21:32
+- **Generado el:** 2025-09-18 13:21:48
 - **Fuente de datos:** season_data.json

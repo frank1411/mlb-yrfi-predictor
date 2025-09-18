@@ -1,0 +1,67 @@
+{
+  "game_pk": 776270,
+  "game_date": "2025-09-18",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Tanner Gordon",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "22/77"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 26.07,
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 25.675675675675674,
+        "ratio": "19/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.57142857142857,
+        "tendency": 6.666666666666667,
+        "combined": 19.81,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 23.87
+      },
+      "away_team": {
+        "base": 25.675675675675674,
+        "tendency": 26.666666666666668,
+        "combined": 26.07,
+        "pitcher_impact": 37.5,
+        "adjusted": 29.5
+      },
+      "game_yrfi_probability": 46.33
+    },
+    "yrfi_probability": 46.33
+  },
+  "metadata": {
+    "generated_at": "2025-09-18T13:21:48.627900",
+    "data_source": "season_data.json"
+  }
+}

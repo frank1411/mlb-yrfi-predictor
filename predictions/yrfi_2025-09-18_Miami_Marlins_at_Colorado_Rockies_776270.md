@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Colorado Rockies
 
 **Fecha:** 2025-09-18  
-**Lanzadores:** Ryan Weathers (V) vs McCade Brown (L)
+**Lanzadores:** Sandy Alcantara (V) vs Tanner Gordon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.3%
+**Probabilidad de que anoten en la primera entrada:** 46.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 28.9% (22/76 partidos)
+- **Estadística base YRFI:** 28.6% (22/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Ryan Weathers):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 14.0%
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 23.9%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - McCade Brown):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.3%
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 29.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-17 13:21:32
+- **Generado el:** 2025-09-18 13:21:48
 - **Fuente de datos:** season_data.json

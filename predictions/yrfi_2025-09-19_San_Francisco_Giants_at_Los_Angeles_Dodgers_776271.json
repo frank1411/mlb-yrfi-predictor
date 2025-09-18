@@ -1,0 +1,67 @@
+{
+  "game_pk": 776271,
+  "game_date": "2025-09-19",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "28/77"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 38.15,
+    "pitcher": {
+      "name": "Logan Webb",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 32.467532467532465,
+        "ratio": "25/77"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 13.333333333333334,
+        "combined": 27.15,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 27.58
+      },
+      "away_team": {
+        "base": 32.467532467532465,
+        "tendency": 46.666666666666664,
+        "combined": 38.15,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 34.88
+      },
+      "game_yrfi_probability": 52.84
+    },
+    "yrfi_probability": 52.84
+  },
+  "metadata": {
+    "generated_at": "2025-09-18T13:21:48.670535",
+    "data_source": "season_data.json"
+  }
+}

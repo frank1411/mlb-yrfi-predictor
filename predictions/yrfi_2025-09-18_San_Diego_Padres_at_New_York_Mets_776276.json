@@ -1,0 +1,67 @@
+{
+  "game_pk": 776276,
+  "game_date": "2025-09-18",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Jonah Tong",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "28/77"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 29.7,
+    "pitcher": {
+      "name": "Randy Vásquez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "21/77"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 33.33333333333333,
+        "combined": 35.15,
+        "pitcher_impact": 25.0,
+        "adjusted": 32.11
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 33.33333333333333,
+        "combined": 29.7,
+        "pitcher_impact": 50.0,
+        "adjusted": 35.79
+      },
+      "game_yrfi_probability": 56.41
+    },
+    "yrfi_probability": 56.41
+  },
+  "metadata": {
+    "generated_at": "2025-09-18T13:21:48.581286",
+    "data_source": "season_data.json"
+  }
+}
