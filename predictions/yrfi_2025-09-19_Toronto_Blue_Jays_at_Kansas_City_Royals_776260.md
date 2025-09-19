@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Colorado Rockies
+# Análisis YRFI: Toronto Blue Jays @ Kansas City Royals
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Sandy Alcantara (V) vs Tanner Gordon (L)
+**Fecha:** 2025-09-19  
+**Lanzadores:** Max Scherzer (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.8%
+**Probabilidad de que anoten en la primera entrada:** 50.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 28.6% (22/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (4/12 partidos)
-- **Puntuación ajustada:** 22.4%
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 32.1% (25/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 35.3%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 25.7% (19/74 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 37.5% (3/8 partidos)
-- **Puntuación ajustada:** 30.2%
+- **Impacto del lanzador local (Kansas City Royals - Michael Lorenzen):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 24.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 09:39:37
+- **Generado el:** 2025-09-19 09:39:43
 - **Fuente de datos:** season_data.json

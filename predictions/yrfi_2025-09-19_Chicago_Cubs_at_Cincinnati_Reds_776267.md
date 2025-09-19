@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Detroit Tigers
+# Análisis YRFI: Chicago Cubs @ Cincinnati Reds
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Tanner Bibee (V) vs Tarik Skubal (L)
+**Fecha:** 2025-09-19  
+**Lanzadores:** Shota Imanaga (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.5%
+**Probabilidad de que anoten en la primera entrada:** 59.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 31.2% (24/77 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 40.0% (30/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 35.8%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 22.4% (17/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
-- **Puntuación ajustada:** 20.7%
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 32.1% (25/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 45.5% (5/11 partidos)
+- **Puntuación ajustada:** 37.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 09:39:37
+- **Generado el:** 2025-09-19 09:39:43
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ New York Mets
+# Análisis YRFI: Cleveland Guardians @ Minnesota Twins
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Randy Vásquez (V) vs Jonah Tong (L)
+**Fecha:** 2025-09-20  
+**Lanzadores:** Parker Messick (V) vs Pablo López (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.0%
+**Probabilidad de que anoten en la primera entrada:** 62.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 36.4% (28/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 31.3%
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 40.5%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 27.3% (21/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Mets - Jonah Tong):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.4%
+### Cleveland Guardians (Visitante)
+- **Estadística base YRFI:** 22.1% (17/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Pablo López):** 60.0% (3/5 partidos)
+- **Puntuación ajustada:** 37.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 09:39:37
+- **Generado el:** 2025-09-19 09:39:43
 - **Fuente de datos:** season_data.json

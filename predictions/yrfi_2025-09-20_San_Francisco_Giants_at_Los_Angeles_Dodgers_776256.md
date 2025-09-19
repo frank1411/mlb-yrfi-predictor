@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Boston Red Sox
+# Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** J.T. Ginn (V) vs Brayan Bello (L)
+**Fecha:** 2025-09-20  
+**Lanzadores:** Robbie Ray (V) vs Clayton Kershaw (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.9%
+**Probabilidad de que anoten en la primera entrada:** 55.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
-- **Estadística base YRFI:** 33.8% (26/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 27.6%
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.9% (28/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 22.3%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 28.6% (22/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Brayan Bello):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 26.6%
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 32.1% (25/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Clayton Kershaw):** 55.6% (5/9 partidos)
+- **Puntuación ajustada:** 43.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 09:39:37
+- **Generado el:** 2025-09-19 09:39:43
 - **Fuente de datos:** season_data.json

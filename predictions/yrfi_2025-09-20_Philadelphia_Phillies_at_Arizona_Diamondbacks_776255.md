@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
+# Análisis YRFI: Philadelphia Phillies @ Arizona Diamondbacks
 
-**Fecha:** 2025-09-19  
-**Lanzadores:** Logan Webb (V) vs Yoshinobu Yamamoto (L)
+**Fecha:** 2025-09-20  
+**Lanzadores:** Taijuan Walker (V) vs Ryne Nelson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 59.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.4% (28/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 25.4%
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 45.3% (34/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Taijuan Walker):** 45.5% (5/11 partidos)
+- **Puntuación ajustada:** 43.5%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 32.5% (25/77 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 35.7%
+- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 09:39:37
+- **Generado el:** 2025-09-19 09:39:43
 - **Fuente de datos:** season_data.json

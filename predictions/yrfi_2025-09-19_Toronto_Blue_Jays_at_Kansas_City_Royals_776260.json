@@ -1,0 +1,67 @@
+{
+  "game_pk": 776260,
+  "game_date": "2025-09-19",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 32.05128205128205,
+        "ratio": "25/78"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 26.35,
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 25.97402597402597,
+        "ratio": "20/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.05128205128205,
+        "tendency": 40.0,
+        "combined": 36.42,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 35.34
+      },
+      "away_team": {
+        "base": 25.97402597402597,
+        "tendency": 26.666666666666668,
+        "combined": 26.35,
+        "pitcher_impact": 20.0,
+        "adjusted": 24.13
+      },
+      "game_yrfi_probability": 50.94
+    },
+    "yrfi_probability": 50.94
+  },
+  "metadata": {
+    "generated_at": "2025-09-19T09:39:43.393570",
+    "data_source": "season_data.json"
+  }
+}

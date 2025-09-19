@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Milwaukee Brewers
+# Análisis YRFI: Boston Red Sox @ Tampa Bay Rays
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Yusei Kikuchi (V) vs Quinn Priester (L)
+**Fecha:** 2025-09-19  
+**Lanzadores:** Garrett Crochet (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.8%
+**Probabilidad de que anoten en la primera entrada:** 52.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 18.2% (14/77 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 34.6% (27/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Yusei Kikuchi):** 37.5% (6/16 partidos)
-- **Puntuación ajustada:** 35.1%
+- **Impacto del lanzador visitante (Boston Red Sox - Garrett Crochet):** 12.5% (2/16 partidos)
+- **Puntuación ajustada:** 31.2%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 35.1% (27/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Quinn Priester):** 12.5% (1/8 partidos)
-- **Puntuación ajustada:** 24.2%
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 29.3% (22/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 23.5% (4/17 partidos)
+- **Puntuación ajustada:** 31.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 09:39:37
+- **Generado el:** 2025-09-19 09:39:43
 - **Fuente de datos:** season_data.json

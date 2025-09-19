@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Tampa Bay Rays
+# Análisis YRFI: San Diego Padres @ Chicago White Sox
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Chris Bassitt (V) vs Shane Baz (L)
+**Fecha:** 2025-09-19  
+**Lanzadores:** Dylan Cease (V) vs Davis Martin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.7%
+**Probabilidad de que anoten en la primera entrada:** 55.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 35.1% (27/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Chris Bassitt):** 46.2% (6/13 partidos)
-- **Puntuación ajustada:** 45.5%
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 31.2% (24/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (San Diego Padres - Dylan Cease):** 33.3% (5/15 partidos)
+- **Puntuación ajustada:** 37.5%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 26.3% (20/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Shane Baz):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 24.2%
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 29.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 09:39:37
+- **Generado el:** 2025-09-19 09:39:43
 - **Fuente de datos:** season_data.json

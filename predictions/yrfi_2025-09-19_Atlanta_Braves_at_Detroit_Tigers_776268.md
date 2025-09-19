@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Baltimore Orioles
+# Análisis YRFI: Atlanta Braves @ Detroit Tigers
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Max Fried (V) vs Cade Povich (L)
+**Fecha:** 2025-09-19  
+**Lanzadores:** Bryce Elder (V) vs Charlie Morton (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.4%
+**Probabilidad de que anoten en la primera entrada:** 41.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 18.8% (3/16 partidos)
-- **Puntuación ajustada:** 28.8%
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 30.8% (24/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 24.4%
 
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 42.9% (33/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 38.8%
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Detroit Tigers - Charlie Morton):** 23.1% (3/13 partidos)
+- **Puntuación ajustada:** 23.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 09:39:37
+- **Generado el:** 2025-09-19 09:39:43
 - **Fuente de datos:** season_data.json
