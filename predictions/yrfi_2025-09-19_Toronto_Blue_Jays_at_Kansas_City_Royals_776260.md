@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Kansas City Royals
+# Análisis YRFI: Toronto Blue Jays @ Kansas City Royals
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Luis Castillo (V) vs Stephen Kolek (L)
+**Fecha:** 2025-09-19  
+**Lanzadores:** Max Scherzer (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.9%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 32.5% (25/77 partidos)
+- **Estadística base YRFI:** 32.1% (25/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Luis Castillo):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 29.1%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 34.7%
 
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 36.4% (28/77 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Stephen Kolek):** 50.0% (3/6 partidos)
-- **Puntuación ajustada:** 37.7%
+- **Impacto del lanzador local (Kansas City Royals - Michael Lorenzen):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 24.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 13:21:48
+- **Generado el:** 2025-09-19 13:21:11
 - **Fuente de datos:** season_data.json

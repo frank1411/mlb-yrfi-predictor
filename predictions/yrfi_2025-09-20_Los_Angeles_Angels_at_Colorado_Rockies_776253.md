@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Colorado Rockies
+# Análisis YRFI: Los Angeles Angels @ Colorado Rockies
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Sandy Alcantara (V) vs Tanner Gordon (L)
+**Fecha:** 2025-09-20  
+**Lanzadores:** Mitch Farris (V) vs Bradley Blalock (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.3%
+**Probabilidad de que anoten en la primera entrada:** 61.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 28.6% (22/77 partidos)
+- **Estadística base YRFI:** 28.2% (22/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (4/12 partidos)
-- **Puntuación ajustada:** 23.9%
+- **Impacto del lanzador visitante (Los Angeles Angels - Mitch Farris):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 28.7%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 25.7% (19/74 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 34.6% (27/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 37.5% (3/8 partidos)
-- **Puntuación ajustada:** 29.5%
+- **Impacto del lanzador local (Colorado Rockies - Bradley Blalock):** 80.0% (4/5 partidos)
+- **Puntuación ajustada:** 46.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 13:21:48
+- **Generado el:** 2025-09-19 13:21:11
 - **Fuente de datos:** season_data.json

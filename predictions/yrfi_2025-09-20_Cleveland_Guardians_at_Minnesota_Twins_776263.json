@@ -1,0 +1,67 @@
+{
+  "game_pk": 776263,
+  "game_date": "2025-09-20",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Pablo López",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.97402597402597,
+        "ratio": "20/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 23.91,
+    "pitcher": {
+      "name": "Parker Messick",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.07792207792208,
+        "ratio": "17/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.97402597402597,
+        "tendency": 26.666666666666668,
+        "combined": 26.25,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 38.38
+      },
+      "away_team": {
+        "base": 22.07792207792208,
+        "tendency": 26.666666666666668,
+        "combined": 23.91,
+        "pitcher_impact": 60.0,
+        "adjusted": 34.74
+      },
+      "game_yrfi_probability": 59.79
+    },
+    "yrfi_probability": 59.79
+  },
+  "metadata": {
+    "generated_at": "2025-09-19T13:21:11.792149",
+    "data_source": "season_data.json"
+  }
+}

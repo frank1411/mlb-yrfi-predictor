@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Baltimore Orioles
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Max Fried (V) vs Cade Povich (L)
+**Fecha:** 2025-09-19  
+**Lanzadores:** Will Warren (V) vs Trevor Rogers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.4%
+**Probabilidad de que anoten en la primera entrada:** 53.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 27.0% (20/74 partidos)
+- **Estadística base YRFI:** 26.7% (20/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 18.8% (3/16 partidos)
-- **Puntuación ajustada:** 28.2%
+- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 29.9%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 42.9% (33/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 39.2%
+- **Estadística base YRFI:** 43.6% (34/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/6 partidos)
+- **Puntuación ajustada:** 33.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 13:21:48
+- **Generado el:** 2025-09-19 13:21:11
 - **Fuente de datos:** season_data.json

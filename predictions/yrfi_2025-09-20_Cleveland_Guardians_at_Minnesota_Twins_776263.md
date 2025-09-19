@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Detroit Tigers
+# Análisis YRFI: Cleveland Guardians @ Minnesota Twins
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** Tanner Bibee (V) vs Tarik Skubal (L)
+**Fecha:** 2025-09-20  
+**Lanzadores:** Parker Messick (V) vs Pablo López (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.1%
+**Probabilidad de que anoten en la primera entrada:** 59.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 31.2% (24/77 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 38.4%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 22.4% (17/76 partidos)
+- **Estadística base YRFI:** 22.1% (17/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador local (Minnesota Twins - Pablo López):** 60.0% (3/5 partidos)
+- **Puntuación ajustada:** 34.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 13:21:48
+- **Generado el:** 2025-09-19 13:21:11
 - **Fuente de datos:** season_data.json

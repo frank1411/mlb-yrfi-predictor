@@ -1,0 +1,67 @@
+{
+  "game_pk": 776273,
+  "game_date": "2025-09-19",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "20/75"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 47.49,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "4/16"
+    },
+    "stats": {
+      "base": {
+        "value": 43.58974358974359,
+        "ratio": "34/78"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.666666666666668,
+        "tendency": 40.0,
+        "combined": 32.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 29.9
+      },
+      "away_team": {
+        "base": 43.58974358974359,
+        "tendency": 53.333333333333336,
+        "combined": 47.49,
+        "pitcher_impact": 0.0,
+        "adjusted": 33.24
+      },
+      "game_yrfi_probability": 53.2
+    },
+    "yrfi_probability": 53.2
+  },
+  "metadata": {
+    "generated_at": "2025-09-19T13:21:11.707496",
+    "data_source": "season_data.json"
+  }
+}

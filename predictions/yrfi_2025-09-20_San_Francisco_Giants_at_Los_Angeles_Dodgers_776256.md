@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
 
-**Fecha:** 2025-09-19  
-**Lanzadores:** Logan Webb (V) vs Yoshinobu Yamamoto (L)
+**Fecha:** 2025-09-20  
+**Lanzadores:** Robbie Ray (V) vs Clayton Kershaw (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.8%
+**Probabilidad de que anoten en la primera entrada:** 55.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.4% (28/77 partidos)
+- **Estadística base YRFI:** 35.9% (28/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 27.6%
+- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 24.8%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 32.5% (25/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 34.9%
+- **Estadística base YRFI:** 32.1% (25/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Clayton Kershaw):** 55.6% (5/9 partidos)
+- **Puntuación ajustada:** 41.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 13:21:48
+- **Generado el:** 2025-09-19 13:21:11
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Boston Red Sox
+# Análisis YRFI: Seattle Mariners @ Houston Astros
 
-**Fecha:** 2025-09-18  
-**Lanzadores:** J.T. Ginn (V) vs Brayan Bello (L)
+**Fecha:** 2025-09-20  
+**Lanzadores:** Bryan Woo (V) vs Hunter Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.8%
+**Probabilidad de que anoten en la primera entrada:** 53.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
-- **Estadística base YRFI:** 33.8% (26/77 partidos)
+### Houston Astros (Local)
+- **Estadística base YRFI:** 25.6% (20/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 16.7% (1/6 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Impacto del lanzador visitante (Seattle Mariners - Bryan Woo):** 53.3% (8/15 partidos)
+- **Puntuación ajustada:** 36.1%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 28.6% (22/77 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 35.9% (28/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Brayan Bello):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 27.0%
+- **Impacto del lanzador local (Houston Astros - Hunter Brown):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 27.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-18 13:21:48
+- **Generado el:** 2025-09-19 13:21:11
 - **Fuente de datos:** season_data.json

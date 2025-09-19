@@ -1,0 +1,67 @@
+{
+  "game_pk": 776267,
+  "game_date": "2025-09-19",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "30/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 32.56,
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 41.66666666666667,
+      "yrfi_ratio": "5/12"
+    },
+    "stats": {
+      "base": {
+        "value": 32.05128205128205,
+        "ratio": "25/78"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 26.666666666666668,
+        "combined": 34.67,
+        "pitcher_impact": 41.66666666666667,
+        "adjusted": 36.77
+      },
+      "away_team": {
+        "base": 32.05128205128205,
+        "tendency": 33.33333333333333,
+        "combined": 32.56,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 36.43
+      },
+      "game_yrfi_probability": 59.8
+    },
+    "yrfi_probability": 59.8
+  },
+  "metadata": {
+    "generated_at": "2025-09-19T13:21:11.668393",
+    "data_source": "season_data.json"
+  }
+}
