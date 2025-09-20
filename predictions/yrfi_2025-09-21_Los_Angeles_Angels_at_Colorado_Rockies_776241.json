@@ -1,0 +1,67 @@
+{
+  "game_pk": 776241,
+  "game_date": "2025-09-21",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Germán Márquez",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 29.11392405063291,
+        "ratio": "23/79"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 31.17,
+    "pitcher": {
+      "name": "Kyle Hendricks",
+      "yrfi_allowed": 21.428571428571427,
+      "yrfi_ratio": "3/14"
+    },
+    "stats": {
+      "base": {
+        "value": 34.177215189873415,
+        "ratio": "27/79"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.11392405063291,
+        "tendency": 13.333333333333334,
+        "combined": 22.8,
+        "pitcher_impact": 21.428571428571427,
+        "adjusted": 22.39
+      },
+      "away_team": {
+        "base": 34.177215189873415,
+        "tendency": 26.666666666666668,
+        "combined": 31.17,
+        "pitcher_impact": 20.0,
+        "adjusted": 27.82
+      },
+      "game_yrfi_probability": 43.98
+    },
+    "yrfi_probability": 43.98
+  },
+  "metadata": {
+    "generated_at": "2025-09-20T13:16:15.533201",
+    "data_source": "season_data.json"
+  }
+}

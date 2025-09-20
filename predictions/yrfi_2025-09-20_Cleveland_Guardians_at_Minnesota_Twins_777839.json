@@ -1,0 +1,67 @@
+{
+  "game_pk": 777839,
+  "game_date": "2025-09-20",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 13.333333333333334,
+      "yrfi_ratio": "2/15"
+    },
+    "stats": {
+      "base": {
+        "value": 25.64102564102564,
+        "ratio": "20/78"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 24.51,
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "18/78"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.64102564102564,
+        "tendency": 20.0,
+        "combined": 23.38,
+        "pitcher_impact": 20.0,
+        "adjusted": 22.37
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 26.666666666666668,
+        "combined": 24.51,
+        "pitcher_impact": 13.333333333333334,
+        "adjusted": 21.16
+      },
+      "game_yrfi_probability": 38.8
+    },
+    "yrfi_probability": 38.8
+  },
+  "metadata": {
+    "generated_at": "2025-09-20T13:16:15.401183",
+    "data_source": "season_data.json"
+  }
+}

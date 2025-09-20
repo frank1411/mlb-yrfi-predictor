@@ -1,0 +1,67 @@
+{
+  "game_pk": 776258,
+  "game_date": "2025-09-20",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Keider Montero",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 30.37974683544304,
+        "ratio": "24/79"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 27.38,
+    "pitcher": {
+      "name": "Joey Wentz",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 27.848101265822784,
+        "ratio": "22/79"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.37974683544304,
+        "tendency": 20.0,
+        "combined": 26.23,
+        "pitcher_impact": 20.0,
+        "adjusted": 24.36
+      },
+      "away_team": {
+        "base": 27.848101265822784,
+        "tendency": 26.666666666666668,
+        "combined": 27.38,
+        "pitcher_impact": 20.0,
+        "adjusted": 25.16
+      },
+      "game_yrfi_probability": 43.39
+    },
+    "yrfi_probability": 43.39
+  },
+  "metadata": {
+    "generated_at": "2025-09-20T13:16:15.389035",
+    "data_source": "season_data.json"
+  }
+}

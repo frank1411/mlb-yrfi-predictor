@@ -1,0 +1,67 @@
+{
+  "game_pk": 776246,
+  "game_date": "2025-09-21",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "4/16"
+    },
+    "stats": {
+      "base": {
+        "value": 46.05263157894737,
+        "ratio": "35/76"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 34.62,
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 26.582278481012654,
+        "ratio": "21/79"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 46.05263157894737,
+        "tendency": 40.0,
+        "combined": 43.63,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 39.11
+      },
+      "away_team": {
+        "base": 26.582278481012654,
+        "tendency": 46.666666666666664,
+        "combined": 34.62,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.73
+      },
+      "game_yrfi_probability": 58.43
+    },
+    "yrfi_probability": 58.43
+  },
+  "metadata": {
+    "generated_at": "2025-09-20T13:16:15.544306",
+    "data_source": "season_data.json"
+  }
+}
