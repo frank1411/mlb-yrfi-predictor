@@ -1,0 +1,67 @@
+{
+  "game_pk": 776243,
+  "game_date": "2025-09-20",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
+    },
+    "stats": {
+      "base": {
+        "value": 25.64102564102564,
+        "ratio": "20/78"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 25.05,
+    "pitcher": {
+      "name": "Logan Allen",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "18/78"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.64102564102564,
+        "tendency": 20.0,
+        "combined": 22.54,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 21.01
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 26.666666666666668,
+        "combined": 25.05,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 24.36
+      },
+      "game_yrfi_probability": 40.25
+    },
+    "yrfi_probability": 40.25
+  },
+  "metadata": {
+    "generated_at": "2025-09-20T09:36:49.570281",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776254,
+  "game_date": "2025-09-20",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Zack Littell",
+      "yrfi_allowed": 30.76923076923077,
+      "yrfi_ratio": "4/13"
+    },
+    "stats": {
+      "base": {
+        "value": 40.78947368421053,
+        "ratio": "31/76"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 32.57,
+    "pitcher": {
+      "name": "Javier Assad",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.645569620253166,
+        "ratio": "25/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.78947368421053,
+        "tendency": 26.666666666666668,
+        "combined": 33.02,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 33.13
+      },
+      "away_team": {
+        "base": 31.645569620253166,
+        "tendency": 33.33333333333333,
+        "combined": 32.57,
+        "pitcher_impact": 30.76923076923077,
+        "adjusted": 31.94
+      },
+      "game_yrfi_probability": 54.49
+    },
+    "yrfi_probability": 54.49
+  },
+  "metadata": {
+    "generated_at": "2025-09-20T09:36:49.592729",
+    "data_source": "season_data.json"
+  }
+}

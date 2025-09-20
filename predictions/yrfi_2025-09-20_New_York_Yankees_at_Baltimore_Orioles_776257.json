@@ -1,0 +1,67 @@
+{
+  "game_pk": 776257,
+  "game_date": "2025-09-20",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "6/14"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "20/76"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 48.7,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 17.647058823529413,
+      "yrfi_ratio": "3/17"
+    },
+    "stats": {
+      "base": {
+        "value": 43.037974683544306,
+        "ratio": "34/79"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.31578947368421,
+        "tendency": 33.33333333333333,
+        "combined": 30.18,
+        "pitcher_impact": 17.647058823529413,
+        "adjusted": 25.79
+      },
+      "away_team": {
+        "base": 43.037974683544306,
+        "tendency": 53.333333333333336,
+        "combined": 48.7,
+        "pitcher_impact": 42.857142857142854,
+        "adjusted": 46.66
+      },
+      "game_yrfi_probability": 60.42
+    },
+    "yrfi_probability": 60.42
+  },
+  "metadata": {
+    "generated_at": "2025-09-20T09:36:49.634014",
+    "data_source": "season_data.json"
+  }
+}
