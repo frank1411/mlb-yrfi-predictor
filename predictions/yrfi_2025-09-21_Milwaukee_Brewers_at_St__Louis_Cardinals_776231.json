@@ -1,0 +1,67 @@
+{
+  "game_pk": 776231,
+  "game_date": "2025-09-21",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 15.384615384615385,
+      "yrfi_ratio": "2/13"
+    },
+    "stats": {
+      "base": {
+        "value": 22.5,
+        "ratio": "18/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 28.59,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.87012987012987,
+        "ratio": "23/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.5,
+        "tendency": 33.33333333333333,
+        "combined": 26.83,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.78
+      },
+      "away_team": {
+        "base": 29.87012987012987,
+        "tendency": 26.666666666666668,
+        "combined": 28.59,
+        "pitcher_impact": 15.384615384615385,
+        "adjusted": 24.63
+      },
+      "game_yrfi_probability": 50.09
+    },
+    "yrfi_probability": 50.09
+  },
+  "metadata": {
+    "generated_at": "2025-09-21T13:16:52.042932",
+    "data_source": "season_data.json"
+  }
+}

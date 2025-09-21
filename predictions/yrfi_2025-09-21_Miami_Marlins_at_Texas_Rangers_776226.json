@@ -1,0 +1,67 @@
+{
+  "game_pk": 776226,
+  "game_date": "2025-09-21",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "6/16"
+    },
+    "stats": {
+      "base": {
+        "value": 22.07792207792208,
+        "ratio": "17/77"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 25.47,
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 54.54545454545454,
+      "yrfi_ratio": "6/11"
+    },
+    "stats": {
+      "base": {
+        "value": 24.675324675324674,
+        "ratio": "19/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.07792207792208,
+        "tendency": 6.666666666666667,
+        "combined": 15.91,
+        "pitcher_impact": 54.54545454545454,
+        "adjusted": 27.5
+      },
+      "away_team": {
+        "base": 24.675324675324674,
+        "tendency": 26.666666666666668,
+        "combined": 25.47,
+        "pitcher_impact": 37.5,
+        "adjusted": 29.08
+      },
+      "game_yrfi_probability": 48.58
+    },
+    "yrfi_probability": 48.58
+  },
+  "metadata": {
+    "generated_at": "2025-09-21T13:16:52.053827",
+    "data_source": "season_data.json"
+  }
+}
