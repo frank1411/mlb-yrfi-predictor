@@ -1,0 +1,67 @@
+{
+  "game_pk": 776240,
+  "game_date": "2025-09-21",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.97402597402597,
+        "ratio": "20/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 52.69,
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 43.75,
+        "ratio": "35/80"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.97402597402597,
+        "tendency": 26.666666666666668,
+        "combined": 26.35,
+        "pitcher_impact": 60.0,
+        "adjusted": 38.13
+      },
+      "away_team": {
+        "base": 43.75,
+        "tendency": 60.0,
+        "combined": 52.69,
+        "pitcher_impact": 50.0,
+        "adjusted": 51.75
+      },
+      "game_yrfi_probability": 70.15
+    },
+    "yrfi_probability": 70.15
+  },
+  "metadata": {
+    "generated_at": "2025-09-21T09:36:24.356931",
+    "data_source": "season_data.json"
+  }
+}

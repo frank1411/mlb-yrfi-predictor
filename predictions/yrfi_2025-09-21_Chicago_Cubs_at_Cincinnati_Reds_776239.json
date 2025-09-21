@@ -1,0 +1,67 @@
+{
+  "game_pk": 776239,
+  "game_date": "2025-09-21",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 6.666666666666667,
+      "yrfi_ratio": "1/15"
+    },
+    "stats": {
+      "base": {
+        "value": 40.25974025974026,
+        "ratio": "31/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 32.4,
+    "pitcher": {
+      "name": "Jameson Taillon",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "25/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.25974025974026,
+        "tendency": 26.666666666666668,
+        "combined": 32.78,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 27.14
+      },
+      "away_team": {
+        "base": 31.25,
+        "tendency": 33.33333333333333,
+        "combined": 32.4,
+        "pitcher_impact": 6.666666666666667,
+        "adjusted": 23.39
+      },
+      "game_yrfi_probability": 44.18
+    },
+    "yrfi_probability": 44.18
+  },
+  "metadata": {
+    "generated_at": "2025-09-21T09:36:24.368726",
+    "data_source": "season_data.json"
+  }
+}

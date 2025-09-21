@@ -1,0 +1,67 @@
+{
+  "game_pk": 776225,
+  "game_date": "2025-09-21",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 9.090909090909092,
+      "yrfi_ratio": "1/11"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "20/80"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 29.02,
+    "pitcher": {
+      "name": "Joey Cantillo",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "2/7"
+    },
+    "stats": {
+      "base": {
+        "value": 23.75,
+        "ratio": "19/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 13.333333333333334,
+        "combined": 18.58,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 22.08
+      },
+      "away_team": {
+        "base": 23.75,
+        "tendency": 33.33333333333333,
+        "combined": 29.02,
+        "pitcher_impact": 9.090909090909092,
+        "adjusted": 22.05
+      },
+      "game_yrfi_probability": 39.26
+    },
+    "yrfi_probability": 39.26
+  },
+  "metadata": {
+    "generated_at": "2025-09-21T09:36:24.411980",
+    "data_source": "season_data.json"
+  }
+}

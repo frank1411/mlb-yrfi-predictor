@@ -1,0 +1,67 @@
+{
+  "game_pk": 776228,
+  "game_date": "2025-09-21",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Jason Alexander",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "20/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 38.88,
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 45.45454545454545,
+      "yrfi_ratio": "5/11"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "30/80"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 29.58,
+        "pitcher_impact": 45.45454545454545,
+        "adjusted": 35.14
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 40.0,
+        "combined": 38.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.27
+      },
+      "game_yrfi_probability": 51.53
+    },
+    "yrfi_probability": 51.53
+  },
+  "metadata": {
+    "generated_at": "2025-09-21T09:36:24.484166",
+    "data_source": "season_data.json"
+  }
+}
