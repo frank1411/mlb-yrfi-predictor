@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Pittsburgh Pirates
+# Análisis YRFI: Washington Nationals @ Atlanta Braves
 
-**Fecha:** 2025-09-21  
-**Lanzadores:** Mitch Spence (V) vs Mike Burrows (L)
+**Fecha:** 2025-09-22  
+**Lanzadores:** MacKenzie Gore (V) vs Chris Sale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.4%
+**Probabilidad de que anoten en la primera entrada:** 42.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 31.2% (25/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Mitch Spence):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 23.4%
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 30.7% (23/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - MacKenzie Gore):** 31.2% (5/16 partidos)
+- **Puntuación ajustada:** 27.1%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 28.7% (23/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Mike Burrows):** 20.0% (2/10 partidos)
-- **Puntuación ajustada:** 27.3%
+### Washington Nationals (Visitante)
+- **Estadística base YRFI:** 25.6% (20/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 25.0% (2/8 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-21 09:36:24
+- **Generado el:** 2025-09-22 13:39:41
 - **Fuente de datos:** season_data.json

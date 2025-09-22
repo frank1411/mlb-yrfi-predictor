@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Arizona Diamondbacks
+# Análisis YRFI: St. Louis Cardinals @ San Francisco Giants
 
-**Fecha:** 2025-09-21  
-**Lanzadores:** Ranger Suárez (V) vs Eduardo Rodriguez (L)
+**Fecha:** 2025-09-23  
+**Lanzadores:** Michael McGreevy (V) vs Justin Verlander (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.9%
+**Probabilidad de que anoten en la primera entrada:** 52.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 46.8% (36/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Ranger Suárez):** 9.1% (1/11 partidos)
-- **Puntuación ajustada:** 31.2%
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 32.0% (24/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 33.3% (2/6 partidos)
+- **Puntuación ajustada:** 37.7%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 27.5% (22/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 41.7% (5/12 partidos)
-- **Puntuación ajustada:** 41.7%
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 26.7% (20/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (San Francisco Giants - Justin Verlander):** 13.3% (2/15 partidos)
+- **Puntuación ajustada:** 24.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-21 09:36:24
+- **Generado el:** 2025-09-22 13:39:41
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Cincinnati Reds
+# Análisis YRFI: Milwaukee Brewers @ San Diego Padres
 
-**Fecha:** 2025-09-21  
-**Lanzadores:** Jameson Taillon (V) vs Andrew Abbott (L)
+**Fecha:** 2025-09-23  
+**Lanzadores:** Freddy Peralta (V) vs Nick Pivetta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.2%
+**Probabilidad de que anoten en la primera entrada:** 47.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 40.3% (31/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Jameson Taillon):** 16.7% (2/12 partidos)
-- **Puntuación ajustada:** 27.1%
-
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 31.2% (25/80 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 25.3% (19/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 6.7% (1/15 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Freddy Peralta):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 26.3%
+
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 29.5% (23/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Nick Pivetta):** 31.2% (5/16 partidos)
+- **Puntuación ajustada:** 29.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-21 09:36:24
+- **Generado el:** 2025-09-22 13:39:41
 - **Fuente de datos:** season_data.json

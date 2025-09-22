@@ -1,0 +1,67 @@
+{
+  "game_pk": 776220,
+  "game_date": "2025-09-23",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Justin Verlander",
+      "yrfi_allowed": 13.333333333333334,
+      "yrfi_ratio": "2/15"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "24/75"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 30.33,
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "2/6"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "20/75"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.0,
+        "tendency": 46.666666666666664,
+        "combined": 40.07,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 37.71
+      },
+      "away_team": {
+        "base": 26.666666666666668,
+        "tendency": 33.33333333333333,
+        "combined": 30.33,
+        "pitcher_impact": 13.333333333333334,
+        "adjusted": 24.38
+      },
+      "game_yrfi_probability": 52.9
+    },
+    "yrfi_probability": 52.9
+  },
+  "metadata": {
+    "generated_at": "2025-09-22T13:39:41.264612",
+    "data_source": "season_data.json"
+  }
+}
