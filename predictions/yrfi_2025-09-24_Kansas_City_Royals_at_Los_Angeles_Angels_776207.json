@@ -1,0 +1,67 @@
+{
+  "game_pk": 776207,
+  "game_date": "2025-09-24",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Sam Aldegheri",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "25/75"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 37.07,
+    "pitcher": {
+      "name": "Cole Ragans",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.666666666666664,
+        "ratio": "23/75"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 20.0,
+        "combined": 28.0,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.6
+      },
+      "away_team": {
+        "base": 30.666666666666664,
+        "tendency": 46.666666666666664,
+        "combined": 37.07,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.95
+      },
+      "game_yrfi_probability": 51.57
+    },
+    "yrfi_probability": 51.57
+  },
+  "metadata": {
+    "generated_at": "2025-09-23T13:22:38.339793",
+    "data_source": "season_data.json"
+  }
+}

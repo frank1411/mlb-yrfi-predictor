@@ -1,0 +1,67 @@
+{
+  "game_pk": 776213,
+  "game_date": "2025-09-24",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "4/16"
+    },
+    "stats": {
+      "base": {
+        "value": 47.43589743589743,
+        "ratio": "37/78"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 26.4,
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "1/6"
+    },
+    "stats": {
+      "base": {
+        "value": 30.666666666666664,
+        "ratio": "23/75"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 47.43589743589743,
+        "tendency": 46.666666666666664,
+        "combined": 47.13,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 37.99
+      },
+      "away_team": {
+        "base": 30.666666666666664,
+        "tendency": 20.0,
+        "combined": 26.4,
+        "pitcher_impact": 25.0,
+        "adjusted": 25.98
+      },
+      "game_yrfi_probability": 54.1
+    },
+    "yrfi_probability": 54.1
+  },
+  "metadata": {
+    "generated_at": "2025-09-23T13:22:38.350962",
+    "data_source": "season_data.json"
+  }
+}
