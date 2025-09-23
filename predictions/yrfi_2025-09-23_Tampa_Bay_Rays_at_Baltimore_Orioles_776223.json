@@ -1,0 +1,67 @@
+{
+  "game_pk": 776223,
+  "game_date": "2025-09-23",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Dean Kremer",
+      "yrfi_allowed": 18.181818181818183,
+      "yrfi_ratio": "2/11"
+    },
+    "stats": {
+      "base": {
+        "value": 25.64102564102564,
+        "ratio": "20/78"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 37.07,
+    "pitcher": {
+      "name": "Ryan Pepiot",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 25.333333333333336,
+        "ratio": "19/75"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.64102564102564,
+        "tendency": 26.666666666666668,
+        "combined": 26.21,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 22.03
+      },
+      "away_team": {
+        "base": 25.333333333333336,
+        "tendency": 46.666666666666664,
+        "combined": 37.07,
+        "pitcher_impact": 18.181818181818183,
+        "adjusted": 30.46
+      },
+      "game_yrfi_probability": 45.78
+    },
+    "yrfi_probability": 45.78
+  },
+  "metadata": {
+    "generated_at": "2025-09-23T09:40:26.195310",
+    "data_source": "season_data.json"
+  }
+}

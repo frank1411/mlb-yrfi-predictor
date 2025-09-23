@@ -1,0 +1,67 @@
+{
+  "game_pk": 776212,
+  "game_date": "2025-09-24",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.333333333333336,
+        "ratio": "16/75"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 13.33,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 13.333333333333334,
+        "ratio": "10/75"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.333333333333336,
+        "tendency": 40.0,
+        "combined": 31.6,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.04
+      },
+      "away_team": {
+        "base": 13.333333333333334,
+        "tendency": 13.333333333333334,
+        "combined": 13.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 26.17
+      },
+      "game_yrfi_probability": 54.25
+    },
+    "yrfi_probability": 54.25
+  },
+  "metadata": {
+    "generated_at": "2025-09-23T09:40:26.309036",
+    "data_source": "season_data.json"
+  }
+}

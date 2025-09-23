@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ San Francisco Giants
+# Análisis YRFI: Pittsburgh Pirates @ Cincinnati Reds
 
 **Fecha:** 2025-09-23  
-**Lanzadores:** Michael McGreevy (V) vs Justin Verlander (L)
+**Lanzadores:** Johan Oviedo (V) vs Brady Singer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.9%
+**Probabilidad de que anoten en la primera entrada:** 52.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Francisco Giants (Local)
-- **Estadística base YRFI:** 32.0% (24/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 33.3% (2/6 partidos)
-- **Puntuación ajustada:** 37.7%
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 39.7% (31/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Johan Oviedo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 32.8%
 
-### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 26.7% (20/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Justin Verlander):** 13.3% (2/15 partidos)
-- **Puntuación ajustada:** 24.4%
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 13.3% (2/15 partidos)
+- **Puntuación ajustada:** 29.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-22 13:39:41
+- **Generado el:** 2025-09-23 09:40:26
 - **Fuente de datos:** season_data.json

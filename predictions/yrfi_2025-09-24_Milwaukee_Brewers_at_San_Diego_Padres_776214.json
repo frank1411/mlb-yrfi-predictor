@@ -1,0 +1,67 @@
+{
+  "game_pk": 776214,
+  "game_date": "2025-09-24",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Randy Vásquez",
+      "yrfi_allowed": 8.333333333333332,
+      "yrfi_ratio": "1/12"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "20/76"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 24.1,
+    "pitcher": {
+      "name": "Bruce Zimmermann",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.11392405063291,
+        "ratio": "23/79"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.31578947368421,
+        "tendency": 33.33333333333333,
+        "combined": 30.18,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.61
+      },
+      "away_team": {
+        "base": 29.11392405063291,
+        "tendency": 20.0,
+        "combined": 24.1,
+        "pitcher_impact": 8.333333333333332,
+        "adjusted": 18.58
+      },
+      "game_yrfi_probability": 34.55
+    },
+    "yrfi_probability": 34.55
+  },
+  "metadata": {
+    "generated_at": "2025-09-23T09:40:26.320341",
+    "data_source": "season_data.json"
+  }
+}

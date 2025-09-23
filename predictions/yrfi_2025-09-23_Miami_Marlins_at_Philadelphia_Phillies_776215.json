@@ -1,0 +1,67 @@
+{
+  "game_pk": 776215,
+  "game_date": "2025-09-23",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 15.384615384615385,
+      "yrfi_ratio": "2/13"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "30/75"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 25.63,
+    "pitcher": {
+      "name": "Edward Cabrera",
+      "yrfi_allowed": 63.63636363636363,
+      "yrfi_ratio": "7/11"
+    },
+    "stats": {
+      "base": {
+        "value": 24.358974358974358,
+        "ratio": "19/78"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 46.666666666666664,
+        "combined": 43.67,
+        "pitcher_impact": 63.63636363636363,
+        "adjusted": 50.66
+      },
+      "away_team": {
+        "base": 24.358974358974358,
+        "tendency": 26.666666666666668,
+        "combined": 25.63,
+        "pitcher_impact": 15.384615384615385,
+        "adjusted": 22.04
+      },
+      "game_yrfi_probability": 61.53
+    },
+    "yrfi_probability": 61.53
+  },
+  "metadata": {
+    "generated_at": "2025-09-23T09:40:26.229220",
+    "data_source": "season_data.json"
+  }
+}

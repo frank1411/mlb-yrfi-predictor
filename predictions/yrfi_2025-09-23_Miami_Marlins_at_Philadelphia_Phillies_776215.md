@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Atlanta Braves
+# Análisis YRFI: Miami Marlins @ Philadelphia Phillies
 
-**Fecha:** 2025-09-22  
-**Lanzadores:** MacKenzie Gore (V) vs Chris Sale (L)
+**Fecha:** 2025-09-23  
+**Lanzadores:** Edward Cabrera (V) vs Cristopher Sánchez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.4%
+**Probabilidad de que anoten en la primera entrada:** 61.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 30.7% (23/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - MacKenzie Gore):** 31.2% (5/16 partidos)
-- **Puntuación ajustada:** 27.1%
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 40.0% (30/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Edward Cabrera):** 63.6% (7/11 partidos)
+- **Puntuación ajustada:** 50.7%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.6% (20/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 25.0% (2/8 partidos)
-- **Puntuación ajustada:** 21.0%
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 24.4% (19/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 15.4% (2/13 partidos)
+- **Puntuación ajustada:** 22.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-22 13:39:41
+- **Generado el:** 2025-09-23 09:40:26
 - **Fuente de datos:** season_data.json
