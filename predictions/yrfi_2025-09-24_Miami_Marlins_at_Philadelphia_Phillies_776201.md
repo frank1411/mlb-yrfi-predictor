@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Philadelphia Phillies
 
-**Fecha:** 2025-09-23  
-**Lanzadores:** Edward Cabrera (V) vs Cristopher Sánchez (L)
+**Fecha:** 2025-09-24  
+**Lanzadores:** Ryan Weathers (V) vs Jesús Luzardo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.4%
+**Probabilidad de que anoten en la primera entrada:** 46.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.0% (30/75 partidos)
+- **Estadística base YRFI:** 40.8% (31/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Edward Cabrera):** 63.6% (7/11 partidos)
-- **Puntuación ajustada:** 49.0%
+- **Impacto del lanzador visitante (Miami Marlins - Ryan Weathers):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 30.2%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 24.4% (19/78 partidos)
+- **Estadística base YRFI:** 24.1% (19/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 15.4% (2/13 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 23.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-23 13:22:38
+- **Generado el:** 2025-09-24 13:22:27
 - **Fuente de datos:** season_data.json

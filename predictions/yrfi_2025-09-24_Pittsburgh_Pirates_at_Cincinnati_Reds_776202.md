@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Cincinnati Reds
 
-**Fecha:** 2025-09-23  
-**Lanzadores:** Johan Oviedo (V) vs Brady Singer (L)
+**Fecha:** 2025-09-24  
+**Lanzadores:** Paul Skenes (V) vs Hunter Greene (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.1%
+**Probabilidad de que anoten en la primera entrada:** 46.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 39.7% (31/78 partidos)
+- **Estadística base YRFI:** 39.2% (31/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Johan Oviedo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.2%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 6.2% (1/16 partidos)
+- **Puntuación ajustada:** 25.8%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 28.0% (21/75 partidos)
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 13.3% (2/15 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-23 13:22:38
+- **Generado el:** 2025-09-24 13:22:27
 - **Fuente de datos:** season_data.json

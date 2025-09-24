@@ -1,0 +1,67 @@
+{
+  "game_pk": 776203,
+  "game_date": "2025-09-24",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Tyler Wells",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.582278481012654,
+        "ratio": "21/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 33.67,
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "19/76"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.582278481012654,
+        "tendency": 33.33333333333333,
+        "combined": 29.28,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 24.78
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 46.666666666666664,
+        "combined": 33.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.57
+      },
+      "game_yrfi_probability": 42.51
+    },
+    "yrfi_probability": 42.51
+  },
+  "metadata": {
+    "generated_at": "2025-09-24T13:22:27.479875",
+    "data_source": "season_data.json"
+  }
+}

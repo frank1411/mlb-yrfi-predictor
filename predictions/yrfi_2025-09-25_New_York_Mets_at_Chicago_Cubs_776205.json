@@ -1,0 +1,67 @@
+{
+  "game_pk": 776205,
+  "game_date": "2025-09-25",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 28.947368421052634,
+        "ratio": "22/76"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 31.0,
+    "pitcher": {
+      "name": "Jonah Tong",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "19/76"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.947368421052634,
+        "tendency": 33.33333333333333,
+        "combined": 30.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.49
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 32.41
+      },
+      "game_yrfi_probability": 46.94
+    },
+    "yrfi_probability": 46.94
+  },
+  "metadata": {
+    "generated_at": "2025-09-24T13:22:27.566594",
+    "data_source": "season_data.json"
+  }
+}

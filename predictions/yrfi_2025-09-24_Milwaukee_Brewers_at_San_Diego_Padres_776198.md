@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Cleveland Guardians
+# Análisis YRFI: Milwaukee Brewers @ San Diego Padres
 
-**Fecha:** 2025-09-23  
-**Lanzadores:** Tarik Skubal (V) vs Gavin Williams (L)
+**Fecha:** 2025-09-24  
+**Lanzadores:** Chad Patrick (V) vs Dylan Cease (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.4%
+**Probabilidad de que anoten en la primera entrada:** 47.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 32.0% (24/75 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 28.9%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Chad Patrick):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 31.6%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 21.3% (16/75 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 28.7% (23/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 33.3% (5/15 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Impacto del lanzador local (San Diego Padres - Dylan Cease):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 23.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-23 13:22:38
+- **Generado el:** 2025-09-24 13:22:27
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Toronto Blue Jays
 
-**Fecha:** 2025-09-23  
-**Lanzadores:** Lucas Giolito (V) vs Kevin Gausman (L)
+**Fecha:** 2025-09-24  
+**Lanzadores:** Garrett Crochet (V) vs Max Scherzer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.8%
+**Probabilidad de que anoten en la primera entrada:** 52.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.3% (22/75 partidos)
+- **Estadística base YRFI:** 28.9% (22/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Lucas Giolito):** 23.1% (3/13 partidos)
-- **Puntuación ajustada:** 24.8%
+- **Impacto del lanzador visitante (Boston Red Sox - Garrett Crochet):** 17.6% (3/17 partidos)
+- **Puntuación ajustada:** 23.1%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 28.2% (22/78 partidos)
+- **Estadística base YRFI:** 27.8% (22/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 31.9%
+- **Impacto del lanzador local (Toronto Blue Jays - Max Scherzer):** 55.6% (5/9 partidos)
+- **Puntuación ajustada:** 37.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-23 13:22:38
+- **Generado el:** 2025-09-24 13:22:27
 - **Fuente de datos:** season_data.json

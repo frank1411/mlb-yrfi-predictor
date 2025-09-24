@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Los Angeles Angels
 
-**Fecha:** 2025-09-24  
-**Lanzadores:** Cole Ragans (V) vs Sam Aldegheri (L)
+**Fecha:** 2025-09-25  
+**Lanzadores:** Stephen Kolek (V) vs Yusei Kikuchi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.6%
+**Probabilidad de que anoten en la primera entrada:** 50.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 33.3% (25/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Cole Ragans):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 34.6%
+- **Estadística base YRFI:** 32.9% (25/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Stephen Kolek):** 9.1% (1/11 partidos)
+- **Puntuación ajustada:** 20.3%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 30.7% (23/75 partidos)
+- **Estadística base YRFI:** 31.6% (24/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Sam Aldegheri):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador local (Los Angeles Angels - Yusei Kikuchi):** 40.0% (6/15 partidos)
+- **Puntuación ajustada:** 38.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-23 13:22:38
+- **Generado el:** 2025-09-24 13:22:27
 - **Fuente de datos:** season_data.json
