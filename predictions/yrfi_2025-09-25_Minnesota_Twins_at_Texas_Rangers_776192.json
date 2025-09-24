@@ -1,0 +1,67 @@
+{
+  "game_pk": 776192,
+  "game_date": "2025-09-25",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jacob deGrom",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 22.78481012658228,
+        "ratio": "18/79"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 19.77,
+    "pitcher": {
+      "name": "Taj Bradley",
+      "yrfi_allowed": 41.66666666666667,
+      "yrfi_ratio": "5/12"
+    },
+    "stats": {
+      "base": {
+        "value": 27.631578947368425,
+        "ratio": "21/76"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.78481012658228,
+        "tendency": 13.333333333333334,
+        "combined": 17.59,
+        "pitcher_impact": 41.66666666666667,
+        "adjusted": 26.01
+      },
+      "away_team": {
+        "base": 27.631578947368425,
+        "tendency": 13.333333333333334,
+        "combined": 19.77,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 25.35
+      },
+      "game_yrfi_probability": 44.77
+    },
+    "yrfi_probability": 44.77
+  },
+  "metadata": {
+    "generated_at": "2025-09-24T09:40:51.965869",
+    "data_source": "season_data.json"
+  }
+}

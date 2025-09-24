@@ -1,0 +1,67 @@
+{
+  "game_pk": 776196,
+  "game_date": "2025-09-25",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "JT Brubaker",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.467532467532465,
+        "ratio": "25/77"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 34.27,
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "21/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.467532467532465,
+        "tendency": 46.666666666666664,
+        "combined": 40.28,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 38.91
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 40.0,
+        "combined": 34.27,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.28
+      },
+      "game_yrfi_probability": 52.52
+    },
+    "yrfi_probability": 52.52
+  },
+  "metadata": {
+    "generated_at": "2025-09-24T09:40:52.013158",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,275 +1,275 @@
 {
-  "last_updated": "2025-09-23T09:40:24.773556",
+  "last_updated": "2025-09-24T09:40:50.224888",
   "teams": {
-    "145": {
-      "name": "Equipo 145",
-      "total_games": 155,
-      "total_yrfi": 49,
-      "home_games": 80,
-      "home_yrfi": 26,
-      "away_games": 75,
-      "away_yrfi": 23
-    },
-    "136": {
-      "name": "Equipo 136",
-      "total_games": 156,
-      "total_yrfi": 46,
-      "home_games": 75,
-      "home_yrfi": 16,
-      "away_games": 81,
-      "away_yrfi": 30
-    },
-    "115": {
-      "name": "Equipo 115",
-      "total_games": 156,
-      "total_yrfi": 33,
-      "home_games": 81,
-      "home_yrfi": 23,
-      "away_games": 75,
-      "away_yrfi": 10
-    },
     "111": {
       "name": "Equipo 111",
-      "total_games": 156,
+      "total_games": 157,
       "total_yrfi": 49,
       "home_games": 78,
       "home_yrfi": 27,
-      "away_games": 78,
+      "away_games": 79,
       "away_yrfi": 22
     },
     "121": {
       "name": "Equipo 121",
-      "total_games": 156,
-      "total_yrfi": 48,
+      "total_games": 157,
+      "total_yrfi": 49,
       "home_games": 81,
       "home_yrfi": 30,
-      "away_games": 75,
-      "away_yrfi": 18
-    },
-    "140": {
-      "name": "Equipo 140",
-      "total_games": 156,
-      "total_yrfi": 40,
-      "home_games": 78,
-      "home_yrfi": 17,
-      "away_games": 78,
-      "away_yrfi": 23
-    },
-    "119": {
-      "name": "Equipo 119",
-      "total_games": 156,
-      "total_yrfi": 52,
-      "home_games": 81,
-      "home_yrfi": 29,
-      "away_games": 75,
-      "away_yrfi": 23
-    },
-    "133": {
-      "name": "Equipo 133",
-      "total_games": 156,
-      "total_yrfi": 50,
-      "home_games": 75,
-      "home_yrfi": 27,
-      "away_games": 81,
-      "away_yrfi": 23
+      "away_games": 76,
+      "away_yrfi": 19
     },
     "141": {
       "name": "Equipo 141",
-      "total_games": 155,
+      "total_games": 156,
       "total_yrfi": 43,
-      "home_games": 75,
+      "home_games": 76,
       "home_yrfi": 22,
       "away_games": 80,
       "away_yrfi": 21
     },
-    "142": {
-      "name": "Equipo 142",
-      "total_games": 156,
-      "total_yrfi": 41,
-      "home_games": 81,
-      "home_yrfi": 20,
-      "away_games": 75,
-      "away_yrfi": 21
-    },
     "114": {
       "name": "Equipo 114",
-      "total_games": 156,
+      "total_games": 157,
       "total_yrfi": 44,
-      "home_games": 75,
+      "home_games": 76,
       "home_yrfi": 24,
       "away_games": 81,
       "away_yrfi": 20
     },
-    "117": {
-      "name": "Equipo 117",
-      "total_games": 156,
-      "total_yrfi": 41,
+    "113": {
+      "name": "Equipo 113",
+      "total_games": 157,
+      "total_yrfi": 48,
+      "home_games": 79,
+      "home_yrfi": 31,
+      "away_games": 78,
+      "away_yrfi": 17
+    },
+    "158": {
+      "name": "Equipo 158",
+      "total_games": 158,
+      "total_yrfi": 37,
+      "home_games": 78,
+      "home_yrfi": 14,
+      "away_games": 80,
+      "away_yrfi": 23
+    },
+    "110": {
+      "name": "Equipo 110",
+      "total_games": 157,
+      "total_yrfi": 42,
+      "home_games": 79,
+      "home_yrfi": 21,
+      "away_games": 78,
+      "away_yrfi": 21
+    },
+    "115": {
+      "name": "Equipo 115",
+      "total_games": 157,
+      "total_yrfi": 33,
       "home_games": 81,
-      "home_yrfi": 20,
-      "away_games": 75,
-      "away_yrfi": 21
-    },
-    "137": {
-      "name": "Equipo 137",
-      "total_games": 157,
-      "total_yrfi": 52,
-      "home_games": 76,
-      "home_yrfi": 25,
-      "away_games": 81,
-      "away_yrfi": 27
-    },
-    "135": {
-      "name": "Equipo 135",
-      "total_games": 157,
-      "total_yrfi": 41,
-      "home_games": 76,
-      "home_yrfi": 20,
-      "away_games": 81,
-      "away_yrfi": 21
+      "home_yrfi": 23,
+      "away_games": 76,
+      "away_yrfi": 10
     },
     "108": {
       "name": "Equipo 108",
-      "total_games": 156,
+      "total_games": 157,
       "total_yrfi": 53,
-      "home_games": 75,
+      "home_games": 76,
       "home_yrfi": 25,
       "away_games": 81,
       "away_yrfi": 28
     },
     "139": {
       "name": "Equipo 139",
-      "total_games": 156,
+      "total_games": 157,
       "total_yrfi": 48,
       "home_games": 81,
       "home_yrfi": 29,
-      "away_games": 75,
+      "away_games": 76,
       "away_yrfi": 19
-    },
-    "112": {
-      "name": "Equipo 112",
-      "total_games": 156,
-      "total_yrfi": 46,
-      "home_games": 75,
-      "home_yrfi": 21,
-      "away_games": 81,
-      "away_yrfi": 25
-    },
-    "146": {
-      "name": "Equipo 146",
-      "total_games": 156,
-      "total_yrfi": 42,
-      "home_games": 78,
-      "home_yrfi": 23,
-      "away_games": 78,
-      "away_yrfi": 19
-    },
-    "144": {
-      "name": "Equipo 144",
-      "total_games": 157,
-      "total_yrfi": 46,
-      "home_games": 76,
-      "home_yrfi": 24,
-      "away_games": 81,
-      "away_yrfi": 22
-    },
-    "143": {
-      "name": "Equipo 143",
-      "total_games": 156,
-      "total_yrfi": 52,
-      "home_games": 75,
-      "home_yrfi": 30,
-      "away_games": 81,
-      "away_yrfi": 22
     },
     "109": {
       "name": "Equipo 109",
-      "total_games": 156,
+      "total_games": 157,
       "total_yrfi": 58,
-      "home_games": 78,
+      "home_games": 79,
       "home_yrfi": 37,
       "away_games": 78,
       "away_yrfi": 21
     },
-    "120": {
-      "name": "Equipo 120",
+    "119": {
+      "name": "Equipo 119",
       "total_games": 157,
-      "total_yrfi": 42,
-      "home_games": 78,
-      "home_yrfi": 21,
-      "away_games": 79,
-      "away_yrfi": 21
-    },
-    "110": {
-      "name": "Equipo 110",
-      "total_games": 156,
-      "total_yrfi": 41,
-      "home_games": 78,
-      "home_yrfi": 20,
-      "away_games": 78,
-      "away_yrfi": 21
-    },
-    "158": {
-      "name": "Equipo 158",
-      "total_games": 157,
-      "total_yrfi": 37,
-      "home_games": 78,
-      "home_yrfi": 14,
-      "away_games": 79,
-      "away_yrfi": 23
-    },
-    "118": {
-      "name": "Equipo 118",
-      "total_games": 156,
-      "total_yrfi": 49,
+      "total_yrfi": 52,
       "home_games": 81,
-      "home_yrfi": 26,
-      "away_games": 75,
-      "away_yrfi": 23
-    },
-    "138": {
-      "name": "Equipo 138",
-      "total_games": 157,
-      "total_yrfi": 38,
-      "home_games": 81,
-      "home_yrfi": 18,
+      "home_yrfi": 29,
       "away_games": 76,
-      "away_yrfi": 20
+      "away_yrfi": 23
+    },
+    "137": {
+      "name": "Equipo 137",
+      "total_games": 158,
+      "total_yrfi": 52,
+      "home_games": 77,
+      "home_yrfi": 25,
+      "away_games": 81,
+      "away_yrfi": 27
+    },
+    "133": {
+      "name": "Equipo 133",
+      "total_games": 157,
+      "total_yrfi": 51,
+      "home_games": 76,
+      "home_yrfi": 28,
+      "away_games": 81,
+      "away_yrfi": 23
+    },
+    "116": {
+      "name": "Equipo 116",
+      "total_games": 157,
+      "total_yrfi": 41,
+      "home_games": 81,
+      "home_yrfi": 25,
+      "away_games": 76,
+      "away_yrfi": 16
+    },
+    "117": {
+      "name": "Equipo 117",
+      "total_games": 157,
+      "total_yrfi": 41,
+      "home_games": 81,
+      "home_yrfi": 20,
+      "away_games": 76,
+      "away_yrfi": 21
+    },
+    "142": {
+      "name": "Equipo 142",
+      "total_games": 157,
+      "total_yrfi": 41,
+      "home_games": 81,
+      "home_yrfi": 20,
+      "away_games": 76,
+      "away_yrfi": 21
+    },
+    "135": {
+      "name": "Equipo 135",
+      "total_games": 158,
+      "total_yrfi": 42,
+      "home_games": 77,
+      "home_yrfi": 21,
+      "away_games": 81,
+      "away_yrfi": 21
     },
     "147": {
       "name": "Equipo 147",
-      "total_games": 156,
+      "total_games": 157,
       "total_yrfi": 61,
-      "home_games": 75,
+      "home_games": 76,
       "home_yrfi": 26,
       "away_games": 81,
       "away_yrfi": 35
     },
+    "120": {
+      "name": "Equipo 120",
+      "total_games": 158,
+      "total_yrfi": 42,
+      "home_games": 78,
+      "home_yrfi": 21,
+      "away_games": 80,
+      "away_yrfi": 21
+    },
     "134": {
       "name": "Equipo 134",
-      "total_games": 156,
+      "total_games": 157,
       "total_yrfi": 47,
       "home_games": 81,
       "home_yrfi": 26,
-      "away_games": 75,
+      "away_games": 76,
       "away_yrfi": 21
     },
-    "116": {
-      "name": "Equipo 116",
-      "total_games": 156,
-      "total_yrfi": 41,
+    "138": {
+      "name": "Equipo 138",
+      "total_games": 158,
+      "total_yrfi": 39,
       "home_games": 81,
-      "home_yrfi": 25,
-      "away_games": 75,
-      "away_yrfi": 16
+      "home_yrfi": 18,
+      "away_games": 77,
+      "away_yrfi": 21
     },
-    "113": {
-      "name": "Equipo 113",
+    "145": {
+      "name": "Equipo 145",
       "total_games": 156,
-      "total_yrfi": 48,
-      "home_games": 78,
-      "home_yrfi": 31,
+      "total_yrfi": 49,
+      "home_games": 80,
+      "home_yrfi": 26,
+      "away_games": 76,
+      "away_yrfi": 23
+    },
+    "144": {
+      "name": "Equipo 144",
+      "total_games": 158,
+      "total_yrfi": 46,
+      "home_games": 77,
+      "home_yrfi": 24,
+      "away_games": 81,
+      "away_yrfi": 22
+    },
+    "136": {
+      "name": "Equipo 136",
+      "total_games": 157,
+      "total_yrfi": 46,
+      "home_games": 76,
+      "home_yrfi": 16,
+      "away_games": 81,
+      "away_yrfi": 30
+    },
+    "112": {
+      "name": "Equipo 112",
+      "total_games": 157,
+      "total_yrfi": 47,
+      "home_games": 76,
+      "home_yrfi": 22,
+      "away_games": 81,
+      "away_yrfi": 25
+    },
+    "140": {
+      "name": "Equipo 140",
+      "total_games": 157,
+      "total_yrfi": 41,
+      "home_games": 79,
+      "home_yrfi": 18,
       "away_games": 78,
-      "away_yrfi": 17
+      "away_yrfi": 23
+    },
+    "146": {
+      "name": "Equipo 146",
+      "total_games": 157,
+      "total_yrfi": 42,
+      "home_games": 78,
+      "home_yrfi": 23,
+      "away_games": 79,
+      "away_yrfi": 19
+    },
+    "143": {
+      "name": "Equipo 143",
+      "total_games": 157,
+      "total_yrfi": 53,
+      "home_games": 76,
+      "home_yrfi": 31,
+      "away_games": 81,
+      "away_yrfi": 22
+    },
+    "118": {
+      "name": "Equipo 118",
+      "total_games": 157,
+      "total_yrfi": 50,
+      "home_games": 81,
+      "home_yrfi": 26,
+      "away_games": 76,
+      "away_yrfi": 24
     }
   },
   "pitchers": {},
@@ -63490,6 +63490,411 @@
         "away": {
           "id": 700241,
           "name": "Michael McGreevy"
+        }
+      }
+    },
+    {
+      "game_id": "776223",
+      "date": "2025-09-23",
+      "home_yrfi": true,
+      "away_yrfi": false,
+      "game_yrfi": true,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "110",
+      "home_team_name": "Baltimore Orioles",
+      "away_team": "139",
+      "away_team_name": "Tampa Bay Rays",
+      "gamePk": 776223,
+      "pitchers": {
+        "home": {
+          "id": 665152,
+          "name": "Dean Kremer"
+        },
+        "away": {
+          "id": 686752,
+          "name": "Ryan Pepiot"
+        }
+      }
+    },
+    {
+      "game_id": "776218",
+      "date": "2025-09-23",
+      "home_yrfi": false,
+      "away_yrfi": false,
+      "game_yrfi": false,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "114",
+      "home_team_name": "Cleveland Guardians",
+      "away_team": "116",
+      "away_team_name": "Detroit Tigers",
+      "gamePk": 776218,
+      "pitchers": {
+        "home": {
+          "id": 668909,
+          "name": "Gavin Williams"
+        },
+        "away": {
+          "id": 669373,
+          "name": "Tarik Skubal"
+        }
+      }
+    },
+    {
+      "game_id": "776224",
+      "date": "2025-09-23",
+      "home_yrfi": false,
+      "away_yrfi": false,
+      "game_yrfi": false,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "113",
+      "home_team_name": "Cincinnati Reds",
+      "away_team": "134",
+      "away_team_name": "Pittsburgh Pirates",
+      "gamePk": 776224,
+      "pitchers": {
+        "home": {
+          "id": 663903,
+          "name": "Brady Singer"
+        },
+        "away": {
+          "id": 670912,
+          "name": "Johan Oviedo"
+        }
+      }
+    },
+    {
+      "game_id": "776215",
+      "date": "2025-09-23",
+      "home_yrfi": true,
+      "away_yrfi": false,
+      "game_yrfi": true,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "143",
+      "home_team_name": "Philadelphia Phillies",
+      "away_team": "146",
+      "away_team_name": "Miami Marlins",
+      "gamePk": 776215,
+      "pitchers": {
+        "home": {
+          "id": 650911,
+          "name": "Cristopher Sánchez"
+        },
+        "away": {
+          "id": 665795,
+          "name": "Edward Cabrera"
+        }
+      }
+    },
+    {
+      "game_id": "776216",
+      "date": "2025-09-23",
+      "home_yrfi": false,
+      "away_yrfi": false,
+      "game_yrfi": false,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "147",
+      "home_team_name": "New York Yankees",
+      "away_team": "145",
+      "away_team_name": "Chicago White Sox",
+      "gamePk": 776216,
+      "pitchers": {
+        "home": {
+          "id": 661563,
+          "name": "Luis Gil"
+        },
+        "away": {
+          "id": 681343,
+          "name": "Shane Smith"
+        }
+      }
+    },
+    {
+      "game_id": "776217",
+      "date": "2025-09-23",
+      "home_yrfi": false,
+      "away_yrfi": false,
+      "game_yrfi": false,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "141",
+      "home_team_name": "Toronto Blue Jays",
+      "away_team": "111",
+      "away_team_name": "Boston Red Sox",
+      "gamePk": 776217,
+      "pitchers": {
+        "home": {
+          "id": 592332,
+          "name": "Kevin Gausman"
+        },
+        "away": {
+          "id": 608337,
+          "name": "Lucas Giolito"
+        }
+      }
+    },
+    {
+      "game_id": "776219",
+      "date": "2025-09-23",
+      "home_yrfi": false,
+      "away_yrfi": false,
+      "game_yrfi": false,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "144",
+      "home_team_name": "Atlanta Braves",
+      "away_team": "120",
+      "away_team_name": "Washington Nationals",
+      "gamePk": 776219,
+      "pitchers": {
+        "home": {
+          "id": 694462,
+          "name": "Hurston Waldrep"
+        },
+        "away": {
+          "id": 695418,
+          "name": "Brad Lord"
+        }
+      }
+    },
+    {
+      "game_id": "776209",
+      "date": "2025-09-23",
+      "home_yrfi": true,
+      "away_yrfi": true,
+      "game_yrfi": true,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "112",
+      "home_team_name": "Chicago Cubs",
+      "away_team": "121",
+      "away_team_name": "New York Mets",
+      "gamePk": 776209,
+      "pitchers": {
+        "home": {
+          "id": 690990,
+          "name": "Cade Horton"
+        },
+        "away": {
+          "id": 656849,
+          "name": "David Peterson"
+        }
+      }
+    },
+    {
+      "game_id": "776210",
+      "date": "2025-09-24",
+      "home_yrfi": true,
+      "away_yrfi": false,
+      "game_yrfi": true,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "140",
+      "home_team_name": "Texas Rangers",
+      "away_team": "142",
+      "away_team_name": "Minnesota Twins",
+      "gamePk": 776210,
+      "pitchers": {
+        "home": {
+          "id": 571578,
+          "name": "Patrick Corbin"
+        },
+        "away": {
+          "id": 805673,
+          "name": "Zebby Matthews"
+        }
+      }
+    },
+    {
+      "game_id": "776207",
+      "date": "2025-09-24",
+      "home_yrfi": false,
+      "away_yrfi": true,
+      "game_yrfi": true,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "108",
+      "home_team_name": "Los Angeles Angels",
+      "away_team": "118",
+      "away_team_name": "Kansas City Royals",
+      "gamePk": 776207,
+      "pitchers": {
+        "home": {
+          "id": 691951,
+          "name": "Sam Aldegheri"
+        },
+        "away": {
+          "id": 666142,
+          "name": "Cole Ragans"
+        }
+      }
+    },
+    {
+      "game_id": "776213",
+      "date": "2025-09-24",
+      "home_yrfi": false,
+      "away_yrfi": false,
+      "game_yrfi": false,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "109",
+      "home_team_name": "Arizona Diamondbacks",
+      "away_team": "119",
+      "away_team_name": "Los Angeles Dodgers",
+      "gamePk": 776213,
+      "pitchers": {
+        "home": {
+          "id": 694297,
+          "name": "Brandon Pfaadt"
+        },
+        "away": {
+          "id": 660271,
+          "name": "Shohei Ohtani"
+        }
+      }
+    },
+    {
+      "game_id": "776212",
+      "date": "2025-09-24",
+      "home_yrfi": false,
+      "away_yrfi": false,
+      "game_yrfi": false,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "136",
+      "home_team_name": "Seattle Mariners",
+      "away_team": "115",
+      "away_team_name": "Colorado Rockies",
+      "gamePk": 776212,
+      "pitchers": {
+        "home": {
+          "id": 682243,
+          "name": "Bryce Miller"
+        },
+        "away": {
+          "id": 685326,
+          "name": "McCade Brown"
+        }
+      }
+    },
+    {
+      "game_id": "776214",
+      "date": "2025-09-24",
+      "home_yrfi": true,
+      "away_yrfi": false,
+      "game_yrfi": true,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "135",
+      "home_team_name": "San Diego Padres",
+      "away_team": "158",
+      "away_team_name": "Milwaukee Brewers",
+      "gamePk": 776214,
+      "pitchers": {
+        "home": {
+          "id": 681190,
+          "name": "Randy Vásquez"
+        },
+        "away": {
+          "id": 669145,
+          "name": "Bruce Zimmermann"
+        }
+      }
+    },
+    {
+      "game_id": "776211",
+      "date": "2025-09-24",
+      "home_yrfi": false,
+      "away_yrfi": true,
+      "game_yrfi": true,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "137",
+      "home_team_name": "San Francisco Giants",
+      "away_team": "138",
+      "away_team_name": "St. Louis Cardinals",
+      "gamePk": 776211,
+      "pitchers": {
+        "home": {
+          "id": 657277,
+          "name": "Logan Webb"
+        },
+        "away": {
+          "id": 669467,
+          "name": "Andre Pallante"
+        }
+      }
+    },
+    {
+      "game_id": "776208",
+      "date": "2025-09-24",
+      "home_yrfi": true,
+      "away_yrfi": false,
+      "game_yrfi": true,
+      "status": {
+        "abstractGameCode": "F",
+        "statusCode": "F",
+        "detailedState": "final"
+      },
+      "home_team": "133",
+      "home_team_name": "Athletics",
+      "away_team": "117",
+      "away_team_name": "Houston Astros",
+      "gamePk": 776208,
+      "pitchers": {
+        "home": {
+          "id": 605488,
+          "name": "Jeffrey Springs"
+        },
+        "away": {
+          "id": 664299,
+          "name": "Cristian Javier"
         }
       }
     }

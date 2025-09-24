@@ -1,0 +1,67 @@
+{
+  "game_pk": 776197,
+  "game_date": "2025-09-25",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "6/15"
+    },
+    "stats": {
+      "base": {
+        "value": 32.89473684210527,
+        "ratio": "25/76"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 39.88,
+    "pitcher": {
+      "name": "Stephen Kolek",
+      "yrfi_allowed": 9.090909090909092,
+      "yrfi_ratio": "1/11"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "24/76"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.89473684210527,
+        "tendency": 13.333333333333334,
+        "combined": 22.14,
+        "pitcher_impact": 9.090909090909092,
+        "adjusted": 17.57
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 46.666666666666664,
+        "combined": 39.88,
+        "pitcher_impact": 40.0,
+        "adjusted": 39.92
+      },
+      "game_yrfi_probability": 50.48
+    },
+    "yrfi_probability": 50.48
+  },
+  "metadata": {
+    "generated_at": "2025-09-24T09:40:51.977688",
+    "data_source": "season_data.json"
+  }
+}

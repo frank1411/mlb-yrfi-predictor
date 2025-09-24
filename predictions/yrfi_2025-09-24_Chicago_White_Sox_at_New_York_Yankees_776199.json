@@ -1,0 +1,67 @@
+{
+  "game_pk": 776199,
+  "game_date": "2025-09-24",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Max Fried",
+      "yrfi_allowed": 35.714285714285715,
+      "yrfi_ratio": "5/14"
+    },
+    "stats": {
+      "base": {
+        "value": 34.21052631578947,
+        "ratio": "26/76"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 42.95,
+    "pitcher": {
+      "name": "Fraser Ellard",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.263157894736842,
+        "ratio": "23/76"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.21052631578947,
+        "tendency": 60.0,
+        "combined": 48.39,
+        "pitcher_impact": 0.0,
+        "adjusted": 31.46
+      },
+      "away_team": {
+        "base": 30.263157894736842,
+        "tendency": 53.333333333333336,
+        "combined": 42.95,
+        "pitcher_impact": 35.714285714285715,
+        "adjusted": 40.42
+      },
+      "game_yrfi_probability": 59.16
+    },
+    "yrfi_probability": 59.16
+  },
+  "metadata": {
+    "generated_at": "2025-09-24T09:40:51.930447",
+    "data_source": "season_data.json"
+  }
+}
