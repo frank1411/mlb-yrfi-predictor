@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Philadelphia Phillies
 
-**Fecha:** 2025-09-24  
-**Lanzadores:** Ryan Weathers (V) vs Jesús Luzardo (L)
+**Fecha:** 2025-09-25  
+**Lanzadores:** Janson Junk (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.6%
+**Probabilidad de que anoten en la primera entrada:** 51.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.8% (31/76 partidos)
+- **Estadística base YRFI:** 40.3% (31/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Ryan Weathers):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 30.2%
+- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 14.3% (1/7 partidos)
+- **Puntuación ajustada:** 34.3%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 24.1% (19/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Estadística base YRFI:** 23.8% (19/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Walker Buehler):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 25.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 13:22:27
+- **Generado el:** 2025-09-25 13:23:36
 - **Fuente de datos:** season_data.json

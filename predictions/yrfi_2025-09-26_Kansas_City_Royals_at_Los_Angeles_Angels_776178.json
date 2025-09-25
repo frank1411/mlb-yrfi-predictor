@@ -1,0 +1,67 @@
+{
+  "game_pk": 776178,
+  "game_date": "2025-09-26",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Mitch Farris",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.467532467532465,
+        "ratio": "25/77"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 37.37,
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 7.142857142857142,
+      "yrfi_ratio": "1/14"
+    },
+    "stats": {
+      "base": {
+        "value": 31.16883116883117,
+        "ratio": "24/77"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.467532467532465,
+        "tendency": 13.333333333333334,
+        "combined": 24.81,
+        "pitcher_impact": 7.142857142857142,
+        "adjusted": 19.51
+      },
+      "away_team": {
+        "base": 31.16883116883117,
+        "tendency": 46.666666666666664,
+        "combined": 37.37,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.16
+      },
+      "game_yrfi_probability": 40.57
+    },
+    "yrfi_probability": 40.57
+  },
+  "metadata": {
+    "generated_at": "2025-09-25T13:23:36.944724",
+    "data_source": "season_data.json"
+  }
+}

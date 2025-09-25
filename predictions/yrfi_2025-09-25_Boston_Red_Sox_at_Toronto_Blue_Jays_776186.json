@@ -1,0 +1,67 @@
+{
+  "game_pk": 776186,
+  "game_date": "2025-09-25",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Louis Varland",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "22/77"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 33.25,
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 30.0,
+      "yrfi_ratio": "3/10"
+    },
+    "stats": {
+      "base": {
+        "value": 28.749999999999996,
+        "ratio": "23/80"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.57142857142857,
+        "tendency": 20.0,
+        "combined": 25.14,
+        "pitcher_impact": 30.0,
+        "adjusted": 26.6
+      },
+      "away_team": {
+        "base": 28.749999999999996,
+        "tendency": 40.0,
+        "combined": 33.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.27
+      },
+      "game_yrfi_probability": 43.68
+    },
+    "yrfi_probability": 43.68
+  },
+  "metadata": {
+    "generated_at": "2025-09-25T13:23:36.923139",
+    "data_source": "season_data.json"
+  }
+}

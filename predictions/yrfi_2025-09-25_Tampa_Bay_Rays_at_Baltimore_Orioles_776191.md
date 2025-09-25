@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Baltimore Orioles
 
-**Fecha:** 2025-09-24  
-**Lanzadores:** Shane Baz (V) vs Tyler Wells (L)
+**Fecha:** 2025-09-25  
+**Lanzadores:** Drew Rasmussen (V) vs Cade Povich (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.5%
+**Probabilidad de que anoten en la primera entrada:** 53.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.6% (21/79 partidos)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Shane Baz):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 24.8%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 27.9%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 25.0% (19/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Tyler Wells):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 35.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 13:22:27
+- **Generado el:** 2025-09-25 13:23:36
 - **Fuente de datos:** season_data.json
