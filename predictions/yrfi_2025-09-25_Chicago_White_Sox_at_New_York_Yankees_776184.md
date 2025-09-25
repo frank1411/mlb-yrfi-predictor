@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Philadelphia Phillies
+# Análisis YRFI: Chicago White Sox @ New York Yankees
 
-**Fecha:** 2025-09-24  
-**Lanzadores:** Ryan Weathers (V) vs Jesús Luzardo (L)
+**Fecha:** 2025-09-25  
+**Lanzadores:** Davis Martin (V) vs Carlos Rodón (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.4%
+**Probabilidad de que anoten en la primera entrada:** 63.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.8% (31/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Ryan Weathers):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 28.6%
+### New York Yankees (Local)
+- **Estadística base YRFI:** 33.8% (26/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 43.5%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 24.1% (19/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 23.6%
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 29.9% (23/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:51
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

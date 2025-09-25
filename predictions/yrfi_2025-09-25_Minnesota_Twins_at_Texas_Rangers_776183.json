@@ -1,0 +1,67 @@
+{
+  "game_pk": 776183,
+  "game_date": "2025-09-25",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Tyler Mahle",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 22.5,
+        "ratio": "18/80"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 20.19,
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "22/77"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.5,
+        "tendency": 13.333333333333334,
+        "combined": 17.46,
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 20.89
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 13.333333333333334,
+        "combined": 20.19,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 20.9
+      },
+      "game_yrfi_probability": 37.42
+    },
+    "yrfi_probability": 37.42
+  },
+  "metadata": {
+    "generated_at": "2025-09-25T09:40:11.101356",
+    "data_source": "season_data.json"
+  }
+}

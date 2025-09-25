@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Atlanta Braves
+# Análisis YRFI: Kansas City Royals @ Los Angeles Angels
 
-**Fecha:** 2025-09-24  
-**Lanzadores:** Andrew Alvarez (V) vs Bryce Elder (L)
+**Fecha:** 2025-09-26  
+**Lanzadores:** Michael Lorenzen (V) vs Mitch Farris (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.8%
+**Probabilidad de que anoten en la primera entrada:** 38.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 31.2% (24/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Andrew Alvarez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.1%
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 32.5% (25/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Lorenzen):** 7.1% (1/14 partidos)
+- **Puntuación ajustada:** 16.8%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 26.2% (21/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 50.0% (7/14 partidos)
-- **Puntuación ajustada:** 32.3%
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 31.2% (24/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Los Angeles Angels - Mitch Farris):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 25.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:51
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

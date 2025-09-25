@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Chicago Cubs
+# Análisis YRFI: Colorado Rockies @ Seattle Mariners
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Jonah Tong (V) vs Matthew Boyd (L)
+**Fecha:** 2025-09-26  
+**Lanzadores:** Bradley Blalock (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 56.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 28.9% (22/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Jonah Tong):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.4%
-
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 25.0% (19/76 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 22.1% (17/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 34.1%
+- **Impacto del lanzador visitante (Colorado Rockies - Bradley Blalock):** 60.0% (3/5 partidos)
+- **Puntuación ajustada:** 41.8%
+
+### Colorado Rockies (Visitante)
+- **Estadística base YRFI:** 13.0% (10/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:51
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

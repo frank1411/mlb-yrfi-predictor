@@ -1,25 +1,25 @@
-# Análisis YRFI: Houston Astros @ Athletics
+# Análisis YRFI: Miami Marlins @ Philadelphia Phillies
 
 **Fecha:** 2025-09-25  
-**Lanzadores:** Hunter Brown (V) vs Luis Severino (L)
+**Lanzadores:** Janson Junk (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 36.8% (28/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Hunter Brown):** 18.8% (3/16 partidos)
-- **Puntuación ajustada:** 29.3%
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 40.3% (31/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 14.3% (1/7 partidos)
+- **Puntuación ajustada:** 33.5%
 
-### Houston Astros (Visitante)
-- **Estadística base YRFI:** 27.6% (21/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Luis Severino):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 30.0%
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 23.8% (19/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Walker Buehler):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 25.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:52
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

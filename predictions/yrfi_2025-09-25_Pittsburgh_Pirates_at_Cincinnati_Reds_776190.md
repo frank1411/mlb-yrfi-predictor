@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Arizona Diamondbacks
+# Análisis YRFI: Pittsburgh Pirates @ Cincinnati Reds
 
 **Fecha:** 2025-09-25  
-**Lanzadores:** Blake Snell (V) vs Ryne Nelson (L)
+**Lanzadores:** Braxton Ashcraft (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.2%
+**Probabilidad de que anoten en la primera entrada:** 51.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 46.8% (37/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Blake Snell):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 39.7%
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 38.8% (31/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.9%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 30.3% (23/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 9.1% (1/11 partidos)
-- **Puntuación ajustada:** 19.2%
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 39.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:51
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

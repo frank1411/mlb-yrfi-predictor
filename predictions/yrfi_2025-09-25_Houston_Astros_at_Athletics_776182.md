@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Seattle Mariners
+# Análisis YRFI: Houston Astros @ Athletics
 
 **Fecha:** 2025-09-25  
-**Lanzadores:** Tanner Gordon (V) vs Luis Castillo (L)
+**Lanzadores:** Framber Valdez (V) vs J.T. Ginn (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.3%
+**Probabilidad de que anoten en la primera entrada:** 60.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 21.1% (16/76 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 36.4% (28/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tanner Gordon):** 80.0% (4/5 partidos)
-- **Puntuación ajustada:** 46.1%
+- **Impacto del lanzador visitante (Houston Astros - Framber Valdez):** 40.0% (6/15 partidos)
+- **Puntuación ajustada:** 36.5%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 13.2% (10/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 18.8% (3/16 partidos)
-- **Puntuación ajustada:** 15.2%
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Athletics - J.T. Ginn):** 50.0% (4/8 partidos)
+- **Puntuación ajustada:** 37.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:52
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

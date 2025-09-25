@@ -1,7 +1,7 @@
-# Análisis YRFI: Tampa Bay Rays @ Baltimore Orioles
+# Análisis YRFI: Boston Red Sox @ Toronto Blue Jays
 
-**Fecha:** 2025-09-24  
-**Lanzadores:** Shane Baz (V) vs Tyler Wells (L)
+**Fecha:** 2025-09-25  
+**Lanzadores:** Brayan Bello (V) vs Louis Varland (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.6% (21/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Shane Baz):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 24.7%
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 28.6% (22/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Brayan Bello):** 30.0% (3/10 partidos)
+- **Puntuación ajustada:** 26.0%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 25.0% (19/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Tyler Wells):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 24.0%
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 28.7% (23/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Louis Varland):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:51
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

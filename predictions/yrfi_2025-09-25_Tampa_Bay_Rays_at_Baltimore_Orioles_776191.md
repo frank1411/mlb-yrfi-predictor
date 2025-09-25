@@ -1,25 +1,25 @@
-# Análisis YRFI: Pittsburgh Pirates @ Cincinnati Reds
+# Análisis YRFI: Tampa Bay Rays @ Baltimore Orioles
 
-**Fecha:** 2025-09-24  
-**Lanzadores:** Paul Skenes (V) vs Hunter Greene (L)
+**Fecha:** 2025-09-25  
+**Lanzadores:** Drew Rasmussen (V) vs Cade Povich (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.9%
+**Probabilidad de que anoten en la primera entrada:** 55.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 39.2% (31/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 6.2% (1/16 partidos)
-- **Puntuación ajustada:** 23.2%
-
-### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 27.6% (21/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 10.0% (1/10 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (3/12 partidos)
 - **Puntuación ajustada:** 28.3%
+
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 38.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:51
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

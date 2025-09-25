@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ New York Yankees
+# Análisis YRFI: Minnesota Twins @ Texas Rangers
 
-**Fecha:** 2025-09-24  
-**Lanzadores:** Fraser Ellard (V) vs Max Fried (L)
+**Fecha:** 2025-09-25  
+**Lanzadores:** Bailey Ober (V) vs Tyler Mahle (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.2%
+**Probabilidad de que anoten en la primera entrada:** 37.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 34.2% (26/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Fraser Ellard):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 31.5%
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 22.5% (18/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Minnesota Twins - Bailey Ober):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 20.9%
 
-### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 30.3% (23/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Max Fried):** 35.7% (5/14 partidos)
-- **Puntuación ajustada:** 40.4%
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 28.6% (22/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - Tyler Mahle):** 22.2% (2/9 partidos)
+- **Puntuación ajustada:** 20.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-24 09:40:51
+- **Generado el:** 2025-09-25 09:40:11
 - **Fuente de datos:** season_data.json

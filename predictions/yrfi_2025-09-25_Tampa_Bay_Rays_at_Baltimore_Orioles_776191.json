@@ -1,0 +1,67 @@
+{
+  "game_pk": 776191,
+  "game_date": "2025-09-25",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Cade Povich",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 26.25,
+        "ratio": "21/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 41.02,
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
+    },
+    "stats": {
+      "base": {
+        "value": 25.97402597402597,
+        "ratio": "20/77"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.25,
+        "tendency": 33.33333333333333,
+        "combined": 30.15,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.34
+      },
+      "away_team": {
+        "base": 25.97402597402597,
+        "tendency": 53.333333333333336,
+        "combined": 41.02,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 38.33
+      },
+      "game_yrfi_probability": 55.81
+    },
+    "yrfi_probability": 55.81
+  },
+  "metadata": {
+    "generated_at": "2025-09-25T09:40:11.086261",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776185,
+  "game_date": "2025-09-25",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Jalen Beeks",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 47.5,
+        "ratio": "38/80"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 25.03,
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 29.411764705882355,
+      "yrfi_ratio": "5/17"
+    },
+    "stats": {
+      "base": {
+        "value": 31.16883116883117,
+        "ratio": "24/77"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 47.5,
+        "tendency": 46.666666666666664,
+        "combined": 47.04,
+        "pitcher_impact": 29.411764705882355,
+        "adjusted": 40.87
+      },
+      "away_team": {
+        "base": 31.16883116883117,
+        "tendency": 20.0,
+        "combined": 25.03,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.27
+      },
+      "game_yrfi_probability": 50.49
+    },
+    "yrfi_probability": 50.49
+  },
+  "metadata": {
+    "generated_at": "2025-09-25T09:40:11.125333",
+    "data_source": "season_data.json"
+  }
+}
