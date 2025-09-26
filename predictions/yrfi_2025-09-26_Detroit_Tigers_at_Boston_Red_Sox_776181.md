@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Seattle Mariners
+# Análisis YRFI: Detroit Tigers @ Boston Red Sox
 
 **Fecha:** 2025-09-26  
-**Lanzadores:** Bradley Blalock (V) vs Por anunciar (L)
+**Lanzadores:** Casey Mize (V) vs Kyle Harrison (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.4%
+**Probabilidad de que anoten en la primera entrada:** 62.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 22.1% (17/77 partidos)
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 34.6% (27/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Bradley Blalock):** 60.0% (3/5 partidos)
-- **Puntuación ajustada:** 38.5%
+- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 35.0%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 13.0% (10/77 partidos)
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 21.8% (17/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.2%
+- **Impacto del lanzador local (Boston Red Sox - Kyle Harrison):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 42.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 13:23:36
+- **Generado el:** 2025-09-26 13:21:28
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776173,
+  "game_date": "2025-09-26",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 35.294117647058826,
+      "yrfi_ratio": "6/17"
+    },
+    "stats": {
+      "base": {
+        "value": 29.48717948717949,
+        "ratio": "23/78"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 34.05,
+    "pitcher": {
+      "name": "Brandon Sproat",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.64102564102564,
+        "ratio": "20/78"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.48717948717949,
+        "tendency": 20.0,
+        "combined": 25.69,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.98
+      },
+      "away_team": {
+        "base": 25.64102564102564,
+        "tendency": 46.666666666666664,
+        "combined": 34.05,
+        "pitcher_impact": 35.294117647058826,
+        "adjusted": 34.42
+      },
+      "game_yrfi_probability": 46.21
+    },
+    "yrfi_probability": 46.21
+  },
+  "metadata": {
+    "generated_at": "2025-09-26T13:21:28.610667",
+    "data_source": "season_data.json"
+  }
+}

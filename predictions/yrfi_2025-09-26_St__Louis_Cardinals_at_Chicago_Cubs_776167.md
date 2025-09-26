@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Chicago Cubs
+# Análisis YRFI: St. Louis Cardinals @ Chicago Cubs
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Nolan McLean (V) vs Shota Imanaga (L)
+**Fecha:** 2025-09-26  
+**Lanzadores:** Miles Mikolas (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.8%
+**Probabilidad de que anoten en la primera entrada:** 57.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 28.6% (22/77 partidos)
+- **Estadística base YRFI:** 28.2% (22/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.3%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Miles Mikolas):** 33.3% (5/15 partidos)
+- **Puntuación ajustada:** 31.2%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 24.7% (19/77 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 29.8%
+- **Impacto del lanzador local (Chicago Cubs - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 13:23:36
+- **Generado el:** 2025-09-26 13:21:28
 - **Fuente de datos:** season_data.json
