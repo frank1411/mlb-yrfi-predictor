@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Chicago Cubs
+# Análisis YRFI: Tampa Bay Rays @ Toronto Blue Jays
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Nolan McLean (V) vs Shota Imanaga (L)
+**Fecha:** 2025-09-26  
+**Lanzadores:** Adrian Houser (V) vs Shane Bieber (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.1%
+**Probabilidad de que anoten en la primera entrada:** 56.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 28.6% (22/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.9%
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 28.2% (22/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Adrian Houser):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 30.0%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 24.7% (19/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 31.1%
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 25.6% (20/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Shane Bieber):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 38.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 09:40:11
+- **Generado el:** 2025-09-26 09:39:49
 - **Fuente de datos:** season_data.json

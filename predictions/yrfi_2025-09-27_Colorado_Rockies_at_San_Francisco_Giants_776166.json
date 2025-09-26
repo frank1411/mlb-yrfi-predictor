@@ -1,0 +1,67 @@
+{
+  "game_pk": 776166,
+  "game_date": "2025-09-27",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Trevor McDonald",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.05128205128205,
+        "ratio": "25/78"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 13.1,
+    "pitcher": {
+      "name": "Germán Márquez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "7/14"
+    },
+    "stats": {
+      "base": {
+        "value": 12.82051282051282,
+        "ratio": "10/78"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.05128205128205,
+        "tendency": 46.666666666666664,
+        "combined": 40.09,
+        "pitcher_impact": 50.0,
+        "adjusted": 43.56
+      },
+      "away_team": {
+        "base": 12.82051282051282,
+        "tendency": 13.333333333333334,
+        "combined": 13.1,
+        "pitcher_impact": 0.0,
+        "adjusted": 8.52
+      },
+      "game_yrfi_probability": 48.37
+    },
+    "yrfi_probability": 48.37
+  },
+  "metadata": {
+    "generated_at": "2025-09-26T09:39:49.672826",
+    "data_source": "season_data.json"
+  }
+}

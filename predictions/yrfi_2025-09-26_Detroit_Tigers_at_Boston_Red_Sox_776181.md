@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Baltimore Orioles
+# Análisis YRFI: Detroit Tigers @ Boston Red Sox
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Drew Rasmussen (V) vs Cade Povich (L)
+**Fecha:** 2025-09-26  
+**Lanzadores:** Casey Mize (V) vs Kyle Harrison (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.8%
+**Probabilidad de que anoten en la primera entrada:** 65.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 26.2% (21/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 28.3%
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 34.6% (27/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 30.8% (4/13 partidos)
+- **Puntuación ajustada:** 35.2%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 26.0% (20/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 33.3% (4/12 partidos)
-- **Puntuación ajustada:** 38.3%
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 21.8% (17/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Boston Red Sox - Kyle Harrison):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 46.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 09:40:11
+- **Generado el:** 2025-09-26 09:39:49
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Philadelphia Phillies
+# Análisis YRFI: Pittsburgh Pirates @ Atlanta Braves
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Janson Junk (V) vs Walker Buehler (L)
+**Fecha:** 2025-09-26  
+**Lanzadores:** Mitch Keller (V) vs Joey Wentz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.6%
+**Probabilidad de que anoten en la primera entrada:** 48.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.3% (31/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 14.3% (1/7 partidos)
-- **Puntuación ajustada:** 33.5%
-
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 23.8% (19/80 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 30.8% (24/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Walker Buehler):** 33.3% (4/12 partidos)
-- **Puntuación ajustada:** 25.8%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 26.1%
+
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Joey Wentz):** 16.7% (1/6 partidos)
+- **Puntuación ajustada:** 30.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 09:40:11
+- **Generado el:** 2025-09-26 09:39:49
 - **Fuente de datos:** season_data.json

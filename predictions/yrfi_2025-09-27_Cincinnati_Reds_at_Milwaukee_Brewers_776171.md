@@ -1,25 +1,25 @@
-# Análisis YRFI: Pittsburgh Pirates @ Cincinnati Reds
+# Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Braxton Ashcraft (V) vs Nick Lodolo (L)
+**Fecha:** 2025-09-27  
+**Lanzadores:** Zack Littell (V) vs Quinn Priester (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.9%
+**Probabilidad de que anoten en la primera entrada:** 32.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 38.8% (31/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.9%
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 17.9% (14/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 23.5% (4/17 partidos)
+- **Puntuación ajustada:** 18.2%
 
-### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 27.3% (21/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 41.7% (5/12 partidos)
-- **Puntuación ajustada:** 39.2%
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 21.8% (17/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Quinn Priester):** 11.1% (1/9 partidos)
+- **Puntuación ajustada:** 17.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 09:40:11
+- **Generado el:** 2025-09-26 09:39:49
 - **Fuente de datos:** season_data.json

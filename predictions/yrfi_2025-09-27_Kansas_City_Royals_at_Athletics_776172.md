@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Toronto Blue Jays
+# Análisis YRFI: Kansas City Royals @ Athletics
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Brayan Bello (V) vs Louis Varland (L)
+**Fecha:** 2025-09-27  
+**Lanzadores:** Noah Cameron (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.8%
+**Probabilidad de que anoten en la primera entrada:** 61.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 28.6% (22/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Brayan Bello):** 30.0% (3/10 partidos)
-- **Puntuación ajustada:** 26.0%
+### Athletics (Local)
+- **Estadística base YRFI:** 35.9% (28/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 29.6%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 28.7% (23/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Louis Varland):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.7%
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 32.1% (25/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Athletics - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 45.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 09:40:11
+- **Generado el:** 2025-09-26 09:39:49
 - **Fuente de datos:** season_data.json

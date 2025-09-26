@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Seattle Mariners
+# Análisis YRFI: St. Louis Cardinals @ Chicago Cubs
 
 **Fecha:** 2025-09-26  
-**Lanzadores:** Bradley Blalock (V) vs Por anunciar (L)
+**Lanzadores:** Miles Mikolas (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.9%
+**Probabilidad de que anoten en la primera entrada:** 58.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 22.1% (17/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Bradley Blalock):** 60.0% (3/5 partidos)
-- **Puntuación ajustada:** 41.8%
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 28.2% (22/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Miles Mikolas):** 33.3% (5/15 partidos)
+- **Puntuación ajustada:** 31.8%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 13.0% (10/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.1%
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 39.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 09:40:11
+- **Generado el:** 2025-09-26 09:39:49
 - **Fuente de datos:** season_data.json

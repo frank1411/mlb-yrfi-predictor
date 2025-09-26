@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ New York Yankees
+# Análisis YRFI: Houston Astros @ Los Angeles Angels
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Davis Martin (V) vs Carlos Rodón (L)
+**Fecha:** 2025-09-27  
+**Lanzadores:** Jason Alexander (V) vs Kyle Hendricks (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.5%
+**Probabilidad de que anoten en la primera entrada:** 43.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 33.8% (26/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 41.7% (5/12 partidos)
-- **Puntuación ajustada:** 43.5%
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 32.1% (25/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 14.1%
 
-### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 29.9% (23/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 35.3%
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 28.2% (22/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Los Angeles Angels - Kyle Hendricks):** 33.3% (5/15 partidos)
+- **Puntuación ajustada:** 34.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 09:40:11
+- **Generado el:** 2025-09-26 09:39:49
 - **Fuente de datos:** season_data.json

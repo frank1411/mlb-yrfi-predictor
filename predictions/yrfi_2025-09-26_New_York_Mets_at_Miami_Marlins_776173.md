@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Cleveland Guardians
+# Análisis YRFI: New York Mets @ Miami Marlins
 
-**Fecha:** 2025-09-25  
-**Lanzadores:** Por anunciar (V) vs Parker Messick (L)
+**Fecha:** 2025-09-26  
+**Lanzadores:** Brandon Sproat (V) vs Sandy Alcantara (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.0%
+**Probabilidad de que anoten en la primera entrada:** 46.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 31.2% (24/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 38.5%
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 29.5% (23/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (New York Mets - Brandon Sproat):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 15.8%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 20.8% (16/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 28.3%
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 25.6% (20/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Miami Marlins - Sandy Alcantara):** 35.3% (6/17 partidos)
+- **Puntuación ajustada:** 36.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-25 09:40:11
+- **Generado el:** 2025-09-26 09:39:49
 - **Fuente de datos:** season_data.json
