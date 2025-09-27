@@ -1,0 +1,67 @@
+{
+  "game_pk": 776146,
+  "game_date": "2025-09-27",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Justin Verlander",
+      "yrfi_allowed": 12.5,
+      "yrfi_ratio": "2/16"
+    },
+    "stats": {
+      "base": {
+        "value": 32.91139240506329,
+        "ratio": "26/79"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 13.03,
+    "pitcher": {
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 46.666666666666664,
+      "yrfi_ratio": "7/15"
+    },
+    "stats": {
+      "base": {
+        "value": 12.658227848101266,
+        "ratio": "10/79"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.91139240506329,
+        "tendency": 53.333333333333336,
+        "combined": 44.14,
+        "pitcher_impact": 46.666666666666664,
+        "adjusted": 45.03
+      },
+      "away_team": {
+        "base": 12.658227848101266,
+        "tendency": 13.333333333333334,
+        "combined": 13.03,
+        "pitcher_impact": 12.5,
+        "adjusted": 12.84
+      },
+      "game_yrfi_probability": 52.09
+    },
+    "yrfi_probability": 52.09
+  },
+  "metadata": {
+    "generated_at": "2025-09-27T09:36:25.274714",
+    "data_source": "season_data.json"
+  }
+}

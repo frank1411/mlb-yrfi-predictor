@@ -1,0 +1,67 @@
+{
+  "game_pk": 776150,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "4/12"
+    },
+    "stats": {
+      "base": {
+        "value": 22.78481012658228,
+        "ratio": "18/79"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 24.67,
+    "pitcher": {
+      "name": "Tyler Glasnow",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 30.37974683544304,
+        "ratio": "24/79"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.78481012658228,
+        "tendency": 46.666666666666664,
+        "combined": 35.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.35
+      },
+      "away_team": {
+        "base": 30.37974683544304,
+        "tendency": 20.0,
+        "combined": 24.67,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 27.7
+      },
+      "game_yrfi_probability": 44.58
+    },
+    "yrfi_probability": 44.58
+  },
+  "metadata": {
+    "generated_at": "2025-09-27T09:36:25.387054",
+    "data_source": "season_data.json"
+  }
+}
