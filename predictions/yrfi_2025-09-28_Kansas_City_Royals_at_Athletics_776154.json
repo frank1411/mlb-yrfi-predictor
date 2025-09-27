@@ -1,18 +1,18 @@
 {
-  "game_pk": 776172,
-  "game_date": "2025-09-27",
+  "game_pk": 776154,
+  "game_date": "2025-09-28",
   "home_team": {
     "id": "133",
     "name": "Athletics",
     "pitcher": {
-      "name": "Por anunciar",
+      "name": "Luis Morales",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 35.8974358974359,
-        "ratio": "28/78"
+        "value": 35.44303797468354,
+        "ratio": "28/79"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "118",
     "name": "Kansas City Royals",
-    "combined_yrfi_pct": 40.56,
+    "combined_yrfi_pct": 40.32,
     "pitcher": {
-      "name": "Noah Cameron",
-      "yrfi_allowed": 27.27272727272727,
-      "yrfi_ratio": "3/11"
+      "name": "Michael Wacha",
+      "yrfi_allowed": 23.076923076923077,
+      "yrfi_ratio": "3/13"
     },
     "stats": {
       "base": {
-        "value": 32.05128205128205,
-        "ratio": "25/78"
+        "value": 31.645569620253166,
+        "ratio": "25/79"
       },
       "tendency": {
         "value": 53.333333333333336,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 35.8974358974359,
+        "base": 35.44303797468354,
         "tendency": 26.666666666666668,
-        "combined": 32.21,
-        "pitcher_impact": 27.27272727272727,
-        "adjusted": 30.73
+        "combined": 31.93,
+        "pitcher_impact": 23.076923076923077,
+        "adjusted": 29.28
       },
       "away_team": {
-        "base": 32.05128205128205,
+        "base": 31.645569620253166,
         "tendency": 53.333333333333336,
-        "combined": 40.56,
+        "combined": 40.32,
         "pitcher_impact": 50.0,
-        "adjusted": 43.39
+        "adjusted": 43.22
       },
-      "game_yrfi_probability": 60.79
+      "game_yrfi_probability": 59.85
     },
-    "yrfi_probability": 60.79
+    "yrfi_probability": 59.85
   },
   "metadata": {
-    "generated_at": "2025-09-26T13:21:28.682362",
+    "generated_at": "2025-09-27T13:16:11.092872",
     "data_source": "season_data.json"
   }
 }

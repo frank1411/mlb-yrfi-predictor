@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Seattle Mariners
 
-**Fecha:** 2025-09-27  
-**Lanzadores:** Emmet Sheehan (V) vs Por anunciar (L)
+**Fecha:** 2025-09-28  
+**Lanzadores:** Tyler Glasnow (V) vs Logan Gilbert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.0%
+**Probabilidad de que anoten en la primera entrada:** 44.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 21.8% (17/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Emmet Sheehan):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.4%
+- **Estadística base YRFI:** 22.8% (18/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/6 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 30.8% (24/78 partidos)
+- **Estadística base YRFI:** 30.4% (24/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 33.5%
+- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 33.3% (4/12 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-26 13:21:28
+- **Generado el:** 2025-09-27 13:16:11
 - **Fuente de datos:** season_data.json

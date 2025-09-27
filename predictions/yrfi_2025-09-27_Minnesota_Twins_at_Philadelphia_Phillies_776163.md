@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Philadelphia Phillies
 
-**Fecha:** 2025-09-26  
-**Lanzadores:** Joe Ryan (V) vs Aaron Nola (L)
+**Fecha:** 2025-09-27  
+**Lanzadores:** Mick Abel (V) vs Ranger Suárez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.1%
+**Probabilidad de que anoten en la primera entrada:** 44.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 41.0% (32/78 partidos)
+- **Estadística base YRFI:** 41.8% (33/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 42.9% (6/14 partidos)
-- **Puntuación ajustada:** 45.0%
+- **Impacto del lanzador visitante (Minnesota Twins - Mick Abel):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 29.5% (23/78 partidos)
+- **Estadística base YRFI:** 29.1% (23/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 37.5% (3/8 partidos)
-- **Puntuación ajustada:** 29.2%
+- **Impacto del lanzador local (Philadelphia Phillies - Ranger Suárez):** 0.0% (0/13 partidos)
+- **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-26 13:21:28
+- **Generado el:** 2025-09-27 13:16:11
 - **Fuente de datos:** season_data.json

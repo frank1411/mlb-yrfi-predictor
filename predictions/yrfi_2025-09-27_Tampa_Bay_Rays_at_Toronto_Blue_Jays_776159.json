@@ -1,0 +1,67 @@
+{
+  "game_pk": 776159,
+  "game_date": "2025-09-27",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Trey Yesavage",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 29.11392405063291,
+        "ratio": "23/79"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 33.86,
+    "pitcher": {
+      "name": "Joe Boyle",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.31645569620253,
+        "ratio": "20/79"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.11392405063291,
+        "tendency": 26.666666666666668,
+        "combined": 28.14,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 39.69
+      },
+      "away_team": {
+        "base": 25.31645569620253,
+        "tendency": 46.666666666666664,
+        "combined": 33.86,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.7
+      },
+      "game_yrfi_probability": 53.98
+    },
+    "yrfi_probability": 53.98
+  },
+  "metadata": {
+    "generated_at": "2025-09-27T13:16:10.952981",
+    "data_source": "season_data.json"
+  }
+}

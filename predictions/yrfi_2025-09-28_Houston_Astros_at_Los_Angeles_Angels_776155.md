@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Los Angeles Angels
 
-**Fecha:** 2025-09-27  
-**Lanzadores:** Jason Alexander (V) vs Kyle Hendricks (L)
+**Fecha:** 2025-09-28  
+**Lanzadores:** AJ Blubaugh (V) vs Caden Dana (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.6%
+**Probabilidad de que anoten en la primera entrada:** 34.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 32.1% (25/78 partidos)
+- **Estadística base YRFI:** 31.6% (25/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 17.2%
+- **Impacto del lanzador visitante (Houston Astros - AJ Blubaugh):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.0%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 28.2% (22/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Kyle Hendricks):** 33.3% (5/15 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Estadística base YRFI:** 27.8% (22/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Los Angeles Angels - Caden Dana):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-26 13:21:28
+- **Generado el:** 2025-09-27 13:16:11
 - **Fuente de datos:** season_data.json

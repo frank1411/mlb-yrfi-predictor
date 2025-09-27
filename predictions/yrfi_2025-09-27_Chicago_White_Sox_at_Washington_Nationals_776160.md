@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Washington Nationals
 
-**Fecha:** 2025-09-26  
-**Lanzadores:** Yoendrys Gómez (V) vs Cade Cavalli (L)
+**Fecha:** 2025-09-27  
+**Lanzadores:** Sean Burke (V) vs Jake Irvin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.0%
+**Probabilidad de que anoten en la primera entrada:** 62.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 26.9% (21/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Yoendrys Gómez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Estadística base YRFI:** 27.8% (22/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 50.0% (4/8 partidos)
+- **Puntuación ajustada:** 34.2%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 29.5% (23/78 partidos)
+- **Estadística base YRFI:** 30.4% (24/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Impacto del lanzador local (Washington Nationals - Jake Irvin):** 57.1% (8/14 partidos)
+- **Puntuación ajustada:** 43.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-26 13:21:28
+- **Generado el:** 2025-09-27 13:16:10
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776164,
+  "game_date": "2025-09-27",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Jameson Taillon",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 29.11392405063291,
+        "ratio": "23/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 31.95,
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "3/7"
+    },
+    "stats": {
+      "base": {
+        "value": 26.582278481012654,
+        "ratio": "21/79"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.11392405063291,
+        "tendency": 33.33333333333333,
+        "combined": 30.8,
+        "pitcher_impact": 42.857142857142854,
+        "adjusted": 34.42
+      },
+      "away_team": {
+        "base": 26.582278481012654,
+        "tendency": 40.0,
+        "combined": 31.95,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 29.03
+      },
+      "game_yrfi_probability": 53.46
+    },
+    "yrfi_probability": 53.46
+  },
+  "metadata": {
+    "generated_at": "2025-09-27T13:16:10.941438",
+    "data_source": "season_data.json"
+  }
+}

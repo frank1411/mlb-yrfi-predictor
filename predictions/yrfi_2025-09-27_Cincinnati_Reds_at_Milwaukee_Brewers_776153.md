@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
 
 **Fecha:** 2025-09-27  
-**Lanzadores:** Zack Littell (V) vs Quinn Priester (L)
+**Lanzadores:** Andrew Abbott (V) vs Robert Gasser (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.1%
+**Probabilidad de que anoten en la primera entrada:** 29.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 17.9% (14/78 partidos)
+- **Estadística base YRFI:** 17.7% (14/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 23.5% (4/17 partidos)
-- **Puntuación ajustada:** 18.3%
+- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 18.7%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 21.8% (17/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Quinn Priester):** 11.1% (1/9 partidos)
-- **Puntuación ajustada:** 18.1%
+- **Estadística base YRFI:** 21.5% (17/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 12.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-26 13:21:28
+- **Generado el:** 2025-09-27 13:16:11
 - **Fuente de datos:** season_data.json

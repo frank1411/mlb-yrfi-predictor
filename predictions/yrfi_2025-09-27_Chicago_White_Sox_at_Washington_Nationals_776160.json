@@ -1,0 +1,67 @@
+{
+  "game_pk": 776160,
+  "game_date": "2025-09-27",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 57.14285714285714,
+      "yrfi_ratio": "8/14"
+    },
+    "stats": {
+      "base": {
+        "value": 27.848101265822784,
+        "ratio": "22/79"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 36.89,
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "4/8"
+    },
+    "stats": {
+      "base": {
+        "value": 30.37974683544304,
+        "ratio": "24/79"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.848101265822784,
+        "tendency": 26.666666666666668,
+        "combined": 27.38,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.16
+      },
+      "away_team": {
+        "base": 30.37974683544304,
+        "tendency": 46.666666666666664,
+        "combined": 36.89,
+        "pitcher_impact": 57.14285714285714,
+        "adjusted": 42.97
+      },
+      "game_yrfi_probability": 62.45
+    },
+    "yrfi_probability": 62.45
+  },
+  "metadata": {
+    "generated_at": "2025-09-27T13:16:10.976241",
+    "data_source": "season_data.json"
+  }
+}

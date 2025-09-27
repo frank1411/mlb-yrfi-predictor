@@ -1,0 +1,67 @@
+{
+  "game_pk": 776163,
+  "game_date": "2025-09-27",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Ranger Suárez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/13"
+    },
+    "stats": {
+      "base": {
+        "value": 41.77215189873418,
+        "ratio": "33/79"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 25.47,
+    "pitcher": {
+      "name": "Mick Abel",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.11392405063291,
+        "ratio": "23/79"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.77215189873418,
+        "tendency": 53.333333333333336,
+        "combined": 46.4,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.48
+      },
+      "away_team": {
+        "base": 29.11392405063291,
+        "tendency": 20.0,
+        "combined": 25.47,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.83
+      },
+      "game_yrfi_probability": 44.52
+    },
+    "yrfi_probability": 44.52
+  },
+  "metadata": {
+    "generated_at": "2025-09-27T13:16:11.012220",
+    "data_source": "season_data.json"
+  }
+}
