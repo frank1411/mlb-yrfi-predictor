@@ -1,0 +1,67 @@
+{
+  "game_pk": 776142,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Javier Assad",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "24/80"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 33.81,
+    "pitcher": {
+      "name": "Kyle Leahy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.25,
+        "ratio": "21/80"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.0,
+        "tendency": 40.0,
+        "combined": 35.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.07
+      },
+      "away_team": {
+        "base": 26.25,
+        "tendency": 40.0,
+        "combined": 33.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.98
+      },
+      "game_yrfi_probability": 39.98
+    },
+    "yrfi_probability": 39.98
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T09:35:53.811941",
+    "data_source": "season_data.json"
+  }
+}

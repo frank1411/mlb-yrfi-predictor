@@ -1,0 +1,67 @@
+{
+  "game_pk": 776139,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/8"
+    },
+    "stats": {
+      "base": {
+        "value": 22.5,
+        "ratio": "18/80"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 24.5,
+    "pitcher": {
+      "name": "Clayton Kershaw",
+      "yrfi_allowed": 36.36363636363637,
+      "yrfi_ratio": "4/11"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "24/80"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.5,
+        "tendency": 46.666666666666664,
+        "combined": 35.79,
+        "pitcher_impact": 36.36363636363637,
+        "adjusted": 35.99
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 20.0,
+        "combined": 24.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.93
+      },
+      "game_yrfi_probability": 46.19
+    },
+    "yrfi_probability": 46.19
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T09:35:53.761328",
+    "data_source": "season_data.json"
+  }
+}

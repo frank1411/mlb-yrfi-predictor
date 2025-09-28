@@ -1,0 +1,67 @@
+{
+  "game_pk": 776135,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Sam Aldegheri",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "25/80"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 30.71,
+    "pitcher": {
+      "name": "Lance McCullers Jr.",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/6"
+    },
+    "stats": {
+      "base": {
+        "value": 27.500000000000004,
+        "ratio": "22/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 6.666666666666667,
+        "combined": 17.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.52
+      },
+      "away_team": {
+        "base": 27.500000000000004,
+        "tendency": 33.33333333333333,
+        "combined": 30.71,
+        "pitcher_impact": 100.0,
+        "adjusted": 54.96
+      },
+      "game_yrfi_probability": 60.15
+    },
+    "yrfi_probability": 60.15
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T09:35:53.728616",
+    "data_source": "season_data.json"
+  }
+}
