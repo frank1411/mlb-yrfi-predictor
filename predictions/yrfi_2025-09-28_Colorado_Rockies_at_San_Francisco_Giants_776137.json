@@ -1,0 +1,67 @@
+{
+  "game_pk": 776137,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Logan Webb",
+      "yrfi_allowed": 27.77777777777778,
+      "yrfi_ratio": "5/18"
+    },
+    "stats": {
+      "base": {
+        "value": 32.5,
+        "ratio": "26/80"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 16.25,
+    "pitcher": {
+      "name": "McCade Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 13.750000000000002,
+        "ratio": "11/80"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.5,
+        "tendency": 46.666666666666664,
+        "combined": 38.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.72
+      },
+      "away_team": {
+        "base": 13.750000000000002,
+        "tendency": 20.0,
+        "combined": 16.25,
+        "pitcher_impact": 27.77777777777778,
+        "adjusted": 19.71
+      },
+      "game_yrfi_probability": 41.16
+    },
+    "yrfi_probability": 41.16
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T13:16:44.132012",
+    "data_source": "season_data.json"
+  }
+}

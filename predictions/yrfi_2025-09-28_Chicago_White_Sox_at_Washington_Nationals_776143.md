@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Toronto Blue Jays
+# Análisis YRFI: Chicago White Sox @ Washington Nationals
 
-**Fecha:** 2025-09-27  
-**Lanzadores:** Joe Boyle (V) vs Trey Yesavage (L)
+**Fecha:** 2025-09-28  
+**Lanzadores:** Shane Smith (V) vs Brad Lord (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.0%
+**Probabilidad de que anoten en la primera entrada:** 46.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.1% (23/79 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 27.5% (22/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Joe Boyle):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 39.7%
+- **Impacto del lanzador visitante (Chicago White Sox - Shane Smith):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 25.4%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 25.3% (20/79 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 30.0% (24/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (1/2 partidos)
-- **Puntuación ajustada:** 23.7%
+- **Impacto del lanzador local (Washington Nationals - Brad Lord):** 10.0% (1/10 partidos)
+- **Puntuación ajustada:** 28.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-27 13:16:10
+- **Generado el:** 2025-09-28 13:16:44
 - **Fuente de datos:** season_data.json

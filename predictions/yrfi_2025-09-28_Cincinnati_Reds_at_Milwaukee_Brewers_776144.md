@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
 
-**Fecha:** 2025-09-27  
-**Lanzadores:** Andrew Abbott (V) vs Robert Gasser (L)
+**Fecha:** 2025-09-28  
+**Lanzadores:** Brady Singer (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 29.1%
+**Probabilidad de que anoten en la primera entrada:** 39.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 17.7% (14/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 18.7%
+- **Estadística base YRFI:** 17.5% (14/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 66.7% (10/15 partidos)
+- **Puntuación ajustada:** 29.2%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 21.5% (17/79 partidos)
+- **Estadística base YRFI:** 21.2% (17/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 12.8%
+- **Impacto del lanzador local (Milwaukee Brewers - Freddy Peralta):** 6.2% (1/16 partidos)
+- **Puntuación ajustada:** 14.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-27 13:16:11
+- **Generado el:** 2025-09-28 13:16:44
 - **Fuente de datos:** season_data.json

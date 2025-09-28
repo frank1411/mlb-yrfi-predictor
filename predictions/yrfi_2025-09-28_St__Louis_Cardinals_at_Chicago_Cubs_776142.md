@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Chicago Cubs
 
-**Fecha:** 2025-09-27  
-**Lanzadores:** Michael McGreevy (V) vs Jameson Taillon (L)
+**Fecha:** 2025-09-28  
+**Lanzadores:** Kyle Leahy (V) vs Javier Assad (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.5%
+**Probabilidad de que anoten en la primera entrada:** 40.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 29.1% (23/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 42.9% (3/7 partidos)
-- **Puntuación ajustada:** 34.4%
+- **Estadística base YRFI:** 30.0% (24/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Kyle Leahy):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 26.6% (21/79 partidos)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Jameson Taillon):** 22.2% (2/9 partidos)
-- **Puntuación ajustada:** 29.0%
+- **Impacto del lanzador local (Chicago Cubs - Javier Assad):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-27 13:16:10
+- **Generado el:** 2025-09-28 13:16:44
 - **Fuente de datos:** season_data.json

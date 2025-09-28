@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ San Diego Padres
 
 **Fecha:** 2025-09-28  
-**Lanzadores:** Eduardo Rodriguez (V) vs Michael King (L)
+**Lanzadores:** Brandon Pfaadt (V) vs JP Sears (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.1%
+**Probabilidad de que anoten en la primera entrada:** 53.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 26.6% (21/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 33.3% (5/15 partidos)
-- **Puntuación ajustada:** 32.4%
+- **Estadística base YRFI:** 27.5% (22/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Brandon Pfaadt):** 40.0% (6/15 partidos)
+- **Puntuación ajustada:** 36.6%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.8% (22/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Michael King):** 33.3% (3/9 partidos)
-- **Puntuación ajustada:** 36.6%
+- **Estadística base YRFI:** 27.5% (22/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - JP Sears):** 8.3% (1/12 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-27 13:16:11
+- **Generado el:** 2025-09-28 13:16:44
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 776136,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "JP Sears",
+      "yrfi_allowed": 8.333333333333332,
+      "yrfi_ratio": "1/12"
+    },
+    "stats": {
+      "base": {
+        "value": 27.500000000000004,
+        "ratio": "22/80"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 35.17,
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "6/15"
+    },
+    "stats": {
+      "base": {
+        "value": 27.500000000000004,
+        "ratio": "22/80"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.500000000000004,
+        "tendency": 46.666666666666664,
+        "combined": 35.17,
+        "pitcher_impact": 40.0,
+        "adjusted": 36.62
+      },
+      "away_team": {
+        "base": 27.500000000000004,
+        "tendency": 46.666666666666664,
+        "combined": 35.17,
+        "pitcher_impact": 8.333333333333332,
+        "adjusted": 27.12
+      },
+      "game_yrfi_probability": 53.81
+    },
+    "yrfi_probability": 53.81
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T13:16:44.199256",
+    "data_source": "season_data.json"
+  }
+}

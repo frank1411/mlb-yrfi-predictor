@@ -1,0 +1,67 @@
+{
+  "game_pk": 776147,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.5,
+        "ratio": "26/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 29.42,
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "3/15"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "25/80"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.5,
+        "tendency": 33.33333333333333,
+        "combined": 32.83,
+        "pitcher_impact": 20.0,
+        "adjusted": 28.98
+      },
+      "away_team": {
+        "base": 31.25,
+        "tendency": 26.666666666666668,
+        "combined": 29.42,
+        "pitcher_impact": 50.0,
+        "adjusted": 35.59
+      },
+      "game_yrfi_probability": 54.26
+    },
+    "yrfi_probability": 54.26
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T13:16:44.217524",
+    "data_source": "season_data.json"
+  }
+}

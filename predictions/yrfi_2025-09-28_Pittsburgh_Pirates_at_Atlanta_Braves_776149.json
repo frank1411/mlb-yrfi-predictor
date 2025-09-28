@@ -1,0 +1,67 @@
+{
+  "game_pk": 776149,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Charlie Morton",
+      "yrfi_allowed": 28.57142857142857,
+      "yrfi_ratio": "4/14"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "25/80"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 31.75,
+    "pitcher": {
+      "name": "Johan Oviedo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.25,
+        "ratio": "21/80"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 26.666666666666668,
+        "combined": 29.42,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.09
+      },
+      "away_team": {
+        "base": 26.25,
+        "tendency": 40.0,
+        "combined": 31.75,
+        "pitcher_impact": 28.57142857142857,
+        "adjusted": 30.8
+      },
+      "game_yrfi_probability": 50.24
+    },
+    "yrfi_probability": 50.24
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T13:16:44.251401",
+    "data_source": "season_data.json"
+  }
+}

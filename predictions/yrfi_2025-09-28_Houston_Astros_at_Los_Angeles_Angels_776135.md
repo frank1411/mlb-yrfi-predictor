@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Los Angeles Angels
 
 **Fecha:** 2025-09-28  
-**Lanzadores:** AJ Blubaugh (V) vs Caden Dana (L)
+**Lanzadores:** Lance McCullers Jr. (V) vs Sam Aldegheri (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.5%
+**Probabilidad de que anoten en la primera entrada:** 58.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 31.6% (25/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - AJ Blubaugh):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.0%
+- **Estadística base YRFI:** 31.2% (25/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Lance McCullers Jr.):** 0.0% (0/6 partidos)
+- **Puntuación ajustada:** 15.0%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 27.8% (22/79 partidos)
+- **Estadística base YRFI:** 27.5% (22/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Caden Dana):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 21.0%
+- **Impacto del lanzador local (Los Angeles Angels - Sam Aldegheri):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 50.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-27 13:16:11
+- **Generado el:** 2025-09-28 13:16:44
 - **Fuente de datos:** season_data.json

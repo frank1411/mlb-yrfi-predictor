@@ -1,0 +1,67 @@
+{
+  "game_pk": 776138,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Brady Basso",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.0,
+        "ratio": "28/80"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 40.83,
+    "pitcher": {
+      "name": "Cole Ragans",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 32.5,
+        "ratio": "26/80"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.0,
+        "tendency": 20.0,
+        "combined": 29.0,
+        "pitcher_impact": 40.0,
+        "adjusted": 32.3
+      },
+      "away_team": {
+        "base": 32.5,
+        "tendency": 53.333333333333336,
+        "combined": 40.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.58
+      },
+      "game_yrfi_probability": 51.65
+    },
+    "yrfi_probability": 51.65
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T13:16:44.120523",
+    "data_source": "season_data.json"
+  }
+}

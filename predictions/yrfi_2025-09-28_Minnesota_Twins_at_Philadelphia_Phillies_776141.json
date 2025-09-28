@@ -1,0 +1,67 @@
+{
+  "game_pk": 776141,
+  "game_date": "2025-09-28",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
+    },
+    "stats": {
+      "base": {
+        "value": 41.25,
+        "ratio": "33/80"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 28.67,
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "2/9"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "24/80"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.25,
+        "tendency": 46.666666666666664,
+        "combined": 43.42,
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 37.06
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 26.666666666666668,
+        "combined": 28.67,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 24.35
+      },
+      "game_yrfi_probability": 52.39
+    },
+    "yrfi_probability": 52.39
+  },
+  "metadata": {
+    "generated_at": "2025-09-28T13:16:44.143716",
+    "data_source": "season_data.json"
+  }
+}
