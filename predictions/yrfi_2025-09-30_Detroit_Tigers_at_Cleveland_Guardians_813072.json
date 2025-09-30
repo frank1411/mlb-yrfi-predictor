@@ -1,0 +1,67 @@
+{
+  "game_pk": 813072,
+  "game_date": "2025-09-30",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 31.25,
+      "yrfi_ratio": "5/16"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "27/81"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 16.78,
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 13.333333333333334,
+      "yrfi_ratio": "2/15"
+    },
+    "stats": {
+      "base": {
+        "value": 20.98765432098765,
+        "ratio": "17/81"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 37.0,
+        "pitcher_impact": 13.333333333333334,
+        "adjusted": 28.72
+      },
+      "away_team": {
+        "base": 20.98765432098765,
+        "tendency": 13.333333333333334,
+        "combined": 16.78,
+        "pitcher_impact": 31.25,
+        "adjusted": 21.84
+      },
+      "game_yrfi_probability": 44.29
+    },
+    "yrfi_probability": 44.29
+  },
+  "metadata": {
+    "generated_at": "2025-09-30T09:40:15.038730",
+    "data_source": "season_data.json"
+  }
+}

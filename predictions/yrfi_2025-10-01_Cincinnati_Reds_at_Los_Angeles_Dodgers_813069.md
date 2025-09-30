@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ Washington Nationals
+# Análisis YRFI: Cincinnati Reds @ Los Angeles Dodgers
 
-**Fecha:** 2025-09-28  
-**Lanzadores:** Shane Smith (V) vs Brad Lord (L)
+**Fecha:** 2025-10-01  
+**Lanzadores:** Hunter Greene (V) vs Blake Snell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.8%
+**Probabilidad de que anoten en la primera entrada:** 38.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 27.5% (22/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Shane Smith):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 25.1%
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.8% (29/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Hunter Greene):** 25.0% (2/8 partidos)
+- **Puntuación ajustada:** 26.4%
 
-### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 30.0% (24/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Brad Lord):** 10.0% (1/10 partidos)
-- **Puntuación ajustada:** 29.0%
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 21.0% (17/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 14.3% (1/7 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-28 09:35:53
+- **Generado el:** 2025-09-30 09:40:15
 - **Fuente de datos:** season_data.json

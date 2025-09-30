@@ -1,0 +1,67 @@
+{
+  "game_pk": 813074,
+  "game_date": "2025-09-30",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Max Fried",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "5/15"
+    },
+    "stats": {
+      "base": {
+        "value": 37.03703703703704,
+        "ratio": "30/81"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 31.11,
+    "pitcher": {
+      "name": "Garrett Crochet",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "3/18"
+    },
+    "stats": {
+      "base": {
+        "value": 28.39506172839506,
+        "ratio": "23/81"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.03703703703704,
+        "tendency": 60.0,
+        "combined": 49.67,
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 38.12
+      },
+      "away_team": {
+        "base": 28.39506172839506,
+        "tendency": 33.33333333333333,
+        "combined": 31.11,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 31.89
+      },
+      "game_yrfi_probability": 57.85
+    },
+    "yrfi_probability": 57.85
+  },
+  "metadata": {
+    "generated_at": "2025-09-30T09:40:15.062856",
+    "data_source": "season_data.json"
+  }
+}

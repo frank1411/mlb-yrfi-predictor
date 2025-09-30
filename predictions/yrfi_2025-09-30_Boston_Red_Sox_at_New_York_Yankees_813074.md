@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Athletics
+# Análisis YRFI: Boston Red Sox @ New York Yankees
 
-**Fecha:** 2025-09-28  
-**Lanzadores:** Cole Ragans (V) vs Brady Basso (L)
+**Fecha:** 2025-09-30  
+**Lanzadores:** Garrett Crochet (V) vs Max Fried (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.0%
+**Probabilidad de que anoten en la primera entrada:** 57.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 35.0% (28/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Cole Ragans):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 31.4%
+### New York Yankees (Local)
+- **Estadística base YRFI:** 37.0% (30/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Garrett Crochet):** 16.7% (3/18 partidos)
+- **Puntuación ajustada:** 38.1%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 32.5% (26/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Athletics - Brady Basso):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.6%
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 28.4% (23/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Max Fried):** 33.3% (5/15 partidos)
+- **Puntuación ajustada:** 31.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-28 09:35:53
+- **Generado el:** 2025-09-30 09:40:15
 - **Fuente de datos:** season_data.json

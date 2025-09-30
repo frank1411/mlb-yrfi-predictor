@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ San Diego Padres
+# Análisis YRFI: Detroit Tigers @ Cleveland Guardians
 
-**Fecha:** 2025-09-28  
-**Lanzadores:** Brandon Pfaadt (V) vs JP Sears (L)
+**Fecha:** 2025-09-30  
+**Lanzadores:** Tarik Skubal (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.7%
+**Probabilidad de que anoten en la primera entrada:** 44.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 27.5% (22/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Brandon Pfaadt):** 40.0% (6/15 partidos)
-- **Puntuación ajustada:** 38.7%
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 33.3% (27/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
+- **Puntuación ajustada:** 28.7%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.5% (22/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - JP Sears):** 8.3% (1/12 partidos)
-- **Puntuación ajustada:** 27.6%
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 21.0% (17/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 31.2% (5/16 partidos)
+- **Puntuación ajustada:** 21.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-28 09:35:53
+- **Generado el:** 2025-09-30 09:40:15
 - **Fuente de datos:** season_data.json
