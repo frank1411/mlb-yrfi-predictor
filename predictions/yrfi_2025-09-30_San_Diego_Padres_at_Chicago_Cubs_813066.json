@@ -1,0 +1,67 @@
+{
+  "game_pk": 813066,
+  "game_date": "2025-09-30",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "5/15"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "24/81"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 36.89,
+    "pitcher": {
+      "name": "Nick Pivetta",
+      "yrfi_allowed": 21.428571428571427,
+      "yrfi_ratio": "3/14"
+    },
+    "stats": {
+      "base": {
+        "value": 25.925925925925924,
+        "ratio": "21/81"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.629629629629626,
+        "tendency": 40.0,
+        "combined": 33.78,
+        "pitcher_impact": 21.428571428571427,
+        "adjusted": 30.07
+      },
+      "away_team": {
+        "base": 25.925925925925924,
+        "tendency": 53.333333333333336,
+        "combined": 36.89,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 35.82
+      },
+      "game_yrfi_probability": 55.12
+    },
+    "yrfi_probability": 55.12
+  },
+  "metadata": {
+    "generated_at": "2025-09-30T13:24:26.804402",
+    "data_source": "season_data.json"
+  }
+}
