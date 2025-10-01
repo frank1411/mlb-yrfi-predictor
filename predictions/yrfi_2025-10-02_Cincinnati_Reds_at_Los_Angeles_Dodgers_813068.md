@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Los Angeles Dodgers
 
-**Fecha:** 2025-10-01  
-**Lanzadores:** Hunter Greene (V) vs Blake Snell (L)
+**Fecha:** 2025-10-02  
+**Lanzadores:** Zack Littell (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.2%
+**Probabilidad de que anoten en la primera entrada:** 41.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
 - **Estadística base YRFI:** 35.8% (29/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Hunter Greene):** 25.0% (2/8 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 22.2% (4/18 partidos)
+- **Puntuación ajustada:** 27.3%
 
 ### Cincinnati Reds (Visitante)
 - **Estadística base YRFI:** 21.0% (17/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 14.3% (1/7 partidos)
-- **Puntuación ajustada:** 16.8%
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-30 13:24:26
+- **Generado el:** 2025-10-01 13:23:52
 - **Fuente de datos:** season_data.json
