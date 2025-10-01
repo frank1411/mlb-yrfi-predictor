@@ -1,13 +1,13 @@
 {
-  "game_pk": 813066,
-  "game_date": "2025-09-30",
+  "game_pk": 813064,
+  "game_date": "2025-10-01",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Matthew Boyd",
-      "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "5/15"
+      "name": "Andrew Kittredge",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "San Diego Padres",
     "combined_yrfi_pct": 41.0,
     "pitcher": {
-      "name": "Nick Pivetta",
-      "yrfi_allowed": 21.428571428571427,
-      "yrfi_ratio": "3/14"
+      "name": "Dylan Cease",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "6/16"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 29.629629629629626,
         "tendency": 40.0,
         "combined": 35.33,
-        "pitcher_impact": 21.428571428571427,
-        "adjusted": 30.47
+        "pitcher_impact": 37.5,
+        "adjusted": 36.09
       },
       "away_team": {
         "base": 25.925925925925924,
         "tendency": 53.333333333333336,
         "combined": 41.0,
-        "pitcher_impact": 33.33333333333333,
-        "adjusted": 38.32
+        "pitcher_impact": 0.0,
+        "adjusted": 26.65
       },
-      "game_yrfi_probability": 57.11
+      "game_yrfi_probability": 53.12
     },
-    "yrfi_probability": 57.11
+    "yrfi_probability": 53.12
   },
   "metadata": {
-    "generated_at": "2025-09-30T09:40:15.050801",
+    "generated_at": "2025-10-01T09:40:59.060109",
     "data_source": "season_data.json"
   }
 }

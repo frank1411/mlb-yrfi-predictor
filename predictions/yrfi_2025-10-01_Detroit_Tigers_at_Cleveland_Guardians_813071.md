@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Cleveland Guardians
 
-**Fecha:** 2025-09-30  
-**Lanzadores:** Tarik Skubal (V) vs Gavin Williams (L)
+**Fecha:** 2025-10-01  
+**Lanzadores:** Casey Mize (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.3%
+**Probabilidad de que anoten en la primera entrada:** 46.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
 - **Estadística base YRFI:** 33.3% (27/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
-- **Puntuación ajustada:** 28.7%
+- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 28.6% (4/14 partidos)
+- **Puntuación ajustada:** 34.0%
 
 ### Detroit Tigers (Visitante)
 - **Estadística base YRFI:** 21.0% (17/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 31.2% (5/16 partidos)
-- **Puntuación ajustada:** 21.8%
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 21.4% (3/14 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-09-30 09:40:15
+- **Generado el:** 2025-10-01 09:40:59
 - **Fuente de datos:** season_data.json

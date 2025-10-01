@@ -1,13 +1,13 @@
 {
-  "game_pk": 813069,
-  "game_date": "2025-10-01",
+  "game_pk": 813068,
+  "game_date": "2025-10-02",
   "home_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Blake Snell",
-      "yrfi_allowed": 14.285714285714285,
-      "yrfi_ratio": "1/7"
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Cincinnati Reds",
     "combined_yrfi_pct": 16.78,
     "pitcher": {
-      "name": "Hunter Greene",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "2/8"
+      "name": "Zack Littell",
+      "yrfi_allowed": 22.22222222222222,
+      "yrfi_ratio": "4/18"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 35.80246913580247,
         "tendency": 20.0,
         "combined": 27.11,
-        "pitcher_impact": 25.0,
-        "adjusted": 26.37
+        "pitcher_impact": 22.22222222222222,
+        "adjusted": 25.4
       },
       "away_team": {
         "base": 20.98765432098765,
         "tendency": 13.333333333333334,
         "combined": 16.78,
-        "pitcher_impact": 14.285714285714285,
-        "adjusted": 15.91
+        "pitcher_impact": 25.0,
+        "adjusted": 19.66
       },
-      "game_yrfi_probability": 38.08
+      "game_yrfi_probability": 40.07
     },
-    "yrfi_probability": 38.08
+    "yrfi_probability": 40.07
   },
   "metadata": {
-    "generated_at": "2025-09-30T09:40:15.075175",
+    "generated_at": "2025-10-01T09:40:59.084091",
     "data_source": "season_data.json"
   }
 }
