@@ -1,7 +1,7 @@
-# Análisis YRFI: Cincinnati Reds @ Los Angeles Dodgers
+# Análisis YRFI: Detroit Tigers @ Cleveland Guardians
 
 **Fecha:** 2025-10-02  
-**Lanzadores:** Zack Littell (V) vs Yoshinobu Yamamoto (L)
+**Lanzadores:** Jack Flaherty (V) vs Slade Cecconi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 35.8% (29/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Zack Littell):** 22.2% (4/18 partidos)
-- **Puntuación ajustada:** 27.3%
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 33.3% (27/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 29.5%
 
-### Cincinnati Reds (Visitante)
+### Detroit Tigers (Visitante)
 - **Estadística base YRFI:** 21.0% (17/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 17.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-01 13:23:52
+- **Generado el:** 2025-10-02 13:20:54
 - **Fuente de datos:** season_data.json

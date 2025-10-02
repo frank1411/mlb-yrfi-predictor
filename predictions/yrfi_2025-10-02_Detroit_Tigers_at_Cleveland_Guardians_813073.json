@@ -1,13 +1,13 @@
 {
-  "game_pk": 813071,
-  "game_date": "2025-10-01",
+  "game_pk": 813073,
+  "game_date": "2025-10-02",
   "home_team": {
     "id": "114",
     "name": "Cleveland Guardians",
     "pitcher": {
-      "name": "Tanner Bibee",
-      "yrfi_allowed": 21.428571428571427,
-      "yrfi_ratio": "3/14"
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 16.666666666666664,
+      "yrfi_ratio": "2/12"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Detroit Tigers",
     "combined_yrfi_pct": 17.93,
     "pitcher": {
-      "name": "Casey Mize",
-      "yrfi_allowed": 28.57142857142857,
-      "yrfi_ratio": "4/14"
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 33.33333333333333,
         "tendency": 40.0,
         "combined": 36.0,
-        "pitcher_impact": 28.57142857142857,
-        "adjusted": 33.77
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 29.49
       },
       "away_team": {
         "base": 20.98765432098765,
         "tendency": 13.333333333333334,
         "combined": 17.93,
-        "pitcher_impact": 21.428571428571427,
-        "adjusted": 18.98
+        "pitcher_impact": 16.666666666666664,
+        "adjusted": 17.55
       },
-      "game_yrfi_probability": 46.34
+      "game_yrfi_probability": 41.86
     },
-    "yrfi_probability": 46.34
+    "yrfi_probability": 41.86
   },
   "metadata": {
-    "generated_at": "2025-10-01T13:23:52.942638",
+    "generated_at": "2025-10-02T13:20:54.982085",
     "data_source": "season_data.json"
   }
 }
