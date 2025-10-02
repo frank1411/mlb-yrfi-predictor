@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ New York Yankees
+# Análisis YRFI: San Diego Padres @ Chicago Cubs
 
-**Fecha:** 2025-10-01  
-**Lanzadores:** Brayan Bello (V) vs Carlos Rodón (L)
+**Fecha:** 2025-10-02  
+**Lanzadores:** Yu Darvish (V) vs Jameson Taillon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.7%
+**Probabilidad de que anoten en la primera entrada:** 62.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 37.0% (30/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Brayan Bello):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 41.8%
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 29.6% (24/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (San Diego Padres - Yu Darvish):** 57.1% (4/7 partidos)
+- **Puntuación ajustada:** 43.0%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 28.4% (23/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 27.2%
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 25.9% (21/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Jameson Taillon):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-01 09:40:59
+- **Generado el:** 2025-10-02 09:38:48
 - **Fuente de datos:** season_data.json

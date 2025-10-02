@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Cleveland Guardians
+# Análisis YRFI: Boston Red Sox @ New York Yankees
 
-**Fecha:** 2025-10-01  
-**Lanzadores:** Casey Mize (V) vs Tanner Bibee (L)
+**Fecha:** 2025-10-03  
+**Lanzadores:** Connelly Early (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.2%
+**Probabilidad de que anoten en la primera entrada:** 66.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 33.3% (27/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 28.6% (4/14 partidos)
-- **Puntuación ajustada:** 34.0%
+### New York Yankees (Local)
+- **Estadística base YRFI:** 37.0% (30/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Connelly Early):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 49.8%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 21.0% (17/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 21.4% (3/14 partidos)
-- **Puntuación ajustada:** 18.4%
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 28.4% (23/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 33.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-01 09:40:59
+- **Generado el:** 2025-10-02 09:38:48
 - **Fuente de datos:** season_data.json

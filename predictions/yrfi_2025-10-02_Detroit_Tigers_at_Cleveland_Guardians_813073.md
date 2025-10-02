@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Chicago Cubs
+# Análisis YRFI: Detroit Tigers @ Cleveland Guardians
 
-**Fecha:** 2025-10-01  
-**Lanzadores:** Dylan Cease (V) vs Andrew Kittredge (L)
+**Fecha:** 2025-10-02  
+**Lanzadores:** Jack Flaherty (V) vs Slade Cecconi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.1%
+**Probabilidad de que anoten en la primera entrada:** 40.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 29.6% (24/81 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 33.3% (27/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Dylan Cease):** 37.5% (6/16 partidos)
-- **Puntuación ajustada:** 36.1%
+- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 14.3% (2/14 partidos)
+- **Puntuación ajustada:** 29.1%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 25.9% (21/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Andrew Kittredge):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.6%
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 21.0% (17/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 16.7% (2/12 partidos)
+- **Puntuación ajustada:** 16.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-01 09:40:59
+- **Generado el:** 2025-10-02 09:38:48
 - **Fuente de datos:** season_data.json
