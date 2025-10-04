@@ -1,0 +1,67 @@
+{
+  "game_pk": 813051,
+  "game_date": "2025-10-04",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 13.333333333333334,
+      "yrfi_ratio": "2/15"
+    },
+    "stats": {
+      "base": {
+        "value": 40.74074074074074,
+        "ratio": "33/81"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 24.33,
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "1/7"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "24/81"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.74074074074074,
+        "tendency": 46.666666666666664,
+        "combined": 44.0,
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 33.6
+      },
+      "away_team": {
+        "base": 29.629629629629626,
+        "tendency": 20.0,
+        "combined": 24.33,
+        "pitcher_impact": 13.333333333333334,
+        "adjusted": 20.48
+      },
+      "game_yrfi_probability": 47.2
+    },
+    "yrfi_probability": 47.2
+  },
+  "metadata": {
+    "generated_at": "2025-10-04T09:36:14.516996",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Cleveland Guardians
+# Análisis YRFI: Chicago Cubs @ Milwaukee Brewers
 
-**Fecha:** 2025-10-02  
-**Lanzadores:** Jack Flaherty (V) vs Slade Cecconi (L)
+**Fecha:** 2025-10-04  
+**Lanzadores:** Matthew Boyd (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.9%
+**Probabilidad de que anoten en la primera entrada:** 35.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 33.3% (27/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 14.3% (2/14 partidos)
-- **Puntuación ajustada:** 29.1%
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 17.3% (14/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 18.8% (3/16 partidos)
+- **Puntuación ajustada:** 14.0%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 21.0% (17/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 16.7% (2/12 partidos)
-- **Puntuación ajustada:** 16.7%
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 30.9% (25/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Freddy Peralta):** 5.9% (1/17 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-02 09:38:48
+- **Generado el:** 2025-10-04 09:36:14
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Chicago Cubs
+# Análisis YRFI: Los Angeles Dodgers @ Philadelphia Phillies
 
-**Fecha:** 2025-10-02  
-**Lanzadores:** Yu Darvish (V) vs Jameson Taillon (L)
+**Fecha:** 2025-10-04  
+**Lanzadores:** Shohei Ohtani (V) vs Cristopher Sánchez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.2%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 29.6% (24/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Yu Darvish):** 57.1% (4/7 partidos)
-- **Puntuación ajustada:** 43.0%
-
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 25.9% (21/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Jameson Taillon):** 20.0% (2/10 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 40.7% (33/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Shohei Ohtani):** 14.3% (1/7 partidos)
 - **Puntuación ajustada:** 33.6%
+
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 29.6% (24/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 13.3% (2/15 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-02 09:38:48
+- **Generado el:** 2025-10-04 09:36:14
 - **Fuente de datos:** season_data.json

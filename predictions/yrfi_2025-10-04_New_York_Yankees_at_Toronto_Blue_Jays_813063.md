@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ New York Yankees
+# Análisis YRFI: New York Yankees @ Toronto Blue Jays
 
-**Fecha:** 2025-10-03  
-**Lanzadores:** Connelly Early (V) vs Cam Schlittler (L)
+**Fecha:** 2025-10-04  
+**Lanzadores:** Luis Gil (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.5%
+**Probabilidad de que anoten en la primera entrada:** 56.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 37.0% (30/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Connelly Early):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 49.8%
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 29.6% (24/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Luis Gil):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 18.2%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 28.4% (23/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 37.5% (3/8 partidos)
-- **Puntuación ajustada:** 33.4%
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 43.2% (35/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 37.5% (6/16 partidos)
+- **Puntuación ajustada:** 47.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-02 09:38:48
+- **Generado el:** 2025-10-04 09:36:14
 - **Fuente de datos:** season_data.json
