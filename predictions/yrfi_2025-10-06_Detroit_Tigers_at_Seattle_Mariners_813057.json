@@ -1,13 +1,13 @@
 {
-  "game_pk": 813058,
-  "game_date": "2025-10-05",
+  "game_pk": 813057,
+  "game_date": "2025-10-06",
   "home_team": {
     "id": "136",
     "name": "Seattle Mariners",
     "pitcher": {
-      "name": "George Kirby",
-      "yrfi_allowed": 8.333333333333332,
-      "yrfi_ratio": "1/12"
+      "name": "Luis Castillo",
+      "yrfi_allowed": 17.647058823529413,
+      "yrfi_ratio": "3/17"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Detroit Tigers",
     "combined_yrfi_pct": 17.93,
     "pitcher": {
-      "name": "Troy Melton",
-      "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "1/3"
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 13.333333333333334,
+      "yrfi_ratio": "2/15"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 22.22222222222222,
         "tendency": 46.666666666666664,
         "combined": 32.0,
-        "pitcher_impact": 33.33333333333333,
-        "adjusted": 32.4
+        "pitcher_impact": 13.333333333333334,
+        "adjusted": 26.4
       },
       "away_team": {
         "base": 20.98765432098765,
         "tendency": 13.333333333333334,
         "combined": 17.93,
-        "pitcher_impact": 8.333333333333332,
-        "adjusted": 15.05
+        "pitcher_impact": 17.647058823529413,
+        "adjusted": 17.84
       },
-      "game_yrfi_probability": 42.57
+      "game_yrfi_probability": 39.53
     },
-    "yrfi_probability": 42.57
+    "yrfi_probability": 39.53
   },
   "metadata": {
-    "generated_at": "2025-10-04T13:15:21.889513",
+    "generated_at": "2025-10-05T13:16:05.913276",
     "data_source": "season_data.json"
   }
 }
