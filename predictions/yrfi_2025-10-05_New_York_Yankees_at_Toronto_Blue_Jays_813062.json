@@ -1,13 +1,13 @@
 {
-  "game_pk": 813063,
-  "game_date": "2025-10-04",
+  "game_pk": 813062,
+  "game_date": "2025-10-05",
   "home_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Kevin Gausman",
-      "yrfi_allowed": 37.5,
-      "yrfi_ratio": "6/16"
+      "name": "Trey Yesavage",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "New York Yankees",
     "combined_yrfi_pct": 52.44,
     "pitcher": {
-      "name": "Luis Gil",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/5"
+      "name": "Max Fried",
+      "yrfi_allowed": 17.647058823529413,
+      "yrfi_ratio": "3/17"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 29.629629629629626,
         "tendency": 26.666666666666668,
         "combined": 28.0,
-        "pitcher_impact": 0.0,
-        "adjusted": 18.2
+        "pitcher_impact": 17.647058823529413,
+        "adjusted": 24.38
       },
       "away_team": {
         "base": 43.20987654320987,
         "tendency": 60.0,
         "combined": 52.44,
-        "pitcher_impact": 37.5,
-        "adjusted": 47.21
+        "pitcher_impact": 0.0,
+        "adjusted": 34.09
       },
-      "game_yrfi_probability": 56.82
+      "game_yrfi_probability": 50.16
     },
-    "yrfi_probability": 56.82
+    "yrfi_probability": 50.16
   },
   "metadata": {
-    "generated_at": "2025-10-04T09:36:14.503514",
+    "generated_at": "2025-10-05T09:36:11.843012",
     "data_source": "season_data.json"
   }
 }
