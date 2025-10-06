@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Toronto Blue Jays
+# Análisis YRFI: Chicago Cubs @ Milwaukee Brewers
 
-**Fecha:** 2025-10-05  
-**Lanzadores:** Max Fried (V) vs Trey Yesavage (L)
+**Fecha:** 2025-10-07  
+**Lanzadores:** Shota Imanaga (V) vs Aaron Ashby (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.2%
+**Probabilidad de que anoten en la primera entrada:** 41.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.6% (24/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 17.6% (3/17 partidos)
-- **Puntuación ajustada:** 24.4%
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 17.3% (14/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 46.2% (6/13 partidos)
+- **Puntuación ajustada:** 23.6%
 
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 43.2% (35/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 34.1%
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 30.9% (25/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Aaron Ashby):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-05 09:36:11
+- **Generado el:** 2025-10-06 09:41:45
 - **Fuente de datos:** season_data.json

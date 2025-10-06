@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Seattle Mariners
+# Análisis YRFI: Los Angeles Dodgers @ Philadelphia Phillies
 
 **Fecha:** 2025-10-06  
-**Lanzadores:** Tarik Skubal (V) vs Luis Castillo (L)
+**Lanzadores:** Blake Snell (V) vs Jesús Luzardo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.2%
+**Probabilidad de que anoten en la primera entrada:** 58.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 22.2% (18/81 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 40.7% (33/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
-- **Puntuación ajustada:** 27.9%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Blake Snell):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 46.1%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 21.0% (17/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 17.6% (3/17 partidos)
-- **Puntuación ajustada:** 17.1%
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 29.6% (24/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 18.8% (3/16 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-05 09:36:11
+- **Generado el:** 2025-10-06 09:41:45
 - **Fuente de datos:** season_data.json
