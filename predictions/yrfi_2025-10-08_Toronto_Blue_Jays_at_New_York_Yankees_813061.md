@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Philadelphia Phillies
+# Análisis YRFI: Toronto Blue Jays @ New York Yankees
 
-**Fecha:** 2025-10-06  
-**Lanzadores:** Blake Snell (V) vs Jesús Luzardo (L)
+**Fecha:** 2025-10-08  
+**Lanzadores:** Shane Bieber (V) vs Carlos Rodón (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.2%
+**Probabilidad de que anoten en la primera entrada:** 48.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.7% (33/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Blake Snell):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 46.1%
+### New York Yankees (Local)
+- **Estadística base YRFI:** 37.0% (30/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 32.3%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 29.6% (24/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 18.8% (3/16 partidos)
-- **Puntuación ajustada:** 22.4%
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 20.0% (3/15 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-06 09:41:45
+- **Generado el:** 2025-10-07 09:39:59
 - **Fuente de datos:** season_data.json
