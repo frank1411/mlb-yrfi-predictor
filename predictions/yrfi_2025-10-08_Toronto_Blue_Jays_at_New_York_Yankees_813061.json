@@ -1,0 +1,67 @@
+{
+  "game_pk": 813061,
+  "game_date": "2025-10-08",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "3/15"
+    },
+    "stats": {
+      "base": {
+        "value": 37.03703703703704,
+        "ratio": "30/81"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 26.42,
+    "pitcher": {
+      "name": "Shane Bieber",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.25,
+        "ratio": "21/80"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.03703703703704,
+        "tendency": 60.0,
+        "combined": 46.22,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.36
+      },
+      "away_team": {
+        "base": 26.25,
+        "tendency": 26.666666666666668,
+        "combined": 26.42,
+        "pitcher_impact": 20.0,
+        "adjusted": 24.49
+      },
+      "game_yrfi_probability": 48.93
+    },
+    "yrfi_probability": 48.93
+  },
+  "metadata": {
+    "generated_at": "2025-10-07T13:23:32.451578",
+    "data_source": "season_data.json"
+  }
+}
