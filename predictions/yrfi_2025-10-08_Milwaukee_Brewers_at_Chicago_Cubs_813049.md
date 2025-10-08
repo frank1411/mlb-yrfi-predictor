@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ New York Yankees
+# Análisis YRFI: Milwaukee Brewers @ Chicago Cubs
 
 **Fecha:** 2025-10-08  
-**Lanzadores:** Shane Bieber (V) vs Carlos Rodón (L)
+**Lanzadores:** Quinn Priester (V) vs Jameson Taillon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.7%
+**Probabilidad de que anoten en la primera entrada:** 48.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 37.0% (30/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 32.3%
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 29.6% (24/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Milwaukee Brewers - Quinn Priester):** 42.9% (6/14 partidos)
+- **Puntuación ajustada:** 38.0%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 26.2% (21/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 24.2%
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 28.4% (23/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Jameson Taillon):** 20.0% (2/10 partidos)
+- **Puntuación ajustada:** 17.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-07 09:39:59
+- **Generado el:** 2025-10-08 09:40:28
 - **Fuente de datos:** season_data.json

@@ -1,13 +1,13 @@
 {
-  "game_pk": 813061,
+  "game_pk": 813060,
   "game_date": "2025-10-08",
   "home_team": {
     "id": "147",
     "name": "New York Yankees",
     "pitcher": {
-      "name": "Carlos Rodón",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "3/15"
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "3/8"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Toronto Blue Jays",
     "combined_yrfi_pct": 26.48,
     "pitcher": {
-      "name": "Shane Bieber",
+      "name": "Louis Varland",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
@@ -53,15 +53,15 @@
         "base": 26.25,
         "tendency": 26.666666666666668,
         "combined": 26.48,
-        "pitcher_impact": 20.0,
-        "adjusted": 24.21
+        "pitcher_impact": 37.5,
+        "adjusted": 30.34
       },
-      "game_yrfi_probability": 48.68
+      "game_yrfi_probability": 52.83
     },
-    "yrfi_probability": 48.68
+    "yrfi_probability": 52.83
   },
   "metadata": {
-    "generated_at": "2025-10-07T09:39:59.067346",
+    "generated_at": "2025-10-08T09:40:28.318216",
     "data_source": "season_data.json"
   }
 }

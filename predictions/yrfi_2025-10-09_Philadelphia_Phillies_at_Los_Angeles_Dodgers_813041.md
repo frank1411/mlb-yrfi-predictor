@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Detroit Tigers
+# Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
 
-**Fecha:** 2025-10-07  
-**Lanzadores:** Logan Gilbert (V) vs Jack Flaherty (L)
+**Fecha:** 2025-10-09  
+**Lanzadores:** Aaron Nola (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.0%
+**Probabilidad de que anoten en la primera entrada:** 53.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 30.9% (25/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 41.7% (5/12 partidos)
-- **Puntuación ajustada:** 28.4%
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.8% (29/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 30.8%
 
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 37.0% (30/81 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 27.2% (22/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 23.5% (4/17 partidos)
-- **Puntuación ajustada:** 35.8%
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 33.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-07 09:39:59
+- **Generado el:** 2025-10-08 09:40:28
 - **Fuente de datos:** season_data.json

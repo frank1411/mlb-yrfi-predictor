@@ -1,0 +1,67 @@
+{
+  "game_pk": 813049,
+  "game_date": "2025-10-08",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Jameson Taillon",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "2/10"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "24/81"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 16.44,
+    "pitcher": {
+      "name": "Quinn Priester",
+      "yrfi_allowed": 42.857142857142854,
+      "yrfi_ratio": "6/14"
+    },
+    "stats": {
+      "base": {
+        "value": 28.39506172839506,
+        "ratio": "23/81"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.629629629629626,
+        "tendency": 40.0,
+        "combined": 35.33,
+        "pitcher_impact": 42.857142857142854,
+        "adjusted": 37.97
+      },
+      "away_team": {
+        "base": 28.39506172839506,
+        "tendency": 6.666666666666667,
+        "combined": 16.44,
+        "pitcher_impact": 20.0,
+        "adjusted": 17.69
+      },
+      "game_yrfi_probability": 48.94
+    },
+    "yrfi_probability": 48.94
+  },
+  "metadata": {
+    "generated_at": "2025-10-08T09:40:28.306273",
+    "data_source": "season_data.json"
+  }
+}
