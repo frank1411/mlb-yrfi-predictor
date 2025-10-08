@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ New York Yankees
 
 **Fecha:** 2025-10-08  
-**Lanzadores:** Shane Bieber (V) vs Carlos Rodón (L)
+**Lanzadores:** Louis Varland (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.9%
+**Probabilidad de que anoten en la primera entrada:** 52.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
 - **Estadística base YRFI:** 37.0% (30/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/3 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Louis Varland):** 0.0% (0/1 partidos)
 - **Puntuación ajustada:** 32.4%
 
 ### Toronto Blue Jays (Visitante)
 - **Estadística base YRFI:** 26.2% (21/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 20.0% (3/15 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 37.5% (3/8 partidos)
+- **Puntuación ajustada:** 29.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-07 13:23:32
+- **Generado el:** 2025-10-08 13:24:02
 - **Fuente de datos:** season_data.json

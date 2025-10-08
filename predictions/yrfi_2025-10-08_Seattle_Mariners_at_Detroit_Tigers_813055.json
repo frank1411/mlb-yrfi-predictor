@@ -1,13 +1,13 @@
 {
-  "game_pk": 813056,
-  "game_date": "2025-10-07",
+  "game_pk": 813055,
+  "game_date": "2025-10-08",
   "home_team": {
     "id": "116",
     "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Jack Flaherty",
-      "yrfi_allowed": 23.52941176470588,
-      "yrfi_ratio": "4/17"
+      "name": "Casey Mize",
+      "yrfi_allowed": 14.285714285714285,
+      "yrfi_ratio": "2/14"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Seattle Mariners",
     "combined_yrfi_pct": 40.89,
     "pitcher": {
-      "name": "Logan Gilbert",
-      "yrfi_allowed": 41.66666666666667,
-      "yrfi_ratio": "5/12"
+      "name": "Bryce Miller",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 30.864197530864196,
         "tendency": 13.333333333333334,
         "combined": 23.85,
-        "pitcher_impact": 41.66666666666667,
-        "adjusted": 29.2
+        "pitcher_impact": 44.44444444444444,
+        "adjusted": 30.03
       },
       "away_team": {
         "base": 37.03703703703704,
         "tendency": 46.666666666666664,
         "combined": 40.89,
-        "pitcher_impact": 23.52941176470588,
-        "adjusted": 35.68
+        "pitcher_impact": 14.285714285714285,
+        "adjusted": 32.91
       },
-      "game_yrfi_probability": 54.46
+      "game_yrfi_probability": 53.06
     },
-    "yrfi_probability": 54.46
+    "yrfi_probability": 53.06
   },
   "metadata": {
-    "generated_at": "2025-10-07T13:23:32.434652",
+    "generated_at": "2025-10-08T13:24:02.258517",
     "data_source": "season_data.json"
   }
 }
