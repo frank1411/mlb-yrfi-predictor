@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
 
 **Fecha:** 2025-10-09  
-**Lanzadores:** Aaron Nola (V) vs Yoshinobu Yamamoto (L)
+**Lanzadores:** Cristopher Sánchez (V) vs Tyler Glasnow (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.9%
+**Probabilidad de que anoten en la primera entrada:** 49.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
 - **Estadística base YRFI:** 35.8% (29/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 37.5% (3/8 partidos)
-- **Puntuación ajustada:** 30.8%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 17.6% (3/17 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### Philadelphia Phillies (Visitante)
 - **Estadística base YRFI:** 27.2% (22/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (3/12 partidos)
-- **Puntuación ajustada:** 33.4%
+- **Impacto del lanzador local (Los Angeles Dodgers - Tyler Glasnow):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 34.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-08 09:40:28
+- **Generado el:** 2025-10-09 09:40:00
 - **Fuente de datos:** season_data.json

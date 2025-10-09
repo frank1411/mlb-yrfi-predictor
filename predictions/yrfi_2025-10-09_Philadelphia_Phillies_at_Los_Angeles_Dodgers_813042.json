@@ -1,13 +1,13 @@
 {
-  "game_pk": 813041,
+  "game_pk": 813042,
   "game_date": "2025-10-09",
   "home_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Yoshinobu Yamamoto",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "3/12"
+      "name": "Tyler Glasnow",
+      "yrfi_allowed": 27.27272727272727,
+      "yrfi_ratio": "3/11"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Philadelphia Phillies",
     "combined_yrfi_pct": 37.89,
     "pitcher": {
-      "name": "Aaron Nola",
-      "yrfi_allowed": 37.5,
-      "yrfi_ratio": "3/8"
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 17.647058823529413,
+      "yrfi_ratio": "3/17"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 35.80246913580247,
         "tendency": 20.0,
         "combined": 27.11,
-        "pitcher_impact": 37.5,
-        "adjusted": 30.75
+        "pitcher_impact": 17.647058823529413,
+        "adjusted": 23.8
       },
       "away_team": {
         "base": 27.160493827160494,
         "tendency": 46.666666666666664,
         "combined": 37.89,
-        "pitcher_impact": 25.0,
-        "adjusted": 33.38
+        "pitcher_impact": 27.27272727272727,
+        "adjusted": 34.17
       },
-      "game_yrfi_probability": 53.87
+      "game_yrfi_probability": 49.84
     },
-    "yrfi_probability": 53.87
+    "yrfi_probability": 49.84
   },
   "metadata": {
-    "generated_at": "2025-10-08T09:40:28.330165",
+    "generated_at": "2025-10-09T09:40:00.691768",
     "data_source": "season_data.json"
   }
 }
