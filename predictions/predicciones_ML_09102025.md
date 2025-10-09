@@ -8,26 +8,19 @@
 
 | Partido | Prob. YRFI | Recomendación |
 |---------|------------|---------------|
-| Chicago Cubs vs Milwaukee Brewers | 57.2% | ✅ APUESTA |
 | Los Angeles Dodgers vs Philadelphia Phillies | 49.8% | 🟡 CERCANO |
+| Chicago Cubs vs Milwaukee Brewers | 47.0% | ❌ NO APUESTA |
 
 ## ⚾ EQUIPOS CON MAYOR PROBABILIDAD DE ANOTAR EN 1RA ENTRADA
 
 | Equipo | Prob. Anotar | Condición |
 |--------|--------------|-----------|
-| Chicago Cubs | 40.5% | 🏠 Local 🟡 Media |
 | Philadelphia Phillies | 34.2% | ✈️ Visitante 🔴 Baja |
-| Milwaukee Brewers | 28.2% | ✈️ Visitante 🔴 Baja |
+| Chicago Cubs | 31.7% | 🏠 Local 🔴 Baja |
 | Los Angeles Dodgers | 23.8% | 🏠 Local 🔴 Baja |
+| Milwaukee Brewers | 22.4% | ✈️ Visitante 🔴 Baja |
 
 ## 🔍 ANÁLISIS DETALLADO POR PARTIDO
-
-### Chicago Cubs vs Milwaukee Brewers
-- **Probabilidad YRFI:** 57.2%
-- **Chicago Cubs (Local):** 40.5%
-- **Milwaukee Brewers (Visitante):** 28.2%
-
-**Recomendación:** ✅ APUESTA ALTA
 
 ### Los Angeles Dodgers vs Philadelphia Phillies
 - **Probabilidad YRFI:** 49.8%
@@ -35,6 +28,13 @@
 - **Philadelphia Phillies (Visitante):** 34.2%
 
 **Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
+
+### Chicago Cubs vs Milwaukee Brewers
+- **Probabilidad YRFI:** 47.0%
+- **Chicago Cubs (Local):** 31.7%
+- **Milwaukee Brewers (Visitante):** 22.4%
+
+**Recomendación:** ❌ NO RECOMENDADO
 
 ---
 *Nota: Las predicciones están basadas en datos históricos y modelos estadísticos.

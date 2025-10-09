@@ -5,9 +5,9 @@
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "5/15"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Milwaukee Brewers",
     "combined_yrfi_pct": 16.44,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "4/16"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 29.629629629629626,
         "tendency": 40.0,
         "combined": 35.33,
-        "pitcher_impact": 50.0,
-        "adjusted": 40.47
+        "pitcher_impact": 25.0,
+        "adjusted": 31.72
       },
       "away_team": {
         "base": 28.39506172839506,
         "tendency": 6.666666666666667,
         "combined": 16.44,
-        "pitcher_impact": 50.0,
-        "adjusted": 28.19
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 22.36
       },
-      "game_yrfi_probability": 57.25
+      "game_yrfi_probability": 46.99
     },
-    "yrfi_probability": 57.25
+    "yrfi_probability": 46.99
   },
   "metadata": {
-    "generated_at": "2025-10-09T09:40:00.696028",
+    "generated_at": "2025-10-09T18:27:16.811120",
     "data_source": "season_data.json"
   }
 }
