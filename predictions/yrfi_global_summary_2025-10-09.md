@@ -2,51 +2,22 @@
 
 ## 🏆 Top 3 Equipos con Mayor Probabilidad YRFI
 
-1. **Chicago Cubs** (Local 🏠)
-   - **Oponente:** Milwaukee Brewers
-   - **Lanzador Rival:** Por anunciar
-   - **YRFI Ajustado:** 38.6%
-
-2. **Philadelphia Phillies** (Visitante ✈️)
+1. **Philadelphia Phillies** (Visitante ✈️)
    - **Oponente:** Los Angeles Dodgers
    - **Lanzador Rival:** Tyler Glasnow
    - **YRFI Ajustado:** 32.7%
 
-3. **Milwaukee Brewers** (Visitante ✈️)
-   - **Oponente:** Chicago Cubs
-   - **Lanzador Rival:** Por anunciar
-   - **YRFI Ajustado:** 28.8%
+2. **Chicago Cubs** (Local 🏠)
+   - **Oponente:** Milwaukee Brewers
+   - **Lanzador Rival:** Freddy Peralta
+   - **YRFI Ajustado:** 31.1%
 
-## 🎯 Top 2 Partidos con Mayor Probabilidad YRFI
-
-1. **Milwaukee Brewers @ Chicago Cubs**
-   - **Lanzadores:** Por anunciar vs Por anunciar
-   - **Probabilidad YRFI:** 56.3%
-   - **Prob. Equipos:** 28.8% vs 38.6%
-
-2. **Philadelphia Phillies @ Los Angeles Dodgers**
-   - **Lanzadores:** Cristopher Sánchez vs Tyler Glasnow
-   - **Probabilidad YRFI:** 50.1%
-   - **Prob. Equipos:** 32.7% vs 25.9%
-
-## 📉 Top 3 Equipos con Menor Probabilidad YRFI
-
-1. **Los Angeles Dodgers** (Local 🏠)
+3. **Los Angeles Dodgers** (Local 🏠)
    - **Oponente:** Philadelphia Phillies
    - **Lanzador Rival:** Cristopher Sánchez
    - **YRFI Ajustado:** 25.9%
 
-2. **Milwaukee Brewers** (Visitante ✈️)
-   - **Oponente:** Chicago Cubs
-   - **Lanzador Rival:** Por anunciar
-   - **YRFI Ajustado:** 28.8%
-
-3. **Philadelphia Phillies** (Visitante ✈️)
-   - **Oponente:** Los Angeles Dodgers
-   - **Lanzador Rival:** Tyler Glasnow
-   - **YRFI Ajustado:** 32.7%
-
-## 🛑 Top 2 Partidos con Menor Probabilidad YRFI
+## 🎯 Top 2 Partidos con Mayor Probabilidad YRFI
 
 1. **Philadelphia Phillies @ Los Angeles Dodgers**
    - **Lanzadores:** Cristopher Sánchez vs Tyler Glasnow
@@ -54,16 +25,45 @@
    - **Prob. Equipos:** 32.7% vs 25.9%
 
 2. **Milwaukee Brewers @ Chicago Cubs**
-   - **Lanzadores:** Por anunciar vs Por anunciar
-   - **Probabilidad YRFI:** 56.3%
-   - **Prob. Equipos:** 28.8% vs 38.6%
+   - **Lanzadores:** Freddy Peralta vs Matthew Boyd
+   - **Probabilidad YRFI:** 47.5%
+   - **Prob. Equipos:** 23.8% vs 31.1%
+
+## 📉 Top 3 Equipos con Menor Probabilidad YRFI
+
+1. **Milwaukee Brewers** (Visitante ✈️)
+   - **Oponente:** Chicago Cubs
+   - **Lanzador Rival:** Matthew Boyd
+   - **YRFI Ajustado:** 23.8%
+
+2. **Los Angeles Dodgers** (Local 🏠)
+   - **Oponente:** Philadelphia Phillies
+   - **Lanzador Rival:** Cristopher Sánchez
+   - **YRFI Ajustado:** 25.9%
+
+3. **Chicago Cubs** (Local 🏠)
+   - **Oponente:** Milwaukee Brewers
+   - **Lanzador Rival:** Freddy Peralta
+   - **YRFI Ajustado:** 31.1%
+
+## 🛑 Top 2 Partidos con Menor Probabilidad YRFI
+
+1. **Milwaukee Brewers @ Chicago Cubs**
+   - **Lanzadores:** Freddy Peralta vs Matthew Boyd
+   - **Probabilidad YRFI:** 47.5%
+   - **Prob. Equipos:** 23.8% vs 31.1%
+
+2. **Philadelphia Phillies @ Los Angeles Dodgers**
+   - **Lanzadores:** Cristopher Sánchez vs Tyler Glasnow
+   - **Probabilidad YRFI:** 50.1%
+   - **Prob. Equipos:** 32.7% vs 25.9%
 
 ## 📈 Estadísticas Adicionales
 
 - **Total de partidos analizados:** 2
-- **Promedio de probabilidad YRFI:** 53.2%
-- **Partido con mayor probabilidad YRFI:** Milwaukee Brewers @ Chicago Cubs (56.3%)
-- **Partido con menor probabilidad YRFI:** Philadelphia Phillies @ Los Angeles Dodgers (50.1%)
+- **Promedio de probabilidad YRFI:** 48.8%
+- **Partido con mayor probabilidad YRFI:** Philadelphia Phillies @ Los Angeles Dodgers (50.1%)
+- **Partido con menor probabilidad YRFI:** Milwaukee Brewers @ Chicago Cubs (47.5%)
 
 ## 📝 Notas
 
@@ -75,4 +75,4 @@
 - El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.
 - La probabilidad del partido combina las estadísticas de ambos equipos.
 
-*Resumen generado el 2025-10-09 13:24:52*
+*Resumen generado el 2025-10-09 18:23:27*

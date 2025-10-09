@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Chicago Cubs
 
 **Fecha:** 2025-10-10  
-**Lanzadores:** Por anunciar (V) vs Por anunciar (L)
+**Lanzadores:** Freddy Peralta (V) vs Matthew Boyd (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.3%
+**Probabilidad de que anoten en la primera entrada:** 47.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
 - **Estadística base YRFI:** 29.6% (24/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 38.6%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Freddy Peralta):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 31.1%
 
 ### Milwaukee Brewers (Visitante)
 - **Estadística base YRFI:** 28.4% (23/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 33.3% (5/15 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-09 13:24:52
+- **Generado el:** 2025-10-09 18:23:27
 - **Fuente de datos:** season_data.json
