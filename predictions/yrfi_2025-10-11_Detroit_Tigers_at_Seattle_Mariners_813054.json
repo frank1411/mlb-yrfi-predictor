@@ -1,0 +1,67 @@
+{
+  "game_pk": 813054,
+  "game_date": "2025-10-11",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 8.333333333333332,
+      "yrfi_ratio": "1/12"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "18/81"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 17.93,
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 13.333333333333334,
+      "yrfi_ratio": "2/15"
+    },
+    "stats": {
+      "base": {
+        "value": 20.98765432098765,
+        "ratio": "17/81"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.22222222222222,
+        "tendency": 46.666666666666664,
+        "combined": 32.0,
+        "pitcher_impact": 13.333333333333334,
+        "adjusted": 26.4
+      },
+      "away_team": {
+        "base": 20.98765432098765,
+        "tendency": 13.333333333333334,
+        "combined": 17.93,
+        "pitcher_impact": 8.333333333333332,
+        "adjusted": 15.05
+      },
+      "game_yrfi_probability": 37.48
+    },
+    "yrfi_probability": 37.48
+  },
+  "metadata": {
+    "generated_at": "2025-10-10T13:22:03.846594",
+    "data_source": "season_data.json"
+  }
+}
