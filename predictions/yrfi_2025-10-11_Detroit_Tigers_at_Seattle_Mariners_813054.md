@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
+# Análisis YRFI: Detroit Tigers @ Seattle Mariners
 
-**Fecha:** 2025-10-09  
-**Lanzadores:** Cristopher Sánchez (V) vs Tyler Glasnow (L)
+**Fecha:** 2025-10-11  
+**Lanzadores:** Tarik Skubal (V) vs George Kirby (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.8%
+**Probabilidad de que anoten en la primera entrada:** 37.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 35.8% (29/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 17.6% (3/17 partidos)
-- **Puntuación ajustada:** 23.8%
-
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 27.2% (22/81 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 22.2% (18/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Tyler Glasnow):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 34.2%
+- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
+- **Puntuación ajustada:** 27.9%
+
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 21.0% (17/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 8.3% (1/12 partidos)
+- **Puntuación ajustada:** 13.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-09 18:27:16
+- **Generado el:** 2025-10-10 09:40:20
 - **Fuente de datos:** season_data.json
