@@ -4,46 +4,46 @@
 
 1. **Chicago Cubs** (Visitante ✈️)
    - **Oponente:** Milwaukee Brewers
-   - **Lanzador Rival:** Por anunciar
-   - **YRFI Ajustado:** 39.2%
+   - **Lanzador Rival:** Trevor Megill
+   - **YRFI Ajustado:** 24.2%
 
 2. **Milwaukee Brewers** (Local 🏠)
    - **Oponente:** Chicago Cubs
-   - **Lanzador Rival:** Por anunciar
-   - **YRFI Ajustado:** 24.1%
+   - **Lanzador Rival:** Drew Pomeranz
+   - **YRFI Ajustado:** 9.1%
 
 ## 🎯 Top 2 Partidos con Mayor Probabilidad YRFI
 
 1. **Chicago Cubs @ Milwaukee Brewers**
-   - **Lanzadores:** Por anunciar vs Por anunciar
-   - **Probabilidad YRFI:** 53.8%
-   - **Prob. Equipos:** 39.2% vs 24.1%
+   - **Lanzadores:** Drew Pomeranz vs Trevor Megill
+   - **Probabilidad YRFI:** 31.1%
+   - **Prob. Equipos:** 24.2% vs 9.1%
 
 ## 📉 Top 3 Equipos con Menor Probabilidad YRFI
 
 1. **Milwaukee Brewers** (Local 🏠)
    - **Oponente:** Chicago Cubs
-   - **Lanzador Rival:** Por anunciar
-   - **YRFI Ajustado:** 24.1%
+   - **Lanzador Rival:** Drew Pomeranz
+   - **YRFI Ajustado:** 9.1%
 
 2. **Chicago Cubs** (Visitante ✈️)
    - **Oponente:** Milwaukee Brewers
-   - **Lanzador Rival:** Por anunciar
-   - **YRFI Ajustado:** 39.2%
+   - **Lanzador Rival:** Trevor Megill
+   - **YRFI Ajustado:** 24.2%
 
 ## 🛑 Top 2 Partidos con Menor Probabilidad YRFI
 
 1. **Chicago Cubs @ Milwaukee Brewers**
-   - **Lanzadores:** Por anunciar vs Por anunciar
-   - **Probabilidad YRFI:** 53.8%
-   - **Prob. Equipos:** 39.2% vs 24.1%
+   - **Lanzadores:** Drew Pomeranz vs Trevor Megill
+   - **Probabilidad YRFI:** 31.1%
+   - **Prob. Equipos:** 24.2% vs 9.1%
 
 ## 📈 Estadísticas Adicionales
 
 - **Total de partidos analizados:** 1
-- **Promedio de probabilidad YRFI:** 53.8%
-- **Partido con mayor probabilidad YRFI:** Chicago Cubs @ Milwaukee Brewers (53.8%)
-- **Partido con menor probabilidad YRFI:** Chicago Cubs @ Milwaukee Brewers (53.8%)
+- **Promedio de probabilidad YRFI:** 31.1%
+- **Partido con mayor probabilidad YRFI:** Chicago Cubs @ Milwaukee Brewers (31.1%)
+- **Partido con menor probabilidad YRFI:** Chicago Cubs @ Milwaukee Brewers (31.1%)
 
 ## 📝 Notas
 
@@ -55,4 +55,4 @@
 - El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.
 - La probabilidad del partido combina las estadísticas de ambos equipos.
 
-*Resumen generado el 2025-10-11 13:15:33*
+*Resumen generado el 2025-10-11 20:13:05*
