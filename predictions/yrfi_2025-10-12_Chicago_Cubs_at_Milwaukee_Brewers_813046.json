@@ -5,8 +5,8 @@
     "id": "158",
     "name": "Milwaukee Brewers",
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
+      "name": "Trevor Megill",
+      "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
@@ -25,9 +25,9 @@
     "name": "Chicago Cubs",
     "combined_yrfi_pct": 35.89,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Drew Pomeranz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 17.28395061728395,
         "tendency": 6.666666666666667,
         "combined": 11.44,
-        "pitcher_impact": 50.0,
-        "adjusted": 24.94
+        "pitcher_impact": 0.0,
+        "adjusted": 7.44
       },
       "away_team": {
         "base": 30.864197530864196,
         "tendency": 40.0,
         "combined": 35.89,
-        "pitcher_impact": 50.0,
-        "adjusted": 40.83
+        "pitcher_impact": 0.0,
+        "adjusted": 23.33
       },
-      "game_yrfi_probability": 55.59
+      "game_yrfi_probability": 29.03
     },
-    "yrfi_probability": 55.59
+    "yrfi_probability": 29.03
   },
   "metadata": {
-    "generated_at": "2025-10-11T09:36:36.921792",
+    "generated_at": "2025-10-11T20:13:41.488435",
     "data_source": "season_data.json"
   }
 }

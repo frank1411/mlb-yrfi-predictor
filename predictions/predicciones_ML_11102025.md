@@ -8,23 +8,23 @@
 
 | Partido | Prob. YRFI | Recomendación |
 |---------|------------|---------------|
-| Milwaukee Brewers vs Chicago Cubs | 55.6% | ✅ APUESTA |
+| Milwaukee Brewers vs Chicago Cubs | 29.0% | ❌ NO APUESTA |
 
 ## ⚾ EQUIPOS CON MAYOR PROBABILIDAD DE ANOTAR EN 1RA ENTRADA
 
 | Equipo | Prob. Anotar | Condición |
 |--------|--------------|-----------|
-| Chicago Cubs | 40.8% | ✈️ Visitante 🟡 Media |
-| Milwaukee Brewers | 24.9% | 🏠 Local 🔴 Baja |
+| Chicago Cubs | 23.3% | ✈️ Visitante 🔴 Baja |
+| Milwaukee Brewers | 7.4% | 🏠 Local 🔴 Baja |
 
 ## 🔍 ANÁLISIS DETALLADO POR PARTIDO
 
 ### Milwaukee Brewers vs Chicago Cubs
-- **Probabilidad YRFI:** 55.6%
-- **Milwaukee Brewers (Local):** 24.9%
-- **Chicago Cubs (Visitante):** 40.8%
+- **Probabilidad YRFI:** 29.0%
+- **Milwaukee Brewers (Local):** 7.4%
+- **Chicago Cubs (Visitante):** 23.3%
 
-**Recomendación:** ✅ APUESTA ALTA
+**Recomendación:** ❌ NO RECOMENDADO
 
 ---
 *Nota: Las predicciones están basadas en datos históricos y modelos estadísticos.
