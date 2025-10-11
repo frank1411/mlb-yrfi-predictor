@@ -1,6 +1,123 @@
 {
-  "last_updated": "2025-10-10T09:40:19.474082",
+  "last_updated": "2025-10-11T09:36:35.466094",
   "teams": {
+    "108": {
+      "name": "Equipo 108",
+      "total_games": 162,
+      "total_yrfi": 54,
+      "home_games": 81,
+      "home_yrfi": 26,
+      "away_games": 81,
+      "away_yrfi": 28
+    },
+    "117": {
+      "name": "Equipo 117",
+      "total_games": 162,
+      "total_yrfi": 43,
+      "home_games": 81,
+      "home_yrfi": 20,
+      "away_games": 81,
+      "away_yrfi": 23
+    },
+    "111": {
+      "name": "Equipo 111",
+      "total_games": 162,
+      "total_yrfi": 51,
+      "home_games": 81,
+      "home_yrfi": 28,
+      "away_games": 81,
+      "away_yrfi": 23
+    },
+    "116": {
+      "name": "Equipo 116",
+      "total_games": 162,
+      "total_yrfi": 42,
+      "home_games": 81,
+      "home_yrfi": 25,
+      "away_games": 81,
+      "away_yrfi": 17
+    },
+    "145": {
+      "name": "Equipo 145",
+      "total_games": 161,
+      "total_yrfi": 51,
+      "home_games": 80,
+      "home_yrfi": 26,
+      "away_games": 81,
+      "away_yrfi": 25
+    },
+    "119": {
+      "name": "Equipo 119",
+      "total_games": 162,
+      "total_yrfi": 53,
+      "home_games": 81,
+      "home_yrfi": 29,
+      "away_games": 81,
+      "away_yrfi": 24
+    },
+    "110": {
+      "name": "Equipo 110",
+      "total_games": 162,
+      "total_yrfi": 42,
+      "home_games": 81,
+      "home_yrfi": 21,
+      "away_games": 81,
+      "away_yrfi": 21
+    },
+    "158": {
+      "name": "Equipo 158",
+      "total_games": 162,
+      "total_yrfi": 37,
+      "home_games": 81,
+      "home_yrfi": 14,
+      "away_games": 81,
+      "away_yrfi": 23
+    },
+    "133": {
+      "name": "Equipo 133",
+      "total_games": 162,
+      "total_yrfi": 51,
+      "home_games": 81,
+      "home_yrfi": 28,
+      "away_games": 81,
+      "away_yrfi": 23
+    },
+    "138": {
+      "name": "Equipo 138",
+      "total_games": 162,
+      "total_yrfi": 39,
+      "home_games": 81,
+      "home_yrfi": 18,
+      "away_games": 81,
+      "away_yrfi": 21
+    },
+    "114": {
+      "name": "Equipo 114",
+      "total_games": 162,
+      "total_yrfi": 47,
+      "home_games": 81,
+      "home_yrfi": 27,
+      "away_games": 81,
+      "away_yrfi": 20
+    },
+    "143": {
+      "name": "Equipo 143",
+      "total_games": 162,
+      "total_yrfi": 55,
+      "home_games": 81,
+      "home_yrfi": 33,
+      "away_games": 81,
+      "away_yrfi": 22
+    },
+    "121": {
+      "name": "Equipo 121",
+      "total_games": 162,
+      "total_yrfi": 52,
+      "home_games": 81,
+      "home_yrfi": 30,
+      "away_games": 81,
+      "away_yrfi": 22
+    },
     "109": {
       "name": "Equipo 109",
       "total_games": 162,
@@ -19,239 +136,14 @@
       "away_games": 81,
       "away_yrfi": 27
     },
-    "146": {
-      "name": "Equipo 146",
-      "total_games": 162,
-      "total_yrfi": 42,
-      "home_games": 81,
-      "home_yrfi": 23,
-      "away_games": 81,
-      "away_yrfi": 19
-    },
-    "110": {
-      "name": "Equipo 110",
-      "total_games": 162,
-      "total_yrfi": 42,
-      "home_games": 81,
-      "home_yrfi": 21,
-      "away_games": 81,
-      "away_yrfi": 21
-    },
-    "108": {
-      "name": "Equipo 108",
-      "total_games": 162,
-      "total_yrfi": 54,
-      "home_games": 81,
-      "home_yrfi": 26,
-      "away_games": 81,
-      "away_yrfi": 28
-    },
-    "143": {
-      "name": "Equipo 143",
-      "total_games": 162,
-      "total_yrfi": 55,
-      "home_games": 81,
-      "home_yrfi": 33,
-      "away_games": 81,
-      "away_yrfi": 22
-    },
-    "111": {
-      "name": "Equipo 111",
-      "total_games": 162,
-      "total_yrfi": 51,
-      "home_games": 81,
-      "home_yrfi": 28,
-      "away_games": 81,
-      "away_yrfi": 23
-    },
-    "133": {
-      "name": "Equipo 133",
-      "total_games": 162,
-      "total_yrfi": 51,
-      "home_games": 81,
-      "home_yrfi": 28,
-      "away_games": 81,
-      "away_yrfi": 23
-    },
-    "136": {
-      "name": "Equipo 136",
-      "total_games": 162,
-      "total_yrfi": 48,
-      "home_games": 81,
-      "home_yrfi": 18,
-      "away_games": 81,
-      "away_yrfi": 30
-    },
-    "145": {
-      "name": "Equipo 145",
-      "total_games": 161,
-      "total_yrfi": 51,
-      "home_games": 80,
-      "home_yrfi": 26,
-      "away_games": 81,
-      "away_yrfi": 25
-    },
-    "147": {
-      "name": "Equipo 147",
-      "total_games": 162,
-      "total_yrfi": 65,
-      "home_games": 81,
-      "home_yrfi": 30,
-      "away_games": 81,
-      "away_yrfi": 35
-    },
-    "139": {
-      "name": "Equipo 139",
-      "total_games": 162,
-      "total_yrfi": 50,
-      "home_games": 81,
-      "home_yrfi": 29,
-      "away_games": 81,
-      "away_yrfi": 21
-    },
-    "116": {
-      "name": "Equipo 116",
-      "total_games": 162,
-      "total_yrfi": 42,
-      "home_games": 81,
-      "home_yrfi": 25,
-      "away_games": 81,
-      "away_yrfi": 17
-    },
-    "121": {
-      "name": "Equipo 121",
+    "118": {
+      "name": "Equipo 118",
       "total_games": 162,
       "total_yrfi": 52,
       "home_games": 81,
-      "home_yrfi": 30,
-      "away_games": 81,
-      "away_yrfi": 22
-    },
-    "141": {
-      "name": "Equipo 141",
-      "total_games": 161,
-      "total_yrfi": 45,
-      "home_games": 81,
-      "home_yrfi": 24,
-      "away_games": 80,
-      "away_yrfi": 21
-    },
-    "134": {
-      "name": "Equipo 134",
-      "total_games": 162,
-      "total_yrfi": 47,
-      "home_games": 81,
       "home_yrfi": 26,
       "away_games": 81,
-      "away_yrfi": 21
-    },
-    "115": {
-      "name": "Equipo 115",
-      "total_games": 162,
-      "total_yrfi": 34,
-      "home_games": 81,
-      "home_yrfi": 23,
-      "away_games": 81,
-      "away_yrfi": 11
-    },
-    "114": {
-      "name": "Equipo 114",
-      "total_games": 162,
-      "total_yrfi": 47,
-      "home_games": 81,
-      "home_yrfi": 27,
-      "away_games": 81,
-      "away_yrfi": 20
-    },
-    "117": {
-      "name": "Equipo 117",
-      "total_games": 162,
-      "total_yrfi": 43,
-      "home_games": 81,
-      "home_yrfi": 20,
-      "away_games": 81,
-      "away_yrfi": 23
-    },
-    "119": {
-      "name": "Equipo 119",
-      "total_games": 162,
-      "total_yrfi": 53,
-      "home_games": 81,
-      "home_yrfi": 29,
-      "away_games": 81,
-      "away_yrfi": 24
-    },
-    "140": {
-      "name": "Equipo 140",
-      "total_games": 162,
-      "total_yrfi": 43,
-      "home_games": 81,
-      "home_yrfi": 18,
-      "away_games": 81,
-      "away_yrfi": 25
-    },
-    "112": {
-      "name": "Equipo 112",
-      "total_games": 162,
-      "total_yrfi": 49,
-      "home_games": 81,
-      "home_yrfi": 24,
-      "away_games": 81,
-      "away_yrfi": 25
-    },
-    "158": {
-      "name": "Equipo 158",
-      "total_games": 162,
-      "total_yrfi": 37,
-      "home_games": 81,
-      "home_yrfi": 14,
-      "away_games": 81,
-      "away_yrfi": 23
-    },
-    "113": {
-      "name": "Equipo 113",
-      "total_games": 162,
-      "total_yrfi": 48,
-      "home_games": 81,
-      "home_yrfi": 31,
-      "away_games": 81,
-      "away_yrfi": 17
-    },
-    "144": {
-      "name": "Equipo 144",
-      "total_games": 162,
-      "total_yrfi": 48,
-      "home_games": 81,
-      "home_yrfi": 26,
-      "away_games": 81,
-      "away_yrfi": 22
-    },
-    "142": {
-      "name": "Equipo 142",
-      "total_games": 162,
-      "total_yrfi": 44,
-      "home_games": 81,
-      "home_yrfi": 20,
-      "away_games": 81,
-      "away_yrfi": 24
-    },
-    "120": {
-      "name": "Equipo 120",
-      "total_games": 162,
-      "total_yrfi": 44,
-      "home_games": 81,
-      "home_yrfi": 22,
-      "away_games": 81,
-      "away_yrfi": 22
-    },
-    "138": {
-      "name": "Equipo 138",
-      "total_games": 162,
-      "total_yrfi": 39,
-      "home_games": 81,
-      "home_yrfi": 18,
-      "away_games": 81,
-      "away_yrfi": 21
+      "away_yrfi": 26
     },
     "135": {
       "name": "Equipo 135",
@@ -262,14 +154,122 @@
       "away_games": 81,
       "away_yrfi": 21
     },
-    "118": {
-      "name": "Equipo 118",
+    "141": {
+      "name": "Equipo 141",
+      "total_games": 161,
+      "total_yrfi": 45,
+      "home_games": 81,
+      "home_yrfi": 24,
+      "away_games": 80,
+      "away_yrfi": 21
+    },
+    "139": {
+      "name": "Equipo 139",
       "total_games": 162,
-      "total_yrfi": 52,
+      "total_yrfi": 50,
+      "home_games": 81,
+      "home_yrfi": 29,
+      "away_games": 81,
+      "away_yrfi": 21
+    },
+    "142": {
+      "name": "Equipo 142",
+      "total_games": 162,
+      "total_yrfi": 44,
+      "home_games": 81,
+      "home_yrfi": 20,
+      "away_games": 81,
+      "away_yrfi": 24
+    },
+    "136": {
+      "name": "Equipo 136",
+      "total_games": 162,
+      "total_yrfi": 48,
+      "home_games": 81,
+      "home_yrfi": 18,
+      "away_games": 81,
+      "away_yrfi": 30
+    },
+    "120": {
+      "name": "Equipo 120",
+      "total_games": 162,
+      "total_yrfi": 44,
+      "home_games": 81,
+      "home_yrfi": 22,
+      "away_games": 81,
+      "away_yrfi": 22
+    },
+    "140": {
+      "name": "Equipo 140",
+      "total_games": 162,
+      "total_yrfi": 43,
+      "home_games": 81,
+      "home_yrfi": 18,
+      "away_games": 81,
+      "away_yrfi": 25
+    },
+    "115": {
+      "name": "Equipo 115",
+      "total_games": 162,
+      "total_yrfi": 34,
+      "home_games": 81,
+      "home_yrfi": 23,
+      "away_games": 81,
+      "away_yrfi": 11
+    },
+    "144": {
+      "name": "Equipo 144",
+      "total_games": 162,
+      "total_yrfi": 48,
       "home_games": 81,
       "home_yrfi": 26,
       "away_games": 81,
-      "away_yrfi": 26
+      "away_yrfi": 22
+    },
+    "134": {
+      "name": "Equipo 134",
+      "total_games": 162,
+      "total_yrfi": 47,
+      "home_games": 81,
+      "home_yrfi": 26,
+      "away_games": 81,
+      "away_yrfi": 21
+    },
+    "113": {
+      "name": "Equipo 113",
+      "total_games": 162,
+      "total_yrfi": 48,
+      "home_games": 81,
+      "home_yrfi": 31,
+      "away_games": 81,
+      "away_yrfi": 17
+    },
+    "146": {
+      "name": "Equipo 146",
+      "total_games": 162,
+      "total_yrfi": 42,
+      "home_games": 81,
+      "home_yrfi": 23,
+      "away_games": 81,
+      "away_yrfi": 19
+    },
+    "147": {
+      "name": "Equipo 147",
+      "total_games": 162,
+      "total_yrfi": 65,
+      "home_games": 81,
+      "home_yrfi": 30,
+      "away_games": 81,
+      "away_yrfi": 35
+    },
+    "112": {
+      "name": "Equipo 112",
+      "total_games": 162,
+      "total_yrfi": 49,
+      "home_games": 81,
+      "home_yrfi": 24,
+      "away_games": 81,
+      "away_yrfi": 25
     }
   },
   "pitchers": {},

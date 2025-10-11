@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Seattle Mariners
+# Análisis YRFI: Chicago Cubs @ Milwaukee Brewers
 
-**Fecha:** 2025-10-11  
-**Lanzadores:** Tarik Skubal (V) vs George Kirby (L)
+**Fecha:** 2025-10-12  
+**Lanzadores:** Por anunciar (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.8%
+**Probabilidad de que anoten en la primera entrada:** 55.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 22.2% (18/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 13.3% (2/15 partidos)
-- **Puntuación ajustada:** 27.9%
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 17.3% (14/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.9%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 21.0% (17/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 8.3% (1/12 partidos)
-- **Puntuación ajustada:** 13.8%
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 30.9% (25/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 40.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-10 09:40:20
+- **Generado el:** 2025-10-11 09:36:36
 - **Fuente de datos:** season_data.json
