@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Milwaukee Brewers
+# Análisis YRFI: Seattle Mariners @ Toronto Blue Jays
 
-**Fecha:** 2025-10-12  
-**Lanzadores:** Drew Pomeranz (V) vs Trevor Megill (L)
+**Fecha:** 2025-10-13  
+**Lanzadores:** Bryce Miller (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 29.0%
+**Probabilidad de que anoten en la primera entrada:** 60.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 17.3% (14/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Drew Pomeranz):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 7.4%
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 29.6% (24/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 44.4% (4/9 partidos)
+- **Puntuación ajustada:** 33.8%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 30.9% (25/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Trevor Megill):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.3%
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 37.0% (30/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 37.5% (6/16 partidos)
+- **Puntuación ajustada:** 40.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-11 20:13:41
+- **Generado el:** 2025-10-12 09:36:34
 - **Fuente de datos:** season_data.json

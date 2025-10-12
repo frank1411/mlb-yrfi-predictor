@@ -1,6 +1,6 @@
 # 🚀 PREDICCIONES YRFI - MLB
 
-## 📅 Fecha: 11/10/2025
+## 📅 Fecha: 12/10/2025
 
 ## 📊 RESUMEN DE PREDICCIONES
 
@@ -8,23 +8,23 @@
 
 | Partido | Prob. YRFI | Recomendación |
 |---------|------------|---------------|
-| Milwaukee Brewers vs Chicago Cubs | 29.0% | ❌ NO APUESTA |
+| Toronto Blue Jays vs Seattle Mariners | 60.7% | ✅ APUESTA |
 
 ## ⚾ EQUIPOS CON MAYOR PROBABILIDAD DE ANOTAR EN 1RA ENTRADA
 
 | Equipo | Prob. Anotar | Condición |
 |--------|--------------|-----------|
-| Chicago Cubs | 23.3% | ✈️ Visitante 🔴 Baja |
-| Milwaukee Brewers | 7.4% | 🏠 Local 🔴 Baja |
+| Seattle Mariners | 40.6% | ✈️ Visitante 🟡 Media |
+| Toronto Blue Jays | 33.8% | 🏠 Local 🔴 Baja |
 
 ## 🔍 ANÁLISIS DETALLADO POR PARTIDO
 
-### Milwaukee Brewers vs Chicago Cubs
-- **Probabilidad YRFI:** 29.0%
-- **Milwaukee Brewers (Local):** 7.4%
-- **Chicago Cubs (Visitante):** 23.3%
+### Toronto Blue Jays vs Seattle Mariners
+- **Probabilidad YRFI:** 60.7%
+- **Toronto Blue Jays (Local):** 33.8%
+- **Seattle Mariners (Visitante):** 40.6%
 
-**Recomendación:** ❌ NO RECOMENDADO
+**Recomendación:** ✅ APUESTA ALTA
 
 ---
 *Nota: Las predicciones están basadas en datos históricos y modelos estadísticos.

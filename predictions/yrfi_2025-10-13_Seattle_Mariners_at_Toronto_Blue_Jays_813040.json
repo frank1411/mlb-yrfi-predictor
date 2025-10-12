@@ -1,0 +1,67 @@
+{
+  "game_pk": 813040,
+  "game_date": "2025-10-13",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "6/16"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "24/81"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 42.33,
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 44.44444444444444,
+      "yrfi_ratio": "4/9"
+    },
+    "stats": {
+      "base": {
+        "value": 37.03703703703704,
+        "ratio": "30/81"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.629629629629626,
+        "tendency": 26.666666666666668,
+        "combined": 28.0,
+        "pitcher_impact": 44.44444444444444,
+        "adjusted": 33.76
+      },
+      "away_team": {
+        "base": 37.03703703703704,
+        "tendency": 46.666666666666664,
+        "combined": 42.33,
+        "pitcher_impact": 37.5,
+        "adjusted": 40.64
+      },
+      "game_yrfi_probability": 60.68
+    },
+    "yrfi_probability": 60.68
+  },
+  "metadata": {
+    "generated_at": "2025-10-12T09:36:34.201079",
+    "data_source": "season_data.json"
+  }
+}
