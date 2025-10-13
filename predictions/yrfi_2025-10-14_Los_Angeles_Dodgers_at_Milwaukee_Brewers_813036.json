@@ -5,9 +5,9 @@
     "id": "158",
     "name": "Milwaukee Brewers",
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Aaron Ashby",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
@@ -53,15 +53,15 @@
         "base": 29.629629629629626,
         "tendency": 20.0,
         "combined": 24.33,
-        "pitcher_impact": 50.0,
-        "adjusted": 33.32
+        "pitcher_impact": 0.0,
+        "adjusted": 15.82
       },
-      "game_yrfi_probability": 49.95
+      "game_yrfi_probability": 36.81
     },
-    "yrfi_probability": 49.95
+    "yrfi_probability": 36.81
   },
   "metadata": {
-    "generated_at": "2025-10-13T09:42:58.831005",
+    "generated_at": "2025-10-13T21:10:02.100176",
     "data_source": "season_data.json"
   }
 }
