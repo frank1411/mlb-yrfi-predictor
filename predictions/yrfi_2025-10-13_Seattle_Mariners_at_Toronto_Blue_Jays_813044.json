@@ -1,13 +1,13 @@
 {
-  "game_pk": 813040,
+  "game_pk": 813044,
   "game_date": "2025-10-13",
   "home_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Kevin Gausman",
-      "yrfi_allowed": 37.5,
-      "yrfi_ratio": "6/16"
+      "name": "Trey Yesavage",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Seattle Mariners",
     "combined_yrfi_pct": 40.89,
     "pitcher": {
-      "name": "Bryce Miller",
-      "yrfi_allowed": 44.44444444444444,
-      "yrfi_ratio": "4/9"
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 41.66666666666667,
+      "yrfi_ratio": "5/12"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 29.629629629629626,
         "tendency": 26.666666666666668,
         "combined": 28.44,
-        "pitcher_impact": 44.44444444444444,
-        "adjusted": 33.24
+        "pitcher_impact": 41.66666666666667,
+        "adjusted": 32.41
       },
       "away_team": {
         "base": 37.03703703703704,
         "tendency": 46.666666666666664,
         "combined": 40.89,
-        "pitcher_impact": 37.5,
-        "adjusted": 39.87
+        "pitcher_impact": 0.0,
+        "adjusted": 28.62
       },
-      "game_yrfi_probability": 59.86
+      "game_yrfi_probability": 51.75
     },
-    "yrfi_probability": 59.86
+    "yrfi_probability": 51.75
   },
   "metadata": {
-    "generated_at": "2025-10-12T13:16:31.363251",
+    "generated_at": "2025-10-13T13:24:35.551910",
     "data_source": "season_data.json"
   }
 }
