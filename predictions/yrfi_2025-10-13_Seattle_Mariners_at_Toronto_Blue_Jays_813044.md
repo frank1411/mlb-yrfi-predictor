@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-13 13:24:35
+- **Generado el:** 2025-10-13 21:09:43
 - **Fuente de datos:** season_data.json
