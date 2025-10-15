@@ -1,6 +1,6 @@
 # 🚀 PREDICCIONES YRFI - MLB
 
-## 📅 Fecha: 14/10/2025
+## 📅 Fecha: 15/10/2025
 
 ## 📊 RESUMEN DE PREDICCIONES
 
@@ -8,21 +8,21 @@
 
 | Partido | Prob. YRFI | Recomendación |
 |---------|------------|---------------|
-| Milwaukee Brewers vs Los Angeles Dodgers | 32.0% | ❌ NO APUESTA |
+| Seattle Mariners vs Toronto Blue Jays | 38.6% | ❌ NO APUESTA |
 
 ## ⚾ EQUIPOS CON MAYOR PROBABILIDAD DE ANOTAR EN 1RA ENTRADA
 
 | Equipo | Prob. Anotar | Condición |
 |--------|--------------|-----------|
-| Los Angeles Dodgers | 17.9% | ✈️ Visitante 🔴 Baja |
-| Milwaukee Brewers | 17.2% | 🏠 Local 🔴 Baja |
+| Seattle Mariners | 23.2% | 🏠 Local 🔴 Baja |
+| Toronto Blue Jays | 20.1% | ✈️ Visitante 🔴 Baja |
 
 ## 🔍 ANÁLISIS DETALLADO POR PARTIDO
 
-### Milwaukee Brewers vs Los Angeles Dodgers
-- **Probabilidad YRFI:** 32.0%
-- **Milwaukee Brewers (Local):** 17.2%
-- **Los Angeles Dodgers (Visitante):** 17.9%
+### Seattle Mariners vs Toronto Blue Jays
+- **Probabilidad YRFI:** 38.6%
+- **Seattle Mariners (Local):** 23.2%
+- **Toronto Blue Jays (Visitante):** 20.1%
 
 **Recomendación:** ❌ NO RECOMENDADO
 

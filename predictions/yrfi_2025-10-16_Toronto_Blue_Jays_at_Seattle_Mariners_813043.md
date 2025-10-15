@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Milwaukee Brewers
+# Análisis YRFI: Toronto Blue Jays @ Seattle Mariners
 
-**Fecha:** 2025-10-15  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Freddy Peralta (L)
+**Fecha:** 2025-10-16  
+**Lanzadores:** Shane Bieber (V) vs George Kirby (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.0%
+**Probabilidad de que anoten en la primera entrada:** 38.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 17.3% (14/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 27.8% (5/18 partidos)
-- **Puntuación ajustada:** 17.2%
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 22.2% (18/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.2%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 29.6% (24/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Freddy Peralta):** 5.9% (1/17 partidos)
-- **Puntuación ajustada:** 17.9%
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 8.3% (1/12 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-14 09:41:24
+- **Generado el:** 2025-10-15 09:41:26
 - **Fuente de datos:** season_data.json
