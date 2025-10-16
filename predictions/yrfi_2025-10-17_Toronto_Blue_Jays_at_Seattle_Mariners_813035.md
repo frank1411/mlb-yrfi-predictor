@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Seattle Mariners
 
-**Fecha:** 2025-10-16  
-**Lanzadores:** Shane Bieber (V) vs George Kirby (L)
+**Fecha:** 2025-10-17  
+**Lanzadores:** Max Scherzer (V) vs Luis Castillo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.7%
+**Probabilidad de que anoten en la primera entrada:** 50.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
 - **Estadística base YRFI:** 22.2% (18/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.4%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 42.9% (3/7 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### Toronto Blue Jays (Visitante)
 - **Estadística base YRFI:** 26.2% (21/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 8.3% (1/12 partidos)
-- **Puntuación ajustada:** 21.0%
+- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 17.6% (3/17 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-15 13:26:35
+- **Generado el:** 2025-10-16 13:25:29
 - **Fuente de datos:** season_data.json
