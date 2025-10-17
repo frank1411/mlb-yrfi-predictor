@@ -1,13 +1,13 @@
 {
-  "game_pk": 813035,
+  "game_pk": 813039,
   "game_date": "2025-10-17",
   "home_team": {
     "id": "136",
     "name": "Seattle Mariners",
     "pitcher": {
-      "name": "Luis Castillo",
-      "yrfi_allowed": 17.647058823529413,
-      "yrfi_ratio": "3/17"
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/9"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Toronto Blue Jays",
     "combined_yrfi_pct": 26.42,
     "pitcher": {
-      "name": "Max Scherzer",
-      "yrfi_allowed": 42.857142857142854,
-      "yrfi_ratio": "3/7"
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "4/16"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 22.22222222222222,
         "tendency": 46.666666666666664,
         "combined": 32.0,
-        "pitcher_impact": 42.857142857142854,
-        "adjusted": 35.26
+        "pitcher_impact": 25.0,
+        "adjusted": 29.9
       },
       "away_team": {
         "base": 26.25,
         "tendency": 26.666666666666668,
         "combined": 26.42,
-        "pitcher_impact": 17.647058823529413,
-        "adjusted": 23.79
+        "pitcher_impact": 0.0,
+        "adjusted": 18.49
       },
-      "game_yrfi_probability": 50.66
+      "game_yrfi_probability": 42.86
     },
-    "yrfi_probability": 50.66
+    "yrfi_probability": 42.86
   },
   "metadata": {
-    "generated_at": "2025-10-16T19:30:02.412321",
+    "generated_at": "2025-10-17T13:22:08.644211",
     "data_source": "season_data.json"
   }
 }
