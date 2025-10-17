@@ -25,9 +25,9 @@
     "name": "Milwaukee Brewers",
     "combined_yrfi_pct": 19.7,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Jose Quintana",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "3/12"
     },
     "stats": {
       "base": {
@@ -46,8 +46,8 @@
         "base": 35.80246913580247,
         "tendency": 20.0,
         "combined": 29.48,
-        "pitcher_impact": 50.0,
-        "adjusted": 35.64
+        "pitcher_impact": 25.0,
+        "adjusted": 28.14
       },
       "away_team": {
         "base": 28.39506172839506,
@@ -56,12 +56,12 @@
         "pitcher_impact": 28.57142857142857,
         "adjusted": 22.36
       },
-      "game_yrfi_probability": 50.03
+      "game_yrfi_probability": 44.21
     },
-    "yrfi_probability": 50.03
+    "yrfi_probability": 44.21
   },
   "metadata": {
-    "generated_at": "2025-10-17T13:22:08.654184",
+    "generated_at": "2025-10-17T18:44:27.369978",
     "data_source": "season_data.json"
   }
 }

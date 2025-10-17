@@ -1,19 +1,19 @@
 # Análisis YRFI: Milwaukee Brewers @ Los Angeles Dodgers
 
 **Fecha:** 2025-10-18  
-**Lanzadores:** Por anunciar (V) vs Shohei Ohtani (L)
+**Lanzadores:** Jose Quintana (V) vs Shohei Ohtani (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.0%
+**Probabilidad de que anoten en la primera entrada:** 44.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
 - **Estadística base YRFI:** 35.8% (29/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Jose Quintana):** 25.0% (3/12 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### Milwaukee Brewers (Visitante)
 - **Estadística base YRFI:** 28.4% (23/81 partidos)
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-17 13:22:08
+- **Generado el:** 2025-10-17 18:44:27
 - **Fuente de datos:** season_data.json
