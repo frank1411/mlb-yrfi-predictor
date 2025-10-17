@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Seattle Mariners
+# Análisis YRFI: Milwaukee Brewers @ Los Angeles Dodgers
 
-**Fecha:** 2025-10-17  
-**Lanzadores:** Max Scherzer (V) vs Luis Castillo (L)
+**Fecha:** 2025-10-18  
+**Lanzadores:** Por anunciar (V) vs Shohei Ohtani (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.6%
+**Probabilidad de que anoten en la primera entrada:** 48.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 22.2% (18/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 42.9% (3/7 partidos)
-- **Puntuación ajustada:** 38.2%
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.8% (29/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 35.1%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 26.2% (21/80 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 17.6% (3/17 partidos)
-- **Puntuación ajustada:** 23.4%
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 28.4% (23/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Shohei Ohtani):** 28.6% (2/7 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-16 19:30:39
+- **Generado el:** 2025-10-17 09:40:29
 - **Fuente de datos:** season_data.json

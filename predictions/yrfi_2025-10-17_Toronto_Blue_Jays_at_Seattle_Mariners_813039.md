@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Los Angeles Dodgers
+# Análisis YRFI: Toronto Blue Jays @ Seattle Mariners
 
-**Fecha:** 2025-10-16  
-**Lanzadores:** Aaron Ashby (V) vs Tyler Glasnow (L)
+**Fecha:** 2025-10-17  
+**Lanzadores:** Kevin Gausman (V) vs Bryce Miller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.3%
+**Probabilidad de que anoten en la primera entrada:** 43.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 35.8% (29/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Aaron Ashby):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.6%
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 22.2% (18/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 25.0% (4/16 partidos)
+- **Puntuación ajustada:** 31.9%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 28.4% (23/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Tyler Glasnow):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 20.2%
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Bryce Miller):** 0.0% (0/9 partidos)
+- **Puntuación ajustada:** 17.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-16 19:30:39
+- **Generado el:** 2025-10-17 09:40:29
 - **Fuente de datos:** season_data.json
