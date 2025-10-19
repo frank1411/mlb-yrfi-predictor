@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Seattle Mariners
+# Análisis YRFI: Seattle Mariners @ Toronto Blue Jays
 
-**Fecha:** 2025-10-17  
-**Lanzadores:** Kevin Gausman (V) vs Bryce Miller (L)
+**Fecha:** 2025-10-20  
+**Lanzadores:** Logan Gilbert (V) vs Trey Yesavage (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.6%
+**Probabilidad de que anoten en la primera entrada:** 51.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 22.2% (18/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 25.0% (4/16 partidos)
-- **Puntuación ajustada:** 31.9%
-
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 26.2% (21/80 partidos)
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 29.6% (24/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryce Miller):** 0.0% (0/9 partidos)
-- **Puntuación ajustada:** 17.2%
+- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 41.7% (5/12 partidos)
+- **Puntuación ajustada:** 32.8%
+
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 37.0% (30/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 27.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-17 18:44:27
+- **Generado el:** 2025-10-19 09:36:21
 - **Fuente de datos:** season_data.json
