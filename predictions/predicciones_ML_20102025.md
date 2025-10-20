@@ -1,6 +1,6 @@
 # 🚀 PREDICCIONES YRFI - MLB
 
-## 📅 Fecha: 19/10/2025
+## 📅 Fecha: 20/10/2025
 
 ## 📊 RESUMEN DE PREDICCIONES
 
@@ -8,23 +8,23 @@
 
 | Partido | Prob. YRFI | Recomendación |
 |---------|------------|---------------|
-| Toronto Blue Jays vs Seattle Mariners | 51.3% | 🟡 CERCANO |
+| Toronto Blue Jays vs Seattle Mariners | 54.0% | ✅ APUESTA |
 
 ## ⚾ EQUIPOS CON MAYOR PROBABILIDAD DE ANOTAR EN 1RA ENTRADA
 
 | Equipo | Prob. Anotar | Condición |
 |--------|--------------|-----------|
-| Toronto Blue Jays | 32.8% | 🏠 Local 🔴 Baja |
-| Seattle Mariners | 27.5% | ✈️ Visitante 🔴 Baja |
+| Seattle Mariners | 36.3% | ✈️ Visitante 🔴 Baja |
+| Toronto Blue Jays | 27.8% | 🏠 Local 🔴 Baja |
 
 ## 🔍 ANÁLISIS DETALLADO POR PARTIDO
 
 ### Toronto Blue Jays vs Seattle Mariners
-- **Probabilidad YRFI:** 51.3%
-- **Toronto Blue Jays (Local):** 32.8%
-- **Seattle Mariners (Visitante):** 27.5%
+- **Probabilidad YRFI:** 54.0%
+- **Toronto Blue Jays (Local):** 27.8%
+- **Seattle Mariners (Visitante):** 36.3%
 
-**Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
+**Recomendación:** ✅ APUESTA ALTA
 
 ---
 *Nota: Las predicciones están basadas en datos históricos y modelos estadísticos.
