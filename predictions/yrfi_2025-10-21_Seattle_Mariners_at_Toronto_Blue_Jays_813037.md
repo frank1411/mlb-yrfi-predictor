@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Toronto Blue Jays
 
-**Fecha:** 2025-10-20  
-**Lanzadores:** Logan Gilbert (V) vs Trey Yesavage (L)
+**Fecha:** 2025-10-21  
+**Lanzadores:** George Kirby (V) vs Shane Bieber (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.8%
+**Probabilidad de que anoten en la primera entrada:** 54.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
 - **Estadística base YRFI:** 29.6% (24/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 41.7% (5/12 partidos)
-- **Puntuación ajustada:** 32.4%
+- **Impacto del lanzador visitante (Seattle Mariners - George Kirby):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### Seattle Mariners (Visitante)
 - **Estadística base YRFI:** 37.0% (30/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Impacto del lanzador local (Toronto Blue Jays - Shane Bieber):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 36.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-19 13:16:52
+- **Generado el:** 2025-10-20 13:23:43
 - **Fuente de datos:** season_data.json
