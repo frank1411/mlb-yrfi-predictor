@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Toronto Blue Jays
+# Análisis YRFI: Los Angeles Dodgers @ Toronto Blue Jays
 
-**Fecha:** 2025-10-21  
-**Lanzadores:** George Kirby (V) vs Shane Bieber (L)
+**Fecha:** 2025-10-25  
+**Lanzadores:** Blake Snell (V) vs Trey Yesavage (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.0%
+**Probabilidad de que anoten en la primera entrada:** 45.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
 - **Estadística base YRFI:** 29.6% (24/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - George Kirby):** 27.3% (3/11 partidos)
-- **Puntuación ajustada:** 27.8%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Blake Snell):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 35.7%
 
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 37.0% (30/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Shane Bieber):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 36.3%
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 29.6% (24/81 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 15.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-20 09:42:07
+- **Generado el:** 2025-10-24 09:40:31
 - **Fuente de datos:** season_data.json
