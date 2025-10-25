@@ -1,13 +1,13 @@
 {
-  "game_pk": 813027,
-  "game_date": "2025-10-25",
+  "game_pk": 813026,
+  "game_date": "2025-10-26",
   "home_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Trey Yesavage",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 37.5,
+      "yrfi_ratio": "6/16"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Los Angeles Dodgers",
     "combined_yrfi_pct": 25.78,
     "pitcher": {
-      "name": "Blake Snell",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "2/4"
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 27.77777777777778,
+      "yrfi_ratio": "5/18"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 29.629629629629626,
         "tendency": 26.666666666666668,
         "combined": 28.44,
-        "pitcher_impact": 50.0,
-        "adjusted": 34.91
+        "pitcher_impact": 27.77777777777778,
+        "adjusted": 28.24
       },
       "away_team": {
         "base": 29.629629629629626,
         "tendency": 20.0,
         "combined": 25.78,
-        "pitcher_impact": 0.0,
-        "adjusted": 18.04
+        "pitcher_impact": 37.5,
+        "adjusted": 29.29
       },
-      "game_yrfi_probability": 46.65
+      "game_yrfi_probability": 49.26
     },
-    "yrfi_probability": 46.65
+    "yrfi_probability": 49.26
   },
   "metadata": {
-    "generated_at": "2025-10-24T13:25:25.912248",
+    "generated_at": "2025-10-25T13:16:59.250880",
     "data_source": "season_data.json"
   }
 }
