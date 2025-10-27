@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Toronto Blue Jays
+# Análisis YRFI: Toronto Blue Jays @ Los Angeles Dodgers
 
-**Fecha:** 2025-10-26  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Kevin Gausman (L)
+**Fecha:** 2025-10-28  
+**Lanzadores:** Max Scherzer (V) vs Tyler Glasnow (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.8%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.6% (24/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 27.8% (5/18 partidos)
-- **Puntuación ajustada:** 27.9%
-
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 29.6% (24/81 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.8% (29/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 37.5% (6/16 partidos)
-- **Puntuación ajustada:** 28.9%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 42.9% (3/7 partidos)
+- **Puntuación ajustada:** 32.6%
+
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Tyler Glasnow):** 27.3% (3/11 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -37,5 +37,5 @@ La probabilidad final de que anoten en la primera entrada se calcula en tres pas
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2025-10-25 09:37:13
+- **Generado el:** 2025-10-27 09:44:15
 - **Fuente de datos:** season_data.json
