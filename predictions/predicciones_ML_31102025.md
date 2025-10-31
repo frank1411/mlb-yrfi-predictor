@@ -1,6 +1,6 @@
 # 🚀 PREDICCIONES YRFI - MLB
 
-## 📅 Fecha: 29/10/2025
+## 📅 Fecha: 31/10/2025
 
 ## 📊 RESUMEN DE PREDICCIONES
 
@@ -8,21 +8,21 @@
 
 | Partido | Prob. YRFI | Recomendación |
 |---------|------------|---------------|
-| Los Angeles Dodgers vs Toronto Blue Jays | 49.5% | 🟡 CERCANO |
+| Toronto Blue Jays vs Los Angeles Dodgers | 48.8% | 🟡 CERCANO |
 
 ## ⚾ EQUIPOS CON MAYOR PROBABILIDAD DE ANOTAR EN 1RA ENTRADA
 
 | Equipo | Prob. Anotar | Condición |
 |--------|--------------|-----------|
-| Los Angeles Dodgers | 35.1% | 🏠 Local 🔴 Baja |
-| Toronto Blue Jays | 22.2% | ✈️ Visitante 🔴 Baja |
+| Los Angeles Dodgers | 28.9% | ✈️ Visitante 🔴 Baja |
+| Toronto Blue Jays | 27.9% | 🏠 Local 🔴 Baja |
 
 ## 🔍 ANÁLISIS DETALLADO POR PARTIDO
 
-### Los Angeles Dodgers vs Toronto Blue Jays
-- **Probabilidad YRFI:** 49.5%
-- **Los Angeles Dodgers (Local):** 35.1%
-- **Toronto Blue Jays (Visitante):** 22.2%
+### Toronto Blue Jays vs Los Angeles Dodgers
+- **Probabilidad YRFI:** 48.8%
+- **Toronto Blue Jays (Local):** 27.9%
+- **Los Angeles Dodgers (Visitante):** 28.9%
 
 **Recomendación:** 🟡 APUESTA CON PRECAUCIÓN
 
