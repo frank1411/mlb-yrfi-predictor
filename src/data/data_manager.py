@@ -303,7 +303,10 @@ def get_game_id(game: Dict) -> str:
             return str(hash(frozenset(game.items())))
 
 def merge_games(existing_games: List[Dict], new_games: List[Dict]) -> List[Dict]:
-    """Combina listas de juegos, eliminando duplicados."""
+    """
+    Combina listas de juegos, eliminando duplicados y preservando información manual.
+    Si un juego ya existe, combina sus datos prefiriendo la información más completa.
+    """
     # Usar un diccionario para evitar duplicados por ID de juego
     games_dict = {}
     
@@ -317,10 +320,30 @@ def merge_games(existing_games: List[Dict], new_games: List[Dict]) -> List[Dict]
             continue
     
     # Luego añadir/actualizar con los nuevos juegos
-    for game in new_games:
+    for new_game in new_games:
         try:
-            game_id = get_game_id(game)
-            games_dict[game_id] = game
+            game_id = get_game_id(new_game)
+            
+            if game_id in games_dict:
+                # Inteligencia de mezcla: preservar datos manuales
+                existing_game = games_dict[game_id]
+                
+                # Campos a preservar si existen en el local pero no en el nuevo
+                # o si el nuevo tiene datos "vacíos" o "genéricos"
+                
+                # 1. Preservar lanzadores
+                if 'pitchers' in existing_game and existing_game['pitchers']:
+                    # Si el nuevo no tiene lanzadores o están vacíos, mantener los existentes
+                    if 'pitchers' not in new_game or not new_game['pitchers']:
+                        new_game['pitchers'] = existing_game['pitchers']
+                
+                # 2. Preservar lanzadores individuales (formato optimizado)
+                for p_key in ['home_pitcher', 'away_pitcher']:
+                    if p_key in existing_game and existing_game[p_key]:
+                        if p_key not in new_game or not new_game[p_key]:
+                            new_game[p_key] = existing_game[p_key]
+                
+            games_dict[game_id] = new_game
         except Exception as e:
             print(f"Error al procesar nuevo juego: {e}")
             continue

@@ -17,7 +17,7 @@ sys.path.append(str(Path(__file__).parent.parent))
 from src.mlb_client import MLBClient
 from src.data.data_manager import (
     save_season_data, get_first_inning_yrfi, get_game_id,
-    update_team_stats, load_season_data, SEASON_DATA_FILE
+    update_team_stats, load_season_data, merge_games, SEASON_DATA_FILE
 )
 
 def get_season_games() -> dict:
@@ -26,12 +26,11 @@ def get_season_games() -> dict:
     all_games = []
     today = datetime.now()
     
-    # Definir los rangos de fechas importantes
+    # Definir rangos de fechas para inicializar (temporada regular 2026)
+    # La temporada regular 2026 comenzó el 25 de marzo con un juego único
     date_ranges = [
-        # Serie de Tokio (18-19 de marzo)
-        (datetime(2025, 3, 18), datetime(2025, 3, 19)),
-        # Resto de la temporada regular (27 de marzo hasta hoy)
-        (datetime(2025, 3, 27), today)
+        (datetime(2026, 3, 25), datetime(2026, 3, 31)),
+        (datetime(2026, 4, 1), today)
     ]
     
     # Procesar cada rango de fechas
@@ -54,7 +53,7 @@ def get_season_games() -> dict:
                     games = [g for g in games if g.get('gameType') == 'R']
                     
                     # Si es el rango problemático (1-7 de mayo), forzar la obtención de partidos de Houston
-                    if datetime(2025, 5, 1) <= current_date <= datetime(2025, 5, 7):
+                    if datetime(2026, 5, 1) <= current_date <= datetime(2026, 5, 7):
                         print(f"Obteniendo partidos específicos de Houston Astros para {date_str}...")
                         houston_games = client.get_games_for_team_and_date(117, current_date)
                         if houston_games:
@@ -67,7 +66,7 @@ def get_season_games() -> dict:
                                     game_ids.add(game['gamePk'])
                 
                 # Forzar la inclusión del partido del 4 de mayo si es necesario
-                if date_str == "2025-05-04":
+                if date_str == "2026-05-04":
                     print(f"\n[DEBUG] Procesando fecha especial: {date_str}")
                     print(f"[DEBUG] Juegos antes de forzar: {len(games)}")
                     
@@ -198,11 +197,26 @@ def update_season_data_with_pitchers(season_data: Dict, scheduled_games: List[Di
         scheduled_game = scheduled_games_dict.get(game_pk)
         
         if scheduled_game:
-            # Agregar información de lanzadores al juego
-            game['pitchers'] = {
+            # Solo actualizar si no hay información de lanzadores o si la nueva es válida
+            new_pitchers = {
                 'home': scheduled_game['teams']['home'].get('probablePitcher'),
                 'away': scheduled_game['teams']['away'].get('probablePitcher')
             }
+            
+            # Si el juego ya tiene lanzadores (manuales), no sobreescribir con vacíos
+            if 'pitchers' in game and game['pitchers']:
+                if not new_pitchers['home'] and not new_pitchers['away']:
+                    # No hacer nada, mantener los existentes
+                    pass
+                else:
+                    # Combinar: preferir el existente si el nuevo es nulo
+                    if not new_pitchers['home'] and 'home' in game['pitchers']:
+                        new_pitchers['home'] = game['pitchers']['home']
+                    if not new_pitchers['away'] and 'away' in game['pitchers']:
+                        new_pitchers['away'] = game['pitchers']['away']
+                    game['pitchers'] = new_pitchers
+            else:
+                game['pitchers'] = new_pitchers
         
         updated_games.append(game)
     
@@ -297,19 +311,18 @@ def process_game(game: dict) -> Optional[dict]:
     return processed_game
 
 def main():
-    print("=== Inicialización de datos de la temporada 2025 ===")
-    print(f"Incluyendo la Serie de Tokio (18-19 mar) y temporada regular hasta {datetime.now().strftime('%d %b')}\n")
+    print("=== Inicialización de datos de la temporada 2026 ===")
+    print(f"Temporada regular desde el 25 de marzo hasta {datetime.now().strftime('%d %b')}\n")
     
-    # Inicializar diccionario para juegos finalizados
-    final_games = {}
-    
-    # Obtener todos los juegos de la temporada
-    print("\nObteniendo juegos de la temporada...")
-    all_games = get_season_games()
-    print(f"Total de juegos obtenidos: {len(all_games)}")
+    # Cargar datos existentes para no perder información manual
+    print("\nCargando datos actuales de la temporada...")
+    current_data = load_season_data()
+    existing_games = current_data.get('games', [])
+    print(f"Se cargaron {len(existing_games)} juegos existentes.")
     
     # Procesar los juegos
-    print("\nProcesando juegos...")
+    print("\nProcesando juegos obtenidos de la API...")
+    new_games_dict = {}
     for i, game in enumerate(all_games, 1):
         if i % 10 == 0 or i == 1 or i == len(all_games):
             print(f"Procesando juego {i}/{len(all_games)}...")
@@ -321,14 +334,18 @@ def main():
             if processed_game:  # Solo agregar si se pudo procesar correctamente
                 game_id = processed_game.get('game_id')
                 if game_id:
-                    final_games[game_id] = processed_game
+                    new_games_dict[game_id] = processed_game
             else:
-                print(f"Advertencia: No se pudo procesar el juego: {game.get('gamePk', 'desconocido')}")
+                # No imprimimos advertencia aquí para no saturar, process_game ya tiene debug
+                pass
         except Exception as e:
             print(f"Error al procesar juego {game.get('gamePk', 'desconocido')}: {str(e)}")
     
-    # Convertir a lista para procesar
-    final_games_list = list(final_games.values())
+    # Combinar juegos nuevos con existentes (Smarts Merge)
+    print("\nMezclando juegos nuevos con los existentes...")
+    final_games_list = merge_games(existing_games, list(new_games_dict.values()))
+    
+    print(f"Total de juegos después de la mezcla: {len(final_games_list)}")
     
     print(f"\nTotal de juegos finalizados: {len(final_games_list)}")
     
