@@ -32,9 +32,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Run data initialization
-      run: python scripts/initialize_season_data.py
-    
+    - name: Update season data
+      run: python scripts/update_season.py
+
+    - name: Execute feedback loop (Evaluate Predictions)
+      run: python scripts/evaluate_predictions.py
+      continue-on-error: true # Permite que el pipeline siga aunque las métricas estén debajo del threshold
+
     - name: Eliminar predicciones antiguas
       run: |
         # Crear directorio predictions si no existe
@@ -57,8 +61,10 @@ jobs:
         # Configurar el remote con el token de autenticación
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         
-        # Forzar la adición de archivos ignorados
+        # Agregar los archivos cambiados
         git add -f predictions/
+        git add -f reports/
+        git add data/season_data.json
         
         # Verificar si hay cambios para hacer commit
         if git diff --staged --quiet; then
@@ -67,7 +73,7 @@ jobs:
         fi
         
         # Hacer commit
-        git commit -m "Auto: Actualizar predicciones YRFI $(date +'%Y-%m-%d')" || echo "No hay cambios para hacer commit"
+        git commit -m "Auto: Update data, evaluation and YRFI predictions $(date +'%Y-%m-%d')" || echo "No hay cambios para hacer commit"
         
         # Hacer push
         git push origin HEAD:${GITHUB_REF#refs/heads/}
