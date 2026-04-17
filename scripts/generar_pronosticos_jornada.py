@@ -816,7 +816,7 @@ def generate_global_summary(predictions: List[Dict], output_dir: Path = None) ->
     output_dir.mkdir(parents=True, exist_ok=True)
     
     # Generar nombre del archivo
-    filename = f"yrfi_global_summary_{game_date}.md"
+    filename = f"resumen_yrfi_{game_date}.md"
     filepath = output_dir / filename
     
     # Crear el contenido del archivo Markdown
