@@ -320,6 +320,11 @@ def main():
     existing_games = current_data.get('games', [])
     print(f"Se cargaron {len(existing_games)} juegos existentes.")
     
+    # Obtener todos los juegos de la temporada desde la API
+    print("\nObteniendo juegos de la temporada desde la API...")
+    all_games = get_season_games()
+    print(f"Total de juegos obtenidos de la API: {len(all_games)}")
+    
     # Procesar los juegos
     print("\nProcesando juegos obtenidos de la API...")
     new_games_dict = {}
