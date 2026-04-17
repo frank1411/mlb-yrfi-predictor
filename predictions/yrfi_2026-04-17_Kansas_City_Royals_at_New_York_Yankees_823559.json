@@ -1,0 +1,67 @@
+{
+  "game_pk": 823559,
+  "game_date": "2026-04-17",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 60.0,
+        "ratio": "6/10"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 2.67,
+    "pitcher": {
+      "name": "Michael Wacha",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 0.0,
+        "ratio": "0/9"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 60.0,
+        "tendency": 60.0,
+        "combined": 60.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 42.0
+      },
+      "away_team": {
+        "base": 0.0,
+        "tendency": 6.666666666666667,
+        "combined": 2.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 1.87
+      },
+      "game_yrfi_probability": 43.08
+    },
+    "yrfi_probability": 43.08
+  },
+  "metadata": {
+    "generated_at": "2026-04-17T18:50:00.064519",
+    "data_source": "season_data.json"
+  }
+}

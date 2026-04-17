@@ -1,0 +1,67 @@
+{
+  "game_pk": 823476,
+  "game_date": "2026-04-17",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Taijuan Walker",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "5/12"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 47.62,
+    "pitcher": {
+      "name": "Martín Pérez",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 57.14285714285714,
+        "ratio": "4/7"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.66666666666667,
+        "tendency": 40.0,
+        "combined": 41.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 58.7
+      },
+      "away_team": {
+        "base": 57.14285714285714,
+        "tendency": 33.33333333333333,
+        "combined": 47.62,
+        "pitcher_impact": 100.0,
+        "adjusted": 63.33
+      },
+      "game_yrfi_probability": 84.86
+    },
+    "yrfi_probability": 84.86
+  },
+  "metadata": {
+    "generated_at": "2026-04-17T18:50:00.060396",
+    "data_source": "season_data.json"
+  }
+}

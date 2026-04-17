@@ -12,10 +12,10 @@
    - **Lanzador Rival:** Martín Pérez
    - **YRFI Ajustado:** 58.7%
 
-3. **Arizona Diamondbacks** (Local 🏠)
-   - **Oponente:** Toronto Blue Jays
-   - **Lanzador Rival:** Eric Lauer
-   - **YRFI Ajustado:** 57.3%
+3. **Cleveland Guardians** (Local 🏠)
+   - **Oponente:** Baltimore Orioles
+   - **Lanzador Rival:** Chris Bassitt
+   - **YRFI Ajustado:** 53.2%
 
 ## 🎯 Top 2 Partidos con Mayor Probabilidad YRFI
 
@@ -61,7 +61,7 @@
 ## 📈 Estadísticas Adicionales
 
 - **Total de partidos analizados:** 15
-- **Promedio de probabilidad YRFI:** 47.7%
+- **Promedio de probabilidad YRFI:** 46.0%
 - **Partido con mayor probabilidad YRFI:** Atlanta Braves @ Philadelphia Phillies (84.9%)
 - **Partido con menor probabilidad YRFI:** Chicago White Sox @ Athletics (20.8%)
 
@@ -75,4 +75,4 @@
 - El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.
 - La probabilidad del partido combina las estadísticas de ambos equipos.
 
-*Resumen generado el 2026-04-17 13:56:45*
+*Resumen generado el 2026-04-17 18:50:00*

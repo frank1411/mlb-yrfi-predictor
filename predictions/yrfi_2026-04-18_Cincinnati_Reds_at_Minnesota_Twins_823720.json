@@ -1,0 +1,67 @@
+{
+  "game_pk": 823720,
+  "game_date": "2026-04-18",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "4/10"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 27.81,
+    "pitcher": {
+      "name": "Brandon Williamson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "2/7"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 33.33333333333333,
+        "combined": 37.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.13
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 26.666666666666668,
+        "combined": 27.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.47
+      },
+      "game_yrfi_probability": 40.51
+    },
+    "yrfi_probability": 40.51
+  },
+  "metadata": {
+    "generated_at": "2026-04-17T18:50:00.069726",
+    "data_source": "season_data.json"
+  }
+}

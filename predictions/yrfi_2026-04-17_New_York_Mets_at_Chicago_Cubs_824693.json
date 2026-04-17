@@ -1,0 +1,67 @@
+{
+  "game_pk": 824693,
+  "game_date": "2026-04-17",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Edward Cabrera",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 11.11111111111111,
+        "ratio": "1/9"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 40.0,
+    "pitcher": {
+      "name": "Kodai Senga",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "4/10"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 11.11111111111111,
+        "tendency": 13.333333333333334,
+        "combined": 12.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 8.4
+      },
+      "away_team": {
+        "base": 40.0,
+        "tendency": 40.0,
+        "combined": 40.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.0
+      },
+      "game_yrfi_probability": 34.05
+    },
+    "yrfi_probability": 34.05
+  },
+  "metadata": {
+    "generated_at": "2026-04-17T18:50:00.057270",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 825101,
+  "game_date": "2026-04-18",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Michael Soroka",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "3/7"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 20.67,
+    "pitcher": {
+      "name": "Braydon Fisher",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 16.666666666666664,
+        "ratio": "1/6"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 33.33333333333333,
+        "combined": 39.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.33
+      },
+      "away_team": {
+        "base": 16.666666666666664,
+        "tendency": 26.666666666666668,
+        "combined": 20.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.47
+      },
+      "game_yrfi_probability": 37.85
+    },
+    "yrfi_probability": 37.85
+  },
+  "metadata": {
+    "generated_at": "2026-04-17T18:50:00.075507",
+    "data_source": "season_data.json"
+  }
+}
