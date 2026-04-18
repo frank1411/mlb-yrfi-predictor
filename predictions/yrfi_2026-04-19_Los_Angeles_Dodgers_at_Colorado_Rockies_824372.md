@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Colorado Rockies
 
-**Fecha:** 2026-04-18  
-**Lanzadores:** Tyler Glasnow (V) vs Tomoyuki Sugano (L)
+**Fecha:** 2026-04-19  
+**Lanzadores:** Emmet Sheehan (V) vs Ryan Feltner (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.3%
+**Probabilidad de que anoten en la primera entrada:** 80.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 33.3% (2/6 partidos)
+- **Estadística base YRFI:** 28.6% (2/7 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Emmet Sheehan):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 49.5%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 33.3% (2/6 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Estadística base YRFI:** 42.9% (3/7 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 61.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-17 18:50:00
+- **Generado el:** 2026-04-18 14:35:06
 - **Fuente de datos:** season_data.json

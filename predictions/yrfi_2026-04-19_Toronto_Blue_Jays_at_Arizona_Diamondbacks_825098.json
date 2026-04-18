@@ -1,38 +1,38 @@
 {
-  "game_pk": 825101,
-  "game_date": "2026-04-18",
+  "game_pk": 825098,
+  "game_date": "2026-04-19",
   "home_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
     "pitcher": {
-      "name": "Michael Soroka",
+      "name": "Zac Gallen",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 42.857142857142854,
-        "ratio": "3/7"
+        "value": 37.5,
+        "ratio": "3/8"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "away_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
-    "combined_yrfi_pct": 20.67,
+    "combined_yrfi_pct": 19.24,
     "pitcher": {
-      "name": "Braydon Fisher",
+      "name": "Max Scherzer",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 16.666666666666664,
-        "ratio": "1/6"
+        "value": 14.285714285714285,
+        "ratio": "1/7"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 42.857142857142854,
-        "tendency": 33.33333333333333,
-        "combined": 39.05,
+        "base": 37.5,
+        "tendency": 26.666666666666668,
+        "combined": 33.17,
         "pitcher_impact": 0.0,
-        "adjusted": 27.33
+        "adjusted": 23.22
       },
       "away_team": {
-        "base": 16.666666666666664,
+        "base": 14.285714285714285,
         "tendency": 26.666666666666668,
-        "combined": 20.67,
+        "combined": 19.24,
         "pitcher_impact": 0.0,
-        "adjusted": 14.47
+        "adjusted": 13.47
       },
-      "game_yrfi_probability": 37.85
+      "game_yrfi_probability": 33.56
     },
-    "yrfi_probability": 37.85
+    "yrfi_probability": 33.56
   },
   "metadata": {
-    "generated_at": "2026-04-17T18:50:00.075507",
+    "generated_at": "2026-04-18T14:35:06.310695",
     "data_source": "season_data.json"
   }
 }

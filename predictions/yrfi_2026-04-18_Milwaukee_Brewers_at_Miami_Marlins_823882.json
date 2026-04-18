@@ -1,18 +1,18 @@
 {
-  "game_pk": 823883,
-  "game_date": "2026-04-17",
+  "game_pk": 823882,
+  "game_date": "2026-04-18",
   "home_team": {
     "id": "146",
     "name": "Miami Marlins",
     "pitcher": {
-      "name": "Janson Junk",
+      "name": "Sandy Alcantara",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 40.0,
-        "ratio": "4/10"
+        "value": 36.36363636363637,
+        "ratio": "4/11"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
-    "combined_yrfi_pct": 28.0,
+    "combined_yrfi_pct": 25.14,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Brandon Woodruff",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "2/6"
+        "value": 28.57142857142857,
+        "ratio": "2/7"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 40.0,
+        "base": 36.36363636363637,
         "tendency": 46.666666666666664,
-        "combined": 42.67,
-        "pitcher_impact": 50.0,
-        "adjusted": 44.87
+        "combined": 40.48,
+        "pitcher_impact": 100.0,
+        "adjusted": 58.34
       },
       "away_team": {
-        "base": 33.33333333333333,
+        "base": 28.57142857142857,
         "tendency": 20.0,
-        "combined": 28.0,
+        "combined": 25.14,
         "pitcher_impact": 0.0,
-        "adjusted": 19.6
+        "adjusted": 17.6
       },
-      "game_yrfi_probability": 55.68
+      "game_yrfi_probability": 65.67
     },
-    "yrfi_probability": 55.68
+    "yrfi_probability": 65.67
   },
   "metadata": {
-    "generated_at": "2026-04-17T18:50:00.065555",
+    "generated_at": "2026-04-18T14:35:06.302057",
     "data_source": "season_data.json"
   }
 }

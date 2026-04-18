@@ -1,33 +1,33 @@
 {
-  "game_pk": 824454,
-  "game_date": "2026-04-17",
+  "game_pk": 824049,
+  "game_date": "2026-04-19",
   "home_team": {
-    "id": "114",
-    "name": "Cleveland Guardians",
+    "id": "108",
+    "name": "Los Angeles Angels",
     "pitcher": {
-      "name": "Tanner Bibee",
+      "name": "Yusei Kikuchi",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 28.57142857142857,
-        "ratio": "2/7"
+        "value": 57.14285714285714,
+        "ratio": "4/7"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 46.666666666666664,
+        "ratio": "7/15"
       }
     }
   },
   "away_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
+    "id": "135",
+    "name": "San Diego Padres",
     "combined_yrfi_pct": 2.67,
     "pitcher": {
-      "name": "Chris Bassitt",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Germán Márquez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.57142857142857,
-        "tendency": 40.0,
-        "combined": 33.14,
-        "pitcher_impact": 100.0,
-        "adjusted": 53.2
+        "base": 57.14285714285714,
+        "tendency": 46.666666666666664,
+        "combined": 52.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 37.07
       },
       "away_team": {
         "base": 0.0,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 1.87
       },
-      "game_yrfi_probability": 54.08
+      "game_yrfi_probability": 38.25
     },
-    "yrfi_probability": 54.08
+    "yrfi_probability": 38.25
   },
   "metadata": {
-    "generated_at": "2026-04-17T18:50:00.058807",
+    "generated_at": "2026-04-18T14:35:06.312179",
     "data_source": "season_data.json"
   }
 }

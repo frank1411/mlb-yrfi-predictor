@@ -1,0 +1,67 @@
+{
+  "game_pk": 822751,
+  "game_date": "2026-04-18",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Cade Cavalli",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "3/7"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 14.0,
+    "pitcher": {
+      "name": "Adrian Houser",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 10.0,
+        "ratio": "1/10"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 40.0,
+        "combined": 41.71,
+        "pitcher_impact": 100.0,
+        "adjusted": 59.2
+      },
+      "away_team": {
+        "base": 10.0,
+        "tendency": 20.0,
+        "combined": 14.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 39.8
+      },
+      "game_yrfi_probability": 75.44
+    },
+    "yrfi_probability": 75.44
+  },
+  "metadata": {
+    "generated_at": "2026-04-18T14:35:06.296408",
+    "data_source": "season_data.json"
+  }
+}

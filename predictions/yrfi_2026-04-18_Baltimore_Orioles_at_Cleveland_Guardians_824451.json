@@ -1,0 +1,67 @@
+{
+  "game_pk": 824451,
+  "game_date": "2026-04-18",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "2/8"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 2.67,
+    "pitcher": {
+      "name": "Dean Kremer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 0.0,
+        "ratio": "0/8"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.7
+      },
+      "away_team": {
+        "base": 0.0,
+        "tendency": 6.666666666666667,
+        "combined": 2.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 1.87
+      },
+      "game_yrfi_probability": 23.16
+    },
+    "yrfi_probability": 23.16
+  },
+  "metadata": {
+    "generated_at": "2026-04-18T14:35:06.303477",
+    "data_source": "season_data.json"
+  }
+}

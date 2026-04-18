@@ -1,18 +1,18 @@
 {
-  "game_pk": 824778,
-  "game_date": "2026-04-17",
+  "game_pk": 824775,
+  "game_date": "2026-04-18",
   "home_team": {
     "id": "111",
     "name": "Boston Red Sox",
     "pitcher": {
-      "name": "Ranger Suarez",
+      "name": "Brayan Bello",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 16.666666666666664,
-        "ratio": "1/6"
+        "value": 14.285714285714285,
+        "ratio": "1/7"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "116",
     "name": "Detroit Tigers",
-    "combined_yrfi_pct": 14.0,
+    "combined_yrfi_pct": 13.45,
     "pitcher": {
-      "name": "Casey Mize",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 10.0,
-        "ratio": "1/10"
+        "value": 9.090909090909092,
+        "ratio": "1/11"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 16.666666666666664,
+        "base": 14.285714285714285,
         "tendency": 20.0,
-        "combined": 18.0,
-        "pitcher_impact": 0.0,
-        "adjusted": 12.6
+        "combined": 16.57,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 21.6
       },
       "away_team": {
-        "base": 10.0,
+        "base": 9.090909090909092,
         "tendency": 20.0,
-        "combined": 14.0,
+        "combined": 13.45,
         "pitcher_impact": 0.0,
-        "adjusted": 9.8
+        "adjusted": 9.42
       },
-      "game_yrfi_probability": 21.17
+      "game_yrfi_probability": 28.99
     },
-    "yrfi_probability": 21.17
+    "yrfi_probability": 28.99
   },
   "metadata": {
-    "generated_at": "2026-04-17T18:50:00.066904",
+    "generated_at": "2026-04-18T14:35:06.300676",
     "data_source": "season_data.json"
   }
 }

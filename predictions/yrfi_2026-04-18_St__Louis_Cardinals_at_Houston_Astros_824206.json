@@ -1,0 +1,67 @@
+{
+  "game_pk": 824206,
+  "game_date": "2026-04-18",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Lance McCullers Jr.",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 54.54545454545454,
+        "ratio": "6/11"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 27.81,
+    "pitcher": {
+      "name": "Andre Pallante",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "2/7"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 54.54545454545454,
+        "tendency": 33.33333333333333,
+        "combined": 46.06,
+        "pitcher_impact": 100.0,
+        "adjusted": 62.24
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 26.666666666666668,
+        "combined": 27.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.47
+      },
+      "game_yrfi_probability": 69.59
+    },
+    "yrfi_probability": 69.59
+  },
+  "metadata": {
+    "generated_at": "2026-04-18T14:35:06.304889",
+    "data_source": "season_data.json"
+  }
+}

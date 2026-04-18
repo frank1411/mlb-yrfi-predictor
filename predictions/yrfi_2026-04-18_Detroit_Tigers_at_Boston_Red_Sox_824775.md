@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ Athletics
+# Análisis YRFI: Detroit Tigers @ Boston Red Sox
 
 **Fecha:** 2026-04-18  
-**Lanzadores:** Davis Martin (V) vs Aaron Civale (L)
+**Lanzadores:** Tarik Skubal (V) vs Brayan Bello (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 20.8%
+**Probabilidad de que anoten en la primera entrada:** 29.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
+### Boston Red Sox (Local)
 - **Estadística base YRFI:** 14.3% (1/7 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 7.9%
-
-### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 20.0% (2/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Athletics - Aaron Civale):** 0.0% (1/3 partidos)
-- **Puntuación ajustada:** 14.0%
+- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 21.6%
+
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 9.1% (1/11 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Boston Red Sox - Brayan Bello):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 9.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-17 18:50:00
+- **Generado el:** 2026-04-18 14:35:06
 - **Fuente de datos:** season_data.json

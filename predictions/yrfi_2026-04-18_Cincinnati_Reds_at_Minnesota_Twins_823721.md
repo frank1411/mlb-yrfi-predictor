@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Arizona Diamondbacks
+# Análisis YRFI: Cincinnati Reds @ Minnesota Twins
 
 **Fecha:** 2026-04-18  
-**Lanzadores:** Braydon Fisher (V) vs Michael Soroka (L)
+**Lanzadores:** Andrew Abbott (V) vs Taj Bradley (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.9%
+**Probabilidad de que anoten en la primera entrada:** 38.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 42.9% (3/7 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 36.4% (4/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Braydon Fisher):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 27.3%
+- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 24.6%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 16.7% (1/6 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 25.0% (2/8 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Michael Soroka):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 14.5%
+- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-17 18:50:00
+- **Generado el:** 2026-04-18 14:35:06
 - **Fuente de datos:** season_data.json

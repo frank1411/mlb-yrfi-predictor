@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Washington Nationals
 
-**Fecha:** 2026-04-17  
-**Lanzadores:** Logan Webb (V) vs Zack Littell (L)
+**Fecha:** 2026-04-18  
+**Lanzadores:** Adrian Houser (V) vs Cade Cavalli (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.2%
+**Probabilidad de que anoten en la primera entrada:** 75.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 50.0% (3/6 partidos)
+- **Estadística base YRFI:** 42.9% (3/7 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Impacto del lanzador visitante (San Francisco Giants - Adrian Houser):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 59.2%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 11.1% (1/9 partidos)
+- **Estadística base YRFI:** 10.0% (1/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Zack Littell):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 10.3%
+- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 39.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-17 18:50:00
+- **Generado el:** 2026-04-18 14:35:06
 - **Fuente de datos:** season_data.json

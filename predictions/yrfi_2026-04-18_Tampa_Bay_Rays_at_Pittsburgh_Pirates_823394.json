@@ -1,0 +1,67 @@
+{
+  "game_pk": 823394,
+  "game_date": "2026-04-18",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Paul Skenes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "3/11"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 31.79,
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "4/13"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.27272727272727,
+        "tendency": 33.33333333333333,
+        "combined": 29.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.79
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 31.79,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.26
+      },
+      "game_yrfi_probability": 50.3
+    },
+    "yrfi_probability": 50.3
+  },
+  "metadata": {
+    "generated_at": "2026-04-18T14:35:06.297785",
+    "data_source": "season_data.json"
+  }
+}

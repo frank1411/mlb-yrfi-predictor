@@ -1,18 +1,18 @@
 {
-  "game_pk": 823476,
-  "game_date": "2026-04-17",
+  "game_pk": 823474,
+  "game_date": "2026-04-18",
   "home_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Taijuan Walker",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "2/2"
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 41.66666666666667,
-        "ratio": "5/12"
+        "value": 38.46153846153847,
+        "ratio": "5/13"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "144",
     "name": "Atlanta Braves",
-    "combined_yrfi_pct": 47.62,
+    "combined_yrfi_pct": 50.83,
     "pitcher": {
-      "name": "Martín Pérez",
+      "name": "Chris Sale",
       "yrfi_allowed": 100.0,
       "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 57.14285714285714,
-        "ratio": "4/7"
+        "value": 62.5,
+        "ratio": "5/8"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 41.66666666666667,
+        "base": 38.46153846153847,
         "tendency": 40.0,
-        "combined": 41.0,
+        "combined": 39.08,
         "pitcher_impact": 100.0,
-        "adjusted": 58.7
+        "adjusted": 57.35
       },
       "away_team": {
-        "base": 57.14285714285714,
+        "base": 62.5,
         "tendency": 33.33333333333333,
-        "combined": 47.62,
-        "pitcher_impact": 100.0,
-        "adjusted": 63.33
+        "combined": 50.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 35.58
       },
-      "game_yrfi_probability": 84.86
+      "game_yrfi_probability": 72.52
     },
-    "yrfi_probability": 84.86
+    "yrfi_probability": 72.52
   },
   "metadata": {
-    "generated_at": "2026-04-17T18:50:00.060396",
+    "generated_at": "2026-04-18T14:35:06.307725",
     "data_source": "season_data.json"
   }
 }

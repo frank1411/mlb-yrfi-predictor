@@ -1,0 +1,67 @@
+{
+  "game_pk": 825020,
+  "game_date": "2026-04-18",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Luis Severino",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 12.5,
+        "ratio": "1/8"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 27.03,
+    "pitcher": {
+      "name": "Erick Fedde",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "3/11"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 12.5,
+        "tendency": 6.666666666666667,
+        "combined": 10.17,
+        "pitcher_impact": 50.0,
+        "adjusted": 22.12
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 26.666666666666668,
+        "combined": 27.03,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.92
+      },
+      "game_yrfi_probability": 60.22
+    },
+    "yrfi_probability": 60.22
+  },
+  "metadata": {
+    "generated_at": "2026-04-18T14:35:06.299255",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Miami Marlins
 
-**Fecha:** 2026-04-17  
-**Lanzadores:** Por anunciar (V) vs Janson Junk (L)
+**Fecha:** 2026-04-18  
+**Lanzadores:** Brandon Woodruff (V) vs Sandy Alcantara (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.7%
+**Probabilidad de que anoten en la primera entrada:** 65.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 40.0% (4/10 partidos)
+- **Estadística base YRFI:** 36.4% (4/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 44.9%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Brandon Woodruff):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 58.3%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 33.3% (2/6 partidos)
+- **Estadística base YRFI:** 28.6% (2/7 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador local (Miami Marlins - Sandy Alcantara):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-17 18:50:00
+- **Generado el:** 2026-04-18 14:35:06
 - **Fuente de datos:** season_data.json
