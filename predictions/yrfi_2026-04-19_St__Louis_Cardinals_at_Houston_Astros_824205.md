@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Pittsburgh Pirates
+# Análisis YRFI: St. Louis Cardinals @ Houston Astros
 
-**Fecha:** 2026-04-18  
-**Lanzadores:** Drew Rasmussen (V) vs Paul Skenes (L)
+**Fecha:** 2026-04-19  
+**Lanzadores:** Matthew Liberatore (V) vs Mike Burrows (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.3%
+**Probabilidad de que anoten en la primera entrada:** 83.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 27.3% (3/11 partidos)
+### Houston Astros (Local)
+- **Estadística base YRFI:** 58.3% (7/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 63.8%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 30.8% (4/13 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 37.5% (3/8 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.3%
+- **Impacto del lanzador local (Houston Astros - Mike Burrows):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 55.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-18 14:35:06
+- **Generado el:** 2026-04-19 14:34:21
 - **Fuente de datos:** season_data.json

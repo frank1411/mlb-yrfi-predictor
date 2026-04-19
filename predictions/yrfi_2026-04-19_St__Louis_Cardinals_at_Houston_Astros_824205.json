@@ -1,0 +1,67 @@
+{
+  "game_pk": 824205,
+  "game_date": "2026-04-19",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Mike Burrows",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 58.333333333333336,
+        "ratio": "7/12"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 35.83,
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "3/8"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 58.333333333333336,
+        "tendency": 33.33333333333333,
+        "combined": 48.33,
+        "pitcher_impact": 100.0,
+        "adjusted": 63.83
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 33.33333333333333,
+        "combined": 35.83,
+        "pitcher_impact": 100.0,
+        "adjusted": 55.08
+      },
+      "game_yrfi_probability": 83.75
+    },
+    "yrfi_probability": 83.75
+  },
+  "metadata": {
+    "generated_at": "2026-04-19T14:34:21.310803",
+    "data_source": "season_data.json"
+  }
+}

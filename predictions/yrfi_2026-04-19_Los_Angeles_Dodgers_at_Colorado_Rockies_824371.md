@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Colorado Rockies
 
 **Fecha:** 2026-04-19  
-**Lanzadores:** Emmet Sheehan (V) vs Ryan Feltner (L)
+**Lanzadores:** Roki Sasaki (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 80.3%
+**Probabilidad de que anoten en la primera entrada:** 63.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 28.6% (2/7 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Emmet Sheehan):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 49.5%
+- **Estadística base YRFI:** 37.5% (3/8 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 42.9% (3/7 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 61.1%
+- **Estadística base YRFI:** 50.0% (4/8 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Michael Lorenzen):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 50.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-18 14:35:06
+- **Generado el:** 2026-04-19 14:34:21
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823150,
+  "game_date": "2026-04-19",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 46.15384615384615,
+        "ratio": "6/13"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 37.33,
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 46.15384615384615,
+        "tendency": 46.666666666666664,
+        "combined": 46.36,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.45
+      },
+      "away_team": {
+        "base": 40.0,
+        "tendency": 33.33333333333333,
+        "combined": 37.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.13
+      },
+      "game_yrfi_probability": 50.1
+    },
+    "yrfi_probability": 50.1
+  },
+  "metadata": {
+    "generated_at": "2026-04-19T14:34:21.323072",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823556,
+  "game_date": "2026-04-19",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Ryan Weathers",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 50.0,
+        "ratio": "6/12"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 2.67,
+    "pitcher": {
+      "name": "Cole Ragans",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 0.0,
+        "ratio": "0/11"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 50.0,
+        "tendency": 46.666666666666664,
+        "combined": 48.67,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 54.07
+      },
+      "away_team": {
+        "base": 0.0,
+        "tendency": 6.666666666666667,
+        "combined": 2.67,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 21.87
+      },
+      "game_yrfi_probability": 64.11
+    },
+    "yrfi_probability": 64.11
+  },
+  "metadata": {
+    "generated_at": "2026-04-19T14:34:21.303919",
+    "data_source": "season_data.json"
+  }
+}

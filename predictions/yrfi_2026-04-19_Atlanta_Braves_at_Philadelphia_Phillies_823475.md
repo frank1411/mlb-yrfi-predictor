@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Philadelphia Phillies
 
-**Fecha:** 2026-04-18  
-**Lanzadores:** Chris Sale (V) vs Cristopher Sánchez (L)
+**Fecha:** 2026-04-19  
+**Lanzadores:** Grant Holmes (V) vs Andrew Painter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 72.5%
+**Probabilidad de que anoten en la primera entrada:** 50.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 38.5% (5/13 partidos)
+- **Estadística base YRFI:** 35.7% (5/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 57.4%
+- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 26.2%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 62.5% (5/8 partidos)
+- **Estadística base YRFI:** 55.6% (5/9 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 32.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-18 14:35:06
+- **Generado el:** 2026-04-19 14:34:21
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Seattle Mariners
+# Análisis YRFI: Cincinnati Reds @ Minnesota Twins
 
-**Fecha:** 2026-04-18  
-**Lanzadores:** Nathan Eovaldi (V) vs George Kirby (L)
+**Fecha:** 2026-04-19  
+**Lanzadores:** Brady Singer (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 67.7%
+**Probabilidad de que anoten en la primera entrada:** 58.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
+### Minnesota Twins (Local)
 - **Estadística base YRFI:** 41.7% (5/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 38.7%
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 43.7%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 42.9% (6/14 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 47.3%
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 22.2% (2/9 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-18 14:35:06
+- **Generado el:** 2026-04-19 14:34:21
 - **Fuente de datos:** season_data.json

@@ -1,33 +1,33 @@
 {
-  "game_pk": 824451,
-  "game_date": "2026-04-18",
+  "game_pk": 824047,
+  "game_date": "2026-04-19",
   "home_team": {
-    "id": "114",
-    "name": "Cleveland Guardians",
+    "id": "108",
+    "name": "Los Angeles Angels",
     "pitcher": {
-      "name": "Gavin Williams",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "Reid Detmers",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "2/8"
+        "value": 50.0,
+        "ratio": "4/8"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 46.666666666666664,
+        "ratio": "7/15"
       }
     }
   },
   "away_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
+    "id": "135",
+    "name": "San Diego Padres",
     "combined_yrfi_pct": 2.67,
     "pitcher": {
-      "name": "Dean Kremer",
+      "name": "Michael King",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/1"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.0,
-        "tendency": 40.0,
-        "combined": 31.0,
+        "base": 50.0,
+        "tendency": 46.666666666666664,
+        "combined": 48.67,
         "pitcher_impact": 0.0,
-        "adjusted": 21.7
+        "adjusted": 34.07
       },
       "away_team": {
         "base": 0.0,
         "tendency": 6.666666666666667,
         "combined": 2.67,
-        "pitcher_impact": 0.0,
-        "adjusted": 1.87
+        "pitcher_impact": 50.0,
+        "adjusted": 16.87
       },
-      "game_yrfi_probability": 23.16
+      "game_yrfi_probability": 45.19
     },
-    "yrfi_probability": 23.16
+    "yrfi_probability": 45.19
   },
   "metadata": {
-    "generated_at": "2026-04-18T14:35:06.303477",
+    "generated_at": "2026-04-19T14:34:21.320920",
     "data_source": "season_data.json"
   }
 }

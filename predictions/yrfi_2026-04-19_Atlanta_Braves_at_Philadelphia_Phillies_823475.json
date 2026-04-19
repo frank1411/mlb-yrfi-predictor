@@ -1,18 +1,18 @@
 {
-  "game_pk": 823474,
-  "game_date": "2026-04-18",
+  "game_pk": 823475,
+  "game_date": "2026-04-19",
   "home_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Cristopher Sánchez",
+      "name": "Andrew Painter",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 38.46153846153847,
-        "ratio": "5/13"
+        "value": 35.714285714285715,
+        "ratio": "5/14"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "144",
     "name": "Atlanta Braves",
-    "combined_yrfi_pct": 50.83,
+    "combined_yrfi_pct": 46.67,
     "pitcher": {
-      "name": "Chris Sale",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Grant Holmes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 62.5,
-        "ratio": "5/8"
+        "value": 55.55555555555556,
+        "ratio": "5/9"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 38.46153846153847,
+        "base": 35.714285714285715,
         "tendency": 40.0,
-        "combined": 39.08,
-        "pitcher_impact": 100.0,
-        "adjusted": 57.35
+        "combined": 37.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.2
       },
       "away_team": {
-        "base": 62.5,
+        "base": 55.55555555555556,
         "tendency": 33.33333333333333,
-        "combined": 50.83,
+        "combined": 46.67,
         "pitcher_impact": 0.0,
-        "adjusted": 35.58
+        "adjusted": 32.67
       },
-      "game_yrfi_probability": 72.52
+      "game_yrfi_probability": 50.31
     },
-    "yrfi_probability": 72.52
+    "yrfi_probability": 50.31
   },
   "metadata": {
-    "generated_at": "2026-04-18T14:35:06.307725",
+    "generated_at": "2026-04-19T14:34:21.329144",
     "data_source": "season_data.json"
   }
 }

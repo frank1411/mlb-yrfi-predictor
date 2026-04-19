@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ New York Yankees
 
-**Fecha:** 2026-04-18  
-**Lanzadores:** Noah Cameron (V) vs Will Warren (L)
+**Fecha:** 2026-04-19  
+**Lanzadores:** Cole Ragans (V) vs Ryan Weathers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.2%
+**Probabilidad de que anoten en la primera entrada:** 64.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 54.5% (6/11 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 37.8%
+- **Estadística base YRFI:** 50.0% (6/12 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Cole Ragans):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 54.1%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 0.0% (0/10 partidos)
+- **Estadística base YRFI:** 0.0% (0/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Will Warren):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 11.9%
+- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-18 14:35:06
+- **Generado el:** 2026-04-19 14:34:21
 - **Fuente de datos:** season_data.json

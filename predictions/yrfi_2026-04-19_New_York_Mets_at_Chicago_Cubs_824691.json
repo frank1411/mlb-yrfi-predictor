@@ -1,18 +1,18 @@
 {
-  "game_pk": 824694,
-  "game_date": "2026-04-18",
+  "game_pk": 824691,
+  "game_date": "2026-04-19",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Jameson Taillon",
-      "yrfi_allowed": 50.0,
+      "name": "Javier Assad",
+      "yrfi_allowed": 0.0,
       "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 20.0,
-        "ratio": "2/10"
+        "value": 18.181818181818183,
+        "ratio": "2/11"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "121",
     "name": "New York Mets",
-    "combined_yrfi_pct": 37.82,
+    "combined_yrfi_pct": 36.0,
     "pitcher": {
-      "name": "Freddy Peralta",
+      "name": "Tobias Myers",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 36.36363636363637,
-        "ratio": "4/11"
+        "value": 33.33333333333333,
+        "ratio": "4/12"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 20.0,
+        "base": 18.181818181818183,
         "tendency": 13.333333333333334,
-        "combined": 17.33,
+        "combined": 16.24,
         "pitcher_impact": 0.0,
-        "adjusted": 12.13
+        "adjusted": 11.37
       },
       "away_team": {
-        "base": 36.36363636363637,
+        "base": 33.33333333333333,
         "tendency": 40.0,
-        "combined": 37.82,
-        "pitcher_impact": 50.0,
-        "adjusted": 41.47
+        "combined": 36.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.2
       },
-      "game_yrfi_probability": 48.57
+      "game_yrfi_probability": 33.7
     },
-    "yrfi_probability": 48.57
+    "yrfi_probability": 33.7
   },
   "metadata": {
-    "generated_at": "2026-04-18T14:35:06.294980",
+    "generated_at": "2026-04-19T14:34:21.314849",
     "data_source": "season_data.json"
   }
 }

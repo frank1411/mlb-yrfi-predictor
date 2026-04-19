@@ -1,0 +1,67 @@
+{
+  "game_pk": 824371,
+  "game_date": "2026-04-19",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "3/8"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 51.33,
+    "pitcher": {
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 50.0,
+        "ratio": "4/8"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.5,
+        "tendency": 33.33333333333333,
+        "combined": 35.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.08
+      },
+      "away_team": {
+        "base": 50.0,
+        "tendency": 53.333333333333336,
+        "combined": 51.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 50.93
+      },
+      "game_yrfi_probability": 63.24
+    },
+    "yrfi_probability": 63.24
+  },
+  "metadata": {
+    "generated_at": "2026-04-19T14:34:21.316904",
+    "data_source": "season_data.json"
+  }
+}

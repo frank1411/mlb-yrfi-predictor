@@ -1,18 +1,18 @@
 {
-  "game_pk": 824206,
-  "game_date": "2026-04-18",
+  "game_pk": 823393,
+  "game_date": "2026-04-19",
   "home_team": {
-    "id": "117",
-    "name": "Houston Astros",
+    "id": "134",
+    "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Lance McCullers Jr.",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "Mitch Keller",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 54.54545454545454,
-        "ratio": "6/11"
+        "value": 33.33333333333333,
+        "ratio": "4/12"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "138",
-    "name": "St. Louis Cardinals",
+    "id": "139",
+    "name": "Tampa Bay Rays",
     "combined_yrfi_pct": 27.81,
     "pitcher": {
-      "name": "Andre Pallante",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Shane McClanahan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
         "value": 28.57142857142857,
-        "ratio": "2/7"
+        "ratio": "4/14"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 54.54545454545454,
+        "base": 33.33333333333333,
         "tendency": 33.33333333333333,
-        "combined": 46.06,
-        "pitcher_impact": 100.0,
-        "adjusted": 62.24
+        "combined": 33.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.33
       },
       "away_team": {
         "base": 28.57142857142857,
         "tendency": 26.666666666666668,
         "combined": 27.81,
-        "pitcher_impact": 0.0,
-        "adjusted": 19.47
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 29.47
       },
-      "game_yrfi_probability": 69.59
+      "game_yrfi_probability": 45.92
     },
-    "yrfi_probability": 69.59
+    "yrfi_probability": 45.92
   },
   "metadata": {
-    "generated_at": "2026-04-18T14:35:06.304889",
+    "generated_at": "2026-04-19T14:34:21.301563",
     "data_source": "season_data.json"
   }
 }
