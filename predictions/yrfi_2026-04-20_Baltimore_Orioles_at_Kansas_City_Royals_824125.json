@@ -1,22 +1,22 @@
 {
-  "game_pk": 824452,
-  "game_date": "2026-04-19",
+  "game_pk": 824125,
+  "game_date": "2026-04-20",
   "home_team": {
-    "id": "114",
-    "name": "Cleveland Guardians",
+    "id": "118",
+    "name": "Kansas City Royals",
     "pitcher": {
-      "name": "Joey Cantillo",
+      "name": "Seth Lugo",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 22.22222222222222,
-        "ratio": "2/9"
+        "value": 10.0,
+        "ratio": "1/10"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 6.666666666666667,
+        "ratio": "1/15"
       }
     }
   },
@@ -25,14 +25,14 @@
     "name": "Baltimore Orioles",
     "combined_yrfi_pct": 2.67,
     "pitcher": {
-      "name": "Trevor Rogers",
+      "name": "Kyle Bradish",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
         "value": 0.0,
-        "ratio": "0/9"
+        "ratio": "0/10"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 22.22222222222222,
-        "tendency": 40.0,
-        "combined": 29.33,
+        "base": 10.0,
+        "tendency": 6.666666666666667,
+        "combined": 8.67,
         "pitcher_impact": 0.0,
-        "adjusted": 20.53
+        "adjusted": 6.07
       },
       "away_team": {
         "base": 0.0,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 1.87
       },
-      "game_yrfi_probability": 22.02
+      "game_yrfi_probability": 7.83
     },
-    "yrfi_probability": 22.02
+    "yrfi_probability": 7.83
   },
   "metadata": {
-    "generated_at": "2026-04-19T14:34:21.306220",
+    "generated_at": "2026-04-20T15:09:46.221491",
     "data_source": "season_data.json"
   }
 }

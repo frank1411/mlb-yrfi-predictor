@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Minnesota Twins
+# Análisis YRFI: Houston Astros @ Cleveland Guardians
 
-**Fecha:** 2026-04-19  
-**Lanzadores:** Brady Singer (V) vs Bailey Ober (L)
+**Fecha:** 2026-04-20  
+**Lanzadores:** Spencer Arrighetti (V) vs Slade Cecconi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.8%
+**Probabilidad de que anoten en la primera entrada:** 32.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 41.7% (5/12 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 20.0% (2/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 43.7%
+- **Impacto del lanzador visitante (Houston Astros - Spencer Arrighetti):** 0.0% (1/2 partidos)
+- **Puntuación ajustada:** 19.6%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 22.2% (2/9 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 20.0% (2/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-19 14:34:21
+- **Generado el:** 2026-04-20 15:09:46
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Philadelphia Phillies
+# Análisis YRFI: St. Louis Cardinals @ Miami Marlins
 
-**Fecha:** 2026-04-19  
-**Lanzadores:** Grant Holmes (V) vs Andrew Painter (L)
+**Fecha:** 2026-04-20  
+**Lanzadores:** Michael McGreevy (V) vs Max Meyer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.3%
+**Probabilidad de que anoten en la primera entrada:** 55.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 35.7% (5/14 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 38.5% (5/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.2%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 27.4%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 55.6% (5/9 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 33.3% (3/9 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 32.7%
+- **Impacto del lanzador local (Miami Marlins - Max Meyer):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 38.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-19 14:34:21
+- **Generado el:** 2026-04-20 15:09:46
 - **Fuente de datos:** season_data.json

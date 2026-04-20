@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Los Angeles Angels
+# Análisis YRFI: Toronto Blue Jays @ Los Angeles Angels
 
-**Fecha:** 2026-04-19  
-**Lanzadores:** Michael King (V) vs Reid Detmers (L)
+**Fecha:** 2026-04-21  
+**Lanzadores:** Dylan Cease (V) vs Reid Detmers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.2%
+**Probabilidad de que anoten en la primera entrada:** 68.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 50.0% (4/8 partidos)
+- **Estadística base YRFI:** 44.4% (4/9 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 34.1%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 46.7%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 0.0% (0/8 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 33.3% (3/9 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
 - **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 16.9%
+- **Puntuación ajustada:** 40.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-19 14:34:21
+- **Generado el:** 2026-04-20 15:09:46
 - **Fuente de datos:** season_data.json

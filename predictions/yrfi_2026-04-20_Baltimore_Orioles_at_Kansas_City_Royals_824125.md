@@ -1,24 +1,24 @@
-# Análisis YRFI: Baltimore Orioles @ Cleveland Guardians
+# Análisis YRFI: Baltimore Orioles @ Kansas City Royals
 
-**Fecha:** 2026-04-19  
-**Lanzadores:** Trevor Rogers (V) vs Joey Cantillo (L)
+**Fecha:** 2026-04-20  
+**Lanzadores:** Kyle Bradish (V) vs Seth Lugo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 22.0%
+**Probabilidad de que anoten en la primera entrada:** 7.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 22.2% (2/9 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.5%
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 10.0% (1/10 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 6.1%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 0.0% (0/9 partidos)
+- **Estadística base YRFI:** 0.0% (0/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 0.0% (0/2 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 0.0% (0/2 partidos)
 - **Puntuación ajustada:** 1.9%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-19 14:34:21
+- **Generado el:** 2026-04-20 15:09:46
 - **Fuente de datos:** season_data.json

@@ -1,24 +1,24 @@
-# Análisis YRFI: New York Mets @ Chicago Cubs
+# Análisis YRFI: Philadelphia Phillies @ Chicago Cubs
 
-**Fecha:** 2026-04-19  
-**Lanzadores:** Tobias Myers (V) vs Javier Assad (L)
+**Fecha:** 2026-04-20  
+**Lanzadores:** Aaron Nola (V) vs Colin Rea (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.7%
+**Probabilidad de que anoten en la primera entrada:** 33.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 18.2% (2/11 partidos)
+- **Estadística base YRFI:** 16.7% (2/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Tobias Myers):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 11.4%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 10.7%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 33.3% (4/12 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 33.3% (2/6 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Javier Assad):** 0.0% (1/2 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 0.0% (0/1 partidos)
 - **Puntuación ajustada:** 25.2%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-19 14:34:21
+- **Generado el:** 2026-04-20 15:09:46
 - **Fuente de datos:** season_data.json

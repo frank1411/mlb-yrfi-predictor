@@ -1,0 +1,67 @@
+{
+  "game_pk": 822749,
+  "game_date": "2026-04-20",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "4/9"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 40.67,
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 50.0,
+        "ratio": "5/10"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.44444444444444,
+        "tendency": 40.0,
+        "combined": 42.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.87
+      },
+      "away_team": {
+        "base": 50.0,
+        "tendency": 26.666666666666668,
+        "combined": 40.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 58.47
+      },
+      "game_yrfi_probability": 70.88
+    },
+    "yrfi_probability": 70.88
+  },
+  "metadata": {
+    "generated_at": "2026-04-20T15:09:46.218028",
+    "data_source": "season_data.json"
+  }
+}

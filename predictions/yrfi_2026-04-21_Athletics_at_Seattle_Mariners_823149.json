@@ -1,38 +1,38 @@
 {
-  "game_pk": 824047,
-  "game_date": "2026-04-19",
+  "game_pk": 823149,
+  "game_date": "2026-04-21",
   "home_team": {
-    "id": "108",
-    "name": "Los Angeles Angels",
+    "id": "136",
+    "name": "Seattle Mariners",
     "pitcher": {
-      "name": "Reid Detmers",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
-    },
-    "stats": {
-      "base": {
-        "value": 50.0,
-        "ratio": "4/8"
-      },
-      "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
-      }
-    }
-  },
-  "away_team": {
-    "id": "135",
-    "name": "San Diego Padres",
-    "combined_yrfi_pct": 2.67,
-    "pitcher": {
-      "name": "Michael King",
+      "name": "Emerson Hancock",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
+        "value": 50.0,
+        "ratio": "7/14"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 2.67,
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
         "value": 0.0,
-        "ratio": "0/8"
+        "ratio": "0/12"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -44,24 +44,24 @@
     "calculation": {
       "home_team": {
         "base": 50.0,
-        "tendency": 46.666666666666664,
-        "combined": 48.67,
+        "tendency": 53.333333333333336,
+        "combined": 51.33,
         "pitcher_impact": 0.0,
-        "adjusted": 34.07
+        "adjusted": 35.93
       },
       "away_team": {
         "base": 0.0,
         "tendency": 6.666666666666667,
         "combined": 2.67,
-        "pitcher_impact": 50.0,
-        "adjusted": 16.87
+        "pitcher_impact": 0.0,
+        "adjusted": 1.87
       },
-      "game_yrfi_probability": 45.19
+      "game_yrfi_probability": 37.13
     },
-    "yrfi_probability": 45.19
+    "yrfi_probability": 37.13
   },
   "metadata": {
-    "generated_at": "2026-04-19T14:34:21.320920",
+    "generated_at": "2026-04-20T15:09:46.233214",
     "data_source": "season_data.json"
   }
 }

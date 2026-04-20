@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Colorado Rockies
 
-**Fecha:** 2026-04-19  
-**Lanzadores:** Roki Sasaki (V) vs Michael Lorenzen (L)
+**Fecha:** 2026-04-21  
+**Lanzadores:** Justin Wrobleski (V) vs Jose Quintana (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.2%
+**Probabilidad de que anoten en la primera entrada:** 69.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 37.5% (3/8 partidos)
+- **Estadística base YRFI:** 33.3% (3/9 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.1%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Justin Wrobleski):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 53.3%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 50.0% (4/8 partidos)
+- **Estadística base YRFI:** 44.4% (4/9 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Michael Lorenzen):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 50.9%
+- **Impacto del lanzador local (Colorado Rockies - Jose Quintana):** 0.0% (2/2 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-19 14:34:21
+- **Generado el:** 2026-04-20 15:09:46
 - **Fuente de datos:** season_data.json

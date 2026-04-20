@@ -1,18 +1,18 @@
 {
-  "game_pk": 824691,
-  "game_date": "2026-04-19",
+  "game_pk": 824692,
+  "game_date": "2026-04-20",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Javier Assad",
+      "name": "Colin Rea",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/2"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 18.181818181818183,
-        "ratio": "2/11"
+        "value": 16.666666666666664,
+        "ratio": "2/12"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "121",
-    "name": "New York Mets",
+    "id": "143",
+    "name": "Philadelphia Phillies",
     "combined_yrfi_pct": 36.0,
     "pitcher": {
-      "name": "Tobias Myers",
+      "name": "Aaron Nola",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
         "value": 33.33333333333333,
-        "ratio": "4/12"
+        "ratio": "2/6"
       },
       "tendency": {
         "value": 40.0,
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 18.181818181818183,
+        "base": 16.666666666666664,
         "tendency": 13.333333333333334,
-        "combined": 16.24,
+        "combined": 15.33,
         "pitcher_impact": 0.0,
-        "adjusted": 11.37
+        "adjusted": 10.73
       },
       "away_team": {
         "base": 33.33333333333333,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 25.2
       },
-      "game_yrfi_probability": 33.7
+      "game_yrfi_probability": 33.23
     },
-    "yrfi_probability": 33.7
+    "yrfi_probability": 33.23
   },
   "metadata": {
-    "generated_at": "2026-04-19T14:34:21.314849",
+    "generated_at": "2026-04-20T15:09:46.224934",
     "data_source": "season_data.json"
   }
 }
