@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Miami Marlins
 
-**Fecha:** 2026-04-20  
-**Lanzadores:** Michael McGreevy (V) vs Max Meyer (L)
+**Fecha:** 2026-04-21  
+**Lanzadores:** Dustin May (V) vs Chris Paddack (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.2%
+**Probabilidad de que anoten en la primera entrada:** 64.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 38.5% (5/13 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Estadística base YRFI:** 35.7% (5/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Dustin May):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 54.3%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 33.3% (3/9 partidos)
+- **Estadística base YRFI:** 30.0% (3/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Max Meyer):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.3%
+- **Impacto del lanzador local (Miami Marlins - Chris Paddack):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-20 15:09:46
+- **Generado el:** 2026-04-21 15:04:52
 - **Fuente de datos:** season_data.json

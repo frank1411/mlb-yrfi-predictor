@@ -1,0 +1,67 @@
+{
+  "game_pk": 822914,
+  "game_date": "2026-04-22",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 16.666666666666664,
+        "ratio": "1/6"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 42.67,
+    "pitcher": {
+      "name": "Carmen Mlodzinski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "4/9"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 16.666666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 23.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.33
+      },
+      "away_team": {
+        "base": 44.44444444444444,
+        "tendency": 40.0,
+        "combined": 42.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 44.87
+      },
+      "game_yrfi_probability": 53.87
+    },
+    "yrfi_probability": 53.87
+  },
+  "metadata": {
+    "generated_at": "2026-04-21T15:04:52.503473",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822747,
+  "game_date": "2026-04-21",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Foster Griffin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 50.0,
+        "ratio": "5/10"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 37.94,
+    "pitcher": {
+      "name": "Reynaldo López",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 45.45454545454545,
+        "ratio": "5/11"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 50.0,
+        "tendency": 46.666666666666664,
+        "combined": 48.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 49.07
+      },
+      "away_team": {
+        "base": 45.45454545454545,
+        "tendency": 26.666666666666668,
+        "combined": 37.94,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.56
+      },
+      "game_yrfi_probability": 62.6
+    },
+    "yrfi_probability": 62.6
+  },
+  "metadata": {
+    "generated_at": "2026-04-21T15:04:52.493752",
+    "data_source": "season_data.json"
+  }
+}

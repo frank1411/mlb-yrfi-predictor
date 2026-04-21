@@ -1,0 +1,67 @@
+{
+  "game_pk": 825099,
+  "game_date": "2026-04-22",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "4/10"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 29.13,
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "4/13"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 33.33333333333333,
+        "combined": 37.33,
+        "pitcher_impact": 100.0,
+        "adjusted": 56.13
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 26.666666666666668,
+        "combined": 29.13,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.39
+      },
+      "game_yrfi_probability": 65.08
+    },
+    "yrfi_probability": 65.08
+  },
+  "metadata": {
+    "generated_at": "2026-04-21T15:04:52.512883",
+    "data_source": "season_data.json"
+  }
+}

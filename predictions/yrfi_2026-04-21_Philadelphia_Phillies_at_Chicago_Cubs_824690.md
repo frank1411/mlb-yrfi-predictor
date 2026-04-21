@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Chicago Cubs
 
-**Fecha:** 2026-04-20  
-**Lanzadores:** Aaron Nola (V) vs Colin Rea (L)
+**Fecha:** 2026-04-21  
+**Lanzadores:** Jesús Luzardo (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.2%
+**Probabilidad de que anoten en la primera entrada:** 42.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 16.7% (2/12 partidos)
+- **Estadística base YRFI:** 15.4% (2/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 10.7%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 10.2%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 33.3% (2/6 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Estadística base YRFI:** 28.6% (2/7 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 36.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-20 15:09:46
+- **Generado el:** 2026-04-21 15:04:52
 - **Fuente de datos:** season_data.json

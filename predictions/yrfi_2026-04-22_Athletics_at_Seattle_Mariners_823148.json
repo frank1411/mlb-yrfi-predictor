@@ -1,38 +1,38 @@
 {
-  "game_pk": 824125,
-  "game_date": "2026-04-20",
+  "game_pk": 823148,
+  "game_date": "2026-04-22",
   "home_team": {
-    "id": "118",
-    "name": "Kansas City Royals",
+    "id": "136",
+    "name": "Seattle Mariners",
     "pitcher": {
-      "name": "Seth Lugo",
+      "name": "Luis Castillo",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 10.0,
-        "ratio": "1/10"
+        "value": 53.333333333333336,
+        "ratio": "8/15"
       },
       "tendency": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 60.0,
+        "ratio": "9/15"
       }
     }
   },
   "away_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
+    "id": "133",
+    "name": "Athletics",
     "combined_yrfi_pct": 2.67,
     "pitcher": {
-      "name": "Kyle Bradish",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
     },
     "stats": {
       "base": {
         "value": 0.0,
-        "ratio": "0/10"
+        "ratio": "0/13"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 10.0,
-        "tendency": 6.666666666666667,
-        "combined": 8.67,
-        "pitcher_impact": 0.0,
-        "adjusted": 6.07
+        "base": 53.333333333333336,
+        "tendency": 60.0,
+        "combined": 56.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 69.2
       },
       "away_team": {
         "base": 0.0,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 1.87
       },
-      "game_yrfi_probability": 7.83
+      "game_yrfi_probability": 69.78
     },
-    "yrfi_probability": 7.83
+    "yrfi_probability": 69.78
   },
   "metadata": {
-    "generated_at": "2026-04-20T15:09:46.221491",
+    "generated_at": "2026-04-21T15:04:52.510033",
     "data_source": "season_data.json"
   }
 }

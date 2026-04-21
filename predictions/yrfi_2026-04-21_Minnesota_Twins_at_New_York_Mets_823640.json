@@ -1,0 +1,67 @@
+{
+  "game_pk": 823640,
+  "game_date": "2026-04-21",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Nolan McLean",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "4/9"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 25.33,
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 11.11111111111111,
+        "ratio": "1/9"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.44444444444444,
+        "tendency": 33.33333333333333,
+        "combined": 40.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.0
+      },
+      "away_team": {
+        "base": 11.11111111111111,
+        "tendency": 46.666666666666664,
+        "combined": 25.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.73
+      },
+      "game_yrfi_probability": 51.57
+    },
+    "yrfi_probability": 51.57
+  },
+  "metadata": {
+    "generated_at": "2026-04-21T15:04:52.497905",
+    "data_source": "season_data.json"
+  }
+}

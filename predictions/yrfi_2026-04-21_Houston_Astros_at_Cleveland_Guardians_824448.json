@@ -1,0 +1,67 @@
+{
+  "game_pk": 824448,
+  "game_date": "2026-04-21",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "3/11"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 29.7,
+    "pitcher": {
+      "name": "Ryan Weiss",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "3/11"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.27272727272727,
+        "tendency": 46.666666666666664,
+        "combined": 35.03,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.52
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 33.33333333333333,
+        "combined": 29.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.79
+      },
+      "game_yrfi_probability": 40.21
+    },
+    "yrfi_probability": 40.21
+  },
+  "metadata": {
+    "generated_at": "2026-04-21T15:04:52.480616",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Kansas City Royals
 
-**Fecha:** 2026-04-20  
-**Lanzadores:** Kyle Bradish (V) vs Seth Lugo (L)
+**Fecha:** 2026-04-21  
+**Lanzadores:** Shane Baz (V) vs Kris Bubic (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 7.8%
+**Probabilidad de que anoten en la primera entrada:** 30.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 10.0% (1/10 partidos)
+- **Estadística base YRFI:** 9.1% (1/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 6.1%
+- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 0.0% (0/10 partidos)
+- **Estadística base YRFI:** 0.0% (0/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 1.9%
+- **Impacto del lanzador local (Kansas City Royals - Kris Bubic):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 11.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-20 15:09:46
+- **Generado el:** 2026-04-21 15:04:52
 - **Fuente de datos:** season_data.json
