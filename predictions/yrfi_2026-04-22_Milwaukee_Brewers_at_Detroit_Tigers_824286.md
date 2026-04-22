@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Boston Red Sox
+# Análisis YRFI: Milwaukee Brewers @ Detroit Tigers
 
-**Fecha:** 2026-04-21  
-**Lanzadores:** Luis Gil (V) vs Connelly Early (L)
+**Fecha:** 2026-04-22  
+**Lanzadores:** Chad Patrick (V) vs Casey Mize (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.2%
+**Probabilidad de que anoten en la primera entrada:** 31.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 30.0% (3/10 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Milwaukee Brewers - Chad Patrick):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.1%
+
+### Milwaukee Brewers (Visitante)
 - **Estadística base YRFI:** 20.0% (2/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Luis Gil):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 44.0%
-
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 33.3% (3/9 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Connelly Early):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 27.1%
+- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 14.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-21 15:04:52
+- **Generado el:** 2026-04-22 15:04:35
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 825099,
-  "game_date": "2026-04-22",
+  "game_pk": 825097,
+  "game_date": "2026-04-23",
   "home_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
     "pitcher": {
-      "name": "Merrill Kelly",
+      "name": "Eduardo Rodriguez",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 40.0,
-        "ratio": "4/10"
+        "value": 36.36363636363637,
+        "ratio": "4/11"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "145",
     "name": "Chicago White Sox",
-    "combined_yrfi_pct": 29.13,
+    "combined_yrfi_pct": 32.1,
     "pitcher": {
-      "name": "Sean Burke",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Anthony Kay",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 30.76923076923077,
-        "ratio": "4/13"
+        "value": 35.714285714285715,
+        "ratio": "5/14"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 40.0,
+        "base": 36.36363636363637,
         "tendency": 33.33333333333333,
-        "combined": 37.33,
-        "pitcher_impact": 100.0,
-        "adjusted": 56.13
+        "combined": 35.15,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.61
       },
       "away_team": {
-        "base": 30.76923076923077,
+        "base": 35.714285714285715,
         "tendency": 26.666666666666668,
-        "combined": 29.13,
+        "combined": 32.1,
         "pitcher_impact": 0.0,
-        "adjusted": 20.39
+        "adjusted": 22.47
       },
-      "game_yrfi_probability": 65.08
+      "game_yrfi_probability": 53.18
     },
-    "yrfi_probability": 65.08
+    "yrfi_probability": 53.18
   },
   "metadata": {
-    "generated_at": "2026-04-21T15:04:52.512883",
+    "generated_at": "2026-04-22T15:04:35.814622",
     "data_source": "season_data.json"
   }
 }

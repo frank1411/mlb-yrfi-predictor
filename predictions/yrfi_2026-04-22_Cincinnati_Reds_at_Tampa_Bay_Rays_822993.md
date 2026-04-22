@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Tampa Bay Rays
 
-**Fecha:** 2026-04-21  
-**Lanzadores:** Chase Burns (V) vs Steven Matz (L)
+**Fecha:** 2026-04-22  
+**Lanzadores:** Brandon Williamson (V) vs Nick Martinez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.9%
+**Probabilidad de que anoten en la primera entrada:** 41.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 42.9% (3/7 partidos)
+- **Estadística base YRFI:** 37.5% (3/8 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.5%
+- **Impacto del lanzador visitante (Cincinnati Reds - Brandon Williamson):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 23.2%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 27.3% (3/11 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Steven Matz):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 48.9%
+- **Estadística base YRFI:** 33.3% (4/12 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Nick Martinez):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-21 15:04:52
+- **Generado el:** 2026-04-22 15:04:35
 - **Fuente de datos:** season_data.json

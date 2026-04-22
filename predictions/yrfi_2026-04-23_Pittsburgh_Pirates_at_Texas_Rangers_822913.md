@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ New York Mets
+# Análisis YRFI: Pittsburgh Pirates @ Texas Rangers
 
-**Fecha:** 2026-04-21  
-**Lanzadores:** Simeon Woods Richardson (V) vs Nolan McLean (L)
+**Fecha:** 2026-04-23  
+**Lanzadores:** Braxton Ashcraft (V) vs Jack Leiter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.6%
+**Probabilidad de que anoten en la primera entrada:** 44.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 44.4% (4/9 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 14.3% (1/7 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Simeon Woods Richardson):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 15.3%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 11.1% (1/9 partidos)
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 50.0% (5/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (New York Mets - Nolan McLean):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.7%
+- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 34.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-21 15:04:52
+- **Generado el:** 2026-04-22 15:04:35
 - **Fuente de datos:** season_data.json

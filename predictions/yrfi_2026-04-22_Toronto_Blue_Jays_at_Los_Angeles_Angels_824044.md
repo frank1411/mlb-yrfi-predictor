@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Los Angeles Angels
 
 **Fecha:** 2026-04-22  
-**Lanzadores:** Patrick Corbin (V) vs Jack Kochanowicz (L)
+**Lanzadores:** Eric Lauer (V) vs José Soriano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.8%
+**Probabilidad de que anoten en la primera entrada:** 75.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 50.0% (5/10 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Patrick Corbin):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 34.1%
+- **Estadística base YRFI:** 45.5% (5/11 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Eric Lauer):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 60.3%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 30.0% (3/10 partidos)
+- **Estadística base YRFI:** 27.3% (3/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Jack Kochanowicz):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Impacto del lanzador local (Los Angeles Angels - José Soriano):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 37.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-21 15:04:52
+- **Generado el:** 2026-04-22 15:04:35
 - **Fuente de datos:** season_data.json

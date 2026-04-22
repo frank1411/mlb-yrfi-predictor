@@ -1,18 +1,18 @@
 {
-  "game_pk": 824369,
+  "game_pk": 823878,
   "game_date": "2026-04-22",
   "home_team": {
-    "id": "115",
-    "name": "Colorado Rockies",
+    "id": "146",
+    "name": "Miami Marlins",
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Janson Junk",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
         "value": 40.0,
-        "ratio": "4/10"
+        "ratio": "6/15"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,22 +21,22 @@
     }
   },
   "away_team": {
-    "id": "135",
-    "name": "San Diego Padres",
-    "combined_yrfi_pct": 2.67,
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 37.82,
     "pitcher": {
-      "name": "Randy Vásquez",
+      "name": "Kyle Leahy",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 0.0,
-        "ratio": "0/9"
+        "value": 36.36363636363637,
+        "ratio": "4/11"
       },
       "tendency": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
@@ -50,18 +50,18 @@
         "adjusted": 26.13
       },
       "away_team": {
-        "base": 0.0,
-        "tendency": 6.666666666666667,
-        "combined": 2.67,
-        "pitcher_impact": 50.0,
-        "adjusted": 16.87
+        "base": 36.36363636363637,
+        "tendency": 40.0,
+        "combined": 37.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.47
       },
-      "game_yrfi_probability": 38.59
+      "game_yrfi_probability": 45.68
     },
-    "yrfi_probability": 38.59
+    "yrfi_probability": 45.68
   },
   "metadata": {
-    "generated_at": "2026-04-21T15:04:52.504957",
+    "generated_at": "2026-04-22T15:04:35.787078",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Chicago Cubs
 
-**Fecha:** 2026-04-21  
-**Lanzadores:** Jesús Luzardo (V) vs Shota Imanaga (L)
+**Fecha:** 2026-04-22  
+**Lanzadores:** Kyle Backhus (V) vs Matthew Boyd (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.8%
+**Probabilidad de que anoten en la primera entrada:** 27.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 15.4% (2/13 partidos)
+- **Estadística base YRFI:** 14.3% (2/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 10.2%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Kyle Backhus):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 9.7%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 28.6% (2/7 partidos)
+- **Estadística base YRFI:** 25.0% (2/8 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.3%
+- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-21 15:04:52
+- **Generado el:** 2026-04-22 15:04:35
 - **Fuente de datos:** season_data.json

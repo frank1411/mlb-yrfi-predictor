@@ -1,18 +1,18 @@
 {
-  "game_pk": 824690,
-  "game_date": "2026-04-21",
+  "game_pk": 824688,
+  "game_date": "2026-04-22",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Shota Imanaga",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 15.384615384615385,
-        "ratio": "2/13"
+        "value": 14.285714285714285,
+        "ratio": "2/14"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
-    "combined_yrfi_pct": 30.48,
+    "combined_yrfi_pct": 28.33,
     "pitcher": {
-      "name": "Jesús Luzardo",
+      "name": "Kyle Backhus",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 28.57142857142857,
-        "ratio": "2/7"
+        "value": 25.0,
+        "ratio": "2/8"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 15.384615384615385,
+        "base": 14.285714285714285,
         "tendency": 13.333333333333334,
-        "combined": 14.56,
+        "combined": 13.9,
         "pitcher_impact": 0.0,
-        "adjusted": 10.19
+        "adjusted": 9.73
       },
       "away_team": {
-        "base": 28.57142857142857,
+        "base": 25.0,
         "tendency": 33.33333333333333,
-        "combined": 30.48,
-        "pitcher_impact": 50.0,
-        "adjusted": 36.33
+        "combined": 28.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.83
       },
-      "game_yrfi_probability": 42.82
+      "game_yrfi_probability": 27.63
     },
-    "yrfi_probability": 42.82
+    "yrfi_probability": 27.63
   },
   "metadata": {
-    "generated_at": "2026-04-21T15:04:52.502013",
+    "generated_at": "2026-04-22T15:04:35.808457",
     "data_source": "season_data.json"
   }
 }

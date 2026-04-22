@@ -1,0 +1,67 @@
+{
+  "game_pk": 822748,
+  "game_date": "2026-04-22",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Zack Littell",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 54.54545454545454,
+        "ratio": "6/11"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 35.67,
+    "pitcher": {
+      "name": "Didier Fuentes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "5/12"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 54.54545454545454,
+        "tendency": 53.333333333333336,
+        "combined": 54.06,
+        "pitcher_impact": 0.0,
+        "adjusted": 37.84
+      },
+      "away_team": {
+        "base": 41.66666666666667,
+        "tendency": 26.666666666666668,
+        "combined": 35.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.97
+      },
+      "game_yrfi_probability": 53.36
+    },
+    "yrfi_probability": 53.36
+  },
+  "metadata": {
+    "generated_at": "2026-04-22T15:04:35.802266",
+    "data_source": "season_data.json"
+  }
+}

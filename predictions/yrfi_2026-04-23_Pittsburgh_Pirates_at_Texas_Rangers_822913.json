@@ -1,0 +1,67 @@
+{
+  "game_pk": 822913,
+  "game_date": "2026-04-23",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 14.285714285714285,
+        "ratio": "1/7"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 48.67,
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 50.0,
+        "ratio": "5/10"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 14.285714285714285,
+        "tendency": 33.33333333333333,
+        "combined": 21.9,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.33
+      },
+      "away_team": {
+        "base": 50.0,
+        "tendency": 46.666666666666664,
+        "combined": 48.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 34.07
+      },
+      "game_yrfi_probability": 44.18
+    },
+    "yrfi_probability": 44.18
+  },
+  "metadata": {
+    "generated_at": "2026-04-22T15:04:35.810543",
+    "data_source": "season_data.json"
+  }
+}

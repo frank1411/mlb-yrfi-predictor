@@ -1,38 +1,38 @@
 {
-  "game_pk": 824448,
-  "game_date": "2026-04-21",
+  "game_pk": 824449,
+  "game_date": "2026-04-22",
   "home_team": {
     "id": "114",
     "name": "Cleveland Guardians",
     "pitcher": {
-      "name": "Parker Messick",
+      "name": "Tanner Bibee",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 27.27272727272727,
-        "ratio": "3/11"
+        "value": 33.33333333333333,
+        "ratio": "4/12"
       },
       "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
+        "value": 53.333333333333336,
+        "ratio": "8/15"
       }
     }
   },
   "away_team": {
     "id": "117",
     "name": "Houston Astros",
-    "combined_yrfi_pct": 29.7,
+    "combined_yrfi_pct": 28.33,
     "pitcher": {
-      "name": "Ryan Weiss",
+      "name": "Peter Lambert",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 27.27272727272727,
-        "ratio": "3/11"
+        "value": 25.0,
+        "ratio": "3/12"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 27.27272727272727,
-        "tendency": 46.666666666666664,
-        "combined": 35.03,
+        "base": 33.33333333333333,
+        "tendency": 53.333333333333336,
+        "combined": 41.33,
         "pitcher_impact": 0.0,
-        "adjusted": 24.52
+        "adjusted": 28.93
       },
       "away_team": {
-        "base": 27.27272727272727,
+        "base": 25.0,
         "tendency": 33.33333333333333,
-        "combined": 29.7,
+        "combined": 28.33,
         "pitcher_impact": 0.0,
-        "adjusted": 20.79
+        "adjusted": 19.83
       },
-      "game_yrfi_probability": 40.21
+      "game_yrfi_probability": 43.02
     },
-    "yrfi_probability": 40.21
+    "yrfi_probability": 43.02
   },
   "metadata": {
-    "generated_at": "2026-04-21T15:04:52.480616",
+    "generated_at": "2026-04-22T15:04:35.789402",
     "data_source": "season_data.json"
   }
 }

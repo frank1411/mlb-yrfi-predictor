@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Colorado Rockies
+# Análisis YRFI: St. Louis Cardinals @ Miami Marlins
 
 **Fecha:** 2026-04-22  
-**Lanzadores:** Randy Vásquez (V) vs Por anunciar (L)
+**Lanzadores:** Kyle Leahy (V) vs Janson Junk (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.6%
+**Probabilidad de que anoten en la primera entrada:** 45.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 40.0% (4/10 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 40.0% (6/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 0.0% (0/1 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Kyle Leahy):** 0.0% (0/2 partidos)
 - **Puntuación ajustada:** 26.1%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 0.0% (0/9 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.9%
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 36.4% (4/11 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 26.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-21 15:04:52
+- **Generado el:** 2026-04-22 15:04:35
 - **Fuente de datos:** season_data.json

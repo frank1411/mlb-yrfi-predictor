@@ -1,38 +1,38 @@
 {
-  "game_pk": 823148,
+  "game_pk": 824123,
   "game_date": "2026-04-22",
   "home_team": {
-    "id": "136",
-    "name": "Seattle Mariners",
+    "id": "118",
+    "name": "Kansas City Royals",
     "pitcher": {
-      "name": "Luis Castillo",
+      "name": "Michael Wacha",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 53.333333333333336,
-        "ratio": "8/15"
+        "value": 8.333333333333332,
+        "ratio": "1/12"
       },
       "tendency": {
-        "value": 60.0,
-        "ratio": "9/15"
+        "value": 6.666666666666667,
+        "ratio": "1/15"
       }
     }
   },
   "away_team": {
-    "id": "133",
-    "name": "Athletics",
+    "id": "110",
+    "name": "Baltimore Orioles",
     "combined_yrfi_pct": 2.67,
     "pitcher": {
-      "name": "Jacob Lopez",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "2/2"
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
         "value": 0.0,
-        "ratio": "0/13"
+        "ratio": "0/12"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 53.333333333333336,
-        "tendency": 60.0,
-        "combined": 56.0,
-        "pitcher_impact": 100.0,
-        "adjusted": 69.2
+        "base": 8.333333333333332,
+        "tendency": 6.666666666666667,
+        "combined": 7.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 20.37
       },
       "away_team": {
         "base": 0.0,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 1.87
       },
-      "game_yrfi_probability": 69.78
+      "game_yrfi_probability": 21.86
     },
-    "yrfi_probability": 69.78
+    "yrfi_probability": 21.86
   },
   "metadata": {
-    "generated_at": "2026-04-21T15:04:52.510033",
+    "generated_at": "2026-04-22T15:04:35.793785",
     "data_source": "season_data.json"
   }
 }
