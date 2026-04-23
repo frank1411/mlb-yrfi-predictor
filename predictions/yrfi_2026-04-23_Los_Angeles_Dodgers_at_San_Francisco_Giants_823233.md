@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ San Francisco Giants
 
 **Fecha:** 2026-04-23  
-**Lanzadores:** Shohei Ohtani (V) vs Tyler Mahle (L)
+**Lanzadores:** Tyler Glasnow (V) vs Logan Webb (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.7%
+**Probabilidad de que anoten en la primera entrada:** 37.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 27.3% (3/11 partidos)
+- **Estadística base YRFI:** 25.0% (3/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Shohei Ohtani):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 15.2%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 14.2%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 36.4% (4/11 partidos)
+- **Estadística base YRFI:** 33.3% (4/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Tyler Mahle):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 38.3%
+- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-22 15:04:35
+- **Generado el:** 2026-04-23 15:30:17
 - **Fuente de datos:** season_data.json

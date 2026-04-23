@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Boston Red Sox
 
-**Fecha:** 2026-04-22  
-**Lanzadores:** Max Fried (V) vs Ranger Suarez (L)
+**Fecha:** 2026-04-23  
+**Lanzadores:** Cam Schlittler (V) vs Payton Tolle (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.5%
+**Probabilidad de que anoten en la primera entrada:** 44.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 18.2% (2/11 partidos)
+- **Estadística base YRFI:** 16.7% (2/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 13.2%
+- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 30.0% (3/10 partidos)
+- **Estadística base YRFI:** 36.4% (4/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Ranger Suarez):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.7%
+- **Impacto del lanzador local (Boston Red Sox - Payton Tolle):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-22 15:04:35
+- **Generado el:** 2026-04-23 15:30:17
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822912,
+  "game_date": "2026-04-24",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jacob deGrom",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 12.5,
+        "ratio": "1/8"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 51.39,
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 54.54545454545454,
+        "ratio": "6/11"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 12.5,
+        "tendency": 33.33333333333333,
+        "combined": 20.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.58
+      },
+      "away_team": {
+        "base": 54.54545454545454,
+        "tendency": 46.666666666666664,
+        "combined": 51.39,
+        "pitcher_impact": 100.0,
+        "adjusted": 65.98
+      },
+      "game_yrfi_probability": 70.94
+    },
+    "yrfi_probability": 70.94
+  },
+  "metadata": {
+    "generated_at": "2026-04-23T15:30:17.647562",
+    "data_source": "season_data.json"
+  }
+}

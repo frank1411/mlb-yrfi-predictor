@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Arizona Diamondbacks
 
 **Fecha:** 2026-04-23  
-**Lanzadores:** Anthony Kay (V) vs Eduardo Rodriguez (L)
+**Lanzadores:** Davis Martin (V) vs Michael Soroka (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.2%
+**Probabilidad de que anoten en la primera entrada:** 41.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 36.4% (4/11 partidos)
+- **Estadística base YRFI:** 33.3% (4/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 39.6%
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 35.7% (5/14 partidos)
+- **Estadística base YRFI:** 40.0% (6/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador local (Arizona Diamondbacks - Michael Soroka):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-22 15:04:35
+- **Generado el:** 2026-04-23 15:30:17
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Detroit Tigers
 
-**Fecha:** 2026-04-22  
-**Lanzadores:** Chad Patrick (V) vs Casey Mize (L)
+**Fecha:** 2026-04-23  
+**Lanzadores:** Brandon Sproat (V) vs Tarik Skubal (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.3%
+**Probabilidad de que anoten en la primera entrada:** 28.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 30.0% (3/10 partidos)
+- **Estadística base YRFI:** 27.3% (3/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Chad Patrick):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Brandon Sproat):** 0.0% (1/2 partidos)
+- **Puntuación ajustada:** 18.9%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 20.0% (2/10 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.0%
+- **Estadística base YRFI:** 18.2% (2/11 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 11.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-22 15:04:35
+- **Generado el:** 2026-04-23 15:30:17
 - **Fuente de datos:** season_data.json
