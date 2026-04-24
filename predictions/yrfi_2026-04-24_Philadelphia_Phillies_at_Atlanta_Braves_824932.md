@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Chicago Cubs
+# Análisis YRFI: Philadelphia Phillies @ Atlanta Braves
 
-**Fecha:** 2026-04-23  
-**Lanzadores:** Cristopher Sánchez (V) vs Edward Cabrera (L)
+**Fecha:** 2026-04-24  
+**Lanzadores:** Andrew Painter (V) vs Grant Holmes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.4%
+**Probabilidad de que anoten en la primera entrada:** 29.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 20.0% (3/15 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 25.0% (3/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 44.0%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Andrew Painter):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 16.1%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 22.2% (2/9 partidos)
+- **Estadística base YRFI:** 20.0% (2/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Edward Cabrera):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 16.8%
+- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-23 15:30:17
+- **Generado el:** 2026-04-24 15:01:23
 - **Fuente de datos:** season_data.json

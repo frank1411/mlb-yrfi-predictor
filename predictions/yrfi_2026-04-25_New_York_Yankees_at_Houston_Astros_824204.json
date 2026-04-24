@@ -1,33 +1,33 @@
 {
-  "game_pk": 823233,
-  "game_date": "2026-04-23",
+  "game_pk": 824204,
+  "game_date": "2026-04-25",
   "home_team": {
-    "id": "137",
-    "name": "San Francisco Giants",
+    "id": "117",
+    "name": "Houston Astros",
     "pitcher": {
-      "name": "Logan Webb",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "Lance McCullers Jr.",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "3/12"
+        "value": 53.84615384615385,
+        "ratio": "7/13"
       },
       "tendency": {
-        "value": 13.333333333333334,
-        "ratio": "2/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
-    "id": "119",
-    "name": "Los Angeles Dodgers",
+    "id": "147",
+    "name": "New York Yankees",
     "combined_yrfi_pct": 38.67,
     "pitcher": {
-      "name": "Tyler Glasnow",
+      "name": "Will Warren",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.0,
-        "tendency": 13.333333333333334,
-        "combined": 20.33,
+        "base": 53.84615384615385,
+        "tendency": 33.33333333333333,
+        "combined": 45.64,
         "pitcher_impact": 0.0,
-        "adjusted": 14.23
+        "adjusted": 31.95
       },
       "away_team": {
         "base": 33.33333333333333,
         "tendency": 46.666666666666664,
         "combined": 38.67,
-        "pitcher_impact": 0.0,
-        "adjusted": 27.07
+        "pitcher_impact": 50.0,
+        "adjusted": 42.07
       },
-      "game_yrfi_probability": 37.45
+      "game_yrfi_probability": 60.58
     },
-    "yrfi_probability": 37.45
+    "yrfi_probability": 60.58
   },
   "metadata": {
-    "generated_at": "2026-04-23T15:30:17.641427",
+    "generated_at": "2026-04-24T15:01:23.320665",
     "data_source": "season_data.json"
   }
 }

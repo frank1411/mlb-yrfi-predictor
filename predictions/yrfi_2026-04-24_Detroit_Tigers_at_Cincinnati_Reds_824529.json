@@ -1,0 +1,67 @@
+{
+  "game_pk": 824529,
+  "game_date": "2026-04-24",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "3/12"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 26.19,
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "3/14"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 39.83
+      },
+      "away_team": {
+        "base": 21.428571428571427,
+        "tendency": 33.33333333333333,
+        "combined": 26.19,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 38.33
+      },
+      "game_yrfi_probability": 62.89
+    },
+    "yrfi_probability": 62.89
+  },
+  "metadata": {
+    "generated_at": "2026-04-24T15:01:23.297485",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823962,
+  "game_date": "2026-04-25",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "4/12"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 14.67,
+    "pitcher": {
+      "name": "Jameson Taillon",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 11.11111111111111,
+        "ratio": "1/9"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.2
+      },
+      "away_team": {
+        "base": 11.11111111111111,
+        "tendency": 20.0,
+        "combined": 14.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 25.27
+      },
+      "game_yrfi_probability": 44.1
+    },
+    "yrfi_probability": 44.1
+  },
+  "metadata": {
+    "generated_at": "2026-04-24T15:01:23.325241",
+    "data_source": "season_data.json"
+  }
+}

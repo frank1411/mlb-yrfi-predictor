@@ -1,18 +1,18 @@
 {
-  "game_pk": 824689,
-  "game_date": "2026-04-23",
+  "game_pk": 824932,
+  "game_date": "2026-04-24",
   "home_team": {
-    "id": "112",
-    "name": "Chicago Cubs",
+    "id": "144",
+    "name": "Atlanta Braves",
     "pitcher": {
-      "name": "Edward Cabrera",
+      "name": "Grant Holmes",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 25.0,
+        "ratio": "3/12"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
-    "combined_yrfi_pct": 24.0,
+    "combined_yrfi_pct": 22.67,
     "pitcher": {
-      "name": "Cristopher Sánchez",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Andrew Painter",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 22.22222222222222,
-        "ratio": "2/9"
+        "value": 20.0,
+        "ratio": "2/10"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 20.0,
+        "base": 25.0,
         "tendency": 20.0,
-        "combined": 20.0,
-        "pitcher_impact": 100.0,
-        "adjusted": 44.0
+        "combined": 23.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.1
       },
       "away_team": {
-        "base": 22.22222222222222,
+        "base": 20.0,
         "tendency": 26.666666666666668,
-        "combined": 24.0,
+        "combined": 22.67,
         "pitcher_impact": 0.0,
-        "adjusted": 16.8
+        "adjusted": 15.87
       },
-      "game_yrfi_probability": 53.41
+      "game_yrfi_probability": 29.41
     },
-    "yrfi_probability": 53.41
+    "yrfi_probability": 29.41
   },
   "metadata": {
-    "generated_at": "2026-04-23T15:30:17.632592",
+    "generated_at": "2026-04-24T15:01:23.308992",
     "data_source": "season_data.json"
   }
 }

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824124,
+  "game_date": "2026-04-24",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Noah Cameron",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 15.384615384615385,
+        "ratio": "2/13"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 30.48,
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "4/14"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 15.384615384615385,
+        "tendency": 13.333333333333334,
+        "combined": 14.56,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 30.19
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 33.33333333333333,
+        "combined": 30.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.33
+      },
+      "game_yrfi_probability": 45.08
+    },
+    "yrfi_probability": 45.08
+  },
+  "metadata": {
+    "generated_at": "2026-04-24T15:01:23.311330",
+    "data_source": "season_data.json"
+  }
+}

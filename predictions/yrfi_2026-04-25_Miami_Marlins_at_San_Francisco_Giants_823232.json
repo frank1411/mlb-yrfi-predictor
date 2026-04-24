@@ -1,0 +1,67 @@
+{
+  "game_pk": 823232,
+  "game_date": "2026-04-25",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Adrian Houser",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "3/13"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 40.0,
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "4/9"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.076923076923077,
+        "tendency": 13.333333333333334,
+        "combined": 19.18,
+        "pitcher_impact": 100.0,
+        "adjusted": 43.43
+      },
+      "away_team": {
+        "base": 44.44444444444444,
+        "tendency": 33.33333333333333,
+        "combined": 40.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.0
+      },
+      "game_yrfi_probability": 59.27
+    },
+    "yrfi_probability": 59.27
+  },
+  "metadata": {
+    "generated_at": "2026-04-24T15:01:23.327657",
+    "data_source": "season_data.json"
+  }
+}
