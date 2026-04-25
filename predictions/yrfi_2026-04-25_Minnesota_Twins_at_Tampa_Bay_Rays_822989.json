@@ -1,0 +1,67 @@
+{
+  "game_pk": 822989,
+  "game_date": "2026-04-25",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Shane McClanahan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "4/10"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 30.56,
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 15.384615384615385,
+        "ratio": "2/13"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 33.33333333333333,
+        "combined": 37.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.13
+      },
+      "away_team": {
+        "base": 15.384615384615385,
+        "tendency": 53.333333333333336,
+        "combined": 30.56,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.39
+      },
+      "game_yrfi_probability": 41.93
+    },
+    "yrfi_probability": 41.93
+  },
+  "metadata": {
+    "generated_at": "2026-04-25T14:36:05.249790",
+    "data_source": "season_data.json"
+  }
+}

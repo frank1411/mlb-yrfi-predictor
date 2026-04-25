@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ San Francisco Giants
 
 **Fecha:** 2026-04-25  
-**Lanzadores:** Sandy Alcantara (V) vs Adrian Houser (L)
+**Lanzadores:** Eury Pérez (V) vs Robbie Ray (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.3%
+**Probabilidad de que anoten en la primera entrada:** 58.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 23.1% (3/13 partidos)
+- **Estadística base YRFI:** 21.4% (3/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 43.4%
+- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 44.4% (4/9 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Adrian Houser):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Estadística base YRFI:** 50.0% (5/10 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (San Francisco Giants - Robbie Ray):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 42.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-24 15:01:23
+- **Generado el:** 2026-04-25 14:36:05
 - **Fuente de datos:** season_data.json

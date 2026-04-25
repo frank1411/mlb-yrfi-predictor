@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Texas Rangers
 
 **Fecha:** 2026-04-25  
-**Lanzadores:** Luis Severino (V) vs Nathan Eovaldi (L)
+**Lanzadores:** Jeffrey Springs (V) vs MacKenzie Gore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.2%
+**Probabilidad de que anoten en la primera entrada:** 25.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 11.1% (1/9 partidos)
+- **Estadística base YRFI:** 10.0% (1/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Luis Severino):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 11.7%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 13.3% (2/15 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 41.2%
+- **Estadística base YRFI:** 18.8% (3/16 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 15.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-24 15:01:23
+- **Generado el:** 2026-04-25 14:36:05
 - **Fuente de datos:** season_data.json

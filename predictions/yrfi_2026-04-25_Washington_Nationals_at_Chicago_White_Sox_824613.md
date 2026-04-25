@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Tampa Bay Rays
+# Análisis YRFI: Washington Nationals @ Chicago White Sox
 
-**Fecha:** 2026-04-24  
-**Lanzadores:** Taj Bradley (V) vs Drew Rasmussen (L)
+**Fecha:** 2026-04-25  
+**Lanzadores:** Jake Irvin (V) vs Noah Schultz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.5%
+**Probabilidad de que anoten en la primera entrada:** 76.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 33.3% (3/9 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 30.0% (3/10 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 40.1%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 16.7% (2/12 partidos)
+### Washington Nationals (Visitante)
+- **Estadística base YRFI:** 35.7% (5/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 21.9%
+- **Impacto del lanzador local (Chicago White Sox - Noah Schultz):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 59.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-24 15:01:23
+- **Generado el:** 2026-04-25 14:36:05
 - **Fuente de datos:** season_data.json

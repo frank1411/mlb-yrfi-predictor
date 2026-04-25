@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Atlanta Braves
 
-**Fecha:** 2026-04-24  
-**Lanzadores:** Andrew Painter (V) vs Grant Holmes (L)
+**Fecha:** 2026-04-25  
+**Lanzadores:** Zack Wheeler (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 29.4%
+**Probabilidad de que anoten en la primera entrada:** 26.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 25.0% (3/12 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Andrew Painter):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Estadística base YRFI:** 23.1% (3/13 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Zack Wheeler):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 13.4%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 20.0% (2/10 partidos)
+- **Estadística base YRFI:** 18.2% (2/11 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.9%
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 15.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-24 15:01:23
+- **Generado el:** 2026-04-25 14:36:05
 - **Fuente de datos:** season_data.json

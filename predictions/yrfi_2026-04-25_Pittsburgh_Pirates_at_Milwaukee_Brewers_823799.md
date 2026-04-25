@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Milwaukee Brewers
 
-**Fecha:** 2026-04-24  
-**Lanzadores:** Paul Skenes (V) vs Brandon Woodruff (L)
+**Fecha:** 2026-04-25  
+**Lanzadores:** Mitch Keller (V) vs Jacob Misiorowski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.0%
+**Probabilidad de que anoten en la primera entrada:** 49.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 25.0% (3/12 partidos)
+- **Estadística base YRFI:** 23.1% (3/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 11.6%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 50.0% (6/12 partidos)
+- **Estadística base YRFI:** 46.2% (6/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Brandon Woodruff):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 49.1%
+- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 42.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-24 15:01:23
+- **Generado el:** 2026-04-25 14:36:05
 - **Fuente de datos:** season_data.json

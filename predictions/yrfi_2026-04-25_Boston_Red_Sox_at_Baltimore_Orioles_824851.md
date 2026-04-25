@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Baltimore Orioles
 
-**Fecha:** 2026-04-24  
-**Lanzadores:** Brayan Bello (V) vs Brandon Young (L)
+**Fecha:** 2026-04-25  
+**Lanzadores:** Garrett Crochet (V) vs Trevor Rogers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.7%
+**Probabilidad de que anoten en la primera entrada:** 41.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 16.7% (2/12 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Brayan Bello):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 25.7%
+- **Estadística base YRFI:** 23.1% (3/13 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Garrett Crochet):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 16.7% (2/12 partidos)
+- **Estadística base YRFI:** 15.4% (2/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 10.7%
+- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 10.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-24 15:01:23
+- **Generado el:** 2026-04-25 14:36:05
 - **Fuente de datos:** season_data.json

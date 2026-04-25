@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Toronto Blue Jays
 
-**Fecha:** 2026-04-24  
-**Lanzadores:** Gavin Williams (V) vs Max Scherzer (L)
+**Fecha:** 2026-04-25  
+**Lanzadores:** Joey Cantillo (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.9%
+**Probabilidad de que anoten en la primera entrada:** 64.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 33.3% (4/12 partidos)
+- **Estadística base YRFI:** 38.5% (5/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 35.2%
+- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 42.4%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 46.2% (6/13 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Max Scherzer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 44.3%
+- **Estadística base YRFI:** 50.0% (7/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 37.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-24 15:01:23
+- **Generado el:** 2026-04-25 14:36:05
 - **Fuente de datos:** season_data.json

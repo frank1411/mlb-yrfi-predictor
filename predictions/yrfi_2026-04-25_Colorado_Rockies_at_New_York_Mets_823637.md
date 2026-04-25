@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Cincinnati Reds
+# Análisis YRFI: Colorado Rockies @ New York Mets
 
-**Fecha:** 2026-04-24  
-**Lanzadores:** Framber Valdez (V) vs Andrew Abbott (L)
+**Fecha:** 2026-04-25  
+**Lanzadores:** Jose Quintana (V) vs Kodai Senga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.9%
+**Probabilidad de que anoten en la primera entrada:** 66.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 25.0% (3/12 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 46.2% (6/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 39.8%
+- **Impacto del lanzador visitante (Colorado Rockies - Jose Quintana):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 58.7%
 
-### Detroit Tigers (Visitante)
+### Colorado Rockies (Visitante)
 - **Estadística base YRFI:** 21.4% (3/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 38.3%
+- **Impacto del lanzador local (New York Mets - Kodai Senga):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-24 15:01:23
+- **Generado el:** 2026-04-25 14:36:05
 - **Fuente de datos:** season_data.json

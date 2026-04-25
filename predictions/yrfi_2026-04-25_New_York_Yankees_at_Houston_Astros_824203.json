@@ -1,18 +1,18 @@
 {
-  "game_pk": 824204,
+  "game_pk": 824203,
   "game_date": "2026-04-25",
   "home_team": {
     "id": "117",
     "name": "Houston Astros",
     "pitcher": {
-      "name": "Lance McCullers Jr.",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Mike Burrows",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
-        "value": 53.84615384615385,
-        "ratio": "7/13"
+        "value": 50.0,
+        "ratio": "7/14"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "147",
     "name": "New York Yankees",
-    "combined_yrfi_pct": 38.67,
+    "combined_yrfi_pct": 41.74,
     "pitcher": {
-      "name": "Will Warren",
+      "name": "Ryan Weathers",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "4/12"
+        "value": 38.46153846153847,
+        "ratio": "5/13"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 53.84615384615385,
+        "base": 50.0,
         "tendency": 33.33333333333333,
-        "combined": 45.64,
+        "combined": 43.33,
         "pitcher_impact": 0.0,
-        "adjusted": 31.95
+        "adjusted": 30.33
       },
       "away_team": {
-        "base": 33.33333333333333,
+        "base": 38.46153846153847,
         "tendency": 46.666666666666664,
-        "combined": 38.67,
-        "pitcher_impact": 50.0,
-        "adjusted": 42.07
+        "combined": 41.74,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 49.22
       },
-      "game_yrfi_probability": 60.58
+      "game_yrfi_probability": 64.62
     },
-    "yrfi_probability": 60.58
+    "yrfi_probability": 64.62
   },
   "metadata": {
-    "generated_at": "2026-04-24T15:01:23.320665",
+    "generated_at": "2026-04-25T14:36:05.262049",
     "data_source": "season_data.json"
   }
 }
