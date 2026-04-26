@@ -1,0 +1,67 @@
+{
+  "game_pk": 824934,
+  "game_date": "2026-04-26",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Chris Sale",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "3/14"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 28.33,
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "3/12"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.428571428571427,
+        "tendency": 13.333333333333334,
+        "combined": 18.19,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.73
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.83
+      },
+      "game_yrfi_probability": 30.04
+    },
+    "yrfi_probability": 30.04
+  },
+  "metadata": {
+    "generated_at": "2026-04-26T14:36:50.954525",
+    "data_source": "season_data.json"
+  }
+}

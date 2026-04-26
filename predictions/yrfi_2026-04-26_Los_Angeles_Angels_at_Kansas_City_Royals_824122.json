@@ -1,0 +1,67 @@
+{
+  "game_pk": 824122,
+  "game_date": "2026-04-26",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 25.67,
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "4/16"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 13.333333333333334,
+        "tendency": 13.333333333333334,
+        "combined": 13.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 9.33
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.97
+      },
+      "game_yrfi_probability": 25.62
+    },
+    "yrfi_probability": 25.62
+  },
+  "metadata": {
+    "generated_at": "2026-04-26T14:36:50.995953",
+    "data_source": "season_data.json"
+  }
+}

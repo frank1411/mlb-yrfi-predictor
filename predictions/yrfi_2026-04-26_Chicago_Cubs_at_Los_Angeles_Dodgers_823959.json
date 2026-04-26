@@ -1,0 +1,67 @@
+{
+  "game_pk": 823959,
+  "game_date": "2026-04-26",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Justin Wrobleski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "4/14"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 10.79,
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 9.090909090909092,
+        "ratio": "1/11"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.57142857142857,
+        "tendency": 40.0,
+        "combined": 33.14,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.2
+      },
+      "away_team": {
+        "base": 9.090909090909092,
+        "tendency": 13.333333333333334,
+        "combined": 10.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 7.55
+      },
+      "game_yrfi_probability": 42.87
+    },
+    "yrfi_probability": 42.87
+  },
+  "metadata": {
+    "generated_at": "2026-04-26T14:36:50.993631",
+    "data_source": "season_data.json"
+  }
+}

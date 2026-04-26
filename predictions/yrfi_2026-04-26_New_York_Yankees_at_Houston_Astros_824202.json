@@ -1,0 +1,67 @@
+{
+  "game_pk": 824202,
+  "game_date": "2026-04-26",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Spencer Arrighetti",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 40.1,
+    "pitcher": {
+      "name": "Luis Gil",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "5/14"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 53.333333333333336,
+        "tendency": 40.0,
+        "combined": 48.0,
+        "pitcher_impact": 50.0,
+        "adjusted": 48.6
+      },
+      "away_team": {
+        "base": 35.714285714285715,
+        "tendency": 46.666666666666664,
+        "combined": 40.1,
+        "pitcher_impact": 50.0,
+        "adjusted": 43.07
+      },
+      "game_yrfi_probability": 70.74
+    },
+    "yrfi_probability": 70.74
+  },
+  "metadata": {
+    "generated_at": "2026-04-26T14:36:50.979387",
+    "data_source": "season_data.json"
+  }
+}

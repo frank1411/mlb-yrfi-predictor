@@ -1,0 +1,67 @@
+{
+  "game_pk": 822824,
+  "game_date": "2026-04-26",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "5/14"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 49.33,
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.714285714285715,
+        "tendency": 40.0,
+        "combined": 37.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.2
+      },
+      "away_team": {
+        "base": 46.666666666666664,
+        "tendency": 53.333333333333336,
+        "combined": 49.33,
+        "pitcher_impact": 100.0,
+        "adjusted": 64.53
+      },
+      "game_yrfi_probability": 73.82
+    },
+    "yrfi_probability": 73.82
+  },
+  "metadata": {
+    "generated_at": "2026-04-26T14:36:50.958586",
+    "data_source": "season_data.json"
+  }
+}

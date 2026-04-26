@@ -1,0 +1,67 @@
+{
+  "game_pk": 822991,
+  "game_date": "2026-04-26",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Jesse Scholtens",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "4/11"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 27.24,
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 14.285714285714285,
+        "ratio": "2/14"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 33.33333333333333,
+        "combined": 35.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.61
+      },
+      "away_team": {
+        "base": 14.285714285714285,
+        "tendency": 46.666666666666664,
+        "combined": 27.24,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.07
+      },
+      "game_yrfi_probability": 61.6
+    },
+    "yrfi_probability": 61.6
+  },
+  "metadata": {
+    "generated_at": "2026-04-26T14:36:50.973432",
+    "data_source": "season_data.json"
+  }
+}

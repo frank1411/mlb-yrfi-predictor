@@ -1,0 +1,67 @@
+{
+  "game_pk": 823637,
+  "game_date": "2026-04-26",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Kodai Senga",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 46.15384615384615,
+        "ratio": "6/13"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 26.19,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "3/14"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 46.15384615384615,
+        "tendency": 33.33333333333333,
+        "combined": 41.03,
+        "pitcher_impact": 50.0,
+        "adjusted": 43.72
+      },
+      "away_team": {
+        "base": 21.428571428571427,
+        "tendency": 33.33333333333333,
+        "combined": 26.19,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.33
+      },
+      "game_yrfi_probability": 54.04
+    },
+    "yrfi_probability": 54.04
+  },
+  "metadata": {
+    "generated_at": "2026-04-26T14:36:50.969408",
+    "data_source": "season_data.json"
+  }
+}
