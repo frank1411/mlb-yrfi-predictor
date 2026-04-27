@@ -1,0 +1,67 @@
+{
+  "game_pk": 823395,
+  "game_date": "2026-04-27",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mason Montgomery",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 38.46153846153847,
+        "ratio": "5/13"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 36.0,
+    "pitcher": {
+      "name": "Dustin May",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "4/12"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.46153846153847,
+        "tendency": 46.666666666666664,
+        "combined": 41.74,
+        "pitcher_impact": 100.0,
+        "adjusted": 59.22
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.2
+      },
+      "game_yrfi_probability": 69.5
+    },
+    "yrfi_probability": 69.5
+  },
+  "metadata": {
+    "generated_at": "2026-04-27T15:30:12.080654",
+    "data_source": "season_data.json"
+  }
+}

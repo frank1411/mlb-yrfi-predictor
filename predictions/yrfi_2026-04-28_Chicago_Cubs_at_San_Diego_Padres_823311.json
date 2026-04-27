@@ -1,0 +1,67 @@
+{
+  "game_pk": 823311,
+  "game_date": "2026-04-28",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Randy Vásquez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 15.384615384615385,
+        "ratio": "2/13"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 10.33,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 8.333333333333332,
+        "ratio": "1/12"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 15.384615384615385,
+        "tendency": 13.333333333333334,
+        "combined": 14.56,
+        "pitcher_impact": 0.0,
+        "adjusted": 10.19
+      },
+      "away_team": {
+        "base": 8.333333333333332,
+        "tendency": 13.333333333333334,
+        "combined": 10.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 7.23
+      },
+      "game_yrfi_probability": 16.68
+    },
+    "yrfi_probability": 16.68
+  },
+  "metadata": {
+    "generated_at": "2026-04-27T15:30:12.093355",
+    "data_source": "season_data.json"
+  }
+}

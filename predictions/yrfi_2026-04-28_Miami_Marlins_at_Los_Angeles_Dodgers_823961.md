@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Chicago White Sox
+# Análisis YRFI: Miami Marlins @ Los Angeles Dodgers
 
-**Fecha:** 2026-04-26  
-**Lanzadores:** Foster Griffin (V) vs Bryan Hudson (L)
+**Fecha:** 2026-04-28  
+**Lanzadores:** Chris Paddack (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.9%
+**Probabilidad de que anoten en la primera entrada:** 52.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 27.3% (3/11 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.9%
-
-### Washington Nationals (Visitante)
+### Los Angeles Dodgers (Local)
 - **Estadística base YRFI:** 33.3% (5/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Bryan Hudson):** 0.0% (0/1 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Chris Paddack):** 0.0% (0/2 partidos)
 - **Puntuación ajustada:** 27.1%
+
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 41.7% (5/12 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 35.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-26 14:36:50
+- **Generado el:** 2026-04-27 15:30:12
 - **Fuente de datos:** season_data.json

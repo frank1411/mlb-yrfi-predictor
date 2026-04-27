@@ -1,0 +1,67 @@
+{
+  "game_pk": 824609,
+  "game_date": "2026-04-27",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Anthony Kay",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "3/12"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 30.98,
+    "pitcher": {
+      "name": "Jack Kochanowicz",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "5/17"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 27.97
+      },
+      "away_team": {
+        "base": 29.411764705882355,
+        "tendency": 33.33333333333333,
+        "combined": 30.98,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.69
+      },
+      "game_yrfi_probability": 43.59
+    },
+    "yrfi_probability": 43.59
+  },
+  "metadata": {
+    "generated_at": "2026-04-27T15:30:12.087949",
+    "data_source": "season_data.json"
+  }
+}
