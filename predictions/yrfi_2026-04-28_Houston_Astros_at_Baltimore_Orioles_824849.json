@@ -1,0 +1,67 @@
+{
+  "game_pk": 824849,
+  "game_date": "2026-04-28",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "3/15"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 37.13,
+    "pitcher": {
+      "name": "Kai-Wei Teng",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "4/13"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.0,
+        "tendency": 20.0,
+        "combined": 20.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.0
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 46.666666666666664,
+        "combined": 37.13,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.99
+      },
+      "game_yrfi_probability": 36.35
+    },
+    "yrfi_probability": 36.35
+  },
+  "metadata": {
+    "generated_at": "2026-04-28T16:08:14.865484",
+    "data_source": "season_data.json"
+  }
+}

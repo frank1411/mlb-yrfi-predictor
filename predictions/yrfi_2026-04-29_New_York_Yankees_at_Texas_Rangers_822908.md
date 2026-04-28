@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Texas Rangers
 
-**Fecha:** 2026-04-28  
-**Lanzadores:** Max Fried (V) vs Jack Leiter (L)
+**Fecha:** 2026-04-29  
+**Lanzadores:** Cam Schlittler (V) vs Jacob deGrom (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.8%
+**Probabilidad de que anoten en la primera entrada:** 50.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 8.3% (1/12 partidos)
+- **Estadística base YRFI:** 7.7% (1/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 11.0%
+- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 18.2%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 33.3% (5/15 partidos)
+- **Estadística base YRFI:** 31.2% (5/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 40.2%
+- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 39.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-27 15:30:12
+- **Generado el:** 2026-04-28 16:08:14
 - **Fuente de datos:** season_data.json

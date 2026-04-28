@@ -1,0 +1,67 @@
+{
+  "game_pk": 823473,
+  "game_date": "2026-04-28",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Jesús Luzardo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 7.67,
+    "pitcher": {
+      "name": "Tyler Mahle",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 8.333333333333332,
+        "ratio": "1/12"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 26.666666666666668,
+        "combined": 34.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 54.27
+      },
+      "away_team": {
+        "base": 8.333333333333332,
+        "tendency": 6.666666666666667,
+        "combined": 7.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 5.37
+      },
+      "game_yrfi_probability": 56.73
+    },
+    "yrfi_probability": 56.73
+  },
+  "metadata": {
+    "generated_at": "2026-04-28T16:08:14.875789",
+    "data_source": "season_data.json"
+  }
+}

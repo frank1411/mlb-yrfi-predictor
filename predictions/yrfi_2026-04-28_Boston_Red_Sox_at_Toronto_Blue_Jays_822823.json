@@ -1,18 +1,18 @@
 {
-  "game_pk": 822825,
-  "game_date": "2026-04-27",
+  "game_pk": 822823,
+  "game_date": "2026-04-28",
   "home_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Dylan Cease",
+      "name": "Trey Yesavage",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 37.5,
+        "ratio": "6/16"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "111",
     "name": "Boston Red Sox",
-    "combined_yrfi_pct": 13.33,
+    "combined_yrfi_pct": 12.83,
     "pitcher": {
-      "name": "Ranger Suarez",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Payton Tolle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 13.333333333333334,
-        "ratio": "2/15"
+        "value": 12.5,
+        "ratio": "2/16"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 40.0,
+        "base": 37.5,
         "tendency": 46.666666666666664,
-        "combined": 42.67,
-        "pitcher_impact": 50.0,
-        "adjusted": 44.87
+        "combined": 41.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.82
       },
       "away_team": {
-        "base": 13.333333333333334,
+        "base": 12.5,
         "tendency": 13.333333333333334,
-        "combined": 13.33,
+        "combined": 12.83,
         "pitcher_impact": 0.0,
-        "adjusted": 9.33
+        "adjusted": 8.98
       },
-      "game_yrfi_probability": 50.01
+      "game_yrfi_probability": 35.21
     },
-    "yrfi_probability": 50.01
+    "yrfi_probability": 35.21
   },
   "metadata": {
-    "generated_at": "2026-04-27T15:30:12.083159",
+    "generated_at": "2026-04-28T16:08:14.880073",
     "data_source": "season_data.json"
   }
 }

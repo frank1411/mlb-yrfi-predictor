@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ San Diego Padres
 
-**Fecha:** 2026-04-28  
-**Lanzadores:** Matthew Boyd (V) vs Randy Vásquez (L)
+**Fecha:** 2026-04-29  
+**Lanzadores:** Edward Cabrera (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 16.7%
+**Probabilidad de que anoten en la primera entrada:** 20.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 15.4% (2/13 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 10.2%
+- **Estadística base YRFI:** 21.4% (3/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Edward Cabrera):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 14.6%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 8.3% (1/12 partidos)
+- **Estadística base YRFI:** 7.7% (1/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Randy Vásquez):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 7.2%
+- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 7.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-27 15:30:12
+- **Generado el:** 2026-04-28 16:08:14
 - **Fuente de datos:** season_data.json

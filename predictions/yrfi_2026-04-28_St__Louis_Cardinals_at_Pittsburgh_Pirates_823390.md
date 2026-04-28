@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Pittsburgh Pirates
 
-**Fecha:** 2026-04-27  
-**Lanzadores:** Dustin May (V) vs Mason Montgomery (L)
+**Fecha:** 2026-04-28  
+**Lanzadores:** Kyle Leahy (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 69.5%
+**Probabilidad de que anoten en la primera entrada:** 59.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 38.5% (5/13 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Dustin May):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 59.2%
+- **Estadística base YRFI:** 42.9% (6/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Kyle Leahy):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 32.9%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 33.3% (4/12 partidos)
+- **Estadística base YRFI:** 30.8% (4/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Mason Montgomery):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Impacto del lanzador local (Pittsburgh Pirates - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 39.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-27 15:30:12
+- **Generado el:** 2026-04-28 16:08:14
 - **Fuente de datos:** season_data.json

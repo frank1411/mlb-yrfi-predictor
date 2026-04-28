@@ -1,0 +1,67 @@
+{
+  "game_pk": 823716,
+  "game_date": "2026-04-28",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "6/14"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 32.51,
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "3/13"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 40.0,
+        "combined": 41.71,
+        "pitcher_impact": 100.0,
+        "adjusted": 59.2
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 46.666666666666664,
+        "combined": 32.51,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.76
+      },
+      "game_yrfi_probability": 68.49
+    },
+    "yrfi_probability": 68.49
+  },
+  "metadata": {
+    "generated_at": "2026-04-28T16:08:14.890508",
+    "data_source": "season_data.json"
+  }
+}
