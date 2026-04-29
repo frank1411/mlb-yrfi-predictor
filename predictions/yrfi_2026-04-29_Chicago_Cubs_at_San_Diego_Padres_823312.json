@@ -1,13 +1,13 @@
 {
-  "game_pk": 824849,
-  "game_date": "2026-04-28",
+  "game_pk": 823312,
+  "game_date": "2026-04-29",
   "home_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
+    "id": "135",
+    "name": "San Diego Padres",
     "pitcher": {
-      "name": "Shane Baz",
+      "name": "Matt Waldron",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
@@ -21,22 +21,22 @@
     }
   },
   "away_team": {
-    "id": "117",
-    "name": "Houston Astros",
-    "combined_yrfi_pct": 37.13,
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 9.62,
     "pitcher": {
-      "name": "Kai-Wei Teng",
+      "name": "Jameson Taillon",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 30.76923076923077,
-        "ratio": "4/13"
+        "value": 7.142857142857142,
+        "ratio": "1/14"
       },
       "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
+        "value": 13.333333333333334,
+        "ratio": "2/15"
       }
     }
   },
@@ -50,18 +50,18 @@
         "adjusted": 14.0
       },
       "away_team": {
-        "base": 30.76923076923077,
-        "tendency": 46.666666666666664,
-        "combined": 37.13,
+        "base": 7.142857142857142,
+        "tendency": 13.333333333333334,
+        "combined": 9.62,
         "pitcher_impact": 0.0,
-        "adjusted": 25.99
+        "adjusted": 6.73
       },
-      "game_yrfi_probability": 36.35
+      "game_yrfi_probability": 19.79
     },
-    "yrfi_probability": 36.35
+    "yrfi_probability": 19.79
   },
   "metadata": {
-    "generated_at": "2026-04-28T16:08:14.865484",
+    "generated_at": "2026-04-29T15:52:25.311553",
     "data_source": "season_data.json"
   }
 }

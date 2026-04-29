@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Atlanta Braves
 
-**Fecha:** 2026-04-28  
-**Lanzadores:** Casey Mize (V) vs Martín Pérez (L)
+**Fecha:** 2026-04-29  
+**Lanzadores:** Tarik Skubal (V) vs JR Ritchie (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.9%
+**Probabilidad de que anoten en la primera entrada:** 41.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 26.7% (4/15 partidos)
+- **Estadística base YRFI:** 25.0% (4/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 16.8%
+- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.6%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 29.4% (5/17 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Martín Pérez):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 55.4%
+- **Estadística base YRFI:** 27.8% (5/18 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - JR Ritchie):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-28 16:08:14
+- **Generado el:** 2026-04-29 15:52:25
 - **Fuente de datos:** season_data.json

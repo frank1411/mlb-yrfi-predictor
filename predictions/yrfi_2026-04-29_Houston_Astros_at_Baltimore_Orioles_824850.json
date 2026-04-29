@@ -1,0 +1,67 @@
+{
+  "game_pk": 824850,
+  "game_date": "2026-04-29",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "4/16"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 35.81,
+    "pitcher": {
+      "name": "Peter Lambert",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "4/14"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.97
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 46.666666666666664,
+        "combined": 35.81,
+        "pitcher_impact": 50.0,
+        "adjusted": 40.07
+      },
+      "game_yrfi_probability": 50.84
+    },
+    "yrfi_probability": 50.84
+  },
+  "metadata": {
+    "generated_at": "2026-04-29T15:52:25.316036",
+    "data_source": "season_data.json"
+  }
+}

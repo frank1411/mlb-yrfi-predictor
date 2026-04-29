@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Texas Rangers
 
 **Fecha:** 2026-04-29  
-**Lanzadores:** Cam Schlittler (V) vs Jacob deGrom (L)
+**Lanzadores:** Elmer Rodríguez (V) vs Nathan Eovaldi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.4%
+**Probabilidad de que anoten en la primera entrada:** 61.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 7.7% (1/13 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 18.2%
+- **Estadística base YRFI:** 7.1% (1/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Elmer Rodríguez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 8.6%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 31.2% (5/16 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 39.3%
+- **Estadística base YRFI:** 35.3% (6/17 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 57.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-28 16:08:14
+- **Generado el:** 2026-04-29 15:52:25
 - **Fuente de datos:** season_data.json

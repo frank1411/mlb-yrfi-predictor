@@ -1,0 +1,67 @@
+{
+  "game_pk": 822907,
+  "game_date": "2026-04-29",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Nathan Eovaldi",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 7.142857142857142,
+        "ratio": "1/14"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 39.84,
+    "pitcher": {
+      "name": "Elmer Rodríguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.294117647058826,
+        "ratio": "6/17"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 7.142857142857142,
+        "tendency": 20.0,
+        "combined": 12.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 8.6
+      },
+      "away_team": {
+        "base": 35.294117647058826,
+        "tendency": 46.666666666666664,
+        "combined": 39.84,
+        "pitcher_impact": 100.0,
+        "adjusted": 57.89
+      },
+      "game_yrfi_probability": 61.51
+    },
+    "yrfi_probability": 61.51
+  },
+  "metadata": {
+    "generated_at": "2026-04-29T15:52:25.298071",
+    "data_source": "season_data.json"
+  }
+}

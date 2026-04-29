@@ -1,0 +1,67 @@
+{
+  "game_pk": 822821,
+  "game_date": "2026-04-29",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Eric Lauer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 35.294117647058826,
+        "ratio": "6/17"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 9.73,
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 11.76470588235294,
+        "ratio": "2/17"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.294117647058826,
+        "tendency": 40.0,
+        "combined": 37.18,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 46.02
+      },
+      "away_team": {
+        "base": 11.76470588235294,
+        "tendency": 6.666666666666667,
+        "combined": 9.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 6.81
+      },
+      "game_yrfi_probability": 49.7
+    },
+    "yrfi_probability": 49.7
+  },
+  "metadata": {
+    "generated_at": "2026-04-29T15:52:25.302559",
+    "data_source": "season_data.json"
+  }
+}

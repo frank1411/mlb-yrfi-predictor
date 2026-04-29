@@ -1,18 +1,18 @@
 {
-  "game_pk": 825017,
-  "game_date": "2026-04-29",
+  "game_pk": 825015,
+  "game_date": "2026-04-30",
   "home_team": {
     "id": "133",
     "name": "Athletics",
     "pitcher": {
-      "name": "Por anunciar",
+      "name": "Luis Severino",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 10.0,
-        "ratio": "1/10"
+        "value": 9.090909090909092,
+        "ratio": "1/11"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -25,14 +25,14 @@
     "name": "Kansas City Royals",
     "combined_yrfi_pct": 5.33,
     "pitcher": {
-      "name": "Kris Bubic",
+      "name": "Michael Wacha",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
         "value": 0.0,
-        "ratio": "0/12"
+        "ratio": "0/13"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 10.0,
+        "base": 9.090909090909092,
         "tendency": 33.33333333333333,
-        "combined": 19.33,
+        "combined": 18.79,
         "pitcher_impact": 0.0,
-        "adjusted": 13.53
+        "adjusted": 13.15
       },
       "away_team": {
         "base": 0.0,
@@ -56,12 +56,12 @@
         "pitcher_impact": 50.0,
         "adjusted": 18.73
       },
-      "game_yrfi_probability": 29.73
+      "game_yrfi_probability": 29.42
     },
-    "yrfi_probability": 29.73
+    "yrfi_probability": 29.42
   },
   "metadata": {
-    "generated_at": "2026-04-28T16:08:14.899246",
+    "generated_at": "2026-04-29T15:52:25.334678",
     "data_source": "season_data.json"
   }
 }

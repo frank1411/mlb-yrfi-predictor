@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Los Angeles Dodgers
+# Análisis YRFI: San Francisco Giants @ Philadelphia Phillies
 
 **Fecha:** 2026-04-29  
-**Lanzadores:** Janson Junk (V) vs Shohei Ohtani (L)
+**Lanzadores:** Logan Webb (V) vs Cristopher Sánchez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 68.5%
+**Probabilidad de que anoten en la primera entrada:** 27.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
+### Philadelphia Phillies (Local)
 - **Estadística base YRFI:** 37.5% (6/16 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 58.8%
-
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 38.5% (5/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Shohei Ohtani):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.2%
+
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 7.7% (1/13 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 5.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-28 16:08:14
+- **Generado el:** 2026-04-29 15:52:25
 - **Fuente de datos:** season_data.json

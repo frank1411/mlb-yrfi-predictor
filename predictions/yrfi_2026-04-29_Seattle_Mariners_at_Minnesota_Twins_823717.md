@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Minnesota Twins
 
-**Fecha:** 2026-04-28  
-**Lanzadores:** Logan Gilbert (V) vs Joe Ryan (L)
+**Fecha:** 2026-04-29  
+**Lanzadores:** George Kirby (V) vs Taj Bradley (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 68.5%
+**Probabilidad de que anoten en la primera entrada:** 42.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 42.9% (6/14 partidos)
+- **Estadística base YRFI:** 40.0% (6/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 59.2%
+- **Impacto del lanzador visitante (Seattle Mariners - George Kirby):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 28.0%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 23.1% (3/13 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.8%
+- **Estadística base YRFI:** 21.4% (3/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-28 16:08:14
+- **Generado el:** 2026-04-29 15:52:25
 - **Fuente de datos:** season_data.json
