@@ -1,0 +1,67 @@
+{
+  "game_pk": 824524,
+  "game_date": "2026-04-30",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "5/17"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 26.67,
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "4/18"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.411764705882355,
+        "tendency": 33.33333333333333,
+        "combined": 30.98,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.69
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 33.33333333333333,
+        "combined": 26.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.67
+      },
+      "game_yrfi_probability": 48.06
+    },
+    "yrfi_probability": 48.06
+  },
+  "metadata": {
+    "generated_at": "2026-04-30T15:43:48.866665",
+    "data_source": "season_data.json"
+  }
+}

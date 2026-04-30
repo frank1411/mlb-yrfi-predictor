@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Milwaukee Brewers
 
-**Fecha:** 2026-04-29  
-**Lanzadores:** Eduardo Rodriguez (V) vs Brandon Sproat (L)
+**Fecha:** 2026-04-30  
+**Lanzadores:** Michael Soroka (V) vs Brandon Woodruff (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.9%
+**Probabilidad de que anoten en la primera entrada:** 58.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 18.8% (3/16 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 17.9%
+- **Estadística base YRFI:** 23.5% (4/17 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Michael Soroka):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 41.8%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 30.8% (4/13 partidos)
+- **Estadística base YRFI:** 28.6% (4/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Brandon Sproat):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.4%
+- **Impacto del lanzador local (Milwaukee Brewers - Brandon Woodruff):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-29 15:52:25
+- **Generado el:** 2026-04-30 15:43:48
 - **Fuente de datos:** season_data.json

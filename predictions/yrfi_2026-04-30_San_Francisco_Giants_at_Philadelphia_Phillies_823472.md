@@ -1,6 +1,6 @@
 # Análisis YRFI: San Francisco Giants @ Philadelphia Phillies
 
-**Fecha:** 2026-04-29  
+**Fecha:** 2026-04-30  
 **Lanzadores:** Logan Webb (V) vs Cristopher Sánchez (L)
 
 ## 📊 Probabilidad YRFI del Partido
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-29 15:52:25
+- **Generado el:** 2026-04-30 15:43:48
 - **Fuente de datos:** season_data.json

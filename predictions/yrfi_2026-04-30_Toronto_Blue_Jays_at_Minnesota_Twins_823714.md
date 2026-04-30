@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Cincinnati Reds
+# Análisis YRFI: Toronto Blue Jays @ Minnesota Twins
 
-**Fecha:** 2026-04-29  
-**Lanzadores:** Tomoyuki Sugano (V) vs Brandon Williamson (L)
+**Fecha:** 2026-04-30  
+**Lanzadores:** Kevin Gausman (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.0%
+**Probabilidad de que anoten en la primera entrada:** 46.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 31.2% (5/16 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 37.5% (6/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 24.3%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 26.9%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 17.6% (3/17 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 25.0% (3/12 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brandon Williamson):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 16.8%
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 27.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-29 15:52:25
+- **Generado el:** 2026-04-30 15:43:48
 - **Fuente de datos:** season_data.json
