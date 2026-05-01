@@ -1,0 +1,67 @@
+{
+  "game_pk": 823557,
+  "game_date": "2026-05-01",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 53.84615384615385,
+        "ratio": "7/13"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 12.62,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 7.6923076923076925,
+        "ratio": "1/13"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 53.84615384615385,
+        "tendency": 40.0,
+        "combined": 48.31,
+        "pitcher_impact": 50.0,
+        "adjusted": 48.82
+      },
+      "away_team": {
+        "base": 7.6923076923076925,
+        "tendency": 20.0,
+        "combined": 12.62,
+        "pitcher_impact": 25.0,
+        "adjusted": 16.33
+      },
+      "game_yrfi_probability": 57.18
+    },
+    "yrfi_probability": 57.18
+  },
+  "metadata": {
+    "generated_at": "2026-05-01T14:46:35.276899",
+    "data_source": "season_data.json"
+  }
+}

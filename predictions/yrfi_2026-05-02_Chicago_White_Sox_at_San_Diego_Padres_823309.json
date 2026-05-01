@@ -1,0 +1,67 @@
+{
+  "game_pk": 823309,
+  "game_date": "2026-05-02",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Germán Márquez",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 18.75,
+        "ratio": "3/16"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 33.17,
+    "pitcher": {
+      "name": "Noah Schultz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "6/16"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.75,
+        "tendency": 13.333333333333334,
+        "combined": 16.58,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.61
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 26.666666666666668,
+        "combined": 33.17,
+        "pitcher_impact": 100.0,
+        "adjusted": 53.22
+      },
+      "game_yrfi_probability": 58.65
+    },
+    "yrfi_probability": 58.65
+  },
+  "metadata": {
+    "generated_at": "2026-05-01T14:46:35.313687",
+    "data_source": "season_data.json"
+  }
+}

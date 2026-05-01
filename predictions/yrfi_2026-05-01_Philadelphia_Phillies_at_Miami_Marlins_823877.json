@@ -1,0 +1,67 @@
+{
+  "game_pk": 823877,
+  "game_date": "2026-05-01",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "6/16"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 27.18,
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "3/13"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.5,
+        "tendency": 26.666666666666668,
+        "combined": 33.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.22
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 27.18,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 29.03
+      },
+      "game_yrfi_probability": 45.51
+    },
+    "yrfi_probability": 45.51
+  },
+  "metadata": {
+    "generated_at": "2026-05-01T14:46:35.289353",
+    "data_source": "season_data.json"
+  }
+}

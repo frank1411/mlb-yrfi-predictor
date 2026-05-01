@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Atlanta Braves
+# Análisis YRFI: Philadelphia Phillies @ Miami Marlins
 
-**Fecha:** 2026-04-30  
-**Lanzadores:** Framber Valdez (V) vs Bryce Elder (L)
+**Fecha:** 2026-05-01  
+**Lanzadores:** Zack Wheeler (V) vs Eury Pérez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.0%
+**Probabilidad de que anoten en la primera entrada:** 45.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 29.4% (5/17 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 37.5% (6/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 34.8%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Zack Wheeler):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 23.2%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 26.3% (5/19 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 23.1% (3/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.9%
+- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-30 15:43:48
+- **Generado el:** 2026-05-01 14:46:35
 - **Fuente de datos:** season_data.json

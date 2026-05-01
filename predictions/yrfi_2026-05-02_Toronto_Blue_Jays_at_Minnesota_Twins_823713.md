@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Minnesota Twins
 
-**Fecha:** 2026-04-30  
-**Lanzadores:** Kevin Gausman (V) vs Bailey Ober (L)
+**Fecha:** 2026-05-02  
+**Lanzadores:** Patrick Corbin (V) vs Simeon Woods Richardson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.9%
+**Probabilidad de que anoten en la primera entrada:** 38.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 37.5% (6/16 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Estadística base YRFI:** 35.3% (6/17 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Patrick Corbin):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 25.0% (3/12 partidos)
+- **Estadística base YRFI:** 23.1% (3/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.3%
+- **Impacto del lanzador local (Minnesota Twins - Simeon Woods Richardson):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-04-30 15:43:48
+- **Generado el:** 2026-05-01 14:46:35
 - **Fuente de datos:** season_data.json

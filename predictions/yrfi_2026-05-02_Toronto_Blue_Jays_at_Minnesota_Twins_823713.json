@@ -1,0 +1,67 @@
+{
+  "game_pk": 823713,
+  "game_date": "2026-05-02",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 35.294117647058826,
+        "ratio": "6/17"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 27.18,
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "3/13"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.294117647058826,
+        "tendency": 33.33333333333333,
+        "combined": 34.51,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.16
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 27.18,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.03
+      },
+      "game_yrfi_probability": 38.59
+    },
+    "yrfi_probability": 38.59
+  },
+  "metadata": {
+    "generated_at": "2026-05-01T14:46:35.293920",
+    "data_source": "season_data.json"
+  }
+}

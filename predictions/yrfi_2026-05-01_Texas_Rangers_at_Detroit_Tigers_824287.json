@@ -1,0 +1,67 @@
+{
+  "game_pk": 824287,
+  "game_date": "2026-05-01",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "4/12"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 27.83,
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "6/16"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 33.33333333333333,
+        "combined": 33.33,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 33.33
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 13.333333333333334,
+        "combined": 27.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.48
+      },
+      "game_yrfi_probability": 46.32
+    },
+    "yrfi_probability": 46.32
+  },
+  "metadata": {
+    "generated_at": "2026-05-01T14:46:35.264796",
+    "data_source": "season_data.json"
+  }
+}

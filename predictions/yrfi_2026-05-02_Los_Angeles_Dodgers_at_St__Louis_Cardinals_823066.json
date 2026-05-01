@@ -1,0 +1,67 @@
+{
+  "game_pk": 823066,
+  "game_date": "2026-05-02",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 31.79,
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "4/13"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 55.2
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 31.79,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.26
+      },
+      "game_yrfi_probability": 71.89
+    },
+    "yrfi_probability": 71.89
+  },
+  "metadata": {
+    "generated_at": "2026-05-01T14:46:35.298497",
+    "data_source": "season_data.json"
+  }
+}
