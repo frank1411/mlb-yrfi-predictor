@@ -1,0 +1,67 @@
+{
+  "game_pk": 824365,
+  "game_date": "2026-05-03",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "6/14"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 34.67,
+    "pitcher": {
+      "name": "Chris Sale",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "6/15"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 40.0,
+        "combined": 41.71,
+        "pitcher_impact": 50.0,
+        "adjusted": 44.2
+      },
+      "away_team": {
+        "base": 40.0,
+        "tendency": 26.666666666666668,
+        "combined": 34.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.27
+      },
+      "game_yrfi_probability": 66.11
+    },
+    "yrfi_probability": 66.11
+  },
+  "metadata": {
+    "generated_at": "2026-05-02T14:41:06.574846",
+    "data_source": "season_data.json"
+  }
+}

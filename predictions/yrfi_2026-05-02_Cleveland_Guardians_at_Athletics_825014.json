@@ -1,0 +1,67 @@
+{
+  "game_pk": 825014,
+  "game_date": "2026-05-02",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "3/14"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 38.04,
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.17647058823529,
+        "ratio": "7/17"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.428571428571427,
+        "tendency": 46.666666666666664,
+        "combined": 31.52,
+        "pitcher_impact": 25.0,
+        "adjusted": 29.57
+      },
+      "away_team": {
+        "base": 41.17647058823529,
+        "tendency": 33.33333333333333,
+        "combined": 38.04,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.63
+      },
+      "game_yrfi_probability": 48.33
+    },
+    "yrfi_probability": 48.33
+  },
+  "metadata": {
+    "generated_at": "2026-05-02T14:41:06.552415",
+    "data_source": "season_data.json"
+  }
+}

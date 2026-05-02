@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Chicago Cubs
 
-**Fecha:** 2026-05-01  
-**Lanzadores:** Zac Gallen (V) vs Colin Rea (L)
+**Fecha:** 2026-05-02  
+**Lanzadores:** Ryne Nelson (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.8%
+**Probabilidad de que anoten en la primera entrada:** 37.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 18.8% (3/16 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Zac Gallen):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 21.6%
+- **Estadística base YRFI:** 23.5% (4/17 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Ryne Nelson):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 15.5%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 26.7% (4/15 partidos)
+- **Estadística base YRFI:** 25.0% (4/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 16.8%
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-01 14:46:35
+- **Generado el:** 2026-05-02 14:41:06
 - **Fuente de datos:** season_data.json

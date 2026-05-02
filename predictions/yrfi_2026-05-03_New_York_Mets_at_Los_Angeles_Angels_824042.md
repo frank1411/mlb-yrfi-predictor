@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Los Angeles Angels
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Christian Scott (V) vs Walbert Urena (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Nolan McLean (V) vs Reid Detmers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.8%
+**Probabilidad de que anoten en la primera entrada:** 60.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 41.7% (5/12 partidos)
+- **Estadística base YRFI:** 46.2% (6/13 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Christian Scott):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 43.7%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 30.8% (4/13 partidos)
+- **Estadística base YRFI:** 28.6% (4/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Walbert Urena):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.4%
+- **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-01 14:46:35
+- **Generado el:** 2026-05-02 14:41:06
 - **Fuente de datos:** season_data.json

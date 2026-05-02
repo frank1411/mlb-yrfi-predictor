@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Tampa Bay Rays
 
-**Fecha:** 2026-05-01  
-**Lanzadores:** Robbie Ray (V) vs Shane McClanahan (L)
+**Fecha:** 2026-05-02  
+**Lanzadores:** Landen Roupp (V) vs Griffin Jax (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 27.1%
+**Probabilidad de que anoten en la primera entrada:** 24.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 33.3% (4/12 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Estadística base YRFI:** 30.8% (4/13 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 16.7%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 13.3% (2/15 partidos)
+- **Estadística base YRFI:** 12.5% (2/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Shane McClanahan):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 9.3%
+- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 9.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-01 14:46:35
+- **Generado el:** 2026-05-02 14:41:06
 - **Fuente de datos:** season_data.json

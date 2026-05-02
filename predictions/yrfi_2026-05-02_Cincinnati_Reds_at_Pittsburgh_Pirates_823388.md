@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Pittsburgh Pirates
 
-**Fecha:** 2026-05-01  
-**Lanzadores:** Brady Singer (V) vs Mitch Keller (L)
+**Fecha:** 2026-05-02  
+**Lanzadores:** Rhett Lowder (V) vs Carmen Mlodzinski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.1%
+**Probabilidad de que anoten en la primera entrada:** 58.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 35.3% (6/17 partidos)
+- **Estadística base YRFI:** 38.9% (7/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 46.0%
+- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 47.5%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 30.8% (4/13 partidos)
+- **Estadística base YRFI:** 28.6% (4/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 29.8%
+- **Impacto del lanzador local (Pittsburgh Pirates - Carmen Mlodzinski):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-01 14:46:35
+- **Generado el:** 2026-05-02 14:41:06
 - **Fuente de datos:** season_data.json

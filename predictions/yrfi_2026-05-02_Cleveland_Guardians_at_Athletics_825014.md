@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Athletics
 
 **Fecha:** 2026-05-02  
-**Lanzadores:** Joey Cantillo (V) vs J.T. Ginn (L)
+**Lanzadores:** Slade Cecconi (V) vs Jacob Lopez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.0%
+**Probabilidad de que anoten en la primera entrada:** 48.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 15.4% (2/13 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 27.7%
+- **Estadística base YRFI:** 21.4% (3/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 43.8% (7/16 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Athletics - J.T. Ginn):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Estadística base YRFI:** 41.2% (7/17 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Athletics - Jacob Lopez):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 26.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-01 14:46:35
+- **Generado el:** 2026-05-02 14:41:06
 - **Fuente de datos:** season_data.json

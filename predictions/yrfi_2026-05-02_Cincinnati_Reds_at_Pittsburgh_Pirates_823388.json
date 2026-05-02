@@ -1,18 +1,18 @@
 {
-  "game_pk": 823389,
-  "game_date": "2026-05-01",
+  "game_pk": 823388,
+  "game_date": "2026-05-02",
   "home_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Mitch Keller",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Carmen Mlodzinski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 35.294117647058826,
-        "ratio": "6/17"
+        "value": 38.88888888888889,
+        "ratio": "7/18"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "113",
     "name": "Cincinnati Reds",
-    "combined_yrfi_pct": 31.79,
+    "combined_yrfi_pct": 30.48,
     "pitcher": {
-      "name": "Brady Singer",
+      "name": "Rhett Lowder",
       "yrfi_allowed": 66.66666666666666,
       "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
-        "value": 30.76923076923077,
-        "ratio": "4/13"
+        "value": 28.57142857142857,
+        "ratio": "4/14"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 35.294117647058826,
+        "base": 38.88888888888889,
         "tendency": 40.0,
-        "combined": 37.18,
+        "combined": 39.33,
         "pitcher_impact": 66.66666666666666,
-        "adjusted": 46.02
+        "adjusted": 47.53
       },
       "away_team": {
-        "base": 30.76923076923077,
+        "base": 28.57142857142857,
         "tendency": 33.33333333333333,
-        "combined": 31.79,
-        "pitcher_impact": 25.0,
-        "adjusted": 29.76
+        "combined": 30.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.33
       },
-      "game_yrfi_probability": 62.08
+      "game_yrfi_probability": 58.72
     },
-    "yrfi_probability": 62.08
+    "yrfi_probability": 58.72
   },
   "metadata": {
-    "generated_at": "2026-05-01T14:46:35.269279",
+    "generated_at": "2026-05-02T14:41:06.556004",
     "data_source": "season_data.json"
   }
 }

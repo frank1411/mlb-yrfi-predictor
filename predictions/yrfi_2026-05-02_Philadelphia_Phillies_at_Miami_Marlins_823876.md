@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Minnesota Twins
+# Análisis YRFI: Philadelphia Phillies @ Miami Marlins
 
 **Fecha:** 2026-05-02  
-**Lanzadores:** Patrick Corbin (V) vs Simeon Woods Richardson (L)
+**Lanzadores:** Andrew Painter (V) vs Max Meyer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.6%
+**Probabilidad de que anoten en la primera entrada:** 47.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 35.3% (6/17 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 41.2% (7/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Patrick Corbin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 24.2%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 26.6%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 23.1% (3/13 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 21.4% (3/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Simeon Woods Richardson):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.0%
+- **Impacto del lanzador local (Miami Marlins - Max Meyer):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-01 14:46:35
+- **Generado el:** 2026-05-02 14:41:06
 - **Fuente de datos:** season_data.json

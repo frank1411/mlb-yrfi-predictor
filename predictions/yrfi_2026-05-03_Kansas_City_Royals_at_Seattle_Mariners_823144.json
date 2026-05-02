@@ -1,0 +1,67 @@
+{
+  "game_pk": 823144,
+  "game_date": "2026-05-03",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Emerson Hancock",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 55.55555555555556,
+        "ratio": "10/18"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 21.92,
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 18.75,
+        "ratio": "3/16"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 55.55555555555556,
+        "tendency": 40.0,
+        "combined": 49.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 34.53
+      },
+      "away_team": {
+        "base": 18.75,
+        "tendency": 26.666666666666668,
+        "combined": 21.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.34
+      },
+      "game_yrfi_probability": 44.57
+    },
+    "yrfi_probability": 44.57
+  },
+  "metadata": {
+    "generated_at": "2026-05-02T14:41:06.582903",
+    "data_source": "season_data.json"
+  }
+}
