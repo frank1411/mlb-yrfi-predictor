@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Detroit Tigers
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Kumar Rocker (V) vs Keider Montero (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Jack Leiter (V) vs Tyler Holton (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 57.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 30.8% (4/13 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Kumar Rocker):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.3%
+- **Estadística base YRFI:** 35.7% (5/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 46.2%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 41.2% (7/17 partidos)
+- **Estadística base YRFI:** 38.9% (7/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Keider Montero):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 21.0%
+- **Impacto del lanzador local (Detroit Tigers - Tyler Holton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823144,
+  "game_pk": 822742,
   "game_date": "2026-05-03",
   "home_team": {
-    "id": "136",
-    "name": "Seattle Mariners",
+    "id": "120",
+    "name": "Washington Nationals",
     "pitcher": {
-      "name": "Emerson Hancock",
+      "name": "PJ Poulin",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 55.55555555555556,
-        "ratio": "10/18"
+        "value": 53.333333333333336,
+        "ratio": "8/15"
       },
       "tendency": {
         "value": 40.0,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "118",
-    "name": "Kansas City Royals",
-    "combined_yrfi_pct": 21.92,
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 27.81,
     "pitcher": {
-      "name": "Seth Lugo",
+      "name": "Logan Henderson",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 18.75,
-        "ratio": "3/16"
+        "value": 28.57142857142857,
+        "ratio": "4/14"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 55.55555555555556,
+        "base": 53.333333333333336,
         "tendency": 40.0,
-        "combined": 49.33,
+        "combined": 48.0,
         "pitcher_impact": 0.0,
-        "adjusted": 34.53
+        "adjusted": 33.6
       },
       "away_team": {
-        "base": 18.75,
+        "base": 28.57142857142857,
         "tendency": 26.666666666666668,
-        "combined": 21.92,
+        "combined": 27.81,
         "pitcher_impact": 0.0,
-        "adjusted": 15.34
+        "adjusted": 19.47
       },
-      "game_yrfi_probability": 44.57
+      "game_yrfi_probability": 46.53
     },
-    "yrfi_probability": 44.57
+    "yrfi_probability": 46.53
   },
   "metadata": {
-    "generated_at": "2026-05-02T14:41:06.582903",
+    "generated_at": "2026-05-03T14:41:06.359089",
     "data_source": "season_data.json"
   }
 }

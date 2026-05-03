@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Minnesota Twins
+# Análisis YRFI: Philadelphia Phillies @ Miami Marlins
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Dylan Cease (V) vs Connor Prielipp (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Jesús Luzardo (V) vs Chris Paddack (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.1%
+**Probabilidad de que anoten en la primera entrada:** 47.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 33.3% (6/18 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 38.9% (7/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 41.5%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 23.8%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 21.4% (3/14 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 20.0% (3/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Connor Prielipp):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 16.5%
+- **Impacto del lanzador local (Miami Marlins - Chris Paddack):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 30.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

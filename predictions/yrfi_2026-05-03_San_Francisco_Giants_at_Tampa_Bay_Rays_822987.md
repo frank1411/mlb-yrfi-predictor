@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Tampa Bay Rays
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Landen Roupp (V) vs Griffin Jax (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Tyler Mahle (V) vs Steven Matz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 24.1%
+**Probabilidad de que anoten en la primera entrada:** 57.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 30.8% (4/13 partidos)
+- **Estadística base YRFI:** 28.6% (4/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 16.7%
+- **Impacto del lanzador visitante (San Francisco Giants - Tyler Mahle):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 30.7%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 12.5% (2/16 partidos)
+- **Estadística base YRFI:** 11.8% (2/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 9.0%
+- **Impacto del lanzador local (Tampa Bay Rays - Steven Matz):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 38.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

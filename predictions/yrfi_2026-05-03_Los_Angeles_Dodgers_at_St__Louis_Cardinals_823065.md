@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Colorado Rockies
+# Análisis YRFI: Los Angeles Dodgers @ St. Louis Cardinals
 
 **Fecha:** 2026-05-03  
-**Lanzadores:** Chris Sale (V) vs Por anunciar (L)
+**Lanzadores:** Justin Wrobleski (V) vs Dustin May (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.1%
+**Probabilidad de que anoten en la primera entrada:** 68.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 42.9% (6/14 partidos)
+### St. Louis Cardinals (Local)
+- **Estadística base YRFI:** 35.3% (6/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 44.2%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Justin Wrobleski):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 56.0%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 40.0% (6/15 partidos)
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 26.7% (4/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 39.3%
+- **Impacto del lanzador local (St. Louis Cardinals - Dustin May):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

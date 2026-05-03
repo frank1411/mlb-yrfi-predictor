@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Pittsburgh Pirates
+# Análisis YRFI: Atlanta Braves @ Colorado Rockies
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Rhett Lowder (V) vs Carmen Mlodzinski (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Spencer Strider (V) vs Kyle Freeland (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.7%
+**Probabilidad de que anoten en la primera entrada:** 48.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 38.9% (7/18 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 40.0% (6/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 47.5%
+- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.0%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 28.6% (4/14 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 43.8% (7/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Carmen Mlodzinski):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 21.3%
+- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

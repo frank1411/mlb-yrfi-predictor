@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Athletics
+# Análisis YRFI: Cincinnati Reds @ Pittsburgh Pirates
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Slade Cecconi (V) vs Jacob Lopez (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Chase Burns (V) vs Braxton Ashcraft (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.3%
+**Probabilidad de que anoten en la primera entrada:** 46.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 21.4% (3/14 partidos)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 42.1% (8/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 30.8%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 41.2% (7/17 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 33.3% (5/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Jacob Lopez):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.6%
+- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

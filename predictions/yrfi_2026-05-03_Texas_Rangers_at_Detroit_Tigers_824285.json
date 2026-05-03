@@ -1,0 +1,67 @@
+{
+  "game_pk": 824285,
+  "game_date": "2026-05-03",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Tyler Holton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "5/14"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 28.67,
+    "pitcher": {
+      "name": "Jack Leiter",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 38.88888888888889,
+        "ratio": "7/18"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.714285714285715,
+        "tendency": 40.0,
+        "combined": 37.43,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 46.2
+      },
+      "away_team": {
+        "base": 38.88888888888889,
+        "tendency": 13.333333333333334,
+        "combined": 28.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.07
+      },
+      "game_yrfi_probability": 57.0
+    },
+    "yrfi_probability": 57.0
+  },
+  "metadata": {
+    "generated_at": "2026-05-03T14:41:06.387812",
+    "data_source": "season_data.json"
+  }
+}

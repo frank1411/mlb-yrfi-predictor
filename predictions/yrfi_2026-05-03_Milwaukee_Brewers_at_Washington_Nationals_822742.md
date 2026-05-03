@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ St. Louis Cardinals
+# Análisis YRFI: Milwaukee Brewers @ Washington Nationals
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Roki Sasaki (V) vs Michael McGreevy (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Logan Henderson (V) vs PJ Poulin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.5%
+**Probabilidad de que anoten en la primera entrada:** 46.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 37.5% (6/16 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 53.3% (8/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Logan Henderson):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 33.6%
 
-### Los Angeles Dodgers (Visitante)
+### Milwaukee Brewers (Visitante)
 - **Estadística base YRFI:** 28.6% (4/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.5%
+- **Impacto del lanzador local (Washington Nationals - PJ Poulin):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 19.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

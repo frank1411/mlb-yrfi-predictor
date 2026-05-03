@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Washington Nationals
+# Análisis YRFI: Baltimore Orioles @ New York Yankees
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Kyle Harrison (V) vs Foster Griffin (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Trey Gibson (V) vs Max Fried (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.1%
+**Probabilidad de que anoten en la primera entrada:** 59.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 57.1% (8/14 partidos)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 53.3% (8/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Kyle Harrison):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 35.2%
+- **Impacto del lanzador visitante (Baltimore Orioles - Trey Gibson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 33.6%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 23.1% (3/13 partidos)
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 6.7% (1/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Foster Griffin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador local (New York Yankees - Max Fried):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 38.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

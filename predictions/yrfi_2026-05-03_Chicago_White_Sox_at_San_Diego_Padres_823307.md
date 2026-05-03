@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ San Diego Padres
 
 **Fecha:** 2026-05-03  
-**Lanzadores:** Sean Burke (V) vs Michael King (L)
+**Lanzadores:** Anthony Kay (V) vs Griffin Canning (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.6%
+**Probabilidad de que anoten en la primera entrada:** 37.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 17.6% (3/17 partidos)
+- **Estadística base YRFI:** 16.7% (3/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 35.3% (6/17 partidos)
+- **Estadística base YRFI:** 33.3% (6/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Impacto del lanzador local (San Diego Padres - Griffin Canning):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

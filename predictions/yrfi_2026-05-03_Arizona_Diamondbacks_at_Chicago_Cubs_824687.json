@@ -1,0 +1,67 @@
+{
+  "game_pk": 824687,
+  "game_date": "2026-05-03",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "4/18"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 19.45,
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "4/17"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.22222222222222,
+        "tendency": 20.0,
+        "combined": 21.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.93
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 13.333333333333334,
+        "combined": 19.45,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.62
+      },
+      "game_yrfi_probability": 26.52
+    },
+    "yrfi_probability": 26.52
+  },
+  "metadata": {
+    "generated_at": "2026-05-03T14:41:06.370646",
+    "data_source": "season_data.json"
+  }
+}

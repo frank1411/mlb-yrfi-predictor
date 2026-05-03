@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Seattle Mariners
 
 **Fecha:** 2026-05-03  
-**Lanzadores:** Seth Lugo (V) vs Emerson Hancock (L)
+**Lanzadores:** Kris Bubic (V) vs Luis Castillo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.6%
+**Probabilidad de que anoten en la primera entrada:** 53.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 55.6% (10/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Seth Lugo):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 34.5%
+- **Estadística base YRFI:** 57.9% (11/19 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Kris Bubic):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 37.4%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 18.8% (3/16 partidos)
+- **Estadística base YRFI:** 17.6% (3/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Emerson Hancock):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 24.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

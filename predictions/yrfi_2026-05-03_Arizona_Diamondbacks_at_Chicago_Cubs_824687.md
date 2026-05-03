@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Chicago Cubs
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Ryne Nelson (V) vs Shota Imanaga (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Merrill Kelly (V) vs Matthew Boyd (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.5%
+**Probabilidad de que anoten en la primera entrada:** 26.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 23.5% (4/17 partidos)
+- **Estadística base YRFI:** 22.2% (4/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Ryne Nelson):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.5%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 14.9%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 25.0% (4/16 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Estadística base YRFI:** 23.5% (4/17 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 13.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json

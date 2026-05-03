@@ -1,7 +1,7 @@
-# Análisis YRFI: Baltimore Orioles @ New York Yankees
+# Análisis YRFI: New York Mets @ Los Angeles Angels
 
-**Fecha:** 2026-05-02  
-**Lanzadores:** Kyle Bradish (V) vs Ryan Weathers (L)
+**Fecha:** 2026-05-03  
+**Lanzadores:** Clay Holmes (V) vs Jack Kochanowicz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 57.1% (8/14 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 37.1%
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 50.0% (7/14 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (New York Mets - Clay Holmes):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 42.2%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 7.1% (1/14 partidos)
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 26.7% (4/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Impacto del lanzador local (Los Angeles Angels - Jack Kochanowicz):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 16.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-02 14:41:06
+- **Generado el:** 2026-05-03 14:41:06
 - **Fuente de datos:** season_data.json
