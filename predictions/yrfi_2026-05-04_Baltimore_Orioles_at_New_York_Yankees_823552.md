@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ New York Yankees
 
-**Fecha:** 2026-05-03  
-**Lanzadores:** Trey Gibson (V) vs Max Fried (L)
+**Fecha:** 2026-05-04  
+**Lanzadores:** Shane Baz (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.1%
+**Probabilidad de que anoten en la primera entrada:** 49.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 53.3% (8/15 partidos)
+- **Estadística base YRFI:** 56.2% (9/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trey Gibson):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 33.6%
+- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 44.8%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 6.7% (1/15 partidos)
+- **Estadística base YRFI:** 6.2% (1/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Max Fried):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 38.4%
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 8.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-03 14:41:06
+- **Generado el:** 2026-05-04 15:54:42
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Detroit Tigers
+# Análisis YRFI: Boston Red Sox @ Detroit Tigers
 
-**Fecha:** 2026-05-03  
-**Lanzadores:** Jack Leiter (V) vs Tyler Holton (L)
+**Fecha:** 2026-05-04  
+**Lanzadores:** Payton Tolle (V) vs Tarik Skubal (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.0%
+**Probabilidad de que anoten en la primera entrada:** 33.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 35.7% (5/14 partidos)
+- **Estadística base YRFI:** 33.3% (5/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 46.2%
+- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 25.2%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 38.9% (7/18 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 16.7% (3/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Tyler Holton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 10.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-03 14:41:06
+- **Generado el:** 2026-05-04 15:54:42
 - **Fuente de datos:** season_data.json

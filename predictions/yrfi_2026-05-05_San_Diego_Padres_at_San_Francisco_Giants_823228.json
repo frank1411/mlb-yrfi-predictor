@@ -1,18 +1,18 @@
 {
-  "game_pk": 824687,
-  "game_date": "2026-05-03",
+  "game_pk": 823228,
+  "game_date": "2026-05-05",
   "home_team": {
-    "id": "112",
-    "name": "Chicago Cubs",
+    "id": "137",
+    "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Matthew Boyd",
+      "name": "Trevor McDonald",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 22.22222222222222,
-        "ratio": "4/18"
+        "value": 18.75,
+        "ratio": "3/16"
       },
       "tendency": {
         "value": 20.0,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "109",
-    "name": "Arizona Diamondbacks",
-    "combined_yrfi_pct": 19.45,
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 9.62,
     "pitcher": {
-      "name": "Merrill Kelly",
+      "name": "Randy Vásquez",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 23.52941176470588,
-        "ratio": "4/17"
+        "value": 7.142857142857142,
+        "ratio": "1/14"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 22.22222222222222,
+        "base": 18.75,
         "tendency": 20.0,
-        "combined": 21.33,
+        "combined": 19.25,
         "pitcher_impact": 0.0,
-        "adjusted": 14.93
+        "adjusted": 13.47
       },
       "away_team": {
-        "base": 23.52941176470588,
+        "base": 7.142857142857142,
         "tendency": 13.333333333333334,
-        "combined": 19.45,
+        "combined": 9.62,
         "pitcher_impact": 0.0,
-        "adjusted": 13.62
+        "adjusted": 6.73
       },
-      "game_yrfi_probability": 26.52
+      "game_yrfi_probability": 19.29
     },
-    "yrfi_probability": 26.52
+    "yrfi_probability": 19.29
   },
   "metadata": {
-    "generated_at": "2026-05-03T14:41:06.370646",
+    "generated_at": "2026-05-04T15:54:42.626232",
     "data_source": "season_data.json"
   }
 }

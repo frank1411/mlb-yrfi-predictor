@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ Chicago Cubs
+# Análisis YRFI: San Diego Padres @ San Francisco Giants
 
-**Fecha:** 2026-05-03  
-**Lanzadores:** Merrill Kelly (V) vs Matthew Boyd (L)
+**Fecha:** 2026-05-05  
+**Lanzadores:** Randy Vásquez (V) vs Trevor McDonald (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 26.5%
+**Probabilidad de que anoten en la primera entrada:** 19.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 22.2% (4/18 partidos)
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 18.8% (3/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 14.9%
+- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 13.5%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 23.5% (4/17 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 7.1% (1/14 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 13.6%
+- **Impacto del lanzador local (San Francisco Giants - Trevor McDonald):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 6.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-03 14:41:06
+- **Generado el:** 2026-05-04 15:54:42
 - **Fuente de datos:** season_data.json

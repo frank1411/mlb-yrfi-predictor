@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Washington Nationals
+# Análisis YRFI: Chicago White Sox @ Los Angeles Angels
 
-**Fecha:** 2026-05-03  
-**Lanzadores:** Logan Henderson (V) vs PJ Poulin (L)
+**Fecha:** 2026-05-05  
+**Lanzadores:** Davis Martin (V) vs José Soriano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.5%
+**Probabilidad de que anoten en la primera entrada:** 59.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
+### Los Angeles Angels (Local)
 - **Estadística base YRFI:** 53.3% (8/15 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Logan Henderson):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 33.6%
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 41.1%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 28.6% (4/14 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 31.6% (6/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - PJ Poulin):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 19.5%
+- **Impacto del lanzador local (Los Angeles Angels - José Soriano):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-03 14:41:06
+- **Generado el:** 2026-05-04 15:54:42
 - **Fuente de datos:** season_data.json

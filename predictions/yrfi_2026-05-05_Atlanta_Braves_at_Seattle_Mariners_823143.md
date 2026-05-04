@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Seattle Mariners
+# Análisis YRFI: Atlanta Braves @ Seattle Mariners
 
-**Fecha:** 2026-05-03  
-**Lanzadores:** Kris Bubic (V) vs Luis Castillo (L)
+**Fecha:** 2026-05-05  
+**Lanzadores:** JR Ritchie (V) vs Logan Gilbert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.0%
+**Probabilidad de que anoten en la primera entrada:** 82.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 57.9% (11/19 partidos)
+- **Estadística base YRFI:** 55.0% (11/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Kris Bubic):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 37.4%
+- **Impacto del lanzador visitante (Atlanta Braves - JR Ritchie):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 66.2%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 17.6% (3/17 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 41.2% (7/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 80.0% (4/5 partidos)
+- **Puntuación ajustada:** 48.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-03 14:41:06
+- **Generado el:** 2026-05-04 15:54:42
 - **Fuente de datos:** season_data.json
