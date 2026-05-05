@@ -1,0 +1,67 @@
+{
+  "game_pk": 823873,
+  "game_date": "2026-05-05",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.0,
+        "ratio": "7/20"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 11.53,
+    "pitcher": {
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 5.88235294117647,
+        "ratio": "1/17"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.0,
+        "tendency": 26.666666666666668,
+        "combined": 31.67,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 42.17
+      },
+      "away_team": {
+        "base": 5.88235294117647,
+        "tendency": 20.0,
+        "combined": 11.53,
+        "pitcher_impact": 0.0,
+        "adjusted": 8.07
+      },
+      "game_yrfi_probability": 46.84
+    },
+    "yrfi_probability": 46.84
+  },
+  "metadata": {
+    "generated_at": "2026-05-05T15:38:29.860237",
+    "data_source": "season_data.json"
+  }
+}

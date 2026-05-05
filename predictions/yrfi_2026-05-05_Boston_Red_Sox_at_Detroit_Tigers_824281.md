@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Detroit Tigers
 
-**Fecha:** 2026-05-04  
-**Lanzadores:** Payton Tolle (V) vs Tarik Skubal (L)
+**Fecha:** 2026-05-05  
+**Lanzadores:** Jovani Morán (V) vs Framber Valdez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.2%
+**Probabilidad de que anoten en la primera entrada:** 30.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 33.3% (5/15 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Estadística base YRFI:** 31.2% (5/16 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Jovani Morán):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 16.7% (3/18 partidos)
+- **Estadística base YRFI:** 15.8% (3/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Tarik Skubal):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 10.7%
+- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 10.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-04 15:54:42
+- **Generado el:** 2026-05-05 15:38:29
 - **Fuente de datos:** season_data.json

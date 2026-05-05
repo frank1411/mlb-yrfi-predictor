@@ -1,0 +1,67 @@
+{
+  "game_pk": 823469,
+  "game_date": "2026-05-05",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "8/18"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 32.0,
+    "pitcher": {
+      "name": "Luis Severino",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "4/18"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.44444444444444,
+        "tendency": 33.33333333333333,
+        "combined": 40.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 35.5
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 46.666666666666664,
+        "combined": 32.0,
+        "pitcher_impact": 20.0,
+        "adjusted": 28.4
+      },
+      "game_yrfi_probability": 53.82
+    },
+    "yrfi_probability": 53.82
+  },
+  "metadata": {
+    "generated_at": "2026-05-05T15:38:29.855688",
+    "data_source": "season_data.json"
+  }
+}

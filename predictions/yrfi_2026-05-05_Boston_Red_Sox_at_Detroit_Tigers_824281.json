@@ -1,38 +1,38 @@
 {
-  "game_pk": 824283,
-  "game_date": "2026-05-04",
+  "game_pk": 824281,
+  "game_date": "2026-05-05",
   "home_team": {
     "id": "116",
     "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Tarik Skubal",
+      "name": "Framber Valdez",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 31.25,
+        "ratio": "5/16"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
     "id": "111",
     "name": "Boston Red Sox",
-    "combined_yrfi_pct": 15.33,
+    "combined_yrfi_pct": 14.81,
     "pitcher": {
-      "name": "Payton Tolle",
+      "name": "Jovani Morán",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 16.666666666666664,
-        "ratio": "3/18"
+        "value": 15.789473684210526,
+        "ratio": "3/19"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.33333333333333,
-        "tendency": 40.0,
-        "combined": 36.0,
+        "base": 31.25,
+        "tendency": 33.33333333333333,
+        "combined": 32.08,
         "pitcher_impact": 0.0,
-        "adjusted": 25.2
+        "adjusted": 22.46
       },
       "away_team": {
-        "base": 16.666666666666664,
+        "base": 15.789473684210526,
         "tendency": 13.333333333333334,
-        "combined": 15.33,
+        "combined": 14.81,
         "pitcher_impact": 0.0,
-        "adjusted": 10.73
+        "adjusted": 10.36
       },
-      "game_yrfi_probability": 33.23
+      "game_yrfi_probability": 30.49
     },
-    "yrfi_probability": 33.23
+    "yrfi_probability": 30.49
   },
   "metadata": {
-    "generated_at": "2026-05-04T15:54:42.597998",
+    "generated_at": "2026-05-05T15:38:29.843955",
     "data_source": "season_data.json"
   }
 }
