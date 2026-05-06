@@ -1,18 +1,18 @@
 {
-  "game_pk": 822986,
-  "game_date": "2026-05-05",
+  "game_pk": 822985,
+  "game_date": "2026-05-06",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Drew Rasmussen",
+      "name": "Shane McClanahan",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 31.25,
-        "ratio": "5/16"
+        "value": 29.411764705882355,
+        "ratio": "5/17"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
-    "combined_yrfi_pct": 18.59,
+    "combined_yrfi_pct": 21.33,
     "pitcher": {
-      "name": "Kevin Gausman",
+      "name": "Patrick Corbin",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 17.647058823529413,
-        "ratio": "3/17"
+        "value": 22.22222222222222,
+        "ratio": "4/18"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.25,
+        "base": 29.411764705882355,
         "tendency": 20.0,
-        "combined": 26.75,
+        "combined": 25.65,
         "pitcher_impact": 0.0,
-        "adjusted": 18.72
+        "adjusted": 17.95
       },
       "away_team": {
-        "base": 17.647058823529413,
+        "base": 22.22222222222222,
         "tendency": 20.0,
-        "combined": 18.59,
+        "combined": 21.33,
         "pitcher_impact": 0.0,
-        "adjusted": 13.01
+        "adjusted": 14.93
       },
-      "game_yrfi_probability": 29.29
+      "game_yrfi_probability": 30.2
     },
-    "yrfi_probability": 29.29
+    "yrfi_probability": 30.2
   },
   "metadata": {
-    "generated_at": "2026-05-05T15:38:29.849755",
+    "generated_at": "2026-05-06T15:57:43.801582",
     "data_source": "season_data.json"
   }
 }

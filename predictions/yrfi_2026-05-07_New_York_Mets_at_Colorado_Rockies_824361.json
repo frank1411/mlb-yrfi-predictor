@@ -1,6 +1,6 @@
 {
-  "game_pk": 824362,
-  "game_date": "2026-05-06",
+  "game_pk": 824361,
+  "game_date": "2026-05-07",
   "home_team": {
     "id": "115",
     "name": "Colorado Rockies",
@@ -61,7 +61,7 @@
     "yrfi_probability": 48.1
   },
   "metadata": {
-    "generated_at": "2026-05-05T15:38:29.880549",
+    "generated_at": "2026-05-06T15:57:43.841612",
     "data_source": "season_data.json"
   }
 }

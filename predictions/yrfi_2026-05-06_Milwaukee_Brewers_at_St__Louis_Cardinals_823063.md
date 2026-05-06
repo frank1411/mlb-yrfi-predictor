@@ -1,6 +1,6 @@
 # Análisis YRFI: Milwaukee Brewers @ St. Louis Cardinals
 
-**Fecha:** 2026-05-05  
+**Fecha:** 2026-05-06  
 **Lanzadores:** Brandon Sproat (V) vs Andre Pallante (L)
 
 ## 📊 Probabilidad YRFI del Partido
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-05 15:38:29
+- **Generado el:** 2026-05-06 15:57:43
 - **Fuente de datos:** season_data.json

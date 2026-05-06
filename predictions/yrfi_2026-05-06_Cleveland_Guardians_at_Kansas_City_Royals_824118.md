@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Kansas City Royals
 
-**Fecha:** 2026-05-05  
-**Lanzadores:** Gavin Williams (V) vs Stephen Kolek (L)
+**Fecha:** 2026-05-06  
+**Lanzadores:** Joey Cantillo (V) vs Cole Ragans (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.1%
+**Probabilidad de que anoten en la primera entrada:** 44.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 11.8% (2/17 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Estadística base YRFI:** 16.7% (3/18 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 31.3%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 35.0% (7/20 partidos)
+- **Estadística base YRFI:** 33.3% (7/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Stephen Kolek):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Impacto del lanzador local (Kansas City Royals - Cole Ragans):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-05 15:38:29
+- **Generado el:** 2026-05-06 15:57:43
 - **Fuente de datos:** season_data.json

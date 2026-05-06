@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Chicago Cubs
+# Análisis YRFI: Boston Red Sox @ Detroit Tigers
 
-**Fecha:** 2026-05-05  
-**Lanzadores:** Andrew Abbott (V) vs Jameson Taillon (L)
+**Fecha:** 2026-05-06  
+**Lanzadores:** Sonny Gray (V) vs Jack Flaherty (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.2%
+**Probabilidad de que anoten en la primera entrada:** 64.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 35.3% (6/17 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 54.2%
+
+### Boston Red Sox (Visitante)
 - **Estadística base YRFI:** 20.0% (4/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 27.1%
-
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 29.4% (5/17 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Jameson Taillon):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.7%
+- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-05 15:38:29
+- **Generado el:** 2026-05-06 15:57:43
 - **Fuente de datos:** season_data.json

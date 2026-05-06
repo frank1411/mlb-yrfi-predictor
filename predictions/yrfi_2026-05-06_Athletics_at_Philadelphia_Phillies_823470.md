@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Philadelphia Phillies
 
-**Fecha:** 2026-05-05  
-**Lanzadores:** Luis Severino (V) vs Cristopher Sánchez (L)
+**Fecha:** 2026-05-06  
+**Lanzadores:** Jeffrey Springs (V) vs Zack Wheeler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.8%
+**Probabilidad de que anoten en la primera entrada:** 41.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 44.4% (8/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Luis Severino):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 35.5%
+- **Estadística base YRFI:** 42.1% (8/19 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 22.2% (4/18 partidos)
+- **Estadística base YRFI:** 21.1% (4/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Impacto del lanzador local (Philadelphia Phillies - Zack Wheeler):** 0.0% (1/2 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-05 15:38:29
+- **Generado el:** 2026-05-06 15:57:43
 - **Fuente de datos:** season_data.json

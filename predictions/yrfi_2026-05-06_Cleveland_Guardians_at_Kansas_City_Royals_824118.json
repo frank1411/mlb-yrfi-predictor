@@ -1,38 +1,38 @@
 {
-  "game_pk": 824119,
-  "game_date": "2026-05-05",
+  "game_pk": 824118,
+  "game_date": "2026-05-06",
   "home_team": {
     "id": "118",
     "name": "Kansas City Royals",
     "pitcher": {
-      "name": "Stephen Kolek",
+      "name": "Cole Ragans",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 11.76470588235294,
-        "ratio": "2/17"
+        "value": 16.666666666666664,
+        "ratio": "3/18"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
     "id": "114",
     "name": "Cleveland Guardians",
-    "combined_yrfi_pct": 29.0,
+    "combined_yrfi_pct": 28.0,
     "pitcher": {
-      "name": "Gavin Williams",
+      "name": "Joey Cantillo",
       "yrfi_allowed": 50.0,
       "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 35.0,
-        "ratio": "7/20"
+        "value": 33.33333333333333,
+        "ratio": "7/21"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 11.76470588235294,
-        "tendency": 26.666666666666668,
-        "combined": 17.73,
+        "base": 16.666666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 23.33,
         "pitcher_impact": 50.0,
-        "adjusted": 27.41
+        "adjusted": 31.33
       },
       "away_team": {
-        "base": 35.0,
+        "base": 33.33333333333333,
         "tendency": 20.0,
-        "combined": 29.0,
+        "combined": 28.0,
         "pitcher_impact": 0.0,
-        "adjusted": 20.3
+        "adjusted": 19.6
       },
-      "game_yrfi_probability": 42.15
+      "game_yrfi_probability": 44.79
     },
-    "yrfi_probability": 42.15
+    "yrfi_probability": 44.79
   },
   "metadata": {
-    "generated_at": "2026-05-05T15:38:29.871554",
+    "generated_at": "2026-05-06T15:57:43.838699",
     "data_source": "season_data.json"
   }
 }

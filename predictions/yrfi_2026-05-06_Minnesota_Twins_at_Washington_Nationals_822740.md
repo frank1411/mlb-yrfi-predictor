@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Washington Nationals
 
-**Fecha:** 2026-05-05  
-**Lanzadores:** Taj Bradley (V) vs Cade Cavalli (L)
+**Fecha:** 2026-05-06  
+**Lanzadores:** Bailey Ober (V) vs Miles Mikolas (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.4%
+**Probabilidad de que anoten en la primera entrada:** 41.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 50.0% (8/16 partidos)
+- **Estadística base YRFI:** 52.9% (9/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 47.2%
+- **Impacto del lanzador visitante (Minnesota Twins - Bailey Ober):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 33.4%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 13.3% (2/15 partidos)
+- **Estadística base YRFI:** 12.5% (2/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 23.1%
+- **Impacto del lanzador local (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 12.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-05 15:38:29
+- **Generado el:** 2026-05-06 15:57:43
 - **Fuente de datos:** season_data.json

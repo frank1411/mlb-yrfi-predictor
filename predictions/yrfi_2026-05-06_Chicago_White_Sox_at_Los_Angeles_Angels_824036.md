@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Los Angeles Angels
 
 **Fecha:** 2026-05-06  
-**Lanzadores:** Erick Fedde (V) vs Sam Aldegheri (L)
+**Lanzadores:** Noah Schultz (V) vs Walbert Ureña (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.1%
+**Probabilidad de que anoten en la primera entrada:** 51.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 50.0% (8/16 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Erick Fedde):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 42.2%
+- **Estadística base YRFI:** 52.9% (9/17 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Chicago White Sox - Noah Schultz):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 35.0% (7/20 partidos)
+- **Estadística base YRFI:** 38.1% (8/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Sam Aldegheri):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Impacto del lanzador local (Los Angeles Angels - Walbert Ureña):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 25.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-05 15:38:29
+- **Generado el:** 2026-05-06 15:57:43
 - **Fuente de datos:** season_data.json

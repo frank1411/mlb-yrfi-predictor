@@ -1,0 +1,67 @@
+{
+  "game_pk": 823872,
+  "game_date": "2026-05-06",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 38.095238095238095,
+        "ratio": "8/21"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 17.33,
+    "pitcher": {
+      "name": "Brandon Young",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 11.11111111111111,
+        "ratio": "2/18"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.095238095238095,
+        "tendency": 33.33333333333333,
+        "combined": 36.19,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.33
+      },
+      "away_team": {
+        "base": 11.11111111111111,
+        "tendency": 26.666666666666668,
+        "combined": 17.33,
+        "pitcher_impact": 25.0,
+        "adjusted": 19.63
+      },
+      "game_yrfi_probability": 39.99
+    },
+    "yrfi_probability": 39.99
+  },
+  "metadata": {
+    "generated_at": "2026-05-06T15:57:43.826746",
+    "data_source": "season_data.json"
+  }
+}

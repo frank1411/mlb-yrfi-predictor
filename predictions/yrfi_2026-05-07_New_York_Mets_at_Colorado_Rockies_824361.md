@@ -1,6 +1,6 @@
 # Análisis YRFI: New York Mets @ Colorado Rockies
 
-**Fecha:** 2026-05-06  
+**Fecha:** 2026-05-07  
 **Lanzadores:** Freddy Peralta (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-05 15:38:29
+- **Generado el:** 2026-05-06 15:57:43
 - **Fuente de datos:** season_data.json
