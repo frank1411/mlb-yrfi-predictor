@@ -1,7 +1,7 @@
-# Análisis YRFI: Los Angeles Dodgers @ Houston Astros
+# Análisis YRFI: Cincinnati Reds @ Chicago Cubs
 
-**Fecha:** 2026-05-06  
-**Lanzadores:** Tyler Glasnow (V) vs Lance McCullers Jr. (L)
+**Fecha:** 2026-05-07  
+**Lanzadores:** Rhett Lowder (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 55.6% (10/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 36.4%
-
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 27.8% (5/18 partidos)
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 22.7% (5/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Lance McCullers Jr.):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 37.3%
+- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 37.6%
+
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 36.8% (7/19 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 36.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-06 15:57:43
+- **Generado el:** 2026-05-07 15:58:58
 - **Fuente de datos:** season_data.json

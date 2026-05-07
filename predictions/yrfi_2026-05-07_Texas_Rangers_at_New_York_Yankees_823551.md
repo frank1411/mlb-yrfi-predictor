@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Colorado Rockies
+# Análisis YRFI: Texas Rangers @ New York Yankees
 
 **Fecha:** 2026-05-07  
-**Lanzadores:** Freddy Peralta (V) vs Michael Lorenzen (L)
+**Lanzadores:** MacKenzie Gore (V) vs Paul Blackburn (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.1%
+**Probabilidad de que anoten en la primera entrada:** 57.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 41.2% (7/17 partidos)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 57.9% (11/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Freddy Peralta):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador visitante (Texas Rangers - MacKenzie Gore):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 44.9%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.5% (4/17 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 42.9% (9/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Michael Lorenzen):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.5%
+- **Impacto del lanzador local (New York Yankees - Paul Blackburn):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-06 15:57:43
+- **Generado el:** 2026-05-07 15:58:58
 - **Fuente de datos:** season_data.json

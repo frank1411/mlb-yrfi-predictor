@@ -1,24 +1,24 @@
-# Análisis YRFI: Toronto Blue Jays @ Tampa Bay Rays
+# Análisis YRFI: Tampa Bay Rays @ Boston Red Sox
 
-**Fecha:** 2026-05-06  
-**Lanzadores:** Patrick Corbin (V) vs Shane McClanahan (L)
+**Fecha:** 2026-05-07  
+**Lanzadores:** Griffin Jax (V) vs Jake Bennett (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 30.2%
+**Probabilidad de que anoten en la primera entrada:** 22.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 29.4% (5/17 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Patrick Corbin):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.9%
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 12.5% (2/16 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 9.0%
 
-### Toronto Blue Jays (Visitante)
+### Tampa Bay Rays (Visitante)
 - **Estadística base YRFI:** 22.2% (4/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Shane McClanahan):** 0.0% (0/3 partidos)
+- **Impacto del lanzador local (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
 - **Puntuación ajustada:** 14.9%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-06 15:57:43
+- **Generado el:** 2026-05-07 15:58:58
 - **Fuente de datos:** season_data.json

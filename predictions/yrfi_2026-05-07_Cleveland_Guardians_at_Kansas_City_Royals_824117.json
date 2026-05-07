@@ -1,0 +1,67 @@
+{
+  "game_pk": 824117,
+  "game_date": "2026-05-07",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 15.789473684210526,
+        "ratio": "3/19"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 27.09,
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 31.818181818181817,
+        "ratio": "7/22"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 15.789473684210526,
+        "tendency": 33.33333333333333,
+        "combined": 22.81,
+        "pitcher_impact": 40.0,
+        "adjusted": 27.96
+      },
+      "away_team": {
+        "base": 31.818181818181817,
+        "tendency": 20.0,
+        "combined": 27.09,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.46
+      },
+      "game_yrfi_probability": 47.02
+    },
+    "yrfi_probability": 47.02
+  },
+  "metadata": {
+    "generated_at": "2026-05-07T15:58:58.377512",
+    "data_source": "season_data.json"
+  }
+}

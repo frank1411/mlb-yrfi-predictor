@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Kansas City Royals
 
-**Fecha:** 2026-05-06  
-**Lanzadores:** Joey Cantillo (V) vs Cole Ragans (L)
+**Fecha:** 2026-05-07  
+**Lanzadores:** Slade Cecconi (V) vs Seth Lugo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.8%
+**Probabilidad de que anoten en la primera entrada:** 47.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 16.7% (3/18 partidos)
+- **Estadística base YRFI:** 15.8% (3/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 31.3%
+- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 28.0%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 33.3% (7/21 partidos)
+- **Estadística base YRFI:** 31.8% (7/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Cole Ragans):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 26.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-06 15:57:43
+- **Generado el:** 2026-05-07 15:58:58
 - **Fuente de datos:** season_data.json

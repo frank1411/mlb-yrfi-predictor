@@ -1,0 +1,67 @@
+{
+  "game_pk": 823306,
+  "game_date": "2026-05-08",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 15.789473684210526,
+        "ratio": "3/19"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 29.42,
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "5/16"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 15.789473684210526,
+        "tendency": 20.0,
+        "combined": 17.47,
+        "pitcher_impact": 50.0,
+        "adjusted": 27.23
+      },
+      "away_team": {
+        "base": 31.25,
+        "tendency": 26.666666666666668,
+        "combined": 29.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.59
+      },
+      "game_yrfi_probability": 42.21
+    },
+    "yrfi_probability": 42.21
+  },
+  "metadata": {
+    "generated_at": "2026-05-07T15:58:58.398943",
+    "data_source": "season_data.json"
+  }
+}

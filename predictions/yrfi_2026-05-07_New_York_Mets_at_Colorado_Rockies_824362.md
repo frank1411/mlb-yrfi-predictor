@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Washington Nationals
+# Análisis YRFI: New York Mets @ Colorado Rockies
 
-**Fecha:** 2026-05-06  
-**Lanzadores:** Bailey Ober (V) vs Miles Mikolas (L)
+**Fecha:** 2026-05-07  
+**Lanzadores:** Christian Scott (V) vs Jose Quintana (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.9%
+**Probabilidad de que anoten en la primera entrada:** 65.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 52.9% (9/17 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 38.9% (7/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Bailey Ober):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 33.4%
+- **Impacto del lanzador visitante (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 57.5%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 12.5% (2/16 partidos)
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 27.8% (5/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 12.7%
+- **Impacto del lanzador local (Colorado Rockies - Jose Quintana):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-06 15:57:43
+- **Generado el:** 2026-05-07 15:58:58
 - **Fuente de datos:** season_data.json

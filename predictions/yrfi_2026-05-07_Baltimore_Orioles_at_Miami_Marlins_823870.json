@@ -1,0 +1,67 @@
+{
+  "game_pk": 823870,
+  "game_date": "2026-05-07",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Max Meyer",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 40.909090909090914,
+        "ratio": "9/22"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 22.81,
+    "pitcher": {
+      "name": "Cade Povich",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 15.789473684210526,
+        "ratio": "3/19"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.909090909090914,
+        "tendency": 33.33333333333333,
+        "combined": 37.88,
+        "pitcher_impact": 100.0,
+        "adjusted": 56.52
+      },
+      "away_team": {
+        "base": 15.789473684210526,
+        "tendency": 33.33333333333333,
+        "combined": 22.81,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.46
+      },
+      "game_yrfi_probability": 66.72
+    },
+    "yrfi_probability": 66.72
+  },
+  "metadata": {
+    "generated_at": "2026-05-07T15:58:58.393063",
+    "data_source": "season_data.json"
+  }
+}
