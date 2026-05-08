@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Miami Marlins
+# Análisis YRFI: Detroit Tigers @ Kansas City Royals
 
-**Fecha:** 2026-05-07  
-**Lanzadores:** Cade Povich (V) vs Max Meyer (L)
+**Fecha:** 2026-05-08  
+**Lanzadores:** Keider Montero (V) vs Kris Bubic (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.7%
+**Probabilidad de que anoten en la primera entrada:** 38.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 40.9% (9/22 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 15.0% (3/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Cade Povich):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 56.5%
+- **Impacto del lanzador visitante (Detroit Tigers - Keider Montero):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 15.6%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 15.8% (3/19 partidos)
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 25.0% (5/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Max Meyer):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 23.5%
+- **Impacto del lanzador local (Kansas City Royals - Kris Bubic):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 27.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-07 15:58:58
+- **Generado el:** 2026-05-08 15:13:33
 - **Fuente de datos:** season_data.json

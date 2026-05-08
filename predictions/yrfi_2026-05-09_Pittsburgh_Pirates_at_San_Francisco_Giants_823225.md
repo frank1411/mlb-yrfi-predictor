@@ -1,25 +1,25 @@
-# Análisis YRFI: Pittsburgh Pirates @ Arizona Diamondbacks
+# Análisis YRFI: Pittsburgh Pirates @ San Francisco Giants
 
-**Fecha:** 2026-05-07  
-**Lanzadores:** Mitch Keller (V) vs Zac Gallen (L)
+**Fecha:** 2026-05-09  
+**Lanzadores:** Carmen Mlodzinski (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.0%
+**Probabilidad de que anoten en la primera entrada:** 56.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 35.3% (6/17 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 0.0% (0/2 partidos)
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 26.3% (5/19 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Carmen Mlodzinski):** 0.0% (0/4 partidos)
 - **Puntuación ajustada:** 20.4%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 41.2% (7/17 partidos)
+- **Estadística base YRFI:** 44.4% (8/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 38.5%
+- **Impacto del lanzador local (San Francisco Giants - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 44.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-07 15:58:58
+- **Generado el:** 2026-05-08 15:13:33
 - **Fuente de datos:** season_data.json

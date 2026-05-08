@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Colorado Rockies
+# Análisis YRFI: New York Mets @ Arizona Diamondbacks
 
-**Fecha:** 2026-05-07  
-**Lanzadores:** Christian Scott (V) vs Jose Quintana (L)
+**Fecha:** 2026-05-09  
+**Lanzadores:** Nolan McLean (V) vs Ryne Nelson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.7%
+**Probabilidad de que anoten en la primera entrada:** 65.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
+### Arizona Diamondbacks (Local)
 - **Estadística base YRFI:** 38.9% (7/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 57.5%
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 43.8%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 27.8% (5/18 partidos)
+- **Estadística base YRFI:** 26.3% (5/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Jose Quintana):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 38.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-07 15:58:58
+- **Generado el:** 2026-05-08 15:13:33
 - **Fuente de datos:** season_data.json

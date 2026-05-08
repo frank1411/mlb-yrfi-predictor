@@ -1,0 +1,67 @@
+{
+  "game_pk": 824522,
+  "game_date": "2026-05-08",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "5/18"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 39.33,
+    "pitcher": {
+      "name": "Mike Burrows",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "6/20"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.77777777777778,
+        "tendency": 40.0,
+        "combined": 32.67,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.87
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 53.333333333333336,
+        "combined": 39.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.53
+      },
+      "game_yrfi_probability": 51.35
+    },
+    "yrfi_probability": 51.35
+  },
+  "metadata": {
+    "generated_at": "2026-05-08T15:13:33.933340",
+    "data_source": "season_data.json"
+  }
+}

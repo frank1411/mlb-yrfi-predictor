@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Chicago Cubs
+# Análisis YRFI: Los Angeles Angels @ Toronto Blue Jays
 
-**Fecha:** 2026-05-07  
-**Lanzadores:** Rhett Lowder (V) vs Shota Imanaga (L)
+**Fecha:** 2026-05-08  
+**Lanzadores:** Reid Detmers (V) vs Dylan Cease (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.1%
+**Probabilidad de que anoten en la primera entrada:** 40.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 22.7% (5/22 partidos)
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 33.3% (6/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 37.6%
+- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.6%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 36.8% (7/19 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 30.0% (6/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 36.0%
+- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 25.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-07 15:58:58
+- **Generado el:** 2026-05-08 15:13:33
 - **Fuente de datos:** season_data.json

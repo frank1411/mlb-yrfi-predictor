@@ -1,0 +1,67 @@
+{
+  "game_pk": 823225,
+  "game_date": "2026-05-09",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "5/19"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 42.67,
+    "pitcher": {
+      "name": "Carmen Mlodzinski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "8/18"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.31578947368421,
+        "tendency": 33.33333333333333,
+        "combined": 29.12,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.39
+      },
+      "away_team": {
+        "base": 44.44444444444444,
+        "tendency": 40.0,
+        "combined": 42.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 44.87
+      },
+      "game_yrfi_probability": 56.11
+    },
+    "yrfi_probability": 56.11
+  },
+  "metadata": {
+    "generated_at": "2026-05-08T15:13:33.973281",
+    "data_source": "season_data.json"
+  }
+}
