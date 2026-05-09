@@ -1,25 +1,25 @@
-# Análisis YRFI: Pittsburgh Pirates @ San Francisco Giants
+# Análisis YRFI: Houston Astros @ Cincinnati Reds
 
 **Fecha:** 2026-05-09  
-**Lanzadores:** Carmen Mlodzinski (V) vs Por anunciar (L)
+**Lanzadores:** Spencer Arrighetti (V) vs Chase Burns (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.1%
+**Probabilidad de que anoten en la primera entrada:** 51.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Francisco Giants (Local)
+### Cincinnati Reds (Local)
 - **Estadística base YRFI:** 26.3% (5/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Carmen Mlodzinski):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 20.4%
+- **Impacto del lanzador visitante (Houston Astros - Spencer Arrighetti):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 35.4%
 
-### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 44.4% (8/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 44.9%
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 28.6% (6/21 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

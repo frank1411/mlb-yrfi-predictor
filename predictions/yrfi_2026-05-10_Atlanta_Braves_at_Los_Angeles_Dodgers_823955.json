@@ -1,0 +1,67 @@
+{
+  "game_pk": 823955,
+  "game_date": "2026-05-10",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Blake Snell",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "6/19"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 36.19,
+    "pitcher": {
+      "name": "Spencer Strider",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 38.095238095238095,
+        "ratio": "8/21"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.57894736842105,
+        "tendency": 20.0,
+        "combined": 26.95,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.86
+      },
+      "away_team": {
+        "base": 38.095238095238095,
+        "tendency": 33.33333333333333,
+        "combined": 36.19,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.33
+      },
+      "game_yrfi_probability": 61.81
+    },
+    "yrfi_probability": 61.81
+  },
+  "metadata": {
+    "generated_at": "2026-05-09T14:42:54.725702",
+    "data_source": "season_data.json"
+  }
+}

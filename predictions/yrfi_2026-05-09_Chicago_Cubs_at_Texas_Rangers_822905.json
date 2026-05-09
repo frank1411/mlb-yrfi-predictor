@@ -1,18 +1,18 @@
 {
-  "game_pk": 822904,
+  "game_pk": 822905,
   "game_date": "2026-05-09",
   "home_team": {
     "id": "140",
     "name": "Texas Rangers",
     "pitcher": {
-      "name": "Kumar Rocker",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "3/3"
+      "name": "Jack Leiter",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 6.25,
+        "ratio": "1/16"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "112",
     "name": "Chicago Cubs",
-    "combined_yrfi_pct": 12.0,
+    "combined_yrfi_pct": 15.5,
     "pitcher": {
-      "name": "Ben Brown",
+      "name": "Edward Cabrera",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 12.5,
+        "ratio": "2/16"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 6.666666666666667,
+        "base": 6.25,
         "tendency": 20.0,
-        "combined": 12.0,
+        "combined": 11.75,
         "pitcher_impact": 0.0,
-        "adjusted": 8.4
+        "adjusted": 8.22
       },
       "away_team": {
-        "base": 6.666666666666667,
+        "base": 12.5,
         "tendency": 20.0,
-        "combined": 12.0,
-        "pitcher_impact": 100.0,
-        "adjusted": 38.4
+        "combined": 15.5,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 20.85
       },
-      "game_yrfi_probability": 43.57
+      "game_yrfi_probability": 27.36
     },
-    "yrfi_probability": 43.57
+    "yrfi_probability": 27.36
   },
   "metadata": {
-    "generated_at": "2026-05-08T15:13:33.962495",
+    "generated_at": "2026-05-09T14:42:54.703923",
     "data_source": "season_data.json"
   }
 }

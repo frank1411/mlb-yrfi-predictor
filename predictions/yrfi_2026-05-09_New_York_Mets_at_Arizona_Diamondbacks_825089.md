@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Arizona Diamondbacks
 
 **Fecha:** 2026-05-09  
-**Lanzadores:** Nolan McLean (V) vs Ryne Nelson (L)
+**Lanzadores:** Clay Holmes (V) vs Merrill Kelly (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.5%
+**Probabilidad de que anoten en la primera entrada:** 66.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 38.9% (7/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 43.8%
+- **Estadística base YRFI:** 36.8% (7/19 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (New York Mets - Clay Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 36.1%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 26.3% (5/19 partidos)
+- **Estadística base YRFI:** 25.0% (5/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 38.5%
+- **Impacto del lanzador local (Arizona Diamondbacks - Merrill Kelly):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 48.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

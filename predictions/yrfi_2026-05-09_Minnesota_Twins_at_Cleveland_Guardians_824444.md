@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Texas Rangers
+# Análisis YRFI: Minnesota Twins @ Cleveland Guardians
 
 **Fecha:** 2026-05-09  
-**Lanzadores:** Ben Brown (V) vs Kumar Rocker (L)
+**Lanzadores:** Joe Ryan (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.6%
+**Probabilidad de que anoten en la primera entrada:** 44.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 6.7% (1/15 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 29.4% (5/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Ben Brown):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 8.4%
+- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.0%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 6.7% (1/15 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 10.5% (2/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 38.4%
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 17.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

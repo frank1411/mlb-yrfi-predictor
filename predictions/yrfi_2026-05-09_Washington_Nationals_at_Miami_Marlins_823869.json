@@ -1,18 +1,18 @@
 {
-  "game_pk": 823871,
-  "game_date": "2026-05-08",
+  "game_pk": 823869,
+  "game_date": "2026-05-09",
   "home_team": {
     "id": "146",
     "name": "Miami Marlins",
     "pitcher": {
-      "name": "Robby Snelling",
+      "name": "Janson Junk",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/5"
     },
     "stats": {
       "base": {
-        "value": 43.47826086956522,
-        "ratio": "10/23"
+        "value": 45.83333333333333,
+        "ratio": "11/24"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "120",
     "name": "Washington Nationals",
-    "combined_yrfi_pct": 32.28,
+    "combined_yrfi_pct": 34.33,
     "pitcher": {
-      "name": "Foster Griffin",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "name": "Zack Littell",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 31.57894736842105,
-        "ratio": "6/19"
+        "value": 35.0,
+        "ratio": "7/20"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 43.47826086956522,
+        "base": 45.83333333333333,
         "tendency": 40.0,
-        "combined": 42.09,
-        "pitcher_impact": 0.0,
-        "adjusted": 29.46
+        "combined": 43.5,
+        "pitcher_impact": 50.0,
+        "adjusted": 45.45
       },
       "away_team": {
-        "base": 31.57894736842105,
+        "base": 35.0,
         "tendency": 33.33333333333333,
-        "combined": 32.28,
+        "combined": 34.33,
         "pitcher_impact": 0.0,
-        "adjusted": 22.6
+        "adjusted": 24.03
       },
-      "game_yrfi_probability": 45.4
+      "game_yrfi_probability": 58.56
     },
-    "yrfi_probability": 45.4
+    "yrfi_probability": 58.56
   },
   "metadata": {
-    "generated_at": "2026-05-08T15:13:33.948024",
+    "generated_at": "2026-05-09T14:42:54.694571",
     "data_source": "season_data.json"
   }
 }

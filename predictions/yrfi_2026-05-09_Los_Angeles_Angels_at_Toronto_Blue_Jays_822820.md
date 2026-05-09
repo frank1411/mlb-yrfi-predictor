@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Toronto Blue Jays
 
-**Fecha:** 2026-05-08  
-**Lanzadores:** Reid Detmers (V) vs Dylan Cease (L)
+**Fecha:** 2026-05-09  
+**Lanzadores:** Jack Kochanowicz (V) vs Trey Yesavage (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.2%
+**Probabilidad de que anoten en la primera entrada:** 43.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 33.3% (6/18 partidos)
+- **Estadística base YRFI:** 31.6% (6/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador visitante (Los Angeles Angels - Jack Kochanowicz):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 26.4%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 30.0% (6/20 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 25.7%
+- **Estadística base YRFI:** 28.6% (6/21 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 23.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

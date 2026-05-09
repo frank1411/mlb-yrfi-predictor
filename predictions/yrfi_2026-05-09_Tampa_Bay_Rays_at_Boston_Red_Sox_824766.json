@@ -1,18 +1,18 @@
 {
-  "game_pk": 824768,
-  "game_date": "2026-05-08",
+  "game_pk": 824766,
+  "game_date": "2026-05-09",
   "home_team": {
     "id": "111",
     "name": "Boston Red Sox",
     "pitcher": {
-      "name": "Connelly Early",
-      "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "1/3"
+      "name": "Payton Tolle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 11.76470588235294,
-        "ratio": "2/17"
+        "value": 11.11111111111111,
+        "ratio": "2/18"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
-    "combined_yrfi_pct": 17.96,
+    "combined_yrfi_pct": 17.33,
     "pitcher": {
-      "name": "Jesse Scholtens",
+      "name": "Nick Martinez",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 21.052631578947366,
-        "ratio": "4/19"
+        "value": 20.0,
+        "ratio": "4/20"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 11.76470588235294,
+        "base": 11.11111111111111,
         "tendency": 13.333333333333334,
-        "combined": 12.39,
+        "combined": 12.0,
         "pitcher_impact": 0.0,
-        "adjusted": 8.67
+        "adjusted": 8.4
       },
       "away_team": {
-        "base": 21.052631578947366,
+        "base": 20.0,
         "tendency": 13.333333333333334,
-        "combined": 17.96,
-        "pitcher_impact": 33.33333333333333,
-        "adjusted": 22.58
+        "combined": 17.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.13
       },
-      "game_yrfi_probability": 29.29
+      "game_yrfi_probability": 19.51
     },
-    "yrfi_probability": 29.29
+    "yrfi_probability": 19.51
   },
   "metadata": {
-    "generated_at": "2026-05-08T15:13:33.945215",
+    "generated_at": "2026-05-09T14:42:54.691307",
     "data_source": "season_data.json"
   }
 }

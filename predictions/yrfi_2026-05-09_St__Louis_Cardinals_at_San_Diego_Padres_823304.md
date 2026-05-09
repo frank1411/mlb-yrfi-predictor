@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ San Diego Padres
 
 **Fecha:** 2026-05-09  
-**Lanzadores:** Michael McGreevy (V) vs Griffin Canning (L)
+**Lanzadores:** Dustin May (V) vs Randy Vásquez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.5%
+**Probabilidad de que anoten en la primera entrada:** 54.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 20.0% (4/20 partidos)
+- **Estadística base YRFI:** 19.0% (4/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.9%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Dustin May):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 45.5%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 29.4% (5/17 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Griffin Canning):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Estadística base YRFI:** 27.8% (5/18 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Randy Vásquez):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 17.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

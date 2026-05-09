@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Cleveland Guardians
+# Análisis YRFI: Chicago Cubs @ Texas Rangers
 
-**Fecha:** 2026-05-08  
-**Lanzadores:** Connor Prielipp (V) vs Parker Messick (L)
+**Fecha:** 2026-05-09  
+**Lanzadores:** Edward Cabrera (V) vs Jack Leiter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.6%
+**Probabilidad de que anoten en la primera entrada:** 27.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 25.0% (4/16 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 6.2% (1/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Connor Prielipp):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 46.1%
+- **Impacto del lanzador visitante (Chicago Cubs - Edward Cabrera):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 8.2%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 11.1% (2/18 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 12.5% (2/16 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 10.3%
+- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 20.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

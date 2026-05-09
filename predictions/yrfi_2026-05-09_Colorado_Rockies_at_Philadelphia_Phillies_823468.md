@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Philadelphia Phillies
 
-**Fecha:** 2026-05-08  
-**Lanzadores:** Chase Dollander (V) vs Jesús Luzardo (L)
+**Fecha:** 2026-05-09  
+**Lanzadores:** Kyle Freeland (V) vs Aaron Nola (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.1%
+**Probabilidad de que anoten en la primera entrada:** 61.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 38.1% (8/21 partidos)
+- **Estadística base YRFI:** 36.4% (8/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Chase Dollander):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 23.5%
+- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 37.7%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 26.3% (5/19 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 20.4%
+- **Estadística base YRFI:** 30.0% (6/20 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 38.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

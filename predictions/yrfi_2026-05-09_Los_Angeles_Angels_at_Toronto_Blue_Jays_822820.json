@@ -1,0 +1,67 @@
+{
+  "game_pk": 822820,
+  "game_date": "2026-05-09",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Trey Yesavage",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "6/19"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 33.14,
+    "pitcher": {
+      "name": "Jack Kochanowicz",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "6/21"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.57894736842105,
+        "tendency": 20.0,
+        "combined": 26.95,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.36
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 40.0,
+        "combined": 33.14,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.2
+      },
+      "game_yrfi_probability": 43.44
+    },
+    "yrfi_probability": 43.44
+  },
+  "metadata": {
+    "generated_at": "2026-05-09T14:42:54.681523",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823466,
-  "game_date": "2026-05-08",
+  "game_pk": 823224,
+  "game_date": "2026-05-10",
   "home_team": {
-    "id": "143",
-    "name": "Philadelphia Phillies",
+    "id": "137",
+    "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Jesús Luzardo",
+      "name": "Landen Roupp",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 38.095238095238095,
-        "ratio": "8/21"
+        "value": 25.0,
+        "ratio": "5/20"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "115",
-    "name": "Colorado Rockies",
-    "combined_yrfi_pct": 29.12,
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 38.6,
     "pitcher": {
-      "name": "Chase Dollander",
+      "name": "Braxton Ashcraft",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 26.31578947368421,
-        "ratio": "5/19"
+        "value": 42.10526315789473,
+        "ratio": "8/19"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 38.095238095238095,
+        "base": 25.0,
         "tendency": 26.666666666666668,
-        "combined": 33.52,
+        "combined": 25.67,
         "pitcher_impact": 0.0,
-        "adjusted": 23.47
+        "adjusted": 17.97
       },
       "away_team": {
-        "base": 26.31578947368421,
+        "base": 42.10526315789473,
         "tendency": 33.33333333333333,
-        "combined": 29.12,
+        "combined": 38.6,
         "pitcher_impact": 0.0,
-        "adjusted": 20.39
+        "adjusted": 27.02
       },
-      "game_yrfi_probability": 39.07
+      "game_yrfi_probability": 40.13
     },
-    "yrfi_probability": 39.07
+    "yrfi_probability": 40.13
   },
   "metadata": {
-    "generated_at": "2026-05-08T15:13:33.936402",
+    "generated_at": "2026-05-09T14:42:54.722629",
     "data_source": "season_data.json"
   }
 }

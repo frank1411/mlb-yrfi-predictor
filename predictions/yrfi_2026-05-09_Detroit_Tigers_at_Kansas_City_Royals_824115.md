@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Baltimore Orioles
+# Análisis YRFI: Detroit Tigers @ Kansas City Royals
 
-**Fecha:** 2026-05-08  
-**Lanzadores:** Jacob Lopez (V) vs Kyle Bradish (L)
+**Fecha:** 2026-05-09  
+**Lanzadores:** Burch Smith (V) vs Michael Wacha (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.0%
+**Probabilidad de que anoten en la primera entrada:** 40.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 22.2% (4/18 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 14.3% (3/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 38.7%
+- **Impacto del lanzador visitante (Detroit Tigers - Burch Smith):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.3%
 
-### Athletics (Visitante)
+### Detroit Tigers (Visitante)
 - **Estadística base YRFI:** 23.8% (5/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

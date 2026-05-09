@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Miami Marlins
 
-**Fecha:** 2026-05-08  
-**Lanzadores:** Foster Griffin (V) vs Robby Snelling (L)
+**Fecha:** 2026-05-09  
+**Lanzadores:** Zack Littell (V) vs Janson Junk (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.4%
+**Probabilidad de que anoten en la primera entrada:** 58.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 43.5% (10/23 partidos)
+- **Estadística base YRFI:** 45.8% (11/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 29.5%
+- **Impacto del lanzador visitante (Washington Nationals - Zack Littell):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 45.5%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 31.6% (6/19 partidos)
+- **Estadística base YRFI:** 35.0% (7/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Robby Snelling):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

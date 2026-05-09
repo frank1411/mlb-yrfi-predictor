@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Chicago White Sox
 
-**Fecha:** 2026-05-08  
-**Lanzadores:** Emerson Hancock (V) vs Sean Burke (L)
+**Fecha:** 2026-05-09  
+**Lanzadores:** Luis Castillo (V) vs Anthony Kay (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.6%
+**Probabilidad de que anoten en la primera entrada:** 60.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 18.8% (3/16 partidos)
+- **Estadística base YRFI:** 23.5% (4/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Emerson Hancock):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.3%
+- **Impacto del lanzador visitante (Seattle Mariners - Luis Castillo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.4%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 20.0% (3/15 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Estadística base YRFI:** 18.8% (3/16 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Anthony Kay):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 45.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

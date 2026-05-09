@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Los Angeles Dodgers
 
-**Fecha:** 2026-05-09  
-**Lanzadores:** Chris Sale (V) vs Emmet Sheehan (L)
+**Fecha:** 2026-05-10  
+**Lanzadores:** Spencer Strider (V) vs Blake Snell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.0%
+**Probabilidad de que anoten en la primera entrada:** 61.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 33.3% (6/18 partidos)
+- **Estadística base YRFI:** 31.6% (6/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 48.9%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 40.0% (8/20 partidos)
+- **Estadística base YRFI:** 38.1% (8/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 36.1%
+- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 25.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-08 15:13:33
+- **Generado el:** 2026-05-09 14:42:54
 - **Fuente de datos:** season_data.json

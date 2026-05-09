@@ -1,0 +1,67 @@
+{
+  "game_pk": 824523,
+  "game_date": "2026-05-09",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Chase Burns",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "5/19"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 35.81,
+    "pitcher": {
+      "name": "Spencer Arrighetti",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "6/21"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.31578947368421,
+        "tendency": 33.33333333333333,
+        "combined": 29.12,
+        "pitcher_impact": 50.0,
+        "adjusted": 35.39
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 46.666666666666664,
+        "combined": 35.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.07
+      },
+      "game_yrfi_probability": 51.59
+    },
+    "yrfi_probability": 51.59
+  },
+  "metadata": {
+    "generated_at": "2026-05-09T14:42:54.687958",
+    "data_source": "season_data.json"
+  }
+}

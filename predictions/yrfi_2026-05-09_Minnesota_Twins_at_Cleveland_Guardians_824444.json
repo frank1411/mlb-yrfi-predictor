@@ -1,0 +1,67 @@
+{
+  "game_pk": 824444,
+  "game_date": "2026-05-09",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Tanner Bibee",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "5/17"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 14.32,
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 10.526315789473683,
+        "ratio": "2/19"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.411764705882355,
+        "tendency": 20.0,
+        "combined": 25.65,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.95
+      },
+      "away_team": {
+        "base": 10.526315789473683,
+        "tendency": 20.0,
+        "combined": 14.32,
+        "pitcher_impact": 25.0,
+        "adjusted": 17.52
+      },
+      "game_yrfi_probability": 44.7
+    },
+    "yrfi_probability": 44.7
+  },
+  "metadata": {
+    "generated_at": "2026-05-09T14:42:54.700831",
+    "data_source": "season_data.json"
+  }
+}
