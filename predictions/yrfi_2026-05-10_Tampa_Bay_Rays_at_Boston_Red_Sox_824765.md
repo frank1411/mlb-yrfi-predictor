@@ -1,6 +1,6 @@
 # Análisis YRFI: Tampa Bay Rays @ Boston Red Sox
 
-**Fecha:** 2026-05-09  
+**Fecha:** 2026-05-10  
 **Lanzadores:** Nick Martinez (V) vs Payton Tolle (L)
 
 ## 📊 Probabilidad YRFI del Partido
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-09 14:42:54
+- **Generado el:** 2026-05-10 14:43:59
 - **Fuente de datos:** season_data.json

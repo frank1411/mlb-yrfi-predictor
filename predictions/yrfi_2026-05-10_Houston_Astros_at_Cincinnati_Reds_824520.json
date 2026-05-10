@@ -1,0 +1,67 @@
+{
+  "game_pk": 824520,
+  "game_date": "2026-05-10",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "5/20"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 35.03,
+    "pitcher": {
+      "name": "Kai-Wei Teng",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "6/22"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.83
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 46.666666666666664,
+        "combined": 35.03,
+        "pitcher_impact": 60.0,
+        "adjusted": 42.52
+      },
+      "game_yrfi_probability": 71.16
+    },
+    "yrfi_probability": 71.16
+  },
+  "metadata": {
+    "generated_at": "2026-05-10T14:43:59.645224",
+    "data_source": "season_data.json"
+  }
+}

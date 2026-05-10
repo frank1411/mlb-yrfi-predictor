@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Miami Marlins
 
-**Fecha:** 2026-05-09  
-**Lanzadores:** Zack Littell (V) vs Janson Junk (L)
+**Fecha:** 2026-05-10  
+**Lanzadores:** Cade Cavalli (V) vs Sandy Alcantara (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.6%
+**Probabilidad de que anoten en la primera entrada:** 55.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 45.8% (11/24 partidos)
+- **Estadística base YRFI:** 44.0% (11/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Zack Littell):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 45.5%
+- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 39.7%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 35.0% (7/20 partidos)
+- **Estadística base YRFI:** 38.1% (8/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Impacto del lanzador local (Miami Marlins - Sandy Alcantara):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 25.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-09 14:42:54
+- **Generado el:** 2026-05-10 14:43:59
 - **Fuente de datos:** season_data.json

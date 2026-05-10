@@ -1,18 +1,18 @@
 {
-  "game_pk": 822820,
-  "game_date": "2026-05-09",
+  "game_pk": 822819,
+  "game_date": "2026-05-10",
   "home_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Trey Yesavage",
+      "name": "Spencer Miles",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 31.57894736842105,
-        "ratio": "6/19"
+        "value": 30.0,
+        "ratio": "6/20"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "108",
     "name": "Los Angeles Angels",
-    "combined_yrfi_pct": 33.14,
+    "combined_yrfi_pct": 32.36,
     "pitcher": {
-      "name": "Jack Kochanowicz",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "José Soriano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 28.57142857142857,
-        "ratio": "6/21"
+        "value": 27.27272727272727,
+        "ratio": "6/22"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.57894736842105,
+        "base": 30.0,
         "tendency": 20.0,
-        "combined": 26.95,
-        "pitcher_impact": 25.0,
-        "adjusted": 26.36
+        "combined": 26.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.2
       },
       "away_team": {
-        "base": 28.57142857142857,
+        "base": 27.27272727272727,
         "tendency": 40.0,
-        "combined": 33.14,
+        "combined": 32.36,
         "pitcher_impact": 0.0,
-        "adjusted": 23.2
+        "adjusted": 22.65
       },
-      "game_yrfi_probability": 43.44
+      "game_yrfi_probability": 36.73
     },
-    "yrfi_probability": 43.44
+    "yrfi_probability": 36.73
   },
   "metadata": {
-    "generated_at": "2026-05-09T14:42:54.681523",
+    "generated_at": "2026-05-10T14:43:59.642453",
     "data_source": "season_data.json"
   }
 }

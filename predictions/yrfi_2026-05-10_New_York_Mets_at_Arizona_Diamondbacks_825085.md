@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Arizona Diamondbacks
 
-**Fecha:** 2026-05-09  
-**Lanzadores:** Clay Holmes (V) vs Merrill Kelly (L)
+**Fecha:** 2026-05-10  
+**Lanzadores:** Huascar Brazobán (V) vs Eduardo Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.7%
+**Probabilidad de que anoten en la primera entrada:** 44.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 36.8% (7/19 partidos)
+- **Estadística base YRFI:** 35.0% (7/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Clay Holmes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 36.1%
+- **Impacto del lanzador visitante (New York Mets - Huascar Brazobán):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.3%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 25.0% (5/20 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Merrill Kelly):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 48.0%
+- **Estadística base YRFI:** 23.8% (5/21 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 30.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-09 14:42:54
+- **Generado el:** 2026-05-10 14:43:59
 - **Fuente de datos:** season_data.json

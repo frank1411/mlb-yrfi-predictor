@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Cincinnati Reds
 
-**Fecha:** 2026-05-09  
-**Lanzadores:** Spencer Arrighetti (V) vs Chase Burns (L)
+**Fecha:** 2026-05-10  
+**Lanzadores:** Kai-Wei Teng (V) vs Andrew Abbott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.6%
+**Probabilidad de que anoten en la primera entrada:** 71.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 26.3% (5/19 partidos)
+- **Estadística base YRFI:** 25.0% (5/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Spencer Arrighetti):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.4%
+- **Impacto del lanzador visitante (Houston Astros - Kai-Wei Teng):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 49.8%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 28.6% (6/21 partidos)
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 25.1%
+- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 60.0% (3/5 partidos)
+- **Puntuación ajustada:** 42.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-09 14:42:54
+- **Generado el:** 2026-05-10 14:43:59
 - **Fuente de datos:** season_data.json

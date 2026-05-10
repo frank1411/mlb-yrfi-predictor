@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Toronto Blue Jays
 
-**Fecha:** 2026-05-09  
-**Lanzadores:** Jack Kochanowicz (V) vs Trey Yesavage (L)
+**Fecha:** 2026-05-10  
+**Lanzadores:** José Soriano (V) vs Spencer Miles (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.4%
+**Probabilidad de que anoten en la primera entrada:** 36.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 31.6% (6/19 partidos)
+- **Estadística base YRFI:** 30.0% (6/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Jack Kochanowicz):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador visitante (Los Angeles Angels - José Soriano):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 18.2%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 28.6% (6/21 partidos)
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 23.2%
+- **Impacto del lanzador local (Toronto Blue Jays - Spencer Miles):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-09 14:42:54
+- **Generado el:** 2026-05-10 14:43:59
 - **Fuente de datos:** season_data.json

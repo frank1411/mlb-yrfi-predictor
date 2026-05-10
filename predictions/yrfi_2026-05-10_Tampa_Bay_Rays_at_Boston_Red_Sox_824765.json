@@ -1,6 +1,6 @@
 {
-  "game_pk": 824766,
-  "game_date": "2026-05-09",
+  "game_pk": 824765,
+  "game_date": "2026-05-10",
   "home_team": {
     "id": "111",
     "name": "Boston Red Sox",
@@ -61,7 +61,7 @@
     "yrfi_probability": 19.51
   },
   "metadata": {
-    "generated_at": "2026-05-09T14:42:54.691307",
+    "generated_at": "2026-05-10T14:43:59.636458",
     "data_source": "season_data.json"
   }
 }

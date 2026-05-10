@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Milwaukee Brewers
 
-**Fecha:** 2026-05-09  
-**Lanzadores:** Cam Schlittler (V) vs Kyle Harrison (L)
+**Fecha:** 2026-05-10  
+**Lanzadores:** Carlos Rodón (V) vs Logan Henderson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.1%
+**Probabilidad de que anoten en la primera entrada:** 43.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 26.3% (5/19 partidos)
+- **Estadística base YRFI:** 25.0% (5/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 31.6% (6/19 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Kyle Harrison):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 36.3%
+- **Estadística base YRFI:** 35.0% (7/20 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Logan Henderson):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-09 14:42:54
+- **Generado el:** 2026-05-10 14:43:59
 - **Fuente de datos:** season_data.json

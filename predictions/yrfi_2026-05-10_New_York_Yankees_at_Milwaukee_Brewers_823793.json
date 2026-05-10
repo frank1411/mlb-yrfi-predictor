@@ -1,0 +1,67 @@
+{
+  "game_pk": 823793,
+  "game_date": "2026-05-10",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Logan Henderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "5/20"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 42.33,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.0,
+        "ratio": "7/20"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.83
+      },
+      "away_team": {
+        "base": 35.0,
+        "tendency": 53.333333333333336,
+        "combined": 42.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.63
+      },
+      "game_yrfi_probability": 43.58
+    },
+    "yrfi_probability": 43.58
+  },
+  "metadata": {
+    "generated_at": "2026-05-10T14:43:59.653753",
+    "data_source": "season_data.json"
+  }
+}

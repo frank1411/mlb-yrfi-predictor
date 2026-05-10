@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Cleveland Guardians
 
-**Fecha:** 2026-05-09  
-**Lanzadores:** Joe Ryan (V) vs Tanner Bibee (L)
+**Fecha:** 2026-05-10  
+**Lanzadores:** Andrew Morris (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.7%
+**Probabilidad de que anoten en la primera entrada:** 27.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 29.4% (5/17 partidos)
+- **Estadística base YRFI:** 27.8% (5/18 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Impacto del lanzador visitante (Minnesota Twins - Andrew Morris):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.3%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 10.5% (2/19 partidos)
+- **Estadística base YRFI:** 15.0% (3/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 17.5%
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 11.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-09 14:42:54
+- **Generado el:** 2026-05-10 14:43:59
 - **Fuente de datos:** season_data.json
