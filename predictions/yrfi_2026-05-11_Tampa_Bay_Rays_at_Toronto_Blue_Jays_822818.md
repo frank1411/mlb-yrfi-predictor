@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Cleveland Guardians
+# Análisis YRFI: Tampa Bay Rays @ Toronto Blue Jays
 
-**Fecha:** 2026-05-10  
-**Lanzadores:** Andrew Morris (V) vs Gavin Williams (L)
+**Fecha:** 2026-05-11  
+**Lanzadores:** Drew Rasmussen (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 27.1%
+**Probabilidad de que anoten en la primera entrada:** 38.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 27.8% (5/18 partidos)
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 33.3% (7/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Andrew Morris):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.3%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 27.1%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 15.0% (3/20 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 23.8% (5/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 11.9%
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 15.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-10 14:43:59
+- **Generado el:** 2026-05-11 16:24:10
 - **Fuente de datos:** season_data.json
