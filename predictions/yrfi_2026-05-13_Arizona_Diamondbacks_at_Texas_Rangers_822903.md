@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Texas Rangers
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Michael Soroka (V) vs Nathan Eovaldi (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Zac Gallen (V) vs MacKenzie Gore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.5%
+**Probabilidad de que anoten en la primera entrada:** 35.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 5.6% (1/18 partidos)
+- **Estadística base YRFI:** 5.3% (1/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Michael Soroka):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 37.9%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Zac Gallen):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 22.8%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 22.2% (4/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 33.1%
+- **Estadística base YRFI:** 26.3% (5/19 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 16.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-11 16:24:10
+- **Generado el:** 2026-05-12 16:13:16
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824927,
+  "game_date": "2026-05-12",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Grant Holmes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "5/18"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 14.67,
+    "pitcher": {
+      "name": "Colin Rea",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 11.11111111111111,
+        "ratio": "2/18"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.77777777777778,
+        "tendency": 33.33333333333333,
+        "combined": 30.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.0
+      },
+      "away_team": {
+        "base": 11.11111111111111,
+        "tendency": 20.0,
+        "combined": 14.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 10.27
+      },
+      "game_yrfi_probability": 29.11
+    },
+    "yrfi_probability": 29.11
+  },
+  "metadata": {
+    "generated_at": "2026-05-12T16:13:16.112829",
+    "data_source": "season_data.json"
+  }
+}

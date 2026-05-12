@@ -1,0 +1,67 @@
+{
+  "game_pk": 823951,
+  "game_date": "2026-05-13",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "6/22"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 20.14,
+    "pitcher": {
+      "name": "Adrian Houser",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "4/4"
+    },
+    "stats": {
+      "base": {
+        "value": 15.789473684210526,
+        "ratio": "3/19"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.27272727272727,
+        "tendency": 20.0,
+        "combined": 24.36,
+        "pitcher_impact": 100.0,
+        "adjusted": 47.05
+      },
+      "away_team": {
+        "base": 15.789473684210526,
+        "tendency": 26.666666666666668,
+        "combined": 20.14,
+        "pitcher_impact": 25.0,
+        "adjusted": 21.6
+      },
+      "game_yrfi_probability": 58.49
+    },
+    "yrfi_probability": 58.49
+  },
+  "metadata": {
+    "generated_at": "2026-05-12T16:13:16.134699",
+    "data_source": "season_data.json"
+  }
+}

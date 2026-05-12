@@ -1,0 +1,67 @@
+{
+  "game_pk": 825011,
+  "game_date": "2026-05-13",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "4/16"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 20.33,
+    "pitcher": {
+      "name": "Andre Pallante",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "5/20"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 46.666666666666664,
+        "combined": 33.67,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 43.57
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 13.333333333333334,
+        "combined": 20.33,
+        "pitcher_impact": 75.0,
+        "adjusted": 36.73
+      },
+      "game_yrfi_probability": 64.3
+    },
+    "yrfi_probability": 64.3
+  },
+  "metadata": {
+    "generated_at": "2026-05-12T16:13:16.131678",
+    "data_source": "season_data.json"
+  }
+}

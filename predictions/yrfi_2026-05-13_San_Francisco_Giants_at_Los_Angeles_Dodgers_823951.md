@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Trevor McDonald (V) vs Roki Sasaki (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Adrian Houser (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 29.5%
+**Probabilidad de que anoten en la primera entrada:** 58.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 28.6% (6/21 partidos)
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Trevor McDonald):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 17.6%
+- **Impacto del lanzador visitante (San Francisco Giants - Adrian Houser):** 100.0% (4/4 partidos)
+- **Puntuación ajustada:** 47.0%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 16.7% (3/18 partidos)
+- **Estadística base YRFI:** 15.8% (3/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 14.5%
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 21.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-11 16:24:10
+- **Generado el:** 2026-05-12 16:13:16
 - **Fuente de datos:** season_data.json

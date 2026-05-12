@@ -1,0 +1,67 @@
+{
+  "game_pk": 824442,
+  "game_date": "2026-05-12",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "5/20"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 31.0,
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "6/24"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 13.333333333333334,
+        "combined": 20.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.23
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 50.0,
+        "adjusted": 36.7
+      },
+      "game_yrfi_probability": 45.71
+    },
+    "yrfi_probability": 45.71
+  },
+  "metadata": {
+    "generated_at": "2026-05-12T16:13:16.093421",
+    "data_source": "season_data.json"
+  }
+}

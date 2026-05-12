@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Toronto Blue Jays
 
-**Fecha:** 2026-05-11  
-**Lanzadores:** Drew Rasmussen (V) vs Kevin Gausman (L)
+**Fecha:** 2026-05-12  
+**Lanzadores:** Shane McClanahan (V) vs Patrick Corbin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.5%
+**Probabilidad de que anoten en la primera entrada:** 51.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 33.3% (7/21 partidos)
+- **Estadística base YRFI:** 31.8% (7/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.1%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Shane McClanahan):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.0%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 23.8% (5/21 partidos)
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 15.6%
+- **Impacto del lanzador local (Toronto Blue Jays - Patrick Corbin):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 32.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-11 16:24:10
+- **Generado el:** 2026-05-12 16:13:16
 - **Fuente de datos:** season_data.json

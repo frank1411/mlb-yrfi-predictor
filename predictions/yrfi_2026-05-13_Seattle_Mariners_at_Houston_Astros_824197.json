@@ -1,0 +1,67 @@
+{
+  "game_pk": 824197,
+  "game_date": "2026-05-13",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Tatsuya Imai",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 55.00000000000001,
+        "ratio": "11/20"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 20.63,
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "4/19"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 55.00000000000001,
+        "tendency": 33.33333333333333,
+        "combined": 46.33,
+        "pitcher_impact": 25.0,
+        "adjusted": 39.93
+      },
+      "away_team": {
+        "base": 21.052631578947366,
+        "tendency": 20.0,
+        "combined": 20.63,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.44
+      },
+      "game_yrfi_probability": 48.6
+    },
+    "yrfi_probability": 48.6
+  },
+  "metadata": {
+    "generated_at": "2026-05-12T16:13:16.128435",
+    "data_source": "season_data.json"
+  }
+}
