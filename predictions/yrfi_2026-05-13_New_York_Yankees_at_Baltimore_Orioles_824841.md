@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Baltimore Orioles
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Will Warren (V) vs Por anunciar (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Max Fried (V) vs Kyle Bradish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.5%
+**Probabilidad de que anoten en la primera entrada:** 41.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 18.2% (4/22 partidos)
+- **Estadística base YRFI:** 17.4% (4/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 13.2%
+- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 12.9%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 36.4% (8/22 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 45.2%
+- **Estadística base YRFI:** 39.1% (9/23 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 33.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:11
 - **Fuente de datos:** season_data.json

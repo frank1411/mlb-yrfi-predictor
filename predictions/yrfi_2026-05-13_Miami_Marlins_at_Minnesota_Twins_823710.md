@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Minnesota Twins
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Eury Pérez (V) vs Bailey Ober (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Max Meyer (V) vs Simeon Woods Richardson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.5%
+**Probabilidad de que anoten en la primera entrada:** 39.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 40.0% (8/20 partidos)
+- **Estadística base YRFI:** 38.1% (8/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.4%
+- **Impacto del lanzador visitante (Miami Marlins - Max Meyer):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.6%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 33.3% (5/15 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 31.2%
+- **Estadística base YRFI:** 31.2% (5/16 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Simeon Woods Richardson):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:12
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822815,
+  "game_date": "2026-05-13",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "7/23"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 28.93,
+    "pitcher": {
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "7/23"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.434782608695656,
+        "tendency": 13.333333333333334,
+        "combined": 23.59,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.52
+      },
+      "away_team": {
+        "base": 30.434782608695656,
+        "tendency": 26.666666666666668,
+        "combined": 28.93,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.25
+      },
+      "game_yrfi_probability": 33.42
+    },
+    "yrfi_probability": 33.42
+  },
+  "metadata": {
+    "generated_at": "2026-05-13T16:14:12.004660",
+    "data_source": "season_data.json"
+  }
+}

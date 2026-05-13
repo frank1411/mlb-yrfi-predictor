@@ -1,0 +1,67 @@
+{
+  "game_pk": 823952,
+  "game_date": "2026-05-14",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "7/23"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 19.67,
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 15.0,
+        "ratio": "3/20"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.434782608695656,
+        "tendency": 26.666666666666668,
+        "combined": 28.93,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.25
+      },
+      "away_team": {
+        "base": 15.0,
+        "tendency": 26.666666666666668,
+        "combined": 19.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.77
+      },
+      "game_yrfi_probability": 31.23
+    },
+    "yrfi_probability": 31.23
+  },
+  "metadata": {
+    "generated_at": "2026-05-13T16:14:12.031160",
+    "data_source": "season_data.json"
+  }
+}

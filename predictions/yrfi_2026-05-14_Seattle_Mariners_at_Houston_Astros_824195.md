@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Atlanta Braves
+# Análisis YRFI: Seattle Mariners @ Houston Astros
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Colin Rea (V) vs Grant Holmes (L)
+**Fecha:** 2026-05-14  
+**Lanzadores:** Bryce Miller (V) vs Lance McCullers Jr. (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 29.1%
+**Probabilidad de que anoten en la primera entrada:** 54.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 27.8% (5/18 partidos)
+### Houston Astros (Local)
+- **Estadística base YRFI:** 52.4% (11/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.0%
+- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 31.3%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 11.1% (2/18 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 20.0% (4/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 10.3%
+- **Impacto del lanzador local (Houston Astros - Lance McCullers Jr.):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 34.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:12
 - **Fuente de datos:** season_data.json

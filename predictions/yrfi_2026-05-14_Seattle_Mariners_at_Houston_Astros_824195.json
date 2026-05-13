@@ -1,0 +1,67 @@
+{
+  "game_pk": 824195,
+  "game_date": "2026-05-14",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Lance McCullers Jr.",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 52.38095238095239,
+        "ratio": "11/21"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 20.0,
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "4/20"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 52.38095238095239,
+        "tendency": 33.33333333333333,
+        "combined": 44.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 31.33
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 20.0,
+        "combined": 20.0,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 34.0
+      },
+      "game_yrfi_probability": 54.68
+    },
+    "yrfi_probability": 54.68
+  },
+  "metadata": {
+    "generated_at": "2026-05-13T16:14:12.025342",
+    "data_source": "season_data.json"
+  }
+}

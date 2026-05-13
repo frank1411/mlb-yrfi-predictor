@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Cleveland Guardians
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Walbert Ureña (V) vs Slade Cecconi (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Reid Detmers (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.7%
+**Probabilidad de que anoten en la primera entrada:** 32.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 25.0% (5/20 partidos)
+- **Estadística base YRFI:** 23.8% (5/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Walbert Ureña):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.2%
+- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 13.7%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 25.0% (6/24 partidos)
+- **Estadística base YRFI:** 24.0% (6/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.7%
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 21.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:11
 - **Fuente de datos:** season_data.json

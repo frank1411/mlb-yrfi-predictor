@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Milwaukee Brewers
+# Análisis YRFI: Chicago Cubs @ Atlanta Braves
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Matt Waldron (V) vs Brandon Sproat (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Shota Imanaga (V) vs JR Ritchie (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.8%
+**Probabilidad de que anoten en la primera entrada:** 46.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 23.8% (5/21 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 26.3% (5/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Matt Waldron):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.3%
+- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 40.4%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 11.8% (2/17 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 10.5% (2/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Brandon Sproat):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 20.5%
+- **Impacto del lanzador local (Atlanta Braves - JR Ritchie):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 10.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:12
 - **Fuente de datos:** season_data.json

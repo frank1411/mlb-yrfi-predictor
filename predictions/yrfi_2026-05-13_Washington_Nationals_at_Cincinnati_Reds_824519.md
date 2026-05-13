@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Cincinnati Reds
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Miles Mikolas (V) vs Brady Singer (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Jake Irvin (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.7%
+**Probabilidad de que anoten en la primera entrada:** 47.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 23.8% (5/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.3%
+- **Estadística base YRFI:** 22.7% (5/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 32.0%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 36.4% (8/22 partidos)
+- **Estadística base YRFI:** 34.8% (8/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.7%
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:11
 - **Fuente de datos:** season_data.json

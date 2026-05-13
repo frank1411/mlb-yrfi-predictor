@@ -1,0 +1,67 @@
+{
+  "game_pk": 824763,
+  "game_date": "2026-05-13",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 10.0,
+        "ratio": "2/20"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 30.0,
+    "pitcher": {
+      "name": "Andrew Painter",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "5/18"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 10.0,
+        "tendency": 13.333333333333334,
+        "combined": 11.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 7.93
+      },
+      "away_team": {
+        "base": 27.77777777777778,
+        "tendency": 33.33333333333333,
+        "combined": 30.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.0
+      },
+      "game_yrfi_probability": 27.26
+    },
+    "yrfi_probability": 27.26
+  },
+  "metadata": {
+    "generated_at": "2026-05-13T16:14:12.001779",
+    "data_source": "season_data.json"
+  }
+}

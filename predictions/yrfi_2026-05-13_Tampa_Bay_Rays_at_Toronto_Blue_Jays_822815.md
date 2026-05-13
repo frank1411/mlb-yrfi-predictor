@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ New York Mets
+# Análisis YRFI: Tampa Bay Rays @ Toronto Blue Jays
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Jack Flaherty (V) vs Freddy Peralta (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Griffin Jax (V) vs Dylan Cease (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.9%
+**Probabilidad de que anoten en la primera entrada:** 33.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 38.9% (7/18 partidos)
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 30.4% (7/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.6%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 16.5%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 21.7% (5/23 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 30.4% (7/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - Freddy Peralta):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:12
 - **Fuente de datos:** season_data.json

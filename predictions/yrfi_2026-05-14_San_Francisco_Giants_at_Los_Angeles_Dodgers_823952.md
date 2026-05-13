@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
 
-**Fecha:** 2026-05-13  
-**Lanzadores:** Adrian Houser (V) vs Yoshinobu Yamamoto (L)
+**Fecha:** 2026-05-14  
+**Lanzadores:** Robbie Ray (V) vs Shohei Ohtani (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.5%
+**Probabilidad de que anoten en la primera entrada:** 31.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 27.3% (6/22 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Adrian Houser):** 100.0% (4/4 partidos)
-- **Puntuación ajustada:** 47.0%
+- **Estadística base YRFI:** 30.4% (7/23 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.2%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 15.8% (3/19 partidos)
+- **Estadística base YRFI:** 15.0% (3/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 21.6%
+- **Impacto del lanzador local (Los Angeles Dodgers - Shohei Ohtani):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 13.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:12
 - **Fuente de datos:** season_data.json

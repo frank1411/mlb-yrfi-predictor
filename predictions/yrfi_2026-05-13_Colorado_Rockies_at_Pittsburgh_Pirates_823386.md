@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Pittsburgh Pirates
 
-**Fecha:** 2026-05-12  
-**Lanzadores:** Michael Lorenzen (V) vs Paul Skenes (L)
+**Fecha:** 2026-05-13  
+**Lanzadores:** Jose Quintana (V) vs Mitch Keller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.8%
+**Probabilidad de que anoten en la primera entrada:** 63.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 40.0% (8/20 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Michael Lorenzen):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Estadística base YRFI:** 42.9% (9/21 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Colorado Rockies - Jose Quintana):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 51.1%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 27.3% (6/22 partidos)
+- **Estadística base YRFI:** 26.1% (6/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.8%
+- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 26.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-12 16:13:16
+- **Generado el:** 2026-05-13 16:14:11
 - **Fuente de datos:** season_data.json
