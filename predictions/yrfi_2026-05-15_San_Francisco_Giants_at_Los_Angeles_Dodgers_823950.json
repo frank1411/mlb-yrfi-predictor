@@ -1,0 +1,67 @@
+{
+  "game_pk": 823950,
+  "game_date": "2026-05-15",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "7/24"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 19.24,
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 14.285714285714285,
+        "ratio": "3/21"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.166666666666668,
+        "tendency": 20.0,
+        "combined": 25.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.85
+      },
+      "away_team": {
+        "base": 14.285714285714285,
+        "tendency": 26.666666666666668,
+        "combined": 19.24,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 23.47
+      },
+      "game_yrfi_probability": 37.13
+    },
+    "yrfi_probability": 37.13
+  },
+  "metadata": {
+    "generated_at": "2026-05-14T16:08:09.144348",
+    "data_source": "season_data.json"
+  }
+}

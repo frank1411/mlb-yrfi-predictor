@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Milwaukee Brewers
+# Análisis YRFI: Chicago Cubs @ Atlanta Braves
 
-**Fecha:** 2026-05-13  
-**Lanzadores:** Michael King (V) vs Jacob Misiorowski (L)
+**Fecha:** 2026-05-14  
+**Lanzadores:** Ben Brown (V) vs Chris Sale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.3%
+**Probabilidad de que anoten en la primera entrada:** 27.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 22.7% (5/22 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 25.0% (5/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 18.9%
+- **Impacto del lanzador visitante (Chicago Cubs - Ben Brown):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.8%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 11.1% (2/18 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 10.0% (2/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 17.8%
+- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 9.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-13 16:14:12
+- **Generado el:** 2026-05-14 16:08:09
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Toronto Blue Jays
+# Análisis YRFI: Detroit Tigers @ New York Mets
 
-**Fecha:** 2026-05-13  
-**Lanzadores:** Griffin Jax (V) vs Dylan Cease (L)
+**Fecha:** 2026-05-14  
+**Lanzadores:** Keider Montero (V) vs Nolan McLean (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.4%
+**Probabilidad de que anoten en la primera entrada:** 38.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 30.4% (7/23 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 35.0% (7/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 16.5%
+- **Impacto del lanzador visitante (Detroit Tigers - Keider Montero):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.4%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 30.4% (7/23 partidos)
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 24.0% (6/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.2%
+- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-13 16:14:12
+- **Generado el:** 2026-05-14 16:08:09
 - **Fuente de datos:** season_data.json

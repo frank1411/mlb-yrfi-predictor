@@ -1,0 +1,67 @@
+{
+  "game_pk": 823383,
+  "game_date": "2026-05-14",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mason Montgomery",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 40.909090909090914,
+        "ratio": "9/22"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 28.33,
+    "pitcher": {
+      "name": "Chase Dollander",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "6/24"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.909090909090914,
+        "tendency": 46.666666666666664,
+        "combined": 43.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.25
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.83
+      },
+      "game_yrfi_probability": 44.08
+    },
+    "yrfi_probability": 44.08
+  },
+  "metadata": {
+    "generated_at": "2026-05-14T16:08:09.095569",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Houston Astros
 
 **Fecha:** 2026-05-14  
-**Lanzadores:** Bryce Miller (V) vs Lance McCullers Jr. (L)
+**Lanzadores:** Luis Castillo (V) vs Mike Burrows (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.7%
+**Probabilidad de que anoten en la primera entrada:** 58.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 52.4% (11/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.3%
+- **Estadística base YRFI:** 50.0% (11/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - Luis Castillo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 38.5%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 20.0% (4/20 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Lance McCullers Jr.):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 34.0%
+- **Estadística base YRFI:** 23.8% (5/21 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Mike Burrows):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-13 16:14:12
+- **Generado el:** 2026-05-14 16:08:09
 - **Fuente de datos:** season_data.json

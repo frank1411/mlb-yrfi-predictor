@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Cincinnati Reds
 
-**Fecha:** 2026-05-13  
-**Lanzadores:** Jake Irvin (V) vs Nick Lodolo (L)
+**Fecha:** 2026-05-14  
+**Lanzadores:** Foster Griffin (V) vs Chase Burns (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.0%
+**Probabilidad de que anoten en la primera entrada:** 37.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 22.7% (5/22 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 32.0%
+- **Estadística base YRFI:** 26.1% (6/23 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 20.3%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 34.8% (8/23 partidos)
+- **Estadística base YRFI:** 33.3% (8/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-13 16:14:11
+- **Generado el:** 2026-05-14 16:08:09
 - **Fuente de datos:** season_data.json

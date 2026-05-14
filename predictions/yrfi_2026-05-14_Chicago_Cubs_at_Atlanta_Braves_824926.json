@@ -1,18 +1,18 @@
 {
-  "game_pk": 824928,
-  "game_date": "2026-05-13",
+  "game_pk": 824926,
+  "game_date": "2026-05-14",
   "home_team": {
     "id": "144",
     "name": "Atlanta Braves",
     "pitcher": {
-      "name": "JR Ritchie",
+      "name": "Chris Sale",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 26.31578947368421,
-        "ratio": "5/19"
+        "value": 25.0,
+        "ratio": "5/20"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "112",
     "name": "Chicago Cubs",
-    "combined_yrfi_pct": 14.32,
+    "combined_yrfi_pct": 14.0,
     "pitcher": {
-      "name": "Shota Imanaga",
-      "yrfi_allowed": 66.66666666666666,
-      "yrfi_ratio": "2/3"
+      "name": "Ben Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 10.526315789473683,
-        "ratio": "2/19"
+        "value": 10.0,
+        "ratio": "2/20"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 26.31578947368421,
+        "base": 25.0,
         "tendency": 33.33333333333333,
-        "combined": 29.12,
-        "pitcher_impact": 66.66666666666666,
-        "adjusted": 40.39
+        "combined": 28.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.83
       },
       "away_team": {
-        "base": 10.526315789473683,
+        "base": 10.0,
         "tendency": 20.0,
-        "combined": 14.32,
+        "combined": 14.0,
         "pitcher_impact": 0.0,
-        "adjusted": 10.02
+        "adjusted": 9.8
       },
-      "game_yrfi_probability": 46.36
+      "game_yrfi_probability": 27.69
     },
-    "yrfi_probability": 46.36
+    "yrfi_probability": 27.69
   },
   "metadata": {
-    "generated_at": "2026-05-13T16:14:12.010515",
+    "generated_at": "2026-05-14T16:08:09.136936",
     "data_source": "season_data.json"
   }
 }

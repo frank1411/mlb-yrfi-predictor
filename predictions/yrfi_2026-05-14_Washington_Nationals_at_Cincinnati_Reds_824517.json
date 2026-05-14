@@ -1,0 +1,67 @@
+{
+  "game_pk": 824517,
+  "game_date": "2026-05-14",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Chase Burns",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "6/23"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 30.67,
+    "pitcher": {
+      "name": "Foster Griffin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "8/24"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.08695652173913,
+        "tendency": 33.33333333333333,
+        "combined": 28.99,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.29
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "game_yrfi_probability": 37.4
+    },
+    "yrfi_probability": 37.4
+  },
+  "metadata": {
+    "generated_at": "2026-05-14T16:08:09.101154",
+    "data_source": "season_data.json"
+  }
+}

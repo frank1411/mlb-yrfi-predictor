@@ -1,0 +1,67 @@
+{
+  "game_pk": 823709,
+  "game_date": "2026-05-14",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 40.909090909090914,
+        "ratio": "9/22"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 37.18,
+    "pitcher": {
+      "name": "Braxton Garrett",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.294117647058826,
+        "ratio": "6/17"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.909090909090914,
+        "tendency": 26.666666666666668,
+        "combined": 35.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.65
+      },
+      "away_team": {
+        "base": 35.294117647058826,
+        "tendency": 40.0,
+        "combined": 37.18,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.02
+      },
+      "game_yrfi_probability": 44.26
+    },
+    "yrfi_probability": 44.26
+  },
+  "metadata": {
+    "generated_at": "2026-05-14T16:08:09.111756",
+    "data_source": "season_data.json"
+  }
+}
