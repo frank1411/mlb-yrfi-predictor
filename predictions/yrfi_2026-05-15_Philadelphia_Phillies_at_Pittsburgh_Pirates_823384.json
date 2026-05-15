@@ -1,18 +1,18 @@
 {
-  "game_pk": 823383,
-  "game_date": "2026-05-14",
+  "game_pk": 823384,
+  "game_date": "2026-05-15",
   "home_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Mason Montgomery",
+      "name": "Braxton Ashcraft",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 40.909090909090914,
-        "ratio": "9/22"
+        "value": 43.47826086956522,
+        "ratio": "10/23"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "115",
-    "name": "Colorado Rockies",
+    "id": "143",
+    "name": "Philadelphia Phillies",
     "combined_yrfi_pct": 28.33,
     "pitcher": {
-      "name": "Chase Dollander",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "Aaron Nola",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
         "value": 25.0,
-        "ratio": "6/24"
+        "ratio": "5/20"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 40.909090909090914,
+        "base": 43.47826086956522,
         "tendency": 46.666666666666664,
-        "combined": 43.21,
-        "pitcher_impact": 0.0,
-        "adjusted": 30.25
+        "combined": 44.75,
+        "pitcher_impact": 20.0,
+        "adjusted": 37.33
       },
       "away_team": {
         "base": 25.0,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 19.83
       },
-      "game_yrfi_probability": 44.08
+      "game_yrfi_probability": 49.76
     },
-    "yrfi_probability": 44.08
+    "yrfi_probability": 49.76
   },
   "metadata": {
-    "generated_at": "2026-05-14T16:08:09.095569",
+    "generated_at": "2026-05-15T15:56:12.051117",
     "data_source": "season_data.json"
   }
 }

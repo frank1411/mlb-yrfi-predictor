@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Minnesota Twins
+# Análisis YRFI: Milwaukee Brewers @ Minnesota Twins
 
-**Fecha:** 2026-05-14  
-**Lanzadores:** Braxton Garrett (V) vs Zebby Matthews (L)
+**Fecha:** 2026-05-15  
+**Lanzadores:** Por anunciar (V) vs Joe Ryan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.3%
+**Probabilidad de que anoten en la primera entrada:** 53.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 40.9% (9/22 partidos)
+- **Estadística base YRFI:** 39.1% (9/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Braxton Garrett):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.9%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 35.3% (6/17 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 29.4% (5/17 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.0%
+- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 23.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-14 16:08:09
+- **Generado el:** 2026-05-15 15:56:12
 - **Fuente de datos:** season_data.json

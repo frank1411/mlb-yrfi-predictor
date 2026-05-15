@@ -1,0 +1,67 @@
+{
+  "game_pk": 823629,
+  "game_date": "2026-05-15",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Clay Holmes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "7/21"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 46.5,
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "9/24"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 13.333333333333334,
+        "combined": 25.33,
+        "pitcher_impact": 20.0,
+        "adjusted": 23.73
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 60.0,
+        "combined": 46.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.55
+      },
+      "game_yrfi_probability": 48.56
+    },
+    "yrfi_probability": 48.56
+  },
+  "metadata": {
+    "generated_at": "2026-05-15T15:56:12.070773",
+    "data_source": "season_data.json"
+  }
+}

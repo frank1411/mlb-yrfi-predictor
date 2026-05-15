@@ -1,0 +1,67 @@
+{
+  "game_pk": 824280,
+  "game_date": "2026-05-15",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Brenan Hanifee",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "6/18"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 17.96,
+    "pitcher": {
+      "name": "Trey Yesavage",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "4/19"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.47
+      },
+      "away_team": {
+        "base": 21.052631578947366,
+        "tendency": 13.333333333333334,
+        "combined": 17.96,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.58
+      },
+      "game_yrfi_probability": 57.58
+    },
+    "yrfi_probability": 57.58
+  },
+  "metadata": {
+    "generated_at": "2026-05-15T15:56:12.057240",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
+# Análisis YRFI: Cincinnati Reds @ Cleveland Guardians
 
 **Fecha:** 2026-05-15  
-**Lanzadores:** Landen Roupp (V) vs Emmet Sheehan (L)
+**Lanzadores:** Andrew Abbott (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.1%
+**Probabilidad de que anoten en la primera entrada:** 52.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 29.2% (7/24 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 17.9%
+- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 32.0%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 14.3% (3/21 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 35.0% (7/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 23.5%
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-14 16:08:09
+- **Generado el:** 2026-05-15 15:56:12
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ Athletics
+# Análisis YRFI: Chicago Cubs @ Chicago White Sox
 
-**Fecha:** 2026-05-14  
-**Lanzadores:** Michael McGreevy (V) vs Jacob Lopez (L)
+**Fecha:** 2026-05-15  
+**Lanzadores:** Edward Cabrera (V) vs Sean Burke (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.1%
+**Probabilidad de que anoten en la primera entrada:** 28.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 22.2% (4/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.5%
-
-### St. Louis Cardinals (Visitante)
+### Chicago White Sox (Local)
 - **Estadística base YRFI:** 27.3% (6/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Edward Cabrera):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.8%
+
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 9.5% (2/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Athletics - Jacob Lopez):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.1%
+- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 9.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-14 16:08:09
+- **Generado el:** 2026-05-15 15:56:12
 - **Fuente de datos:** season_data.json

@@ -1,24 +1,24 @@
-# Análisis YRFI: Colorado Rockies @ Pittsburgh Pirates
+# Análisis YRFI: Philadelphia Phillies @ Pittsburgh Pirates
 
-**Fecha:** 2026-05-14  
-**Lanzadores:** Chase Dollander (V) vs Mason Montgomery (L)
+**Fecha:** 2026-05-15  
+**Lanzadores:** Aaron Nola (V) vs Braxton Ashcraft (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.1%
+**Probabilidad de que anoten en la primera entrada:** 49.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 40.9% (9/22 partidos)
+- **Estadística base YRFI:** 43.5% (10/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Chase Dollander):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 30.2%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 37.3%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 25.0% (6/24 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 25.0% (5/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Mason Montgomery):** 0.0% (0/2 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/4 partidos)
 - **Puntuación ajustada:** 19.8%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-14 16:08:09
+- **Generado el:** 2026-05-15 15:56:12
 - **Fuente de datos:** season_data.json
