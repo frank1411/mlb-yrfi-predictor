@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ New York Mets
 
-**Fecha:** 2026-05-15  
-**Lanzadores:** Cam Schlittler (V) vs Clay Holmes (L)
+**Fecha:** 2026-05-16  
+**Lanzadores:** Carlos Rodón (V) vs Huascar Brazobán (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.6%
+**Probabilidad de que anoten en la primera entrada:** 42.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 33.3% (7/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 23.7%
+- **Estadística base YRFI:** 31.8% (7/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.2%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 37.5% (9/24 partidos)
+- **Estadística base YRFI:** 36.0% (9/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (New York Mets - Clay Holmes):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador local (New York Mets - Huascar Brazobán):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 31.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

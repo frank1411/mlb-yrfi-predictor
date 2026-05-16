@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Atlanta Braves
 
-**Fecha:** 2026-05-15  
-**Lanzadores:** Connelly Early (V) vs Spencer Strider (L)
+**Fecha:** 2026-05-16  
+**Lanzadores:** Payton Tolle (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.8%
+**Probabilidad de que anoten en la primera entrada:** 34.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 23.8% (5/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Connelly Early):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 25.0%
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 19.0% (4/21 partidos)
+- **Estadística base YRFI:** 18.2% (4/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Spencer Strider):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 11.7%
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 17.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

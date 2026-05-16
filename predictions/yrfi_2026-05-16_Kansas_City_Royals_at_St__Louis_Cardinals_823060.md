@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ St. Louis Cardinals
 
 **Fecha:** 2026-05-16  
-**Lanzadores:** Michael Wacha (V) vs Dustin May (L)
+**Lanzadores:** Noah Cameron (V) vs Kyle Leahy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.2%
+**Probabilidad de que anoten en la primera entrada:** 49.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 30.0% (6/20 partidos)
+- **Estadística base YRFI:** 28.6% (6/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 18.2%
+- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.6%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 23.8% (5/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Dustin May):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.6%
+- **Estadística base YRFI:** 22.7% (5/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Kyle Leahy):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

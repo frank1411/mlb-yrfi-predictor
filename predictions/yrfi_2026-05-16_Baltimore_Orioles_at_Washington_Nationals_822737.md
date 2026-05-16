@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Detroit Tigers
+# Análisis YRFI: Baltimore Orioles @ Washington Nationals
 
-**Fecha:** 2026-05-15  
-**Lanzadores:** Trey Yesavage (V) vs Brenan Hanifee (L)
+**Fecha:** 2026-05-16  
+**Lanzadores:** Chris Bassitt (V) vs Cade Cavalli (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.6%
+**Probabilidad de que anoten en la primera entrada:** 57.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 33.3% (6/18 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 45.0% (9/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 51.5%
+- **Impacto del lanzador visitante (Baltimore Orioles - Chris Bassitt):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 46.4%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 21.1% (4/19 partidos)
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 14.3% (3/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Brenan Hanifee):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 12.6%
+- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 19.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Washington Nationals
+# Análisis YRFI: Toronto Blue Jays @ Detroit Tigers
 
-**Fecha:** 2026-05-15  
-**Lanzadores:** Shane Baz (V) vs Zack Littell (L)
+**Fecha:** 2026-05-16  
+**Lanzadores:** Mason Fluharty (V) vs Casey Mize (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.9%
+**Probabilidad de que anoten en la primera entrada:** 56.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 47.4% (9/19 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 31.6% (6/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 42.4%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Mason Fluharty):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 50.7%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 15.0% (3/20 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 20.0% (4/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Zack Littell):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 20.0%
+- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 12.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

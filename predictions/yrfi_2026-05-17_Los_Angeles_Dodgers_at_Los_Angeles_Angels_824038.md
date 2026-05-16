@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Los Angeles Angels
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Blake Snell (V) vs Jack Kochanowicz (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Justin Wrobleski (V) vs José Soriano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.9%
+**Probabilidad de que anoten en la primera entrada:** 63.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 50.0% (9/18 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Blake Snell):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 30.3%
+- **Estadística base YRFI:** 47.4% (9/19 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Justin Wrobleski):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 47.4%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 26.3% (5/19 partidos)
+- **Estadística base YRFI:** 25.0% (5/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Jack Kochanowicz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 16.6%
+- **Impacto del lanzador local (Los Angeles Angels - José Soriano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 31.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

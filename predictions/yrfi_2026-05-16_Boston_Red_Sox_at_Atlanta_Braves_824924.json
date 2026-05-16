@@ -1,13 +1,13 @@
 {
-  "game_pk": 824601,
-  "game_date": "2026-05-15",
+  "game_pk": 824924,
+  "game_date": "2026-05-16",
   "home_team": {
-    "id": "145",
-    "name": "Chicago White Sox",
+    "id": "144",
+    "name": "Atlanta Braves",
     "pitcher": {
-      "name": "Sean Burke",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "name": "Bryce Elder",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
@@ -21,22 +21,22 @@
     }
   },
   "away_team": {
-    "id": "112",
-    "name": "Chicago Cubs",
-    "combined_yrfi_pct": 13.71,
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 16.24,
     "pitcher": {
-      "name": "Edward Cabrera",
+      "name": "Payton Tolle",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 9.523809523809524,
-        "ratio": "2/21"
+        "value": 18.181818181818183,
+        "ratio": "4/22"
       },
       "tendency": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 13.333333333333334,
+        "ratio": "2/15"
       }
     }
   },
@@ -50,18 +50,18 @@
         "adjusted": 20.79
       },
       "away_team": {
-        "base": 9.523809523809524,
-        "tendency": 20.0,
-        "combined": 13.71,
-        "pitcher_impact": 0.0,
-        "adjusted": 9.6
+        "base": 18.181818181818183,
+        "tendency": 13.333333333333334,
+        "combined": 16.24,
+        "pitcher_impact": 20.0,
+        "adjusted": 17.37
       },
-      "game_yrfi_probability": 28.39
+      "game_yrfi_probability": 34.55
     },
-    "yrfi_probability": 28.39
+    "yrfi_probability": 34.55
   },
   "metadata": {
-    "generated_at": "2026-05-15T15:56:12.073593",
+    "generated_at": "2026-05-16T14:47:23.319874",
     "data_source": "season_data.json"
   }
 }

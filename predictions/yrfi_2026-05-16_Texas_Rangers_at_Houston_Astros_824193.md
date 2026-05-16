@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Cleveland Guardians
+# Análisis YRFI: Texas Rangers @ Houston Astros
 
-**Fecha:** 2026-05-15  
-**Lanzadores:** Andrew Abbott (V) vs Tanner Bibee (L)
+**Fecha:** 2026-05-16  
+**Lanzadores:** Jacob deGrom (V) vs Kai-Wei Teng (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.2%
+**Probabilidad de que anoten en la primera entrada:** 50.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 27.3% (6/22 partidos)
+### Houston Astros (Local)
+- **Estadística base YRFI:** 45.8% (11/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.0%
+- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 34.9%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 35.0% (7/20 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 39.1% (9/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 29.7%
+- **Impacto del lanzador local (Houston Astros - Kai-Wei Teng):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 23.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

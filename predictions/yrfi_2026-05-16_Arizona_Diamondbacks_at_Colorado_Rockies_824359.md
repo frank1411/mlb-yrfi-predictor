@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Colorado Rockies
 
 **Fecha:** 2026-05-16  
-**Lanzadores:** Merrill Kelly (V) vs Kyle Freeland (L)
+**Lanzadores:** Eduardo Rodriguez (V) vs Tomoyuki Sugano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.5%
+**Probabilidad de que anoten en la primera entrada:** 62.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 36.8% (7/19 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.8%
+- **Estadística base YRFI:** 40.0% (8/20 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 43.0%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 23.8% (5/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.6%
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

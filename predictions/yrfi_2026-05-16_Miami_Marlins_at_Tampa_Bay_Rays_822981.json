@@ -1,0 +1,67 @@
+{
+  "game_pk": 822981,
+  "game_date": "2026-05-16",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "6/19"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 34.95,
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "6/19"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.57894736842105,
+        "tendency": 33.33333333333333,
+        "combined": 32.28,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.6
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 40.0,
+        "combined": 34.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.46
+      },
+      "game_yrfi_probability": 49.09
+    },
+    "yrfi_probability": 49.09
+  },
+  "metadata": {
+    "generated_at": "2026-05-16T14:47:23.302375",
+    "data_source": "season_data.json"
+  }
+}

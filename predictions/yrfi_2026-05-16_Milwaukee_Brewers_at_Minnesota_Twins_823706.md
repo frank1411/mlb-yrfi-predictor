@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Minnesota Twins
 
-**Fecha:** 2026-05-15  
-**Lanzadores:** Por anunciar (V) vs Joe Ryan (L)
+**Fecha:** 2026-05-16  
+**Lanzadores:** Logan Henderson (V) vs Connor Prielipp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.3%
+**Probabilidad de que anoten en la primera entrada:** 44.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 39.1% (9/23 partidos)
+- **Estadística base YRFI:** 37.5% (9/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 38.9%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Logan Henderson):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 23.2%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 29.4% (5/17 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Estadística base YRFI:** 33.3% (6/18 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Connor Prielipp):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

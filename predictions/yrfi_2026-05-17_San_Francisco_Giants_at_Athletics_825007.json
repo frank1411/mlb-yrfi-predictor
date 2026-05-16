@@ -1,0 +1,67 @@
+{
+  "game_pk": 825007,
+  "game_date": "2026-05-17",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Luis Severino",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "5/20"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 18.49,
+    "pitcher": {
+      "name": "Trevor McDonald",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 13.043478260869565,
+        "ratio": "3/23"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.7
+      },
+      "away_team": {
+        "base": 13.043478260869565,
+        "tendency": 26.666666666666668,
+        "combined": 18.49,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 32.94
+      },
+      "game_yrfi_probability": 47.49
+    },
+    "yrfi_probability": 47.49
+  },
+  "metadata": {
+    "generated_at": "2026-05-16T14:47:23.328911",
+    "data_source": "season_data.json"
+  }
+}

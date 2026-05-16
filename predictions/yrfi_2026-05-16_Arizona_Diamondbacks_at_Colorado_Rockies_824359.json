@@ -1,0 +1,67 @@
+{
+  "game_pk": 824359,
+  "game_date": "2026-05-16",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "8/20"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 27.03,
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "6/22"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 40.0,
+        "combined": 40.0,
+        "pitcher_impact": 50.0,
+        "adjusted": 43.0
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 26.666666666666668,
+        "combined": 27.03,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.92
+      },
+      "game_yrfi_probability": 62.33
+    },
+    "yrfi_probability": 62.33
+  },
+  "metadata": {
+    "generated_at": "2026-05-16T14:47:23.292115",
+    "data_source": "season_data.json"
+  }
+}

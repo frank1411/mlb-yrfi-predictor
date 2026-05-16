@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Pittsburgh Pirates
 
-**Fecha:** 2026-05-15  
-**Lanzadores:** Aaron Nola (V) vs Braxton Ashcraft (L)
+**Fecha:** 2026-05-16  
+**Lanzadores:** Cristopher Sánchez (V) vs Bubba Chandler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.8%
+**Probabilidad de que anoten en la primera entrada:** 55.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 43.5% (10/23 partidos)
+- **Estadística base YRFI:** 41.7% (10/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 37.3%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 45.6%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.0% (5/20 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Estadística base YRFI:** 23.8% (5/21 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Chicago White Sox
+# Análisis YRFI: San Diego Padres @ Seattle Mariners
 
-**Fecha:** 2026-05-15  
-**Lanzadores:** Edward Cabrera (V) vs Sean Burke (L)
+**Fecha:** 2026-05-16  
+**Lanzadores:** Walker Buehler (V) vs Logan Gilbert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 28.4%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 27.3% (6/22 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 45.8% (11/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Edward Cabrera):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 28.6%
 
-### Chicago Cubs (Visitante)
+### San Diego Padres (Visitante)
 - **Estadística base YRFI:** 9.5% (2/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 9.6%
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 83.3% (5/6 partidos)
+- **Puntuación ajustada:** 32.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-15 15:56:12
+- **Generado el:** 2026-05-16 14:47:23
 - **Fuente de datos:** season_data.json
