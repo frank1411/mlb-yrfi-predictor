@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Houston Astros
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Jacob deGrom (V) vs Kai-Wei Teng (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Nathan Eovaldi (V) vs Peter Lambert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.4%
+**Probabilidad de que anoten en la primera entrada:** 73.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 45.8% (11/24 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.9%
+- **Estadística base YRFI:** 48.0% (12/25 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 42.6%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 39.1% (9/23 partidos)
+- **Estadística base YRFI:** 37.5% (9/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Kai-Wei Teng):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 23.9%
+- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 53.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

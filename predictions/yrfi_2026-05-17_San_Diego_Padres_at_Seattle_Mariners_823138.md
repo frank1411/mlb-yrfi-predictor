@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Atlanta Braves
+# Análisis YRFI: San Diego Padres @ Seattle Mariners
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Payton Tolle (V) vs Bryce Elder (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Lucas Giolito (V) vs George Kirby (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.5%
+**Probabilidad de que anoten en la primera entrada:** 44.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 27.3% (6/22 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 44.0% (11/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador visitante (San Diego Padres - Lucas Giolito):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.8%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 18.2% (4/22 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 9.1% (2/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 17.4%
+- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

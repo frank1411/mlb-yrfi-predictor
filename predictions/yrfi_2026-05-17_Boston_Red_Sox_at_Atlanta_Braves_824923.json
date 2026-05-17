@@ -1,0 +1,67 @@
+{
+  "game_pk": 824923,
+  "game_date": "2026-05-17",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Grant Holmes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "7/23"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 15.77,
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 17.391304347826086,
+        "ratio": "4/23"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.434782608695656,
+        "tendency": 33.33333333333333,
+        "combined": 31.59,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.12
+      },
+      "away_team": {
+        "base": 17.391304347826086,
+        "tendency": 13.333333333333334,
+        "combined": 15.77,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.04
+      },
+      "game_yrfi_probability": 44.06
+    },
+    "yrfi_probability": 44.06
+  },
+  "metadata": {
+    "generated_at": "2026-05-17T14:49:11.418594",
+    "data_source": "season_data.json"
+  }
+}

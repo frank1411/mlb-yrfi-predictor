@@ -1,18 +1,18 @@
 {
-  "game_pk": 823706,
-  "game_date": "2026-05-16",
+  "game_pk": 823708,
+  "game_date": "2026-05-17",
   "home_team": {
     "id": "142",
     "name": "Minnesota Twins",
     "pitcher": {
-      "name": "Connor Prielipp",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "name": "Bailey Ober",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
-        "value": 37.5,
-        "ratio": "9/24"
+        "value": 36.0,
+        "ratio": "9/25"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
-    "combined_yrfi_pct": 38.67,
+    "combined_yrfi_pct": 37.61,
     "pitcher": {
-      "name": "Logan Henderson",
+      "name": "Robert Gasser",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "6/18"
+        "value": 31.57894736842105,
+        "ratio": "6/19"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 37.5,
+        "base": 36.0,
         "tendency": 26.666666666666668,
-        "combined": 33.17,
+        "combined": 32.27,
         "pitcher_impact": 0.0,
-        "adjusted": 23.22
+        "adjusted": 22.59
       },
       "away_team": {
-        "base": 33.33333333333333,
+        "base": 31.57894736842105,
         "tendency": 46.666666666666664,
-        "combined": 38.67,
-        "pitcher_impact": 0.0,
-        "adjusted": 27.07
+        "combined": 37.61,
+        "pitcher_impact": 20.0,
+        "adjusted": 32.33
       },
-      "game_yrfi_probability": 44.0
+      "game_yrfi_probability": 47.62
     },
-    "yrfi_probability": 44.0
+    "yrfi_probability": 47.62
   },
   "metadata": {
-    "generated_at": "2026-05-16T14:47:23.313961",
+    "generated_at": "2026-05-17T14:49:11.437396",
     "data_source": "season_data.json"
   }
 }

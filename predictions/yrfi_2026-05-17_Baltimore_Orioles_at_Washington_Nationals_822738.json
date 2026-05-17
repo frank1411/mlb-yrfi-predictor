@@ -1,0 +1,67 @@
+{
+  "game_pk": 822738,
+  "game_date": "2026-05-17",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Richard Lovelady",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "9/21"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 13.52,
+    "pitcher": {
+      "name": "Brandon Young",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 13.636363636363635,
+        "ratio": "3/22"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 20.0,
+        "combined": 33.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.6
+      },
+      "away_team": {
+        "base": 13.636363636363635,
+        "tendency": 13.333333333333334,
+        "combined": 13.52,
+        "pitcher_impact": 0.0,
+        "adjusted": 9.46
+      },
+      "game_yrfi_probability": 30.83
+    },
+    "yrfi_probability": 30.83
+  },
+  "metadata": {
+    "generated_at": "2026-05-17T14:49:11.409126",
+    "data_source": "season_data.json"
+  }
+}

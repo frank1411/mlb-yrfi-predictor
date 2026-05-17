@@ -1,18 +1,18 @@
 {
-  "game_pk": 825007,
+  "game_pk": 824599,
   "game_date": "2026-05-17",
   "home_team": {
-    "id": "133",
-    "name": "Athletics",
+    "id": "145",
+    "name": "Chicago White Sox",
     "pitcher": {
-      "name": "Luis Severino",
-      "yrfi_allowed": 66.66666666666666,
-      "yrfi_ratio": "2/3"
+      "name": "Erick Fedde",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "5/20"
+        "value": 29.166666666666668,
+        "ratio": "7/24"
       },
       "tendency": {
         "value": 40.0,
@@ -21,13 +21,13 @@
     }
   },
   "away_team": {
-    "id": "137",
-    "name": "San Francisco Giants",
+    "id": "112",
+    "name": "Chicago Cubs",
     "combined_yrfi_pct": 18.49,
     "pitcher": {
-      "name": "Trevor McDonald",
+      "name": "Colin Rea",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/1"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.0,
+        "base": 29.166666666666668,
         "tendency": 40.0,
-        "combined": 31.0,
+        "combined": 33.5,
         "pitcher_impact": 0.0,
-        "adjusted": 21.7
+        "adjusted": 23.45
       },
       "away_team": {
         "base": 13.043478260869565,
         "tendency": 26.666666666666668,
         "combined": 18.49,
-        "pitcher_impact": 66.66666666666666,
-        "adjusted": 32.94
+        "pitcher_impact": 0.0,
+        "adjusted": 12.94
       },
-      "game_yrfi_probability": 47.49
+      "game_yrfi_probability": 33.36
     },
-    "yrfi_probability": 47.49
+    "yrfi_probability": 33.36
   },
   "metadata": {
-    "generated_at": "2026-05-16T14:47:23.328911",
+    "generated_at": "2026-05-17T14:49:11.434339",
     "data_source": "season_data.json"
   }
 }

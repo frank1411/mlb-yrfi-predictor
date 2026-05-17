@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Minnesota Twins
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Logan Henderson (V) vs Connor Prielipp (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Robert Gasser (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.0%
+**Probabilidad de que anoten en la primera entrada:** 47.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 37.5% (9/24 partidos)
+- **Estadística base YRFI:** 36.0% (9/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Logan Henderson):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 23.2%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 33.3% (6/18 partidos)
+- **Estadística base YRFI:** 31.6% (6/19 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Connor Prielipp):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 27.1%
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 32.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

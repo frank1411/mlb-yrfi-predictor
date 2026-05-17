@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Pittsburgh Pirates
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Cristopher Sánchez (V) vs Bubba Chandler (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Zack Wheeler (V) vs Paul Skenes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.1%
+**Probabilidad de que anoten en la primera entrada:** 63.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 41.7% (10/24 partidos)
+- **Estadística base YRFI:** 40.0% (10/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 45.6%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Zack Wheeler):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 44.9%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 23.8% (5/21 partidos)
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.5%
+- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

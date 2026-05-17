@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Washington Nationals
+# Análisis YRFI: Toronto Blue Jays @ Detroit Tigers
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Chris Bassitt (V) vs Cade Cavalli (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Kevin Gausman (V) vs Jack Flaherty (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.0%
+**Probabilidad de que anoten en la primera entrada:** 37.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 45.0% (9/20 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 30.0% (6/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Chris Bassitt):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 46.4%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.1%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 14.3% (3/21 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 19.0% (4/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 19.7%
+- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 21.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

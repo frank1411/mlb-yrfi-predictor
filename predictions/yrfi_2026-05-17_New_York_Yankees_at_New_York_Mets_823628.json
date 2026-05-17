@@ -1,0 +1,67 @@
+{
+  "game_pk": 823628,
+  "game_date": "2026-05-17",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "7/23"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 42.1,
+    "pitcher": {
+      "name": "Elmer Rodríguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 34.61538461538461,
+        "ratio": "9/26"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.434782608695656,
+        "tendency": 6.666666666666667,
+        "combined": 20.93,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.65
+      },
+      "away_team": {
+        "base": 34.61538461538461,
+        "tendency": 53.333333333333336,
+        "combined": 42.1,
+        "pitcher_impact": 20.0,
+        "adjusted": 35.47
+      },
+      "game_yrfi_probability": 44.92
+    },
+    "yrfi_probability": 44.92
+  },
+  "metadata": {
+    "generated_at": "2026-05-17T14:49:11.428006",
+    "data_source": "season_data.json"
+  }
+}

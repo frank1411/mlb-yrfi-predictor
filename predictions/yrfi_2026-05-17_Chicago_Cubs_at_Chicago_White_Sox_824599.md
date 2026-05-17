@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Chicago White Sox
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Jameson Taillon (V) vs Davis Martin (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Colin Rea (V) vs Erick Fedde (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 30.8%
+**Probabilidad de que anoten en la primera entrada:** 33.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 26.1% (6/23 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Jameson Taillon):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Estadística base YRFI:** 29.2% (7/24 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 23.4%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 13.6% (3/22 partidos)
+- **Estadística base YRFI:** 13.0% (3/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 13.2%
+- **Impacto del lanzador local (Chicago White Sox - Erick Fedde):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 12.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

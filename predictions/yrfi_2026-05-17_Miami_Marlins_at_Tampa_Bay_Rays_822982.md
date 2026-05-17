@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Tampa Bay Rays
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Sandy Alcantara (V) vs Nick Martinez (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Eury Pérez (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.1%
+**Probabilidad de que anoten en la primera entrada:** 48.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 31.6% (6/19 partidos)
+- **Estadística base YRFI:** 30.0% (6/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.6%
+- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.9%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 31.6% (6/19 partidos)
+- **Estadística base YRFI:** 30.0% (6/20 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Nick Martinez):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

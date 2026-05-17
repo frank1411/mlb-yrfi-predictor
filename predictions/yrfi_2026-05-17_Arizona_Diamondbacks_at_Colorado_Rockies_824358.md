@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Athletics
+# Análisis YRFI: Arizona Diamondbacks @ Colorado Rockies
 
 **Fecha:** 2026-05-17  
-**Lanzadores:** Trevor McDonald (V) vs Luis Severino (L)
+**Lanzadores:** Michael Soroka (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 70.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 25.0% (5/20 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 42.9% (9/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Trevor McDonald):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Michael Soroka):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 59.2%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 13.0% (3/23 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 26.1% (6/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - Luis Severino):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 32.9%
+- **Impacto del lanzador local (Colorado Rockies - Michael Lorenzen):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

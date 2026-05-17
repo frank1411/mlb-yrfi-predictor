@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Cleveland Guardians
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Chris Paddack (V) vs Joey Cantillo (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Brady Singer (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.3%
+**Probabilidad de que anoten en la primera entrada:** 51.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 26.1% (6/23 partidos)
+- **Estadística base YRFI:** 25.0% (6/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chris Paddack):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.6%
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 38.6%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 33.3% (7/21 partidos)
+- **Estadística base YRFI:** 31.8% (7/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json

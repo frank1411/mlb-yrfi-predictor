@@ -1,0 +1,67 @@
+{
+  "game_pk": 824034,
+  "game_date": "2026-05-17",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Grayson Rodriguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 45.0,
+        "ratio": "9/20"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 27.81,
+    "pitcher": {
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "6/21"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 45.0,
+        "tendency": 26.666666666666668,
+        "combined": 37.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.37
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 26.666666666666668,
+        "combined": 27.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.47
+      },
+      "game_yrfi_probability": 40.71
+    },
+    "yrfi_probability": 40.71
+  },
+  "metadata": {
+    "generated_at": "2026-05-17T14:49:11.450800",
+    "data_source": "season_data.json"
+  }
+}

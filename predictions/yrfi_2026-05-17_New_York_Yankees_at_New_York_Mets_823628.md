@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ New York Mets
 
-**Fecha:** 2026-05-16  
-**Lanzadores:** Carlos Rodón (V) vs Huascar Brazobán (L)
+**Fecha:** 2026-05-17  
+**Lanzadores:** Elmer Rodríguez (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.3%
+**Probabilidad de que anoten en la primera entrada:** 44.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 31.8% (7/22 partidos)
+- **Estadística base YRFI:** 30.4% (7/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.2%
+- **Impacto del lanzador visitante (New York Yankees - Elmer Rodríguez):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 14.7%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 36.0% (9/25 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (New York Mets - Huascar Brazobán):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 31.9%
+- **Estadística base YRFI:** 34.6% (9/26 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (New York Mets - Freddy Peralta):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 35.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-16 14:47:23
+- **Generado el:** 2026-05-17 14:49:11
 - **Fuente de datos:** season_data.json
