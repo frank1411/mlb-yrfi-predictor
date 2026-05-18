@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Los Angeles Angels
+# Análisis YRFI: Cincinnati Reds @ Philadelphia Phillies
 
-**Fecha:** 2026-05-17  
-**Lanzadores:** Roki Sasaki (V) vs Grayson Rodriguez (L)
+**Fecha:** 2026-05-18  
+**Lanzadores:** Nick Lodolo (V) vs Andrew Painter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.7%
+**Probabilidad de que anoten en la primera entrada:** 38.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 45.0% (9/20 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 37.5% (9/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.2%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 28.6% (6/21 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 30.4% (7/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.5%
+- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-17 14:49:11
+- **Generado el:** 2026-05-18 16:43:16
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823867,
+  "game_date": "2026-05-18",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Max Meyer",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 42.30769230769231,
+        "ratio": "11/26"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 39.48,
+    "pitcher": {
+      "name": "JR Ritchie",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 39.130434782608695,
+        "ratio": "9/23"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.30769230769231,
+        "tendency": 33.33333333333333,
+        "combined": 38.72,
+        "pitcher_impact": 50.0,
+        "adjusted": 42.1
+      },
+      "away_team": {
+        "base": 39.130434782608695,
+        "tendency": 40.0,
+        "combined": 39.48,
+        "pitcher_impact": 25.0,
+        "adjusted": 35.13
+      },
+      "game_yrfi_probability": 62.44
+    },
+    "yrfi_probability": 62.44
+  },
+  "metadata": {
+    "generated_at": "2026-05-18T16:43:16.801658",
+    "data_source": "season_data.json"
+  }
+}

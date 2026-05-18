@@ -1,0 +1,67 @@
+{
+  "game_pk": 823137,
+  "game_date": "2026-05-19",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 42.30769230769231,
+        "ratio": "11/26"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 37.82,
+    "pitcher": {
+      "name": "Noah Schultz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "8/22"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.30769230769231,
+        "tendency": 26.666666666666668,
+        "combined": 36.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.24
+      },
+      "away_team": {
+        "base": 36.36363636363637,
+        "tendency": 40.0,
+        "combined": 37.82,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 36.47
+      },
+      "game_yrfi_probability": 52.5
+    },
+    "yrfi_probability": 52.5
+  },
+  "metadata": {
+    "generated_at": "2026-05-18T16:43:16.833059",
+    "data_source": "season_data.json"
+  }
+}

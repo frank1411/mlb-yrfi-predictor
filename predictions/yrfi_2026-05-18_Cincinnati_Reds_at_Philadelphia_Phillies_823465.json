@@ -1,18 +1,18 @@
 {
-  "game_pk": 824034,
-  "game_date": "2026-05-17",
+  "game_pk": 823465,
+  "game_date": "2026-05-18",
   "home_team": {
-    "id": "108",
-    "name": "Los Angeles Angels",
+    "id": "143",
+    "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Grayson Rodriguez",
+      "name": "Andrew Painter",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 45.0,
-        "ratio": "9/20"
+        "value": 37.5,
+        "ratio": "9/24"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "119",
-    "name": "Los Angeles Dodgers",
-    "combined_yrfi_pct": 27.81,
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 28.93,
     "pitcher": {
-      "name": "Roki Sasaki",
+      "name": "Nick Lodolo",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 28.57142857142857,
-        "ratio": "6/21"
+        "value": 30.434782608695656,
+        "ratio": "7/23"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 45.0,
+        "base": 37.5,
         "tendency": 26.666666666666668,
-        "combined": 37.67,
+        "combined": 33.17,
         "pitcher_impact": 0.0,
-        "adjusted": 26.37
+        "adjusted": 23.22
       },
       "away_team": {
-        "base": 28.57142857142857,
+        "base": 30.434782608695656,
         "tendency": 26.666666666666668,
-        "combined": 27.81,
+        "combined": 28.93,
         "pitcher_impact": 0.0,
-        "adjusted": 19.47
+        "adjusted": 20.25
       },
-      "game_yrfi_probability": 40.71
+      "game_yrfi_probability": 38.77
     },
-    "yrfi_probability": 40.71
+    "yrfi_probability": 38.77
   },
   "metadata": {
-    "generated_at": "2026-05-17T14:49:11.450800",
+    "generated_at": "2026-05-18T16:43:16.798362",
     "data_source": "season_data.json"
   }
 }

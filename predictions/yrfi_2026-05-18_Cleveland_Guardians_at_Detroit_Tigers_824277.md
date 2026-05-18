@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Houston Astros
+# Análisis YRFI: Cleveland Guardians @ Detroit Tigers
 
-**Fecha:** 2026-05-17  
-**Lanzadores:** Nathan Eovaldi (V) vs Peter Lambert (L)
+**Fecha:** 2026-05-18  
+**Lanzadores:** Slade Cecconi (V) vs Framber Valdez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 73.2%
+**Probabilidad de que anoten en la primera entrada:** 46.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 48.0% (12/25 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 28.6% (6/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 42.6%
+- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 31.5%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 37.5% (9/24 partidos)
+### Cleveland Guardians (Visitante)
+- **Estadística base YRFI:** 34.8% (8/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 53.2%
+- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-17 14:49:11
+- **Generado el:** 2026-05-18 16:43:16
 - **Fuente de datos:** season_data.json

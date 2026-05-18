@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Athletics
+# Análisis YRFI: Boston Red Sox @ Kansas City Royals
 
-**Fecha:** 2026-05-17  
-**Lanzadores:** Adrian Houser (V) vs Jeffrey Springs (L)
+**Fecha:** 2026-05-18  
+**Lanzadores:** Sonny Gray (V) vs Seth Lugo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 68.1%
+**Probabilidad de que anoten en la primera entrada:** 55.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 23.8% (5/21 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 17.4% (4/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Adrian Houser):** 100.0% (4/4 partidos)
-- **Puntuación ajustada:** 49.3%
+- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 46.6%
 
-### San Francisco Giants (Visitante)
+### Boston Red Sox (Visitante)
 - **Estadística base YRFI:** 16.7% (4/24 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 37.0%
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 16.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-17 14:49:11
+- **Generado el:** 2026-05-18 16:43:16
 - **Fuente de datos:** season_data.json

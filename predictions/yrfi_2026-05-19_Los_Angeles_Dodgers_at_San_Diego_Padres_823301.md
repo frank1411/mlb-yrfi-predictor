@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Cleveland Guardians
+# Análisis YRFI: Los Angeles Dodgers @ San Diego Padres
 
-**Fecha:** 2026-05-17  
-**Lanzadores:** Brady Singer (V) vs Gavin Williams (L)
+**Fecha:** 2026-05-19  
+**Lanzadores:** Yoshinobu Yamamoto (V) vs Michael King (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.4%
+**Probabilidad de que anoten en la primera entrada:** 45.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 25.0% (6/24 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 17.4% (4/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 38.6%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 32.9%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 31.8% (7/22 partidos)
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-17 14:49:11
+- **Generado el:** 2026-05-18 16:43:16
 - **Fuente de datos:** season_data.json

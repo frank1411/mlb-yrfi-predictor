@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ St. Louis Cardinals
+# Análisis YRFI: Athletics @ Los Angeles Angels
 
-**Fecha:** 2026-05-17  
-**Lanzadores:** Stephen Kolek (V) vs Andre Pallante (L)
+**Fecha:** 2026-05-19  
+**Lanzadores:** J.T. Ginn (V) vs Walbert Ureña (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.4%
+**Probabilidad de que anoten en la primera entrada:** 48.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 31.8% (7/22 partidos)
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 42.9% (9/21 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Stephen Kolek):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 35.5%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 21.7% (5/23 partidos)
+### Athletics (Visitante)
+- **Estadística base YRFI:** 25.0% (6/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Impacto del lanzador local (Los Angeles Angels - Walbert Ureña):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-17 14:49:11
+- **Generado el:** 2026-05-18 16:43:16
 - **Fuente de datos:** season_data.json

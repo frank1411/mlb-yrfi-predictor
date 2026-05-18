@@ -1,0 +1,67 @@
+{
+  "game_pk": 824680,
+  "game_date": "2026-05-18",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.73913043478261,
+        "ratio": "5/23"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 34.0,
+    "pitcher": {
+      "name": "Brandon Sproat",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "6/20"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.73913043478261,
+        "tendency": 26.666666666666668,
+        "combined": 23.71,
+        "pitcher_impact": 100.0,
+        "adjusted": 46.6
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 40.0,
+        "combined": 34.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.3
+      },
+      "game_yrfi_probability": 63.31
+    },
+    "yrfi_probability": 63.31
+  },
+  "metadata": {
+    "generated_at": "2026-05-18T16:43:16.817311",
+    "data_source": "season_data.json"
+  }
+}

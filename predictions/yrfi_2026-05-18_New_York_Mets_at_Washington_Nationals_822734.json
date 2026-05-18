@@ -1,0 +1,67 @@
+{
+  "game_pk": 822734,
+  "game_date": "2026-05-18",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 40.909090909090914,
+        "ratio": "9/22"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 16.3,
+    "pitcher": {
+      "name": "Christian Scott",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 22.727272727272727,
+        "ratio": "5/22"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.909090909090914,
+        "tendency": 20.0,
+        "combined": 32.55,
+        "pitcher_impact": 100.0,
+        "adjusted": 52.78
+      },
+      "away_team": {
+        "base": 22.727272727272727,
+        "tendency": 6.666666666666667,
+        "combined": 16.3,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 31.41
+      },
+      "game_yrfi_probability": 67.61
+    },
+    "yrfi_probability": 67.61
+  },
+  "metadata": {
+    "generated_at": "2026-05-18T16:43:16.804757",
+    "data_source": "season_data.json"
+  }
+}
