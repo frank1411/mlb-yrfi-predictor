@@ -1,0 +1,67 @@
+{
+  "game_pk": 823464,
+  "game_date": "2026-05-19",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Jesús Luzardo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "10/25"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 25.5,
+    "pitcher": {
+      "name": "Chase Burns",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "7/24"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 33.33333333333333,
+        "combined": 37.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.13
+      },
+      "away_team": {
+        "base": 29.166666666666668,
+        "tendency": 20.0,
+        "combined": 25.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.85
+      },
+      "game_yrfi_probability": 39.32
+    },
+    "yrfi_probability": 39.32
+  },
+  "metadata": {
+    "generated_at": "2026-05-19T16:44:51.434775",
+    "data_source": "season_data.json"
+  }
+}

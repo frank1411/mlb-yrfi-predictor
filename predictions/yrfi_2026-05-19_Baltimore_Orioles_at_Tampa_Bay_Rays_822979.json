@@ -1,0 +1,67 @@
+{
+  "game_pk": 822979,
+  "game_date": "2026-05-19",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "8/22"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 18.0,
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 16.666666666666664,
+        "ratio": "4/24"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 46.666666666666664,
+        "combined": 40.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.34
+      },
+      "away_team": {
+        "base": 16.666666666666664,
+        "tendency": 20.0,
+        "combined": 18.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.6
+      },
+      "game_yrfi_probability": 37.37
+    },
+    "yrfi_probability": 37.37
+  },
+  "metadata": {
+    "generated_at": "2026-05-19T16:44:51.429127",
+    "data_source": "season_data.json"
+  }
+}

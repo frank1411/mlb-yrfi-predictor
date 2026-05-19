@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Miami Marlins
 
-**Fecha:** 2026-05-18  
-**Lanzadores:** JR Ritchie (V) vs Max Meyer (L)
+**Fecha:** 2026-05-19  
+**Lanzadores:** Martín Pérez (V) vs Braxton Garrett (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.4%
+**Probabilidad de que anoten en la primera entrada:** 57.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 42.3% (11/26 partidos)
+- **Estadística base YRFI:** 40.7% (11/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - JR Ritchie):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 42.1%
+- **Impacto del lanzador visitante (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 41.4%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 39.1% (9/23 partidos)
+- **Estadística base YRFI:** 37.5% (9/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Max Meyer):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 35.1%
+- **Impacto del lanzador local (Miami Marlins - Braxton Garrett):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-18 16:43:16
+- **Generado el:** 2026-05-19 16:44:51
 - **Fuente de datos:** season_data.json

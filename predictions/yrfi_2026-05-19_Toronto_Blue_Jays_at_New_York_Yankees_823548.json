@@ -1,0 +1,67 @@
+{
+  "game_pk": 823548,
+  "game_date": "2026-05-19",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 61.904761904761905,
+        "ratio": "13/21"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 21.04,
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.73913043478261,
+        "ratio": "5/23"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 61.904761904761905,
+        "tendency": 53.333333333333336,
+        "combined": 58.48,
+        "pitcher_impact": 75.0,
+        "adjusted": 63.43
+      },
+      "away_team": {
+        "base": 21.73913043478261,
+        "tendency": 20.0,
+        "combined": 21.04,
+        "pitcher_impact": 20.0,
+        "adjusted": 20.73
+      },
+      "game_yrfi_probability": 71.01
+    },
+    "yrfi_probability": 71.01
+  },
+  "metadata": {
+    "generated_at": "2026-05-19T16:44:51.445445",
+    "data_source": "season_data.json"
+  }
+}

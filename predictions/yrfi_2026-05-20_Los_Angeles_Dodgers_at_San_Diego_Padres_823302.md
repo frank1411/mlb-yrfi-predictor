@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ San Diego Padres
 
-**Fecha:** 2026-05-19  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Michael King (L)
+**Fecha:** 2026-05-20  
+**Lanzadores:** Emmet Sheehan (V) vs Griffin Canning (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.6%
+**Probabilidad de que anoten en la primera entrada:** 56.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 17.4% (4/23 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 32.9%
+- **Estadística base YRFI:** 20.8% (5/24 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Emmet Sheehan):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 46.2%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 27.3% (6/22 partidos)
+- **Estadística base YRFI:** 26.1% (6/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.9%
+- **Impacto del lanzador local (San Diego Padres - Griffin Canning):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-18 16:43:16
+- **Generado el:** 2026-05-19 16:44:51
 - **Fuente de datos:** season_data.json

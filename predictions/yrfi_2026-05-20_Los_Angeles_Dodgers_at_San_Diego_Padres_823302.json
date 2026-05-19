@@ -1,33 +1,33 @@
 {
-  "game_pk": 823705,
-  "game_date": "2026-05-18",
+  "game_pk": 823302,
+  "game_date": "2026-05-20",
   "home_team": {
-    "id": "142",
-    "name": "Minnesota Twins",
+    "id": "135",
+    "name": "San Diego Padres",
     "pitcher": {
-      "name": "Kendry Rojas",
+      "name": "Griffin Canning",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 38.46153846153847,
-        "ratio": "10/26"
+        "value": 20.833333333333336,
+        "ratio": "5/24"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "away_team": {
-    "id": "117",
-    "name": "Houston Astros",
+    "id": "119",
+    "name": "Los Angeles Dodgers",
     "combined_yrfi_pct": 26.32,
     "pitcher": {
-      "name": "Tatsuya Imai",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
     },
     "stats": {
       "base": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 38.46153846153847,
-        "tendency": 33.33333333333333,
-        "combined": 36.41,
-        "pitcher_impact": 50.0,
-        "adjusted": 40.49
+        "base": 20.833333333333336,
+        "tendency": 26.666666666666668,
+        "combined": 23.17,
+        "pitcher_impact": 100.0,
+        "adjusted": 46.22
       },
       "away_team": {
         "base": 26.08695652173913,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 18.42
       },
-      "game_yrfi_probability": 51.45
+      "game_yrfi_probability": 56.13
     },
-    "yrfi_probability": 51.45
+    "yrfi_probability": 56.13
   },
   "metadata": {
-    "generated_at": "2026-05-18T16:43:16.814266",
+    "generated_at": "2026-05-19T16:44:51.473900",
     "data_source": "season_data.json"
   }
 }

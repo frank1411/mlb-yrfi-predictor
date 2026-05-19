@@ -1,0 +1,67 @@
+{
+  "game_pk": 824033,
+  "game_date": "2026-05-20",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 40.909090909090914,
+        "ratio": "9/22"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 25.07,
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "6/25"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.909090909090914,
+        "tendency": 20.0,
+        "combined": 32.55,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 42.78
+      },
+      "away_team": {
+        "base": 24.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.07,
+        "pitcher_impact": 25.0,
+        "adjusted": 25.05
+      },
+      "game_yrfi_probability": 57.11
+    },
+    "yrfi_probability": 57.11
+  },
+  "metadata": {
+    "generated_at": "2026-05-19T16:44:51.470859",
+    "data_source": "season_data.json"
+  }
+}

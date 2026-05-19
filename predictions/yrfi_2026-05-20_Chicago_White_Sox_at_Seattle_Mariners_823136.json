@@ -1,0 +1,67 @@
+{
+  "game_pk": 823136,
+  "game_date": "2026-05-20",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "12/27"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 36.87,
+    "pitcher": {
+      "name": "Anthony Kay",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.78260869565217,
+        "ratio": "8/23"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.44444444444444,
+        "tendency": 33.33333333333333,
+        "combined": 40.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 35.5
+      },
+      "away_team": {
+        "base": 34.78260869565217,
+        "tendency": 40.0,
+        "combined": 36.87,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.81
+      },
+      "game_yrfi_probability": 52.15
+    },
+    "yrfi_probability": 52.15
+  },
+  "metadata": {
+    "generated_at": "2026-05-19T16:44:51.480389",
+    "data_source": "season_data.json"
+  }
+}

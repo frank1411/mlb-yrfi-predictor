@@ -1,0 +1,67 @@
+{
+  "game_pk": 825086,
+  "game_date": "2026-05-20",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Ryne Nelson",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "8/22"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 19.9,
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 15.384615384615385,
+        "ratio": "4/26"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 33.33333333333333,
+        "combined": 35.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.61
+      },
+      "away_team": {
+        "base": 15.384615384615385,
+        "tendency": 26.666666666666668,
+        "combined": 19.9,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 33.93
+      },
+      "game_yrfi_probability": 50.19
+    },
+    "yrfi_probability": 50.19
+  },
+  "metadata": {
+    "generated_at": "2026-05-19T16:44:51.477205",
+    "data_source": "season_data.json"
+  }
+}

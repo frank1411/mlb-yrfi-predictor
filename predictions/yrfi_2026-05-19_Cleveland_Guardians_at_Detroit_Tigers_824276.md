@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Colorado Rockies
+# Análisis YRFI: Cleveland Guardians @ Detroit Tigers
 
 **Fecha:** 2026-05-19  
-**Lanzadores:** MacKenzie Gore (V) vs Jose Quintana (L)
+**Lanzadores:** Parker Messick (V) vs Keider Montero (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.9%
+**Probabilidad de que anoten en la primera entrada:** 39.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 40.9% (9/22 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 31.8% (7/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - MacKenzie Gore):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 34.0%
+- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.7%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 36.0% (9/25 partidos)
+### Cleveland Guardians (Visitante)
+- **Estadística base YRFI:** 33.3% (8/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Jose Quintana):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador local (Detroit Tigers - Keider Montero):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-18 16:43:16
+- **Generado el:** 2026-05-19 16:44:51
 - **Fuente de datos:** season_data.json

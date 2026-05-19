@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Tampa Bay Rays
 
-**Fecha:** 2026-05-18  
-**Lanzadores:** Trevor Rogers (V) vs Shane McClanahan (L)
+**Fecha:** 2026-05-19  
+**Lanzadores:** Kyle Bradish (V) vs Griffin Jax (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.9%
+**Probabilidad de que anoten en la primera entrada:** 37.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 33.3% (7/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Estadística base YRFI:** 36.4% (8/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 28.3%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 17.4% (4/23 partidos)
+- **Estadística base YRFI:** 16.7% (4/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Shane McClanahan):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 12.9%
+- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 12.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-18 16:43:16
+- **Generado el:** 2026-05-19 16:44:51
 - **Fuente de datos:** season_data.json

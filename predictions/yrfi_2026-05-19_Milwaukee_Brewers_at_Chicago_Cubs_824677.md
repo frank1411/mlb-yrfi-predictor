@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Chicago Cubs
 
-**Fecha:** 2026-05-18  
-**Lanzadores:** Brandon Sproat (V) vs Shota Imanaga (L)
+**Fecha:** 2026-05-19  
+**Lanzadores:** Jacob Misiorowski (V) vs Ben Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.3%
+**Probabilidad de que anoten en la primera entrada:** 42.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 21.7% (5/23 partidos)
+- **Estadística base YRFI:** 20.8% (5/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Brandon Sproat):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 46.6%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.2%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 30.0% (6/20 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 31.3%
+- **Estadística base YRFI:** 28.6% (6/21 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Ben Brown):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-18 16:43:16
+- **Generado el:** 2026-05-19 16:44:51
 - **Fuente de datos:** season_data.json
