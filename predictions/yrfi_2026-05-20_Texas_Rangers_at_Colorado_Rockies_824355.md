@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ San Diego Padres
+# Análisis YRFI: Texas Rangers @ Colorado Rockies
 
 **Fecha:** 2026-05-20  
-**Lanzadores:** Emmet Sheehan (V) vs Griffin Canning (L)
+**Lanzadores:** Jack Leiter (V) vs Kyle Freeland (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.1%
+**Probabilidad de que anoten en la primera entrada:** 53.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 20.8% (5/24 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 41.7% (10/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Emmet Sheehan):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 46.2%
+- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 40.0%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 26.1% (6/23 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 37.0% (10/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Griffin Canning):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 18.4%
+- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 23.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

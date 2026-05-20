@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Detroit Tigers
 
-**Fecha:** 2026-05-19  
-**Lanzadores:** Parker Messick (V) vs Keider Montero (L)
+**Fecha:** 2026-05-20  
+**Lanzadores:** Tanner Bibee (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.3%
+**Probabilidad de que anoten en la primera entrada:** 53.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 31.8% (7/22 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Estadística base YRFI:** 30.4% (7/23 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 27.8%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 33.3% (8/24 partidos)
+- **Estadística base YRFI:** 32.0% (8/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Keider Montero):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Impacto del lanzador local (Detroit Tigers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 35.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

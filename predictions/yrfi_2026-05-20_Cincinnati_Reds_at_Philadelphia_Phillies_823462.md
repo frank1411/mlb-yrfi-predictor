@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Philadelphia Phillies
 
-**Fecha:** 2026-05-19  
-**Lanzadores:** Chase Burns (V) vs Jesús Luzardo (L)
+**Fecha:** 2026-05-20  
+**Lanzadores:** Andrew Abbott (V) vs Aaron Nola (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.3%
+**Probabilidad de que anoten en la primera entrada:** 58.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.0% (10/25 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Estadística base YRFI:** 38.5% (10/26 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 38.6%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 29.2% (7/24 partidos)
+- **Estadística base YRFI:** 28.0% (7/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 17.9%
+- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 32.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

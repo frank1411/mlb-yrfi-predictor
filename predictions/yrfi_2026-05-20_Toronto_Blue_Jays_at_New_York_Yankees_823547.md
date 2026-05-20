@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Tampa Bay Rays
+# Análisis YRFI: Toronto Blue Jays @ New York Yankees
 
-**Fecha:** 2026-05-19  
-**Lanzadores:** Kyle Bradish (V) vs Griffin Jax (L)
+**Fecha:** 2026-05-20  
+**Lanzadores:** Trey Yesavage (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.4%
+**Probabilidad de que anoten en la primera entrada:** 72.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 36.4% (8/22 partidos)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 59.1% (13/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 28.3%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 67.9%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 16.7% (4/24 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 20.8% (5/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 12.6%
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

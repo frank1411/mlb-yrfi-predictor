@@ -1,0 +1,67 @@
+{
+  "game_pk": 823703,
+  "game_date": "2026-05-20",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "10/28"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 27.47,
+    "pitcher": {
+      "name": "Mike Burrows",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "7/25"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.714285714285715,
+        "tendency": 26.666666666666668,
+        "combined": 32.1,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.47
+      },
+      "away_team": {
+        "base": 28.000000000000004,
+        "tendency": 26.666666666666668,
+        "combined": 27.47,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.23
+      },
+      "game_yrfi_probability": 45.46
+    },
+    "yrfi_probability": 45.46
+  },
+  "metadata": {
+    "generated_at": "2026-05-20T16:50:02.895339",
+    "data_source": "season_data.json"
+  }
+}

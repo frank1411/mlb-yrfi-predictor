@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Minnesota Twins
 
-**Fecha:** 2026-05-19  
-**Lanzadores:** Lance McCullers Jr. (V) vs Zebby Matthews (L)
+**Fecha:** 2026-05-20  
+**Lanzadores:** Mike Burrows (V) vs Joe Ryan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.7%
+**Probabilidad de que anoten en la primera entrada:** 45.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 37.0% (10/27 partidos)
+- **Estadística base YRFI:** 35.7% (10/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Lance McCullers Jr.):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.5%
+- **Impacto del lanzador visitante (Houston Astros - Mike Burrows):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 25.0% (6/24 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Estadística base YRFI:** 28.0% (7/25 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

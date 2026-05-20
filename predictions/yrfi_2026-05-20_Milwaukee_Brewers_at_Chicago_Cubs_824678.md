@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Chicago Cubs
 
-**Fecha:** 2026-05-19  
-**Lanzadores:** Jacob Misiorowski (V) vs Ben Brown (L)
+**Fecha:** 2026-05-20  
+**Lanzadores:** Kyle Harrison (V) vs Edward Cabrera (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.0%
+**Probabilidad de que anoten en la primera entrada:** 35.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 20.8% (5/24 partidos)
+- **Estadística base YRFI:** 20.0% (5/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.2%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Kyle Harrison):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 28.6% (6/21 partidos)
+- **Estadística base YRFI:** 31.8% (7/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Ben Brown):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.3%
+- **Impacto del lanzador local (Chicago Cubs - Edward Cabrera):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 22.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

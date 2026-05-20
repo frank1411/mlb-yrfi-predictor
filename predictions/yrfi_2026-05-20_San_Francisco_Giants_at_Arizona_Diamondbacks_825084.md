@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Arizona Diamondbacks
 
 **Fecha:** 2026-05-20  
-**Lanzadores:** Landen Roupp (V) vs Ryne Nelson (L)
+**Lanzadores:** Tyler Mahle (V) vs Merrill Kelly (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.2%
+**Probabilidad de que anoten en la primera entrada:** 63.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 36.4% (8/22 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Estadística base YRFI:** 39.1% (9/23 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Tyler Mahle):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 37.6%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 15.4% (4/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 33.9%
+- **Estadística base YRFI:** 14.8% (4/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Merrill Kelly):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 41.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

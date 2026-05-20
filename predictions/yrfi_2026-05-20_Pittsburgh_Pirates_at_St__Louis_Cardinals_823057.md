@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ St. Louis Cardinals
 
-**Fecha:** 2026-05-19  
-**Lanzadores:** Mitch Keller (V) vs Matthew Liberatore (L)
+**Fecha:** 2026-05-20  
+**Lanzadores:** Carmen Mlodzinski (V) vs Michael McGreevy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.5%
+**Probabilidad de que anoten en la primera entrada:** 47.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 30.4% (7/23 partidos)
+- **Estadística base YRFI:** 29.2% (7/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 18.4%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Carmen Mlodzinski):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 17.9%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 42.9% (9/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 43.1%
+- **Estadística base YRFI:** 40.9% (9/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 35.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

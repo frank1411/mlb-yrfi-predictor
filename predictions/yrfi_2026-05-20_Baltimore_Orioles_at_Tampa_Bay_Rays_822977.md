@@ -1,7 +1,7 @@
-# Análisis YRFI: Toronto Blue Jays @ New York Yankees
+# Análisis YRFI: Baltimore Orioles @ Tampa Bay Rays
 
-**Fecha:** 2026-05-19  
-**Lanzadores:** Dylan Cease (V) vs Will Warren (L)
+**Fecha:** 2026-05-20  
+**Lanzadores:** Shane Baz (V) vs Steven Matz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 61.9% (13/21 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 39.1% (9/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 63.4%
+- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 46.4%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 21.7% (5/23 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 20.7%
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 20.0% (5/25 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Steven Matz):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 45.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-19 16:44:51
+- **Generado el:** 2026-05-20 16:50:02
 - **Fuente de datos:** season_data.json

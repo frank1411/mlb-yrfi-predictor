@@ -1,0 +1,67 @@
+{
+  "game_pk": 824273,
+  "game_date": "2026-05-20",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "7/23"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 29.87,
+    "pitcher": {
+      "name": "Tanner Bibee",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "8/25"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.434782608695656,
+        "tendency": 26.666666666666668,
+        "combined": 28.93,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.75
+      },
+      "away_team": {
+        "base": 32.0,
+        "tendency": 26.666666666666668,
+        "combined": 29.87,
+        "pitcher_impact": 50.0,
+        "adjusted": 35.91
+      },
+      "game_yrfi_probability": 53.69
+    },
+    "yrfi_probability": 53.69
+  },
+  "metadata": {
+    "generated_at": "2026-05-20T16:50:02.906763",
+    "data_source": "season_data.json"
+  }
+}
