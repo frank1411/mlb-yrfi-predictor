@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Detroit Tigers
 
-**Fecha:** 2026-05-20  
-**Lanzadores:** Tanner Bibee (V) vs Por anunciar (L)
+**Fecha:** 2026-05-21  
+**Lanzadores:** Joey Cantillo (V) vs Casey Mize (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.7%
+**Probabilidad de que anoten en la primera entrada:** 48.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 30.4% (7/23 partidos)
+- **Estadística base YRFI:** 29.2% (7/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.8%
+- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 34.7%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 32.0% (8/25 partidos)
+- **Estadística base YRFI:** 30.8% (8/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.9%
+- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-20 16:50:02
+- **Generado el:** 2026-05-21 16:34:25
 - **Fuente de datos:** season_data.json

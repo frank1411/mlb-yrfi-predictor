@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Arizona Diamondbacks
+# Análisis YRFI: Toronto Blue Jays @ New York Yankees
 
-**Fecha:** 2026-05-20  
-**Lanzadores:** Tyler Mahle (V) vs Merrill Kelly (L)
+**Fecha:** 2026-05-21  
+**Lanzadores:** Braydon Fisher (V) vs Carlos Rodón (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.7%
+**Probabilidad de que anoten en la primera entrada:** 44.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 39.1% (9/23 partidos)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 56.5% (13/23 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Tyler Mahle):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 37.6%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Braydon Fisher):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 34.9%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 14.8% (4/27 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 20.0% (5/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Merrill Kelly):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 41.8%
+- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-20 16:50:02
+- **Generado el:** 2026-05-21 16:34:25
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Los Angeles Angels
 
-**Fecha:** 2026-05-21  
-**Lanzadores:** Aaron Civale (V) vs Jack Kochanowicz (L)
+**Fecha:** 2026-05-22  
+**Lanzadores:** Luis Severino (V) vs José Soriano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.1%
+**Probabilidad de que anoten en la primera entrada:** 52.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 39.1% (9/23 partidos)
+- **Estadística base YRFI:** 41.7% (10/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Aaron Civale):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.2%
+- **Impacto del lanzador visitante (Athletics - Luis Severino):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.7%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 23.1% (6/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Jack Kochanowicz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Estadística base YRFI:** 25.9% (7/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Los Angeles Angels - José Soriano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-20 16:50:02
+- **Generado el:** 2026-05-21 16:34:25
 - **Fuente de datos:** season_data.json

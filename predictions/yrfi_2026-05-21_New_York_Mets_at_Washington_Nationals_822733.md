@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Washington Nationals
 
-**Fecha:** 2026-05-20  
-**Lanzadores:** Zach Thornton (V) vs Zack Littell (L)
+**Fecha:** 2026-05-21  
+**Lanzadores:** David Peterson (V) vs Cade Cavalli (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.4%
+**Probabilidad de que anoten en la primera entrada:** 65.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 37.5% (9/24 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Zach Thornton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.4%
+- **Estadística base YRFI:** 40.0% (10/25 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (New York Mets - David Peterson):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 54.3%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 25.0% (6/24 partidos)
+- **Estadística base YRFI:** 24.0% (6/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Zack Littell):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 24.2%
+- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-20 16:50:02
+- **Generado el:** 2026-05-21 16:34:25
 - **Fuente de datos:** season_data.json

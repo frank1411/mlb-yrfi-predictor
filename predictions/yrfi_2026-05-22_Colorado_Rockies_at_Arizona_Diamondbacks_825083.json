@@ -1,0 +1,67 @@
+{
+  "game_pk": 825083,
+  "game_date": "2026-05-22",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "10/24"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 27.73,
+    "pitcher": {
+      "name": "Zach Agnos",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "6/25"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.66666666666667,
+        "tendency": 46.666666666666664,
+        "combined": 43.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.57
+      },
+      "away_team": {
+        "base": 24.0,
+        "tendency": 33.33333333333333,
+        "combined": 27.73,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.41
+      },
+      "game_yrfi_probability": 54.46
+    },
+    "yrfi_probability": 54.46
+  },
+  "metadata": {
+    "generated_at": "2026-05-21T16:34:25.134644",
+    "data_source": "season_data.json"
+  }
+}
