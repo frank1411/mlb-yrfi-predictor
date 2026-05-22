@@ -1,0 +1,67 @@
+{
+  "game_pk": 823863,
+  "game_date": "2026-05-22",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 43.333333333333336,
+        "ratio": "13/30"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 19.18,
+    "pitcher": {
+      "name": "Tobias Myers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "6/26"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 43.333333333333336,
+        "tendency": 40.0,
+        "combined": 42.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.4
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 13.333333333333334,
+        "combined": 19.18,
+        "pitcher_impact": 25.0,
+        "adjusted": 20.93
+      },
+      "game_yrfi_probability": 44.18
+    },
+    "yrfi_probability": 44.18
+  },
+  "metadata": {
+    "generated_at": "2026-05-22T16:14:43.793470",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822816,
+  "game_date": "2026-05-22",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "7/24"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 41.0,
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "10/24"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.166666666666668,
+        "tendency": 26.666666666666668,
+        "combined": 28.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.72
+      },
+      "away_team": {
+        "base": 41.66666666666667,
+        "tendency": 40.0,
+        "combined": 41.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.7
+      },
+      "game_yrfi_probability": 42.76
+    },
+    "yrfi_probability": 42.76
+  },
+  "metadata": {
+    "generated_at": "2026-05-22T16:14:43.787284",
+    "data_source": "season_data.json"
+  }
+}

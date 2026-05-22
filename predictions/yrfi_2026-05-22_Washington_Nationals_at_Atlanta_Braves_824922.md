@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ New York Yankees
+# Análisis YRFI: Washington Nationals @ Atlanta Braves
 
-**Fecha:** 2026-05-21  
-**Lanzadores:** Braydon Fisher (V) vs Carlos Rodón (L)
+**Fecha:** 2026-05-22  
+**Lanzadores:** Miles Mikolas (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.0%
+**Probabilidad de que anoten en la primera entrada:** 50.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 56.5% (13/23 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 33.3% (8/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Braydon Fisher):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 34.9%
+- **Impacto del lanzador visitante (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 25.2%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 20.0% (5/25 partidos)
+### Washington Nationals (Visitante)
+- **Estadística base YRFI:** 32.0% (8/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.0%
+- **Impacto del lanzador local (Atlanta Braves - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 34.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-21 16:34:25
+- **Generado el:** 2026-05-22 16:14:43
 - **Fuente de datos:** season_data.json

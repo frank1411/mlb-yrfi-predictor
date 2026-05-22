@@ -1,0 +1,67 @@
+{
+  "game_pk": 823788,
+  "game_date": "2026-05-22",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Logan Henderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "6/24"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 32.53,
+    "pitcher": {
+      "name": "Justin Wrobleski",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "8/25"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 37.97
+      },
+      "away_team": {
+        "base": 32.0,
+        "tendency": 33.33333333333333,
+        "combined": 32.53,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.77
+      },
+      "game_yrfi_probability": 52.09
+    },
+    "yrfi_probability": 52.09
+  },
+  "metadata": {
+    "generated_at": "2026-05-22T16:14:43.805279",
+    "data_source": "season_data.json"
+  }
+}

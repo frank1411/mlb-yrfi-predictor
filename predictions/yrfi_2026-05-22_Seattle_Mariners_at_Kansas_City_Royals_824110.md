@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Arizona Diamondbacks
+# Análisis YRFI: Seattle Mariners @ Kansas City Royals
 
 **Fecha:** 2026-05-22  
-**Lanzadores:** Zach Agnos (V) vs Eduardo Rodriguez (L)
+**Lanzadores:** Logan Gilbert (V) vs Noah Cameron (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.5%
+**Probabilidad de que anoten en la primera entrada:** 50.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 41.7% (10/24 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 23.1% (6/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Zach Agnos):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 30.6%
+- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 37.8%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 24.0% (6/25 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 27.3% (6/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.4%
+- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-21 16:34:25
+- **Generado el:** 2026-05-22 16:14:43
 - **Fuente de datos:** season_data.json

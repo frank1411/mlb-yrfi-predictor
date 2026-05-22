@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Detroit Tigers
+# Análisis YRFI: Athletics @ San Diego Padres
 
-**Fecha:** 2026-05-21  
-**Lanzadores:** Joey Cantillo (V) vs Casey Mize (L)
+**Fecha:** 2026-05-23  
+**Lanzadores:** Jeffrey Springs (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.0%
+**Probabilidad de que anoten en la primera entrada:** 32.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 29.2% (7/24 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 23.1% (6/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 34.7%
+- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.2%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 30.8% (8/26 partidos)
+### Athletics (Visitante)
+- **Estadística base YRFI:** 25.0% (7/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 20.4%
+- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-21 16:34:25
+- **Generado el:** 2026-05-22 16:14:43
 - **Fuente de datos:** season_data.json
