@@ -1,0 +1,67 @@
+{
+  "game_pk": 823458,
+  "game_date": "2026-05-23",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 39.285714285714285,
+        "ratio": "11/28"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 27.81,
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "8/28"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.285714285714285,
+        "tendency": 33.33333333333333,
+        "combined": 36.9,
+        "pitcher_impact": 40.0,
+        "adjusted": 37.83
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 26.666666666666668,
+        "combined": 27.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.47
+      },
+      "game_yrfi_probability": 49.93
+    },
+    "yrfi_probability": 49.93
+  },
+  "metadata": {
+    "generated_at": "2026-05-23T14:53:37.742471",
+    "data_source": "season_data.json"
+  }
+}

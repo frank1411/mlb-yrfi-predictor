@@ -1,0 +1,67 @@
+{
+  "game_pk": 824516,
+  "game_date": "2026-05-23",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Chase Petty",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "6/24"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 20.99,
+    "pitcher": {
+      "name": "Kyle Leahy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "6/23"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 20.0,
+        "combined": 23.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.1
+      },
+      "away_team": {
+        "base": 26.08695652173913,
+        "tendency": 13.333333333333334,
+        "combined": 20.99,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.69
+      },
+      "game_yrfi_probability": 28.42
+    },
+    "yrfi_probability": 28.42
+  },
+  "metadata": {
+    "generated_at": "2026-05-23T14:53:37.729682",
+    "data_source": "season_data.json"
+  }
+}

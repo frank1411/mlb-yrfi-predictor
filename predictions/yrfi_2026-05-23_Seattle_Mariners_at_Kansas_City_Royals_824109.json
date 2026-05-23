@@ -1,0 +1,67 @@
+{
+  "game_pk": 824109,
+  "game_date": "2026-05-23",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Stephen Kolek",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "6/27"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 28.99,
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "6/23"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.22222222222222,
+        "tendency": 40.0,
+        "combined": 29.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.53
+      },
+      "away_team": {
+        "base": 26.08695652173913,
+        "tendency": 33.33333333333333,
+        "combined": 28.99,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.29
+      },
+      "game_yrfi_probability": 36.65
+    },
+    "yrfi_probability": 36.65
+  },
+  "metadata": {
+    "generated_at": "2026-05-23T14:53:37.748797",
+    "data_source": "season_data.json"
+  }
+}
