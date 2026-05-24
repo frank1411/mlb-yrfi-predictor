@@ -1,0 +1,67 @@
+{
+  "game_pk": 824759,
+  "game_date": "2026-05-24",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 12.5,
+        "ratio": "3/24"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 21.1,
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 17.391304347826086,
+        "ratio": "4/23"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 12.5,
+        "tendency": 13.333333333333334,
+        "combined": 12.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 8.98
+      },
+      "away_team": {
+        "base": 17.391304347826086,
+        "tendency": 26.666666666666668,
+        "combined": 21.1,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.77
+      },
+      "game_yrfi_probability": 22.42
+    },
+    "yrfi_probability": 22.42
+  },
+  "metadata": {
+    "generated_at": "2026-05-24T14:55:16.321156",
+    "data_source": "season_data.json"
+  }
+}

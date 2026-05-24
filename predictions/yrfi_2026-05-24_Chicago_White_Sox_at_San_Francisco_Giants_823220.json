@@ -1,0 +1,67 @@
+{
+  "game_pk": 823220,
+  "game_date": "2026-05-24",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 20.833333333333336,
+        "ratio": "5/24"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 31.11,
+    "pitcher": {
+      "name": "Noah Schultz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "8/27"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.833333333333336,
+        "tendency": 13.333333333333334,
+        "combined": 17.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.48
+      },
+      "away_team": {
+        "base": 29.629629629629626,
+        "tendency": 33.33333333333333,
+        "combined": 31.11,
+        "pitcher_impact": 25.0,
+        "adjusted": 29.28
+      },
+      "game_yrfi_probability": 38.11
+    },
+    "yrfi_probability": 38.11
+  },
+  "metadata": {
+    "generated_at": "2026-05-24T14:55:16.347728",
+    "data_source": "season_data.json"
+  }
+}

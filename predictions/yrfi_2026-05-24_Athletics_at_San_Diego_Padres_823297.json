@@ -1,0 +1,67 @@
+{
+  "game_pk": 823297,
+  "game_date": "2026-05-24",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "7/28"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 26.67,
+    "pitcher": {
+      "name": "Luis Medina",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "8/30"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.83
+      },
+      "away_team": {
+        "base": 26.666666666666668,
+        "tendency": 26.666666666666668,
+        "combined": 26.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.67
+      },
+      "game_yrfi_probability": 34.8
+    },
+    "yrfi_probability": 34.8
+  },
+  "metadata": {
+    "generated_at": "2026-05-24T14:55:16.354566",
+    "data_source": "season_data.json"
+  }
+}

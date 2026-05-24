@@ -1,0 +1,67 @@
+{
+  "game_pk": 824108,
+  "game_date": "2026-05-24",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "7/28"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 28.33,
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "6/24"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 46.666666666666664,
+        "combined": 33.67,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.07
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.33
+      },
+      "game_yrfi_probability": 49.91
+    },
+    "yrfi_probability": 49.91
+  },
+  "metadata": {
+    "generated_at": "2026-05-24T14:55:16.337685",
+    "data_source": "season_data.json"
+  }
+}
