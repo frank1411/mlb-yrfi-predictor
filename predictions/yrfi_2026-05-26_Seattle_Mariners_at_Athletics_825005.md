@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ New York Yankees
+# Análisis YRFI: Seattle Mariners @ Athletics
 
-**Fecha:** 2026-05-24  
-**Lanzadores:** Drew Rasmussen (V) vs Ryan Weathers (L)
+**Fecha:** 2026-05-26  
+**Lanzadores:** Luis Castillo (V) vs Aaron Civale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.3%
+**Probabilidad de que anoten en la primera entrada:** 52.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 52.0% (13/25 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 22.7% (5/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 38.7%
+- **Impacto del lanzador visitante (Seattle Mariners - Luis Castillo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.9%
 
-### Tampa Bay Rays (Visitante)
+### Seattle Mariners (Visitante)
 - **Estadística base YRFI:** 28.0% (7/25 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 36.8%
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Athletics - Aaron Civale):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-24 14:55:16
+- **Generado el:** 2026-05-25 16:15:08
 - **Fuente de datos:** season_data.json

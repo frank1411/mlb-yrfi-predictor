@@ -1,0 +1,67 @@
+{
+  "game_pk": 823948,
+  "game_date": "2026-05-26",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "8/25"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 23.08,
+    "pitcher": {
+      "name": "Tanner Gordon",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.689655172413794,
+        "ratio": "6/29"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.0,
+        "tendency": 33.33333333333333,
+        "combined": 32.53,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.77
+      },
+      "away_team": {
+        "base": 20.689655172413794,
+        "tendency": 26.666666666666668,
+        "combined": 23.08,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 26.16
+      },
+      "game_yrfi_probability": 42.97
+    },
+    "yrfi_probability": 42.97
+  },
+  "metadata": {
+    "generated_at": "2026-05-25T16:15:08.909824",
+    "data_source": "season_data.json"
+  }
+}

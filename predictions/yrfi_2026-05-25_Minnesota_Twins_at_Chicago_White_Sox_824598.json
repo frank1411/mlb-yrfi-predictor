@@ -1,0 +1,67 @@
+{
+  "game_pk": 824598,
+  "game_date": "2026-05-25",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Anthony Kay",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "7/25"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 25.83,
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.833333333333336,
+        "ratio": "5/24"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.000000000000004,
+        "tendency": 33.33333333333333,
+        "combined": 30.13,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.09
+      },
+      "away_team": {
+        "base": 20.833333333333336,
+        "tendency": 33.33333333333333,
+        "combined": 25.83,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.08
+      },
+      "game_yrfi_probability": 59.03
+    },
+    "yrfi_probability": 59.03
+  },
+  "metadata": {
+    "generated_at": "2026-05-25T16:15:08.879287",
+    "data_source": "season_data.json"
+  }
+}

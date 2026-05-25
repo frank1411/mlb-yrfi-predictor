@@ -1,0 +1,67 @@
+{
+  "game_pk": 824838,
+  "game_date": "2026-05-25",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 14.814814814814813,
+        "ratio": "4/27"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 34.82,
+    "pitcher": {
+      "name": "Shane McClanahan",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "7/26"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 14.814814814814813,
+        "tendency": 13.333333333333334,
+        "combined": 14.22,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 19.96
+      },
+      "away_team": {
+        "base": 26.923076923076923,
+        "tendency": 46.666666666666664,
+        "combined": 34.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.37
+      },
+      "game_yrfi_probability": 39.47
+    },
+    "yrfi_probability": 39.47
+  },
+  "metadata": {
+    "generated_at": "2026-05-25T16:15:08.875890",
+    "data_source": "season_data.json"
+  }
+}

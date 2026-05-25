@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Atlanta Braves
+# Análisis YRFI: Chicago Cubs @ Pittsburgh Pirates
 
-**Fecha:** 2026-05-24  
-**Lanzadores:** Foster Griffin (V) vs Martín Pérez (L)
+**Fecha:** 2026-05-25  
+**Lanzadores:** Ben Brown (V) vs Carmen Mlodzinski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.2%
+**Probabilidad de que anoten en la primera entrada:** 47.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 30.8% (8/26 partidos)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 38.5% (10/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 24.1%
+- **Impacto del lanzador visitante (Chicago Cubs - Ben Brown):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.4%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 29.6% (8/27 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 16.7% (4/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Impacto del lanzador local (Pittsburgh Pirates - Carmen Mlodzinski):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 27.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-24 14:55:16
+- **Generado el:** 2026-05-25 16:15:08
 - **Fuente de datos:** season_data.json

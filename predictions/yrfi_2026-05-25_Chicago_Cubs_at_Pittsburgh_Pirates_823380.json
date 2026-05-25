@@ -1,18 +1,18 @@
 {
-  "game_pk": 824921,
-  "game_date": "2026-05-24",
+  "game_pk": 823380,
+  "game_date": "2026-05-25",
   "home_team": {
-    "id": "144",
-    "name": "Atlanta Braves",
+    "id": "134",
+    "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Martín Pérez",
+      "name": "Carmen Mlodzinski",
       "yrfi_allowed": 50.0,
       "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 30.76923076923077,
-        "ratio": "8/26"
+        "value": 38.46153846153847,
+        "ratio": "10/26"
       },
       "tendency": {
         "value": 40.0,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "120",
-    "name": "Washington Nationals",
-    "combined_yrfi_pct": 25.78,
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 18.0,
     "pitcher": {
-      "name": "Foster Griffin",
+      "name": "Ben Brown",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 29.629629629629626,
-        "ratio": "8/27"
+        "value": 16.666666666666664,
+        "ratio": "4/24"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.76923076923077,
+        "base": 38.46153846153847,
         "tendency": 40.0,
-        "combined": 34.46,
+        "combined": 39.08,
         "pitcher_impact": 0.0,
-        "adjusted": 24.12
+        "adjusted": 27.35
       },
       "away_team": {
-        "base": 29.629629629629626,
+        "base": 16.666666666666664,
         "tendency": 20.0,
-        "combined": 25.78,
+        "combined": 18.0,
         "pitcher_impact": 50.0,
-        "adjusted": 33.04
+        "adjusted": 27.6
       },
-      "game_yrfi_probability": 49.19
+      "game_yrfi_probability": 47.4
     },
-    "yrfi_probability": 49.19
+    "yrfi_probability": 47.4
   },
   "metadata": {
-    "generated_at": "2026-05-24T14:55:16.358107",
+    "generated_at": "2026-05-25T16:15:08.872143",
     "data_source": "season_data.json"
   }
 }

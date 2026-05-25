@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ Cincinnati Reds
+# Análisis YRFI: St. Louis Cardinals @ Milwaukee Brewers
 
-**Fecha:** 2026-05-24  
-**Lanzadores:** Matthew Liberatore (V) vs Brady Singer (L)
+**Fecha:** 2026-05-25  
+**Lanzadores:** Matthew Liberatore (V) vs Jacob Misiorowski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.0%
+**Probabilidad de que anoten en la primera entrada:** 50.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 23.1% (6/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 29.6% (8/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
 - **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 26.6%
+- **Puntuación ajustada:** 36.8%
 
 ### St. Louis Cardinals (Visitante)
 - **Estadística base YRFI:** 24.0% (6/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 21.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-24 14:55:16
+- **Generado el:** 2026-05-25 16:15:08
 - **Fuente de datos:** season_data.json

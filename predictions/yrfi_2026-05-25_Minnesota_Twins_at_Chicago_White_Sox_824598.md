@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Arizona Diamondbacks
+# Análisis YRFI: Minnesota Twins @ Chicago White Sox
 
-**Fecha:** 2026-05-24  
-**Lanzadores:** Jose Quintana (V) vs Ryne Nelson (L)
+**Fecha:** 2026-05-25  
+**Lanzadores:** Zebby Matthews (V) vs Anthony Kay (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.0%
+**Probabilidad de que anoten en la primera entrada:** 59.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 37.0% (10/27 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 28.0% (7/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Jose Quintana):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 44.9%
+- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.1%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 21.4% (6/28 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 20.8% (5/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 38.3%
+- **Impacto del lanzador local (Chicago White Sox - Anthony Kay):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 48.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-24 14:55:16
+- **Generado el:** 2026-05-25 16:15:08
 - **Fuente de datos:** season_data.json

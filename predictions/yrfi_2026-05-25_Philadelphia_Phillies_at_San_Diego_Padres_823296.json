@@ -1,0 +1,67 @@
+{
+  "game_pk": 823296,
+  "game_date": "2026-05-25",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Randy Vásquez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.137931034482758,
+        "ratio": "7/29"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 28.99,
+    "pitcher": {
+      "name": "Jesús Luzardo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "6/23"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.137931034482758,
+        "tendency": 26.666666666666668,
+        "combined": 25.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.6
+      },
+      "away_team": {
+        "base": 26.08695652173913,
+        "tendency": 33.33333333333333,
+        "combined": 28.99,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.29
+      },
+      "game_yrfi_probability": 34.32
+    },
+    "yrfi_probability": 34.32
+  },
+  "metadata": {
+    "generated_at": "2026-05-25T16:15:08.899920",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823625,
+  "game_date": "2026-05-25",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Nolan McLean",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "7/24"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 18.82,
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "7/26"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.166666666666668,
+        "tendency": 13.333333333333334,
+        "combined": 22.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.98
+      },
+      "away_team": {
+        "base": 26.923076923076923,
+        "tendency": 6.666666666666667,
+        "combined": 18.82,
+        "pitcher_impact": 25.0,
+        "adjusted": 20.67
+      },
+      "game_yrfi_probability": 33.35
+    },
+    "yrfi_probability": 33.35
+  },
+  "metadata": {
+    "generated_at": "2026-05-25T16:15:08.889170",
+    "data_source": "season_data.json"
+  }
+}

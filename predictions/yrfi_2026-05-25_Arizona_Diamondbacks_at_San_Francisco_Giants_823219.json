@@ -1,0 +1,67 @@
+{
+  "game_pk": 823219,
+  "game_date": "2026-05-25",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "6/25"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 31.0,
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "6/24"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.0,
+        "tendency": 20.0,
+        "combined": 22.4,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.68
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.7
+      },
+      "game_yrfi_probability": 33.98
+    },
+    "yrfi_probability": 33.98
+  },
+  "metadata": {
+    "generated_at": "2026-05-25T16:15:08.893009",
+    "data_source": "season_data.json"
+  }
+}

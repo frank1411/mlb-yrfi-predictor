@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Baltimore Orioles
+# Análisis YRFI: Miami Marlins @ Toronto Blue Jays
 
-**Fecha:** 2026-05-24  
-**Lanzadores:** Framber Valdez (V) vs Brandon Young (L)
+**Fecha:** 2026-05-25  
+**Lanzadores:** Janson Junk (V) vs Trey Yesavage (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.7%
+**Probabilidad de que anoten en la primera entrada:** 46.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 16.0% (4/25 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 24.3%
-
-### Detroit Tigers (Visitante)
+### Toronto Blue Jays (Local)
 - **Estadística base YRFI:** 29.6% (8/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 50.0% (1/2 partidos)
 - **Puntuación ajustada:** 34.9%
+
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 28.6% (6/21 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 17.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-24 14:55:16
+- **Generado el:** 2026-05-25 16:15:08
 - **Fuente de datos:** season_data.json
