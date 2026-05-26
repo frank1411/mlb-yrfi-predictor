@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Texas Rangers
 
-**Fecha:** 2026-05-25  
-**Lanzadores:** Tatsuya Imai (V) vs Kumar Rocker (L)
+**Fecha:** 2026-05-27  
+**Lanzadores:** Jason Alexander (V) vs Jack Leiter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.2%
+**Probabilidad de que anoten en la primera entrada:** 35.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 9.5% (2/21 partidos)
+- **Estadística base YRFI:** 9.1% (2/22 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Tatsuya Imai):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 7.5%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 27.6% (8/29 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 47.2%
+- **Estadística base YRFI:** 30.0% (9/30 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-25 16:15:08
+- **Generado el:** 2026-05-26 17:19:59
 - **Fuente de datos:** season_data.json

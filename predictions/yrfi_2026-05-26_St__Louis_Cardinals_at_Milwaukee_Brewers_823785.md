@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Milwaukee Brewers
 
-**Fecha:** 2026-05-25  
-**Lanzadores:** Matthew Liberatore (V) vs Jacob Misiorowski (L)
+**Fecha:** 2026-05-26  
+**Lanzadores:** Michael McGreevy (V) vs Kyle Harrison (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.2%
+**Probabilidad de que anoten en la primera entrada:** 42.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 29.6% (8/27 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.8%
+- **Estadística base YRFI:** 32.1% (9/28 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.7%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 24.0% (6/25 partidos)
+- **Estadística base YRFI:** 23.1% (6/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 21.3%
+- **Impacto del lanzador local (Milwaukee Brewers - Kyle Harrison):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 23.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-25 16:15:08
+- **Generado el:** 2026-05-26 17:19:59
 - **Fuente de datos:** season_data.json

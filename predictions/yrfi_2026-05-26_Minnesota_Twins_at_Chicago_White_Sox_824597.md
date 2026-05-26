@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Chicago White Sox
 
-**Fecha:** 2026-05-25  
-**Lanzadores:** Zebby Matthews (V) vs Anthony Kay (L)
+**Fecha:** 2026-05-26  
+**Lanzadores:** Joe Ryan (V) vs Sean Burke (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.0%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 28.0% (7/25 partidos)
+- **Estadística base YRFI:** 30.8% (8/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.1%
+- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 37.3%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 20.8% (5/24 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Anthony Kay):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 48.1%
+- **Estadística base YRFI:** 24.0% (6/25 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 21.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-25 16:15:08
+- **Generado el:** 2026-05-26 17:19:59
 - **Fuente de datos:** season_data.json

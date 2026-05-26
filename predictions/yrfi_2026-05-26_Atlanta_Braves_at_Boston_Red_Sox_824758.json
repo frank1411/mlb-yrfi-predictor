@@ -1,0 +1,67 @@
+{
+  "game_pk": 824758,
+  "game_date": "2026-05-26",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Ranger Suarez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 12.0,
+        "ratio": "3/25"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 40.44,
+    "pitcher": {
+      "name": "Spencer Strider",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 40.74074074074074,
+        "ratio": "11/27"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 12.0,
+        "tendency": 13.333333333333334,
+        "combined": 12.53,
+        "pitcher_impact": 100.0,
+        "adjusted": 38.77
+      },
+      "away_team": {
+        "base": 40.74074074074074,
+        "tendency": 40.0,
+        "combined": 40.44,
+        "pitcher_impact": 25.0,
+        "adjusted": 35.81
+      },
+      "game_yrfi_probability": 60.7
+    },
+    "yrfi_probability": 60.7
+  },
+  "metadata": {
+    "generated_at": "2026-05-26T17:19:59.661216",
+    "data_source": "season_data.json"
+  }
+}

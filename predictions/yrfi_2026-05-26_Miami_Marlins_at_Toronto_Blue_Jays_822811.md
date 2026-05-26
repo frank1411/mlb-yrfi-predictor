@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Toronto Blue Jays
 
-**Fecha:** 2026-05-25  
-**Lanzadores:** Janson Junk (V) vs Trey Yesavage (L)
+**Fecha:** 2026-05-26  
+**Lanzadores:** Sandy Alcantara (V) vs Braydon Fisher (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.4%
+**Probabilidad de que anoten en la primera entrada:** 44.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.6% (8/27 partidos)
+- **Estadística base YRFI:** 28.6% (8/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.9%
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.5%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 28.6% (6/21 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.6%
+- **Estadística base YRFI:** 31.8% (7/22 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Braydon Fisher):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-25 16:15:08
+- **Generado el:** 2026-05-26 17:19:59
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Los Angeles Dodgers
+# Análisis YRFI: Los Angeles Angels @ Detroit Tigers
 
 **Fecha:** 2026-05-26  
-**Lanzadores:** Tanner Gordon (V) vs Emmet Sheehan (L)
+**Lanzadores:** Jack Kochanowicz (V) vs Keider Montero (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.0%
+**Probabilidad de que anoten en la primera entrada:** 40.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 32.0% (8/25 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 28.0% (7/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.8%
+- **Impacto del lanzador visitante (Los Angeles Angels - Jack Kochanowicz):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.6%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 20.7% (6/29 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 23.1% (6/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.2%
+- **Impacto del lanzador local (Detroit Tigers - Keider Montero):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 17.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-25 16:15:08
+- **Generado el:** 2026-05-26 17:19:59
 - **Fuente de datos:** season_data.json

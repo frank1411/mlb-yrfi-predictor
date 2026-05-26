@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ New York Mets
 
-**Fecha:** 2026-05-25  
-**Lanzadores:** Nick Lodolo (V) vs Nolan McLean (L)
+**Fecha:** 2026-05-26  
+**Lanzadores:** Chase Burns (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.4%
+**Probabilidad de que anoten en la primera entrada:** 39.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 29.2% (7/24 partidos)
+- **Estadística base YRFI:** 28.0% (7/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.0%
+- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 15.5%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 26.9% (7/26 partidos)
+- **Estadística base YRFI:** 25.9% (7/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 20.7%
+- **Impacto del lanzador local (New York Mets - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-25 16:15:08
+- **Generado el:** 2026-05-26 17:19:59
 - **Fuente de datos:** season_data.json

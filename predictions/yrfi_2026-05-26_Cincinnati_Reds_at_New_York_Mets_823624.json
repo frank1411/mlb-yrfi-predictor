@@ -1,18 +1,18 @@
 {
-  "game_pk": 823625,
-  "game_date": "2026-05-25",
+  "game_pk": 823624,
+  "game_date": "2026-05-26",
   "home_team": {
     "id": "121",
     "name": "New York Mets",
     "pitcher": {
-      "name": "Nolan McLean",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 29.166666666666668,
-        "ratio": "7/24"
+        "value": 28.000000000000004,
+        "ratio": "7/25"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "113",
     "name": "Cincinnati Reds",
-    "combined_yrfi_pct": 18.82,
+    "combined_yrfi_pct": 18.22,
     "pitcher": {
-      "name": "Nick Lodolo",
+      "name": "Chase Burns",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 26.923076923076923,
-        "ratio": "7/26"
+        "value": 25.925925925925924,
+        "ratio": "7/27"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 29.166666666666668,
+        "base": 28.000000000000004,
         "tendency": 13.333333333333334,
-        "combined": 22.83,
+        "combined": 22.13,
         "pitcher_impact": 0.0,
-        "adjusted": 15.98
+        "adjusted": 15.49
       },
       "away_team": {
-        "base": 26.923076923076923,
+        "base": 25.925925925925924,
         "tendency": 6.666666666666667,
-        "combined": 18.82,
-        "pitcher_impact": 25.0,
-        "adjusted": 20.67
+        "combined": 18.22,
+        "pitcher_impact": 50.0,
+        "adjusted": 27.76
       },
-      "game_yrfi_probability": 33.35
+      "game_yrfi_probability": 38.95
     },
-    "yrfi_probability": 33.35
+    "yrfi_probability": 38.95
   },
   "metadata": {
-    "generated_at": "2026-05-25T16:15:08.889170",
+    "generated_at": "2026-05-26T17:19:59.666837",
     "data_source": "season_data.json"
   }
 }

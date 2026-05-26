@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ San Francisco Giants
 
-**Fecha:** 2026-05-25  
-**Lanzadores:** Merrill Kelly (V) vs Landen Roupp (L)
+**Fecha:** 2026-05-27  
+**Lanzadores:** Eduardo Rodriguez (V) vs Tyler Mahle (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.0%
+**Probabilidad de que anoten en la primera entrada:** 50.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 24.0% (6/25 partidos)
+- **Estadística base YRFI:** 23.1% (6/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.7%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 30.3%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 25.0% (6/24 partidos)
+- **Estadística base YRFI:** 24.0% (6/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Impacto del lanzador local (San Francisco Giants - Tyler Mahle):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-25 16:15:08
+- **Generado el:** 2026-05-26 17:19:59
 - **Fuente de datos:** season_data.json

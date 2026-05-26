@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Kansas City Royals
 
-**Fecha:** 2026-05-25  
-**Lanzadores:** Will Warren (V) vs Michael Wacha (L)
+**Fecha:** 2026-05-26  
+**Lanzadores:** Cam Schlittler (V) vs Bailey Falter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.4%
+**Probabilidad de que anoten en la primera entrada:** 43.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 24.1% (7/29 partidos)
+- **Estadística base YRFI:** 23.3% (7/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 23.2%
+- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 28.9%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 33.3% (9/27 partidos)
+- **Estadística base YRFI:** 32.1% (9/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Impacto del lanzador local (Kansas City Royals - Bailey Falter):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-25 16:15:08
+- **Generado el:** 2026-05-26 17:19:59
 - **Fuente de datos:** season_data.json

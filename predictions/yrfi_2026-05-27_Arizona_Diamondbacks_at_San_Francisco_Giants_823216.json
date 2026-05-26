@@ -1,0 +1,67 @@
+{
+  "game_pk": 823216,
+  "game_date": "2026-05-27",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Tyler Mahle",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "6/26"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 30.4,
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "6/25"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.076923076923077,
+        "tendency": 20.0,
+        "combined": 21.85,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.29
+      },
+      "away_team": {
+        "base": 24.0,
+        "tendency": 40.0,
+        "combined": 30.4,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.78
+      },
+      "game_yrfi_probability": 50.35
+    },
+    "yrfi_probability": 50.35
+  },
+  "metadata": {
+    "generated_at": "2026-05-26T17:19:59.689444",
+    "data_source": "season_data.json"
+  }
+}
