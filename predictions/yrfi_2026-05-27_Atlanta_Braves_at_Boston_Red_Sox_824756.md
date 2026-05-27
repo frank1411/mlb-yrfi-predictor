@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Boston Red Sox
 
-**Fecha:** 2026-05-26  
-**Lanzadores:** Spencer Strider (V) vs Ranger Suarez (L)
+**Fecha:** 2026-05-27  
+**Lanzadores:** Bryce Elder (V) vs Connelly Early (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.7%
+**Probabilidad de que anoten en la primera entrada:** 54.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 12.0% (3/25 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 38.8%
+- **Estadística base YRFI:** 15.4% (4/26 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 40.7% (11/27 partidos)
+- **Estadística base YRFI:** 39.3% (11/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Ranger Suarez):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 35.8%
+- **Impacto del lanzador local (Boston Red Sox - Connelly Early):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 37.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-26 17:19:59
+- **Generado el:** 2026-05-27 16:57:34
 - **Fuente de datos:** season_data.json

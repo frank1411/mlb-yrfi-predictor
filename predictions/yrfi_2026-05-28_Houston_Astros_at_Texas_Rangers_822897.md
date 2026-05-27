@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Texas Rangers
 
-**Fecha:** 2026-05-27  
-**Lanzadores:** Jason Alexander (V) vs Jack Leiter (L)
+**Fecha:** 2026-05-28  
+**Lanzadores:** Mike Burrows (V) vs Jacob deGrom (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.4%
+**Probabilidad de que anoten en la primera entrada:** 52.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 9.1% (2/22 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Jason Alexander):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 7.5%
+- **Estadística base YRFI:** 13.0% (3/23 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Mike Burrows):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 21.1%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 30.0% (9/30 partidos)
+- **Estadística base YRFI:** 29.0% (9/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.1%
+- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 39.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-26 17:19:59
+- **Generado el:** 2026-05-27 16:57:34
 - **Fuente de datos:** season_data.json

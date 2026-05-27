@@ -1,0 +1,67 @@
+{
+  "game_pk": 824104,
+  "game_date": "2026-05-27",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Noah Cameron",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.58064516129032,
+        "ratio": "7/31"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 31.36,
+    "pitcher": {
+      "name": "Gerrit Cole",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.48275862068966,
+        "ratio": "10/29"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.58064516129032,
+        "tendency": 40.0,
+        "combined": 29.55,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.68
+      },
+      "away_team": {
+        "base": 34.48275862068966,
+        "tendency": 26.666666666666668,
+        "combined": 31.36,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.95
+      },
+      "game_yrfi_probability": 38.09
+    },
+    "yrfi_probability": 38.09
+  },
+  "metadata": {
+    "generated_at": "2026-05-27T16:57:34.468066",
+    "data_source": "season_data.json"
+  }
+}

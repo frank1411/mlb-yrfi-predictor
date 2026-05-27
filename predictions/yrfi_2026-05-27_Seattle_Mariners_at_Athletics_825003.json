@@ -1,0 +1,67 @@
+{
+  "game_pk": 825003,
+  "game_date": "2026-05-27",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 20.833333333333336,
+        "ratio": "5/24"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 28.89,
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.925925925925924,
+        "ratio": "7/27"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.833333333333336,
+        "tendency": 26.666666666666668,
+        "combined": 23.17,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.22
+      },
+      "away_team": {
+        "base": 25.925925925925924,
+        "tendency": 33.33333333333333,
+        "combined": 28.89,
+        "pitcher_impact": 75.0,
+        "adjusted": 42.72
+      },
+      "game_yrfi_probability": 60.6
+    },
+    "yrfi_probability": 60.6
+  },
+  "metadata": {
+    "generated_at": "2026-05-27T16:57:34.438401",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ New York Mets
 
-**Fecha:** 2026-05-26  
-**Lanzadores:** Chase Burns (V) vs Por anunciar (L)
+**Fecha:** 2026-05-27  
+**Lanzadores:** Andrew Abbott (V) vs Huascar Brazobán (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.0%
+**Probabilidad de que anoten en la primera entrada:** 41.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 28.0% (7/25 partidos)
+- **Estadística base YRFI:** 26.9% (7/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.5%
+- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 30.0%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 25.9% (7/27 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (New York Mets - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 27.8%
+- **Estadística base YRFI:** 28.6% (8/28 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (New York Mets - Huascar Brazobán):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 15.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-26 17:19:59
+- **Generado el:** 2026-05-27 16:57:34
 - **Fuente de datos:** season_data.json

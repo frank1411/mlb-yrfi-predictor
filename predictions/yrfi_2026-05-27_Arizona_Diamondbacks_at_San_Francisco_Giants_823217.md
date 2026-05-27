@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ San Diego Padres
+# Análisis YRFI: Arizona Diamondbacks @ San Francisco Giants
 
 **Fecha:** 2026-05-27  
-**Lanzadores:** Aaron Nola (V) vs Randy Vásquez (L)
+**Lanzadores:** Michael Soroka (V) vs Trevor McDonald (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.3%
+**Probabilidad de que anoten en la primera entrada:** 74.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 23.3% (7/30 partidos)
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 25.9% (7/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Michael Soroka):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 48.4%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 29.2% (7/24 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 23.1% (6/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Randy Vásquez):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Impacto del lanzador local (San Francisco Giants - Trevor McDonald):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 50.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-26 17:19:59
+- **Generado el:** 2026-05-27 16:57:34
 - **Fuente de datos:** season_data.json

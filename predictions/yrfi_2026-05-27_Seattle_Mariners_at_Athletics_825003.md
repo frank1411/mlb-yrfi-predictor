@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Athletics
 
 **Fecha:** 2026-05-27  
-**Lanzadores:** Emerson Hancock (V) vs Luis Severino (L)
+**Lanzadores:** Logan Gilbert (V) vs Jeffrey Springs (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.8%
+**Probabilidad de que anoten en la primera entrada:** 60.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 21.7% (5/23 partidos)
+- **Estadística base YRFI:** 20.8% (5/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Emerson Hancock):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.6%
+- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 31.2%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 26.9% (7/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Athletics - Luis Severino):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 42.5%
+- **Estadística base YRFI:** 25.9% (7/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 42.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-26 17:19:59
+- **Generado el:** 2026-05-27 16:57:34
 - **Fuente de datos:** season_data.json

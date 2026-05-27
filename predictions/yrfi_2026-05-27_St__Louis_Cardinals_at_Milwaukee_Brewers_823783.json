@@ -1,18 +1,18 @@
 {
-  "game_pk": 823785,
-  "game_date": "2026-05-26",
+  "game_pk": 823783,
+  "game_date": "2026-05-27",
   "home_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
     "pitcher": {
-      "name": "Kyle Harrison",
+      "name": "Chad Patrick",
       "yrfi_allowed": 33.33333333333333,
       "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 32.142857142857146,
-        "ratio": "9/28"
+        "value": 31.03448275862069,
+        "ratio": "9/29"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "138",
     "name": "St. Louis Cardinals",
-    "combined_yrfi_pct": 19.18,
+    "combined_yrfi_pct": 18.67,
     "pitcher": {
-      "name": "Michael McGreevy",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "name": "Dustin May",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
     },
     "stats": {
       "base": {
-        "value": 23.076923076923077,
-        "ratio": "6/26"
+        "value": 22.22222222222222,
+        "ratio": "6/27"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.142857142857146,
+        "base": 31.03448275862069,
         "tendency": 40.0,
-        "combined": 35.29,
-        "pitcher_impact": 0.0,
-        "adjusted": 24.7
+        "combined": 34.62,
+        "pitcher_impact": 100.0,
+        "adjusted": 54.23
       },
       "away_team": {
-        "base": 23.076923076923077,
+        "base": 22.22222222222222,
         "tendency": 13.333333333333334,
-        "combined": 19.18,
+        "combined": 18.67,
         "pitcher_impact": 33.33333333333333,
-        "adjusted": 23.43
+        "adjusted": 23.07
       },
-      "game_yrfi_probability": 42.34
+      "game_yrfi_probability": 64.79
     },
-    "yrfi_probability": 42.34
+    "yrfi_probability": 64.79
   },
   "metadata": {
-    "generated_at": "2026-05-26T17:19:59.676442",
+    "generated_at": "2026-05-27T16:57:34.434818",
     "data_source": "season_data.json"
   }
 }

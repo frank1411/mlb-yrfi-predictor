@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Los Angeles Dodgers
 
-**Fecha:** 2026-05-27  
-**Lanzadores:** Kyle Freeland (V) vs Eric Lauer (L)
+**Fecha:** 2026-05-28  
+**Lanzadores:** Tomoyuki Sugano (V) vs Shohei Ohtani (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.5%
+**Probabilidad de que anoten en la primera entrada:** 36.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 30.8% (8/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 37.3%
+- **Estadística base YRFI:** 33.3% (9/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 25.2%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 20.0% (6/30 partidos)
+- **Estadística base YRFI:** 19.4% (6/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Eric Lauer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador local (Los Angeles Dodgers - Shohei Ohtani):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 15.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-26 17:19:59
+- **Generado el:** 2026-05-27 16:57:34
 - **Fuente de datos:** season_data.json

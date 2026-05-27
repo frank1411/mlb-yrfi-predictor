@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Detroit Tigers
 
-**Fecha:** 2026-05-26  
-**Lanzadores:** Jack Kochanowicz (V) vs Keider Montero (L)
+**Fecha:** 2026-05-27  
+**Lanzadores:** José Soriano (V) vs Casey Mize (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.8%
+**Probabilidad de que anoten en la primera entrada:** 34.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 28.0% (7/25 partidos)
+- **Estadística base YRFI:** 26.9% (7/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Jack Kochanowicz):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Impacto del lanzador visitante (Los Angeles Angels - José Soriano):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 20.6%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 23.1% (6/26 partidos)
+- **Estadística base YRFI:** 22.2% (6/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Keider Montero):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 17.2%
+- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 16.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-26 17:19:59
+- **Generado el:** 2026-05-27 16:57:34
 - **Fuente de datos:** season_data.json

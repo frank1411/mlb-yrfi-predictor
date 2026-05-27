@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Baltimore Orioles
 
-**Fecha:** 2026-05-26  
-**Lanzadores:** Griffin Jax (V) vs Shane Baz (L)
+**Fecha:** 2026-05-27  
+**Lanzadores:** Steven Matz (V) vs Trey Gibson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.4%
+**Probabilidad de que anoten en la primera entrada:** 33.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 14.3% (4/28 partidos)
+- **Estadística base YRFI:** 13.8% (4/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 9.7%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Steven Matz):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 9.5%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 25.9% (7/27 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Estadística base YRFI:** 28.6% (8/28 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Trey Gibson):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-26 17:19:59
+- **Generado el:** 2026-05-27 16:57:34
 - **Fuente de datos:** season_data.json
