@@ -1,0 +1,67 @@
+{
+  "game_pk": 824272,
+  "game_date": "2026-05-28",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "8/27"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 23.52,
+    "pitcher": {
+      "name": "Grayson Rodriguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "6/28"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.629629629629626,
+        "tendency": 40.0,
+        "combined": 33.78,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.64
+      },
+      "away_team": {
+        "base": 21.428571428571427,
+        "tendency": 26.666666666666668,
+        "combined": 23.52,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 26.47
+      },
+      "game_yrfi_probability": 43.85
+    },
+    "yrfi_probability": 43.85
+  },
+  "metadata": {
+    "generated_at": "2026-05-28T17:31:17.948050",
+    "data_source": "season_data.json"
+  }
+}

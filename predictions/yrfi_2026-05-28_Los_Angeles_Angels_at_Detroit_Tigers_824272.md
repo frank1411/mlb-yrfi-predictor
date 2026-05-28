@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Kansas City Royals
+# Análisis YRFI: Los Angeles Angels @ Detroit Tigers
 
-**Fecha:** 2026-05-27  
-**Lanzadores:** Gerrit Cole (V) vs Noah Cameron (L)
+**Fecha:** 2026-05-28  
+**Lanzadores:** Grayson Rodriguez (V) vs Jack Flaherty (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.1%
+**Probabilidad de que anoten en la primera entrada:** 43.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 22.6% (7/31 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 29.6% (8/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.7%
+- **Impacto del lanzador visitante (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.6%
 
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 34.5% (10/29 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 21.4% (6/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.9%
+- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-27 16:57:34
+- **Generado el:** 2026-05-28 17:31:17
 - **Fuente de datos:** season_data.json

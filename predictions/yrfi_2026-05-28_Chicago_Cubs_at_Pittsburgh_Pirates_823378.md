@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Pittsburgh Pirates
 
-**Fecha:** 2026-05-27  
-**Lanzadores:** Jameson Taillon (V) vs Bubba Chandler (L)
+**Fecha:** 2026-05-28  
+**Lanzadores:** Colin Rea (V) vs Paul Skenes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.1%
+**Probabilidad de que anoten en la primera entrada:** 47.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 39.3% (11/28 partidos)
+- **Estadística base YRFI:** 37.9% (11/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Jameson Taillon):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 27.7%
+- **Impacto del lanzador visitante (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 15.4% (4/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 10.2%
+- **Estadística base YRFI:** 18.5% (5/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-27 16:57:34
+- **Generado el:** 2026-05-28 17:31:17
 - **Fuente de datos:** season_data.json

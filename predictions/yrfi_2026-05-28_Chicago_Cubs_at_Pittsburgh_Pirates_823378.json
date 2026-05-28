@@ -1,0 +1,67 @@
+{
+  "game_pk": 823378,
+  "game_date": "2026-05-28",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Paul Skenes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 37.93103448275862,
+        "ratio": "11/29"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 19.11,
+    "pitcher": {
+      "name": "Colin Rea",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 18.51851851851852,
+        "ratio": "5/27"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.93103448275862,
+        "tendency": 40.0,
+        "combined": 38.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.13
+      },
+      "away_team": {
+        "base": 18.51851851851852,
+        "tendency": 20.0,
+        "combined": 19.11,
+        "pitcher_impact": 50.0,
+        "adjusted": 28.38
+      },
+      "game_yrfi_probability": 47.81
+    },
+    "yrfi_probability": 47.81
+  },
+  "metadata": {
+    "generated_at": "2026-05-28T17:31:17.968910",
+    "data_source": "season_data.json"
+  }
+}

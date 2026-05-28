@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ San Francisco Giants
+# Análisis YRFI: Minnesota Twins @ Chicago White Sox
 
-**Fecha:** 2026-05-27  
-**Lanzadores:** Michael Soroka (V) vs Trevor McDonald (L)
+**Fecha:** 2026-05-28  
+**Lanzadores:** Simeon Woods Richardson (V) vs Davis Martin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 74.6%
+**Probabilidad de que anoten en la primera entrada:** 37.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Francisco Giants (Local)
-- **Estadística base YRFI:** 25.9% (7/27 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 28.6% (8/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Michael Soroka):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 48.4%
+- **Impacto del lanzador visitante (Minnesota Twins - Simeon Woods Richardson):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.5%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 23.1% (6/26 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 25.9% (7/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Trevor McDonald):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 50.9%
+- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-27 16:57:34
+- **Generado el:** 2026-05-28 17:31:17
 - **Fuente de datos:** season_data.json

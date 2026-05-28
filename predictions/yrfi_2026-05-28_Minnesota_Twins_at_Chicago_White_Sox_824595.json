@@ -1,6 +1,6 @@
 {
-  "game_pk": 824596,
-  "game_date": "2026-05-27",
+  "game_pk": 824595,
+  "game_date": "2026-05-28",
   "home_team": {
     "id": "145",
     "name": "Chicago White Sox",
@@ -11,8 +11,8 @@
     },
     "stats": {
       "base": {
-        "value": 29.629629629629626,
-        "ratio": "8/27"
+        "value": 28.57142857142857,
+        "ratio": "8/28"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "142",
     "name": "Minnesota Twins",
-    "combined_yrfi_pct": 27.18,
+    "combined_yrfi_pct": 31.56,
     "pitcher": {
-      "name": "Connor Prielipp",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Simeon Woods Richardson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 23.076923076923077,
-        "ratio": "6/26"
+        "value": 25.925925925925924,
+        "ratio": "7/27"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 29.629629629629626,
+        "base": 28.57142857142857,
         "tendency": 26.666666666666668,
-        "combined": 28.44,
-        "pitcher_impact": 100.0,
-        "adjusted": 49.91
+        "combined": 27.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.47
       },
       "away_team": {
-        "base": 23.076923076923077,
-        "tendency": 33.33333333333333,
-        "combined": 27.18,
+        "base": 25.925925925925924,
+        "tendency": 40.0,
+        "combined": 31.56,
         "pitcher_impact": 0.0,
-        "adjusted": 19.03
+        "adjusted": 22.09
       },
-      "game_yrfi_probability": 59.44
+      "game_yrfi_probability": 37.26
     },
-    "yrfi_probability": 59.44
+    "yrfi_probability": 37.26
   },
   "metadata": {
-    "generated_at": "2026-05-27T16:57:34.464985",
+    "generated_at": "2026-05-28T17:31:17.953228",
     "data_source": "season_data.json"
   }
 }
