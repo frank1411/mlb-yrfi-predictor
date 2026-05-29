@@ -1,0 +1,67 @@
+{
+  "game_pk": 825002,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Luis Severino",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "5/25"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 28.0,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "10/30"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.0,
+        "tendency": 26.666666666666668,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 20.0,
+        "combined": 28.0,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 39.6
+      },
+      "game_yrfi_probability": 49.19
+    },
+    "yrfi_probability": 49.19
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.857142",
+    "data_source": "season_data.json"
+  }
+}

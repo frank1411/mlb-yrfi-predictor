@@ -1,0 +1,67 @@
+{
+  "game_pk": 824515,
+  "game_date": "2026-05-29",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Chris Paddack",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "6/26"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 35.33,
+    "pitcher": {
+      "name": "Grant Holmes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 36.666666666666664,
+        "ratio": "11/30"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.076923076923077,
+        "tendency": 13.333333333333334,
+        "combined": 19.18,
+        "pitcher_impact": 50.0,
+        "adjusted": 28.43
+      },
+      "away_team": {
+        "base": 36.666666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 35.33,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 44.73
+      },
+      "game_yrfi_probability": 60.44
+    },
+    "yrfi_probability": 60.44
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.819359",
+    "data_source": "season_data.json"
+  }
+}

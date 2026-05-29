@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Boston Red Sox
+# Análisis YRFI: Miami Marlins @ New York Mets
 
-**Fecha:** 2026-05-28  
-**Lanzadores:** Chris Sale (V) vs Payton Tolle (L)
+**Fecha:** 2026-05-29  
+**Lanzadores:** Max Meyer (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.6%
+**Probabilidad de que anoten en la primera entrada:** 42.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
-- **Estadística base YRFI:** 14.8% (4/27 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 29.6% (8/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 21.8%
+- **Impacto del lanzador visitante (Miami Marlins - Max Meyer):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.0%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 37.9% (11/29 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 33.3% (8/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Payton Tolle):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.3%
+- **Impacto del lanzador local (New York Mets - Freddy Peralta):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 29.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-28 17:31:17
+- **Generado el:** 2026-05-29 17:26:25
 - **Fuente de datos:** season_data.json

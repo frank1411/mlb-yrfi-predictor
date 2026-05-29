@@ -1,0 +1,67 @@
+{
+  "game_pk": 823135,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 44.827586206896555,
+        "ratio": "13/29"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 26.67,
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "6/27"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.827586206896555,
+        "tendency": 40.0,
+        "combined": 42.9,
+        "pitcher_impact": 50.0,
+        "adjusted": 45.03
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 33.33333333333333,
+        "combined": 26.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.67
+      },
+      "game_yrfi_probability": 63.54
+    },
+    "yrfi_probability": 63.54
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.860361",
+    "data_source": "season_data.json"
+  }
+}

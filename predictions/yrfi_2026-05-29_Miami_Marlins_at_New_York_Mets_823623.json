@@ -1,0 +1,67 @@
+{
+  "game_pk": 823623,
+  "game_date": "2026-05-29",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "8/27"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 33.33,
+    "pitcher": {
+      "name": "Max Meyer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "8/24"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.629629629629626,
+        "tendency": 20.0,
+        "combined": 25.78,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.04
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 33.33333333333333,
+        "combined": 33.33,
+        "pitcher_impact": 20.0,
+        "adjusted": 29.33
+      },
+      "game_yrfi_probability": 42.08
+    },
+    "yrfi_probability": 42.08
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.838340",
+    "data_source": "season_data.json"
+  }
+}

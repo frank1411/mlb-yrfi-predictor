@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Chicago White Sox
+# Análisis YRFI: Kansas City Royals @ Texas Rangers
 
-**Fecha:** 2026-05-28  
-**Lanzadores:** Simeon Woods Richardson (V) vs Davis Martin (L)
+**Fecha:** 2026-05-30  
+**Lanzadores:** Stephen Kolek (V) vs MacKenzie Gore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.3%
+**Probabilidad de que anoten en la primera entrada:** 32.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 28.6% (8/28 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 16.0% (4/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Simeon Woods Richardson):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.5%
+- **Impacto del lanzador visitante (Kansas City Royals - Stephen Kolek):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.2%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 25.9% (7/27 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 25.0% (6/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-28 17:31:17
+- **Generado el:** 2026-05-29 17:26:25
 - **Fuente de datos:** season_data.json

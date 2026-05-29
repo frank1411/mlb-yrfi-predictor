@@ -1,0 +1,67 @@
+{
+  "game_pk": 822978,
+  "game_date": "2026-05-29",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "9/24"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 23.08,
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 20.689655172413794,
+        "ratio": "6/29"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.5,
+        "tendency": 53.333333333333336,
+        "combined": 43.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.68
+      },
+      "away_team": {
+        "base": 20.689655172413794,
+        "tendency": 26.666666666666668,
+        "combined": 23.08,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.16
+      },
+      "game_yrfi_probability": 41.88
+    },
+    "yrfi_probability": 41.88
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.835123",
+    "data_source": "season_data.json"
+  }
+}

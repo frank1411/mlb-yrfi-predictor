@@ -1,0 +1,67 @@
+{
+  "game_pk": 823946,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Justin Wrobleski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "10/28"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 34.46,
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "8/26"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.714285714285715,
+        "tendency": 46.666666666666664,
+        "combined": 40.1,
+        "pitcher_impact": 50.0,
+        "adjusted": 43.07
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 40.0,
+        "combined": 34.46,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.12
+      },
+      "game_yrfi_probability": 56.8
+    },
+    "yrfi_probability": 56.8
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.863432",
+    "data_source": "season_data.json"
+  }
+}

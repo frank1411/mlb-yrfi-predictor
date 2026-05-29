@@ -1,0 +1,67 @@
+{
+  "game_pk": 824835,
+  "game_date": "2026-05-29",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 16.129032258064516,
+        "ratio": "5/31"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 21.33,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "6/27"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 16.129032258064516,
+        "tendency": 20.0,
+        "combined": 17.68,
+        "pitcher_impact": 50.0,
+        "adjusted": 27.37
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 20.0,
+        "combined": 21.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.93
+      },
+      "game_yrfi_probability": 38.21
+    },
+    "yrfi_probability": 38.21
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.828402",
+    "data_source": "season_data.json"
+  }
+}

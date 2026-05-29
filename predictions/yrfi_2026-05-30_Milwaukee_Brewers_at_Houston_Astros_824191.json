@@ -1,0 +1,67 @@
+{
+  "game_pk": 824191,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Kai-Wei Teng",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 46.15384615384615,
+        "ratio": "12/26"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 34.26,
+    "pitcher": {
+      "name": "Coleman Crow",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "7/23"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 46.15384615384615,
+        "tendency": 33.33333333333333,
+        "combined": 41.03,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.72
+      },
+      "away_team": {
+        "base": 30.434782608695656,
+        "tendency": 40.0,
+        "combined": 34.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.98
+      },
+      "game_yrfi_probability": 45.81
+    },
+    "yrfi_probability": 45.81
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.850652",
+    "data_source": "season_data.json"
+  }
+}

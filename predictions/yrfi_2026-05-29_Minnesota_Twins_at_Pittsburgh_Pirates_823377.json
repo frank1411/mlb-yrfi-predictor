@@ -1,0 +1,67 @@
+{
+  "game_pk": 823377,
+  "game_date": "2026-05-29",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Jared Jones",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.666666666666664,
+        "ratio": "11/30"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 31.0,
+    "pitcher": {
+      "name": "Taj Bradley",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "7/28"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.666666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 35.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.73
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.7
+      },
+      "game_yrfi_probability": 52.81
+    },
+    "yrfi_probability": 52.81
+  },
+  "metadata": {
+    "generated_at": "2026-05-29T17:26:25.826011",
+    "data_source": "season_data.json"
+  }
+}
