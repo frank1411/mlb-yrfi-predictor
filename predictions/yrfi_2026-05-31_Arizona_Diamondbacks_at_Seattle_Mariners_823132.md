@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Seattle Mariners
 
-**Fecha:** 2026-05-30  
-**Lanzadores:** Zac Gallen (V) vs George Kirby (L)
+**Fecha:** 2026-05-31  
+**Lanzadores:** Ryne Nelson (V) vs Bryan Woo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.5%
+**Probabilidad de que anoten en la primera entrada:** 51.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 44.8% (13/29 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Zac Gallen):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 45.0%
+- **Estadística base YRFI:** 46.7% (14/30 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Ryne Nelson):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 32.7%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 22.2% (6/27 partidos)
+- **Estadística base YRFI:** 21.4% (6/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 33.7%
+- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-29 17:26:25
+- **Generado el:** 2026-05-30 14:58:25
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824431,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "8/29"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 18.71,
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 17.857142857142858,
+        "ratio": "5/28"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.586206896551722,
+        "tendency": 20.0,
+        "combined": 24.55,
+        "pitcher_impact": 100.0,
+        "adjusted": 47.19
+      },
+      "away_team": {
+        "base": 17.857142857142858,
+        "tendency": 20.0,
+        "combined": 18.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.1
+      },
+      "game_yrfi_probability": 54.11
+    },
+    "yrfi_probability": 54.11
+  },
+  "metadata": {
+    "generated_at": "2026-05-30T14:58:25.216978",
+    "data_source": "season_data.json"
+  }
+}

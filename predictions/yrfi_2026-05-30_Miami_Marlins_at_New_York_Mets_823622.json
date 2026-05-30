@@ -1,0 +1,67 @@
+{
+  "game_pk": 823622,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Christian Scott",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.142857142857146,
+        "ratio": "9/28"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 29.87,
+    "pitcher": {
+      "name": "Tyler Phillips",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "8/25"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.142857142857146,
+        "tendency": 26.666666666666668,
+        "combined": 29.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.97
+      },
+      "away_team": {
+        "base": 32.0,
+        "tendency": 26.666666666666668,
+        "combined": 29.87,
+        "pitcher_impact": 100.0,
+        "adjusted": 50.91
+      },
+      "game_yrfi_probability": 61.2
+    },
+    "yrfi_probability": 61.2
+  },
+  "metadata": {
+    "generated_at": "2026-05-30T14:58:25.228328",
+    "data_source": "season_data.json"
+  }
+}

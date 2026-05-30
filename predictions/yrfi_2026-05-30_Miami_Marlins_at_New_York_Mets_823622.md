@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Colorado Rockies
+# Análisis YRFI: Miami Marlins @ New York Mets
 
 **Fecha:** 2026-05-30  
-**Lanzadores:** Logan Webb (V) vs Michael Lorenzen (L)
+**Lanzadores:** Tyler Phillips (V) vs Christian Scott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.1%
+**Probabilidad de que anoten en la primera entrada:** 61.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 44.0% (11/25 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 32.1% (9/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 33.5%
+- **Impacto del lanzador visitante (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.0%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 17.9% (5/28 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 32.0% (8/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Michael Lorenzen):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.0%
+- **Impacto del lanzador local (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 50.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-29 17:26:25
+- **Generado el:** 2026-05-30 14:58:25
 - **Fuente de datos:** season_data.json

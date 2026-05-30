@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Texas Rangers
 
 **Fecha:** 2026-05-30  
-**Lanzadores:** Stephen Kolek (V) vs MacKenzie Gore (L)
+**Lanzadores:** Seth Lugo (V) vs Kumar Rocker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.8%
+**Probabilidad de que anoten en la primera entrada:** 62.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 16.0% (4/25 partidos)
+- **Estadística base YRFI:** 19.2% (5/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Stephen Kolek):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.2%
+- **Impacto del lanzador visitante (Kansas City Royals - Seth Lugo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 25.5%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 25.0% (6/24 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Estadística base YRFI:** 24.0% (6/25 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 49.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-29 17:26:25
+- **Generado el:** 2026-05-30 14:58:25
 - **Fuente de datos:** season_data.json

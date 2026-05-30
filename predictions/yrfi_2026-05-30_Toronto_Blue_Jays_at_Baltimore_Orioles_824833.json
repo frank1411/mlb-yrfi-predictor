@@ -1,0 +1,67 @@
+{
+  "game_pk": 824833,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Brandon Young",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 15.625,
+        "ratio": "5/32"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 20.86,
+    "pitcher": {
+      "name": "Trey Yesavage",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "6/28"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 15.625,
+        "tendency": 20.0,
+        "combined": 17.38,
+        "pitcher_impact": 100.0,
+        "adjusted": 42.16
+      },
+      "away_team": {
+        "base": 21.428571428571427,
+        "tendency": 20.0,
+        "combined": 20.86,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.6
+      },
+      "game_yrfi_probability": 59.28
+    },
+    "yrfi_probability": 59.28
+  },
+  "metadata": {
+    "generated_at": "2026-05-30T14:58:25.205369",
+    "data_source": "season_data.json"
+  }
+}

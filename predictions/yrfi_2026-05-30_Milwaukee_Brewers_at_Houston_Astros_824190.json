@@ -1,18 +1,18 @@
 {
-  "game_pk": 824191,
+  "game_pk": 824190,
   "game_date": "2026-05-30",
   "home_team": {
     "id": "117",
     "name": "Houston Astros",
     "pitcher": {
-      "name": "Kai-Wei Teng",
-      "yrfi_allowed": 0.0,
+      "name": "Peter Lambert",
+      "yrfi_allowed": 100.0,
       "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 46.15384615384615,
-        "ratio": "12/26"
+        "value": 44.44444444444444,
+        "ratio": "12/27"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
-    "combined_yrfi_pct": 34.26,
+    "combined_yrfi_pct": 33.5,
     "pitcher": {
-      "name": "Coleman Crow",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "Brandon Sproat",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 30.434782608695656,
-        "ratio": "7/23"
+        "value": 29.166666666666668,
+        "ratio": "7/24"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 46.15384615384615,
+        "base": 44.44444444444444,
         "tendency": 33.33333333333333,
-        "combined": 41.03,
-        "pitcher_impact": 0.0,
-        "adjusted": 28.72
+        "combined": 40.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 58.0
       },
       "away_team": {
-        "base": 30.434782608695656,
+        "base": 29.166666666666668,
         "tendency": 40.0,
-        "combined": 34.26,
-        "pitcher_impact": 0.0,
-        "adjusted": 23.98
+        "combined": 33.5,
+        "pitcher_impact": 100.0,
+        "adjusted": 53.45
       },
-      "game_yrfi_probability": 45.81
+      "game_yrfi_probability": 80.45
     },
-    "yrfi_probability": 45.81
+    "yrfi_probability": 80.45
   },
   "metadata": {
-    "generated_at": "2026-05-29T17:26:25.850652",
+    "generated_at": "2026-05-30T14:58:25.233991",
     "data_source": "season_data.json"
   }
 }

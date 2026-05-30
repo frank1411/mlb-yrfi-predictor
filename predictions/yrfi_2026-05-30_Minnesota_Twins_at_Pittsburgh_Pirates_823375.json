@@ -1,0 +1,67 @@
+{
+  "game_pk": 823375,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 38.70967741935484,
+        "ratio": "12/31"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 32.55,
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "8/29"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.70967741935484,
+        "tendency": 40.0,
+        "combined": 39.23,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.46
+      },
+      "away_team": {
+        "base": 27.586206896551722,
+        "tendency": 40.0,
+        "combined": 32.55,
+        "pitcher_impact": 20.0,
+        "adjusted": 28.79
+      },
+      "game_yrfi_probability": 48.34
+    },
+    "yrfi_probability": 48.34
+  },
+  "metadata": {
+    "generated_at": "2026-05-30T14:58:25.211219",
+    "data_source": "season_data.json"
+  }
+}

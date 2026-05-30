@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Cleveland Guardians
 
-**Fecha:** 2026-05-29  
-**Lanzadores:** Tyler Samaniego (V) vs Slade Cecconi (L)
+**Fecha:** 2026-05-30  
+**Lanzadores:** Sonny Gray (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.6%
+**Probabilidad de que anoten en la primera entrada:** 54.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 25.0% (7/28 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Tyler Samaniego):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.2%
+- **Estadística base YRFI:** 27.6% (8/29 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 47.2%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 18.5% (5/27 partidos)
+- **Estadística base YRFI:** 17.9% (5/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 13.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-29 17:26:25
+- **Generado el:** 2026-05-30 14:58:25
 - **Fuente de datos:** season_data.json

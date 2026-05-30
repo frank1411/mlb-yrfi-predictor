@@ -1,0 +1,67 @@
+{
+  "game_pk": 822975,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "10/25"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 22.67,
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "6/30"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 53.333333333333336,
+        "combined": 45.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 31.73
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 26.666666666666668,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "game_yrfi_probability": 42.56
+    },
+    "yrfi_probability": 42.56
+  },
+  "metadata": {
+    "generated_at": "2026-05-30T14:58:25.222655",
+    "data_source": "season_data.json"
+  }
+}

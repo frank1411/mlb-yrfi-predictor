@@ -1,0 +1,67 @@
+{
+  "game_pk": 823945,
+  "game_date": "2026-05-31",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 37.93103448275862,
+        "ratio": "11/29"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 31.11,
+    "pitcher": {
+      "name": "Jesús Luzardo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "8/27"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.93103448275862,
+        "tendency": 46.666666666666664,
+        "combined": 41.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.0
+      },
+      "away_team": {
+        "base": 29.629629629629626,
+        "tendency": 33.33333333333333,
+        "combined": 31.11,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.78
+      },
+      "game_yrfi_probability": 44.46
+    },
+    "yrfi_probability": 44.46
+  },
+  "metadata": {
+    "generated_at": "2026-05-30T14:58:25.262231",
+    "data_source": "season_data.json"
+  }
+}

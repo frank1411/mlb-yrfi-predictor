@@ -1,0 +1,67 @@
+{
+  "game_pk": 822893,
+  "game_date": "2026-05-30",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Kumar Rocker",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 19.230769230769234,
+        "ratio": "5/26"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 27.73,
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "6/25"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.230769230769234,
+        "tendency": 26.666666666666668,
+        "combined": 22.21,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 25.54
+      },
+      "away_team": {
+        "base": 24.0,
+        "tendency": 33.33333333333333,
+        "combined": 27.73,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.41
+      },
+      "game_yrfi_probability": 62.33
+    },
+    "yrfi_probability": 62.33
+  },
+  "metadata": {
+    "generated_at": "2026-05-30T14:58:25.199497",
+    "data_source": "season_data.json"
+  }
+}

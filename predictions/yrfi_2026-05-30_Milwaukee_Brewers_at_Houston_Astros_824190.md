@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Houston Astros
 
 **Fecha:** 2026-05-30  
-**Lanzadores:** Coleman Crow (V) vs Kai-Wei Teng (L)
+**Lanzadores:** Brandon Sproat (V) vs Peter Lambert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.8%
+**Probabilidad de que anoten en la primera entrada:** 80.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 46.2% (12/26 partidos)
+- **Estadística base YRFI:** 44.4% (12/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Coleman Crow):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 28.7%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Brandon Sproat):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 58.0%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 30.4% (7/23 partidos)
+- **Estadística base YRFI:** 29.2% (7/24 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Kai-Wei Teng):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 53.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-29 17:26:25
+- **Generado el:** 2026-05-30 14:58:25
 - **Fuente de datos:** season_data.json

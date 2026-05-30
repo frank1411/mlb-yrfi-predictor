@@ -1,0 +1,67 @@
+{
+  "game_pk": 824352,
+  "game_date": "2026-05-31",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Ryan Feltner",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 42.30769230769231,
+        "ratio": "11/26"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 21.01,
+    "pitcher": {
+      "name": "Adrian Houser",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "4/4"
+    },
+    "stats": {
+      "base": {
+        "value": 17.24137931034483,
+        "ratio": "5/29"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.30769230769231,
+        "tendency": 26.666666666666668,
+        "combined": 36.05,
+        "pitcher_impact": 100.0,
+        "adjusted": 55.24
+      },
+      "away_team": {
+        "base": 17.24137931034483,
+        "tendency": 26.666666666666668,
+        "combined": 21.01,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 34.71
+      },
+      "game_yrfi_probability": 70.78
+    },
+    "yrfi_probability": 70.78
+  },
+  "metadata": {
+    "generated_at": "2026-05-30T14:58:25.251146",
+    "data_source": "season_data.json"
+  }
+}
