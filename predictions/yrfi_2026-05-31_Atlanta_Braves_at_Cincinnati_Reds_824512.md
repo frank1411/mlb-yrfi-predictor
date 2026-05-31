@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Cincinnati Reds
 
-**Fecha:** 2026-05-30  
-**Lanzadores:** Martín Pérez (V) vs Brady Singer (L)
+**Fecha:** 2026-05-31  
+**Lanzadores:** Spencer Strider (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.0%
+**Probabilidad de que anoten en la primera entrada:** 58.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 22.2% (6/27 partidos)
+- **Estadística base YRFI:** 21.4% (6/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 42.7%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 38.7% (12/31 partidos)
+- **Estadística base YRFI:** 37.5% (12/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 37.5%
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-30 14:58:25
+- **Generado el:** 2026-05-31 15:11:04
 - **Fuente de datos:** season_data.json

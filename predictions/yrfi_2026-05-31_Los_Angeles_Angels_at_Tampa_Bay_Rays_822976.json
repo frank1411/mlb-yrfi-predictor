@@ -1,0 +1,67 @@
+{
+  "game_pk": 822976,
+  "game_date": "2026-05-31",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Shane McClanahan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 42.30769230769231,
+        "ratio": "11/26"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 26.88,
+    "pitcher": {
+      "name": "Jack Kochanowicz",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.58064516129032,
+        "ratio": "7/31"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.30769230769231,
+        "tendency": 53.333333333333336,
+        "combined": 46.72,
+        "pitcher_impact": 25.0,
+        "adjusted": 40.2
+      },
+      "away_team": {
+        "base": 22.58064516129032,
+        "tendency": 33.33333333333333,
+        "combined": 26.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.82
+      },
+      "game_yrfi_probability": 51.45
+    },
+    "yrfi_probability": 51.45
+  },
+  "metadata": {
+    "generated_at": "2026-05-31T15:11:04.348056",
+    "data_source": "season_data.json"
+  }
+}

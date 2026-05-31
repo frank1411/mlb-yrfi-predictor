@@ -1,0 +1,67 @@
+{
+  "game_pk": 823053,
+  "game_date": "2026-05-31",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "8/28"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 22.67,
+    "pitcher": {
+      "name": "Jordan Wicks",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "6/30"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.57142857142857,
+        "tendency": 13.333333333333334,
+        "combined": 22.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.73
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 26.666666666666668,
+        "combined": 22.67,
+        "pitcher_impact": 40.0,
+        "adjusted": 27.87
+      },
+      "game_yrfi_probability": 39.22
+    },
+    "yrfi_probability": 39.22
+  },
+  "metadata": {
+    "generated_at": "2026-05-31T15:11:04.373167",
+    "data_source": "season_data.json"
+  }
+}

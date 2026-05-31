@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Washington Nationals
 
-**Fecha:** 2026-05-30  
-**Lanzadores:** Michael King (V) vs Foster Griffin (L)
+**Fecha:** 2026-05-31  
+**Lanzadores:** Griffin Canning (V) vs Zack Littell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.1%
+**Probabilidad de que anoten en la primera entrada:** 42.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 40.7% (11/27 partidos)
+- **Estadística base YRFI:** 39.3% (11/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Impacto del lanzador visitante (San Diego Padres - Griffin Canning):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 16.7% (4/24 partidos)
+- **Estadística base YRFI:** 16.0% (4/25 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Foster Griffin):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.3%
+- **Impacto del lanzador local (Washington Nationals - Zack Littell):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-30 14:58:25
+- **Generado el:** 2026-05-31 15:11:04
 - **Fuente de datos:** season_data.json

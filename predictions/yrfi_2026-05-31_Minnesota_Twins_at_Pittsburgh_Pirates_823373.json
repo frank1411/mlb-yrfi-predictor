@@ -1,18 +1,18 @@
 {
-  "game_pk": 823375,
-  "game_date": "2026-05-30",
+  "game_pk": 823373,
+  "game_date": "2026-05-31",
   "home_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Mitch Keller",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 38.70967741935484,
-        "ratio": "12/31"
+        "value": 40.625,
+        "ratio": "13/32"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "142",
     "name": "Minnesota Twins",
-    "combined_yrfi_pct": 32.55,
+    "combined_yrfi_pct": 32.0,
     "pitcher": {
-      "name": "Bailey Ober",
+      "name": "Zebby Matthews",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 27.586206896551722,
-        "ratio": "8/29"
+        "value": 26.666666666666668,
+        "ratio": "8/30"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 38.70967741935484,
+        "base": 40.625,
         "tendency": 40.0,
-        "combined": 39.23,
+        "combined": 40.38,
         "pitcher_impact": 0.0,
-        "adjusted": 27.46
+        "adjusted": 28.26
       },
       "away_team": {
-        "base": 27.586206896551722,
+        "base": 26.666666666666668,
         "tendency": 40.0,
-        "combined": 32.55,
-        "pitcher_impact": 20.0,
-        "adjusted": 28.79
+        "combined": 32.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.4
       },
-      "game_yrfi_probability": 48.34
+      "game_yrfi_probability": 44.33
     },
-    "yrfi_probability": 48.34
+    "yrfi_probability": 44.33
   },
   "metadata": {
-    "generated_at": "2026-05-30T14:58:25.211219",
+    "generated_at": "2026-05-31T15:11:04.342969",
     "data_source": "season_data.json"
   }
 }

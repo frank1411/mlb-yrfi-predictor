@@ -1,0 +1,67 @@
+{
+  "game_pk": 824354,
+  "game_date": "2026-05-31",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Tanner Gordon",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "12/27"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 20.67,
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 16.666666666666664,
+        "ratio": "5/30"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.44444444444444,
+        "tendency": 33.33333333333333,
+        "combined": 40.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.0
+      },
+      "away_team": {
+        "base": 16.666666666666664,
+        "tendency": 26.666666666666668,
+        "combined": 20.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.47
+      },
+      "game_yrfi_probability": 38.42
+    },
+    "yrfi_probability": 38.42
+  },
+  "metadata": {
+    "generated_at": "2026-05-31T15:11:04.363032",
+    "data_source": "season_data.json"
+  }
+}

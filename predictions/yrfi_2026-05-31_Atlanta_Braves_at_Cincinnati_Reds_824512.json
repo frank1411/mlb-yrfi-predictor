@@ -1,0 +1,67 @@
+{
+  "game_pk": 824512,
+  "game_date": "2026-05-31",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "6/28"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 38.5,
+    "pitcher": {
+      "name": "Spencer Strider",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "12/32"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.428571428571427,
+        "tendency": 13.333333333333334,
+        "combined": 18.19,
+        "pitcher_impact": 100.0,
+        "adjusted": 42.73
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 40.0,
+        "combined": 38.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.95
+      },
+      "game_yrfi_probability": 58.16
+    },
+    "yrfi_probability": 58.16
+  },
+  "metadata": {
+    "generated_at": "2026-05-31T15:11:04.350519",
+    "data_source": "season_data.json"
+  }
+}

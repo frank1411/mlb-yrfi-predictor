@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Baltimore Orioles
 
-**Fecha:** 2026-05-30  
-**Lanzadores:** Trey Yesavage (V) vs Brandon Young (L)
+**Fecha:** 2026-05-31  
+**Lanzadores:** Spencer Miles (V) vs Kyle Bradish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.3%
+**Probabilidad de que anoten en la primera entrada:** 24.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 15.6% (5/32 partidos)
+- **Estadística base YRFI:** 15.2% (5/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 42.2%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Spencer Miles):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 12.0%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 21.4% (6/28 partidos)
+- **Estadística base YRFI:** 20.7% (6/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-30 14:58:25
+- **Generado el:** 2026-05-31 15:11:04
 - **Fuente de datos:** season_data.json

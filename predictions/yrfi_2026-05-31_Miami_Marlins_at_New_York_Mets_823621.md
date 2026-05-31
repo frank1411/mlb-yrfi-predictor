@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ New York Mets
 
-**Fecha:** 2026-05-30  
-**Lanzadores:** Tyler Phillips (V) vs Christian Scott (L)
+**Fecha:** 2026-05-31  
+**Lanzadores:** John King (V) vs Nolan McLean (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.2%
+**Probabilidad de que anoten en la primera entrada:** 42.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 32.1% (9/28 partidos)
+- **Estadística base YRFI:** 31.0% (9/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.0%
+- **Impacto del lanzador visitante (Miami Marlins - John King):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 32.0% (8/25 partidos)
+- **Estadística base YRFI:** 30.8% (8/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 50.9%
+- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 27.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-30 14:58:25
+- **Generado el:** 2026-05-31 15:11:04
 - **Fuente de datos:** season_data.json

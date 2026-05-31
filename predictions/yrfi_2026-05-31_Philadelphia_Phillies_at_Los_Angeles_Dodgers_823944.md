@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Los Angeles Dodgers
 
 **Fecha:** 2026-05-31  
-**Lanzadores:** Jesús Luzardo (V) vs Roki Sasaki (L)
+**Lanzadores:** Andrew Painter (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.5%
+**Probabilidad de que anoten en la primera entrada:** 49.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 37.9% (11/29 partidos)
+- **Estadística base YRFI:** 36.7% (11/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 29.0%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Andrew Painter):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 28.5%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 29.6% (8/27 partidos)
+- **Estadística base YRFI:** 28.6% (8/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.8%
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-30 14:58:25
+- **Generado el:** 2026-05-31 15:11:04
 - **Fuente de datos:** season_data.json

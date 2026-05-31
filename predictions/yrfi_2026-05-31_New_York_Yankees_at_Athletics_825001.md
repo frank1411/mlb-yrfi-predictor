@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Athletics
 
 **Fecha:** 2026-05-31  
-**Lanzadores:** Ryan Weathers (V) vs J.T. Ginn (L)
+**Lanzadores:** Will Warren (V) vs Jacob Lopez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.3%
+**Probabilidad de que anoten en la primera entrada:** 36.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 23.1% (6/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Ryan Weathers):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Estadística base YRFI:** 25.9% (7/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.2%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 35.5% (11/31 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - J.T. Ginn):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.4%
+- **Estadística base YRFI:** 34.4% (11/32 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Athletics - Jacob Lopez):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-30 14:58:25
+- **Generado el:** 2026-05-31 15:11:04
 - **Fuente de datos:** season_data.json

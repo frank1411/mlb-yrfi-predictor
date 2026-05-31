@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Colorado Rockies
 
 **Fecha:** 2026-05-31  
-**Lanzadores:** Adrian Houser (V) vs Ryan Feltner (L)
+**Lanzadores:** Robbie Ray (V) vs Tanner Gordon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 70.8%
+**Probabilidad de que anoten en la primera entrada:** 38.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 42.3% (11/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Adrian Houser):** 100.0% (4/4 partidos)
-- **Puntuación ajustada:** 55.2%
+- **Estadística base YRFI:** 44.4% (12/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 28.0%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 17.2% (5/29 partidos)
+- **Estadística base YRFI:** 16.7% (5/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 34.7%
+- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-30 14:58:25
+- **Generado el:** 2026-05-31 15:11:04
 - **Fuente de datos:** season_data.json
