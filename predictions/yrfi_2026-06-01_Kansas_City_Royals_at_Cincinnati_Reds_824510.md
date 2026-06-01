@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ St. Louis Cardinals
+# Análisis YRFI: Kansas City Royals @ Cincinnati Reds
 
-**Fecha:** 2026-05-31  
-**Lanzadores:** Jordan Wicks (V) vs Matthew Liberatore (L)
+**Fecha:** 2026-06-01  
+**Lanzadores:** Luinder Avila (V) vs Lyon Richardson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.2%
+**Probabilidad de que anoten en la primera entrada:** 28.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 28.6% (8/28 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 24.1% (7/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Jordan Wicks):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.7%
+- **Impacto del lanzador visitante (Kansas City Royals - Luinder Avila):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 13.9%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 20.0% (6/30 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 22.2% (6/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 27.9%
+- **Impacto del lanzador local (Cincinnati Reds - Lyon Richardson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-31 15:11:04
+- **Generado el:** 2026-06-01 19:16:03
 - **Fuente de datos:** season_data.json

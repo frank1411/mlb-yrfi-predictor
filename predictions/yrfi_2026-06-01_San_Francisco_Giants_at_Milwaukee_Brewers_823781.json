@@ -1,0 +1,67 @@
+{
+  "game_pk": 823781,
+  "game_date": "2026-06-01",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Shane Drohan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "9/30"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 24.95,
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 19.35483870967742,
+        "ratio": "6/31"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.0,
+        "tendency": 40.0,
+        "combined": 34.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.8
+      },
+      "away_team": {
+        "base": 19.35483870967742,
+        "tendency": 33.33333333333333,
+        "combined": 24.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.46
+      },
+      "game_yrfi_probability": 37.1
+    },
+    "yrfi_probability": 37.1
+  },
+  "metadata": {
+    "generated_at": "2026-06-01T19:16:03.808790",
+    "data_source": "season_data.json"
+  }
+}

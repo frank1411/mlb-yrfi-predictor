@@ -1,0 +1,67 @@
+{
+  "game_pk": 823702,
+  "game_date": "2026-06-01",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.48275862068966,
+        "ratio": "10/29"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 32.62,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.142857142857146,
+        "ratio": "9/28"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.48275862068966,
+        "tendency": 40.0,
+        "combined": 36.69,
+        "pitcher_impact": 50.0,
+        "adjusted": 40.68
+      },
+      "away_team": {
+        "base": 32.142857142857146,
+        "tendency": 33.33333333333333,
+        "combined": 32.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.83
+      },
+      "game_yrfi_probability": 54.22
+    },
+    "yrfi_probability": 54.22
+  },
+  "metadata": {
+    "generated_at": "2026-06-01T19:16:03.805070",
+    "data_source": "season_data.json"
+  }
+}

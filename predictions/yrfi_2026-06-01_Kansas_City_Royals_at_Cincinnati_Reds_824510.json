@@ -1,0 +1,67 @@
+{
+  "game_pk": 824510,
+  "game_date": "2026-06-01",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Lyon Richardson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.137931034482758,
+        "ratio": "7/29"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 24.0,
+    "pitcher": {
+      "name": "Luinder Avila",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "6/27"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.137931034482758,
+        "tendency": 13.333333333333334,
+        "combined": 19.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.87
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 26.666666666666668,
+        "combined": 24.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.8
+      },
+      "game_yrfi_probability": 28.34
+    },
+    "yrfi_probability": 28.34
+  },
+  "metadata": {
+    "generated_at": "2026-06-01T19:16:03.801392",
+    "data_source": "season_data.json"
+  }
+}

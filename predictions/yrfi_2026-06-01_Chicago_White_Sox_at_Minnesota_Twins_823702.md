@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ Seattle Mariners
+# Análisis YRFI: Chicago White Sox @ Minnesota Twins
 
-**Fecha:** 2026-05-31  
-**Lanzadores:** Merrill Kelly (V) vs Bryce Miller (L)
+**Fecha:** 2026-06-01  
+**Lanzadores:** Por anunciar (V) vs Joe Ryan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.8%
+**Probabilidad de que anoten en la primera entrada:** 54.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 45.2% (14/31 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 34.5% (10/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 30.2%
+- **Impacto del lanzador visitante (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 40.7%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 20.7% (6/29 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 32.1% (9/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-05-31 15:11:04
+- **Generado el:** 2026-06-01 19:16:03
 - **Fuente de datos:** season_data.json

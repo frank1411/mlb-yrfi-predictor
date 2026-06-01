@@ -1,0 +1,67 @@
+{
+  "game_pk": 822974,
+  "game_date": "2026-06-01",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 44.44444444444444,
+        "ratio": "12/27"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 32.08,
+    "pitcher": {
+      "name": "Ty Madden",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "10/32"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.44444444444444,
+        "tendency": 53.333333333333336,
+        "combined": 48.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 33.6
+      },
+      "away_team": {
+        "base": 31.25,
+        "tendency": 33.33333333333333,
+        "combined": 32.08,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.46
+      },
+      "game_yrfi_probability": 48.51
+    },
+    "yrfi_probability": 48.51
+  },
+  "metadata": {
+    "generated_at": "2026-06-01T19:16:03.789831",
+    "data_source": "season_data.json"
+  }
+}

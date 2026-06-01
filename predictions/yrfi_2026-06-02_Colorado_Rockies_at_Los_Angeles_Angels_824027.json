@@ -1,0 +1,67 @@
+{
+  "game_pk": 824027,
+  "game_date": "2026-06-02",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 46.42857142857143,
+        "ratio": "13/28"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 21.92,
+    "pitcher": {
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 18.75,
+        "ratio": "6/32"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 46.42857142857143,
+        "tendency": 33.33333333333333,
+        "combined": 41.19,
+        "pitcher_impact": 50.0,
+        "adjusted": 43.83
+      },
+      "away_team": {
+        "base": 18.75,
+        "tendency": 26.666666666666668,
+        "combined": 21.92,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.34
+      },
+      "game_yrfi_probability": 60.87
+    },
+    "yrfi_probability": 60.87
+  },
+  "metadata": {
+    "generated_at": "2026-06-01T19:16:03.815528",
+    "data_source": "season_data.json"
+  }
+}
