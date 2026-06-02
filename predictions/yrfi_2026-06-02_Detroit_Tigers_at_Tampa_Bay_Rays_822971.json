@@ -1,0 +1,67 @@
+{
+  "game_pk": 822971,
+  "game_date": "2026-06-02",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Steven Matz",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "12/28"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 36.0,
+    "pitcher": {
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "11/33"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 53.333333333333336,
+        "combined": 47.05,
+        "pitcher_impact": 25.0,
+        "adjusted": 40.43
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 55.2
+      },
+      "game_yrfi_probability": 73.31
+    },
+    "yrfi_probability": 73.31
+  },
+  "metadata": {
+    "generated_at": "2026-06-02T17:59:40.560783",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824511,
+  "game_date": "2026-06-02",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "8/30"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 28.33,
+    "pitcher": {
+      "name": "Noah Cameron",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "7/28"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.666666666666668,
+        "tendency": 20.0,
+        "combined": 24.0,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 26.8
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 60.0,
+        "adjusted": 37.83
+      },
+      "game_yrfi_probability": 54.49
+    },
+    "yrfi_probability": 54.49
+  },
+  "metadata": {
+    "generated_at": "2026-06-02T17:59:40.585432",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ St. Louis Cardinals
 
-**Fecha:** 2026-06-01  
-**Lanzadores:** Jacob deGrom (V) vs Michael McGreevy (L)
+**Fecha:** 2026-06-02  
+**Lanzadores:** Nathan Eovaldi (V) vs Dustin May (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.6%
+**Probabilidad de que anoten en la primera entrada:** 54.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 31.0% (9/29 partidos)
+- **Estadística base YRFI:** 30.0% (9/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.2%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 32.3% (10/31 partidos)
+- **Estadística base YRFI:** 31.2% (10/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Impacto del lanzador local (St. Louis Cardinals - Dustin May):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 31.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-01 19:16:03
+- **Generado el:** 2026-06-02 17:59:40
 - **Fuente de datos:** season_data.json

@@ -1,32 +1,32 @@
 {
-  "game_pk": 823702,
-  "game_date": "2026-06-01",
+  "game_pk": 822728,
+  "game_date": "2026-06-02",
   "home_team": {
-    "id": "142",
-    "name": "Minnesota Twins",
+    "id": "120",
+    "name": "Washington Nationals",
     "pitcher": {
-      "name": "Joe Ryan",
+      "name": "Miles Mikolas",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 34.48275862068966,
-        "ratio": "10/29"
+        "value": 36.666666666666664,
+        "ratio": "11/30"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 20.0,
+        "ratio": "3/15"
       }
     }
   },
   "away_team": {
-    "id": "145",
-    "name": "Chicago White Sox",
+    "id": "146",
+    "name": "Miami Marlins",
     "combined_yrfi_pct": 32.62,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
+      "name": "Lake Bachar",
+      "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 34.48275862068966,
-        "tendency": 40.0,
-        "combined": 36.69,
-        "pitcher_impact": 50.0,
-        "adjusted": 40.68
+        "base": 36.666666666666664,
+        "tendency": 20.0,
+        "combined": 30.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.0
       },
       "away_team": {
         "base": 32.142857142857146,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 22.83
       },
-      "game_yrfi_probability": 54.22
+      "game_yrfi_probability": 39.04
     },
-    "yrfi_probability": 54.22
+    "yrfi_probability": 39.04
   },
   "metadata": {
-    "generated_at": "2026-06-01T19:16:03.805070",
+    "generated_at": "2026-06-02T17:59:40.578345",
     "data_source": "season_data.json"
   }
 }

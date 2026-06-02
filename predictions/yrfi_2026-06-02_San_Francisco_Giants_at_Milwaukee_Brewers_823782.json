@@ -1,0 +1,67 @@
+{
+  "game_pk": 823782,
+  "game_date": "2026-06-02",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Kyle Harrison",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.03225806451613,
+        "ratio": "9/31"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 24.58,
+    "pitcher": {
+      "name": "Trevor McDonald",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 18.75,
+        "ratio": "6/32"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.03225806451613,
+        "tendency": 33.33333333333333,
+        "combined": 30.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.53
+      },
+      "away_team": {
+        "base": 18.75,
+        "tendency": 33.33333333333333,
+        "combined": 24.58,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 27.21
+      },
+      "game_yrfi_probability": 42.88
+    },
+    "yrfi_probability": 42.88
+  },
+  "metadata": {
+    "generated_at": "2026-06-02T17:59:40.595436",
+    "data_source": "season_data.json"
+  }
+}

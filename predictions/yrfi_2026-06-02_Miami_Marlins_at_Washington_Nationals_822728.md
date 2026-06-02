@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Washington Nationals
 
-**Fecha:** 2026-06-01  
-**Lanzadores:** Sandy Alcantara (V) vs Cade Cavalli (L)
+**Fecha:** 2026-06-02  
+**Lanzadores:** Lake Bachar (V) vs Miles Mikolas (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 39.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 37.9% (11/29 partidos)
+- **Estadística base YRFI:** 36.7% (11/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Impacto del lanzador visitante (Miami Marlins - Lake Bachar):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 29.6% (8/27 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.9%
+- **Estadística base YRFI:** 32.1% (9/28 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-01 19:16:03
+- **Generado el:** 2026-06-02 17:59:40
 - **Fuente de datos:** season_data.json

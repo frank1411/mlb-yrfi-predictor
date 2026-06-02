@@ -1,18 +1,18 @@
 {
-  "game_pk": 823131,
-  "game_date": "2026-06-02",
+  "game_pk": 823129,
+  "game_date": "2026-06-03",
   "home_team": {
     "id": "136",
     "name": "Seattle Mariners",
     "pitcher": {
-      "name": "Emerson Hancock",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 83.33333333333334,
+      "yrfi_ratio": "5/6"
     },
     "stats": {
       "base": {
-        "value": 43.75,
-        "ratio": "14/32"
+        "value": 42.42424242424242,
+        "ratio": "14/33"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "121",
     "name": "New York Mets",
-    "combined_yrfi_pct": 27.82,
+    "combined_yrfi_pct": 27.33,
     "pitcher": {
-      "name": "Austin Warren",
-      "yrfi_allowed": 0.0,
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 24.137931034482758,
-        "ratio": "7/29"
+        "value": 23.333333333333332,
+        "ratio": "7/30"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 43.75,
+        "base": 42.42424242424242,
         "tendency": 33.33333333333333,
-        "combined": 39.58,
-        "pitcher_impact": 0.0,
-        "adjusted": 27.71
+        "combined": 38.79,
+        "pitcher_impact": 50.0,
+        "adjusted": 42.15
       },
       "away_team": {
-        "base": 24.137931034482758,
+        "base": 23.333333333333332,
         "tendency": 33.33333333333333,
-        "combined": 27.82,
-        "pitcher_impact": 0.0,
-        "adjusted": 19.47
+        "combined": 27.33,
+        "pitcher_impact": 83.33333333333334,
+        "adjusted": 44.13
       },
-      "game_yrfi_probability": 41.78
+      "game_yrfi_probability": 67.68
     },
-    "yrfi_probability": 41.78
+    "yrfi_probability": 67.68
   },
   "metadata": {
-    "generated_at": "2026-06-01T19:16:03.822150",
+    "generated_at": "2026-06-02T17:59:40.615168",
     "data_source": "season_data.json"
   }
 }

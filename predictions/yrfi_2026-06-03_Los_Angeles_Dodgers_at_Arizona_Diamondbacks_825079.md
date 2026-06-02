@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Arizona Diamondbacks
 
-**Fecha:** 2026-06-02  
-**Lanzadores:** Emmet Sheehan (V) vs Eduardo Rodriguez (L)
+**Fecha:** 2026-06-03  
+**Lanzadores:** Eric Lauer (V) vs Michael Soroka (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 72.7%
+**Probabilidad de que anoten en la primera entrada:** 56.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 39.3% (11/28 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Emmet Sheehan):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 55.8%
+- **Estadística base YRFI:** 37.9% (11/29 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Eric Lauer):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 43.4%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 28.6% (8/28 partidos)
+- **Estadística base YRFI:** 27.6% (8/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.2%
+- **Impacto del lanzador local (Arizona Diamondbacks - Michael Soroka):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-01 19:16:03
+- **Generado el:** 2026-06-02 17:59:40
 - **Fuente de datos:** season_data.json
