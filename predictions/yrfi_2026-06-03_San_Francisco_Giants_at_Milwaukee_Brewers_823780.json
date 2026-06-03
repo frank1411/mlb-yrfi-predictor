@@ -1,0 +1,67 @@
+{
+  "game_pk": 823780,
+  "game_date": "2026-06-03",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "10/32"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 24.24,
+    "pitcher": {
+      "name": "Logan Webb",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 18.181818181818183,
+        "ratio": "6/33"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 40.0,
+        "combined": 34.75,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.82
+      },
+      "away_team": {
+        "base": 18.181818181818183,
+        "tendency": 33.33333333333333,
+        "combined": 24.24,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.97
+      },
+      "game_yrfi_probability": 53.62
+    },
+    "yrfi_probability": 53.62
+  },
+  "metadata": {
+    "generated_at": "2026-06-03T18:16:24.341421",
+    "data_source": "season_data.json"
+  }
+}

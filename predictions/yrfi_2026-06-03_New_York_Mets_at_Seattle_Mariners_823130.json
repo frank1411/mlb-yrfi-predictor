@@ -1,18 +1,18 @@
 {
-  "game_pk": 823129,
+  "game_pk": 823130,
   "game_date": "2026-06-03",
   "home_team": {
     "id": "136",
     "name": "Seattle Mariners",
     "pitcher": {
-      "name": "Logan Gilbert",
-      "yrfi_allowed": 83.33333333333334,
-      "yrfi_ratio": "5/6"
+      "name": "George Kirby",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 42.42424242424242,
-        "ratio": "14/33"
+        "value": 41.17647058823529,
+        "ratio": "14/34"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "121",
     "name": "New York Mets",
-    "combined_yrfi_pct": 27.33,
+    "combined_yrfi_pct": 26.88,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 23.333333333333332,
-        "ratio": "7/30"
+        "value": 22.58064516129032,
+        "ratio": "7/31"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 42.42424242424242,
+        "base": 41.17647058823529,
         "tendency": 33.33333333333333,
-        "combined": 38.79,
-        "pitcher_impact": 50.0,
-        "adjusted": 42.15
+        "combined": 38.04,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.63
       },
       "away_team": {
-        "base": 23.333333333333332,
+        "base": 22.58064516129032,
         "tendency": 33.33333333333333,
-        "combined": 27.33,
-        "pitcher_impact": 83.33333333333334,
-        "adjusted": 44.13
+        "combined": 26.88,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.82
       },
-      "game_yrfi_probability": 67.68
+      "game_yrfi_probability": 51.44
     },
-    "yrfi_probability": 67.68
+    "yrfi_probability": 51.44
   },
   "metadata": {
-    "generated_at": "2026-06-02T17:59:40.615168",
+    "generated_at": "2026-06-03T18:16:24.315893",
     "data_source": "season_data.json"
   }
 }

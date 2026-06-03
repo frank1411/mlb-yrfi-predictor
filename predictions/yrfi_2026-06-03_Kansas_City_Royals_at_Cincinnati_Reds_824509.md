@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Washington Nationals
+# Análisis YRFI: Kansas City Royals @ Cincinnati Reds
 
-**Fecha:** 2026-06-02  
-**Lanzadores:** Lake Bachar (V) vs Miles Mikolas (L)
+**Fecha:** 2026-06-03  
+**Lanzadores:** Stephen Kolek (V) vs Chase Burns (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.0%
+**Probabilidad de que anoten en la primera entrada:** 32.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 36.7% (11/30 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 25.8% (8/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Lake Bachar):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.0%
+- **Impacto del lanzador visitante (Kansas City Royals - Stephen Kolek):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.4%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 32.1% (9/28 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 24.1% (7/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.8%
+- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-02 17:59:40
+- **Generado el:** 2026-06-03 18:16:24
 - **Fuente de datos:** season_data.json

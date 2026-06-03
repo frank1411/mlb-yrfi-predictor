@@ -1,18 +1,18 @@
 {
-  "game_pk": 822728,
-  "game_date": "2026-06-02",
+  "game_pk": 822727,
+  "game_date": "2026-06-03",
   "home_team": {
     "id": "120",
     "name": "Washington Nationals",
     "pitcher": {
-      "name": "Miles Mikolas",
+      "name": "Andrew Alvarez",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 36.666666666666664,
-        "ratio": "11/30"
+        "value": 35.483870967741936,
+        "ratio": "11/31"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "146",
     "name": "Miami Marlins",
-    "combined_yrfi_pct": 32.62,
+    "combined_yrfi_pct": 31.95,
     "pitcher": {
-      "name": "Lake Bachar",
+      "name": "Max Meyer",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 32.142857142857146,
-        "ratio": "9/28"
+        "value": 31.03448275862069,
+        "ratio": "9/29"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.666666666666664,
+        "base": 35.483870967741936,
         "tendency": 20.0,
-        "combined": 30.0,
+        "combined": 29.29,
         "pitcher_impact": 0.0,
-        "adjusted": 21.0
+        "adjusted": 20.5
       },
       "away_team": {
-        "base": 32.142857142857146,
+        "base": 31.03448275862069,
         "tendency": 33.33333333333333,
-        "combined": 32.62,
+        "combined": 31.95,
         "pitcher_impact": 0.0,
-        "adjusted": 22.83
+        "adjusted": 22.37
       },
-      "game_yrfi_probability": 39.04
+      "game_yrfi_probability": 38.28
     },
-    "yrfi_probability": 39.04
+    "yrfi_probability": 38.28
   },
   "metadata": {
-    "generated_at": "2026-06-02T17:59:40.578345",
+    "generated_at": "2026-06-03T18:16:24.298048",
     "data_source": "season_data.json"
   }
 }

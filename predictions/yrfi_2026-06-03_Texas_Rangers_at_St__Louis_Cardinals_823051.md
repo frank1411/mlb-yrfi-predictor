@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ St. Louis Cardinals
 
-**Fecha:** 2026-06-02  
-**Lanzadores:** Nathan Eovaldi (V) vs Dustin May (L)
+**Fecha:** 2026-06-03  
+**Lanzadores:** MacKenzie Gore (V) vs Andre Pallante (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.5%
+**Probabilidad de que anoten en la primera entrada:** 49.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 30.0% (9/30 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 33.2%
+- **Estadística base YRFI:** 29.0% (9/31 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - MacKenzie Gore):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.4%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 31.2% (10/32 partidos)
+- **Estadística base YRFI:** 30.3% (10/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Dustin May):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 31.8%
+- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-02 17:59:40
+- **Generado el:** 2026-06-03 18:16:24
 - **Fuente de datos:** season_data.json

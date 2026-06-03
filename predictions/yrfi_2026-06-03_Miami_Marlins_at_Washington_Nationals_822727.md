@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Cincinnati Reds
+# Análisis YRFI: Miami Marlins @ Washington Nationals
 
-**Fecha:** 2026-06-02  
-**Lanzadores:** Noah Cameron (V) vs Andrew Abbott (L)
+**Fecha:** 2026-06-03  
+**Lanzadores:** Max Meyer (V) vs Andrew Alvarez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.5%
+**Probabilidad de que anoten en la primera entrada:** 38.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 26.7% (8/30 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 35.5% (11/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Impacto del lanzador visitante (Miami Marlins - Max Meyer):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.5%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 25.0% (7/28 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 31.0% (9/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 60.0% (3/5 partidos)
-- **Puntuación ajustada:** 37.8%
+- **Impacto del lanzador local (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-02 17:59:40
+- **Generado el:** 2026-06-03 18:16:24
 - **Fuente de datos:** season_data.json

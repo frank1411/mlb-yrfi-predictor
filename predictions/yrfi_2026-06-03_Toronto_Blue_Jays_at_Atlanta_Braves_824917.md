@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Atlanta Braves
 
-**Fecha:** 2026-06-02  
-**Lanzadores:** Kevin Gausman (V) vs Bryce Elder (L)
+**Fecha:** 2026-06-03  
+**Lanzadores:** Patrick Corbin (V) vs Grant Holmes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.9%
+**Probabilidad de que anoten en la primera entrada:** 33.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 29.6% (8/27 partidos)
+- **Estadística base YRFI:** 32.1% (9/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Patrick Corbin):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.7%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 20.0% (6/30 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 20.0%
+- **Estadística base YRFI:** 19.4% (6/31 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 11.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-02 17:59:40
+- **Generado el:** 2026-06-03 18:16:24
 - **Fuente de datos:** season_data.json

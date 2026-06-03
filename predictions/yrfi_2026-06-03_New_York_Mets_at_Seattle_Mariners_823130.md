@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Milwaukee Brewers
+# Análisis YRFI: New York Mets @ Seattle Mariners
 
-**Fecha:** 2026-06-02  
-**Lanzadores:** Trevor McDonald (V) vs Kyle Harrison (L)
+**Fecha:** 2026-06-03  
+**Lanzadores:** Freddy Peralta (V) vs George Kirby (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.9%
+**Probabilidad de que anoten en la primera entrada:** 51.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 29.0% (9/31 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 41.2% (14/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Trevor McDonald):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Impacto del lanzador visitante (New York Mets - Freddy Peralta):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 26.6%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 18.8% (6/32 partidos)
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 22.6% (7/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Kyle Harrison):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 27.2%
+- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-02 17:59:40
+- **Generado el:** 2026-06-03 18:16:24
 - **Fuente de datos:** season_data.json

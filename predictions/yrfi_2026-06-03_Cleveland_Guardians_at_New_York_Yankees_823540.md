@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ New York Yankees
 
-**Fecha:** 2026-06-02  
-**Lanzadores:** Joey Cantillo (V) vs Cam Schlittler (L)
+**Fecha:** 2026-06-03  
+**Lanzadores:** Gavin Williams (V) vs Gerrit Cole (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.4%
+**Probabilidad de que anoten en la primera entrada:** 50.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 50.0% (13/26 partidos)
+- **Estadística base YRFI:** 48.1% (13/27 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 41.6%
+- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 40.8%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 26.7% (8/30 partidos)
+- **Estadística base YRFI:** 25.8% (8/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 16.8%
+- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-02 17:59:40
+- **Generado el:** 2026-06-03 18:16:24
 - **Fuente de datos:** season_data.json

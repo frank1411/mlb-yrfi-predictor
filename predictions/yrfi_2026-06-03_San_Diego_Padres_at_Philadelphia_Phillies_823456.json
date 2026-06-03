@@ -1,0 +1,67 @@
+{
+  "game_pk": 823456,
+  "game_date": "2026-06-03",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 35.483870967741936,
+        "ratio": "11/31"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 22.22,
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 14.814814814814813,
+        "ratio": "4/27"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.483870967741936,
+        "tendency": 33.33333333333333,
+        "combined": 34.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.24
+      },
+      "away_team": {
+        "base": 14.814814814814813,
+        "tendency": 33.33333333333333,
+        "combined": 22.22,
+        "pitcher_impact": 20.0,
+        "adjusted": 21.56
+      },
+      "game_yrfi_probability": 40.57
+    },
+    "yrfi_probability": 40.57
+  },
+  "metadata": {
+    "generated_at": "2026-06-03T18:16:24.321987",
+    "data_source": "season_data.json"
+  }
+}

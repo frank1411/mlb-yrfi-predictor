@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Houston Astros
 
-**Fecha:** 2026-06-03  
-**Lanzadores:** Bubba Chandler (V) vs Mike Burrows (L)
+**Fecha:** 2026-06-04  
+**Lanzadores:** Paul Skenes (V) vs Spencer Arrighetti (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.6%
+**Probabilidad de que anoten en la primera entrada:** 62.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 41.4% (12/29 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Estadística base YRFI:** 43.3% (13/30 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 37.5%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 44.4% (12/27 partidos)
+- **Estadística base YRFI:** 42.9% (12/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Mike Burrows):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 44.9%
+- **Impacto del lanzador local (Houston Astros - Spencer Arrighetti):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 39.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-02 17:59:40
+- **Generado el:** 2026-06-03 18:16:24
 - **Fuente de datos:** season_data.json

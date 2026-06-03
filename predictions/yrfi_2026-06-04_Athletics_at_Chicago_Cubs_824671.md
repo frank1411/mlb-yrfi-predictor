@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Arizona Diamondbacks
+# Análisis YRFI: Athletics @ Chicago Cubs
 
-**Fecha:** 2026-06-03  
-**Lanzadores:** Eric Lauer (V) vs Michael Soroka (L)
+**Fecha:** 2026-06-04  
+**Lanzadores:** Jeffrey Springs (V) vs Colin Rea (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.3%
+**Probabilidad de que anoten en la primera entrada:** 35.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 37.9% (11/29 partidos)
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 20.0% (6/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Eric Lauer):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 43.4%
+- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 15.9%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 27.6% (8/29 partidos)
+### Athletics (Visitante)
+- **Estadística base YRFI:** 28.1% (9/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Michael Soroka):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.8%
+- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 23.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-02 17:59:40
+- **Generado el:** 2026-06-03 18:16:24
 - **Fuente de datos:** season_data.json
