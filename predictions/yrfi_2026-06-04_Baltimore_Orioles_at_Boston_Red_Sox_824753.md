@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Chicago Cubs
+# Análisis YRFI: Baltimore Orioles @ Boston Red Sox
 
 **Fecha:** 2026-06-04  
-**Lanzadores:** Jeffrey Springs (V) vs Colin Rea (L)
+**Lanzadores:** Trevor Rogers (V) vs Brayan Bello (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.2%
+**Probabilidad de que anoten en la primera entrada:** 40.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
+### Boston Red Sox (Local)
 - **Estadística base YRFI:** 20.0% (6/30 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.9%
-
-### Athletics (Visitante)
-- **Estadística base YRFI:** 28.1% (9/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 23.0%
+- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.6%
+
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 17.9% (5/28 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Boston Red Sox - Brayan Bello):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 26.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-03 18:16:24
+- **Generado el:** 2026-06-04 16:42:58
 - **Fuente de datos:** season_data.json

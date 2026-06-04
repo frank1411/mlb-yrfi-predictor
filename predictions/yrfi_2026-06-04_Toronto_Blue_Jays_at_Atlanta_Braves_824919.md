@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Washington Nationals
+# Análisis YRFI: Toronto Blue Jays @ Atlanta Braves
 
-**Fecha:** 2026-06-03  
-**Lanzadores:** Max Meyer (V) vs Andrew Alvarez (L)
+**Fecha:** 2026-06-04  
+**Lanzadores:** Por anunciar (V) vs Chris Sale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.3%
+**Probabilidad de que anoten en la primera entrada:** 46.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
-- **Estadística base YRFI:** 35.5% (11/31 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Max Meyer):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.5%
-
-### Miami Marlins (Visitante)
+### Atlanta Braves (Local)
 - **Estadística base YRFI:** 31.0% (9/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.4%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.4%
+
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 21.9% (7/32 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 14.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-03 18:16:24
+- **Generado el:** 2026-06-04 16:42:58
 - **Fuente de datos:** season_data.json

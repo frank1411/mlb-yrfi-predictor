@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Milwaukee Brewers
 
-**Fecha:** 2026-06-03  
-**Lanzadores:** Logan Webb (V) vs Por anunciar (L)
+**Fecha:** 2026-06-04  
+**Lanzadores:** Adrian Houser (V) vs Coleman Crow (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.6%
+**Probabilidad de que anoten en la primera entrada:** 60.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 31.2% (10/32 partidos)
+- **Estadística base YRFI:** 30.3% (10/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 31.8%
+- **Impacto del lanzador visitante (San Francisco Giants - Adrian Houser):** 100.0% (4/4 partidos)
+- **Puntuación ajustada:** 53.9%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 18.2% (6/33 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.0%
+- **Estadística base YRFI:** 17.6% (6/34 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Coleman Crow):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 14.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-03 18:16:24
+- **Generado el:** 2026-06-04 16:42:58
 - **Fuente de datos:** season_data.json

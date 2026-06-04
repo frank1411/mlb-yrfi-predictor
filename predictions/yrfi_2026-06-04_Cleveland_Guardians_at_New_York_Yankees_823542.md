@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ New York Yankees
 
-**Fecha:** 2026-06-03  
-**Lanzadores:** Gavin Williams (V) vs Gerrit Cole (L)
+**Fecha:** 2026-06-04  
+**Lanzadores:** Slade Cecconi (V) vs Carlos Rodón (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 46.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 48.1% (13/27 partidos)
+- **Estadística base YRFI:** 46.4% (13/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 40.8%
+- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 37.1%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 25.8% (8/31 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.4%
+- **Estadística base YRFI:** 25.0% (8/32 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-03 18:16:24
+- **Generado el:** 2026-06-04 16:42:58
 - **Fuente de datos:** season_data.json
