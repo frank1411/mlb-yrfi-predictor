@@ -1,0 +1,67 @@
+{
+  "game_pk": 823699,
+  "game_date": "2026-06-06",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "12/33"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 33.42,
+    "pitcher": {
+      "name": "Michael Wacha",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.03225806451613,
+        "ratio": "9/31"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 46.666666666666664,
+        "combined": 40.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.34
+      },
+      "away_team": {
+        "base": 29.03225806451613,
+        "tendency": 40.0,
+        "combined": 33.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.39
+      },
+      "game_yrfi_probability": 45.1
+    },
+    "yrfi_probability": 45.1
+  },
+  "metadata": {
+    "generated_at": "2026-06-05T16:25:08.151097",
+    "data_source": "season_data.json"
+  }
+}

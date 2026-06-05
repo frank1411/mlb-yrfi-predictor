@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Boston Red Sox
+# Análisis YRFI: Boston Red Sox @ New York Yankees
 
-**Fecha:** 2026-06-04  
-**Lanzadores:** Trevor Rogers (V) vs Brayan Bello (L)
+**Fecha:** 2026-06-05  
+**Lanzadores:** Sonny Gray (V) vs Ryan Weathers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.7%
+**Probabilidad de que anoten en la primera entrada:** 68.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 44.8% (13/29 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 54.4%
+
+### Boston Red Sox (Visitante)
 - **Estadística base YRFI:** 20.0% (6/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.6%
-
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 17.9% (5/28 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Brayan Bello):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 26.2%
+- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 31.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-04 16:42:58
+- **Generado el:** 2026-06-05 16:25:08
 - **Fuente de datos:** season_data.json

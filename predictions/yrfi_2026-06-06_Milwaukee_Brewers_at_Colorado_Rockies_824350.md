@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Chicago Cubs
+# Análisis YRFI: Milwaukee Brewers @ Colorado Rockies
 
-**Fecha:** 2026-06-05  
-**Lanzadores:** J.T. Ginn (V) vs Shota Imanaga (L)
+**Fecha:** 2026-06-06  
+**Lanzadores:** Brandon Sproat (V) vs Ryan Feltner (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.1%
+**Probabilidad de que anoten en la primera entrada:** 74.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 19.4% (6/31 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 42.9% (12/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 23.7%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Brandon Sproat):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 53.6%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 30.3% (10/33 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 30.8% (8/26 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 33.3%
+- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 46.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-04 16:42:58
+- **Generado el:** 2026-06-05 16:25:08
 - **Fuente de datos:** season_data.json

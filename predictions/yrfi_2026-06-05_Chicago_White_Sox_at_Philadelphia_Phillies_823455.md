@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Philadelphia Phillies
+# Análisis YRFI: Chicago White Sox @ Philadelphia Phillies
 
-**Fecha:** 2026-06-04  
-**Lanzadores:** Lucas Giolito (V) vs Zack Wheeler (L)
+**Fecha:** 2026-06-05  
+**Lanzadores:** Anthony Kay (V) vs Jesús Luzardo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.9%
+**Probabilidad de que anoten en la primera entrada:** 45.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 34.4% (11/32 partidos)
+- **Estadística base YRFI:** 33.3% (11/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Lucas Giolito):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.9%
+- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.0%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 14.3% (4/28 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 32.3% (10/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Zack Wheeler):** 0.0% (1/2 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-04 16:42:58
+- **Generado el:** 2026-06-05 16:25:08
 - **Fuente de datos:** season_data.json

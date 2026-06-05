@@ -1,0 +1,67 @@
+{
+  "game_pk": 824186,
+  "game_date": "2026-06-06",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Peter Lambert",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 40.625,
+        "ratio": "13/32"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 36.31,
+    "pitcher": {
+      "name": "Jack Perkins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "10/34"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.625,
+        "tendency": 33.33333333333333,
+        "combined": 37.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.4
+      },
+      "away_team": {
+        "base": 29.411764705882355,
+        "tendency": 46.666666666666664,
+        "combined": 36.31,
+        "pitcher_impact": 100.0,
+        "adjusted": 55.42
+      },
+      "game_yrfi_probability": 67.19
+    },
+    "yrfi_probability": 67.19
+  },
+  "metadata": {
+    "generated_at": "2026-06-05T16:25:08.140266",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Pittsburgh Pirates @ Houston Astros
+# Análisis YRFI: Pittsburgh Pirates @ Atlanta Braves
 
 **Fecha:** 2026-06-05  
-**Lanzadores:** Jared Jones (V) vs Kai-Wei Teng (L)
+**Lanzadores:** Mitch Keller (V) vs Martín Pérez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.8%
+**Probabilidad de que anoten en la primera entrada:** 58.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 41.9% (13/31 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 30.0% (9/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Jared Jones):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 41.4% (12/29 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Kai-Wei Teng):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Estadística base YRFI:** 43.3% (13/30 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 46.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-04 16:42:59
+- **Generado el:** 2026-06-05 16:25:08
 - **Fuente de datos:** season_data.json

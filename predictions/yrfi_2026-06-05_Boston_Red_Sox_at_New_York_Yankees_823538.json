@@ -1,0 +1,67 @@
+{
+  "game_pk": 823538,
+  "game_date": "2026-06-05",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Ryan Weathers",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 44.827586206896555,
+        "ratio": "13/29"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 28.0,
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "6/30"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.827586206896555,
+        "tendency": 20.0,
+        "combined": 34.9,
+        "pitcher_impact": 100.0,
+        "adjusted": 54.43
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 40.0,
+        "combined": 28.0,
+        "pitcher_impact": 40.0,
+        "adjusted": 31.6
+      },
+      "game_yrfi_probability": 68.83
+    },
+    "yrfi_probability": 68.83
+  },
+  "metadata": {
+    "generated_at": "2026-06-05T16:25:08.126641",
+    "data_source": "season_data.json"
+  }
+}

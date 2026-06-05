@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Minnesota Twins
+# Análisis YRFI: Los Angeles Angels @ Los Angeles Dodgers
 
-**Fecha:** 2026-06-04  
-**Lanzadores:** Seth Lugo (V) vs Andrew Morris (L)
+**Fecha:** 2026-06-06  
+**Lanzadores:** Por anunciar (V) vs Roki Sasaki (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.9%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 34.4% (11/32 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.5% (11/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Seth Lugo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Impacto del lanzador visitante (Los Angeles Angels - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 41.1%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 26.7% (8/30 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 21.9% (7/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Andrew Morris):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.5%
+- **Impacto del lanzador local (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-04 16:42:58
+- **Generado el:** 2026-06-05 16:25:08
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822892,
+  "game_date": "2026-06-06",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Kumar Rocker",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "7/28"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 19.88,
+    "pitcher": {
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.242424242424242,
+        "ratio": "8/33"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.7
+      },
+      "away_team": {
+        "base": 24.242424242424242,
+        "tendency": 13.333333333333334,
+        "combined": 19.88,
+        "pitcher_impact": 100.0,
+        "adjusted": 43.92
+      },
+      "game_yrfi_probability": 56.09
+    },
+    "yrfi_probability": 56.09
+  },
+  "metadata": {
+    "generated_at": "2026-06-05T16:25:08.147367",
+    "data_source": "season_data.json"
+  }
+}

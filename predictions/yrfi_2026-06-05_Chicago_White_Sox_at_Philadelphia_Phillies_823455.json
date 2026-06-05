@@ -1,18 +1,18 @@
 {
-  "game_pk": 823457,
-  "game_date": "2026-06-04",
+  "game_pk": 823455,
+  "game_date": "2026-06-05",
   "home_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Zack Wheeler",
+      "name": "Jesús Luzardo",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/2"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 34.375,
-        "ratio": "11/32"
+        "value": 33.33333333333333,
+        "ratio": "11/33"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "135",
-    "name": "San Diego Padres",
-    "combined_yrfi_pct": 21.9,
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 32.69,
     "pitcher": {
-      "name": "Lucas Giolito",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Anthony Kay",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
     },
     "stats": {
       "base": {
-        "value": 14.285714285714285,
-        "ratio": "4/28"
+        "value": 32.25806451612903,
+        "ratio": "10/31"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 34.375,
+        "base": 33.33333333333333,
         "tendency": 26.666666666666668,
-        "combined": 31.29,
-        "pitcher_impact": 0.0,
-        "adjusted": 21.9
+        "combined": 30.67,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.97
       },
       "away_team": {
-        "base": 14.285714285714285,
+        "base": 32.25806451612903,
         "tendency": 33.33333333333333,
-        "combined": 21.9,
+        "combined": 32.69,
         "pitcher_impact": 0.0,
-        "adjusted": 15.33
+        "adjusted": 22.88
       },
-      "game_yrfi_probability": 33.87
+      "game_yrfi_probability": 45.22
     },
-    "yrfi_probability": 33.87
+    "yrfi_probability": 45.22
   },
   "metadata": {
-    "generated_at": "2026-06-04T16:42:58.977152",
+    "generated_at": "2026-06-05T16:25:08.121201",
     "data_source": "season_data.json"
   }
 }
