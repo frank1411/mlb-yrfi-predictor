@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Detroit Tigers
+# Análisis YRFI: Kansas City Royals @ Minnesota Twins
 
-**Fecha:** 2026-06-05  
-**Lanzadores:** Bryan Woo (V) vs Framber Valdez (L)
+**Fecha:** 2026-06-06  
+**Lanzadores:** Luinder Avila (V) vs Joe Ryan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.2%
+**Probabilidad de que anoten en la primera entrada:** 45.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 28.6% (8/28 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 35.3% (12/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryan Woo):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 32.6%
+- **Impacto del lanzador visitante (Kansas City Royals - Luinder Avila):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 27.9%
 
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 28.6% (8/28 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 31.2% (10/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 23.2%
+- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 24.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

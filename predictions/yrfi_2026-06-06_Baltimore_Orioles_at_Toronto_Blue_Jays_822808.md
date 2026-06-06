@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Arizona Diamondbacks
+# Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
 
 **Fecha:** 2026-06-06  
-**Lanzadores:** Foster Griffin (V) vs Merrill Kelly (L)
+**Lanzadores:** Kyle Bradish (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.3%
+**Probabilidad de que anoten en la primera entrada:** 44.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 34.4% (11/32 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 18.2%
-
-### Washington Nationals (Visitante)
+### Toronto Blue Jays (Local)
 - **Estadística base YRFI:** 29.0% (9/31 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.7%
+
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 23.3% (7/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Merrill Kelly):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 47.8%
+- **Impacto del lanzador local (Toronto Blue Jays - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 30.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Minnesota Twins
+# Análisis YRFI: Seattle Mariners @ Detroit Tigers
 
 **Fecha:** 2026-06-06  
-**Lanzadores:** Michael Wacha (V) vs Zebby Matthews (L)
+**Lanzadores:** Bryce Miller (V) vs Keider Montero (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.1%
+**Probabilidad de que anoten en la primera entrada:** 42.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 36.4% (12/33 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 27.6% (8/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 28.3%
+- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.6%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 29.0% (9/31 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 31.0% (9/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Impacto del lanzador local (Detroit Tigers - Keider Montero):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

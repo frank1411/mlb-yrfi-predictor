@@ -1,0 +1,67 @@
+{
+  "game_pk": 822808,
+  "game_date": "2026-06-06",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.03225806451613,
+        "ratio": "9/31"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 22.0,
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "7/30"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.03225806451613,
+        "tendency": 26.666666666666668,
+        "combined": 28.09,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.66
+      },
+      "away_team": {
+        "base": 23.333333333333332,
+        "tendency": 20.0,
+        "combined": 22.0,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.4
+      },
+      "game_yrfi_probability": 44.08
+    },
+    "yrfi_probability": 44.08
+  },
+  "metadata": {
+    "generated_at": "2026-06-06T15:05:38.298601",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Colorado Rockies
 
-**Fecha:** 2026-06-06  
-**Lanzadores:** Brandon Sproat (V) vs Ryan Feltner (L)
+**Fecha:** 2026-06-07  
+**Lanzadores:** Jacob Misiorowski (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 74.9%
+**Probabilidad de que anoten en la primera entrada:** 59.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 42.9% (12/28 partidos)
+- **Estadística base YRFI:** 44.8% (13/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Brandon Sproat):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 53.6%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 34.4%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 30.8% (8/26 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 46.0%
+- **Estadística base YRFI:** 29.6% (8/27 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

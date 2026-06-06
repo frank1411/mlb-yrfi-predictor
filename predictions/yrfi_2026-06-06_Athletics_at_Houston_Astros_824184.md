@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Houston Astros
 
 **Fecha:** 2026-06-06  
-**Lanzadores:** Jack Perkins (V) vs Peter Lambert (L)
+**Lanzadores:** Kade Morris (V) vs Tatsuya Imai (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 67.2%
+**Probabilidad de que anoten en la primera entrada:** 45.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 40.6% (13/32 partidos)
+- **Estadística base YRFI:** 42.4% (14/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador visitante (Athletics - Kade Morris):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 29.4% (10/34 partidos)
+- **Estadística base YRFI:** 28.6% (10/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 55.4%
+- **Impacto del lanzador local (Houston Astros - Tatsuya Imai):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

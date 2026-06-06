@@ -1,18 +1,18 @@
 {
-  "game_pk": 824673,
-  "game_date": "2026-06-05",
+  "game_pk": 823454,
+  "game_date": "2026-06-06",
   "home_team": {
-    "id": "112",
-    "name": "Chicago Cubs",
+    "id": "143",
+    "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Edward Cabrera",
+      "name": "Andrew Painter",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/5"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 18.75,
-        "ratio": "6/32"
+        "value": 32.35294117647059,
+        "ratio": "11/34"
       },
       "tendency": {
         "value": 20.0,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "137",
-    "name": "San Francisco Giants",
-    "combined_yrfi_pct": 25.33,
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 32.08,
     "pitcher": {
-      "name": "Robbie Ray",
+      "name": "Brandon Eisert",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 20.0,
-        "ratio": "7/35"
+        "value": 31.25,
+        "ratio": "10/32"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 18.75,
+        "base": 32.35294117647059,
         "tendency": 20.0,
-        "combined": 19.25,
+        "combined": 27.41,
         "pitcher_impact": 0.0,
-        "adjusted": 13.47
+        "adjusted": 19.19
       },
       "away_team": {
-        "base": 20.0,
+        "base": 31.25,
         "tendency": 33.33333333333333,
-        "combined": 25.33,
+        "combined": 32.08,
         "pitcher_impact": 0.0,
-        "adjusted": 17.73
+        "adjusted": 22.46
       },
-      "game_yrfi_probability": 28.81
+      "game_yrfi_probability": 37.34
     },
-    "yrfi_probability": 28.81
+    "yrfi_probability": 37.34
   },
   "metadata": {
-    "generated_at": "2026-06-05T16:25:08.110064",
+    "generated_at": "2026-06-06T15:05:38.302472",
     "data_source": "season_data.json"
   }
 }

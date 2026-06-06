@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ New York Yankees
 
-**Fecha:** 2026-06-05  
-**Lanzadores:** Sonny Gray (V) vs Ryan Weathers (L)
+**Fecha:** 2026-06-06  
+**Lanzadores:** Ranger Suarez (V) vs Will Warren (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 68.8%
+**Probabilidad de que anoten en la primera entrada:** 51.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 44.8% (13/29 partidos)
+- **Estadística base YRFI:** 46.7% (14/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 54.4%
+- **Impacto del lanzador visitante (Boston Red Sox - Ranger Suarez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 35.2%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 20.0% (6/30 partidos)
+- **Estadística base YRFI:** 19.4% (6/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 31.6%
+- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 25.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

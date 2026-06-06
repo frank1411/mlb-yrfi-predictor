@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Texas Rangers
 
 **Fecha:** 2026-06-06  
-**Lanzadores:** Parker Messick (V) vs Kumar Rocker (L)
+**Lanzadores:** Tanner Bibee (V) vs Jack Leiter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.1%
+**Probabilidad de que anoten en la primera entrada:** 47.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 25.0% (7/28 partidos)
+- **Estadística base YRFI:** 24.1% (7/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 24.2% (8/33 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 43.9%
+- **Estadística base YRFI:** 26.5% (9/34 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - Jack Leiter):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

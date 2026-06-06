@@ -1,0 +1,67 @@
+{
+  "game_pk": 825075,
+  "game_date": "2026-06-06",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "11/33"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 29.42,
+    "pitcher": {
+      "name": "Zack Littell",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "10/32"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 6.666666666666667,
+        "combined": 22.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.87
+      },
+      "away_team": {
+        "base": 31.25,
+        "tendency": 26.666666666666668,
+        "combined": 29.42,
+        "pitcher_impact": 50.0,
+        "adjusted": 35.59
+      },
+      "game_yrfi_probability": 55.47
+    },
+    "yrfi_probability": 55.47
+  },
+  "metadata": {
+    "generated_at": "2026-06-06T15:05:38.305733",
+    "data_source": "season_data.json"
+  }
+}

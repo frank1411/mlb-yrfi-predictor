@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Atlanta Braves
 
-**Fecha:** 2026-06-05  
-**Lanzadores:** Mitch Keller (V) vs Martín Pérez (L)
+**Fecha:** 2026-06-06  
+**Lanzadores:** Braxton Ashcraft (V) vs Spencer Strider (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.0%
+**Probabilidad de que anoten en la primera entrada:** 44.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 30.0% (9/30 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.9%
+- **Estadística base YRFI:** 29.0% (9/31 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.7%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 43.3% (13/30 partidos)
+- **Estadística base YRFI:** 41.9% (13/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 46.3%
+- **Impacto del lanzador local (Atlanta Braves - Spencer Strider):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 30.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

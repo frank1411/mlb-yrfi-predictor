@@ -1,18 +1,18 @@
 {
-  "game_pk": 823699,
+  "game_pk": 824269,
   "game_date": "2026-06-06",
   "home_team": {
-    "id": "142",
-    "name": "Minnesota Twins",
+    "id": "116",
+    "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Zebby Matthews",
+      "name": "Keider Montero",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/5"
     },
     "stats": {
       "base": {
-        "value": 36.36363636363637,
-        "ratio": "12/33"
+        "value": 27.586206896551722,
+        "ratio": "8/29"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "118",
-    "name": "Kansas City Royals",
-    "combined_yrfi_pct": 33.42,
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 34.62,
     "pitcher": {
-      "name": "Michael Wacha",
+      "name": "Bryce Miller",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 29.03225806451613,
-        "ratio": "9/31"
+        "value": 31.03448275862069,
+        "ratio": "9/29"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.36363636363637,
+        "base": 27.586206896551722,
         "tendency": 46.666666666666664,
-        "combined": 40.48,
+        "combined": 35.22,
         "pitcher_impact": 0.0,
-        "adjusted": 28.34
+        "adjusted": 24.65
       },
       "away_team": {
-        "base": 29.03225806451613,
+        "base": 31.03448275862069,
         "tendency": 40.0,
-        "combined": 33.42,
+        "combined": 34.62,
         "pitcher_impact": 0.0,
-        "adjusted": 23.39
+        "adjusted": 24.23
       },
-      "game_yrfi_probability": 45.1
+      "game_yrfi_probability": 42.91
     },
-    "yrfi_probability": 45.1
+    "yrfi_probability": 42.91
   },
   "metadata": {
-    "generated_at": "2026-06-05T16:25:08.151097",
+    "generated_at": "2026-06-06T15:05:38.278188",
     "data_source": "season_data.json"
   }
 }

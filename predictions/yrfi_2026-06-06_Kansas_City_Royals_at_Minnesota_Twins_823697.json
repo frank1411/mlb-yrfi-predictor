@@ -1,0 +1,67 @@
+{
+  "game_pk": 823697,
+  "game_date": "2026-06-06",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.294117647058826,
+        "ratio": "12/34"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 34.75,
+    "pitcher": {
+      "name": "Luinder Avila",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "10/32"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.294117647058826,
+        "tendency": 46.666666666666664,
+        "combined": 39.84,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.89
+      },
+      "away_team": {
+        "base": 31.25,
+        "tendency": 40.0,
+        "combined": 34.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.32
+      },
+      "game_yrfi_probability": 45.43
+    },
+    "yrfi_probability": 45.43
+  },
+  "metadata": {
+    "generated_at": "2026-06-06T15:05:38.283849",
+    "data_source": "season_data.json"
+  }
+}

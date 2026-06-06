@@ -1,18 +1,18 @@
 {
-  "game_pk": 824186,
+  "game_pk": 824184,
   "game_date": "2026-06-06",
   "home_team": {
     "id": "117",
     "name": "Houston Astros",
     "pitcher": {
-      "name": "Peter Lambert",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Tatsuya Imai",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 40.625,
-        "ratio": "13/32"
+        "value": 42.42424242424242,
+        "ratio": "14/33"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "133",
     "name": "Athletics",
-    "combined_yrfi_pct": 36.31,
+    "combined_yrfi_pct": 35.81,
     "pitcher": {
-      "name": "Jack Perkins",
+      "name": "Kade Morris",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 29.411764705882355,
-        "ratio": "10/34"
+        "value": 28.57142857142857,
+        "ratio": "10/35"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 40.625,
+        "base": 42.42424242424242,
         "tendency": 33.33333333333333,
-        "combined": 37.71,
+        "combined": 38.79,
         "pitcher_impact": 0.0,
-        "adjusted": 26.4
+        "adjusted": 27.15
       },
       "away_team": {
-        "base": 29.411764705882355,
+        "base": 28.57142857142857,
         "tendency": 46.666666666666664,
-        "combined": 36.31,
-        "pitcher_impact": 100.0,
-        "adjusted": 55.42
+        "combined": 35.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.07
       },
-      "game_yrfi_probability": 67.19
+      "game_yrfi_probability": 45.41
     },
-    "yrfi_probability": 67.19
+    "yrfi_probability": 45.41
   },
   "metadata": {
-    "generated_at": "2026-06-05T16:25:08.140266",
+    "generated_at": "2026-06-06T15:05:38.308862",
     "data_source": "season_data.json"
   }
 }

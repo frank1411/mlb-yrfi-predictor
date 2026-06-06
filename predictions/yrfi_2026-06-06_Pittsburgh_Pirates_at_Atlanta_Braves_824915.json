@@ -1,0 +1,67 @@
+{
+  "game_pk": 824915,
+  "game_date": "2026-06-06",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Spencer Strider",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 29.03225806451613,
+        "ratio": "9/31"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 43.83,
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 41.935483870967744,
+        "ratio": "13/31"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.03225806451613,
+        "tendency": 26.666666666666668,
+        "combined": 28.09,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.66
+      },
+      "away_team": {
+        "base": 41.935483870967744,
+        "tendency": 46.666666666666664,
+        "combined": 43.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.68
+      },
+      "game_yrfi_probability": 44.31
+    },
+    "yrfi_probability": 44.31
+  },
+  "metadata": {
+    "generated_at": "2026-06-06T15:05:38.312035",
+    "data_source": "season_data.json"
+  }
+}

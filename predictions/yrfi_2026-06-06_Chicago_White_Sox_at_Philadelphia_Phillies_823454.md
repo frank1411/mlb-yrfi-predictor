@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Philadelphia Phillies
 
-**Fecha:** 2026-06-05  
-**Lanzadores:** Anthony Kay (V) vs Jesús Luzardo (L)
+**Fecha:** 2026-06-06  
+**Lanzadores:** Brandon Eisert (V) vs Andrew Painter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.2%
+**Probabilidad de que anoten en la primera entrada:** 37.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 33.3% (11/33 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 29.0%
+- **Estadística base YRFI:** 32.4% (11/34 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Chicago White Sox - Brandon Eisert):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.2%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 32.3% (10/31 partidos)
+- **Estadística base YRFI:** 31.2% (10/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

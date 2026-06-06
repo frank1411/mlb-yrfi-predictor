@@ -1,0 +1,67 @@
+{
+  "game_pk": 824351,
+  "game_date": "2026-06-07",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 44.827586206896555,
+        "ratio": "13/29"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 33.78,
+    "pitcher": {
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.629629629629626,
+        "ratio": "8/27"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.827586206896555,
+        "tendency": 20.0,
+        "combined": 34.9,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 34.43
+      },
+      "away_team": {
+        "base": 29.629629629629626,
+        "tendency": 40.0,
+        "combined": 33.78,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.64
+      },
+      "game_yrfi_probability": 59.77
+    },
+    "yrfi_probability": 59.77
+  },
+  "metadata": {
+    "generated_at": "2026-06-06T15:05:38.323995",
+    "data_source": "season_data.json"
+  }
+}

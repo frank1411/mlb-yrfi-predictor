@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Chicago Cubs
 
-**Fecha:** 2026-06-05  
-**Lanzadores:** Robbie Ray (V) vs Edward Cabrera (L)
+**Fecha:** 2026-06-06  
+**Lanzadores:** Landen Roupp (V) vs Ben Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 28.8%
+**Probabilidad de que anoten en la primera entrada:** 29.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 18.8% (6/32 partidos)
+- **Estadística base YRFI:** 18.2% (6/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 13.5%
+- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 13.2%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 20.0% (7/35 partidos)
+- **Estadística base YRFI:** 22.2% (8/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Edward Cabrera):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Impacto del lanzador local (Chicago Cubs - Ben Brown):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-05 16:25:08
+- **Generado el:** 2026-06-06 15:05:38
 - **Fuente de datos:** season_data.json

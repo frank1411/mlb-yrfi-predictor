@@ -1,0 +1,67 @@
+{
+  "game_pk": 823942,
+  "game_date": "2026-06-07",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.375,
+        "ratio": "11/32"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 26.06,
+    "pitcher": {
+      "name": "Jack Kochanowicz",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.21212121212121,
+        "ratio": "7/33"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.375,
+        "tendency": 33.33333333333333,
+        "combined": 33.96,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.27
+      },
+      "away_team": {
+        "base": 21.21212121212121,
+        "tendency": 33.33333333333333,
+        "combined": 26.06,
+        "pitcher_impact": 25.0,
+        "adjusted": 25.74
+      },
+      "game_yrfi_probability": 48.96
+    },
+    "yrfi_probability": 48.96
+  },
+  "metadata": {
+    "generated_at": "2026-06-06T15:05:38.327194",
+    "data_source": "season_data.json"
+  }
+}

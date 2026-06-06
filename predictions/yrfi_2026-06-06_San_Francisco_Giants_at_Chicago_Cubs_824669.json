@@ -1,0 +1,67 @@
+{
+  "game_pk": 824669,
+  "game_date": "2026-06-06",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Ben Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 18.181818181818183,
+        "ratio": "6/33"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 26.67,
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "8/36"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.181818181818183,
+        "tendency": 20.0,
+        "combined": 18.91,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.24
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 33.33333333333333,
+        "combined": 26.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.67
+      },
+      "game_yrfi_probability": 29.44
+    },
+    "yrfi_probability": 29.44
+  },
+  "metadata": {
+    "generated_at": "2026-06-06T15:05:38.294693",
+    "data_source": "season_data.json"
+  }
+}

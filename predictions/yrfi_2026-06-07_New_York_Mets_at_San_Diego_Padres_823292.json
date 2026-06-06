@@ -1,0 +1,67 @@
+{
+  "game_pk": 823292,
+  "game_date": "2026-06-07",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Griffin Canning",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 21.21212121212121,
+        "ratio": "7/33"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 27.88,
+    "pitcher": {
+      "name": "Nolan McLean",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.242424242424242,
+        "ratio": "8/33"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.21212121212121,
+        "tendency": 20.0,
+        "combined": 20.73,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 34.51
+      },
+      "away_team": {
+        "base": 24.242424242424242,
+        "tendency": 33.33333333333333,
+        "combined": 27.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.52
+      },
+      "game_yrfi_probability": 47.29
+    },
+    "yrfi_probability": 47.29
+  },
+  "metadata": {
+    "generated_at": "2026-06-06T15:05:38.330344",
+    "data_source": "season_data.json"
+  }
+}
