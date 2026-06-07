@@ -1,18 +1,18 @@
 {
-  "game_pk": 823697,
-  "game_date": "2026-06-06",
+  "game_pk": 823696,
+  "game_date": "2026-06-07",
   "home_team": {
     "id": "142",
     "name": "Minnesota Twins",
     "pitcher": {
-      "name": "Joe Ryan",
+      "name": "Connor Prielipp",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 35.294117647058826,
-        "ratio": "12/34"
+        "value": 34.285714285714285,
+        "ratio": "12/35"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "118",
     "name": "Kansas City Royals",
-    "combined_yrfi_pct": 34.75,
+    "combined_yrfi_pct": 36.0,
     "pitcher": {
-      "name": "Luinder Avila",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/1"
+      "name": "Noah Cameron",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 31.25,
-        "ratio": "10/32"
+        "value": 33.33333333333333,
+        "ratio": "11/33"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 35.294117647058826,
+        "base": 34.285714285714285,
         "tendency": 46.666666666666664,
-        "combined": 39.84,
-        "pitcher_impact": 0.0,
-        "adjusted": 27.89
+        "combined": 39.24,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 37.47
       },
       "away_team": {
-        "base": 31.25,
+        "base": 33.33333333333333,
         "tendency": 40.0,
-        "combined": 34.75,
+        "combined": 36.0,
         "pitcher_impact": 0.0,
-        "adjusted": 24.32
+        "adjusted": 25.2
       },
-      "game_yrfi_probability": 45.43
+      "game_yrfi_probability": 53.23
     },
-    "yrfi_probability": 45.43
+    "yrfi_probability": 53.23
   },
   "metadata": {
-    "generated_at": "2026-06-06T15:05:38.283849",
+    "generated_at": "2026-06-07T15:18:34.751366",
     "data_source": "season_data.json"
   }
 }

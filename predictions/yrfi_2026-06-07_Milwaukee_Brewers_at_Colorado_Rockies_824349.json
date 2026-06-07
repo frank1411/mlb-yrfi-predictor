@@ -1,0 +1,67 @@
+{
+  "game_pk": 824349,
+  "game_date": "2026-06-07",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 43.333333333333336,
+        "ratio": "13/30"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 37.95,
+    "pitcher": {
+      "name": "Shane Drohan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.142857142857146,
+        "ratio": "9/28"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 43.333333333333336,
+        "tendency": 20.0,
+        "combined": 34.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.8
+      },
+      "away_team": {
+        "base": 32.142857142857146,
+        "tendency": 46.666666666666664,
+        "combined": 37.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.57
+      },
+      "game_yrfi_probability": 44.05
+    },
+    "yrfi_probability": 44.05
+  },
+  "metadata": {
+    "generated_at": "2026-06-07T15:18:34.761681",
+    "data_source": "season_data.json"
+  }
+}

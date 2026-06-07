@@ -1,11 +1,11 @@
 # Análisis YRFI: Boston Red Sox @ New York Yankees
 
-**Fecha:** 2026-06-06  
-**Lanzadores:** Ranger Suarez (V) vs Will Warren (L)
+**Fecha:** 2026-06-07  
+**Lanzadores:** Ranger Suarez (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.6%
+**Probabilidad de que anoten en la primera entrada:** 47.7%
 
 ## 🔍 Explicación de los Cálculos
 
@@ -18,8 +18,8 @@
 ### Boston Red Sox (Visitante)
 - **Estadística base YRFI:** 19.4% (6/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 25.3%
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-06 15:05:38
+- **Generado el:** 2026-06-07 15:18:34
 - **Fuente de datos:** season_data.json

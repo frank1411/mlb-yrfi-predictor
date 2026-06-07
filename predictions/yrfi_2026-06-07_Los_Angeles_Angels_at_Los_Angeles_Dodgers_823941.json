@@ -1,18 +1,18 @@
 {
-  "game_pk": 823942,
+  "game_pk": 823941,
   "game_date": "2026-06-07",
   "home_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Yoshinobu Yamamoto",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 34.375,
-        "ratio": "11/32"
+        "value": 36.36363636363637,
+        "ratio": "12/33"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "108",
     "name": "Los Angeles Angels",
-    "combined_yrfi_pct": 26.06,
+    "combined_yrfi_pct": 27.45,
     "pitcher": {
-      "name": "Jack Kochanowicz",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "José Soriano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 21.21212121212121,
-        "ratio": "7/33"
+        "value": 23.52941176470588,
+        "ratio": "8/34"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 34.375,
+        "base": 36.36363636363637,
         "tendency": 33.33333333333333,
-        "combined": 33.96,
-        "pitcher_impact": 25.0,
-        "adjusted": 31.27
+        "combined": 35.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.61
       },
       "away_team": {
-        "base": 21.21212121212121,
+        "base": 23.52941176470588,
         "tendency": 33.33333333333333,
-        "combined": 26.06,
-        "pitcher_impact": 25.0,
-        "adjusted": 25.74
+        "combined": 27.45,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 29.22
       },
-      "game_yrfi_probability": 48.96
+      "game_yrfi_probability": 46.64
     },
-    "yrfi_probability": 48.96
+    "yrfi_probability": 46.64
   },
   "metadata": {
-    "generated_at": "2026-06-06T15:05:38.327194",
+    "generated_at": "2026-06-07T15:18:34.768703",
     "data_source": "season_data.json"
   }
 }

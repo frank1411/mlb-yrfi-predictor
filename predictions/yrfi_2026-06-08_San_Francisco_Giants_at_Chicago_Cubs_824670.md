@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Chicago Cubs
 
-**Fecha:** 2026-06-06  
-**Lanzadores:** Landen Roupp (V) vs Ben Brown (L)
+**Fecha:** 2026-06-08  
+**Lanzadores:** Trevor McDonald (V) vs Jameson Taillon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 29.4%
+**Probabilidad de que anoten en la primera entrada:** 37.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 18.2% (6/33 partidos)
+- **Estadística base YRFI:** 17.6% (6/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 13.2%
+- **Impacto del lanzador visitante (San Francisco Giants - Trevor McDonald):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 13.0%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 22.2% (8/36 partidos)
+- **Estadística base YRFI:** 21.6% (8/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Ben Brown):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.7%
+- **Impacto del lanzador local (Chicago Cubs - Jameson Taillon):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-06 15:05:38
+- **Generado el:** 2026-06-07 15:18:34
 - **Fuente de datos:** season_data.json

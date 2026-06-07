@@ -1,0 +1,67 @@
+{
+  "game_pk": 824268,
+  "game_date": "2026-06-07",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "8/30"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 34.0,
+    "pitcher": {
+      "name": "Luis Castillo",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "9/30"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.666666666666668,
+        "tendency": 46.666666666666664,
+        "combined": 34.67,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 34.27
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 40.0,
+        "combined": 34.0,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 33.8
+      },
+      "game_yrfi_probability": 56.49
+    },
+    "yrfi_probability": 56.49
+  },
+  "metadata": {
+    "generated_at": "2026-06-07T15:18:34.740943",
+    "data_source": "season_data.json"
+  }
+}

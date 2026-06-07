@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Minnesota Twins
+# Análisis YRFI: Seattle Mariners @ Detroit Tigers
 
-**Fecha:** 2026-06-06  
-**Lanzadores:** Luinder Avila (V) vs Joe Ryan (L)
+**Fecha:** 2026-06-07  
+**Lanzadores:** Luis Castillo (V) vs Jack Flaherty (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.4%
+**Probabilidad de que anoten en la primera entrada:** 56.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 35.3% (12/34 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 26.7% (8/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Luinder Avila):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 27.9%
+- **Impacto del lanzador visitante (Seattle Mariners - Luis Castillo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 34.3%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 31.2% (10/32 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 30.0% (9/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 24.3%
+- **Impacto del lanzador local (Detroit Tigers - Jack Flaherty):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-06 15:05:38
+- **Generado el:** 2026-06-07 15:18:34
 - **Fuente de datos:** season_data.json

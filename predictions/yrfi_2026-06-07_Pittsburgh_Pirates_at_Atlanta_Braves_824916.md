@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ Philadelphia Phillies
+# Análisis YRFI: Pittsburgh Pirates @ Atlanta Braves
 
-**Fecha:** 2026-06-06  
-**Lanzadores:** Brandon Eisert (V) vs Andrew Painter (L)
+**Fecha:** 2026-06-07  
+**Lanzadores:** Mason Montgomery (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.3%
+**Probabilidad de que anoten en la primera entrada:** 49.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 32.4% (11/34 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Brandon Eisert):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.2%
-
-### Chicago White Sox (Visitante)
+### Atlanta Braves (Local)
 - **Estadística base YRFI:** 31.2% (10/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Mason Montgomery):** 0.0% (0/2 partidos)
 - **Puntuación ajustada:** 22.5%
+
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 40.6% (13/32 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 34.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-06 15:05:38
+- **Generado el:** 2026-06-07 15:18:34
 - **Fuente de datos:** season_data.json

@@ -1,13 +1,13 @@
 {
-  "game_pk": 823539,
-  "game_date": "2026-06-06",
+  "game_pk": 823537,
+  "game_date": "2026-06-07",
   "home_team": {
     "id": "147",
     "name": "New York Yankees",
     "pitcher": {
-      "name": "Will Warren",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
@@ -53,15 +53,15 @@
         "base": 19.35483870967742,
         "tendency": 40.0,
         "combined": 27.61,
-        "pitcher_impact": 20.0,
-        "adjusted": 25.33
+        "pitcher_impact": 0.0,
+        "adjusted": 19.33
       },
-      "game_yrfi_probability": 51.61
+      "game_yrfi_probability": 47.73
     },
-    "yrfi_probability": 51.61
+    "yrfi_probability": 47.73
   },
   "metadata": {
-    "generated_at": "2026-06-06T15:05:38.321485",
+    "generated_at": "2026-06-07T15:18:34.731995",
     "data_source": "season_data.json"
   }
 }

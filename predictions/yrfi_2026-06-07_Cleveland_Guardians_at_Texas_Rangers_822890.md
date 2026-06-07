@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
+# Análisis YRFI: Cleveland Guardians @ Texas Rangers
 
-**Fecha:** 2026-06-06  
-**Lanzadores:** Kyle Bradish (V) vs Por anunciar (L)
+**Fecha:** 2026-06-07  
+**Lanzadores:** Joey Cantillo (V) vs Jacob deGrom (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.1%
+**Probabilidad de que anoten en la primera entrada:** 58.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 29.0% (9/31 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.7%
-
-### Baltimore Orioles (Visitante)
+### Texas Rangers (Local)
 - **Estadística base YRFI:** 23.3% (7/30 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 34.1%
+
+### Cleveland Guardians (Visitante)
+- **Estadística base YRFI:** 25.7% (9/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 36.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-06 15:05:38
+- **Generado el:** 2026-06-07 15:18:34
 - **Fuente de datos:** season_data.json

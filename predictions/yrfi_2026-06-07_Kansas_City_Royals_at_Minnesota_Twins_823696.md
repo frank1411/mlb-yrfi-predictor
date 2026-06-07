@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Detroit Tigers
+# Análisis YRFI: Kansas City Royals @ Minnesota Twins
 
-**Fecha:** 2026-06-06  
-**Lanzadores:** Bryce Miller (V) vs Keider Montero (L)
+**Fecha:** 2026-06-07  
+**Lanzadores:** Noah Cameron (V) vs Connor Prielipp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.9%
+**Probabilidad de que anoten en la primera entrada:** 53.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 27.6% (8/29 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 34.3% (12/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 37.5%
 
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 31.0% (9/29 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 33.3% (11/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Keider Montero):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 24.2%
+- **Impacto del lanzador local (Minnesota Twins - Connor Prielipp):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 25.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-06 15:05:38
+- **Generado el:** 2026-06-07 15:18:34
 - **Fuente de datos:** season_data.json

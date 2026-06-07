@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Colorado Rockies
+# Análisis YRFI: Chicago White Sox @ Philadelphia Phillies
 
 **Fecha:** 2026-06-07  
-**Lanzadores:** Jacob Misiorowski (V) vs Por anunciar (L)
+**Lanzadores:** Tyler Gilbert (V) vs Aaron Nola (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.8%
+**Probabilidad de que anoten en la primera entrada:** 51.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 44.8% (13/29 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 31.4% (11/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.4%
+- **Impacto del lanzador visitante (Chicago White Sox - Tyler Gilbert):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.8%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 29.6% (8/27 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 33.3% (11/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 38.6%
+- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 40.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-06 15:05:38
+- **Generado el:** 2026-06-07 15:18:34
 - **Fuente de datos:** season_data.json
