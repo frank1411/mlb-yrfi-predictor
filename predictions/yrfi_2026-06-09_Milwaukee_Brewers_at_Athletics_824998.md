@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Houston Astros
+# Análisis YRFI: Milwaukee Brewers @ Athletics
 
-**Fecha:** 2026-06-07  
-**Lanzadores:** Gage Jump (V) vs Mike Burrows (L)
+**Fecha:** 2026-06-09  
+**Lanzadores:** Kyle Harrison (V) vs Jeffrey Springs (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.3%
+**Probabilidad de que anoten en la primera entrada:** 59.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 44.1% (15/34 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 28.6% (8/28 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Gage Jump):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 29.7%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Kyle Harrison):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.2%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 27.8% (10/36 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 31.0% (9/29 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Mike Burrows):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 37.9%
+- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 46.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-07 15:18:34
+- **Generado el:** 2026-06-08 17:00:44
 - **Fuente de datos:** season_data.json

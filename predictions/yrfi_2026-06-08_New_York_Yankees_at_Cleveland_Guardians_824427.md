@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
+# Análisis YRFI: New York Yankees @ Cleveland Guardians
 
-**Fecha:** 2026-06-07  
-**Lanzadores:** Shane Baz (V) vs Kevin Gausman (L)
+**Fecha:** 2026-06-08  
+**Lanzadores:** Will Warren (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.6%
+**Probabilidad de que anoten en la primera entrada:** 33.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 28.1% (9/32 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 29.0% (9/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 32.4%
+- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.8%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 22.6% (7/31 partidos)
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 33.3% (11/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 15.1%
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-07 15:18:34
+- **Generado el:** 2026-06-08 17:00:44
 - **Fuente de datos:** season_data.json

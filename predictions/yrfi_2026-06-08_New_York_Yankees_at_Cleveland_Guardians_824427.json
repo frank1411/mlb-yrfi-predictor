@@ -1,0 +1,67 @@
+{
+  "game_pk": 824427,
+  "game_date": "2026-06-08",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.03225806451613,
+        "ratio": "9/31"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 28.0,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "11/33"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.03225806451613,
+        "tendency": 20.0,
+        "combined": 25.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.79
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 20.0,
+        "combined": 28.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.6
+      },
+      "game_yrfi_probability": 33.9
+    },
+    "yrfi_probability": 33.9
+  },
+  "metadata": {
+    "generated_at": "2026-06-08T17:00:44.402763",
+    "data_source": "season_data.json"
+  }
+}

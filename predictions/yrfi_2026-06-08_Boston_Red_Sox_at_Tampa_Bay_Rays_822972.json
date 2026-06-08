@@ -1,0 +1,67 @@
+{
+  "game_pk": 822972,
+  "game_date": "2026-06-08",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Ian Seymour",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 43.333333333333336,
+        "ratio": "13/30"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 24.58,
+    "pitcher": {
+      "name": "Connelly Early",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 18.75,
+        "ratio": "6/32"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 43.333333333333336,
+        "tendency": 40.0,
+        "combined": 42.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 36.9
+      },
+      "away_team": {
+        "base": 18.75,
+        "tendency": 33.33333333333333,
+        "combined": 24.58,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.21
+      },
+      "game_yrfi_probability": 47.76
+    },
+    "yrfi_probability": 47.76
+  },
+  "metadata": {
+    "generated_at": "2026-06-08T17:00:44.399353",
+    "data_source": "season_data.json"
+  }
+}

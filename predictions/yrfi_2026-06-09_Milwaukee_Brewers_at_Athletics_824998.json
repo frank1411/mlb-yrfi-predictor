@@ -1,0 +1,67 @@
+{
+  "game_pk": 824998,
+  "game_date": "2026-06-09",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "8/28"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 34.62,
+    "pitcher": {
+      "name": "Kyle Harrison",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.03448275862069,
+        "ratio": "9/29"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.57142857142857,
+        "tendency": 40.0,
+        "combined": 33.14,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.2
+      },
+      "away_team": {
+        "base": 31.03448275862069,
+        "tendency": 40.0,
+        "combined": 34.62,
+        "pitcher_impact": 75.0,
+        "adjusted": 46.73
+      },
+      "game_yrfi_probability": 59.09
+    },
+    "yrfi_probability": 59.09
+  },
+  "metadata": {
+    "generated_at": "2026-06-08T17:00:44.419788",
+    "data_source": "season_data.json"
+  }
+}
