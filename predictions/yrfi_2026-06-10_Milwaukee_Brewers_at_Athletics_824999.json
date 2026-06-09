@@ -1,33 +1,13 @@
 {
-  "game_pk": 824998,
-  "game_date": "2026-06-09",
+  "game_pk": 824999,
+  "game_date": "2026-06-10",
   "home_team": {
     "id": "133",
     "name": "Athletics",
     "pitcher": {
-      "name": "Jeffrey Springs",
-      "yrfi_allowed": 75.0,
-      "yrfi_ratio": "3/4"
-    },
-    "stats": {
-      "base": {
-        "value": 28.57142857142857,
-        "ratio": "8/28"
-      },
-      "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
-      }
-    }
-  },
-  "away_team": {
-    "id": "158",
-    "name": "Milwaukee Brewers",
-    "combined_yrfi_pct": 34.62,
-    "pitcher": {
-      "name": "Kyle Harrison",
+      "name": "J.T. Ginn",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -40,28 +20,48 @@
       }
     }
   },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 36.0,
+    "pitcher": {
+      "name": "Robert Gasser",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "10/30"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.57142857142857,
-        "tendency": 40.0,
-        "combined": 33.14,
-        "pitcher_impact": 0.0,
-        "adjusted": 23.2
-      },
-      "away_team": {
         "base": 31.03448275862069,
         "tendency": 40.0,
         "combined": 34.62,
-        "pitcher_impact": 75.0,
-        "adjusted": 46.73
+        "pitcher_impact": 0.0,
+        "adjusted": 24.23
       },
-      "game_yrfi_probability": 59.09
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.2
+      },
+      "game_yrfi_probability": 43.32
     },
-    "yrfi_probability": 59.09
+    "yrfi_probability": 43.32
   },
   "metadata": {
-    "generated_at": "2026-06-08T17:00:44.419788",
+    "generated_at": "2026-06-09T16:25:24.878857",
     "data_source": "season_data.json"
   }
 }

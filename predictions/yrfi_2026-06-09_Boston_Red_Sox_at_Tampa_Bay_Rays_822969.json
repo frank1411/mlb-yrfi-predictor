@@ -1,0 +1,67 @@
+{
+  "game_pk": 822969,
+  "game_date": "2026-06-09",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 45.16129032258064,
+        "ratio": "14/31"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 24.24,
+    "pitcher": {
+      "name": "Payton Tolle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 18.181818181818183,
+        "ratio": "6/33"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 45.16129032258064,
+        "tendency": 46.666666666666664,
+        "combined": 45.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.03
+      },
+      "away_team": {
+        "base": 18.181818181818183,
+        "tendency": 33.33333333333333,
+        "combined": 24.24,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.97
+      },
+      "game_yrfi_probability": 43.56
+    },
+    "yrfi_probability": 43.56
+  },
+  "metadata": {
+    "generated_at": "2026-06-09T16:25:24.839173",
+    "data_source": "season_data.json"
+  }
+}

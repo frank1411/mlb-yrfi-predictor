@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ San Francisco Giants
+# Análisis YRFI: Atlanta Braves @ Chicago White Sox
 
 **Fecha:** 2026-06-09  
-**Lanzadores:** Miles Mikolas (V) vs Logan Webb (L)
+**Lanzadores:** Grant Holmes (V) vs Erick Fedde (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.2%
+**Probabilidad de que anoten en la primera entrada:** 53.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Francisco Giants (Local)
-- **Estadística base YRFI:** 25.0% (7/28 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 31.2% (10/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 39.3%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 32.4% (11/34 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 39.4% (13/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.1%
+- **Impacto del lanzador local (Chicago White Sox - Erick Fedde):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-08 17:00:44
+- **Generado el:** 2026-06-09 16:25:24
 - **Fuente de datos:** season_data.json

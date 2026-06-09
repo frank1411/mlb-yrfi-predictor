@@ -1,0 +1,67 @@
+{
+  "game_pk": 823858,
+  "game_date": "2026-06-09",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Max Meyer",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 36.11111111111111,
+        "ratio": "13/36"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 17.33,
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "6/30"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.11111111111111,
+        "tendency": 20.0,
+        "combined": 29.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 35.77
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 13.333333333333334,
+        "combined": 17.33,
+        "pitcher_impact": 25.0,
+        "adjusted": 19.63
+      },
+      "game_yrfi_probability": 48.38
+    },
+    "yrfi_probability": 48.38
+  },
+  "metadata": {
+    "generated_at": "2026-06-09T16:25:24.845983",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Toronto Blue Jays
 
-**Fecha:** 2026-06-08  
-**Lanzadores:** Cristopher Sánchez (V) vs Patrick Corbin (L)
+**Fecha:** 2026-06-09  
+**Lanzadores:** Zack Wheeler (V) vs Dylan Cease (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.9%
+**Probabilidad de que anoten en la primera entrada:** 41.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 27.3% (9/33 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.0%
+- **Estadística base YRFI:** 26.5% (9/34 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Zack Wheeler):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 29.9%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 27.6% (8/29 partidos)
+- **Estadística base YRFI:** 26.7% (8/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Patrick Corbin):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 16.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-08 17:00:44
+- **Generado el:** 2026-06-09 16:25:24
 - **Fuente de datos:** season_data.json
