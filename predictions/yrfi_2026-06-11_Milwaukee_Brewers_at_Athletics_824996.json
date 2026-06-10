@@ -1,0 +1,67 @@
+{
+  "game_pk": 824996,
+  "game_date": "2026-06-11",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jack Perkins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "10/30"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 39.96,
+    "pitcher": {
+      "name": "Brandon Sproat",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 35.483870967741936,
+        "ratio": "11/31"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 55.2
+      },
+      "away_team": {
+        "base": 35.483870967741936,
+        "tendency": 46.666666666666664,
+        "combined": 39.96,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.97
+      },
+      "game_yrfi_probability": 67.73
+    },
+    "yrfi_probability": 67.73
+  },
+  "metadata": {
+    "generated_at": "2026-06-10T16:54:05.973182",
+    "data_source": "season_data.json"
+  }
+}

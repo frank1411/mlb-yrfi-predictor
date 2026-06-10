@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Chicago White Sox
 
-**Fecha:** 2026-06-09  
-**Lanzadores:** Grant Holmes (V) vs Erick Fedde (L)
+**Fecha:** 2026-06-10  
+**Lanzadores:** Chris Sale (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.9%
+**Probabilidad de que anoten en la primera entrada:** 61.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 31.2% (10/32 partidos)
+- **Estadística base YRFI:** 30.3% (10/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 39.3%
+- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 39.4% (13/33 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Erick Fedde):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Estadística base YRFI:** 41.2% (14/34 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 41.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-09 16:25:24
+- **Generado el:** 2026-06-10 16:54:05
 - **Fuente de datos:** season_data.json

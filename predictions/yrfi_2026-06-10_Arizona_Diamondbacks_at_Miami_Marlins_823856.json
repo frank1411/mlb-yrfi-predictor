@@ -1,0 +1,67 @@
+{
+  "game_pk": 823856,
+  "game_date": "2026-06-10",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Ryan Gusto",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 37.83783783783784,
+        "ratio": "14/37"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 18.88,
+    "pitcher": {
+      "name": "Ryne Nelson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.58064516129032,
+        "ratio": "7/31"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.83783783783784,
+        "tendency": 26.666666666666668,
+        "combined": 33.37,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.36
+      },
+      "away_team": {
+        "base": 22.58064516129032,
+        "tendency": 13.333333333333334,
+        "combined": 18.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.22
+      },
+      "game_yrfi_probability": 33.49
+    },
+    "yrfi_probability": 33.49
+  },
+  "metadata": {
+    "generated_at": "2026-06-10T16:54:05.952133",
+    "data_source": "season_data.json"
+  }
+}

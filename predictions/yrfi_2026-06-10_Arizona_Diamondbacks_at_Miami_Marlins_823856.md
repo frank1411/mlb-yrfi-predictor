@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Miami Marlins
 
-**Fecha:** 2026-06-09  
-**Lanzadores:** Zac Gallen (V) vs Max Meyer (L)
+**Fecha:** 2026-06-10  
+**Lanzadores:** Ryne Nelson (V) vs Ryan Gusto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.4%
+**Probabilidad de que anoten en la primera entrada:** 33.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 36.1% (13/36 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Zac Gallen):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.8%
+- **Estadística base YRFI:** 37.8% (14/37 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Ryne Nelson):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 23.4%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 20.0% (6/30 partidos)
+- **Estadística base YRFI:** 22.6% (7/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Max Meyer):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador local (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 13.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-09 16:25:24
+- **Generado el:** 2026-06-10 16:54:05
 - **Fuente de datos:** season_data.json

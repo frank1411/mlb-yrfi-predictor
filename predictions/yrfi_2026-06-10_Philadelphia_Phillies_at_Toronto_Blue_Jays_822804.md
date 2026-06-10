@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Toronto Blue Jays
 
-**Fecha:** 2026-06-09  
-**Lanzadores:** Zack Wheeler (V) vs Dylan Cease (L)
+**Fecha:** 2026-06-10  
+**Lanzadores:** Jesús Luzardo (V) vs Max Scherzer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.6%
+**Probabilidad de que anoten en la primera entrada:** 44.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 26.5% (9/34 partidos)
+- **Estadística base YRFI:** 25.7% (9/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Zack Wheeler):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 29.9%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.5%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.7% (8/30 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 16.8%
+- **Estadística base YRFI:** 29.0% (9/31 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Max Scherzer):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 34.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-09 16:25:24
+- **Generado el:** 2026-06-10 16:54:05
 - **Fuente de datos:** season_data.json

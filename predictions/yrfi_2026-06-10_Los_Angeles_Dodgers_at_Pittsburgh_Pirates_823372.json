@@ -1,0 +1,67 @@
+{
+  "game_pk": 823372,
+  "game_date": "2026-06-10",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Jared Jones",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 41.17647058823529,
+        "ratio": "14/34"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 29.7,
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "9/33"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.17647058823529,
+        "tendency": 46.666666666666664,
+        "combined": 43.37,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.36
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 33.33333333333333,
+        "combined": 29.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.79
+      },
+      "game_yrfi_probability": 44.84
+    },
+    "yrfi_probability": 44.84
+  },
+  "metadata": {
+    "generated_at": "2026-06-10T16:54:05.946148",
+    "data_source": "season_data.json"
+  }
+}

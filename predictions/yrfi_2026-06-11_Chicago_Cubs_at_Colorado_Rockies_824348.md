@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Colorado Rockies
 
-**Fecha:** 2026-06-10  
-**Lanzadores:** Colin Rea (V) vs Tomoyuki Sugano (L)
+**Fecha:** 2026-06-11  
+**Lanzadores:** Shota Imanaga (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.6%
+**Probabilidad de que anoten en la primera entrada:** 61.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 45.2% (14/31 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Estadística base YRFI:** 46.9% (15/32 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 49.0%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 19.4% (6/31 partidos)
+- **Estadística base YRFI:** 18.8% (6/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 28.7%
+- **Impacto del lanzador local (Colorado Rockies - Michael Lorenzen):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 23.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-09 16:25:24
+- **Generado el:** 2026-06-10 16:54:05
 - **Fuente de datos:** season_data.json

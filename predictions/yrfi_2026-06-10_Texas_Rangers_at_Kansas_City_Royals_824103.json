@@ -1,0 +1,67 @@
+{
+  "game_pk": 824103,
+  "game_date": "2026-06-10",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.21212121212121,
+        "ratio": "7/33"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 33.14,
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "10/35"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.21212121212121,
+        "tendency": 33.33333333333333,
+        "combined": 26.06,
+        "pitcher_impact": 25.0,
+        "adjusted": 25.74
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 40.0,
+        "combined": 33.14,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.7
+      },
+      "game_yrfi_probability": 48.54
+    },
+    "yrfi_probability": 48.54
+  },
+  "metadata": {
+    "generated_at": "2026-06-10T16:54:05.963754",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Tampa Bay Rays
 
-**Fecha:** 2026-06-09  
-**Lanzadores:** Payton Tolle (V) vs Nick Martinez (L)
+**Fecha:** 2026-06-10  
+**Lanzadores:** Jake Bennett (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.6%
+**Probabilidad de que anoten en la primera entrada:** 41.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 45.2% (14/31 partidos)
+- **Estadística base YRFI:** 43.8% (14/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 32.0%
+- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 31.4%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 18.2% (6/33 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Nick Martinez):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.0%
+- **Estadística base YRFI:** 17.6% (6/34 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 14.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-09 16:25:24
+- **Generado el:** 2026-06-10 16:54:05
 - **Fuente de datos:** season_data.json

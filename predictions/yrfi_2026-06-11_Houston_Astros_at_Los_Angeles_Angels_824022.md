@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Los Angeles Angels
 
-**Fecha:** 2026-06-10  
-**Lanzadores:** Kai-Wei Teng (V) vs Walbert Ureña (L)
+**Fecha:** 2026-06-11  
+**Lanzadores:** Peter Lambert (V) vs Reid Detmers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.9%
+**Probabilidad de que anoten en la primera entrada:** 46.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 40.6% (13/32 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Kai-Wei Teng):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 52.7%
+- **Estadística base YRFI:** 42.4% (14/33 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Peter Lambert):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 25.3%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 29.4% (10/34 partidos)
+- **Estadística base YRFI:** 28.6% (10/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Walbert Ureña):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-09 16:25:24
+- **Generado el:** 2026-06-10 16:54:05
 - **Fuente de datos:** season_data.json

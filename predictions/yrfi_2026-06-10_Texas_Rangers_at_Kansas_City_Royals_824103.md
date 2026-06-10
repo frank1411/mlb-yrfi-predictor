@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Kansas City Royals
 
-**Fecha:** 2026-06-09  
-**Lanzadores:** Nathan Eovaldi (V) vs Stephen Kolek (L)
+**Fecha:** 2026-06-10  
+**Lanzadores:** MacKenzie Gore (V) vs Seth Lugo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.6%
+**Probabilidad de que anoten en la primera entrada:** 48.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 21.9% (7/32 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.4%
+- **Estadística base YRFI:** 21.2% (7/33 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - MacKenzie Gore):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 25.7%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 29.4% (10/34 partidos)
+- **Estadística base YRFI:** 28.6% (10/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Stephen Kolek):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 30.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-09 16:25:24
+- **Generado el:** 2026-06-10 16:54:05
 - **Fuente de datos:** season_data.json

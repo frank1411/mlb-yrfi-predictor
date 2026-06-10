@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ San Diego Padres
+# Análisis YRFI: New York Yankees @ Cleveland Guardians
 
 **Fecha:** 2026-06-10  
-**Lanzadores:** Chase Burns (V) vs Lucas Giolito (L)
+**Lanzadores:** Carlos Rodón (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 27.1%
+**Probabilidad de que anoten en la primera entrada:** 35.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 19.4% (7/36 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 10.0%
-
-### Cincinnati Reds (Visitante)
+### Cleveland Guardians (Local)
 - **Estadística base YRFI:** 27.3% (9/33 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.1%
+
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 34.3% (12/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Lucas Giolito):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.9%
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-09 16:25:24
+- **Generado el:** 2026-06-10 16:54:05
 - **Fuente de datos:** season_data.json
