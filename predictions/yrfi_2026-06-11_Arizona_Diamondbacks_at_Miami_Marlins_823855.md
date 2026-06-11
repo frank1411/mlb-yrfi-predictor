@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Miami Marlins
 
-**Fecha:** 2026-06-10  
-**Lanzadores:** Ryne Nelson (V) vs Ryan Gusto (L)
+**Fecha:** 2026-06-11  
+**Lanzadores:** Merrill Kelly (V) vs Tyler Phillips (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.5%
+**Probabilidad de que anoten en la primera entrada:** 32.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 37.8% (14/37 partidos)
+- **Estadística base YRFI:** 36.8% (14/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Ryne Nelson):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 22.6% (7/31 partidos)
+- **Estadística base YRFI:** 21.9% (7/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 13.2%
+- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 12.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-10 16:54:05
+- **Generado el:** 2026-06-11 17:32:08
 - **Fuente de datos:** season_data.json

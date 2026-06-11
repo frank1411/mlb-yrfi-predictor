@@ -1,33 +1,33 @@
 {
-  "game_pk": 823287,
-  "game_date": "2026-06-10",
+  "game_pk": 824827,
+  "game_date": "2026-06-11",
   "home_team": {
-    "id": "135",
-    "name": "San Diego Padres",
+    "id": "110",
+    "name": "Baltimore Orioles",
     "pitcher": {
-      "name": "Michael King",
+      "name": "Kyle Bradish",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 18.91891891891892,
-        "ratio": "7/37"
+        "value": 16.216216216216218,
+        "ratio": "6/37"
       },
       "tendency": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "away_team": {
-    "id": "113",
-    "name": "Cincinnati Reds",
+    "id": "136",
+    "name": "Seattle Mariners",
     "combined_yrfi_pct": 26.55,
     "pitcher": {
-      "name": "Brady Singer",
-      "yrfi_allowed": 75.0,
-      "yrfi_ratio": "3/4"
+      "name": "Bryan Woo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
     },
     "stats": {
       "base": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 18.91891891891892,
-        "tendency": 6.666666666666667,
-        "combined": 14.02,
-        "pitcher_impact": 75.0,
-        "adjusted": 32.31
+        "base": 16.216216216216218,
+        "tendency": 26.666666666666668,
+        "combined": 20.4,
+        "pitcher_impact": 25.0,
+        "adjusted": 21.78
       },
       "away_team": {
         "base": 26.47058823529412,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 18.58
       },
-      "game_yrfi_probability": 44.89
+      "game_yrfi_probability": 36.31
     },
-    "yrfi_probability": 44.89
+    "yrfi_probability": 36.31
   },
   "metadata": {
-    "generated_at": "2026-06-10T16:54:05.938259",
+    "generated_at": "2026-06-11T17:32:08.798205",
     "data_source": "season_data.json"
   }
 }

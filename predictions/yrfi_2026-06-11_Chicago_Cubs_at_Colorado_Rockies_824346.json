@@ -1,0 +1,67 @@
+{
+  "game_pk": 824346,
+  "game_date": "2026-06-11",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Ryan Feltner",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 45.45454545454545,
+        "ratio": "15/33"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 18.91,
+    "pitcher": {
+      "name": "Edward Cabrera",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 18.181818181818183,
+        "ratio": "6/33"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 45.45454545454545,
+        "tendency": 33.33333333333333,
+        "combined": 40.61,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.42
+      },
+      "away_team": {
+        "base": 18.181818181818183,
+        "tendency": 20.0,
+        "combined": 18.91,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 33.24
+      },
+      "game_yrfi_probability": 52.21
+    },
+    "yrfi_probability": 52.21
+  },
+  "metadata": {
+    "generated_at": "2026-06-11T17:32:08.791116",
+    "data_source": "season_data.json"
+  }
+}

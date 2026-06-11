@@ -1,0 +1,67 @@
+{
+  "game_pk": 823371,
+  "game_date": "2026-06-11",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "14/35"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 29.22,
+    "pitcher": {
+      "name": "Justin Wrobleski",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.47058823529412,
+        "ratio": "9/34"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 40.0,
+        "combined": 40.0,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 48.0
+      },
+      "away_team": {
+        "base": 26.47058823529412,
+        "tendency": 33.33333333333333,
+        "combined": 29.22,
+        "pitcher_impact": 20.0,
+        "adjusted": 26.45
+      },
+      "game_yrfi_probability": 61.75
+    },
+    "yrfi_probability": 61.75
+  },
+  "metadata": {
+    "generated_at": "2026-06-11T17:32:08.794662",
+    "data_source": "season_data.json"
+  }
+}

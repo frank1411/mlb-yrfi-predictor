@@ -1,33 +1,33 @@
 {
-  "game_pk": 824831,
-  "game_date": "2026-06-10",
+  "game_pk": 824265,
+  "game_date": "2026-06-11",
   "home_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
+    "id": "116",
+    "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Brandon Young",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Keider Montero",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
     },
     "stats": {
       "base": {
-        "value": 16.666666666666664,
-        "ratio": "6/36"
+        "value": 27.27272727272727,
+        "ratio": "9/33"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "away_team": {
-    "id": "136",
-    "name": "Seattle Mariners",
+    "id": "142",
+    "name": "Minnesota Twins",
     "combined_yrfi_pct": 29.7,
     "pitcher": {
-      "name": "George Kirby",
+      "name": "Zebby Matthews",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 16.666666666666664,
-        "tendency": 26.666666666666668,
-        "combined": 20.67,
+        "base": 27.27272727272727,
+        "tendency": 40.0,
+        "combined": 32.36,
         "pitcher_impact": 0.0,
-        "adjusted": 14.47
+        "adjusted": 22.65
       },
       "away_team": {
         "base": 27.27272727272727,
         "tendency": 33.33333333333333,
         "combined": 29.7,
-        "pitcher_impact": 50.0,
-        "adjusted": 35.79
+        "pitcher_impact": 0.0,
+        "adjusted": 20.79
       },
-      "game_yrfi_probability": 45.08
+      "game_yrfi_probability": 38.73
     },
-    "yrfi_probability": 45.08
+    "yrfi_probability": 38.73
   },
   "metadata": {
-    "generated_at": "2026-06-10T16:54:05.942656",
+    "generated_at": "2026-06-11T17:32:08.780097",
     "data_source": "season_data.json"
   }
 }
