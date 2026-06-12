@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Pittsburgh Pirates
+# Análisis YRFI: Miami Marlins @ Pittsburgh Pirates
 
-**Fecha:** 2026-06-11  
-**Lanzadores:** Justin Wrobleski (V) vs Mitch Keller (L)
+**Fecha:** 2026-06-12  
+**Lanzadores:** Sandy Alcantara (V) vs Braxton Ashcraft (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.8%
+**Probabilidad de que anoten en la primera entrada:** 51.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 40.0% (14/35 partidos)
+- **Estadística base YRFI:** 38.9% (14/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Justin Wrobleski):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 48.0%
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 37.5%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 26.5% (9/34 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 30.0% (9/30 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-11 17:32:08
+- **Generado el:** 2026-06-12 16:38:24
 - **Fuente de datos:** season_data.json

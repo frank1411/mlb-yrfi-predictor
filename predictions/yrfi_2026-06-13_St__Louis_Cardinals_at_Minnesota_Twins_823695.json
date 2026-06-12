@@ -1,0 +1,67 @@
+{
+  "game_pk": 823695,
+  "game_date": "2026-06-13",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "12/36"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 31.48,
+    "pitcher": {
+      "name": "Kyle Leahy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.806451612903224,
+        "ratio": "8/31"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 33.33333333333333,
+        "combined": 33.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.33
+      },
+      "away_team": {
+        "base": 25.806451612903224,
+        "tendency": 40.0,
+        "combined": 31.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.04
+      },
+      "game_yrfi_probability": 40.23
+    },
+    "yrfi_probability": 40.23
+  },
+  "metadata": {
+    "generated_at": "2026-06-12T16:38:24.120129",
+    "data_source": "season_data.json"
+  }
+}

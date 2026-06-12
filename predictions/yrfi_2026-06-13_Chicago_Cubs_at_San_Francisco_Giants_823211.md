@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Colorado Rockies
+# Análisis YRFI: Chicago Cubs @ San Francisco Giants
 
-**Fecha:** 2026-06-11  
-**Lanzadores:** Edward Cabrera (V) vs Ryan Feltner (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Javier Assad (V) vs Landen Roupp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.2%
+**Probabilidad de que anoten en la primera entrada:** 42.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 45.5% (15/33 partidos)
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 22.6% (7/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Edward Cabrera):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Impacto del lanzador visitante (Chicago Cubs - Javier Assad):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 33.8%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 18.2% (6/33 partidos)
+- **Estadística base YRFI:** 17.6% (6/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 33.2%
+- **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 13.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-11 17:32:08
+- **Generado el:** 2026-06-12 16:38:24
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ Miami Marlins
+# Análisis YRFI: Arizona Diamondbacks @ Cincinnati Reds
 
-**Fecha:** 2026-06-11  
-**Lanzadores:** Merrill Kelly (V) vs Tyler Phillips (L)
+**Fecha:** 2026-06-12  
+**Lanzadores:** Eduardo Rodriguez (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.9%
+**Probabilidad de que anoten en la primera entrada:** 41.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 36.8% (14/38 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 25.0% (8/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.0%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 21.9% (7/32 partidos)
+- **Estadística base YRFI:** 21.2% (7/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 12.9%
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 12.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-11 17:32:08
+- **Generado el:** 2026-06-12 16:38:24
 - **Fuente de datos:** season_data.json

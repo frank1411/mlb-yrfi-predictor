@@ -1,13 +1,13 @@
 {
-  "game_pk": 824589,
-  "game_date": "2026-06-11",
+  "game_pk": 824588,
+  "game_date": "2026-06-12",
   "home_team": {
     "id": "145",
     "name": "Chicago White Sox",
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Anthony Kay",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "144",
-    "name": "Atlanta Braves",
-    "combined_yrfi_pct": 37.33,
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 28.76,
     "pitcher": {
-      "name": "Martín Pérez",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 40.0,
-        "ratio": "14/35"
+        "value": 25.71428571428571,
+        "ratio": "9/35"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -46,22 +46,22 @@
         "base": 29.411764705882355,
         "tendency": 33.33333333333333,
         "combined": 30.98,
-        "pitcher_impact": 50.0,
-        "adjusted": 36.69
+        "pitcher_impact": 0.0,
+        "adjusted": 21.69
       },
       "away_team": {
-        "base": 40.0,
+        "base": 25.71428571428571,
         "tendency": 33.33333333333333,
-        "combined": 37.33,
-        "pitcher_impact": 50.0,
-        "adjusted": 41.13
+        "combined": 28.76,
+        "pitcher_impact": 100.0,
+        "adjusted": 50.13
       },
-      "game_yrfi_probability": 62.73
+      "game_yrfi_probability": 60.95
     },
-    "yrfi_probability": 62.73
+    "yrfi_probability": 60.95
   },
   "metadata": {
-    "generated_at": "2026-06-11T17:32:08.800939",
+    "generated_at": "2026-06-12T16:38:24.110069",
     "data_source": "season_data.json"
   }
 }

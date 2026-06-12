@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Chicago White Sox
+# Análisis YRFI: Atlanta Braves @ New York Mets
 
-**Fecha:** 2026-06-11  
-**Lanzadores:** Martín Pérez (V) vs Por anunciar (L)
+**Fecha:** 2026-06-12  
+**Lanzadores:** Spencer Strider (V) vs Nolan McLean (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.7%
+**Probabilidad de que anoten en la primera entrada:** 70.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 29.4% (10/34 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.7%
+### New York Mets (Local)
+- **Estadística base YRFI:** 33.3% (11/33 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 55.2%
 
 ### Atlanta Braves (Visitante)
 - **Estadística base YRFI:** 40.0% (14/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 41.1%
+- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-11 17:32:08
+- **Generado el:** 2026-06-12 16:38:24
 - **Fuente de datos:** season_data.json

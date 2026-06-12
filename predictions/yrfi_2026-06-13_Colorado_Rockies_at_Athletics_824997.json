@@ -1,0 +1,67 @@
+{
+  "game_pk": 824997,
+  "game_date": "2026-06-13",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Gage Jump",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.25806451612903,
+        "ratio": "10/31"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 25.33,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "7/35"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.25806451612903,
+        "tendency": 40.0,
+        "combined": 35.35,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.75
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 33.33333333333333,
+        "combined": 25.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.73
+      },
+      "game_yrfi_probability": 50.43
+    },
+    "yrfi_probability": 50.43
+  },
+  "metadata": {
+    "generated_at": "2026-06-12T16:38:24.126334",
+    "data_source": "season_data.json"
+  }
+}
