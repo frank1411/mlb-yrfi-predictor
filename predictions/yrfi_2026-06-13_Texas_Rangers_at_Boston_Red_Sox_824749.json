@@ -1,0 +1,67 @@
+{
+  "game_pk": 824749,
+  "game_date": "2026-06-13",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Ranger Suarez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.875,
+        "ratio": "7/32"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 37.61,
+    "pitcher": {
+      "name": "Jacob deGrom",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "12/38"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.875,
+        "tendency": 33.33333333333333,
+        "combined": 26.46,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 28.52
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 46.666666666666664,
+        "combined": 37.61,
+        "pitcher_impact": 25.0,
+        "adjusted": 33.83
+      },
+      "game_yrfi_probability": 52.7
+    },
+    "yrfi_probability": 52.7
+  },
+  "metadata": {
+    "generated_at": "2026-06-13T15:25:39.975250",
+    "data_source": "season_data.json"
+  }
+}

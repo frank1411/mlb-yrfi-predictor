@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Chicago White Sox
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Roki Sasaki (V) vs Anthony Kay (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Yoshinobu Yamamoto (V) vs Sean Burke (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.0%
+**Probabilidad de que anoten en la primera entrada:** 52.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 29.4% (10/34 partidos)
+- **Estadística base YRFI:** 31.4% (11/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 42.5%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 25.7% (9/35 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Anthony Kay):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 50.1%
+- **Estadística base YRFI:** 25.0% (9/36 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

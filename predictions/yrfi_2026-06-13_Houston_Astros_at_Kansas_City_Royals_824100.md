@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Pittsburgh Pirates
+# Análisis YRFI: Houston Astros @ Kansas City Royals
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Sandy Alcantara (V) vs Braxton Ashcraft (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Mike Burrows (V) vs Noah Cameron (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.2%
+**Probabilidad de que anoten en la primera entrada:** 45.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 38.9% (14/36 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 22.2% (8/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 37.5%
+- **Impacto del lanzador visitante (Houston Astros - Mike Burrows):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.5%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 30.0% (9/30 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 29.7% (11/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 21.9%
+- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

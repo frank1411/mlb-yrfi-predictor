@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Cleveland Guardians
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Jack Flaherty (V) vs Tanner Bibee (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Tarik Skubal (V) vs Joey Cantillo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.6%
+**Probabilidad de que anoten en la primera entrada:** 50.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 29.4% (10/34 partidos)
+- **Estadística base YRFI:** 28.6% (10/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.3%
+- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 31.5%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 37.1% (13/35 partidos)
+- **Estadística base YRFI:** 36.1% (13/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 36.2%
+- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

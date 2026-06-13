@@ -1,0 +1,67 @@
+{
+  "game_pk": 824587,
+  "game_date": "2026-06-13",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 31.428571428571427,
+        "ratio": "11/35"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 25.67,
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "9/36"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.428571428571427,
+        "tendency": 33.33333333333333,
+        "combined": 32.19,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 42.53
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.97
+      },
+      "game_yrfi_probability": 52.86
+    },
+    "yrfi_probability": 52.86
+  },
+  "metadata": {
+    "generated_at": "2026-06-13T15:25:39.981503",
+    "data_source": "season_data.json"
+  }
+}

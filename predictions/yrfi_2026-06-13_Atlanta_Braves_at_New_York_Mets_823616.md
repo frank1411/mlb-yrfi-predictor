@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Milwaukee Brewers
+# Análisis YRFI: Atlanta Braves @ New York Mets
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Andrew Painter (V) vs Jacob Misiorowski (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Martín Pérez (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.6%
+**Probabilidad de que anoten en la primera entrada:** 66.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 32.4% (11/34 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 35.3% (12/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Andrew Painter):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 26.6%
+- **Impacto del lanzador visitante (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 42.9%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 31.2% (10/32 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 38.9% (14/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.0%
+- **Impacto del lanzador local (New York Mets - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 40.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

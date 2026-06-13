@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Toronto Blue Jays
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Ryan Weathers (V) vs Por anunciar (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Cam Schlittler (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.0%
+**Probabilidad de que anoten en la primera entrada:** 39.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 25.0% (9/36 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Ryan Weathers):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 29.2%
+- **Estadística base YRFI:** 27.0% (10/37 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 33.3% (12/36 partidos)
+- **Estadística base YRFI:** 32.4% (12/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 36.5%
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 21.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

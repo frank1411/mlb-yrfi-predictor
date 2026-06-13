@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Boston Red Sox
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Jack Leiter (V) vs Sonny Gray (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Jacob deGrom (V) vs Ranger Suarez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.3%
+**Probabilidad de que anoten en la primera entrada:** 52.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 19.4% (6/31 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jack Leiter):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 30.6%
+- **Estadística base YRFI:** 21.9% (7/32 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.5%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 29.7% (11/37 partidos)
+- **Estadística base YRFI:** 31.6% (12/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Sonny Gray):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador local (Boston Red Sox - Ranger Suarez):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 33.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

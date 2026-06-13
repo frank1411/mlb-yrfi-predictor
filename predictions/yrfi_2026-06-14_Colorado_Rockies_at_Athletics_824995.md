@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ New York Mets
+# Análisis YRFI: Colorado Rockies @ Athletics
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Spencer Strider (V) vs Nolan McLean (L)
+**Fecha:** 2026-06-14  
+**Lanzadores:** Kyle Freeland (V) vs Joey Estes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 70.3%
+**Probabilidad de que anoten en la primera entrada:** 50.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 33.3% (11/33 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 31.2% (10/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Spencer Strider):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 55.2%
+- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 39.3%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 40.0% (14/35 partidos)
+### Colorado Rockies (Visitante)
+- **Estadística base YRFI:** 19.4% (7/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 33.6%
+- **Impacto del lanzador local (Athletics - Joey Estes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

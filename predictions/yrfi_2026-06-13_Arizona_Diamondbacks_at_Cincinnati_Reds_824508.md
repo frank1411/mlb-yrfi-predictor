@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Cincinnati Reds
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Eduardo Rodriguez (V) vs Nick Lodolo (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Michael Soroka (V) vs Rhett Lowder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.4%
+**Probabilidad de que anoten en la primera entrada:** 59.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 25.0% (8/32 partidos)
+- **Estadística base YRFI:** 24.2% (8/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Michael Soroka):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 47.6%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 21.2% (7/33 partidos)
+- **Estadística base YRFI:** 20.6% (7/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 12.6%
+- **Impacto del lanzador local (Cincinnati Reds - Rhett Lowder):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

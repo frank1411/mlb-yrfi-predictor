@@ -1,18 +1,18 @@
 {
-  "game_pk": 824997,
-  "game_date": "2026-06-13",
+  "game_pk": 824995,
+  "game_date": "2026-06-14",
   "home_team": {
     "id": "133",
     "name": "Athletics",
     "pitcher": {
-      "name": "Gage Jump",
+      "name": "Joey Estes",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.25806451612903,
-        "ratio": "10/31"
+        "value": 31.25,
+        "ratio": "10/32"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "115",
     "name": "Colorado Rockies",
-    "combined_yrfi_pct": 25.33,
+    "combined_yrfi_pct": 25.0,
     "pitcher": {
-      "name": "Por anunciar",
+      "name": "Kyle Freeland",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 20.0,
-        "ratio": "7/35"
+        "value": 19.444444444444446,
+        "ratio": "7/36"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.25806451612903,
+        "base": 31.25,
         "tendency": 40.0,
-        "combined": 35.35,
+        "combined": 34.75,
         "pitcher_impact": 50.0,
-        "adjusted": 39.75
+        "adjusted": 39.33
       },
       "away_team": {
-        "base": 20.0,
+        "base": 19.444444444444446,
         "tendency": 33.33333333333333,
-        "combined": 25.33,
+        "combined": 25.0,
         "pitcher_impact": 0.0,
-        "adjusted": 17.73
+        "adjusted": 17.5
       },
-      "game_yrfi_probability": 50.43
+      "game_yrfi_probability": 49.95
     },
-    "yrfi_probability": 50.43
+    "yrfi_probability": 49.95
   },
   "metadata": {
-    "generated_at": "2026-06-12T16:38:24.126334",
+    "generated_at": "2026-06-13T15:25:39.992416",
     "data_source": "season_data.json"
   }
 }

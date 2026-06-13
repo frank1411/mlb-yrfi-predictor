@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Baltimore Orioles
 
-**Fecha:** 2026-06-12  
-**Lanzadores:** Griffin Canning (V) vs Shane Baz (L)
+**Fecha:** 2026-06-13  
+**Lanzadores:** Randy Vásquez (V) vs Trey Gibson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 22.3%
+**Probabilidad de que anoten en la primera entrada:** 34.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 15.8% (6/38 partidos)
+- **Estadística base YRFI:** 17.9% (7/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Griffin Canning):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.1%
+- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 25.0%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 13.8% (4/29 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 9.5%
+- **Estadística base YRFI:** 16.7% (5/30 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Trey Gibson):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 12.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-12 16:38:24
+- **Generado el:** 2026-06-13 15:25:39
 - **Fuente de datos:** season_data.json

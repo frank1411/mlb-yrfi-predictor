@@ -1,0 +1,67 @@
+{
+  "game_pk": 823369,
+  "game_date": "2026-06-13",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 37.83783783783784,
+        "ratio": "14/37"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 28.09,
+    "pitcher": {
+      "name": "Lake Bachar",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.03225806451613,
+        "ratio": "9/31"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.83783783783784,
+        "tendency": 33.33333333333333,
+        "combined": 36.04,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.23
+      },
+      "away_team": {
+        "base": 29.03225806451613,
+        "tendency": 26.666666666666668,
+        "combined": 28.09,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.66
+      },
+      "game_yrfi_probability": 39.93
+    },
+    "yrfi_probability": 39.93
+  },
+  "metadata": {
+    "generated_at": "2026-06-13T15:25:39.963599",
+    "data_source": "season_data.json"
+  }
+}
