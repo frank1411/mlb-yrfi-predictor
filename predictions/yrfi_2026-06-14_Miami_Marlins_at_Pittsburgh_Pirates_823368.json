@@ -1,0 +1,67 @@
+{
+  "game_pk": 823368,
+  "game_date": "2026-06-14",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Paul Skenes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 39.473684210526315,
+        "ratio": "15/38"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 27.54,
+    "pitcher": {
+      "name": "Max Meyer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.125,
+        "ratio": "9/32"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.473684210526315,
+        "tendency": 40.0,
+        "combined": 39.68,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.78
+      },
+      "away_team": {
+        "base": 28.125,
+        "tendency": 26.666666666666668,
+        "combined": 27.54,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.28
+      },
+      "game_yrfi_probability": 52.54
+    },
+    "yrfi_probability": 52.54
+  },
+  "metadata": {
+    "generated_at": "2026-06-14T15:42:09.500524",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ New York Mets
 
-**Fecha:** 2026-06-13  
-**Lanzadores:** Martín Pérez (V) vs Por anunciar (L)
+**Fecha:** 2026-06-14  
+**Lanzadores:** Bryce Elder (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.1%
+**Probabilidad de que anoten en la primera entrada:** 60.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 35.3% (12/34 partidos)
+- **Estadística base YRFI:** 34.3% (12/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 42.9%
+- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 42.5%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 38.9% (14/36 partidos)
+- **Estadística base YRFI:** 37.8% (14/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Mets - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 40.7%
+- **Impacto del lanzador local (New York Mets - Freddy Peralta):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 31.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-13 15:25:39
+- **Generado el:** 2026-06-14 15:42:09
 - **Fuente de datos:** season_data.json

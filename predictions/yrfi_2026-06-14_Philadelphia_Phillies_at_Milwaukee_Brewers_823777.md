@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Milwaukee Brewers
 
-**Fecha:** 2026-06-13  
-**Lanzadores:** Aaron Nola (V) vs Shane Drohan (L)
+**Fecha:** 2026-06-14  
+**Lanzadores:** Cristopher Sánchez (V) vs Kyle Harrison (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.4%
+**Probabilidad de que anoten en la primera entrada:** 60.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 34.3% (12/35 partidos)
+- **Estadística base YRFI:** 33.3% (12/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 35.3%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 43.9%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 30.3% (10/33 partidos)
+- **Estadística base YRFI:** 29.4% (10/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Shane Drohan):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.2%
+- **Impacto del lanzador local (Milwaukee Brewers - Kyle Harrison):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-13 15:25:39
+- **Generado el:** 2026-06-14 15:42:09
 - **Fuente de datos:** season_data.json

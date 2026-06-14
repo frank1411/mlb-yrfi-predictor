@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Pittsburgh Pirates
+# Análisis YRFI: Seattle Mariners @ Washington Nationals
 
-**Fecha:** 2026-06-13  
-**Lanzadores:** Lake Bachar (V) vs Bubba Chandler (L)
+**Fecha:** 2026-06-14  
+**Lanzadores:** Emerson Hancock (V) vs PJ Poulin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.9%
+**Probabilidad de que anoten en la primera entrada:** 46.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 37.8% (14/37 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 35.3% (12/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Lake Bachar):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Impacto del lanzador visitante (Seattle Mariners - Emerson Hancock):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 34.2%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 29.0% (9/31 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 27.0% (10/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.7%
+- **Impacto del lanzador local (Washington Nationals - PJ Poulin):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-13 15:25:39
+- **Generado el:** 2026-06-14 15:42:09
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824506,
+  "game_date": "2026-06-14",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "8/34"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 21.71,
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.857142857142858,
+        "ratio": "8/35"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.52941176470588,
+        "tendency": 20.0,
+        "combined": 22.12,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.48
+      },
+      "away_team": {
+        "base": 22.857142857142858,
+        "tendency": 20.0,
+        "combined": 21.71,
+        "pitcher_impact": 60.0,
+        "adjusted": 33.2
+      },
+      "game_yrfi_probability": 53.56
+    },
+    "yrfi_probability": 53.56
+  },
+  "metadata": {
+    "generated_at": "2026-06-14T15:42:09.514917",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Chicago White Sox
+# Análisis YRFI: San Diego Padres @ Baltimore Orioles
 
-**Fecha:** 2026-06-13  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Sean Burke (L)
+**Fecha:** 2026-06-14  
+**Lanzadores:** Walker Buehler (V) vs Trevor Rogers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.9%
+**Probabilidad de que anoten en la primera entrada:** 30.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 31.4% (11/35 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 20.0% (8/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 42.5%
+- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.7%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 25.0% (9/36 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 19.4% (6/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 15.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-13 15:25:39
+- **Generado el:** 2026-06-14 15:42:09
 - **Fuente de datos:** season_data.json

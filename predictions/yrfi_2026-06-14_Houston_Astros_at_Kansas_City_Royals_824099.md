@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Kansas City Royals
 
-**Fecha:** 2026-06-13  
-**Lanzadores:** Mike Burrows (V) vs Noah Cameron (L)
+**Fecha:** 2026-06-14  
+**Lanzadores:** Spencer Arrighetti (V) vs Stephen Kolek (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.7%
+**Probabilidad de que anoten en la primera entrada:** 49.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 22.2% (8/36 partidos)
+- **Estadística base YRFI:** 21.6% (8/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Mike Burrows):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.5%
+- **Impacto del lanzador visitante (Houston Astros - Spencer Arrighetti):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 29.7% (11/37 partidos)
+- **Estadística base YRFI:** 28.9% (11/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.8%
+- **Impacto del lanzador local (Kansas City Royals - Stephen Kolek):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-13 15:25:39
+- **Generado el:** 2026-06-14 15:42:09
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824994,
+  "game_date": "2026-06-14",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "11/33"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 24.68,
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 18.91891891891892,
+        "ratio": "7/37"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 46.666666666666664,
+        "combined": 38.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.07
+      },
+      "away_team": {
+        "base": 18.91891891891892,
+        "tendency": 33.33333333333333,
+        "combined": 24.68,
+        "pitcher_impact": 75.0,
+        "adjusted": 39.78
+      },
+      "game_yrfi_probability": 56.08
+    },
+    "yrfi_probability": 56.08
+  },
+  "metadata": {
+    "generated_at": "2026-06-14T15:42:09.539064",
+    "data_source": "season_data.json"
+  }
+}

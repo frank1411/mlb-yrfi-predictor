@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Athletics
 
 **Fecha:** 2026-06-14  
-**Lanzadores:** Kyle Freeland (V) vs Joey Estes (L)
+**Lanzadores:** Tomoyuki Sugano (V) vs Jeffrey Springs (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.0%
+**Probabilidad de que anoten en la primera entrada:** 56.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 31.2% (10/32 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 39.3%
+- **Estadística base YRFI:** 33.3% (11/33 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 19.4% (7/36 partidos)
+- **Estadística base YRFI:** 18.9% (7/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Joey Estes):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.5%
+- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 39.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-13 15:25:39
+- **Generado el:** 2026-06-14 15:42:09
 - **Fuente de datos:** season_data.json

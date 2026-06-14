@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Minnesota Twins
 
-**Fecha:** 2026-06-13  
-**Lanzadores:** Matthew Liberatore (V) vs Connor Prielipp (L)
+**Fecha:** 2026-06-14  
+**Lanzadores:** Michael McGreevy (V) vs Taj Bradley (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.2%
+**Probabilidad de que anoten en la primera entrada:** 44.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 35.1% (13/37 partidos)
+- **Estadística base YRFI:** 34.2% (13/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 39.1%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.7%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 28.1% (9/32 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Connor Prielipp):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Estadística base YRFI:** 30.3% (10/33 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-13 15:25:39
+- **Generado el:** 2026-06-14 15:42:09
 - **Fuente de datos:** season_data.json

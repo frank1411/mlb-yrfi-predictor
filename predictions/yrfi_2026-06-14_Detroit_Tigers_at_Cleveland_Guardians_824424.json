@@ -1,18 +1,18 @@
 {
-  "game_pk": 824426,
-  "game_date": "2026-06-13",
+  "game_pk": 824424,
+  "game_date": "2026-06-14",
   "home_team": {
     "id": "114",
     "name": "Cleveland Guardians",
     "pitcher": {
-      "name": "Joey Cantillo",
+      "name": "Gavin Williams",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 28.57142857142857,
-        "ratio": "10/35"
+        "value": 27.77777777777778,
+        "ratio": "10/36"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "116",
     "name": "Detroit Tigers",
-    "combined_yrfi_pct": 40.33,
+    "combined_yrfi_pct": 41.37,
     "pitcher": {
-      "name": "Tarik Skubal",
-      "yrfi_allowed": 40.0,
-      "yrfi_ratio": "2/5"
+      "name": "Casey Mize",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 36.11111111111111,
-        "ratio": "13/36"
+        "value": 37.83783783783784,
+        "ratio": "14/37"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.57142857142857,
+        "base": 27.77777777777778,
         "tendency": 26.666666666666668,
-        "combined": 27.81,
-        "pitcher_impact": 40.0,
-        "adjusted": 31.47
+        "combined": 27.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.13
       },
       "away_team": {
-        "base": 36.11111111111111,
+        "base": 37.83783783783784,
         "tendency": 46.666666666666664,
-        "combined": 40.33,
+        "combined": 41.37,
         "pitcher_impact": 0.0,
-        "adjusted": 28.23
+        "adjusted": 28.96
       },
-      "game_yrfi_probability": 50.82
+      "game_yrfi_probability": 42.55
     },
-    "yrfi_probability": 50.82
+    "yrfi_probability": 42.55
   },
   "metadata": {
-    "generated_at": "2026-06-13T15:25:39.971565",
+    "generated_at": "2026-06-14T15:42:09.518379",
     "data_source": "season_data.json"
   }
 }

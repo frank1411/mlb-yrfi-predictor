@@ -1,18 +1,18 @@
 {
-  "game_pk": 823369,
-  "game_date": "2026-06-13",
+  "game_pk": 824823,
+  "game_date": "2026-06-14",
   "home_team": {
-    "id": "134",
-    "name": "Pittsburgh Pirates",
+    "id": "110",
+    "name": "Baltimore Orioles",
     "pitcher": {
-      "name": "Bubba Chandler",
+      "name": "Trevor Rogers",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 37.83783783783784,
-        "ratio": "14/37"
+        "value": 20.0,
+        "ratio": "8/40"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "146",
-    "name": "Miami Marlins",
-    "combined_yrfi_pct": 28.09,
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 22.28,
     "pitcher": {
-      "name": "Lake Bachar",
+      "name": "Walker Buehler",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 29.03225806451613,
-        "ratio": "9/31"
+        "value": 19.35483870967742,
+        "ratio": "6/31"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 37.83783783783784,
+        "base": 20.0,
         "tendency": 33.33333333333333,
-        "combined": 36.04,
+        "combined": 25.33,
         "pitcher_impact": 0.0,
-        "adjusted": 25.23
+        "adjusted": 17.73
       },
       "away_team": {
-        "base": 29.03225806451613,
+        "base": 19.35483870967742,
         "tendency": 26.666666666666668,
-        "combined": 28.09,
+        "combined": 22.28,
         "pitcher_impact": 0.0,
-        "adjusted": 19.66
+        "adjusted": 15.6
       },
-      "game_yrfi_probability": 39.93
+      "game_yrfi_probability": 30.56
     },
-    "yrfi_probability": 39.93
+    "yrfi_probability": 30.56
   },
   "metadata": {
-    "generated_at": "2026-06-13T15:25:39.963599",
+    "generated_at": "2026-06-14T15:42:09.504001",
     "data_source": "season_data.json"
   }
 }
