@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ Cincinnati Reds
+# Análisis YRFI: Miami Marlins @ Philadelphia Phillies
 
-**Fecha:** 2026-06-14  
-**Lanzadores:** Zac Gallen (V) vs Andrew Abbott (L)
+**Fecha:** 2026-06-15  
+**Lanzadores:** Ryan Gusto (V) vs Zack Wheeler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.6%
+**Probabilidad de que anoten en la primera entrada:** 33.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 23.5% (8/34 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 33.3% (12/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Zac Gallen):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 30.5%
+- **Impacto del lanzador visitante (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.6%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 22.9% (8/35 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 27.3% (9/33 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 60.0% (3/5 partidos)
-- **Puntuación ajustada:** 33.2%
+- **Impacto del lanzador local (Philadelphia Phillies - Zack Wheeler):** 0.0% (1/2 partidos)
+- **Puntuación ajustada:** 17.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-14 15:42:09
+- **Generado el:** 2026-06-15 18:20:34
 - **Fuente de datos:** season_data.json

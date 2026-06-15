@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Milwaukee Brewers
+# Análisis YRFI: San Diego Padres @ St. Louis Cardinals
 
-**Fecha:** 2026-06-14  
-**Lanzadores:** Cristopher Sánchez (V) vs Kyle Harrison (L)
+**Fecha:** 2026-06-15  
+**Lanzadores:** Por anunciar (V) vs Dustin May (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.6%
+**Probabilidad de que anoten en la primera entrada:** 56.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 33.3% (12/36 partidos)
+### St. Louis Cardinals (Local)
+- **Estadística base YRFI:** 31.4% (11/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 43.9%
+- **Impacto del lanzador visitante (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 43.1%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 29.4% (10/34 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 18.8% (6/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Kyle Harrison):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.8%
+- **Impacto del lanzador local (St. Louis Cardinals - Dustin May):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 22.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-14 15:42:09
+- **Generado el:** 2026-06-15 18:20:34
 - **Fuente de datos:** season_data.json

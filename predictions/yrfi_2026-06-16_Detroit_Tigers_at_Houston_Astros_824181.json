@@ -1,18 +1,18 @@
 {
-  "game_pk": 824424,
-  "game_date": "2026-06-14",
+  "game_pk": 824181,
+  "game_date": "2026-06-16",
   "home_team": {
-    "id": "114",
-    "name": "Cleveland Guardians",
+    "id": "117",
+    "name": "Houston Astros",
     "pitcher": {
-      "name": "Gavin Williams",
+      "name": "Kai-Wei Teng",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 27.77777777777778,
-        "ratio": "10/36"
+        "value": 42.857142857142854,
+        "ratio": "15/35"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -25,9 +25,9 @@
     "name": "Detroit Tigers",
     "combined_yrfi_pct": 41.37,
     "pitcher": {
-      "name": "Casey Mize",
+      "name": "Troy Melton",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 27.77777777777778,
+        "base": 42.857142857142854,
         "tendency": 26.666666666666668,
-        "combined": 27.33,
+        "combined": 36.38,
         "pitcher_impact": 0.0,
-        "adjusted": 19.13
+        "adjusted": 25.47
       },
       "away_team": {
         "base": 37.83783783783784,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 28.96
       },
-      "game_yrfi_probability": 42.55
+      "game_yrfi_probability": 47.05
     },
-    "yrfi_probability": 42.55
+    "yrfi_probability": 47.05
   },
   "metadata": {
-    "generated_at": "2026-06-14T15:42:09.518379",
+    "generated_at": "2026-06-15T18:20:34.986685",
     "data_source": "season_data.json"
   }
 }

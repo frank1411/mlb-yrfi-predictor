@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Cleveland Guardians
+# Análisis YRFI: New York Mets @ Cincinnati Reds
 
-**Fecha:** 2026-06-14  
-**Lanzadores:** Casey Mize (V) vs Gavin Williams (L)
+**Fecha:** 2026-06-15  
+**Lanzadores:** Tobias Myers (V) vs Chase Burns (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.5%
+**Probabilidad de que anoten en la primera entrada:** 37.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 27.8% (10/36 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 25.7% (9/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador visitante (New York Mets - Tobias Myers):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.3%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 37.8% (14/37 partidos)
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 25.7% (9/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 29.0%
+- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 23.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-14 15:42:09
+- **Generado el:** 2026-06-15 18:20:34
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824666,
+  "game_date": "2026-06-16",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 17.142857142857142,
+        "ratio": "6/35"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 28.63,
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "8/38"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 17.142857142857142,
+        "tendency": 20.0,
+        "combined": 18.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.8
+      },
+      "away_team": {
+        "base": 21.052631578947366,
+        "tendency": 40.0,
+        "combined": 28.63,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.54
+      },
+      "game_yrfi_probability": 36.81
+    },
+    "yrfi_probability": 36.81
+  },
+  "metadata": {
+    "generated_at": "2026-06-15T18:20:34.980580",
+    "data_source": "season_data.json"
+  }
+}

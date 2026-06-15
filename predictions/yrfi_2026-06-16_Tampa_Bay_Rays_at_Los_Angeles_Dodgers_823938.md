@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Boston Red Sox
+# Análisis YRFI: Tampa Bay Rays @ Los Angeles Dodgers
 
-**Fecha:** 2026-06-14  
-**Lanzadores:** Nathan Eovaldi (V) vs Connelly Early (L)
+**Fecha:** 2026-06-16  
+**Lanzadores:** Nick Martinez (V) vs Eric Lauer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.8%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
-- **Estadística base YRFI:** 21.2% (7/33 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.3% (12/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 31.4%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.3%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 30.8% (12/39 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 25.7% (9/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Connelly Early):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.1%
+- **Impacto del lanzador local (Los Angeles Dodgers - Eric Lauer):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 32.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-14 15:42:09
+- **Generado el:** 2026-06-15 18:20:34
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822724,
+  "game_date": "2026-06-15",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Andrew Alvarez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 37.142857142857146,
+        "ratio": "13/35"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 38.08,
+    "pitcher": {
+      "name": "Mitch Spence",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.35294117647059,
+        "ratio": "11/34"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.142857142857146,
+        "tendency": 40.0,
+        "combined": 38.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.8
+      },
+      "away_team": {
+        "base": 32.35294117647059,
+        "tendency": 46.666666666666664,
+        "combined": 38.08,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.65
+      },
+      "game_yrfi_probability": 46.31
+    },
+    "yrfi_probability": 46.31
+  },
+  "metadata": {
+    "generated_at": "2026-06-15T18:20:34.970888",
+    "data_source": "season_data.json"
+  }
+}
