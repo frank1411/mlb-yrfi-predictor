@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Los Angeles Dodgers
 
-**Fecha:** 2026-06-16  
-**Lanzadores:** Nick Martinez (V) vs Eric Lauer (L)
+**Fecha:** 2026-06-17  
+**Lanzadores:** Drew Rasmussen (V) vs Justin Wrobleski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.2%
+**Probabilidad de que anoten en la primera entrada:** 45.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 35.3% (12/34 partidos)
+- **Estadística base YRFI:** 34.3% (12/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.4%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 25.7% (9/35 partidos)
+- **Estadística base YRFI:** 27.8% (10/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Eric Lauer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.0%
+- **Impacto del lanzador local (Los Angeles Dodgers - Justin Wrobleski):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-15 18:20:34
+- **Generado el:** 2026-06-16 18:24:31
 - **Fuente de datos:** season_data.json

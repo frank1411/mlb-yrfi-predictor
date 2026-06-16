@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Washington Nationals
 
-**Fecha:** 2026-06-15  
-**Lanzadores:** Mitch Spence (V) vs Andrew Alvarez (L)
+**Fecha:** 2026-06-16  
+**Lanzadores:** Michael Wacha (V) vs Foster Griffin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.3%
+**Probabilidad de que anoten en la primera entrada:** 51.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 37.1% (13/35 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Mitch Spence):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Estadística base YRFI:** 36.1% (13/36 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 32.4% (11/34 partidos)
+- **Estadística base YRFI:** 31.4% (11/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.6%
+- **Impacto del lanzador local (Washington Nationals - Foster Griffin):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 36.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-15 18:20:34
+- **Generado el:** 2026-06-16 18:24:31
 - **Fuente de datos:** season_data.json

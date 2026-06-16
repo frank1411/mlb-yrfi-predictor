@@ -1,0 +1,67 @@
+{
+  "game_pk": 824991,
+  "game_date": "2026-06-17",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jack Perkins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.285714285714285,
+        "ratio": "12/35"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 38.04,
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 41.17647058823529,
+        "ratio": "14/34"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.285714285714285,
+        "tendency": 46.666666666666664,
+        "combined": 39.24,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.47
+      },
+      "away_team": {
+        "base": 41.17647058823529,
+        "tendency": 33.33333333333333,
+        "combined": 38.04,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.63
+      },
+      "game_yrfi_probability": 46.78
+    },
+    "yrfi_probability": 46.78
+  },
+  "metadata": {
+    "generated_at": "2026-06-16T18:24:31.296039",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824182,
+  "game_date": "2026-06-17",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "15/36"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 45.02,
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 39.473684210526315,
+        "ratio": "15/38"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.66666666666667,
+        "tendency": 26.666666666666668,
+        "combined": 35.67,
+        "pitcher_impact": 40.0,
+        "adjusted": 36.97
+      },
+      "away_team": {
+        "base": 39.473684210526315,
+        "tendency": 53.333333333333336,
+        "combined": 45.02,
+        "pitcher_impact": 0.0,
+        "adjusted": 31.51
+      },
+      "game_yrfi_probability": 56.83
+    },
+    "yrfi_probability": 56.83
+  },
+  "metadata": {
+    "generated_at": "2026-06-16T18:24:31.289349",
+    "data_source": "season_data.json"
+  }
+}

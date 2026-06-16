@@ -1,18 +1,18 @@
 {
-  "game_pk": 824666,
-  "game_date": "2026-06-16",
+  "game_pk": 824667,
+  "game_date": "2026-06-17",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Shota Imanaga",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Edward Cabrera",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
     },
     "stats": {
       "base": {
-        "value": 17.142857142857142,
-        "ratio": "6/35"
+        "value": 19.444444444444446,
+        "ratio": "7/36"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "115",
     "name": "Colorado Rockies",
-    "combined_yrfi_pct": 28.63,
+    "combined_yrfi_pct": 28.31,
     "pitcher": {
-      "name": "Michael Lorenzen",
+      "name": "Ryan Feltner",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 21.052631578947366,
-        "ratio": "8/38"
+        "value": 20.51282051282051,
+        "ratio": "8/39"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 17.142857142857142,
+        "base": 19.444444444444446,
         "tendency": 20.0,
-        "combined": 18.29,
+        "combined": 19.67,
         "pitcher_impact": 0.0,
-        "adjusted": 12.8
+        "adjusted": 13.77
       },
       "away_team": {
-        "base": 21.052631578947366,
+        "base": 20.51282051282051,
         "tendency": 40.0,
-        "combined": 28.63,
-        "pitcher_impact": 25.0,
-        "adjusted": 27.54
+        "combined": 28.31,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.82
       },
-      "game_yrfi_probability": 36.81
+      "game_yrfi_probability": 30.86
     },
-    "yrfi_probability": 36.81
+    "yrfi_probability": 30.86
   },
   "metadata": {
-    "generated_at": "2026-06-15T18:20:34.980580",
+    "generated_at": "2026-06-16T18:24:31.282652",
     "data_source": "season_data.json"
   }
 }

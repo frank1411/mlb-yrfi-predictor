@@ -1,18 +1,18 @@
 {
-  "game_pk": 823452,
-  "game_date": "2026-06-15",
+  "game_pk": 823451,
+  "game_date": "2026-06-16",
   "home_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Zack Wheeler",
+      "name": "Jesús Luzardo",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/2"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "12/36"
+        "value": 32.432432432432435,
+        "ratio": "12/37"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "146",
     "name": "Miami Marlins",
-    "combined_yrfi_pct": 24.36,
+    "combined_yrfi_pct": 23.88,
     "pitcher": {
-      "name": "Ryan Gusto",
+      "name": "Tyler Phillips",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 27.27272727272727,
-        "ratio": "9/33"
+        "value": 26.47058823529412,
+        "ratio": "9/34"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.33333333333333,
+        "base": 32.432432432432435,
         "tendency": 20.0,
-        "combined": 28.0,
+        "combined": 27.46,
         "pitcher_impact": 0.0,
-        "adjusted": 19.6
+        "adjusted": 19.22
       },
       "away_team": {
-        "base": 27.27272727272727,
+        "base": 26.47058823529412,
         "tendency": 20.0,
-        "combined": 24.36,
+        "combined": 23.88,
         "pitcher_impact": 0.0,
-        "adjusted": 17.05
+        "adjusted": 16.72
       },
-      "game_yrfi_probability": 33.31
+      "game_yrfi_probability": 32.73
     },
-    "yrfi_probability": 33.31
+    "yrfi_probability": 32.73
   },
   "metadata": {
-    "generated_at": "2026-06-15T18:20:34.967190",
+    "generated_at": "2026-06-16T18:24:31.254931",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ St. Louis Cardinals
+# Análisis YRFI: Cleveland Guardians @ Milwaukee Brewers
 
-**Fecha:** 2026-06-15  
-**Lanzadores:** Por anunciar (V) vs Dustin May (L)
+**Fecha:** 2026-06-16  
+**Lanzadores:** Slade Cecconi (V) vs Robert Gasser (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.1%
+**Probabilidad de que anoten en la primera entrada:** 52.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 31.4% (11/35 partidos)
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 35.1% (13/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 43.1%
+- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 41.7%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 18.8% (6/32 partidos)
+### Cleveland Guardians (Visitante)
+- **Estadística base YRFI:** 25.0% (9/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Dustin May):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 22.8%
+- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-15 18:20:34
+- **Generado el:** 2026-06-16 18:24:31
 - **Fuente de datos:** season_data.json

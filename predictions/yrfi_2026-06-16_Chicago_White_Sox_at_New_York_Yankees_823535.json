@@ -1,0 +1,67 @@
+{
+  "game_pk": 823535,
+  "game_date": "2026-06-16",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Gerrit Cole",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 45.16129032258064,
+        "ratio": "14/31"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 32.75,
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 32.35294117647059,
+        "ratio": "11/34"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 45.16129032258064,
+        "tendency": 20.0,
+        "combined": 35.1,
+        "pitcher_impact": 20.0,
+        "adjusted": 30.57
+      },
+      "away_team": {
+        "base": 32.35294117647059,
+        "tendency": 33.33333333333333,
+        "combined": 32.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.92
+      },
+      "game_yrfi_probability": 46.48
+    },
+    "yrfi_probability": 46.48
+  },
+  "metadata": {
+    "generated_at": "2026-06-16T18:24:31.265482",
+    "data_source": "season_data.json"
+  }
+}

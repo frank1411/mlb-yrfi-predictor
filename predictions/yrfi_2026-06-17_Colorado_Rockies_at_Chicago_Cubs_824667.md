@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Chicago Cubs
 
-**Fecha:** 2026-06-16  
-**Lanzadores:** Michael Lorenzen (V) vs Shota Imanaga (L)
+**Fecha:** 2026-06-17  
+**Lanzadores:** Ryan Feltner (V) vs Edward Cabrera (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.8%
+**Probabilidad de que anoten en la primera entrada:** 30.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 17.1% (6/35 partidos)
+- **Estadística base YRFI:** 19.4% (7/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Michael Lorenzen):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 12.8%
+- **Impacto del lanzador visitante (Colorado Rockies - Ryan Feltner):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 13.8%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 21.1% (8/38 partidos)
+- **Estadística base YRFI:** 20.5% (8/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.5%
+- **Impacto del lanzador local (Chicago Cubs - Edward Cabrera):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-15 18:20:34
+- **Generado el:** 2026-06-16 18:24:31
 - **Fuente de datos:** season_data.json

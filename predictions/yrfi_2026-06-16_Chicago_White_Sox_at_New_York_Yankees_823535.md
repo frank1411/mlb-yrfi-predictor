@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Arizona Diamondbacks
+# Análisis YRFI: Chicago White Sox @ New York Yankees
 
 **Fecha:** 2026-06-16  
-**Lanzadores:** Walbert Ureña (V) vs Ryne Nelson (L)
+**Lanzadores:** Davis Martin (V) vs Gerrit Cole (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.1%
+**Probabilidad de que anoten en la primera entrada:** 46.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 34.3% (12/35 partidos)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 45.2% (14/31 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Walbert Ureña):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.0%
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 30.6%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 22.9% (8/35 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 32.4% (11/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Ryne Nelson):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 38.9%
+- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-15 18:20:34
+- **Generado el:** 2026-06-16 18:24:31
 - **Fuente de datos:** season_data.json

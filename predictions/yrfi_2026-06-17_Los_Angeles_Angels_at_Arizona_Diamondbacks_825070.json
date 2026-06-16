@@ -1,0 +1,67 @@
+{
+  "game_pk": 825070,
+  "game_date": "2026-06-17",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 36.11111111111111,
+        "ratio": "13/36"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 31.0,
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "9/36"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.11111111111111,
+        "tendency": 26.666666666666668,
+        "combined": 32.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.63
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.7
+      },
+      "game_yrfi_probability": 62.63
+    },
+    "yrfi_probability": 62.63
+  },
+  "metadata": {
+    "generated_at": "2026-06-16T18:24:31.292743",
+    "data_source": "season_data.json"
+  }
+}
