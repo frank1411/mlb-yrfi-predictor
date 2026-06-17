@@ -1,18 +1,18 @@
 {
-  "game_pk": 823535,
-  "game_date": "2026-06-16",
+  "game_pk": 823536,
+  "game_date": "2026-06-17",
   "home_team": {
     "id": "147",
     "name": "New York Yankees",
     "pitcher": {
-      "name": "Gerrit Cole",
+      "name": "Carlos Rodón",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 45.16129032258064,
-        "ratio": "14/31"
+        "value": 43.75,
+        "ratio": "14/32"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "145",
     "name": "Chicago White Sox",
-    "combined_yrfi_pct": 32.75,
+    "combined_yrfi_pct": 33.9,
     "pitcher": {
-      "name": "Davis Martin",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "name": "Anthony Kay",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
     },
     "stats": {
       "base": {
-        "value": 32.35294117647059,
-        "ratio": "11/34"
+        "value": 34.285714285714285,
+        "ratio": "12/35"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 45.16129032258064,
+        "base": 43.75,
         "tendency": 20.0,
-        "combined": 35.1,
-        "pitcher_impact": 20.0,
-        "adjusted": 30.57
+        "combined": 34.25,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.47
       },
       "away_team": {
-        "base": 32.35294117647059,
+        "base": 34.285714285714285,
         "tendency": 33.33333333333333,
-        "combined": 32.75,
+        "combined": 33.9,
         "pitcher_impact": 0.0,
-        "adjusted": 22.92
+        "adjusted": 23.73
       },
-      "game_yrfi_probability": 46.48
+      "game_yrfi_probability": 47.73
     },
-    "yrfi_probability": 46.48
+    "yrfi_probability": 47.73
   },
   "metadata": {
-    "generated_at": "2026-06-16T18:24:31.265482",
+    "generated_at": "2026-06-17T16:50:36.190764",
     "data_source": "season_data.json"
   }
 }

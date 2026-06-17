@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Athletics
 
-**Fecha:** 2026-06-17  
-**Lanzadores:** Mitch Keller (V) vs Jack Perkins (L)
+**Fecha:** 2026-06-18  
+**Lanzadores:** Braxton Ashcraft (V) vs Aaron Civale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.8%
+**Probabilidad de que anoten en la primera entrada:** 52.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 34.3% (12/35 partidos)
+- **Estadística base YRFI:** 36.1% (13/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 27.5%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 41.2% (14/34 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.6%
+- **Estadística base YRFI:** 40.0% (14/35 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Athletics - Aaron Civale):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 34.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-16 18:24:31
+- **Generado el:** 2026-06-17 16:50:36
 - **Fuente de datos:** season_data.json

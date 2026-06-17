@@ -1,0 +1,67 @@
+{
+  "game_pk": 823127,
+  "game_date": "2026-06-18",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "15/36"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 30.55,
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.242424242424242,
+        "ratio": "8/33"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.66666666666667,
+        "tendency": 26.666666666666668,
+        "combined": 35.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.97
+      },
+      "away_team": {
+        "base": 24.242424242424242,
+        "tendency": 40.0,
+        "combined": 30.55,
+        "pitcher_impact": 50.0,
+        "adjusted": 36.38
+      },
+      "game_yrfi_probability": 52.27
+    },
+    "yrfi_probability": 52.27
+  },
+  "metadata": {
+    "generated_at": "2026-06-17T16:50:36.207918",
+    "data_source": "season_data.json"
+  }
+}

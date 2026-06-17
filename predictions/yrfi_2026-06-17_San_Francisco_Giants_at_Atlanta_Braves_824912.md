@@ -1,6 +1,6 @@
 # Análisis YRFI: San Francisco Giants @ Atlanta Braves
 
-**Fecha:** 2026-06-16  
+**Fecha:** 2026-06-17  
 **Lanzadores:** Adrian Houser (V) vs Grant Holmes (L)
 
 ## 📊 Probabilidad YRFI del Partido
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-16 18:24:31
+- **Generado el:** 2026-06-17 16:50:36
 - **Fuente de datos:** season_data.json

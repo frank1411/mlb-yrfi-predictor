@@ -1,18 +1,18 @@
 {
-  "game_pk": 824750,
-  "game_date": "2026-06-16",
+  "game_pk": 824746,
+  "game_date": "2026-06-17",
   "home_team": {
     "id": "111",
     "name": "Boston Red Sox",
     "pitcher": {
-      "name": "Payton Tolle",
+      "name": "Jake Bennett",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 20.588235294117645,
-        "ratio": "7/34"
+        "value": 20.0,
+        "ratio": "7/35"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
-    "combined_yrfi_pct": 20.73,
+    "combined_yrfi_pct": 20.35,
     "pitcher": {
-      "name": "Dylan Cease",
-      "yrfi_allowed": 75.0,
-      "yrfi_ratio": "3/4"
+      "name": "Max Scherzer",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 21.21212121212121,
-        "ratio": "7/33"
+        "value": 20.588235294117645,
+        "ratio": "7/34"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 20.588235294117645,
+        "base": 20.0,
         "tendency": 26.666666666666668,
-        "combined": 23.02,
-        "pitcher_impact": 75.0,
-        "adjusted": 38.61
+        "combined": 22.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 45.87
       },
       "away_team": {
-        "base": 21.21212121212121,
+        "base": 20.588235294117645,
         "tendency": 20.0,
-        "combined": 20.73,
+        "combined": 20.35,
         "pitcher_impact": 0.0,
-        "adjusted": 14.51
+        "adjusted": 14.25
       },
-      "game_yrfi_probability": 47.52
+      "game_yrfi_probability": 53.58
     },
-    "yrfi_probability": 47.52
+    "yrfi_probability": 53.58
   },
   "metadata": {
-    "generated_at": "2026-06-16T18:24:31.261998",
+    "generated_at": "2026-06-17T16:50:36.187229",
     "data_source": "season_data.json"
   }
 }

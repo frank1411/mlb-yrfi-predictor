@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ New York Yankees
 
-**Fecha:** 2026-06-16  
-**Lanzadores:** Davis Martin (V) vs Gerrit Cole (L)
+**Fecha:** 2026-06-17  
+**Lanzadores:** Anthony Kay (V) vs Carlos Rodón (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.5%
+**Probabilidad de que anoten en la primera entrada:** 47.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 45.2% (14/31 partidos)
+- **Estadística base YRFI:** 43.8% (14/32 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 30.6%
+- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 31.5%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 32.4% (11/34 partidos)
+- **Estadística base YRFI:** 34.3% (12/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-16 18:24:31
+- **Generado el:** 2026-06-17 16:50:36
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Boston Red Sox
 
-**Fecha:** 2026-06-16  
-**Lanzadores:** Dylan Cease (V) vs Payton Tolle (L)
+**Fecha:** 2026-06-17  
+**Lanzadores:** Max Scherzer (V) vs Jake Bennett (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 53.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 20.6% (7/34 partidos)
+- **Estadística base YRFI:** 20.0% (7/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 38.6%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 45.9%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 21.2% (7/33 partidos)
+- **Estadística base YRFI:** 20.6% (7/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Payton Tolle):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.5%
+- **Impacto del lanzador local (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 14.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-16 18:24:31
+- **Generado el:** 2026-06-17 16:50:36
 - **Fuente de datos:** season_data.json

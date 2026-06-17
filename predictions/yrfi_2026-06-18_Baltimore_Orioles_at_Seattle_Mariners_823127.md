@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Seattle Mariners
 
-**Fecha:** 2026-06-17  
-**Lanzadores:** Brandon Young (V) vs Logan Gilbert (L)
+**Fecha:** 2026-06-18  
+**Lanzadores:** Kyle Bradish (V) vs George Kirby (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.9%
+**Probabilidad de que anoten en la primera entrada:** 52.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 42.9% (15/35 partidos)
+- **Estadística base YRFI:** 41.7% (15/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Brandon Young):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.5%
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 25.0%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 21.9% (7/32 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 83.3% (5/6 partidos)
-- **Puntuación ajustada:** 43.5%
+- **Estadística base YRFI:** 24.2% (8/33 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 36.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-16 18:24:31
+- **Generado el:** 2026-06-17 16:50:36
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ St. Louis Cardinals
 
-**Fecha:** 2026-06-16  
-**Lanzadores:** Michael King (V) vs Andre Pallante (L)
+**Fecha:** 2026-06-17  
+**Lanzadores:** Bradgley Rodriguez (V) vs Kyle Leahy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.1%
+**Probabilidad de que anoten en la primera entrada:** 42.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 30.6% (11/36 partidos)
+- **Estadística base YRFI:** 29.7% (11/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador visitante (San Diego Padres - Bradgley Rodriguez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 25.6%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 18.2% (6/33 partidos)
+- **Estadística base YRFI:** 17.6% (6/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 23.2%
+- **Impacto del lanzador local (St. Louis Cardinals - Kyle Leahy):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 23.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-16 18:24:31
+- **Generado el:** 2026-06-17 16:50:36
 - **Fuente de datos:** season_data.json

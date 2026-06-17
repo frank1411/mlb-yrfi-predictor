@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Milwaukee Brewers
 
-**Fecha:** 2026-06-16  
-**Lanzadores:** Slade Cecconi (V) vs Robert Gasser (L)
+**Fecha:** 2026-06-17  
+**Lanzadores:** Gavin Williams (V) vs Brandon Sproat (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.2%
+**Probabilidad de que anoten en la primera entrada:** 59.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 35.1% (13/37 partidos)
+- **Estadística base YRFI:** 34.2% (13/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 41.7%
+- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 44.3%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 25.0% (9/36 partidos)
+- **Estadística base YRFI:** 24.3% (9/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Impacto del lanzador local (Milwaukee Brewers - Brandon Sproat):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-16 18:24:31
+- **Generado el:** 2026-06-17 16:50:36
 - **Fuente de datos:** season_data.json

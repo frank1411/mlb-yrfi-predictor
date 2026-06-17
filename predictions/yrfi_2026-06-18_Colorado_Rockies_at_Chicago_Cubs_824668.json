@@ -1,38 +1,38 @@
 {
-  "game_pk": 824667,
-  "game_date": "2026-06-17",
+  "game_pk": 824668,
+  "game_date": "2026-06-18",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Edward Cabrera",
+      "name": "Javier Assad",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/5"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 19.444444444444446,
-        "ratio": "7/36"
+        "value": 21.62162162162162,
+        "ratio": "8/37"
       },
       "tendency": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "away_team": {
     "id": "115",
     "name": "Colorado Rockies",
-    "combined_yrfi_pct": 28.31,
+    "combined_yrfi_pct": 28.0,
     "pitcher": {
-      "name": "Ryan Feltner",
+      "name": "Sean Sullivan",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 20.51282051282051,
-        "ratio": "8/39"
+        "value": 20.0,
+        "ratio": "8/40"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 19.444444444444446,
-        "tendency": 20.0,
-        "combined": 19.67,
+        "base": 21.62162162162162,
+        "tendency": 26.666666666666668,
+        "combined": 23.64,
         "pitcher_impact": 0.0,
-        "adjusted": 13.77
+        "adjusted": 16.55
       },
       "away_team": {
-        "base": 20.51282051282051,
+        "base": 20.0,
         "tendency": 40.0,
-        "combined": 28.31,
+        "combined": 28.0,
         "pitcher_impact": 0.0,
-        "adjusted": 19.82
+        "adjusted": 19.6
       },
-      "game_yrfi_probability": 30.86
+      "game_yrfi_probability": 32.91
     },
-    "yrfi_probability": 30.86
+    "yrfi_probability": 32.91
   },
   "metadata": {
-    "generated_at": "2026-06-16T18:24:31.282652",
+    "generated_at": "2026-06-17T16:50:36.200951",
     "data_source": "season_data.json"
   }
 }

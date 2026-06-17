@@ -1,18 +1,18 @@
 {
-  "game_pk": 824182,
+  "game_pk": 824178,
   "game_date": "2026-06-17",
   "home_team": {
     "id": "117",
     "name": "Houston Astros",
     "pitcher": {
-      "name": "Hunter Brown",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "name": "Peter Lambert",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 41.66666666666667,
-        "ratio": "15/36"
+        "value": 40.54054054054054,
+        "ratio": "15/37"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "116",
     "name": "Detroit Tigers",
-    "combined_yrfi_pct": 45.02,
+    "combined_yrfi_pct": 44.41,
     "pitcher": {
-      "name": "Framber Valdez",
-      "yrfi_allowed": 40.0,
-      "yrfi_ratio": "2/5"
+      "name": "Casey Mize",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 39.473684210526315,
-        "ratio": "15/38"
+        "value": 38.46153846153847,
+        "ratio": "15/39"
       },
       "tendency": {
         "value": 53.333333333333336,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 41.66666666666667,
+        "base": 40.54054054054054,
         "tendency": 26.666666666666668,
-        "combined": 35.67,
-        "pitcher_impact": 40.0,
-        "adjusted": 36.97
+        "combined": 34.99,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.49
       },
       "away_team": {
-        "base": 39.473684210526315,
+        "base": 38.46153846153847,
         "tendency": 53.333333333333336,
-        "combined": 45.02,
-        "pitcher_impact": 0.0,
-        "adjusted": 31.51
+        "combined": 44.41,
+        "pitcher_impact": 100.0,
+        "adjusted": 61.09
       },
-      "game_yrfi_probability": 56.83
+      "game_yrfi_probability": 70.62
     },
-    "yrfi_probability": 56.83
+    "yrfi_probability": 70.62
   },
   "metadata": {
-    "generated_at": "2026-06-16T18:24:31.289349",
+    "generated_at": "2026-06-17T16:50:36.173381",
     "data_source": "season_data.json"
   }
 }
