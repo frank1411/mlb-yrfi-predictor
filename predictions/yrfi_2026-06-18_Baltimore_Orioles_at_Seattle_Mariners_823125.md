@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Chicago Cubs
+# Análisis YRFI: Baltimore Orioles @ Seattle Mariners
 
 **Fecha:** 2026-06-18  
-**Lanzadores:** Sean Sullivan (V) vs Javier Assad (L)
+**Lanzadores:** Shane Baz (V) vs Bryan Woo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.9%
+**Probabilidad de que anoten en la primera entrada:** 58.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 21.6% (8/37 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 40.5% (15/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Sean Sullivan):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.6%
+- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 39.5%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 20.0% (8/40 partidos)
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 23.5% (8/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Javier Assad):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-17 16:50:36
+- **Generado el:** 2026-06-18 16:50:59
 - **Fuente de datos:** season_data.json

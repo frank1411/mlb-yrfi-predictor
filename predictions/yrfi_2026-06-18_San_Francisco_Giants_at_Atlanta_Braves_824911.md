@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Atlanta Braves
 
-**Fecha:** 2026-06-17  
-**Lanzadores:** Adrian Houser (V) vs Grant Holmes (L)
+**Fecha:** 2026-06-18  
+**Lanzadores:** Landen Roupp (V) vs Martín Pérez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.0%
+**Probabilidad de que anoten en la primera entrada:** 51.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 30.3% (10/33 partidos)
+- **Estadística base YRFI:** 31.4% (11/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Adrian Houser):** 100.0% (4/4 partidos)
-- **Puntuación ajustada:** 53.9%
+- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 24.4%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 23.7% (9/38 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.4%
+- **Estadística base YRFI:** 27.5% (11/40 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 35.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-17 16:50:36
+- **Generado el:** 2026-06-18 16:50:59
 - **Fuente de datos:** season_data.json

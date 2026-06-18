@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Philadelphia Phillies
+# Análisis YRFI: Toronto Blue Jays @ Boston Red Sox
 
-**Fecha:** 2026-06-17  
-**Lanzadores:** Sandy Alcantara (V) vs Andrew Painter (L)
+**Fecha:** 2026-06-18  
+**Lanzadores:** Trey Yesavage (V) vs Sonny Gray (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.0%
+**Probabilidad de que anoten en la primera entrada:** 53.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 34.2% (13/38 partidos)
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 19.4% (7/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.8%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 45.6%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 25.7% (9/35 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 20.0% (7/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 16.4%
+- **Impacto del lanzador local (Boston Red Sox - Sonny Gray):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-17 16:50:36
+- **Generado el:** 2026-06-18 16:50:59
 - **Fuente de datos:** season_data.json
