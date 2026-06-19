@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Philadelphia Phillies
+# Análisis YRFI: Pittsburgh Pirates @ Colorado Rockies
 
-**Fecha:** 2026-06-18  
-**Lanzadores:** Sean Manaea (V) vs Aaron Nola (L)
+**Fecha:** 2026-06-20  
+**Lanzadores:** Bubba Chandler (V) vs Kyle Freeland (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.3%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 35.9% (14/39 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 44.1% (15/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.4%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 27.9%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.7% (9/38 partidos)
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 41.7% (15/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.3%
+- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-18 16:50:59
+- **Generado el:** 2026-06-19 16:27:59
 - **Fuente de datos:** season_data.json

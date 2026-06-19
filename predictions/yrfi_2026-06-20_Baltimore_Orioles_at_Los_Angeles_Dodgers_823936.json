@@ -1,0 +1,67 @@
+{
+  "game_pk": 823936,
+  "game_date": "2026-06-20",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.432432432432435,
+        "ratio": "12/37"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 29.71,
+    "pitcher": {
+      "name": "Trey Gibson",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 22.857142857142858,
+        "ratio": "8/35"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.432432432432435,
+        "tendency": 26.666666666666668,
+        "combined": 30.13,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.09
+      },
+      "away_team": {
+        "base": 22.857142857142858,
+        "tendency": 40.0,
+        "combined": 29.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.8
+      },
+      "game_yrfi_probability": 61.26
+    },
+    "yrfi_probability": 61.26
+  },
+  "metadata": {
+    "generated_at": "2026-06-19T16:27:59.209629",
+    "data_source": "season_data.json"
+  }
+}

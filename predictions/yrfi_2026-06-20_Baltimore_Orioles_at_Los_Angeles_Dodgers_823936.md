@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Seattle Mariners
+# Análisis YRFI: Baltimore Orioles @ Los Angeles Dodgers
 
-**Fecha:** 2026-06-18  
-**Lanzadores:** Shane Baz (V) vs Bryan Woo (L)
+**Fecha:** 2026-06-20  
+**Lanzadores:** Trey Gibson (V) vs Roki Sasaki (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.3%
+**Probabilidad de que anoten en la primera entrada:** 61.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 40.5% (15/37 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 32.4% (12/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 39.5%
+- **Impacto del lanzador visitante (Baltimore Orioles - Trey Gibson):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 51.1%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 23.5% (8/34 partidos)
+- **Estadística base YRFI:** 22.9% (8/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.1%
+- **Impacto del lanzador local (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-18 16:50:59
+- **Generado el:** 2026-06-19 16:27:59
 - **Fuente de datos:** season_data.json

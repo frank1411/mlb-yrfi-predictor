@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ New York Yankees
+# Análisis YRFI: Cincinnati Reds @ New York Yankees
 
-**Fecha:** 2026-06-18  
-**Lanzadores:** Sean Burke (V) vs Ryan Weathers (L)
+**Fecha:** 2026-06-19  
+**Lanzadores:** Rhett Lowder (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.8%
+**Probabilidad de que anoten en la primera entrada:** 57.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 45.5% (15/33 partidos)
+- **Estadística base YRFI:** 44.1% (15/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.7%
+- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 46.6%
 
-### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 33.3% (12/36 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 25.7% (9/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 35.3%
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-18 16:50:59
+- **Generado el:** 2026-06-19 16:27:59
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823853,
+  "game_date": "2026-06-19",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Lake Bachar",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 38.46153846153847,
+        "ratio": "15/39"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 29.83,
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.500000000000004,
+        "ratio": "11/40"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.46153846153847,
+        "tendency": 26.666666666666668,
+        "combined": 33.74,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.62
+      },
+      "away_team": {
+        "base": 27.500000000000004,
+        "tendency": 33.33333333333333,
+        "combined": 29.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.88
+      },
+      "game_yrfi_probability": 39.57
+    },
+    "yrfi_probability": 39.57
+  },
+  "metadata": {
+    "generated_at": "2026-06-19T16:27:59.182161",
+    "data_source": "season_data.json"
+  }
+}

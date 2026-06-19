@@ -1,0 +1,67 @@
+{
+  "game_pk": 823534,
+  "game_date": "2026-06-19",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 44.11764705882353,
+        "ratio": "15/34"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 28.76,
+    "pitcher": {
+      "name": "Rhett Lowder",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.71428571428571,
+        "ratio": "9/35"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.11764705882353,
+        "tendency": 20.0,
+        "combined": 34.47,
+        "pitcher_impact": 75.0,
+        "adjusted": 46.63
+      },
+      "away_team": {
+        "base": 25.71428571428571,
+        "tendency": 33.33333333333333,
+        "combined": 28.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.13
+      },
+      "game_yrfi_probability": 57.37
+    },
+    "yrfi_probability": 57.37
+  },
+  "metadata": {
+    "generated_at": "2026-06-19T16:27:59.175020",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Boston Red Sox
+# Análisis YRFI: San Diego Padres @ Texas Rangers
 
-**Fecha:** 2026-06-18  
-**Lanzadores:** Trey Yesavage (V) vs Sonny Gray (L)
+**Fecha:** 2026-06-20  
+**Lanzadores:** Randy Vásquez (V) vs Jacob deGrom (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.2%
+**Probabilidad de que anoten en la primera entrada:** 53.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
-- **Estadística base YRFI:** 19.4% (7/36 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 23.5% (8/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 45.6%
+- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.4%
 
-### Toronto Blue Jays (Visitante)
+### San Diego Padres (Visitante)
 - **Estadística base YRFI:** 20.0% (7/35 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Sonny Gray):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 14.0%
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 35.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-18 16:50:59
+- **Generado el:** 2026-06-19 16:27:59
 - **Fuente de datos:** season_data.json

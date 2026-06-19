@@ -1,0 +1,67 @@
+{
+  "game_pk": 825069,
+  "game_date": "2026-06-20",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Michael Soroka",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.21052631578947,
+        "ratio": "13/38"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 35.46,
+    "pitcher": {
+      "name": "Connor Prielipp",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.432432432432435,
+        "ratio": "12/37"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.21052631578947,
+        "tendency": 26.666666666666668,
+        "combined": 31.19,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.84
+      },
+      "away_team": {
+        "base": 32.432432432432435,
+        "tendency": 40.0,
+        "combined": 35.46,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.82
+      },
+      "game_yrfi_probability": 63.79
+    },
+    "yrfi_probability": 63.79
+  },
+  "metadata": {
+    "generated_at": "2026-06-19T16:27:59.206395",
+    "data_source": "season_data.json"
+  }
+}

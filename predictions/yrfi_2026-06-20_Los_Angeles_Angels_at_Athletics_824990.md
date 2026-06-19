@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ Kansas City Royals
+# Análisis YRFI: Los Angeles Angels @ Athletics
 
-**Fecha:** 2026-06-18  
-**Lanzadores:** Matthew Liberatore (V) vs Noah Cameron (L)
+**Fecha:** 2026-06-20  
+**Lanzadores:** José Soriano (V) vs Jeffrey Springs (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.6%
+**Probabilidad de que anoten en la primera entrada:** 60.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 23.7% (9/38 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 36.8% (14/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.0%
+- **Impacto del lanzador visitante (Los Angeles Angels - José Soriano):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 28.5%
 
-### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 29.4% (10/34 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 25.6% (10/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 44.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-18 16:50:59
+- **Generado el:** 2026-06-19 16:27:59
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824179,
+  "game_date": "2026-06-20",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Tatsuya Imai",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 39.473684210526315,
+        "ratio": "15/38"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 19.18,
+    "pitcher": {
+      "name": "Tanner Bibee",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "9/39"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.473684210526315,
+        "tendency": 26.666666666666668,
+        "combined": 34.35,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.55
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 13.333333333333334,
+        "combined": 19.18,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.43
+      },
+      "game_yrfi_probability": 40.74
+    },
+    "yrfi_probability": 40.74
+  },
+  "metadata": {
+    "generated_at": "2026-06-19T16:27:59.192828",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824663,
+  "game_date": "2026-06-19",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Ben Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "8/38"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 24.0,
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "8/36"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.052631578947366,
+        "tendency": 26.666666666666668,
+        "combined": 23.3,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.31
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 26.666666666666668,
+        "combined": 24.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.8
+      },
+      "game_yrfi_probability": 30.37
+    },
+    "yrfi_probability": 30.37
+  },
+  "metadata": {
+    "generated_at": "2026-06-19T16:27:59.161300",
+    "data_source": "season_data.json"
+  }
+}
