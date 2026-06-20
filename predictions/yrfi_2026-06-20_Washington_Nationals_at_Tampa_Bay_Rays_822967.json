@@ -1,18 +1,18 @@
 {
-  "game_pk": 822966,
-  "game_date": "2026-06-19",
+  "game_pk": 822967,
+  "game_date": "2026-06-20",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Griffin Jax",
+      "name": "Ian Seymour",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 42.42424242424242,
-        "ratio": "14/33"
+        "value": 41.17647058823529,
+        "ratio": "14/34"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,7 +23,7 @@
   "away_team": {
     "id": "120",
     "name": "Washington Nationals",
-    "combined_yrfi_pct": 32.79,
+    "combined_yrfi_pct": 32.28,
     "pitcher": {
       "name": "Cade Cavalli",
       "yrfi_allowed": 33.33333333333333,
@@ -31,8 +31,8 @@
     },
     "stats": {
       "base": {
-        "value": 32.432432432432435,
-        "ratio": "12/37"
+        "value": 31.57894736842105,
+        "ratio": "12/38"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 42.42424242424242,
+        "base": 41.17647058823529,
         "tendency": 26.666666666666668,
-        "combined": 36.12,
+        "combined": 35.37,
         "pitcher_impact": 33.33333333333333,
-        "adjusted": 35.28
+        "adjusted": 34.76
       },
       "away_team": {
-        "base": 32.432432432432435,
+        "base": 31.57894736842105,
         "tendency": 33.33333333333333,
-        "combined": 32.79,
+        "combined": 32.28,
         "pitcher_impact": 0.0,
-        "adjusted": 22.95
+        "adjusted": 22.6
       },
-      "game_yrfi_probability": 50.13
+      "game_yrfi_probability": 49.5
     },
-    "yrfi_probability": 50.13
+    "yrfi_probability": 49.5
   },
   "metadata": {
-    "generated_at": "2026-06-19T16:27:59.178832",
+    "generated_at": "2026-06-20T15:28:36.514781",
     "data_source": "season_data.json"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823853,
-  "game_date": "2026-06-19",
+  "game_pk": 823854,
+  "game_date": "2026-06-20",
   "home_team": {
     "id": "146",
     "name": "Miami Marlins",
     "pitcher": {
-      "name": "Lake Bachar",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Max Meyer",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
     },
     "stats": {
       "base": {
-        "value": 38.46153846153847,
-        "ratio": "15/39"
+        "value": 40.0,
+        "ratio": "16/40"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "137",
     "name": "San Francisco Giants",
-    "combined_yrfi_pct": 29.83,
+    "combined_yrfi_pct": 29.43,
     "pitcher": {
-      "name": "Landen Roupp",
+      "name": "Trevor McDonald",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 27.500000000000004,
-        "ratio": "11/40"
+        "value": 26.82926829268293,
+        "ratio": "11/41"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 38.46153846153847,
+        "base": 40.0,
         "tendency": 26.666666666666668,
-        "combined": 33.74,
+        "combined": 34.67,
         "pitcher_impact": 0.0,
-        "adjusted": 23.62
+        "adjusted": 24.27
       },
       "away_team": {
-        "base": 27.500000000000004,
+        "base": 26.82926829268293,
         "tendency": 33.33333333333333,
-        "combined": 29.83,
-        "pitcher_impact": 0.0,
-        "adjusted": 20.88
+        "combined": 29.43,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.1
       },
-      "game_yrfi_probability": 39.57
+      "game_yrfi_probability": 45.55
     },
-    "yrfi_probability": 39.57
+    "yrfi_probability": 45.55
   },
   "metadata": {
-    "generated_at": "2026-06-19T16:27:59.182161",
+    "generated_at": "2026-06-20T15:28:36.518461",
     "data_source": "season_data.json"
   }
 }

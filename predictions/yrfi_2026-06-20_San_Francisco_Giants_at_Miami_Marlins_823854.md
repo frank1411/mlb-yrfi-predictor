@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Tampa Bay Rays
+# Análisis YRFI: San Francisco Giants @ Miami Marlins
 
-**Fecha:** 2026-06-19  
-**Lanzadores:** Cade Cavalli (V) vs Griffin Jax (L)
+**Fecha:** 2026-06-20  
+**Lanzadores:** Trevor McDonald (V) vs Max Meyer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.1%
+**Probabilidad de que anoten en la primera entrada:** 45.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 42.4% (14/33 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 40.0% (16/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 35.3%
+- **Impacto del lanzador visitante (San Francisco Giants - Trevor McDonald):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 24.3%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 32.4% (12/37 partidos)
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 26.8% (11/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador local (Miami Marlins - Max Meyer):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-19 16:27:59
+- **Generado el:** 2026-06-20 15:28:36
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ New York Yankees
 
-**Fecha:** 2026-06-19  
-**Lanzadores:** Rhett Lowder (V) vs Cam Schlittler (L)
+**Fecha:** 2026-06-20  
+**Lanzadores:** Andrew Abbott (V) vs Will Warren (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.4%
+**Probabilidad de que anoten en la primera entrada:** 53.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 44.1% (15/34 partidos)
+- **Estadística base YRFI:** 42.9% (15/35 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 46.6%
+- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 38.6%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 25.7% (9/35 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Estadística base YRFI:** 25.0% (9/36 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-19 16:27:59
+- **Generado el:** 2026-06-20 15:28:36
 - **Fuente de datos:** season_data.json

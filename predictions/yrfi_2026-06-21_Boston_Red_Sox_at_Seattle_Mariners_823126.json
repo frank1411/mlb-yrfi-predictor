@@ -1,0 +1,67 @@
+{
+  "game_pk": 823126,
+  "game_date": "2026-06-21",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Emerson Hancock",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.02564102564102,
+        "ratio": "16/39"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 18.0,
+    "pitcher": {
+      "name": "Connelly Early",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 16.666666666666664,
+        "ratio": "6/36"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.02564102564102,
+        "tendency": 26.666666666666668,
+        "combined": 35.28,
+        "pitcher_impact": 25.0,
+        "adjusted": 32.2
+      },
+      "away_team": {
+        "base": 16.666666666666664,
+        "tendency": 20.0,
+        "combined": 18.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.6
+      },
+      "game_yrfi_probability": 40.74
+    },
+    "yrfi_probability": 40.74
+  },
+  "metadata": {
+    "generated_at": "2026-06-20T15:28:36.546620",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,33 +1,33 @@
 {
-  "game_pk": 824990,
+  "game_pk": 823447,
   "game_date": "2026-06-20",
   "home_team": {
-    "id": "133",
-    "name": "Athletics",
+    "id": "143",
+    "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Jeffrey Springs",
-      "yrfi_allowed": 75.0,
-      "yrfi_ratio": "3/4"
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
-        "value": 36.84210526315789,
-        "ratio": "14/38"
+        "value": 37.5,
+        "ratio": "15/40"
       },
       "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "away_team": {
-    "id": "108",
-    "name": "Los Angeles Angels",
+    "id": "121",
+    "name": "New York Mets",
     "combined_yrfi_pct": 31.38,
     "pitcher": {
-      "name": "José Soriano",
+      "name": "Freddy Peralta",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.84210526315789,
-        "tendency": 46.666666666666664,
-        "combined": 40.77,
+        "base": 37.5,
+        "tendency": 40.0,
+        "combined": 38.5,
         "pitcher_impact": 0.0,
-        "adjusted": 28.54
+        "adjusted": 26.95
       },
       "away_team": {
         "base": 25.64102564102564,
         "tendency": 40.0,
         "combined": 31.38,
-        "pitcher_impact": 75.0,
-        "adjusted": 44.47
+        "pitcher_impact": 20.0,
+        "adjusted": 27.97
       },
-      "game_yrfi_probability": 60.32
+      "game_yrfi_probability": 47.38
     },
-    "yrfi_probability": 60.32
+    "yrfi_probability": 47.38
   },
   "metadata": {
-    "generated_at": "2026-06-19T16:27:59.202926",
+    "generated_at": "2026-06-20T15:28:36.531610",
     "data_source": "season_data.json"
   }
 }

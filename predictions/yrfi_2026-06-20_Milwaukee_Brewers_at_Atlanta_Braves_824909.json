@@ -1,0 +1,67 @@
+{
+  "game_pk": 824909,
+  "game_date": "2026-06-20",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Chris Sale",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.555555555555557,
+        "ratio": "11/36"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 43.15,
+    "pitcher": {
+      "name": "Kyle Harrison",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "12/33"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.555555555555557,
+        "tendency": 40.0,
+        "combined": 34.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.03
+      },
+      "away_team": {
+        "base": 36.36363636363637,
+        "tendency": 53.333333333333336,
+        "combined": 43.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.21
+      },
+      "game_yrfi_probability": 46.98
+    },
+    "yrfi_probability": 46.98
+  },
+  "metadata": {
+    "generated_at": "2026-06-20T15:28:36.523157",
+    "data_source": "season_data.json"
+  }
+}

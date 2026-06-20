@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Atlanta Braves
 
-**Fecha:** 2026-06-19  
-**Lanzadores:** Jacob Misiorowski (V) vs Martín Pérez (L)
+**Fecha:** 2026-06-20  
+**Lanzadores:** Kyle Harrison (V) vs Chris Sale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.6%
+**Probabilidad de que anoten en la primera entrada:** 47.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 31.4% (11/35 partidos)
+- **Estadística base YRFI:** 30.6% (11/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.4%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Kyle Harrison):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 37.5% (12/32 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 47.5%
+- **Estadística base YRFI:** 36.4% (12/33 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 30.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-19 16:27:59
+- **Generado el:** 2026-06-20 15:28:36
 - **Fuente de datos:** season_data.json

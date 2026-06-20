@@ -1,0 +1,67 @@
+{
+  "game_pk": 822885,
+  "game_date": "2026-06-20",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Nathan Eovaldi",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.71428571428571,
+        "ratio": "9/35"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 26.67,
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "8/36"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.71428571428571,
+        "tendency": 33.33333333333333,
+        "combined": 28.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.13
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 33.33333333333333,
+        "combined": 26.67,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 38.67
+      },
+      "game_yrfi_probability": 51.02
+    },
+    "yrfi_probability": 51.02
+  },
+  "metadata": {
+    "generated_at": "2026-06-20T15:28:36.511237",
+    "data_source": "season_data.json"
+  }
+}

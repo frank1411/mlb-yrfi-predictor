@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Los Angeles Dodgers
+# Análisis YRFI: Minnesota Twins @ Arizona Diamondbacks
 
-**Fecha:** 2026-06-20  
-**Lanzadores:** Trey Gibson (V) vs Roki Sasaki (L)
+**Fecha:** 2026-06-21  
+**Lanzadores:** Taj Bradley (V) vs Zac Gallen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.3%
+**Probabilidad de que anoten en la primera entrada:** 58.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 32.4% (12/37 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 33.3% (13/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trey Gibson):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 51.1%
+- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 36.5%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 22.9% (8/35 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 31.6% (12/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 34.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-19 16:27:59
+- **Generado el:** 2026-06-20 15:28:36
 - **Fuente de datos:** season_data.json
