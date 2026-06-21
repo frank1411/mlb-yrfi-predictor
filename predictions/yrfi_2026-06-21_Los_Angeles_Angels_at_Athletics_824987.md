@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Philadelphia Phillies
+# Análisis YRFI: Los Angeles Angels @ Athletics
 
-**Fecha:** 2026-06-20  
-**Lanzadores:** Freddy Peralta (V) vs Cristopher Sánchez (L)
+**Fecha:** 2026-06-21  
+**Lanzadores:** Reid Detmers (V) vs Jack Perkins (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.4%
+**Probabilidad de que anoten en la primera entrada:** 41.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 37.5% (15/40 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 35.0% (14/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Freddy Peralta):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 25.9%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 25.6% (10/39 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 24.4% (10/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador local (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-20 15:28:36
+- **Generado el:** 2026-06-21 15:45:40
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Texas Rangers
 
-**Fecha:** 2026-06-20  
-**Lanzadores:** Walker Buehler (V) vs Nathan Eovaldi (L)
+**Fecha:** 2026-06-21  
+**Lanzadores:** Wandy Peralta (V) vs Nathan Eovaldi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.0%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 25.7% (9/35 partidos)
+- **Estadística base YRFI:** 25.0% (9/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador visitante (San Diego Padres - Wandy Peralta):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 22.2% (8/36 partidos)
+- **Estadística base YRFI:** 21.6% (8/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
 - **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 38.7%
+- **Puntuación ajustada:** 38.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-20 15:28:36
+- **Generado el:** 2026-06-21 15:45:40
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Arizona Diamondbacks
 
 **Fecha:** 2026-06-21  
-**Lanzadores:** Taj Bradley (V) vs Zac Gallen (L)
+**Lanzadores:** Mike Paredes (V) vs Jose Cabrera (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.4%
+**Probabilidad de que anoten en la primera entrada:** 42.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 33.3% (13/39 partidos)
+- **Estadística base YRFI:** 32.5% (13/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 36.5%
+- **Impacto del lanzador visitante (Minnesota Twins - Mike Paredes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.1%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 31.6% (12/38 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.5%
+- **Estadística base YRFI:** 33.3% (13/39 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Jose Cabrera):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-20 15:28:36
+- **Generado el:** 2026-06-21 15:45:40
 - **Fuente de datos:** season_data.json

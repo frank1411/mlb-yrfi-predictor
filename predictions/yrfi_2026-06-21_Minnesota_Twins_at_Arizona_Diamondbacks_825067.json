@@ -1,0 +1,67 @@
+{
+  "game_pk": 825067,
+  "game_date": "2026-06-21",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Jose Cabrera",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.5,
+        "ratio": "13/40"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 38.67,
+    "pitcher": {
+      "name": "Mike Paredes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "13/39"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.5,
+        "tendency": 26.666666666666668,
+        "combined": 30.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.12
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 46.666666666666664,
+        "combined": 38.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.07
+      },
+      "game_yrfi_probability": 42.47
+    },
+    "yrfi_probability": 42.47
+  },
+  "metadata": {
+    "generated_at": "2026-06-21T15:45:40.116111",
+    "data_source": "season_data.json"
+  }
+}

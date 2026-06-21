@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Seattle Mariners
+# Análisis YRFI: Toronto Blue Jays @ Chicago Cubs
 
 **Fecha:** 2026-06-21  
-**Lanzadores:** Connelly Early (V) vs Emerson Hancock (L)
+**Lanzadores:** Dylan Cease (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.7%
+**Probabilidad de que anoten en la primera entrada:** 52.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
-- **Estadística base YRFI:** 41.0% (16/39 partidos)
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 22.5% (9/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Connelly Early):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 39.4%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 16.7% (6/36 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 21.1% (8/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Emerson Hancock):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 12.6%
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-20 15:28:36
+- **Generado el:** 2026-06-21 15:45:40
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823852,
+  "game_date": "2026-06-21",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Ryan Gusto",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 41.46341463414634,
+        "ratio": "17/41"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 29.05,
+    "pitcher": {
+      "name": "Logan Webb",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.190476190476193,
+        "ratio": "11/42"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.46341463414634,
+        "tendency": 33.33333333333333,
+        "combined": 38.21,
+        "pitcher_impact": 25.0,
+        "adjusted": 34.25
+      },
+      "away_team": {
+        "base": 26.190476190476193,
+        "tendency": 33.33333333333333,
+        "combined": 29.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.33
+      },
+      "game_yrfi_probability": 47.62
+    },
+    "yrfi_probability": 47.62
+  },
+  "metadata": {
+    "generated_at": "2026-06-21T15:45:40.092889",
+    "data_source": "season_data.json"
+  }
+}

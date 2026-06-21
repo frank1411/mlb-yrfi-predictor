@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Atlanta Braves
 
-**Fecha:** 2026-06-20  
-**Lanzadores:** Kyle Harrison (V) vs Chris Sale (L)
+**Fecha:** 2026-06-21  
+**Lanzadores:** Robert Gasser (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.0%
+**Probabilidad de que anoten en la primera entrada:** 49.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 30.6% (11/36 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Kyle Harrison):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Estadística base YRFI:** 29.7% (11/37 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.8%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 36.4% (12/33 partidos)
+- **Estadística base YRFI:** 35.3% (12/34 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 30.2%
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 35.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-20 15:28:36
+- **Generado el:** 2026-06-21 15:45:40
 - **Fuente de datos:** season_data.json

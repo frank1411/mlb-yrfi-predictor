@@ -1,0 +1,67 @@
+{
+  "game_pk": 822968,
+  "game_date": "2026-06-21",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 42.857142857142854,
+        "ratio": "15/35"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 31.79,
+    "pitcher": {
+      "name": "Andrew Alvarez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "12/39"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.857142857142854,
+        "tendency": 33.33333333333333,
+        "combined": 39.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.33
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 31.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.26
+      },
+      "game_yrfi_probability": 43.51
+    },
+    "yrfi_probability": 43.51
+  },
+  "metadata": {
+    "generated_at": "2026-06-21T15:45:40.083145",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824095,
+  "game_date": "2026-06-21",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Stephen Kolek",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "10/40"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 41.33,
+    "pitcher": {
+      "name": "Dustin May",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "12/36"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 46.666666666666664,
+        "combined": 33.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 53.57
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 53.333333333333336,
+        "combined": 41.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.93
+      },
+      "game_yrfi_probability": 67.0
+    },
+    "yrfi_probability": 67.0
+  },
+  "metadata": {
+    "generated_at": "2026-06-21T15:45:40.100657",
+    "data_source": "season_data.json"
+  }
+}

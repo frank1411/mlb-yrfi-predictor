@@ -1,6 +1,6 @@
 {
-  "game_pk": 822885,
-  "game_date": "2026-06-20",
+  "game_pk": 822883,
+  "game_date": "2026-06-21",
   "home_team": {
     "id": "140",
     "name": "Texas Rangers",
@@ -11,8 +11,8 @@
     },
     "stats": {
       "base": {
-        "value": 25.71428571428571,
-        "ratio": "9/35"
+        "value": 25.0,
+        "ratio": "9/36"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "135",
     "name": "San Diego Padres",
-    "combined_yrfi_pct": 26.67,
+    "combined_yrfi_pct": 26.31,
     "pitcher": {
-      "name": "Walker Buehler",
+      "name": "Wandy Peralta",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 22.22222222222222,
-        "ratio": "8/36"
+        "value": 21.62162162162162,
+        "ratio": "8/37"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.71428571428571,
+        "base": 25.0,
         "tendency": 33.33333333333333,
-        "combined": 28.76,
+        "combined": 28.33,
         "pitcher_impact": 0.0,
-        "adjusted": 20.13
+        "adjusted": 19.83
       },
       "away_team": {
-        "base": 22.22222222222222,
+        "base": 21.62162162162162,
         "tendency": 33.33333333333333,
-        "combined": 26.67,
+        "combined": 26.31,
         "pitcher_impact": 66.66666666666666,
-        "adjusted": 38.67
+        "adjusted": 38.41
       },
-      "game_yrfi_probability": 51.02
+      "game_yrfi_probability": 50.62
     },
-    "yrfi_probability": 51.02
+    "yrfi_probability": 50.62
   },
   "metadata": {
-    "generated_at": "2026-06-20T15:28:36.511237",
+    "generated_at": "2026-06-21T15:45:40.108036",
     "data_source": "season_data.json"
   }
 }
