@@ -1,0 +1,67 @@
+{
+  "game_pk": 823613,
+  "game_date": "2026-06-22",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Kodai Senga",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.11111111111111,
+        "ratio": "13/36"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 22.02,
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 18.91891891891892,
+        "ratio": "7/37"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.11111111111111,
+        "tendency": 33.33333333333333,
+        "combined": 35.0,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 44.5
+      },
+      "away_team": {
+        "base": 18.91891891891892,
+        "tendency": 26.666666666666668,
+        "combined": 22.02,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.41
+      },
+      "game_yrfi_probability": 53.05
+    },
+    "yrfi_probability": 53.05
+  },
+  "metadata": {
+    "generated_at": "2026-06-22T18:08:58.710725",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "game_pk": 822968,
-  "game_date": "2026-06-21",
+  "game_pk": 823851,
+  "game_date": "2026-06-22",
   "home_team": {
-    "id": "139",
-    "name": "Tampa Bay Rays",
+    "id": "146",
+    "name": "Miami Marlins",
     "pitcher": {
-      "name": "Nick Martinez",
+      "name": "Tyler Phillips",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 42.857142857142854,
-        "ratio": "15/35"
+        "value": 40.476190476190474,
+        "ratio": "17/42"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "120",
-    "name": "Washington Nationals",
-    "combined_yrfi_pct": 31.79,
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 32.83,
     "pitcher": {
-      "name": "Andrew Alvarez",
+      "name": "Tyler Alexander",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.76923076923077,
-        "ratio": "12/39"
+        "value": 32.5,
+        "ratio": "13/40"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 42.857142857142854,
+        "base": 40.476190476190474,
         "tendency": 33.33333333333333,
-        "combined": 39.05,
+        "combined": 37.62,
         "pitcher_impact": 0.0,
-        "adjusted": 27.33
+        "adjusted": 26.33
       },
       "away_team": {
-        "base": 30.76923076923077,
+        "base": 32.5,
         "tendency": 33.33333333333333,
-        "combined": 31.79,
+        "combined": 32.83,
         "pitcher_impact": 0.0,
-        "adjusted": 22.26
+        "adjusted": 22.98
       },
-      "game_yrfi_probability": 43.51
+      "game_yrfi_probability": 43.26
     },
-    "yrfi_probability": 43.51
+    "yrfi_probability": 43.26
   },
   "metadata": {
-    "generated_at": "2026-06-21T15:45:40.083145",
+    "generated_at": "2026-06-22T18:08:58.700227",
     "data_source": "season_data.json"
   }
 }

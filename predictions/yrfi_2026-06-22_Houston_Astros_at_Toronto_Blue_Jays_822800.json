@@ -1,0 +1,67 @@
+{
+  "game_pk": 822800,
+  "game_date": "2026-06-22",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.64102564102564,
+        "ratio": "10/39"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 30.26,
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.205128205128204,
+        "ratio": "11/39"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.64102564102564,
+        "tendency": 20.0,
+        "combined": 23.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.37
+      },
+      "away_team": {
+        "base": 28.205128205128204,
+        "tendency": 33.33333333333333,
+        "combined": 30.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.18
+      },
+      "game_yrfi_probability": 34.08
+    },
+    "yrfi_probability": 34.08
+  },
+  "metadata": {
+    "generated_at": "2026-06-22T18:08:58.706990",
+    "data_source": "season_data.json"
+  }
+}

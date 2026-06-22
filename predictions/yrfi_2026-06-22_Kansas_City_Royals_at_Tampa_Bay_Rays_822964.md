@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Arizona Diamondbacks
+# Análisis YRFI: Kansas City Royals @ Tampa Bay Rays
 
-**Fecha:** 2026-06-21  
-**Lanzadores:** Mike Paredes (V) vs Jose Cabrera (L)
+**Fecha:** 2026-06-22  
+**Lanzadores:** Michael Wacha (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.5%
+**Probabilidad de que anoten en la primera entrada:** 45.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 32.5% (13/40 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 41.7% (15/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Mike Paredes):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.1%
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 25.0%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 33.3% (13/39 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 32.4% (12/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Jose Cabrera):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 27.1%
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 26.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-21 15:45:40
+- **Generado el:** 2026-06-22 18:08:58
 - **Fuente de datos:** season_data.json

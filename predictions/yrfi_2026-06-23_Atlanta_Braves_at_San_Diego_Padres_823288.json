@@ -1,0 +1,67 @@
+{
+  "game_pk": 823288,
+  "game_date": "2026-06-23",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "8/38"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 37.02,
+    "pitcher": {
+      "name": "Grant Holmes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 39.473684210526315,
+        "ratio": "15/38"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.052631578947366,
+        "tendency": 33.33333333333333,
+        "combined": 25.96,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.18
+      },
+      "away_team": {
+        "base": 39.473684210526315,
+        "tendency": 33.33333333333333,
+        "combined": 37.02,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.91
+      },
+      "game_yrfi_probability": 50.49
+    },
+    "yrfi_probability": 50.49
+  },
+  "metadata": {
+    "generated_at": "2026-06-22T18:08:58.736340",
+    "data_source": "season_data.json"
+  }
+}

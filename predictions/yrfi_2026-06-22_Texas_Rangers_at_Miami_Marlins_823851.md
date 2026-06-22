@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Texas Rangers
+# Análisis YRFI: Texas Rangers @ Miami Marlins
 
-**Fecha:** 2026-06-21  
-**Lanzadores:** Wandy Peralta (V) vs Nathan Eovaldi (L)
+**Fecha:** 2026-06-22  
+**Lanzadores:** Tyler Alexander (V) vs Tyler Phillips (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.6%
+**Probabilidad de que anoten en la primera entrada:** 43.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 25.0% (9/36 partidos)
+### Miami Marlins (Local)
+- **Estadística base YRFI:** 40.5% (17/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Wandy Peralta):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Impacto del lanzador visitante (Texas Rangers - Tyler Alexander):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.3%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 21.6% (8/37 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 32.5% (13/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 38.4%
+- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-21 15:45:40
+- **Generado el:** 2026-06-22 18:08:58
 - **Fuente de datos:** season_data.json

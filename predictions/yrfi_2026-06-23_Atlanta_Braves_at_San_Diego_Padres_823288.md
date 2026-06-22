@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Miami Marlins
+# Análisis YRFI: Atlanta Braves @ San Diego Padres
 
-**Fecha:** 2026-06-21  
-**Lanzadores:** Logan Webb (V) vs Ryan Gusto (L)
+**Fecha:** 2026-06-23  
+**Lanzadores:** Grant Holmes (V) vs Michael King (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.6%
+**Probabilidad de que anoten en la primera entrada:** 50.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 41.5% (17/41 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 21.1% (8/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 34.2%
+- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.2%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 26.2% (11/42 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 39.5% (15/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 25.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-21 15:45:40
+- **Generado el:** 2026-06-22 18:08:58
 - **Fuente de datos:** season_data.json

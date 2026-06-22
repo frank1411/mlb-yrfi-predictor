@@ -1,0 +1,67 @@
+{
+  "game_pk": 824016,
+  "game_date": "2026-06-23",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Sam Aldegheri",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 43.24324324324324,
+        "ratio": "16/37"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 27.54,
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.684210526315788,
+        "ratio": "9/38"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 43.24324324324324,
+        "tendency": 40.0,
+        "combined": 41.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.36
+      },
+      "away_team": {
+        "base": 23.684210526315788,
+        "tendency": 33.33333333333333,
+        "combined": 27.54,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.28
+      },
+      "game_yrfi_probability": 42.98
+    },
+    "yrfi_probability": 42.98
+  },
+  "metadata": {
+    "generated_at": "2026-06-22T18:08:58.732782",
+    "data_source": "season_data.json"
+  }
+}

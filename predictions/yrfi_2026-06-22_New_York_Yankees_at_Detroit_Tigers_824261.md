@@ -1,7 +1,7 @@
-# Análisis YRFI: Cincinnati Reds @ New York Yankees
+# Análisis YRFI: New York Yankees @ Detroit Tigers
 
-**Fecha:** 2026-06-21  
-**Lanzadores:** Chase Burns (V) vs Elmer Rodríguez (L)
+**Fecha:** 2026-06-22  
+**Lanzadores:** Gerrit Cole (V) vs Framber Valdez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 44.4% (16/36 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 26.1%
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 29.7% (11/37 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.7%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 24.3% (9/37 partidos)
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 30.8% (12/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Elmer Rodríguez):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-21 15:45:40
+- **Generado el:** 2026-06-22 18:08:58
 - **Fuente de datos:** season_data.json
