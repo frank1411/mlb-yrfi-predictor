@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ St. Louis Cardinals
 
-**Fecha:** 2026-06-22  
-**Lanzadores:** Merrill Kelly (V) vs Andre Pallante (L)
+**Fecha:** 2026-06-23  
+**Lanzadores:** Eduardo Rodriguez (V) vs Kyle Leahy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.6%
+**Probabilidad de que anoten en la primera entrada:** 57.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 28.9% (11/38 partidos)
+- **Estadística base YRFI:** 28.2% (11/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 27.1%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 41.8%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 22.2% (8/36 partidos)
+- **Estadística base YRFI:** 21.6% (8/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Impacto del lanzador local (St. Louis Cardinals - Kyle Leahy):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-22 18:08:58
+- **Generado el:** 2026-06-23 16:19:47
 - **Fuente de datos:** season_data.json

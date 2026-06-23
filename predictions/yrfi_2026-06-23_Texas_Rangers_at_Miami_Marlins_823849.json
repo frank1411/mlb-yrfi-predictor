@@ -1,18 +1,18 @@
 {
-  "game_pk": 823851,
-  "game_date": "2026-06-22",
+  "game_pk": 823849,
+  "game_date": "2026-06-23",
   "home_team": {
     "id": "146",
     "name": "Miami Marlins",
     "pitcher": {
-      "name": "Tyler Phillips",
+      "name": "Sandy Alcantara",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 40.476190476190474,
-        "ratio": "17/42"
+        "value": 39.53488372093023,
+        "ratio": "17/43"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "140",
     "name": "Texas Rangers",
-    "combined_yrfi_pct": 32.83,
+    "combined_yrfi_pct": 32.36,
     "pitcher": {
-      "name": "Tyler Alexander",
+      "name": "Cal Quantrill",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.5,
-        "ratio": "13/40"
+        "value": 31.70731707317073,
+        "ratio": "13/41"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 40.476190476190474,
+        "base": 39.53488372093023,
         "tendency": 33.33333333333333,
-        "combined": 37.62,
+        "combined": 37.05,
         "pitcher_impact": 0.0,
-        "adjusted": 26.33
+        "adjusted": 25.94
       },
       "away_team": {
-        "base": 32.5,
+        "base": 31.70731707317073,
         "tendency": 33.33333333333333,
-        "combined": 32.83,
+        "combined": 32.36,
         "pitcher_impact": 0.0,
-        "adjusted": 22.98
+        "adjusted": 22.65
       },
-      "game_yrfi_probability": 43.26
+      "game_yrfi_probability": 42.71
     },
-    "yrfi_probability": 43.26
+    "yrfi_probability": 42.71
   },
   "metadata": {
-    "generated_at": "2026-06-22T18:08:58.700227",
+    "generated_at": "2026-06-23T16:19:46.982201",
     "data_source": "season_data.json"
   }
 }

@@ -1,38 +1,38 @@
 {
-  "game_pk": 824261,
-  "game_date": "2026-06-22",
+  "game_pk": 824262,
+  "game_date": "2026-06-23",
   "home_team": {
     "id": "116",
     "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Framber Valdez",
+      "name": "Casey Mize",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 29.72972972972973,
-        "ratio": "11/37"
+        "value": 28.947368421052634,
+        "ratio": "11/38"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
     "id": "147",
     "name": "New York Yankees",
-    "combined_yrfi_pct": 29.13,
+    "combined_yrfi_pct": 28.67,
     "pitcher": {
-      "name": "Gerrit Cole",
+      "name": "Carlos Rodón",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.76923076923077,
-        "ratio": "12/39"
+        "value": 30.0,
+        "ratio": "12/40"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 29.72972972972973,
-        "tendency": 40.0,
-        "combined": 33.84,
+        "base": 28.947368421052634,
+        "tendency": 33.33333333333333,
+        "combined": 30.7,
         "pitcher_impact": 0.0,
-        "adjusted": 23.69
+        "adjusted": 21.49
       },
       "away_team": {
-        "base": 30.76923076923077,
+        "base": 30.0,
         "tendency": 26.666666666666668,
-        "combined": 29.13,
+        "combined": 28.67,
         "pitcher_impact": 0.0,
-        "adjusted": 20.39
+        "adjusted": 20.07
       },
-      "game_yrfi_probability": 39.25
+      "game_yrfi_probability": 37.25
     },
-    "yrfi_probability": 39.25
+    "yrfi_probability": 37.25
   },
   "metadata": {
-    "generated_at": "2026-06-22T18:08:58.692597",
+    "generated_at": "2026-06-23T16:19:46.985830",
     "data_source": "season_data.json"
   }
 }

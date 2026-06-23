@@ -1,6 +1,6 @@
 {
-  "game_pk": 823613,
-  "game_date": "2026-06-22",
+  "game_pk": 823614,
+  "game_date": "2026-06-23",
   "home_team": {
     "id": "121",
     "name": "New York Mets",
@@ -25,9 +25,9 @@
     "name": "Chicago Cubs",
     "combined_yrfi_pct": 22.02,
     "pitcher": {
-      "name": "Shota Imanaga",
-      "yrfi_allowed": 66.66666666666666,
-      "yrfi_ratio": "2/3"
+      "name": "Edward Cabrera",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -46,8 +46,8 @@
         "base": 36.11111111111111,
         "tendency": 33.33333333333333,
         "combined": 35.0,
-        "pitcher_impact": 66.66666666666666,
-        "adjusted": 44.5
+        "pitcher_impact": 0.0,
+        "adjusted": 24.5
       },
       "away_team": {
         "base": 18.91891891891892,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 15.41
       },
-      "game_yrfi_probability": 53.05
+      "game_yrfi_probability": 36.13
     },
-    "yrfi_probability": 53.05
+    "yrfi_probability": 36.13
   },
   "metadata": {
-    "generated_at": "2026-06-22T18:08:58.710725",
+    "generated_at": "2026-06-23T16:19:46.993307",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Miami Marlins
+# Análisis YRFI: Atlanta Braves @ San Diego Padres
 
-**Fecha:** 2026-06-22  
-**Lanzadores:** Tyler Alexander (V) vs Tyler Phillips (L)
+**Fecha:** 2026-06-24  
+**Lanzadores:** JR Ritchie (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.3%
+**Probabilidad de que anoten en la primera entrada:** 60.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 40.5% (17/42 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 20.5% (8/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Tyler Alexander):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.3%
+- **Impacto del lanzador visitante (Atlanta Braves - JR Ritchie):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 33.0%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 32.5% (13/40 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 38.5% (15/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.0%
+- **Impacto del lanzador local (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 40.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-22 18:08:58
+- **Generado el:** 2026-06-23 16:19:47
 - **Fuente de datos:** season_data.json

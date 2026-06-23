@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Tampa Bay Rays
+# Análisis YRFI: Milwaukee Brewers @ Cincinnati Reds
 
-**Fecha:** 2026-06-22  
-**Lanzadores:** Michael Wacha (V) vs Drew Rasmussen (L)
+**Fecha:** 2026-06-23  
+**Lanzadores:** Brandon Sproat (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.0%
+**Probabilidad de que anoten en la primera entrada:** 63.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 41.7% (15/36 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 28.2% (11/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 25.0%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Brandon Sproat):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 49.3%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 32.4% (12/37 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 33.3% (12/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.7%
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-22 18:08:58
+- **Generado el:** 2026-06-23 16:19:46
 - **Fuente de datos:** season_data.json

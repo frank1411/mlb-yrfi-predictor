@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ New York Mets
+# Análisis YRFI: New York Yankees @ Detroit Tigers
 
-**Fecha:** 2026-06-22  
-**Lanzadores:** Shota Imanaga (V) vs Kodai Senga (L)
+**Fecha:** 2026-06-23  
+**Lanzadores:** Carlos Rodón (V) vs Casey Mize (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.0%
+**Probabilidad de que anoten en la primera entrada:** 37.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 36.1% (13/36 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 28.9% (11/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 44.5%
+- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.5%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 18.9% (7/37 partidos)
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 30.0% (12/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - Kodai Senga):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.4%
+- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-22 18:08:58
+- **Generado el:** 2026-06-23 16:19:46
 - **Fuente de datos:** season_data.json

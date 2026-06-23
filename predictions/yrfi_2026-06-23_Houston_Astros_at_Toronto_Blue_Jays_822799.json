@@ -1,18 +1,18 @@
 {
-  "game_pk": 822800,
-  "game_date": "2026-06-22",
+  "game_pk": 822799,
+  "game_date": "2026-06-23",
   "home_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Dylan Cease",
+      "name": "Shane Bieber",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 25.64102564102564,
-        "ratio": "10/39"
+        "value": 25.0,
+        "ratio": "10/40"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "117",
     "name": "Houston Astros",
-    "combined_yrfi_pct": 30.26,
+    "combined_yrfi_pct": 31.33,
     "pitcher": {
-      "name": "Hunter Brown",
+      "name": "Peter Lambert",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 28.205128205128204,
-        "ratio": "11/39"
+        "value": 30.0,
+        "ratio": "12/40"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.64102564102564,
+        "base": 25.0,
         "tendency": 20.0,
-        "combined": 23.38,
+        "combined": 23.0,
         "pitcher_impact": 0.0,
-        "adjusted": 16.37
+        "adjusted": 16.1
       },
       "away_team": {
-        "base": 28.205128205128204,
+        "base": 30.0,
         "tendency": 33.33333333333333,
-        "combined": 30.26,
+        "combined": 31.33,
         "pitcher_impact": 0.0,
-        "adjusted": 21.18
+        "adjusted": 21.93
       },
-      "game_yrfi_probability": 34.08
+      "game_yrfi_probability": 34.5
     },
-    "yrfi_probability": 34.08
+    "yrfi_probability": 34.5
   },
   "metadata": {
-    "generated_at": "2026-06-22T18:08:58.706990",
+    "generated_at": "2026-06-23T16:19:46.970913",
     "data_source": "season_data.json"
   }
 }

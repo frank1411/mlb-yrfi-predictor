@@ -1,18 +1,18 @@
 {
-  "game_pk": 823288,
-  "game_date": "2026-06-23",
+  "game_pk": 823286,
+  "game_date": "2026-06-24",
   "home_team": {
     "id": "135",
     "name": "San Diego Padres",
     "pitcher": {
-      "name": "Michael King",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 21.052631578947366,
-        "ratio": "8/38"
+        "value": 20.51282051282051,
+        "ratio": "8/39"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "144",
     "name": "Atlanta Braves",
-    "combined_yrfi_pct": 37.02,
+    "combined_yrfi_pct": 36.41,
     "pitcher": {
-      "name": "Grant Holmes",
+      "name": "JR Ritchie",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "2/4"
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 39.473684210526315,
-        "ratio": "15/38"
+        "value": 38.46153846153847,
+        "ratio": "15/39"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 21.052631578947366,
+        "base": 20.51282051282051,
         "tendency": 33.33333333333333,
-        "combined": 25.96,
+        "combined": 25.64,
         "pitcher_impact": 50.0,
-        "adjusted": 33.18
+        "adjusted": 32.95
       },
       "away_team": {
-        "base": 39.473684210526315,
+        "base": 38.46153846153847,
         "tendency": 33.33333333333333,
-        "combined": 37.02,
-        "pitcher_impact": 0.0,
-        "adjusted": 25.91
+        "combined": 36.41,
+        "pitcher_impact": 50.0,
+        "adjusted": 40.49
       },
-      "game_yrfi_probability": 50.49
+      "game_yrfi_probability": 60.1
     },
-    "yrfi_probability": 50.49
+    "yrfi_probability": 60.1
   },
   "metadata": {
-    "generated_at": "2026-06-22T18:08:58.736340",
+    "generated_at": "2026-06-23T16:19:47.017744",
     "data_source": "season_data.json"
   }
 }

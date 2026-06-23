@@ -1,0 +1,67 @@
+{
+  "game_pk": 824501,
+  "game_date": "2026-06-23",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 28.205128205128204,
+        "ratio": "11/39"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 38.67,
+    "pitcher": {
+      "name": "Brandon Sproat",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "12/36"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.205128205128204,
+        "tendency": 26.666666666666668,
+        "combined": 27.59,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.31
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 46.666666666666664,
+        "combined": 38.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.07
+      },
+      "game_yrfi_probability": 63.03
+    },
+    "yrfi_probability": 63.03
+  },
+  "metadata": {
+    "generated_at": "2026-06-23T16:19:46.996888",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823690,
+  "game_date": "2026-06-23",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Kendry Rojas",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.0,
+        "ratio": "14/40"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 34.46,
+    "pitcher": {
+      "name": "Justin Wrobleski",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "12/39"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.0,
+        "tendency": 46.666666666666664,
+        "combined": 39.67,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 47.77
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 40.0,
+        "combined": 34.46,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.12
+      },
+      "game_yrfi_probability": 60.37
+    },
+    "yrfi_probability": 60.37
+  },
+  "metadata": {
+    "generated_at": "2026-06-23T16:19:47.000519",
+    "data_source": "season_data.json"
+  }
+}

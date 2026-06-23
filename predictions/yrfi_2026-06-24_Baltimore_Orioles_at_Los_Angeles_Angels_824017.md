@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Los Angeles Angels
 
-**Fecha:** 2026-06-23  
-**Lanzadores:** Kyle Bradish (V) vs Sam Aldegheri (L)
+**Fecha:** 2026-06-24  
+**Lanzadores:** Shane Baz (V) vs Ryan Johnson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.0%
+**Probabilidad de que anoten en la primera entrada:** 56.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 43.2% (16/37 partidos)
+- **Estadística base YRFI:** 42.1% (16/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 29.4%
+- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 43.9%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 23.7% (9/38 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Sam Aldegheri):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.3%
+- **Estadística base YRFI:** 25.6% (10/39 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Los Angeles Angels - Ryan Johnson):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 22.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-22 18:08:58
+- **Generado el:** 2026-06-23 16:19:47
 - **Fuente de datos:** season_data.json

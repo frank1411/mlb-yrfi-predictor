@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Colorado Rockies
 
-**Fecha:** 2026-06-23  
-**Lanzadores:** Jake Bennett (V) vs Ryan Feltner (L)
+**Fecha:** 2026-06-24  
+**Lanzadores:** Sonny Gray (V) vs Sean Sullivan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.2%
+**Probabilidad de que anoten en la primera entrada:** 58.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 43.2% (16/37 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 27.5%
+- **Estadística base YRFI:** 42.1% (16/38 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 55.1%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 15.8% (6/38 partidos)
+- **Estadística base YRFI:** 15.4% (6/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Impacto del lanzador local (Colorado Rockies - Sean Sullivan):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 8.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-22 18:08:58
+- **Generado el:** 2026-06-23 16:19:47
 - **Fuente de datos:** season_data.json
