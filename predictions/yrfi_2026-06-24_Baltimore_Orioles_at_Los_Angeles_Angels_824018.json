@@ -1,0 +1,67 @@
+{
+  "game_pk": 824018,
+  "game_date": "2026-06-24",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 43.58974358974359,
+        "ratio": "17/39"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 31.0,
+    "pitcher": {
+      "name": "Trey Gibson",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "10/40"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 43.58974358974359,
+        "tendency": 40.0,
+        "combined": 42.15,
+        "pitcher_impact": 100.0,
+        "adjusted": 59.51
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 50.0,
+        "adjusted": 36.7
+      },
+      "game_yrfi_probability": 74.37
+    },
+    "yrfi_probability": 74.37
+  },
+  "metadata": {
+    "generated_at": "2026-06-24T16:08:43.811667",
+    "data_source": "season_data.json"
+  }
+}

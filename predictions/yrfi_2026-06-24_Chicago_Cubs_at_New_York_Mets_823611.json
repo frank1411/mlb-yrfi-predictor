@@ -1,0 +1,67 @@
+{
+  "game_pk": 823611,
+  "game_date": "2026-06-24",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Sean Manaea",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.13513513513514,
+        "ratio": "13/37"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 21.72,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 18.421052631578945,
+        "ratio": "7/38"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.13513513513514,
+        "tendency": 33.33333333333333,
+        "combined": 34.41,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.09
+      },
+      "away_team": {
+        "base": 18.421052631578945,
+        "tendency": 26.666666666666668,
+        "combined": 21.72,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.2
+      },
+      "game_yrfi_probability": 48.35
+    },
+    "yrfi_probability": 48.35
+  },
+  "metadata": {
+    "generated_at": "2026-06-24T16:08:43.800132",
+    "data_source": "season_data.json"
+  }
+}

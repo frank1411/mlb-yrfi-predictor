@@ -1,0 +1,67 @@
+{
+  "game_pk": 822719,
+  "game_date": "2026-06-24",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Miles Mikolas",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 35.0,
+        "ratio": "14/40"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 37.55,
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 27.027027027027028,
+        "ratio": "10/37"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.0,
+        "tendency": 26.666666666666668,
+        "combined": 31.67,
+        "pitcher_impact": 20.0,
+        "adjusted": 28.17
+      },
+      "away_team": {
+        "base": 27.027027027027028,
+        "tendency": 53.333333333333336,
+        "combined": 37.55,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.28
+      },
+      "game_yrfi_probability": 47.05
+    },
+    "yrfi_probability": 47.05
+  },
+  "metadata": {
+    "generated_at": "2026-06-24T16:08:43.826470",
+    "data_source": "season_data.json"
+  }
+}

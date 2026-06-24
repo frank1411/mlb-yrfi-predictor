@@ -1,0 +1,67 @@
+{
+  "game_pk": 823284,
+  "game_date": "2026-06-25",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "JP Sears",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "8/40"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 35.83,
+    "pitcher": {
+      "name": "Martín Pérez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "15/40"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.0,
+        "tendency": 33.33333333333333,
+        "combined": 25.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.73
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 33.33333333333333,
+        "combined": 35.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.08
+      },
+      "game_yrfi_probability": 49.6
+    },
+    "yrfi_probability": 49.6
+  },
+  "metadata": {
+    "generated_at": "2026-06-24T16:08:43.845313",
+    "data_source": "season_data.json"
+  }
+}

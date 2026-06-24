@@ -1,0 +1,67 @@
+{
+  "game_pk": 823208,
+  "game_date": "2026-06-25",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Tyler Mahle",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "7/35"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 34.46,
+    "pitcher": {
+      "name": "Gage Jump",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "10/38"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.0,
+        "tendency": 26.666666666666668,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "away_team": {
+        "base": 26.31578947368421,
+        "tendency": 46.666666666666664,
+        "combined": 34.46,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.62
+      },
+      "game_yrfi_probability": 42.47
+    },
+    "yrfi_probability": 42.47
+  },
+  "metadata": {
+    "generated_at": "2026-06-24T16:08:43.848966",
+    "data_source": "season_data.json"
+  }
+}
