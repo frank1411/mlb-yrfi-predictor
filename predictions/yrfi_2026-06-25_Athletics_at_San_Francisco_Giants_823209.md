@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Cincinnati Reds
+# Análisis YRFI: Athletics @ San Francisco Giants
 
-**Fecha:** 2026-06-24  
-**Lanzadores:** Shane Drohan (V) vs Rhett Lowder (L)
+**Fecha:** 2026-06-25  
+**Lanzadores:** Jeffrey Springs (V) vs Landen Roupp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 34.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 27.5% (11/40 partidos)
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 19.4% (7/36 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Shane Drohan):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.1%
+- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 13.8%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 32.4% (12/37 partidos)
+### Athletics (Visitante)
+- **Estadística base YRFI:** 25.6% (10/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Rhett Lowder):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 36.7%
+- **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-24 16:08:43
+- **Generado el:** 2026-06-25 16:15:02
 - **Fuente de datos:** season_data.json

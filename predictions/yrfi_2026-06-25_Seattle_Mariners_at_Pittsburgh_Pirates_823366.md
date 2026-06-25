@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Miami Marlins
+# Análisis YRFI: Seattle Mariners @ Pittsburgh Pirates
 
-**Fecha:** 2026-06-24  
-**Lanzadores:** Jacob deGrom (V) vs Eury Pérez (L)
+**Fecha:** 2026-06-25  
+**Lanzadores:** Bryce Miller (V) vs Bubba Chandler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.8%
+**Probabilidad de que anoten en la primera entrada:** 41.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 38.6% (17/44 partidos)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 36.6% (15/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.7%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 31.0% (13/42 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 30.0% (12/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 29.8%
+- **Impacto del lanzador local (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-24 16:08:43
+- **Generado el:** 2026-06-25 16:15:02
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823366,
+  "game_date": "2026-06-25",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 36.58536585365854,
+        "ratio": "15/41"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 31.33,
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "12/40"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.58536585365854,
+        "tendency": 33.33333333333333,
+        "combined": 35.28,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.7
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 33.33333333333333,
+        "combined": 31.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.93
+      },
+      "game_yrfi_probability": 41.21
+    },
+    "yrfi_probability": 41.21
+  },
+  "metadata": {
+    "generated_at": "2026-06-25T16:15:02.822043",
+    "data_source": "season_data.json"
+  }
+}

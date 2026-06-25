@@ -1,18 +1,18 @@
 {
-  "game_pk": 823284,
+  "game_pk": 824258,
   "game_date": "2026-06-25",
   "home_team": {
-    "id": "135",
-    "name": "San Diego Padres",
+    "id": "116",
+    "name": "Detroit Tigers",
     "pitcher": {
-      "name": "JP Sears",
+      "name": "Troy Melton",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 20.0,
-        "ratio": "8/40"
+        "value": 27.500000000000004,
+        "ratio": "11/40"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,47 +21,47 @@
     }
   },
   "away_team": {
-    "id": "144",
-    "name": "Atlanta Braves",
-    "combined_yrfi_pct": 35.83,
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 36.0,
     "pitcher": {
-      "name": "Martín Pérez",
+      "name": "Tatsuya Imai",
       "yrfi_allowed": 50.0,
       "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 37.5,
-        "ratio": "15/40"
+        "value": 33.33333333333333,
+        "ratio": "14/42"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 20.0,
+        "base": 27.500000000000004,
         "tendency": 33.33333333333333,
-        "combined": 25.33,
+        "combined": 29.83,
         "pitcher_impact": 50.0,
-        "adjusted": 32.73
+        "adjusted": 35.88
       },
       "away_team": {
-        "base": 37.5,
-        "tendency": 33.33333333333333,
-        "combined": 35.83,
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
         "pitcher_impact": 0.0,
-        "adjusted": 25.08
+        "adjusted": 25.2
       },
-      "game_yrfi_probability": 49.6
+      "game_yrfi_probability": 52.04
     },
-    "yrfi_probability": 49.6
+    "yrfi_probability": 52.04
   },
   "metadata": {
-    "generated_at": "2026-06-24T16:08:43.845313",
+    "generated_at": "2026-06-25T16:15:02.829808",
     "data_source": "season_data.json"
   }
 }

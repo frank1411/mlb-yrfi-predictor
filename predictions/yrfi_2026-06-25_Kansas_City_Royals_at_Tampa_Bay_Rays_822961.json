@@ -1,18 +1,18 @@
 {
-  "game_pk": 822965,
-  "game_date": "2026-06-24",
+  "game_pk": 822961,
+  "game_date": "2026-06-25",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Griffin Jax",
+      "name": "Casey Legumina",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 42.10526315789473,
-        "ratio": "16/38"
+        "value": 41.02564102564102,
+        "ratio": "16/39"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "118",
     "name": "Kansas City Royals",
-    "combined_yrfi_pct": 36.0,
+    "combined_yrfi_pct": 35.5,
     "pitcher": {
-      "name": "Noah Cameron",
+      "name": "Seth Lugo",
       "yrfi_allowed": 33.33333333333333,
       "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "13/39"
+        "value": 32.5,
+        "ratio": "13/40"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 42.10526315789473,
+        "base": 41.02564102564102,
         "tendency": 26.666666666666668,
-        "combined": 35.93,
+        "combined": 35.28,
         "pitcher_impact": 33.33333333333333,
-        "adjusted": 35.15
+        "adjusted": 34.7
       },
       "away_team": {
-        "base": 33.33333333333333,
+        "base": 32.5,
         "tendency": 40.0,
-        "combined": 36.0,
+        "combined": 35.5,
         "pitcher_impact": 0.0,
-        "adjusted": 25.2
+        "adjusted": 24.85
       },
-      "game_yrfi_probability": 51.49
+      "game_yrfi_probability": 50.93
     },
-    "yrfi_probability": 51.49
+    "yrfi_probability": 50.93
   },
   "metadata": {
-    "generated_at": "2026-06-24T16:08:43.819141",
+    "generated_at": "2026-06-25T16:15:02.818169",
     "data_source": "season_data.json"
   }
 }
