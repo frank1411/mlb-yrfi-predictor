@@ -1,0 +1,67 @@
+{
+  "game_pk": 822796,
+  "game_date": "2026-06-26",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Patrick Corbin",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.581395348837212,
+        "ratio": "11/43"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 32.42,
+    "pitcher": {
+      "name": "Nathan Eovaldi",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 31.818181818181817,
+        "ratio": "14/44"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.581395348837212,
+        "tendency": 20.0,
+        "combined": 23.35,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.34
+      },
+      "away_team": {
+        "base": 31.818181818181817,
+        "tendency": 33.33333333333333,
+        "combined": 32.42,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.7
+      },
+      "game_yrfi_probability": 57.22
+    },
+    "yrfi_probability": 57.22
+  },
+  "metadata": {
+    "generated_at": "2026-06-26T16:06:04.571118",
+    "data_source": "season_data.json"
+  }
+}

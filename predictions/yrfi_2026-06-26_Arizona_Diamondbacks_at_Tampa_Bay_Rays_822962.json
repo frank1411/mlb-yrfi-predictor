@@ -1,22 +1,22 @@
 {
-  "game_pk": 823042,
-  "game_date": "2026-06-25",
+  "game_pk": 822962,
+  "game_date": "2026-06-26",
   "home_team": {
-    "id": "138",
-    "name": "St. Louis Cardinals",
+    "id": "139",
+    "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Michael McGreevy",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 26.82926829268293,
-        "ratio": "11/41"
+        "value": 42.5,
+        "ratio": "17/40"
       },
       "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 26.82926829268293,
-        "tendency": 46.666666666666664,
-        "combined": 34.76,
+        "base": 42.5,
+        "tendency": 26.666666666666668,
+        "combined": 36.17,
         "pitcher_impact": 50.0,
-        "adjusted": 39.33
+        "adjusted": 40.32
       },
       "away_team": {
         "base": 20.51282051282051,
         "tendency": 20.0,
         "combined": 20.31,
-        "pitcher_impact": 25.0,
-        "adjusted": 21.72
+        "pitcher_impact": 0.0,
+        "adjusted": 14.22
       },
-      "game_yrfi_probability": 52.51
+      "game_yrfi_probability": 48.81
     },
-    "yrfi_probability": 52.51
+    "yrfi_probability": 48.81
   },
   "metadata": {
-    "generated_at": "2026-06-25T16:15:02.848721",
+    "generated_at": "2026-06-26T16:06:04.578632",
     "data_source": "season_data.json"
   }
 }

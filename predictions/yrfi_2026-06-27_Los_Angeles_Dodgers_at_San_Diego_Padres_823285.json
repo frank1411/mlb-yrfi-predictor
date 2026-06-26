@@ -1,0 +1,67 @@
+{
+  "game_pk": 823285,
+  "game_date": "2026-06-27",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 19.51219512195122,
+        "ratio": "8/41"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 35.02,
+    "pitcher": {
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.70731707317073,
+        "ratio": "13/41"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.51219512195122,
+        "tendency": 33.33333333333333,
+        "combined": 25.04,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.53
+      },
+      "away_team": {
+        "base": 31.70731707317073,
+        "tendency": 40.0,
+        "combined": 35.02,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.52
+      },
+      "game_yrfi_probability": 37.75
+    },
+    "yrfi_probability": 37.75
+  },
+  "metadata": {
+    "generated_at": "2026-06-26T16:06:04.605196",
+    "data_source": "season_data.json"
+  }
+}

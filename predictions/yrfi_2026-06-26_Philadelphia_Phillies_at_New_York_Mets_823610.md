@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ San Francisco Giants
+# Análisis YRFI: Philadelphia Phillies @ New York Mets
 
-**Fecha:** 2026-06-25  
-**Lanzadores:** Jeffrey Springs (V) vs Landen Roupp (L)
+**Fecha:** 2026-06-26  
+**Lanzadores:** Zack Wheeler (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.3%
+**Probabilidad de que anoten en la primera entrada:** 60.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Francisco Giants (Local)
-- **Estadística base YRFI:** 19.4% (7/36 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 13.8%
+### New York Mets (Local)
+- **Estadística base YRFI:** 32.5% (13/40 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Zack Wheeler):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 36.1%
 
-### Athletics (Visitante)
+### Philadelphia Phillies (Visitante)
 - **Estadística base YRFI:** 25.6% (10/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Impacto del lanzador local (New York Mets - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-25 16:15:02
+- **Generado el:** 2026-06-26 16:06:04
 - **Fuente de datos:** season_data.json

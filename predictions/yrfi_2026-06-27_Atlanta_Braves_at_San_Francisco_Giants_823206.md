@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Washington Nationals
+# Análisis YRFI: Atlanta Braves @ San Francisco Giants
 
-**Fecha:** 2026-06-25  
-**Lanzadores:** Cristopher Sánchez (V) vs Cade Cavalli (L)
+**Fecha:** 2026-06-27  
+**Lanzadores:** Reynaldo López (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.3%
+**Probabilidad de que anoten en la primera entrada:** 59.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 18.9% (7/37 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Reynaldo López):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 33.5%
+
+### Atlanta Braves (Visitante)
 - **Estadística base YRFI:** 36.6% (15/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
+- **Impacto del lanzador local (San Francisco Giants - Por anunciar):** 50.0% (0/0 partidos)
 - **Puntuación ajustada:** 39.7%
-
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.3% (10/38 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-25 16:15:02
+- **Generado el:** 2026-06-26 16:06:04
 - **Fuente de datos:** season_data.json

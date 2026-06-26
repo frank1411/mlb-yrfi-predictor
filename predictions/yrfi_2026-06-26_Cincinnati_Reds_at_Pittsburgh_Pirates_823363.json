@@ -1,0 +1,67 @@
+{
+  "game_pk": 823363,
+  "game_date": "2026-06-26",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Paul Skenes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 38.095238095238095,
+        "ratio": "16/42"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 22.21,
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.684210526315788,
+        "ratio": "9/38"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.095238095238095,
+        "tendency": 33.33333333333333,
+        "combined": 36.19,
+        "pitcher_impact": 50.0,
+        "adjusted": 40.33
+      },
+      "away_team": {
+        "base": 23.684210526315788,
+        "tendency": 20.0,
+        "combined": 22.21,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.55
+      },
+      "game_yrfi_probability": 58.56
+    },
+    "yrfi_probability": 58.56
+  },
+  "metadata": {
+    "generated_at": "2026-06-26T16:06:04.563564",
+    "data_source": "season_data.json"
+  }
+}

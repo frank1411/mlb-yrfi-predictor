@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Boston Red Sox
 
-**Fecha:** 2026-06-25  
-**Lanzadores:** Cam Schlittler (V) vs Connelly Early (L)
+**Fecha:** 2026-06-26  
+**Lanzadores:** Will Warren (V) vs Payton Tolle (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.1%
+**Probabilidad de que anoten en la primera entrada:** 31.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 18.9% (7/37 partidos)
+- **Estadística base YRFI:** 18.4% (7/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 13.3%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 31.0% (13/42 partidos)
+- **Estadística base YRFI:** 32.6% (14/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Connelly Early):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.5%
+- **Impacto del lanzador local (Boston Red Sox - Payton Tolle):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-25 16:15:02
+- **Generado el:** 2026-06-26 16:06:04
 - **Fuente de datos:** season_data.json

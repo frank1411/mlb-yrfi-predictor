@@ -1,0 +1,67 @@
+{
+  "game_pk": 824824,
+  "game_date": "2026-06-26",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 19.51219512195122,
+        "ratio": "8/41"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 34.0,
+    "pitcher": {
+      "name": "Andrew Alvarez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "12/40"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.51219512195122,
+        "tendency": 40.0,
+        "combined": 27.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.4
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 40.0,
+        "combined": 34.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.8
+      },
+      "game_yrfi_probability": 38.58
+    },
+    "yrfi_probability": 38.58
+  },
+  "metadata": {
+    "generated_at": "2026-06-26T16:06:04.567195",
+    "data_source": "season_data.json"
+  }
+}

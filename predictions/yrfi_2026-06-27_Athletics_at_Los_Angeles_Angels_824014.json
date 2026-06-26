@@ -1,0 +1,67 @@
+{
+  "game_pk": 824014,
+  "game_date": "2026-06-27",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 45.0,
+        "ratio": "18/40"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 31.0,
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "10/40"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 45.0,
+        "tendency": 46.666666666666664,
+        "combined": 45.67,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 41.97
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.7
+      },
+      "game_yrfi_probability": 54.56
+    },
+    "yrfi_probability": 54.56
+  },
+  "metadata": {
+    "generated_at": "2026-06-26T16:06:04.601563",
+    "data_source": "season_data.json"
+  }
+}

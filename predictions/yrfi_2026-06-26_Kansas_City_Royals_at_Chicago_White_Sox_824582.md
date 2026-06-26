@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Tampa Bay Rays
+# Análisis YRFI: Kansas City Royals @ Chicago White Sox
 
-**Fecha:** 2026-06-25  
-**Lanzadores:** Seth Lugo (V) vs Casey Legumina (L)
+**Fecha:** 2026-06-26  
+**Lanzadores:** Por anunciar (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.9%
+**Probabilidad de que anoten en la primera entrada:** 60.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 41.0% (16/39 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 27.5% (11/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Seth Lugo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.7%
+- **Impacto del lanzador visitante (Kansas City Royals - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 34.0%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 32.5% (13/40 partidos)
+- **Estadística base YRFI:** 31.7% (13/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Casey Legumina):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 39.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-25 16:15:02
+- **Generado el:** 2026-06-26 16:06:04
 - **Fuente de datos:** season_data.json
