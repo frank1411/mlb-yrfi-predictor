@@ -1,0 +1,67 @@
+{
+  "game_pk": 824581,
+  "game_date": "2026-06-27",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 26.82926829268293,
+        "ratio": "11/41"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 34.57,
+    "pitcher": {
+      "name": "Michael Wacha",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.952380952380953,
+        "ratio": "13/42"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.82926829268293,
+        "tendency": 26.666666666666668,
+        "combined": 26.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.73
+      },
+      "away_team": {
+        "base": 30.952380952380953,
+        "tendency": 40.0,
+        "combined": 34.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.2
+      },
+      "game_yrfi_probability": 38.4
+    },
+    "yrfi_probability": 38.4
+  },
+  "metadata": {
+    "generated_at": "2026-06-27T15:07:55.550522",
+    "data_source": "season_data.json"
+  }
+}

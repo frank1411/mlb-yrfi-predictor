@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Pittsburgh Pirates
+# Análisis YRFI: Arizona Diamondbacks @ Tampa Bay Rays
 
-**Fecha:** 2026-06-26  
-**Lanzadores:** Andrew Abbott (V) vs Paul Skenes (L)
+**Fecha:** 2026-06-27  
+**Lanzadores:** Jose Cabrera (V) vs Cole Sulser (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.6%
+**Probabilidad de que anoten en la primera entrada:** 38.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 38.1% (16/42 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 43.9% (18/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 40.3%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Jose Cabrera):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.8%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 23.7% (9/38 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 22.5% (9/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 30.6%
+- **Impacto del lanzador local (Tampa Bay Rays - Cole Sulser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json

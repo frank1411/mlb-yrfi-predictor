@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ San Francisco Giants
+# Análisis YRFI: Seattle Mariners @ Cleveland Guardians
 
 **Fecha:** 2026-06-27  
-**Lanzadores:** Reynaldo López (V) vs Por anunciar (L)
+**Lanzadores:** Logan Gilbert (V) vs Slade Cecconi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.9%
+**Probabilidad de que anoten en la primera entrada:** 57.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Francisco Giants (Local)
-- **Estadística base YRFI:** 18.9% (7/37 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 29.7% (11/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Reynaldo López):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 33.5%
+- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 33.1%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 36.6% (15/41 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 28.6% (12/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 39.7%
+- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 36.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json

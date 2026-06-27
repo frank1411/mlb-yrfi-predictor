@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Chicago White Sox
 
-**Fecha:** 2026-06-26  
-**Lanzadores:** Por anunciar (V) vs Por anunciar (L)
+**Fecha:** 2026-06-27  
+**Lanzadores:** Michael Wacha (V) vs Davis Martin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.1%
+**Probabilidad de que anoten en la primera entrada:** 38.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 27.5% (11/40 partidos)
+- **Estadística base YRFI:** 26.8% (11/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 34.0%
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 18.7%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 31.7% (13/41 partidos)
+- **Estadística base YRFI:** 31.0% (13/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 39.5%
+- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json

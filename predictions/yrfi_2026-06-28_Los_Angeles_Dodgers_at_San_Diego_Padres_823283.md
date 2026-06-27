@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ San Diego Padres
 
-**Fecha:** 2026-06-27  
-**Lanzadores:** Roki Sasaki (V) vs Walker Buehler (L)
+**Fecha:** 2026-06-28  
+**Lanzadores:** Yoshinobu Yamamoto (V) vs Randy Vásquez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.8%
+**Probabilidad de que anoten en la primera entrada:** 52.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 19.5% (8/41 partidos)
+- **Estadística base YRFI:** 19.0% (8/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.5%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 37.3%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 31.7% (13/41 partidos)
+- **Estadística base YRFI:** 31.0% (13/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador local (San Diego Padres - Randy Vásquez):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json

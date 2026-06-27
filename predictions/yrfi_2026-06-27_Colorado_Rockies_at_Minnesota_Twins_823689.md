@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Minnesota Twins
 
 **Fecha:** 2026-06-27  
-**Lanzadores:** Tomoyuki Sugano (V) vs Taj Bradley (L)
+**Lanzadores:** Michael Lorenzen (V) vs Mike Paredes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.1%
+**Probabilidad de que anoten en la primera entrada:** 36.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 33.3% (14/42 partidos)
+- **Estadística base YRFI:** 34.9% (15/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 27.1%
+- **Impacto del lanzador visitante (Colorado Rockies - Michael Lorenzen):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 19.5% (8/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 13.8%
+- **Estadística base YRFI:** 19.0% (8/42 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Mike Paredes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 11.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Detroit Tigers
 
-**Fecha:** 2026-06-26  
-**Lanzadores:** Spencer Arrighetti (V) vs Keider Montero (L)
+**Fecha:** 2026-06-27  
+**Lanzadores:** Kai-Wei Teng (V) vs Framber Valdez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.6%
+**Probabilidad de que anoten en la primera entrada:** 61.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.8% (11/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Spencer Arrighetti):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Estadística base YRFI:** 26.2% (11/42 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Kai-Wei Teng):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 48.5%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 32.6% (14/43 partidos)
+- **Estadística base YRFI:** 31.8% (14/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Keider Montero):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 24.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json

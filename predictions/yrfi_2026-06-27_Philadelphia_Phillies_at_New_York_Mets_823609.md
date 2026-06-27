@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ New York Mets
 
-**Fecha:** 2026-06-26  
-**Lanzadores:** Zack Wheeler (V) vs Por anunciar (L)
+**Fecha:** 2026-06-27  
+**Lanzadores:** Alan Rangel (V) vs Christian Scott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.9%
+**Probabilidad de que anoten en la primera entrada:** 64.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 32.5% (13/40 partidos)
+- **Estadística base YRFI:** 31.7% (13/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Zack Wheeler):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.1%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Alan Rangel):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.6% (10/39 partidos)
+- **Estadística base YRFI:** 27.5% (11/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (New York Mets - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 38.8%
+- **Impacto del lanzador local (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 54.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823688,
+  "game_pk": 823689,
   "game_date": "2026-06-27",
   "home_team": {
     "id": "142",
     "name": "Minnesota Twins",
     "pitcher": {
-      "name": "Taj Bradley",
+      "name": "Mike Paredes",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "14/42"
+        "value": 34.883720930232556,
+        "ratio": "15/43"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "115",
     "name": "Colorado Rockies",
-    "combined_yrfi_pct": 19.71,
+    "combined_yrfi_pct": 16.76,
     "pitcher": {
-      "name": "Tomoyuki Sugano",
+      "name": "Michael Lorenzen",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 19.51219512195122,
-        "ratio": "8/41"
+        "value": 19.047619047619047,
+        "ratio": "8/42"
       },
       "tendency": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 13.333333333333334,
+        "ratio": "2/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.33333333333333,
+        "base": 34.883720930232556,
         "tendency": 46.666666666666664,
-        "combined": 38.67,
+        "combined": 39.6,
         "pitcher_impact": 0.0,
-        "adjusted": 27.07
+        "adjusted": 27.72
       },
       "away_team": {
-        "base": 19.51219512195122,
-        "tendency": 20.0,
-        "combined": 19.71,
+        "base": 19.047619047619047,
+        "tendency": 13.333333333333334,
+        "combined": 16.76,
         "pitcher_impact": 0.0,
-        "adjusted": 13.8
+        "adjusted": 11.73
       },
-      "game_yrfi_probability": 37.13
+      "game_yrfi_probability": 36.2
     },
-    "yrfi_probability": 37.13
+    "yrfi_probability": 36.2
   },
   "metadata": {
-    "generated_at": "2026-06-26T16:06:04.594139",
+    "generated_at": "2026-06-27T15:07:55.565302",
     "data_source": "season_data.json"
   }
 }

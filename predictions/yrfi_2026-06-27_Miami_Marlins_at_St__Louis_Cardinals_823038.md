@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ St. Louis Cardinals
 
 **Fecha:** 2026-06-27  
-**Lanzadores:** Max Meyer (V) vs Michael McGreevy (L)
+**Lanzadores:** Ryan Gusto (V) vs Andre Pallante (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.9%
+**Probabilidad de que anoten en la primera entrada:** 46.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 26.8% (11/41 partidos)
+- **Estadística base YRFI:** 26.2% (11/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Max Meyer):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.3%
+- **Impacto del lanzador visitante (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.1%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 27.8% (10/36 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Estadística base YRFI:** 27.0% (10/37 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823364,
+  "game_date": "2026-06-27",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Jared Jones",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 39.53488372093023,
+        "ratio": "17/43"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 21.85,
+    "pitcher": {
+      "name": "Chase Burns",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "9/39"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.53488372093023,
+        "tendency": 33.33333333333333,
+        "combined": 37.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.94
+      },
+      "away_team": {
+        "base": 23.076923076923077,
+        "tendency": 20.0,
+        "combined": 21.85,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.29
+      },
+      "game_yrfi_probability": 37.26
+    },
+    "yrfi_probability": 37.26
+  },
+  "metadata": {
+    "generated_at": "2026-06-27T15:07:55.542594",
+    "data_source": "season_data.json"
+  }
+}

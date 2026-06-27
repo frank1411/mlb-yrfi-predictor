@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Milwaukee Brewers
 
-**Fecha:** 2026-06-26  
-**Lanzadores:** Colin Rea (V) vs Jacob Misiorowski (L)
+**Fecha:** 2026-06-27  
+**Lanzadores:** David Peterson (V) vs Kyle Harrison (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.3%
+**Probabilidad de que anoten en la primera entrada:** 65.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 35.0% (14/40 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Estadística base YRFI:** 34.1% (14/41 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - David Peterson):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 53.7%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 17.1% (7/41 partidos)
+- **Estadística base YRFI:** 16.7% (7/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Impacto del lanzador local (Milwaukee Brewers - Kyle Harrison):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-26 16:06:04
+- **Generado el:** 2026-06-27 15:07:55
 - **Fuente de datos:** season_data.json
