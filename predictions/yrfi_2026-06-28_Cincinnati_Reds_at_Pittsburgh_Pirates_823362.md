@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Pittsburgh Pirates
 
-**Fecha:** 2026-06-27  
-**Lanzadores:** Chase Burns (V) vs Jared Jones (L)
+**Fecha:** 2026-06-28  
+**Lanzadores:** Brady Singer (V) vs Mitch Keller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.3%
+**Probabilidad de que anoten en la primera entrada:** 60.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 39.5% (17/43 partidos)
+- **Estadística base YRFI:** 38.6% (17/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 48.1%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 23.1% (9/39 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Jared Jones):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Estadística base YRFI:** 25.0% (10/40 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-27 15:07:55
+- **Generado el:** 2026-06-28 15:11:15
 - **Fuente de datos:** season_data.json

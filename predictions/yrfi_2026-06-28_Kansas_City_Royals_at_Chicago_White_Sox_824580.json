@@ -1,13 +1,13 @@
 {
-  "game_pk": 824257,
-  "game_date": "2026-06-27",
+  "game_pk": 824580,
+  "game_date": "2026-06-28",
   "home_team": {
-    "id": "116",
-    "name": "Detroit Tigers",
+    "id": "145",
+    "name": "Chicago White Sox",
     "pitcher": {
-      "name": "Framber Valdez",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "name": "Anthony Kay",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "117",
-    "name": "Houston Astros",
-    "combined_yrfi_pct": 35.09,
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 34.14,
     "pitcher": {
-      "name": "Kai-Wei Teng",
-      "yrfi_allowed": 100.0,
+      "name": "Luinder Avila",
+      "yrfi_allowed": 0.0,
       "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 31.818181818181817,
-        "ratio": "14/44"
+        "value": 30.23255813953488,
+        "ratio": "13/43"
       },
       "tendency": {
         "value": 40.0,
@@ -46,22 +46,22 @@
         "base": 26.190476190476193,
         "tendency": 26.666666666666668,
         "combined": 26.38,
-        "pitcher_impact": 100.0,
-        "adjusted": 48.47
+        "pitcher_impact": 0.0,
+        "adjusted": 18.47
       },
       "away_team": {
-        "base": 31.818181818181817,
+        "base": 30.23255813953488,
         "tendency": 40.0,
-        "combined": 35.09,
-        "pitcher_impact": 0.0,
-        "adjusted": 24.56
+        "combined": 34.14,
+        "pitcher_impact": 100.0,
+        "adjusted": 53.9
       },
-      "game_yrfi_probability": 61.13
+      "game_yrfi_probability": 62.41
     },
-    "yrfi_probability": 61.13
+    "yrfi_probability": 62.41
   },
   "metadata": {
-    "generated_at": "2026-06-27T15:07:55.530831",
+    "generated_at": "2026-06-28T15:11:15.113587",
     "data_source": "season_data.json"
   }
 }

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823686,
+  "game_date": "2026-06-28",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Connor Prielipp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "16/44"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 20.56,
+    "pitcher": {
+      "name": "Ryan Feltner",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 20.930232558139537,
+        "ratio": "9/43"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 53.333333333333336,
+        "combined": 43.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.21
+      },
+      "away_team": {
+        "base": 20.930232558139537,
+        "tendency": 20.0,
+        "combined": 20.56,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.39
+      },
+      "game_yrfi_probability": 40.25
+    },
+    "yrfi_probability": 40.25
+  },
+  "metadata": {
+    "generated_at": "2026-06-28T15:11:15.110192",
+    "data_source": "season_data.json"
+  }
+}

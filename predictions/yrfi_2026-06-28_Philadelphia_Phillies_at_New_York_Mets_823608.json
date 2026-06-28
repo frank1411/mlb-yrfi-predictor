@@ -1,0 +1,67 @@
+{
+  "game_pk": 823608,
+  "game_date": "2026-06-28",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Cionel Pérez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.952380952380953,
+        "ratio": "13/42"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 32.1,
+    "pitcher": {
+      "name": "Jesús Luzardo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.82926829268293,
+        "ratio": "11/41"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.952380952380953,
+        "tendency": 20.0,
+        "combined": 26.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.6
+      },
+      "away_team": {
+        "base": 26.82926829268293,
+        "tendency": 40.0,
+        "combined": 32.1,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.47
+      },
+      "game_yrfi_probability": 36.89
+    },
+    "yrfi_probability": 36.89
+  },
+  "metadata": {
+    "generated_at": "2026-06-28T15:11:15.106551",
+    "data_source": "season_data.json"
+  }
+}

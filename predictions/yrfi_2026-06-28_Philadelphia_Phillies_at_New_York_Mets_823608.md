@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Toronto Blue Jays
+# Análisis YRFI: Philadelphia Phillies @ New York Mets
 
-**Fecha:** 2026-06-27  
-**Lanzadores:** Cal Quantrill (V) vs Dylan Cease (L)
+**Fecha:** 2026-06-28  
+**Lanzadores:** Jesús Luzardo (V) vs Cionel Pérez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.2%
+**Probabilidad de que anoten en la primera entrada:** 36.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 25.0% (11/44 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 31.0% (13/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Cal Quantrill):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.6%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 33.3% (15/45 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 26.8% (11/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Impacto del lanzador local (New York Mets - Cionel Pérez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-27 15:07:55
+- **Generado el:** 2026-06-28 15:11:15
 - **Fuente de datos:** season_data.json

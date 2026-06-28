@@ -1,18 +1,18 @@
 {
-  "game_pk": 822794,
-  "game_date": "2026-06-27",
+  "game_pk": 822795,
+  "game_date": "2026-06-28",
   "home_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Dylan Cease",
+      "name": "Shane Bieber",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "11/44"
+        "value": 24.444444444444443,
+        "ratio": "11/45"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "140",
     "name": "Texas Rangers",
-    "combined_yrfi_pct": 36.0,
+    "combined_yrfi_pct": 36.87,
     "pitcher": {
-      "name": "Cal Quantrill",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Kumar Rocker",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "15/45"
+        "value": 34.78260869565217,
+        "ratio": "16/46"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.0,
+        "base": 24.444444444444443,
         "tendency": 20.0,
-        "combined": 23.0,
-        "pitcher_impact": 0.0,
-        "adjusted": 16.1
+        "combined": 22.67,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 35.87
       },
       "away_team": {
-        "base": 33.33333333333333,
+        "base": 34.78260869565217,
         "tendency": 40.0,
-        "combined": 36.0,
+        "combined": 36.87,
         "pitcher_impact": 0.0,
-        "adjusted": 25.2
+        "adjusted": 25.81
       },
-      "game_yrfi_probability": 37.24
+      "game_yrfi_probability": 52.42
     },
-    "yrfi_probability": 37.24
+    "yrfi_probability": 52.42
   },
   "metadata": {
-    "generated_at": "2026-06-27T15:07:55.538917",
+    "generated_at": "2026-06-28T15:11:15.091784",
     "data_source": "season_data.json"
   }
 }

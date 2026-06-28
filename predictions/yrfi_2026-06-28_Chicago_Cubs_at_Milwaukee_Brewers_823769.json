@@ -1,0 +1,67 @@
+{
+  "game_pk": 823769,
+  "game_date": "2026-06-28",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Brandon Woodruff",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "15/42"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 20.43,
+    "pitcher": {
+      "name": "Ryan Rolison",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 16.27906976744186,
+        "ratio": "7/43"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.714285714285715,
+        "tendency": 33.33333333333333,
+        "combined": 34.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.33
+      },
+      "away_team": {
+        "base": 16.27906976744186,
+        "tendency": 26.666666666666668,
+        "combined": 20.43,
+        "pitcher_impact": 25.0,
+        "adjusted": 21.8
+      },
+      "game_yrfi_probability": 40.83
+    },
+    "yrfi_probability": 40.83
+  },
+  "metadata": {
+    "generated_at": "2026-06-28T15:11:15.117093",
+    "data_source": "season_data.json"
+  }
+}

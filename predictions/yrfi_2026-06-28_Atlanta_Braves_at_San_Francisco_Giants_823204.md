@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ San Francisco Giants
 
 **Fecha:** 2026-06-28  
-**Lanzadores:** Bryce Elder (V) vs Logan Webb (L)
+**Lanzadores:** Chris Sale (V) vs Robbie Ray (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.3%
+**Probabilidad de que anoten en la primera entrada:** 46.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 21.1% (8/38 partidos)
+- **Estadística base YRFI:** 20.5% (8/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 29.4%
+- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 35.7% (15/42 partidos)
+- **Estadística base YRFI:** 34.9% (15/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador local (San Francisco Giants - Robbie Ray):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-27 15:07:55
+- **Generado el:** 2026-06-28 15:11:15
 - **Fuente de datos:** season_data.json

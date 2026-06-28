@@ -1,25 +1,25 @@
-# Análisis YRFI: Houston Astros @ Detroit Tigers
+# Análisis YRFI: Los Angeles Dodgers @ San Diego Padres
 
-**Fecha:** 2026-06-27  
-**Lanzadores:** Kai-Wei Teng (V) vs Framber Valdez (L)
+**Fecha:** 2026-06-28  
+**Lanzadores:** Emmet Sheehan (V) vs Michael King (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.1%
+**Probabilidad de que anoten en la primera entrada:** 58.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.2% (11/42 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 18.6% (8/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Kai-Wei Teng):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 48.5%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Emmet Sheehan):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 45.3%
 
-### Houston Astros (Visitante)
-- **Estadística base YRFI:** 31.8% (14/44 partidos)
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 30.2% (13/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-27 15:07:55
+- **Generado el:** 2026-06-28 15:11:15
 - **Fuente de datos:** season_data.json

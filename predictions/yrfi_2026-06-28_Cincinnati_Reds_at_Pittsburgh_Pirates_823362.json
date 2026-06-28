@@ -1,0 +1,67 @@
+{
+  "game_pk": 823362,
+  "game_date": "2026-06-28",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 38.63636363636363,
+        "ratio": "17/44"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 25.67,
+    "pitcher": {
+      "name": "Brady Singer",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "10/40"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.63636363636363,
+        "tendency": 33.33333333333333,
+        "combined": 36.52,
+        "pitcher_impact": 75.0,
+        "adjusted": 48.06
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 20.0,
+        "adjusted": 23.97
+      },
+      "game_yrfi_probability": 60.51
+    },
+    "yrfi_probability": 60.51
+  },
+  "metadata": {
+    "generated_at": "2026-06-28T15:11:15.087742",
+    "data_source": "season_data.json"
+  }
+}

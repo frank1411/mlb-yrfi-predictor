@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Baltimore Orioles
 
-**Fecha:** 2026-06-27  
-**Lanzadores:** Foster Griffin (V) vs Brandon Young (L)
+**Fecha:** 2026-06-28  
+**Lanzadores:** Zack Littell (V) vs Kyle Bradish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.1%
+**Probabilidad de que anoten en la primera entrada:** 46.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 19.0% (8/42 partidos)
+- **Estadística base YRFI:** 18.6% (8/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 17.3%
+- **Impacto del lanzador visitante (Washington Nationals - Zack Littell):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 32.1%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 29.3% (12/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.5%
+- **Estadística base YRFI:** 28.6% (12/42 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-27 15:07:55
+- **Generado el:** 2026-06-28 15:11:15
 - **Fuente de datos:** season_data.json

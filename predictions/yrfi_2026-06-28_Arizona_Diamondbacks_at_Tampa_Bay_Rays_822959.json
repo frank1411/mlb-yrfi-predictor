@@ -1,0 +1,67 @@
+{
+  "game_pk": 822959,
+  "game_date": "2026-06-28",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 45.23809523809524,
+        "ratio": "19/42"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 25.3,
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.390243902439025,
+        "ratio": "10/41"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 45.23809523809524,
+        "tendency": 40.0,
+        "combined": 43.14,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.2
+      },
+      "away_team": {
+        "base": 24.390243902439025,
+        "tendency": 26.666666666666668,
+        "combined": 25.3,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.71
+      },
+      "game_yrfi_probability": 42.56
+    },
+    "yrfi_probability": 42.56
+  },
+  "metadata": {
+    "generated_at": "2026-06-28T15:11:15.102810",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823281,
+  "game_date": "2026-06-28",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 18.6046511627907,
+        "ratio": "8/43"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 34.14,
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.23255813953488,
+        "ratio": "13/43"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.6046511627907,
+        "tendency": 26.666666666666668,
+        "combined": 21.83,
+        "pitcher_impact": 100.0,
+        "adjusted": 45.28
+      },
+      "away_team": {
+        "base": 30.23255813953488,
+        "tendency": 40.0,
+        "combined": 34.14,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.9
+      },
+      "game_yrfi_probability": 58.36
+    },
+    "yrfi_probability": 58.36
+  },
+  "metadata": {
+    "generated_at": "2026-06-28T15:11:15.131106",
+    "data_source": "season_data.json"
+  }
+}

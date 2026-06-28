@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Los Angeles Angels
+# Análisis YRFI: Miami Marlins @ St. Louis Cardinals
 
 **Fecha:** 2026-06-28  
-**Lanzadores:** Jack Perkins (V) vs Reid Detmers (L)
+**Lanzadores:** Tyler Phillips (V) vs Kyle Leahy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.7%
+**Probabilidad de que anoten en la primera entrada:** 46.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 43.9% (18/41 partidos)
+### St. Louis Cardinals (Local)
+- **Estadística base YRFI:** 25.6% (11/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Impacto del lanzador visitante (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.9%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 24.4% (10/41 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 28.9% (11/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.1%
+- **Impacto del lanzador local (St. Louis Cardinals - Kyle Leahy):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-27 15:07:55
+- **Generado el:** 2026-06-28 15:11:15
 - **Fuente de datos:** season_data.json
