@@ -1,0 +1,67 @@
+{
+  "game_pk": 823444,
+  "game_date": "2026-06-29",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 40.476190476190474,
+        "ratio": "17/42"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 37.95,
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 41.02564102564102,
+        "ratio": "16/39"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.476190476190474,
+        "tendency": 40.0,
+        "combined": 40.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.2
+      },
+      "away_team": {
+        "base": 41.02564102564102,
+        "tendency": 33.33333333333333,
+        "combined": 37.95,
+        "pitcher_impact": 50.0,
+        "adjusted": 41.56
+      },
+      "game_yrfi_probability": 58.04
+    },
+    "yrfi_probability": 58.04
+  },
+  "metadata": {
+    "generated_at": "2026-06-29T16:48:50.804582",
+    "data_source": "season_data.json"
+  }
+}

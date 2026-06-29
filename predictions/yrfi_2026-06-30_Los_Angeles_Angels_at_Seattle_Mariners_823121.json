@@ -1,0 +1,67 @@
+{
+  "game_pk": 823121,
+  "game_date": "2026-06-30",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.46341463414634,
+        "ratio": "17/41"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 24.95,
+    "pitcher": {
+      "name": "Ryan Johnson",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "10/42"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.46341463414634,
+        "tendency": 26.666666666666668,
+        "combined": 35.54,
+        "pitcher_impact": 100.0,
+        "adjusted": 54.88
+      },
+      "away_team": {
+        "base": 23.809523809523807,
+        "tendency": 26.666666666666668,
+        "combined": 24.95,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.47
+      },
+      "game_yrfi_probability": 69.53
+    },
+    "yrfi_probability": 69.53
+  },
+  "metadata": {
+    "generated_at": "2026-06-29T16:48:50.840641",
+    "data_source": "season_data.json"
+  }
+}

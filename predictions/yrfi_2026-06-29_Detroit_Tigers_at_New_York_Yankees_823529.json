@@ -1,0 +1,67 @@
+{
+  "game_pk": 823529,
+  "game_date": "2026-06-29",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Ryan Weathers",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 43.24324324324324,
+        "ratio": "16/37"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 30.5,
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "15/40"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 43.24324324324324,
+        "tendency": 26.666666666666668,
+        "combined": 36.61,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.63
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 20.0,
+        "combined": 30.5,
+        "pitcher_impact": 40.0,
+        "adjusted": 33.35
+      },
+      "game_yrfi_probability": 50.43
+    },
+    "yrfi_probability": 50.43
+  },
+  "metadata": {
+    "generated_at": "2026-06-29T16:48:50.808583",
+    "data_source": "season_data.json"
+  }
+}

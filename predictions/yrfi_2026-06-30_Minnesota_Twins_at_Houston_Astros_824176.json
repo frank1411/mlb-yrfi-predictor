@@ -1,0 +1,67 @@
+{
+  "game_pk": 824176,
+  "game_date": "2026-06-30",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Peter Lambert",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 41.46341463414634,
+        "ratio": "17/41"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 40.83,
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.5,
+        "ratio": "13/40"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.46341463414634,
+        "tendency": 40.0,
+        "combined": 40.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.61
+      },
+      "away_team": {
+        "base": 32.5,
+        "tendency": 53.333333333333336,
+        "combined": 40.83,
+        "pitcher_impact": 100.0,
+        "adjusted": 58.58
+      },
+      "game_yrfi_probability": 70.43
+    },
+    "yrfi_probability": 70.43
+  },
+  "metadata": {
+    "generated_at": "2026-06-29T16:48:50.830340",
+    "data_source": "season_data.json"
+  }
+}

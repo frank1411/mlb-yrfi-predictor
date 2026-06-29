@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ St. Louis Cardinals
+# Análisis YRFI: Chicago White Sox @ Baltimore Orioles
 
-**Fecha:** 2026-06-28  
-**Lanzadores:** Tyler Phillips (V) vs Kyle Leahy (L)
+**Fecha:** 2026-06-29  
+**Lanzadores:** Sean Burke (V) vs Shane Baz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.5%
+**Probabilidad de que anoten en la primera entrada:** 46.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 25.6% (11/43 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 20.5% (9/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.9%
+- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.8%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 28.9% (11/38 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 35.0% (14/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Kyle Leahy):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-28 15:11:15
+- **Generado el:** 2026-06-29 16:48:50
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Boston Red Sox
+# Análisis YRFI: San Diego Padres @ Chicago Cubs
 
-**Fecha:** 2026-06-28  
-**Lanzadores:** Carlos Rodón (V) vs Sonny Gray (L)
+**Fecha:** 2026-06-30  
+**Lanzadores:** Por anunciar (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.5%
+**Probabilidad de que anoten en la primera entrada:** 48.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Boston Red Sox (Local)
+### Chicago Cubs (Local)
 - **Estadística base YRFI:** 22.5% (9/40 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.8%
-
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 31.1% (14/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Sonny Gray):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.5%
+- **Impacto del lanzador visitante (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 31.9%
+
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 21.1% (8/38 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-28 15:11:15
+- **Generado el:** 2026-06-29 16:48:50
 - **Fuente de datos:** season_data.json

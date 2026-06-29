@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ New York Mets
+# Análisis YRFI: Texas Rangers @ Cleveland Guardians
 
-**Fecha:** 2026-06-28  
-**Lanzadores:** Jesús Luzardo (V) vs Cionel Pérez (L)
+**Fecha:** 2026-06-29  
+**Lanzadores:** Tyler Alexander (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.9%
+**Probabilidad de que anoten en la primera entrada:** 39.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 31.0% (13/42 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 28.2% (11/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.6%
+- **Impacto del lanzador visitante (Texas Rangers - Tyler Alexander):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.4%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.8% (11/41 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 36.2% (17/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (New York Mets - Cionel Pérez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 26.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-28 15:11:15
+- **Generado el:** 2026-06-29 16:48:50
 - **Fuente de datos:** season_data.json

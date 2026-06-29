@@ -1,0 +1,67 @@
+{
+  "game_pk": 824741,
+  "game_date": "2026-06-29",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Ranger Suarez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.951219512195124,
+        "ratio": "9/41"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 30.08,
+    "pitcher": {
+      "name": "Miles Mikolas",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.906976744186046,
+        "ratio": "12/43"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.951219512195124,
+        "tendency": 26.666666666666668,
+        "combined": 23.84,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.69
+      },
+      "away_team": {
+        "base": 27.906976744186046,
+        "tendency": 33.33333333333333,
+        "combined": 30.08,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.55
+      },
+      "game_yrfi_probability": 40.48
+    },
+    "yrfi_probability": 40.48
+  },
+  "metadata": {
+    "generated_at": "2026-06-29T16:48:50.816184",
+    "data_source": "season_data.json"
+  }
+}

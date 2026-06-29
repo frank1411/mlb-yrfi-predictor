@@ -1,24 +1,24 @@
-# Análisis YRFI: Arizona Diamondbacks @ Tampa Bay Rays
+# Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
 
-**Fecha:** 2026-06-28  
-**Lanzadores:** Merrill Kelly (V) vs Drew Rasmussen (L)
+**Fecha:** 2026-06-29  
+**Lanzadores:** Nick Lodolo (V) vs Robert Gasser (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.6%
+**Probabilidad de que anoten en la primera entrada:** 35.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 45.2% (19/42 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 30.2%
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 34.9% (15/43 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.1%
 
-### Arizona Diamondbacks (Visitante)
+### Cincinnati Reds (Visitante)
 - **Estadística base YRFI:** 24.4% (10/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
 - **Puntuación ajustada:** 17.7%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-28 15:11:15
+- **Generado el:** 2026-06-29 16:48:50
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824822,
+  "game_date": "2026-06-29",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 20.454545454545457,
+        "ratio": "9/44"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 34.33,
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 35.0,
+        "ratio": "14/40"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.454545454545457,
+        "tendency": 40.0,
+        "combined": 28.27,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 29.79
+      },
+      "away_team": {
+        "base": 35.0,
+        "tendency": 33.33333333333333,
+        "combined": 34.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.03
+      },
+      "game_yrfi_probability": 46.66
+    },
+    "yrfi_probability": 46.66
+  },
+  "metadata": {
+    "generated_at": "2026-06-29T16:48:50.800379",
+    "data_source": "season_data.json"
+  }
+}

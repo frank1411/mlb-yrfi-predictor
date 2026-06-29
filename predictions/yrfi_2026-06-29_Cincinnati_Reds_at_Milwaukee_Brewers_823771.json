@@ -1,33 +1,33 @@
 {
-  "game_pk": 822959,
-  "game_date": "2026-06-28",
+  "game_pk": 823771,
+  "game_date": "2026-06-29",
   "home_team": {
-    "id": "139",
-    "name": "Tampa Bay Rays",
+    "id": "158",
+    "name": "Milwaukee Brewers",
     "pitcher": {
-      "name": "Drew Rasmussen",
+      "name": "Robert Gasser",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 45.23809523809524,
-        "ratio": "19/42"
+        "value": 34.883720930232556,
+        "ratio": "15/43"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "away_team": {
-    "id": "109",
-    "name": "Arizona Diamondbacks",
+    "id": "113",
+    "name": "Cincinnati Reds",
     "combined_yrfi_pct": 25.3,
     "pitcher": {
-      "name": "Merrill Kelly",
+      "name": "Nick Lodolo",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 45.23809523809524,
-        "tendency": 40.0,
-        "combined": 43.14,
+        "base": 34.883720930232556,
+        "tendency": 26.666666666666668,
+        "combined": 31.6,
         "pitcher_impact": 0.0,
-        "adjusted": 30.2
+        "adjusted": 22.12
       },
       "away_team": {
         "base": 24.390243902439025,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 17.71
       },
-      "game_yrfi_probability": 42.56
+      "game_yrfi_probability": 35.91
     },
-    "yrfi_probability": 42.56
+    "yrfi_probability": 35.91
   },
   "metadata": {
-    "generated_at": "2026-06-28T15:11:15.102810",
+    "generated_at": "2026-06-29T16:48:50.823814",
     "data_source": "season_data.json"
   }
 }
