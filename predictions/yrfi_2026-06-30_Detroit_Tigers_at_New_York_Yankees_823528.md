@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ New York Yankees
 
-**Fecha:** 2026-06-29  
-**Lanzadores:** Casey Mize (V) vs Ryan Weathers (L)
+**Fecha:** 2026-06-30  
+**Lanzadores:** Tarik Skubal (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.4%
+**Probabilidad de que anoten en la primera entrada:** 52.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 43.2% (16/37 partidos)
+- **Estadística base YRFI:** 42.1% (16/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 37.1%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 37.5% (15/40 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 33.4%
+- **Estadística base YRFI:** 39.0% (16/41 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-29 16:48:50
+- **Generado el:** 2026-06-30 16:15:28
 - **Fuente de datos:** season_data.json

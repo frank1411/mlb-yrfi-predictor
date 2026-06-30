@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
+# Análisis YRFI: Miami Marlins @ Colorado Rockies
 
-**Fecha:** 2026-06-29  
-**Lanzadores:** Nick Lodolo (V) vs Robert Gasser (L)
+**Fecha:** 2026-07-01  
+**Lanzadores:** Eury Pérez (V) vs Tanner Gordon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.9%
+**Probabilidad de que anoten en la primera entrada:** 46.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 34.9% (15/43 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 39.0% (16/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.9%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 24.4% (10/41 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 27.5% (11/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-29 16:48:50
+- **Generado el:** 2026-06-30 16:15:28
 - **Fuente de datos:** season_data.json

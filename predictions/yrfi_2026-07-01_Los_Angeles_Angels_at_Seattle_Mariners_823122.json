@@ -1,0 +1,67 @@
+{
+  "game_pk": 823122,
+  "game_date": "2026-07-01",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 40.476190476190474,
+        "ratio": "17/42"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 28.68,
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.581395348837212,
+        "ratio": "11/43"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.476190476190474,
+        "tendency": 26.666666666666668,
+        "combined": 34.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.47
+      },
+      "away_team": {
+        "base": 25.581395348837212,
+        "tendency": 33.33333333333333,
+        "combined": 28.68,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 30.08
+      },
+      "game_yrfi_probability": 47.19
+    },
+    "yrfi_probability": 47.19
+  },
+  "metadata": {
+    "generated_at": "2026-06-30T16:15:28.897248",
+    "data_source": "season_data.json"
+  }
+}

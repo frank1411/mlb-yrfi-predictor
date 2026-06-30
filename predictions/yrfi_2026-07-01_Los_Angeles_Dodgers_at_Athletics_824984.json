@@ -1,0 +1,67 @@
+{
+  "game_pk": 824984,
+  "game_date": "2026-07-01",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "15/42"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 33.33,
+    "pitcher": {
+      "name": "Justin Wrobleski",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.888888888888886,
+        "ratio": "13/45"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.714285714285715,
+        "tendency": 26.666666666666668,
+        "combined": 32.1,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 42.47
+      },
+      "away_team": {
+        "base": 28.888888888888886,
+        "tendency": 40.0,
+        "combined": 33.33,
+        "pitcher_impact": 75.0,
+        "adjusted": 45.83
+      },
+      "game_yrfi_probability": 68.84
+    },
+    "yrfi_probability": 68.84
+  },
+  "metadata": {
+    "generated_at": "2026-06-30T16:15:28.893238",
+    "data_source": "season_data.json"
+  }
+}

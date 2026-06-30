@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Chicago Cubs
 
-**Fecha:** 2026-06-30  
-**Lanzadores:** Por anunciar (V) vs Shota Imanaga (L)
+**Fecha:** 2026-07-01  
+**Lanzadores:** JP Sears (V) vs Matthew Boyd (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.1%
+**Probabilidad de que anoten en la primera entrada:** 28.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 22.5% (9/40 partidos)
+- **Estadística base YRFI:** 22.0% (9/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.9%
+- **Impacto del lanzador visitante (San Diego Padres - JP Sears):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.7%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 21.1% (8/38 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Estadística base YRFI:** 20.5% (8/39 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 14.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-29 16:48:50
+- **Generado el:** 2026-06-30 16:15:28
 - **Fuente de datos:** season_data.json

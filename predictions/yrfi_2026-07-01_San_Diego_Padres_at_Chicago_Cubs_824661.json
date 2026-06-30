@@ -1,0 +1,67 @@
+{
+  "game_pk": 824661,
+  "game_date": "2026-07-01",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.951219512195124,
+        "ratio": "9/41"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 20.31,
+    "pitcher": {
+      "name": "JP Sears",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.51282051282051,
+        "ratio": "8/39"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.951219512195124,
+        "tendency": 26.666666666666668,
+        "combined": 23.84,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.69
+      },
+      "away_team": {
+        "base": 20.51282051282051,
+        "tendency": 20.0,
+        "combined": 20.31,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.22
+      },
+      "game_yrfi_probability": 28.54
+    },
+    "yrfi_probability": 28.54
+  },
+  "metadata": {
+    "generated_at": "2026-06-30T16:15:28.880869",
+    "data_source": "season_data.json"
+  }
+}

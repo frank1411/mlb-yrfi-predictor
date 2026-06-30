@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Toronto Blue Jays
 
-**Fecha:** 2026-06-29  
-**Lanzadores:** Sean Manaea (V) vs Trey Yesavage (L)
+**Fecha:** 2026-06-30  
+**Lanzadores:** Nolan McLean (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 27.4%
+**Probabilidad de que anoten en la primera entrada:** 45.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 23.9% (11/46 partidos)
+- **Estadística base YRFI:** 25.5% (12/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.6%
+- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 36.3%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 24.4% (10/41 partidos)
+- **Estadística base YRFI:** 23.8% (10/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.0%
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 13.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-29 16:48:50
+- **Generado el:** 2026-06-30 16:15:28
 - **Fuente de datos:** season_data.json

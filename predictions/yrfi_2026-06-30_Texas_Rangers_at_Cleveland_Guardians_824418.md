@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Cleveland Guardians
 
-**Fecha:** 2026-06-29  
-**Lanzadores:** Tyler Alexander (V) vs Parker Messick (L)
+**Fecha:** 2026-06-30  
+**Lanzadores:** Jacob deGrom (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.2%
+**Probabilidad de que anoten en la primera entrada:** 50.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 28.2% (11/39 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Tyler Alexander):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.4%
+- **Estadística base YRFI:** 27.5% (11/40 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 25.3%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 36.2% (17/47 partidos)
+- **Estadística base YRFI:** 35.4% (17/48 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-29 16:48:50
+- **Generado el:** 2026-06-30 16:15:28
 - **Fuente de datos:** season_data.json

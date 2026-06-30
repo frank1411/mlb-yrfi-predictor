@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Baltimore Orioles
 
-**Fecha:** 2026-06-29  
-**Lanzadores:** Sean Burke (V) vs Shane Baz (L)
+**Fecha:** 2026-06-30  
+**Lanzadores:** Erick Fedde (V) vs Trey Gibson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.7%
+**Probabilidad de que anoten en la primera entrada:** 45.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 20.5% (9/44 partidos)
+- **Estadística base YRFI:** 22.2% (10/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.8%
+- **Impacto del lanzador visitante (Chicago White Sox - Erick Fedde):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.5%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 35.0% (14/40 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Estadística base YRFI:** 34.1% (14/41 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Trey Gibson):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 21.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-29 16:48:50
+- **Generado el:** 2026-06-30 16:15:28
 - **Fuente de datos:** season_data.json

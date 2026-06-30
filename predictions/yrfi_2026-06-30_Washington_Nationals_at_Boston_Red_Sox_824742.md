@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Boston Red Sox
 
-**Fecha:** 2026-06-29  
-**Lanzadores:** Miles Mikolas (V) vs Ranger Suarez (L)
+**Fecha:** 2026-06-30  
+**Lanzadores:** Cade Cavalli (V) vs Connelly Early (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.5%
+**Probabilidad de que anoten en la primera entrada:** 51.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 22.0% (9/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 16.7%
+- **Estadística base YRFI:** 23.8% (10/42 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.3%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 27.9% (12/43 partidos)
+- **Estadística base YRFI:** 29.5% (13/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Ranger Suarez):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Impacto del lanzador local (Boston Red Sox - Connelly Early):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-29 16:48:50
+- **Generado el:** 2026-06-30 16:15:28
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 824822,
-  "game_date": "2026-06-29",
+  "game_pk": 824819,
+  "game_date": "2026-06-30",
   "home_team": {
     "id": "110",
     "name": "Baltimore Orioles",
     "pitcher": {
-      "name": "Shane Baz",
+      "name": "Trey Gibson",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 20.454545454545457,
-        "ratio": "9/44"
+        "value": 22.22222222222222,
+        "ratio": "10/45"
       },
       "tendency": {
         "value": 40.0,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "145",
     "name": "Chicago White Sox",
-    "combined_yrfi_pct": 34.33,
+    "combined_yrfi_pct": 31.15,
     "pitcher": {
-      "name": "Sean Burke",
+      "name": "Erick Fedde",
       "yrfi_allowed": 33.33333333333333,
       "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 35.0,
-        "ratio": "14/40"
+        "value": 34.146341463414636,
+        "ratio": "14/41"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 20.454545454545457,
+        "base": 22.22222222222222,
         "tendency": 40.0,
-        "combined": 28.27,
+        "combined": 29.33,
         "pitcher_impact": 33.33333333333333,
-        "adjusted": 29.79
+        "adjusted": 30.53
       },
       "away_team": {
-        "base": 35.0,
-        "tendency": 33.33333333333333,
-        "combined": 34.33,
+        "base": 34.146341463414636,
+        "tendency": 26.666666666666668,
+        "combined": 31.15,
         "pitcher_impact": 0.0,
-        "adjusted": 24.03
+        "adjusted": 21.81
       },
-      "game_yrfi_probability": 46.66
+      "game_yrfi_probability": 45.68
     },
-    "yrfi_probability": 46.66
+    "yrfi_probability": 45.68
   },
   "metadata": {
-    "generated_at": "2026-06-29T16:48:50.800379",
+    "generated_at": "2026-06-30T16:15:28.836934",
     "data_source": "season_data.json"
   }
 }

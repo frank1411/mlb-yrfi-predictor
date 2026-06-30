@@ -1,0 +1,67 @@
+{
+  "game_pk": 824096,
+  "game_date": "2026-06-30",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Noah Cameron",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.82926829268293,
+        "ratio": "11/41"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 34.46,
+    "pitcher": {
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "10/38"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.82926829268293,
+        "tendency": 46.666666666666664,
+        "combined": 34.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.33
+      },
+      "away_team": {
+        "base": 26.31578947368421,
+        "tendency": 46.666666666666664,
+        "combined": 34.46,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.12
+      },
+      "game_yrfi_probability": 42.58
+    },
+    "yrfi_probability": 42.58
+  },
+  "metadata": {
+    "generated_at": "2026-06-30T16:15:28.873023",
+    "data_source": "season_data.json"
+  }
+}

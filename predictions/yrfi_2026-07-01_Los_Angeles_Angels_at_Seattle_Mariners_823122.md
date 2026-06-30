@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Seattle Mariners
 
-**Fecha:** 2026-06-30  
-**Lanzadores:** Ryan Johnson (V) vs George Kirby (L)
+**Fecha:** 2026-07-01  
+**Lanzadores:** José Soriano (V) vs Bryan Woo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 69.5%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 41.5% (17/41 partidos)
+- **Estadística base YRFI:** 40.5% (17/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Ryan Johnson):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 54.9%
+- **Impacto del lanzador visitante (Los Angeles Angels - José Soriano):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 23.8% (10/42 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Estadística base YRFI:** 25.6% (11/43 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-29 16:48:50
+- **Generado el:** 2026-06-30 16:15:28
 - **Fuente de datos:** season_data.json
