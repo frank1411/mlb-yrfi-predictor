@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Colorado Rockies
 
-**Fecha:** 2026-07-01  
-**Lanzadores:** Eury Pérez (V) vs Tanner Gordon (L)
+**Fecha:** 2026-07-02  
+**Lanzadores:** Max Meyer (V) vs Kyle Freeland (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.4%
+**Probabilidad de que anoten en la primera entrada:** 40.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 39.0% (16/41 partidos)
+- **Estadística base YRFI:** 40.5% (17/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 33.9%
+- **Impacto del lanzador visitante (Miami Marlins - Max Meyer):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 27.5% (11/40 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.0%
+- **Estadística base YRFI:** 29.3% (12/41 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 21.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json

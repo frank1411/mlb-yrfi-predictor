@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Seattle Mariners
+# Análisis YRFI: Detroit Tigers @ New York Yankees
 
 **Fecha:** 2026-07-01  
-**Lanzadores:** José Soriano (V) vs Bryan Woo (L)
+**Lanzadores:** Troy Melton (V) vs Will Warren (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.2%
+**Probabilidad de que anoten en la primera entrada:** 49.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Seattle Mariners (Local)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 43.6% (17/39 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Troy Melton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.6%
+
+### Detroit Tigers (Visitante)
 - **Estadística base YRFI:** 40.5% (17/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - José Soriano):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 24.5%
-
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 25.6% (11/43 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.1%
+- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 30.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json

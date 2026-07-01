@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ Baltimore Orioles
+# Análisis YRFI: Washington Nationals @ Boston Red Sox
 
-**Fecha:** 2026-06-30  
-**Lanzadores:** Erick Fedde (V) vs Trey Gibson (L)
+**Fecha:** 2026-07-01  
+**Lanzadores:** Brad Lord (V) vs Payton Tolle (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.7%
+**Probabilidad de que anoten en la primera entrada:** 37.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 22.2% (10/45 partidos)
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 25.6% (11/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Erick Fedde):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.5%
+- **Impacto del lanzador visitante (Washington Nationals - Brad Lord):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.9%
 
-### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 34.1% (14/41 partidos)
+### Washington Nationals (Visitante)
+- **Estadística base YRFI:** 28.9% (13/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Trey Gibson):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 21.8%
+- **Impacto del lanzador local (Boston Red Sox - Payton Tolle):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json

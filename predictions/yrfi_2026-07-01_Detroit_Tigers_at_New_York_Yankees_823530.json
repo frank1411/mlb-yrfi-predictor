@@ -1,0 +1,67 @@
+{
+  "game_pk": 823530,
+  "game_date": "2026-07-01",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 43.58974358974359,
+        "ratio": "17/39"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 34.95,
+    "pitcher": {
+      "name": "Troy Melton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 40.476190476190474,
+        "ratio": "17/42"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 43.58974358974359,
+        "tendency": 33.33333333333333,
+        "combined": 39.49,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.64
+      },
+      "away_team": {
+        "base": 40.476190476190474,
+        "tendency": 26.666666666666668,
+        "combined": 34.95,
+        "pitcher_impact": 20.0,
+        "adjusted": 30.47
+      },
+      "game_yrfi_probability": 49.69
+    },
+    "yrfi_probability": 49.69
+  },
+  "metadata": {
+    "generated_at": "2026-07-01T16:15:34.598463",
+    "data_source": "season_data.json"
+  }
+}

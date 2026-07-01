@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Athletics
 
-**Fecha:** 2026-07-01  
-**Lanzadores:** Justin Wrobleski (V) vs Jeffrey Springs (L)
+**Fecha:** 2026-07-02  
+**Lanzadores:** Por anunciar (V) vs J.T. Ginn (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 68.8%
+**Probabilidad de que anoten en la primera entrada:** 52.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 35.7% (15/42 partidos)
+- **Estadística base YRFI:** 37.2% (16/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Justin Wrobleski):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 42.5%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.1%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 28.9% (13/45 partidos)
+- **Estadística base YRFI:** 30.4% (14/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 45.8%
+- **Impacto del lanzador local (Athletics - J.T. Ginn):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json

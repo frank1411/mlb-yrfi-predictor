@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Houston Astros
 
-**Fecha:** 2026-07-01  
-**Lanzadores:** Joe Ryan (V) vs Mike Burrows (L)
+**Fecha:** 2026-07-02  
+**Lanzadores:** Taj Bradley (V) vs Tatsuya Imai (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.7%
+**Probabilidad de que anoten en la primera entrada:** 58.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 40.5% (17/42 partidos)
+- **Estadística base YRFI:** 39.5% (17/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 41.3%
+- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 40.9%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 31.7% (13/41 partidos)
+- **Estadística base YRFI:** 33.3% (14/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Mike Burrows):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 43.2%
+- **Impacto del lanzador local (Houston Astros - Tatsuya Imai):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 28.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Arizona Diamondbacks
 
-**Fecha:** 2026-07-01  
-**Lanzadores:** Landen Roupp (V) vs Por anunciar (L)
+**Fecha:** 2026-07-02  
+**Lanzadores:** Trevor McDonald (V) vs Zac Gallen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.2%
+**Probabilidad de que anoten en la primera entrada:** 43.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 33.3% (14/42 partidos)
+- **Estadística base YRFI:** 34.9% (15/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador visitante (San Francisco Giants - Trevor McDonald):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 25.0% (11/44 partidos)
+- **Estadística base YRFI:** 24.4% (11/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.1%
+- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 25.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json

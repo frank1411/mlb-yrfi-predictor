@@ -1,24 +1,24 @@
-# Análisis YRFI: Detroit Tigers @ New York Yankees
+# Análisis YRFI: Pittsburgh Pirates @ Philadelphia Phillies
 
-**Fecha:** 2026-06-30  
-**Lanzadores:** Tarik Skubal (V) vs Cam Schlittler (L)
+**Fecha:** 2026-07-01  
+**Lanzadores:** Paul Skenes (V) vs Zack Wheeler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.1%
+**Probabilidad de que anoten en la primera entrada:** 54.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 42.1% (16/38 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 37.1%
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 40.9% (18/44 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 40.2%
 
-### Detroit Tigers (Visitante)
+### Pittsburgh Pirates (Visitante)
 - **Estadística base YRFI:** 39.0% (16/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Zack Wheeler):** 0.0% (1/2 partidos)
 - **Puntuación ajustada:** 23.9%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json

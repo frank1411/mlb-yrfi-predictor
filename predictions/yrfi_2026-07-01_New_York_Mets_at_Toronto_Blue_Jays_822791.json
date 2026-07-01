@@ -1,0 +1,67 @@
+{
+  "game_pk": 822791,
+  "game_date": "2026-07-01",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Braydon Fisher",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "12/48"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 16.62,
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.25581395348837,
+        "ratio": "10/43"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 20.0,
+        "combined": 23.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.1
+      },
+      "away_team": {
+        "base": 23.25581395348837,
+        "tendency": 6.666666666666667,
+        "combined": 16.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.63
+      },
+      "game_yrfi_probability": 25.86
+    },
+    "yrfi_probability": 25.86
+  },
+  "metadata": {
+    "generated_at": "2026-07-01T16:15:34.606647",
+    "data_source": "season_data.json"
+  }
+}

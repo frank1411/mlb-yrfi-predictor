@@ -1,0 +1,67 @@
+{
+  "game_pk": 824818,
+  "game_date": "2026-07-01",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Dean Kremer",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.91304347826087,
+        "ratio": "11/46"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 34.76,
+    "pitcher": {
+      "name": "Noah Schultz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 35.714285714285715,
+        "ratio": "15/42"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.91304347826087,
+        "tendency": 40.0,
+        "combined": 30.35,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.24
+      },
+      "away_team": {
+        "base": 35.714285714285715,
+        "tendency": 33.33333333333333,
+        "combined": 34.76,
+        "pitcher_impact": 100.0,
+        "adjusted": 54.33
+      },
+      "game_yrfi_probability": 64.03
+    },
+    "yrfi_probability": 64.03
+  },
+  "metadata": {
+    "generated_at": "2026-07-01T16:15:34.586349",
+    "data_source": "season_data.json"
+  }
+}

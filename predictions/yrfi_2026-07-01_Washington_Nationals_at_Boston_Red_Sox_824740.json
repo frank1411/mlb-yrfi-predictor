@@ -1,0 +1,67 @@
+{
+  "game_pk": 824740,
+  "game_date": "2026-07-01",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Payton Tolle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.581395348837212,
+        "ratio": "11/43"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 28.0,
+    "pitcher": {
+      "name": "Brad Lord",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 28.888888888888886,
+        "ratio": "13/45"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.581395348837212,
+        "tendency": 40.0,
+        "combined": 31.35,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.94
+      },
+      "away_team": {
+        "base": 28.888888888888886,
+        "tendency": 26.666666666666668,
+        "combined": 28.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.6
+      },
+      "game_yrfi_probability": 37.24
+    },
+    "yrfi_probability": 37.24
+  },
+  "metadata": {
+    "generated_at": "2026-07-01T16:15:34.594554",
+    "data_source": "season_data.json"
+  }
+}

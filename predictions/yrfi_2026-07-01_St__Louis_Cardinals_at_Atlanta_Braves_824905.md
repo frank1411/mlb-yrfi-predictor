@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Atlanta Braves
 
-**Fecha:** 2026-06-30  
-**Lanzadores:** Matthew Liberatore (V) vs Martín Pérez (L)
+**Fecha:** 2026-07-01  
+**Lanzadores:** Michael McGreevy (V) vs Reynaldo López (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.7%
+**Probabilidad de que anoten en la primera entrada:** 48.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 31.6% (12/38 partidos)
+- **Estadística base YRFI:** 30.8% (12/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 33.9%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.5%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 35.1% (13/37 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 39.1%
+- **Estadística base YRFI:** 34.2% (13/38 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Reynaldo López):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 36.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Chicago Cubs
 
 **Fecha:** 2026-07-01  
-**Lanzadores:** JP Sears (V) vs Matthew Boyd (L)
+**Lanzadores:** Walker Buehler (V) vs Colin Rea (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 28.5%
+**Probabilidad de que anoten en la primera entrada:** 31.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 22.0% (9/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - JP Sears):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.7%
+- **Estadística base YRFI:** 23.8% (10/42 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.3%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 20.5% (8/39 partidos)
+- **Estadística base YRFI:** 22.5% (9/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 14.2%
+- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 15.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-06-30 16:15:28
+- **Generado el:** 2026-07-01 16:15:34
 - **Fuente de datos:** season_data.json
