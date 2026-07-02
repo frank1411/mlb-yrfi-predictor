@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Chicago Cubs
+# Análisis YRFI: Detroit Tigers @ Texas Rangers
 
-**Fecha:** 2026-07-01  
-**Lanzadores:** Walker Buehler (V) vs Colin Rea (L)
+**Fecha:** 2026-07-03  
+**Lanzadores:** Framber Valdez (V) vs Nathan Eovaldi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.5%
+**Probabilidad de que anoten en la primera entrada:** 60.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
-- **Estadística base YRFI:** 23.8% (10/42 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 24.3% (9/37 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.3%
+- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 31.6%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 22.5% (9/40 partidos)
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 39.5% (17/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.1%
+- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 42.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-01 16:15:34
+- **Generado el:** 2026-07-02 15:59:49
 - **Fuente de datos:** season_data.json

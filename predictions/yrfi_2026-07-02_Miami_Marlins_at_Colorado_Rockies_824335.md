@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Colorado Rockies
 
 **Fecha:** 2026-07-02  
-**Lanzadores:** Max Meyer (V) vs Kyle Freeland (L)
+**Lanzadores:** Ryan Gusto (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.8%
+**Probabilidad de que anoten en la primera entrada:** 49.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 40.5% (17/42 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Max Meyer):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Estadística base YRFI:** 41.9% (18/43 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 29.3% (12/41 partidos)
+- **Estadística base YRFI:** 28.6% (12/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.6%
+- **Impacto del lanzador local (Colorado Rockies - Michael Lorenzen):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-01 16:15:34
+- **Generado el:** 2026-07-02 15:59:49
 - **Fuente de datos:** season_data.json

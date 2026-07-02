@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Atlanta Braves
 
-**Fecha:** 2026-07-01  
-**Lanzadores:** Michael McGreevy (V) vs Reynaldo López (L)
+**Fecha:** 2026-07-02  
+**Lanzadores:** Dustin May (V) vs Hurston Waldrep (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.5%
+**Probabilidad de que anoten en la primera entrada:** 62.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 30.8% (12/39 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.5%
+- **Estadística base YRFI:** 32.5% (13/40 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Dustin May):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 51.1%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 34.2% (13/38 partidos)
+- **Estadística base YRFI:** 35.9% (14/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Reynaldo López):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.8%
+- **Impacto del lanzador local (Atlanta Braves - Hurston Waldrep):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-01 16:15:34
+- **Generado el:** 2026-07-02 15:59:49
 - **Fuente de datos:** season_data.json

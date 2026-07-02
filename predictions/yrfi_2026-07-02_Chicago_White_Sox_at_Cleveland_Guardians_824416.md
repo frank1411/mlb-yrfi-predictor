@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
+# Análisis YRFI: Chicago White Sox @ Cleveland Guardians
 
 **Fecha:** 2026-07-02  
-**Lanzadores:** Andrew Abbott (V) vs Shane Drohan (L)
+**Lanzadores:** Davis Martin (V) vs Slade Cecconi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.6%
+**Probabilidad de que anoten en la primera entrada:** 55.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 33.3% (15/45 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 28.6% (12/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.6%
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 23.6%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 27.9% (12/43 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 37.2% (16/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Shane Drohan):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador local (Cleveland Guardians - Slade Cecconi):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 41.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-01 16:15:34
+- **Generado el:** 2026-07-02 15:59:49
 - **Fuente de datos:** season_data.json

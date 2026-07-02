@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Arizona Diamondbacks
+# Análisis YRFI: San Diego Padres @ Los Angeles Dodgers
 
-**Fecha:** 2026-07-02  
-**Lanzadores:** Trevor McDonald (V) vs Zac Gallen (L)
+**Fecha:** 2026-07-03  
+**Lanzadores:** Randy Vásquez (V) vs Roki Sasaki (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.6%
+**Probabilidad de que anoten en la primera entrada:** 43.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 34.9% (15/43 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.0% (14/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Trevor McDonald):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 34.0%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 24.4% (11/45 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 22.0% (9/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Zac Gallen):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador local (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-01 16:15:34
+- **Generado el:** 2026-07-02 15:59:49
 - **Fuente de datos:** season_data.json
