@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Los Angeles Dodgers
 
-**Fecha:** 2026-07-03  
-**Lanzadores:** Randy Vásquez (V) vs Roki Sasaki (L)
+**Fecha:** 2026-07-04  
+**Lanzadores:** Michael King (V) vs Shohei Ohtani (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.8%
+**Probabilidad de que anoten en la primera entrada:** 37.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 35.0% (14/40 partidos)
+- **Estadística base YRFI:** 34.1% (14/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.0%
+- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 23.7%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 22.0% (9/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 14.8%
+- **Estadística base YRFI:** 23.8% (10/42 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Shohei Ohtani):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-02 15:59:49
+- **Generado el:** 2026-07-03 15:48:00
 - **Fuente de datos:** season_data.json

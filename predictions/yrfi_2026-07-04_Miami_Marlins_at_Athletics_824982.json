@@ -1,0 +1,67 @@
+{
+  "game_pk": 824982,
+  "game_date": "2026-07-04",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jack Perkins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "16/44"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 34.14,
+    "pitcher": {
+      "name": "Tyler Phillips",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.23255813953488,
+        "ratio": "13/43"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 26.666666666666668,
+        "combined": 32.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.74
+      },
+      "away_team": {
+        "base": 30.23255813953488,
+        "tendency": 40.0,
+        "combined": 34.14,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.9
+      },
+      "game_yrfi_probability": 41.21
+    },
+    "yrfi_probability": 41.21
+  },
+  "metadata": {
+    "generated_at": "2026-07-03T15:48:00.546954",
+    "data_source": "season_data.json"
+  }
+}

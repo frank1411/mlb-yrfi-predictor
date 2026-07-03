@@ -1,0 +1,67 @@
+{
+  "game_pk": 822714,
+  "game_date": "2026-07-03",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Foster Griffin",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 38.095238095238095,
+        "ratio": "16/42"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 32.99,
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 37.2093023255814,
+        "ratio": "16/43"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.095238095238095,
+        "tendency": 33.33333333333333,
+        "combined": 36.19,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.33
+      },
+      "away_team": {
+        "base": 37.2093023255814,
+        "tendency": 26.666666666666668,
+        "combined": 32.99,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 33.09
+      },
+      "game_yrfi_probability": 50.04
+    },
+    "yrfi_probability": 50.04
+  },
+  "metadata": {
+    "generated_at": "2026-07-03T15:48:00.517947",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823933,
+  "game_date": "2026-07-04",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.146341463414636,
+        "ratio": "14/41"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 24.95,
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "10/42"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.146341463414636,
+        "tendency": 33.33333333333333,
+        "combined": 33.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.67
+      },
+      "away_team": {
+        "base": 23.809523809523807,
+        "tendency": 26.666666666666668,
+        "combined": 24.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.47
+      },
+      "game_yrfi_probability": 37.0
+    },
+    "yrfi_probability": 37.0
+  },
+  "metadata": {
+    "generated_at": "2026-07-03T15:48:00.554942",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 825062,
+  "game_date": "2026-07-04",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Jose Cabrera",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.090909090909086,
+        "ratio": "15/44"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 26.95,
+    "pitcher": {
+      "name": "Kyle Harrison",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "12/38"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.090909090909086,
+        "tendency": 33.33333333333333,
+        "combined": 33.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.65
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 20.0,
+        "combined": 26.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.86
+      },
+      "game_yrfi_probability": 38.05
+    },
+    "yrfi_probability": 38.05
+  },
+  "metadata": {
+    "generated_at": "2026-07-03T15:48:00.550636",
+    "data_source": "season_data.json"
+  }
+}

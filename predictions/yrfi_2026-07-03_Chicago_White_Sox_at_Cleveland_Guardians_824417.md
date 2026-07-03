@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
+# Análisis YRFI: Chicago White Sox @ Cleveland Guardians
 
-**Fecha:** 2026-07-02  
-**Lanzadores:** Chase Burns (V) vs Jacob Misiorowski (L)
+**Fecha:** 2026-07-03  
+**Lanzadores:** Anthony Kay (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.8%
+**Probabilidad de que anoten en la primera entrada:** 43.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 34.8% (16/46 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 27.9% (12/43 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.2%
+- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 24.8%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 27.3% (12/44 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 36.4% (16/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.3%
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-02 15:59:49
+- **Generado el:** 2026-07-03 15:48:00
 - **Fuente de datos:** season_data.json

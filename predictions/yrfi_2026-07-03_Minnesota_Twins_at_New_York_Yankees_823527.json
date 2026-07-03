@@ -1,0 +1,67 @@
+{
+  "game_pk": 823527,
+  "game_date": "2026-07-03",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Gerrit Cole",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 42.5,
+        "ratio": "17/40"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 44.93,
+    "pitcher": {
+      "name": "Mike Paredes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.883720930232556,
+        "ratio": "15/43"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.5,
+        "tendency": 33.33333333333333,
+        "combined": 38.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.18
+      },
+      "away_team": {
+        "base": 34.883720930232556,
+        "tendency": 60.0,
+        "combined": 44.93,
+        "pitcher_impact": 0.0,
+        "adjusted": 31.45
+      },
+      "game_yrfi_probability": 50.08
+    },
+    "yrfi_probability": 50.08
+  },
+  "metadata": {
+    "generated_at": "2026-07-03T15:48:00.521781",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Texas Rangers
+# Análisis YRFI: Milwaukee Brewers @ Arizona Diamondbacks
 
-**Fecha:** 2026-07-03  
-**Lanzadores:** Framber Valdez (V) vs Nathan Eovaldi (L)
+**Fecha:** 2026-07-04  
+**Lanzadores:** Kyle Harrison (V) vs Jose Cabrera (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.4%
+**Probabilidad de que anoten en la primera entrada:** 38.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 24.3% (9/37 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 34.1% (15/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 31.6%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Kyle Harrison):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.6%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 39.5% (17/43 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 31.6% (12/38 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 42.2%
+- **Impacto del lanzador local (Arizona Diamondbacks - Jose Cabrera):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-02 15:59:49
+- **Generado el:** 2026-07-03 15:48:00
 - **Fuente de datos:** season_data.json
