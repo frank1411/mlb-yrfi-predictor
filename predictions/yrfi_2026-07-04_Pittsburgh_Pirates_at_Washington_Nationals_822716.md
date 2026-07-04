@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Washington Nationals
 
-**Fecha:** 2026-07-03  
-**Lanzadores:** Mitch Keller (V) vs Foster Griffin (L)
+**Fecha:** 2026-07-04  
+**Lanzadores:** Braxton Ashcraft (V) vs Carson Palmquist (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.0%
+**Probabilidad de que anoten en la primera entrada:** 44.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 38.1% (16/42 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.3%
+- **Estadística base YRFI:** 39.5% (17/43 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 27.8%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 37.2% (16/43 partidos)
+- **Estadística base YRFI:** 36.4% (16/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Foster Griffin):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 33.1%
+- **Impacto del lanzador local (Washington Nationals - Carson Palmquist):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-03 15:48:00
+- **Generado el:** 2026-07-04 14:57:56
 - **Fuente de datos:** season_data.json

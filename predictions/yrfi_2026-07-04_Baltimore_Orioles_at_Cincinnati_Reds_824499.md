@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Cincinnati Reds
 
-**Fecha:** 2026-07-03  
-**Lanzadores:** Trevor Rogers (V) vs Brady Singer (L)
+**Fecha:** 2026-07-04  
+**Lanzadores:** Brandon Young (V) vs Hunter Greene (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.6%
+**Probabilidad de que anoten en la primera entrada:** 36.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 26.8% (11/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 20.6%
+- **Estadística base YRFI:** 26.2% (11/42 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Brandon Young):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.5%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 24.4% (10/41 partidos)
+- **Estadística base YRFI:** 26.2% (11/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.4%
+- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-03 15:48:00
+- **Generado el:** 2026-07-04 14:57:56
 - **Fuente de datos:** season_data.json

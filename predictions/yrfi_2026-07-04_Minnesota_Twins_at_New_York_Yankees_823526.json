@@ -1,18 +1,18 @@
 {
-  "game_pk": 823527,
-  "game_date": "2026-07-03",
+  "game_pk": 823526,
+  "game_date": "2026-07-04",
   "home_team": {
     "id": "147",
     "name": "New York Yankees",
     "pitcher": {
-      "name": "Gerrit Cole",
+      "name": "Brendan Beck",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 42.5,
-        "ratio": "17/40"
+        "value": 43.90243902439025,
+        "ratio": "18/41"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "142",
     "name": "Minnesota Twins",
-    "combined_yrfi_pct": 44.93,
+    "combined_yrfi_pct": 45.82,
     "pitcher": {
-      "name": "Mike Paredes",
+      "name": "Zebby Matthews",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 34.883720930232556,
-        "ratio": "15/43"
+        "value": 36.36363636363637,
+        "ratio": "16/44"
       },
       "tendency": {
         "value": 60.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 42.5,
+        "base": 43.90243902439025,
         "tendency": 33.33333333333333,
-        "combined": 38.83,
+        "combined": 39.67,
         "pitcher_impact": 0.0,
-        "adjusted": 27.18
+        "adjusted": 27.77
       },
       "away_team": {
-        "base": 34.883720930232556,
+        "base": 36.36363636363637,
         "tendency": 60.0,
-        "combined": 44.93,
+        "combined": 45.82,
         "pitcher_impact": 0.0,
-        "adjusted": 31.45
+        "adjusted": 32.07
       },
-      "game_yrfi_probability": 50.08
+      "game_yrfi_probability": 50.93
     },
-    "yrfi_probability": 50.08
+    "yrfi_probability": 50.93
   },
   "metadata": {
-    "generated_at": "2026-07-03T15:48:00.521781",
+    "generated_at": "2026-07-04T14:57:56.179869",
     "data_source": "season_data.json"
   }
 }

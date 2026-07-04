@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Los Angeles Angels
 
-**Fecha:** 2026-07-04  
-**Lanzadores:** Jake Bennett (V) vs Reid Detmers (L)
+**Fecha:** 2026-07-05  
+**Lanzadores:** Sonny Gray (V) vs Sam Aldegheri (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.2%
+**Probabilidad de que anoten en la primera entrada:** 61.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 41.9% (18/43 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.1%
+- **Estadística base YRFI:** 40.9% (18/44 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 52.8%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 19.5% (8/41 partidos)
+- **Estadística base YRFI:** 19.0% (8/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Impacto del lanzador local (Los Angeles Angels - Sam Aldegheri):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-03 15:48:00
+- **Generado el:** 2026-07-04 14:57:56
 - **Fuente de datos:** season_data.json

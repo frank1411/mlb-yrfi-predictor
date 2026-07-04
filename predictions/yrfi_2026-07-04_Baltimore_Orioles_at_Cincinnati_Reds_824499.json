@@ -1,18 +1,18 @@
 {
-  "game_pk": 824982,
+  "game_pk": 824499,
   "game_date": "2026-07-04",
   "home_team": {
-    "id": "133",
-    "name": "Athletics",
+    "id": "113",
+    "name": "Cincinnati Reds",
     "pitcher": {
-      "name": "Jack Perkins",
+      "name": "Hunter Greene",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 36.36363636363637,
-        "ratio": "16/44"
+        "value": 26.190476190476193,
+        "ratio": "11/42"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "146",
-    "name": "Miami Marlins",
-    "combined_yrfi_pct": 34.14,
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 31.71,
     "pitcher": {
-      "name": "Tyler Phillips",
+      "name": "Brandon Young",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 30.23255813953488,
-        "ratio": "13/43"
+        "value": 26.190476190476193,
+        "ratio": "11/42"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.36363636363637,
+        "base": 26.190476190476193,
         "tendency": 26.666666666666668,
-        "combined": 32.48,
+        "combined": 26.38,
         "pitcher_impact": 0.0,
-        "adjusted": 22.74
+        "adjusted": 18.47
       },
       "away_team": {
-        "base": 30.23255813953488,
+        "base": 26.190476190476193,
         "tendency": 40.0,
-        "combined": 34.14,
+        "combined": 31.71,
         "pitcher_impact": 0.0,
-        "adjusted": 23.9
+        "adjusted": 22.2
       },
-      "game_yrfi_probability": 41.21
+      "game_yrfi_probability": 36.57
     },
-    "yrfi_probability": 41.21
+    "yrfi_probability": 36.57
   },
   "metadata": {
-    "generated_at": "2026-07-03T15:48:00.546954",
+    "generated_at": "2026-07-04T14:57:56.192092",
     "data_source": "season_data.json"
   }
 }

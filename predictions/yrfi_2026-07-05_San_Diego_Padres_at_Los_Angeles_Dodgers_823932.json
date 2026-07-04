@@ -1,0 +1,67 @@
+{
+  "game_pk": 823932,
+  "game_date": "2026-07-05",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "14/42"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 28.68,
+    "pitcher": {
+      "name": "Griffin Canning",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 25.581395348837212,
+        "ratio": "11/43"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 33.33333333333333,
+        "combined": 33.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.33
+      },
+      "away_team": {
+        "base": 25.581395348837212,
+        "tendency": 33.33333333333333,
+        "combined": 28.68,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.58
+      },
+      "game_yrfi_probability": 44.48
+    },
+    "yrfi_probability": 44.48
+  },
+  "metadata": {
+    "generated_at": "2026-07-04T14:57:56.231196",
+    "data_source": "season_data.json"
+  }
+}

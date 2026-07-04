@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ New York Yankees
 
-**Fecha:** 2026-07-03  
-**Lanzadores:** Mike Paredes (V) vs Gerrit Cole (L)
+**Fecha:** 2026-07-04  
+**Lanzadores:** Zebby Matthews (V) vs Brendan Beck (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.1%
+**Probabilidad de que anoten en la primera entrada:** 50.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 42.5% (17/40 partidos)
+- **Estadística base YRFI:** 43.9% (18/41 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Mike Paredes):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 27.2%
+- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.8%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 34.9% (15/43 partidos)
+- **Estadística base YRFI:** 36.4% (16/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.4%
+- **Impacto del lanzador local (New York Yankees - Brendan Beck):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 32.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-03 15:48:00
+- **Generado el:** 2026-07-04 14:57:56
 - **Fuente de datos:** season_data.json

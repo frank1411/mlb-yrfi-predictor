@@ -1,0 +1,67 @@
+{
+  "game_pk": 822882,
+  "game_date": "2026-07-04",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Kumar Rocker",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.684210526315788,
+        "ratio": "9/38"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 31.18,
+    "pitcher": {
+      "name": "Jack Flaherty",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 38.63636363636363,
+        "ratio": "17/44"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.684210526315788,
+        "tendency": 33.33333333333333,
+        "combined": 27.54,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.78
+      },
+      "away_team": {
+        "base": 38.63636363636363,
+        "tendency": 20.0,
+        "combined": 31.18,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.83
+      },
+      "game_yrfi_probability": 64.73
+    },
+    "yrfi_probability": 64.73
+  },
+  "metadata": {
+    "generated_at": "2026-07-04T14:57:56.184518",
+    "data_source": "season_data.json"
+  }
+}

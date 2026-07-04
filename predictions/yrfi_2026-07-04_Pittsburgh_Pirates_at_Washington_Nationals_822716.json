@@ -1,0 +1,67 @@
+{
+  "game_pk": 822716,
+  "game_date": "2026-07-04",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Carson Palmquist",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 39.53488372093023,
+        "ratio": "17/43"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 32.48,
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "16/44"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.53488372093023,
+        "tendency": 40.0,
+        "combined": 39.72,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.8
+      },
+      "away_team": {
+        "base": 36.36363636363637,
+        "tendency": 26.666666666666668,
+        "combined": 32.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.74
+      },
+      "game_yrfi_probability": 44.22
+    },
+    "yrfi_probability": 44.22
+  },
+  "metadata": {
+    "generated_at": "2026-07-04T14:57:56.175662",
+    "data_source": "season_data.json"
+  }
+}

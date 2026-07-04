@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Seattle Mariners
 
 **Fecha:** 2026-07-04  
-**Lanzadores:** Dylan Cease (V) vs Luis Castillo (L)
+**Lanzadores:** Shane Bieber (V) vs Logan Gilbert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.6%
+**Probabilidad de que anoten en la primera entrada:** 53.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 38.6% (17/44 partidos)
+- **Estadística base YRFI:** 37.8% (17/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 44.3%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 21.1% (8/38 partidos)
+- **Estadística base YRFI:** 20.5% (8/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 83.3% (5/6 partidos)
+- **Puntuación ajustada:** 41.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-03 15:48:00
+- **Generado el:** 2026-07-04 14:57:56
 - **Fuente de datos:** season_data.json

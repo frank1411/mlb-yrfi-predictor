@@ -1,0 +1,67 @@
+{
+  "game_pk": 824658,
+  "game_date": "2026-07-05",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "11/44"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 35.28,
+    "pitcher": {
+      "name": "Kyle Leahy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 36.58536585365854,
+        "ratio": "15/41"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.97
+      },
+      "away_team": {
+        "base": 36.58536585365854,
+        "tendency": 33.33333333333333,
+        "combined": 35.28,
+        "pitcher_impact": 25.0,
+        "adjusted": 32.2
+      },
+      "game_yrfi_probability": 44.38
+    },
+    "yrfi_probability": 44.38
+  },
+  "metadata": {
+    "generated_at": "2026-07-04T14:57:56.203518",
+    "data_source": "season_data.json"
+  }
+}

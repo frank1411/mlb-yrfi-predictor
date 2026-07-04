@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Colorado Rockies
 
-**Fecha:** 2026-07-04  
-**Lanzadores:** Por anunciar (V) vs Ryan Feltner (L)
+**Fecha:** 2026-07-05  
+**Lanzadores:** Robbie Ray (V) vs Tomoyuki Sugano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 64.2%
+**Probabilidad de que anoten en la primera entrada:** 52.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 43.2% (19/44 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 44.3%
+- **Estadística base YRFI:** 44.4% (20/45 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 31.7%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 23.9% (11/46 partidos)
+- **Estadística base YRFI:** 23.4% (11/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 30.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-03 15:48:00
+- **Generado el:** 2026-07-04 14:57:56
 - **Fuente de datos:** season_data.json

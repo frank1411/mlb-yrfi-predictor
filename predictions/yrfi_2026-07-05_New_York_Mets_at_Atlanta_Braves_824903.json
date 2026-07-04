@@ -1,0 +1,67 @@
+{
+  "game_pk": 824903,
+  "game_date": "2026-07-05",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Chris Sale",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "14/42"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 16.0,
+    "pitcher": {
+      "name": "Sean Manaea",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "10/45"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "away_team": {
+        "base": 22.22222222222222,
+        "tendency": 6.666666666666667,
+        "combined": 16.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.2
+      },
+      "game_yrfi_probability": 30.27
+    },
+    "yrfi_probability": 30.27
+  },
+  "metadata": {
+    "generated_at": "2026-07-04T14:57:56.207408",
+    "data_source": "season_data.json"
+  }
+}

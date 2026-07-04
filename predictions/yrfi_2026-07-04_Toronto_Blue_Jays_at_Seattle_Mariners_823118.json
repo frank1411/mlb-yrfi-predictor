@@ -1,0 +1,67 @@
+{
+  "game_pk": 823118,
+  "game_date": "2026-07-04",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 83.33333333333334,
+      "yrfi_ratio": "5/6"
+    },
+    "stats": {
+      "base": {
+        "value": 37.77777777777778,
+        "ratio": "17/45"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 22.97,
+    "pitcher": {
+      "name": "Shane Bieber",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.51282051282051,
+        "ratio": "8/39"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.77777777777778,
+        "tendency": 20.0,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "away_team": {
+        "base": 20.51282051282051,
+        "tendency": 26.666666666666668,
+        "combined": 22.97,
+        "pitcher_impact": 83.33333333333334,
+        "adjusted": 41.08
+      },
+      "game_yrfi_probability": 53.73
+    },
+    "yrfi_probability": 53.73
+  },
+  "metadata": {
+    "generated_at": "2026-07-04T14:57:56.188402",
+    "data_source": "season_data.json"
+  }
+}

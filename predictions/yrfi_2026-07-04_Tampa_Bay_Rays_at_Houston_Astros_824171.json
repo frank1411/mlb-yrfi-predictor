@@ -1,0 +1,67 @@
+{
+  "game_pk": 824171,
+  "game_date": "2026-07-04",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "18/45"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 34.38,
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.190476190476193,
+        "ratio": "11/42"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 40.0,
+        "combined": 40.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 35.5
+      },
+      "away_team": {
+        "base": 26.190476190476193,
+        "tendency": 46.666666666666664,
+        "combined": 34.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.07
+      },
+      "game_yrfi_probability": 51.03
+    },
+    "yrfi_probability": 51.03
+  },
+  "metadata": {
+    "generated_at": "2026-07-04T14:57:56.195986",
+    "data_source": "season_data.json"
+  }
+}

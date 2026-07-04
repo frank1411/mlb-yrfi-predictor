@@ -1,0 +1,67 @@
+{
+  "game_pk": 824012,
+  "game_date": "2026-07-05",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Sam Aldegheri",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 40.909090909090914,
+        "ratio": "18/44"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 27.43,
+    "pitcher": {
+      "name": "Sonny Gray",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 19.047619047619047,
+        "ratio": "8/42"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.909090909090914,
+        "tendency": 20.0,
+        "combined": 32.55,
+        "pitcher_impact": 100.0,
+        "adjusted": 52.78
+      },
+      "away_team": {
+        "base": 19.047619047619047,
+        "tendency": 40.0,
+        "combined": 27.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.2
+      },
+      "game_yrfi_probability": 61.85
+    },
+    "yrfi_probability": 61.85
+  },
+  "metadata": {
+    "generated_at": "2026-07-04T14:57:56.219512",
+    "data_source": "season_data.json"
+  }
+}
