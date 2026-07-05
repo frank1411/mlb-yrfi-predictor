@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Kansas City Royals
 
 **Fecha:** 2026-07-05  
-**Lanzadores:** Jesús Luzardo (V) vs Michael Wacha (L)
+**Lanzadores:** Aaron Nola (V) vs Luinder Avila (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.5%
+**Probabilidad de que anoten en la primera entrada:** 65.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 29.5% (13/44 partidos)
+- **Estadística base YRFI:** 28.9% (13/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 25.5%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 31.2%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.2% (11/42 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Estadística base YRFI:** 25.6% (11/43 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Luinder Avila):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 50.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-04 14:57:56
+- **Generado el:** 2026-07-05 15:05:00
 - **Fuente de datos:** season_data.json

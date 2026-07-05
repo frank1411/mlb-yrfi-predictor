@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Los Angeles Angels
 
-**Fecha:** 2026-07-05  
-**Lanzadores:** Sonny Gray (V) vs Sam Aldegheri (L)
+**Fecha:** 2026-07-06  
+**Lanzadores:** Ranger Suarez (V) vs Ryan Johnson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.9%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 40.9% (18/44 partidos)
+- **Estadística base YRFI:** 40.0% (18/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 52.8%
+- **Impacto del lanzador visitante (Boston Red Sox - Ranger Suarez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 32.4%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 19.0% (8/42 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Sam Aldegheri):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.2%
+- **Estadística base YRFI:** 20.9% (9/43 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Los Angeles Angels - Ryan Johnson):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-04 14:57:56
+- **Generado el:** 2026-07-05 15:05:00
 - **Fuente de datos:** season_data.json

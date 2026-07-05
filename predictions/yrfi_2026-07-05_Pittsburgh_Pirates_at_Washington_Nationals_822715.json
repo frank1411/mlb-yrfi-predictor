@@ -1,18 +1,18 @@
 {
-  "game_pk": 824092,
+  "game_pk": 822715,
   "game_date": "2026-07-05",
   "home_team": {
-    "id": "118",
-    "name": "Kansas City Royals",
+    "id": "120",
+    "name": "Washington Nationals",
     "pitcher": {
-      "name": "Michael Wacha",
+      "name": "Cade Cavalli",
       "yrfi_allowed": 33.33333333333333,
       "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 29.545454545454547,
-        "ratio": "13/44"
+        "value": 40.909090909090914,
+        "ratio": "18/44"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -21,47 +21,47 @@
     }
   },
   "away_team": {
-    "id": "143",
-    "name": "Philadelphia Phillies",
-    "combined_yrfi_pct": 31.71,
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 33.33,
     "pitcher": {
-      "name": "Jesús Luzardo",
+      "name": "Bubba Chandler",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 26.190476190476193,
-        "ratio": "11/42"
+        "value": 37.77777777777778,
+        "ratio": "17/45"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 29.545454545454547,
+        "base": 40.909090909090914,
         "tendency": 46.666666666666664,
-        "combined": 36.39,
+        "combined": 43.21,
         "pitcher_impact": 0.0,
-        "adjusted": 25.48
+        "adjusted": 30.25
       },
       "away_team": {
-        "base": 26.190476190476193,
-        "tendency": 40.0,
-        "combined": 31.71,
+        "base": 37.77777777777778,
+        "tendency": 26.666666666666668,
+        "combined": 33.33,
         "pitcher_impact": 33.33333333333333,
-        "adjusted": 32.2
+        "adjusted": 33.33
       },
-      "game_yrfi_probability": 49.48
+      "game_yrfi_probability": 53.5
     },
-    "yrfi_probability": 49.48
+    "yrfi_probability": 53.5
   },
   "metadata": {
-    "generated_at": "2026-07-04T14:57:56.215798",
+    "generated_at": "2026-07-05T15:05:00.849825",
     "data_source": "season_data.json"
   }
 }

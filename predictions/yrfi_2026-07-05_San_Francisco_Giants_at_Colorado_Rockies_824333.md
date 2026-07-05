@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Colorado Rockies
 
 **Fecha:** 2026-07-05  
-**Lanzadores:** Robbie Ray (V) vs Tomoyuki Sugano (L)
+**Lanzadores:** Tyler Mahle (V) vs Tanner Gordon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.5%
+**Probabilidad de que anoten en la primera entrada:** 53.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 44.4% (20/45 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 31.7%
+- **Estadística base YRFI:** 45.7% (21/46 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Tyler Mahle):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 44.1%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 23.4% (11/47 partidos)
+- **Estadística base YRFI:** 25.0% (12/48 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-04 14:57:56
+- **Generado el:** 2026-07-05 15:05:00
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Seattle Mariners
 
-**Fecha:** 2026-07-04  
-**Lanzadores:** Shane Bieber (V) vs Logan Gilbert (L)
+**Fecha:** 2026-07-05  
+**Lanzadores:** Trey Yesavage (V) vs Emerson Hancock (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.7%
+**Probabilidad de que anoten en la primera entrada:** 57.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 37.8% (17/45 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Estadística base YRFI:** 37.0% (17/46 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 49.3%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 20.5% (8/39 partidos)
+- **Estadística base YRFI:** 20.0% (8/40 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 83.3% (5/6 partidos)
-- **Puntuación ajustada:** 41.1%
+- **Impacto del lanzador local (Seattle Mariners - Emerson Hancock):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-04 14:57:56
+- **Generado el:** 2026-07-05 15:05:00
 - **Fuente de datos:** season_data.json

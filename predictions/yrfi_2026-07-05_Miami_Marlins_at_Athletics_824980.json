@@ -1,18 +1,18 @@
 {
-  "game_pk": 824415,
-  "game_date": "2026-07-04",
+  "game_pk": 824980,
+  "game_date": "2026-07-05",
   "home_team": {
-    "id": "114",
-    "name": "Cleveland Guardians",
+    "id": "133",
+    "name": "Athletics",
     "pitcher": {
-      "name": "Parker Messick",
+      "name": "Gage Jump",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 27.27272727272727,
-        "ratio": "12/44"
+        "value": 34.78260869565217,
+        "ratio": "16/46"
       },
       "tendency": {
         "value": 20.0,
@@ -21,47 +21,47 @@
     }
   },
   "away_team": {
-    "id": "145",
-    "name": "Chicago White Sox",
+    "id": "146",
+    "name": "Miami Marlins",
     "combined_yrfi_pct": 34.67,
     "pitcher": {
-      "name": "Sean Burke",
+      "name": "Eury Pérez",
       "yrfi_allowed": 33.33333333333333,
       "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 35.55555555555556,
-        "ratio": "16/45"
+        "value": 31.11111111111111,
+        "ratio": "14/45"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 27.27272727272727,
+        "base": 34.78260869565217,
         "tendency": 20.0,
-        "combined": 24.36,
+        "combined": 28.87,
         "pitcher_impact": 33.33333333333333,
-        "adjusted": 27.05
+        "adjusted": 30.21
       },
       "away_team": {
-        "base": 35.55555555555556,
-        "tendency": 33.33333333333333,
+        "base": 31.11111111111111,
+        "tendency": 40.0,
         "combined": 34.67,
         "pitcher_impact": 0.0,
         "adjusted": 24.27
       },
-      "game_yrfi_probability": 44.75
+      "game_yrfi_probability": 47.15
     },
-    "yrfi_probability": 44.75
+    "yrfi_probability": 47.15
   },
   "metadata": {
-    "generated_at": "2026-07-04T14:57:56.199807",
+    "generated_at": "2026-07-05T15:05:00.891946",
     "data_source": "season_data.json"
   }
 }

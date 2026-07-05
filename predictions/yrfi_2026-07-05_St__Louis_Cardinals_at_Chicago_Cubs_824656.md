@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Chicago Cubs
 
 **Fecha:** 2026-07-05  
-**Lanzadores:** Kyle Leahy (V) vs Shota Imanaga (L)
+**Lanzadores:** Matthew Liberatore (V) vs Javier Assad (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.4%
+**Probabilidad de que anoten en la primera entrada:** 49.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 25.0% (11/44 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Kyle Leahy):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Estadística base YRFI:** 24.4% (11/45 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 30.9%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 36.6% (15/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Estadística base YRFI:** 38.1% (16/42 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Javier Assad):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 27.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-04 14:57:56
+- **Generado el:** 2026-07-05 15:05:00
 - **Fuente de datos:** season_data.json

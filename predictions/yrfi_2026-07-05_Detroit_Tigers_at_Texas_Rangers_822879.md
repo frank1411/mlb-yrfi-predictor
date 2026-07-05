@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Texas Rangers
 
-**Fecha:** 2026-07-04  
-**Lanzadores:** Jack Flaherty (V) vs Kumar Rocker (L)
+**Fecha:** 2026-07-05  
+**Lanzadores:** Casey Mize (V) vs Kumar Rocker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 64.7%
+**Probabilidad de que anoten en la primera entrada:** 63.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 23.7% (9/38 partidos)
+- **Estadística base YRFI:** 23.1% (9/39 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Impacto del lanzador visitante (Detroit Tigers - Casey Mize):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.0%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 38.6% (17/44 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Estadística base YRFI:** 40.0% (18/45 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
 - **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 51.8%
+- **Puntuación ajustada:** 54.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-04 14:57:56
+- **Generado el:** 2026-07-05 15:05:00
 - **Fuente de datos:** season_data.json

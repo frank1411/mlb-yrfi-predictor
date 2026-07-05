@@ -1,0 +1,67 @@
+{
+  "game_pk": 824656,
+  "game_date": "2026-07-05",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Javier Assad",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 24.444444444444443,
+        "ratio": "11/45"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 38.86,
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 38.095238095238095,
+        "ratio": "16/42"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.444444444444443,
+        "tendency": 20.0,
+        "combined": 22.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.87
+      },
+      "away_team": {
+        "base": 38.095238095238095,
+        "tendency": 40.0,
+        "combined": 38.86,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.2
+      },
+      "game_yrfi_probability": 49.67
+    },
+    "yrfi_probability": 49.67
+  },
+  "metadata": {
+    "generated_at": "2026-07-05T15:05:00.870052",
+    "data_source": "season_data.json"
+  }
+}
