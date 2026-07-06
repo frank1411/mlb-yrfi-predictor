@@ -1,13 +1,13 @@
 {
-  "game_pk": 824010,
+  "game_pk": 822712,
   "game_date": "2026-07-06",
   "home_team": {
-    "id": "108",
-    "name": "Los Angeles Angels",
+    "id": "120",
+    "name": "Washington Nationals",
     "pitcher": {
-      "name": "Ryan Johnson",
+      "name": "Miles Mikolas",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/1"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -15,24 +15,24 @@
         "ratio": "18/45"
       },
       "tendency": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 46.666666666666664,
+        "ratio": "7/15"
       }
     }
   },
   "away_team": {
-    "id": "111",
-    "name": "Boston Red Sox",
-    "combined_yrfi_pct": 31.22,
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 36.93,
     "pitcher": {
-      "name": "Ranger Suarez",
+      "name": "Mike Burrows",
       "yrfi_allowed": 33.33333333333333,
       "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 20.930232558139537,
-        "ratio": "9/43"
+        "value": 30.434782608695656,
+        "ratio": "14/46"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -44,24 +44,24 @@
     "calculation": {
       "home_team": {
         "base": 40.0,
-        "tendency": 20.0,
-        "combined": 32.0,
+        "tendency": 46.666666666666664,
+        "combined": 42.67,
         "pitcher_impact": 33.33333333333333,
-        "adjusted": 32.4
+        "adjusted": 39.87
       },
       "away_team": {
-        "base": 20.930232558139537,
+        "base": 30.434782608695656,
         "tendency": 46.666666666666664,
-        "combined": 31.22,
+        "combined": 36.93,
         "pitcher_impact": 0.0,
-        "adjusted": 21.86
+        "adjusted": 25.85
       },
-      "game_yrfi_probability": 47.18
+      "game_yrfi_probability": 55.41
     },
-    "yrfi_probability": 47.18
+    "yrfi_probability": 55.41
   },
   "metadata": {
-    "generated_at": "2026-07-05T15:05:00.903453",
+    "generated_at": "2026-07-06T16:47:31.096672",
     "data_source": "season_data.json"
   }
 }

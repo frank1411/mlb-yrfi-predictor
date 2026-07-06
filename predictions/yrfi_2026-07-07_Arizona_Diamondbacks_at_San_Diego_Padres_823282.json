@@ -1,0 +1,67 @@
+{
+  "game_pk": 823282,
+  "game_date": "2026-07-07",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 18.181818181818183,
+        "ratio": "8/44"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 30.29,
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "10/42"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.181818181818183,
+        "tendency": 26.666666666666668,
+        "combined": 21.58,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.1
+      },
+      "away_team": {
+        "base": 23.809523809523807,
+        "tendency": 40.0,
+        "combined": 30.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.2
+      },
+      "game_yrfi_probability": 33.1
+    },
+    "yrfi_probability": 33.1
+  },
+  "metadata": {
+    "generated_at": "2026-07-06T16:47:31.108337",
+    "data_source": "season_data.json"
+  }
+}

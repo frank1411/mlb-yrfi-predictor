@@ -1,0 +1,67 @@
+{
+  "game_pk": 822958,
+  "game_date": "2026-07-06",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 46.51162790697674,
+        "ratio": "20/43"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 31.59,
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "14/46"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 46.51162790697674,
+        "tendency": 53.333333333333336,
+        "combined": 49.24,
+        "pitcher_impact": 20.0,
+        "adjusted": 40.47
+      },
+      "away_team": {
+        "base": 30.434782608695656,
+        "tendency": 33.33333333333333,
+        "combined": 31.59,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.12
+      },
+      "game_yrfi_probability": 53.64
+    },
+    "yrfi_probability": 53.64
+  },
+  "metadata": {
+    "generated_at": "2026-07-06T16:47:31.092671",
+    "data_source": "season_data.json"
+  }
+}
