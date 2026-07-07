@@ -1,0 +1,67 @@
+{
+  "game_pk": 823203,
+  "game_date": "2026-07-08",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Trevor McDonald",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 21.951219512195124,
+        "ratio": "9/41"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 19.43,
+    "pitcher": {
+      "name": "Spencer Miles",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 19.047619047619047,
+        "ratio": "8/42"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.951219512195124,
+        "tendency": 20.0,
+        "combined": 21.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.82
+      },
+      "away_team": {
+        "base": 19.047619047619047,
+        "tendency": 20.0,
+        "combined": 19.43,
+        "pitcher_impact": 100.0,
+        "adjusted": 43.6
+      },
+      "game_yrfi_probability": 51.96
+    },
+    "yrfi_probability": 51.96
+  },
+  "metadata": {
+    "generated_at": "2026-07-07T16:17:27.284643",
+    "data_source": "season_data.json"
+  }
+}

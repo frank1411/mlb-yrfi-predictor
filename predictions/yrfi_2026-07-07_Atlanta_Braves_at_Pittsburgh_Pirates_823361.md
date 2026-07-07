@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Atlanta Braves
+# Análisis YRFI: Atlanta Braves @ Pittsburgh Pirates
 
-**Fecha:** 2026-07-06  
-**Lanzadores:** Freddy Peralta (V) vs Reynaldo López (L)
+**Fecha:** 2026-07-07  
+**Lanzadores:** Hurston Waldrep (V) vs Paul Skenes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.7%
+**Probabilidad de que anoten en la primera entrada:** 51.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 37.8% (17/45 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Hurston Waldrep):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.3%
+
+### Atlanta Braves (Visitante)
 - **Estadística base YRFI:** 34.1% (15/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Freddy Peralta):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.8%
-
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.4% (11/47 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Reynaldo López):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 26.7%
+- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 36.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-06 16:47:31
+- **Generado el:** 2026-07-07 16:17:27
 - **Fuente de datos:** season_data.json

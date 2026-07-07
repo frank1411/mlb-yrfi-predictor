@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Kansas City Royals
+# Análisis YRFI: Chicago Cubs @ Baltimore Orioles
 
-**Fecha:** 2026-07-06  
-**Lanzadores:** Cristopher Sánchez (V) vs Noah Cameron (L)
+**Fecha:** 2026-07-07  
+**Lanzadores:** Matthew Boyd (V) vs Shane Baz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.5%
+**Probabilidad de que anoten en la primera entrada:** 59.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 30.4% (14/46 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 23.4% (11/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 40.9%
+- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 52.9%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.0% (11/44 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 15.9% (7/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-06 16:47:31
+- **Generado el:** 2026-07-07 16:17:27
 - **Fuente de datos:** season_data.json

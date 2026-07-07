@@ -1,0 +1,67 @@
+{
+  "game_pk": 824820,
+  "game_date": "2026-07-07",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.404255319148938,
+        "ratio": "11/47"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 20.21,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 15.909090909090908,
+        "ratio": "7/44"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.404255319148938,
+        "tendency": 46.666666666666664,
+        "combined": 32.71,
+        "pitcher_impact": 100.0,
+        "adjusted": 52.9
+      },
+      "away_team": {
+        "base": 15.909090909090908,
+        "tendency": 26.666666666666668,
+        "combined": 20.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.15
+      },
+      "game_yrfi_probability": 59.56
+    },
+    "yrfi_probability": 59.56
+  },
+  "metadata": {
+    "generated_at": "2026-07-07T16:17:27.238739",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Washington Nationals
 
-**Fecha:** 2026-07-06  
-**Lanzadores:** Mike Burrows (V) vs Miles Mikolas (L)
+**Fecha:** 2026-07-07  
+**Lanzadores:** Tatsuya Imai (V) vs Andrew Alvarez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.4%
+**Probabilidad de que anoten en la primera entrada:** 61.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 40.0% (18/45 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Mike Burrows):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 39.9%
+- **Estadística base YRFI:** 41.3% (19/46 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador visitante (Houston Astros - Tatsuya Imai):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 47.3%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 30.4% (14/46 partidos)
+- **Estadística base YRFI:** 31.9% (15/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador local (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-06 16:47:31
+- **Generado el:** 2026-07-07 16:17:27
 - **Fuente de datos:** season_data.json

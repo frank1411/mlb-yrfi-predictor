@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ St. Louis Cardinals
 
-**Fecha:** 2026-07-06  
-**Lanzadores:** Shane Drohan (V) vs Dustin May (L)
+**Fecha:** 2026-07-07  
+**Lanzadores:** Robert Gasser (V) vs Hunter Dobbins (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.1%
+**Probabilidad de que anoten en la primera entrada:** 32.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 25.0% (11/44 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Shane Drohan):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Estadística base YRFI:** 24.4% (11/45 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 29.3% (12/41 partidos)
+- **Estadística base YRFI:** 28.6% (12/42 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Dustin May):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 23.5%
+- **Impacto del lanzador local (St. Louis Cardinals - Hunter Dobbins):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 15.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-06 16:47:31
+- **Generado el:** 2026-07-07 16:17:27
 - **Fuente de datos:** season_data.json

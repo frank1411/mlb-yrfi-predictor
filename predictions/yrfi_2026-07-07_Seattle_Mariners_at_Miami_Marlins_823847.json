@@ -1,0 +1,67 @@
+{
+  "game_pk": 823847,
+  "game_date": "2026-07-07",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Max Meyer",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 37.77777777777778,
+        "ratio": "17/45"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 21.7,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "12/44"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.77777777777778,
+        "tendency": 40.0,
+        "combined": 38.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 42.07
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 13.333333333333334,
+        "combined": 21.7,
+        "pitcher_impact": 25.0,
+        "adjusted": 22.69
+      },
+      "game_yrfi_probability": 55.21
+    },
+    "yrfi_probability": 55.21
+  },
+  "metadata": {
+    "generated_at": "2026-07-07T16:17:27.249534",
+    "data_source": "season_data.json"
+  }
+}
