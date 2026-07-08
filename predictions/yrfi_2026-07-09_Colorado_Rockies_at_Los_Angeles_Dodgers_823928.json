@@ -1,0 +1,67 @@
+{
+  "game_pk": 823928,
+  "game_date": "2026-07-09",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.608695652173914,
+        "ratio": "15/46"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 34.38,
+    "pitcher": {
+      "name": "Gabriel Hughes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.73913043478261,
+        "ratio": "10/46"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.608695652173914,
+        "tendency": 26.666666666666668,
+        "combined": 30.23,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.16
+      },
+      "away_team": {
+        "base": 21.73913043478261,
+        "tendency": 53.333333333333336,
+        "combined": 34.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.06
+      },
+      "game_yrfi_probability": 40.13
+    },
+    "yrfi_probability": 40.13
+  },
+  "metadata": {
+    "generated_at": "2026-07-08T15:57:05.540331",
+    "data_source": "season_data.json"
+  }
+}

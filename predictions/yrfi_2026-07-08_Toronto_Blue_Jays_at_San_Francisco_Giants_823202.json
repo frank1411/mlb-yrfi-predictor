@@ -1,0 +1,67 @@
+{
+  "game_pk": 823202,
+  "game_date": "2026-07-08",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Logan Webb",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "9/42"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 19.16,
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 18.6046511627907,
+        "ratio": "8/43"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.428571428571427,
+        "tendency": 20.0,
+        "combined": 20.86,
+        "pitcher_impact": 75.0,
+        "adjusted": 37.1
+      },
+      "away_team": {
+        "base": 18.6046511627907,
+        "tendency": 20.0,
+        "combined": 19.16,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.41
+      },
+      "game_yrfi_probability": 45.53
+    },
+    "yrfi_probability": 45.53
+  },
+  "metadata": {
+    "generated_at": "2026-07-08T15:57:05.491903",
+    "data_source": "season_data.json"
+  }
+}

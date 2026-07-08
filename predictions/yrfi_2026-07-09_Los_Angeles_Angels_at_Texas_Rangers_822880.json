@@ -1,0 +1,67 @@
+{
+  "game_pk": 822880,
+  "game_date": "2026-07-09",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 21.951219512195124,
+        "ratio": "9/41"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 28.99,
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "12/46"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.951219512195124,
+        "tendency": 26.666666666666668,
+        "combined": 23.84,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.69
+      },
+      "away_team": {
+        "base": 26.08695652173913,
+        "tendency": 33.33333333333333,
+        "combined": 28.99,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.29
+      },
+      "game_yrfi_probability": 33.59
+    },
+    "yrfi_probability": 33.59
+  },
+  "metadata": {
+    "generated_at": "2026-07-08T15:57:05.536569",
+    "data_source": "season_data.json"
+  }
+}

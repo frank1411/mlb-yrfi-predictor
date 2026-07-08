@@ -1,0 +1,67 @@
+{
+  "game_pk": 823279,
+  "game_date": "2026-07-09",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 19.565217391304348,
+        "ratio": "9/46"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 37.7,
+    "pitcher": {
+      "name": "Jose Cabrera",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "12/44"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.565217391304348,
+        "tendency": 26.666666666666668,
+        "combined": 22.41,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.68
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 53.333333333333336,
+        "combined": 37.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.39
+      },
+      "game_yrfi_probability": 37.93
+    },
+    "yrfi_probability": 37.93
+  },
+  "metadata": {
+    "generated_at": "2026-07-08T15:57:05.544007",
+    "data_source": "season_data.json"
+  }
+}

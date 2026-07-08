@@ -1,0 +1,67 @@
+{
+  "game_pk": 823684,
+  "game_date": "2026-07-08",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Connor Prielipp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 34.78260869565217,
+        "ratio": "16/46"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 21.04,
+    "pitcher": {
+      "name": "Slade Cecconi",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 21.73913043478261,
+        "ratio": "10/46"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.78260869565217,
+        "tendency": 60.0,
+        "combined": 44.87,
+        "pitcher_impact": 40.0,
+        "adjusted": 43.41
+      },
+      "away_team": {
+        "base": 21.73913043478261,
+        "tendency": 20.0,
+        "combined": 21.04,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.73
+      },
+      "game_yrfi_probability": 51.75
+    },
+    "yrfi_probability": 51.75
+  },
+  "metadata": {
+    "generated_at": "2026-07-08T15:57:05.525350",
+    "data_source": "season_data.json"
+  }
+}

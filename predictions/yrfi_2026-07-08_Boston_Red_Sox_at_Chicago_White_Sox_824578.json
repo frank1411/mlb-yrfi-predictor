@@ -1,0 +1,67 @@
+{
+  "game_pk": 824578,
+  "game_date": "2026-07-08",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "12/44"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 30.67,
+    "pitcher": {
+      "name": "Jake Bennett",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "9/45"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.27272727272727,
+        "tendency": 33.33333333333333,
+        "combined": 29.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.79
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 46.666666666666664,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "game_yrfi_probability": 37.8
+    },
+    "yrfi_probability": 37.8
+  },
+  "metadata": {
+    "generated_at": "2026-07-08T15:57:05.529080",
+    "data_source": "season_data.json"
+  }
+}
