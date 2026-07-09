@@ -1,18 +1,18 @@
 {
-  "game_pk": 823848,
-  "game_date": "2026-07-08",
+  "game_pk": 823846,
+  "game_date": "2026-07-09",
   "home_team": {
     "id": "146",
     "name": "Miami Marlins",
     "pitcher": {
-      "name": "Tyler Phillips",
+      "name": "Janson Junk",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/5"
     },
     "stats": {
       "base": {
-        "value": 36.95652173913043,
-        "ratio": "17/46"
+        "value": 36.17021276595745,
+        "ratio": "17/47"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "136",
     "name": "Seattle Mariners",
-    "combined_yrfi_pct": 21.33,
+    "combined_yrfi_pct": 20.99,
     "pitcher": {
-      "name": "George Kirby",
+      "name": "Bryce Miller",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 26.666666666666668,
-        "ratio": "12/45"
+        "value": 26.08695652173913,
+        "ratio": "12/46"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.95652173913043,
+        "base": 36.17021276595745,
         "tendency": 33.33333333333333,
-        "combined": 35.51,
+        "combined": 35.04,
         "pitcher_impact": 0.0,
-        "adjusted": 24.86
+        "adjusted": 24.52
       },
       "away_team": {
-        "base": 26.666666666666668,
+        "base": 26.08695652173913,
         "tendency": 13.333333333333334,
-        "combined": 21.33,
+        "combined": 20.99,
         "pitcher_impact": 0.0,
-        "adjusted": 14.93
+        "adjusted": 14.69
       },
-      "game_yrfi_probability": 36.08
+      "game_yrfi_probability": 35.61
     },
-    "yrfi_probability": 36.08
+    "yrfi_probability": 35.61
   },
   "metadata": {
-    "generated_at": "2026-07-08T15:57:05.507712",
+    "generated_at": "2026-07-09T16:21:52.998350",
     "data_source": "season_data.json"
   }
 }

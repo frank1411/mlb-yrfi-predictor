@@ -1,18 +1,18 @@
 {
-  "game_pk": 822957,
-  "game_date": "2026-07-08",
+  "game_pk": 822954,
+  "game_date": "2026-07-09",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Shane McClanahan",
+      "name": "Drew Rasmussen",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 44.44444444444444,
-        "ratio": "20/45"
+        "value": 43.47826086956522,
+        "ratio": "20/46"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "147",
     "name": "New York Yankees",
-    "combined_yrfi_pct": 28.17,
+    "combined_yrfi_pct": 27.81,
     "pitcher": {
-      "name": "Gerrit Cole",
+      "name": "Paul Blackburn",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 29.166666666666668,
-        "ratio": "14/48"
+        "value": 28.57142857142857,
+        "ratio": "14/49"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 44.44444444444444,
+        "base": 43.47826086956522,
         "tendency": 46.666666666666664,
-        "combined": 45.33,
+        "combined": 44.75,
         "pitcher_impact": 0.0,
-        "adjusted": 31.73
+        "adjusted": 31.33
       },
       "away_team": {
-        "base": 29.166666666666668,
+        "base": 28.57142857142857,
         "tendency": 26.666666666666668,
-        "combined": 28.17,
+        "combined": 27.81,
         "pitcher_impact": 0.0,
-        "adjusted": 19.72
+        "adjusted": 19.47
       },
-      "game_yrfi_probability": 45.19
+      "game_yrfi_probability": 44.7
     },
-    "yrfi_probability": 45.19
+    "yrfi_probability": 44.7
   },
   "metadata": {
-    "generated_at": "2026-07-08T15:57:05.511440",
+    "generated_at": "2026-07-09T16:21:52.978182",
     "data_source": "season_data.json"
   }
 }

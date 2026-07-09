@@ -1,0 +1,67 @@
+{
+  "game_pk": 823683,
+  "game_date": "2026-07-09",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 34.04255319148936,
+        "ratio": "16/47"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 20.77,
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.27659574468085,
+        "ratio": "10/47"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.04255319148936,
+        "tendency": 60.0,
+        "combined": 44.43,
+        "pitcher_impact": 50.0,
+        "adjusted": 46.1
+      },
+      "away_team": {
+        "base": 21.27659574468085,
+        "tendency": 20.0,
+        "combined": 20.77,
+        "pitcher_impact": 20.0,
+        "adjusted": 20.54
+      },
+      "game_yrfi_probability": 57.17
+    },
+    "yrfi_probability": 57.17
+  },
+  "metadata": {
+    "generated_at": "2026-07-09T16:21:52.986619",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Chicago White Sox
 
-**Fecha:** 2026-07-08  
-**Lanzadores:** Jake Bennett (V) vs Davis Martin (L)
+**Fecha:** 2026-07-09  
+**Lanzadores:** Patrick Sandoval (V) vs Anthony Kay (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.8%
+**Probabilidad de que anoten en la primera entrada:** 61.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 27.3% (12/44 partidos)
+- **Estadística base YRFI:** 26.7% (12/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador visitante (Boston Red Sox - Patrick Sandoval):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 20.0% (9/45 partidos)
+- **Estadística base YRFI:** 19.6% (9/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Impacto del lanzador local (Chicago White Sox - Anthony Kay):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 51.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-08 15:57:05
+- **Generado el:** 2026-07-09 16:21:52
 - **Fuente de datos:** season_data.json

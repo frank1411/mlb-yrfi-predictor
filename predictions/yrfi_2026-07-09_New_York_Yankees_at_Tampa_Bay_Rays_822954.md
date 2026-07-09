@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Tampa Bay Rays
 
-**Fecha:** 2026-07-08  
-**Lanzadores:** Gerrit Cole (V) vs Shane McClanahan (L)
+**Fecha:** 2026-07-09  
+**Lanzadores:** Paul Blackburn (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.2%
+**Probabilidad de que anoten en la primera entrada:** 44.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 44.4% (20/45 partidos)
+- **Estadística base YRFI:** 43.5% (20/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.7%
+- **Impacto del lanzador visitante (New York Yankees - Paul Blackburn):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 31.3%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 29.2% (14/48 partidos)
+- **Estadística base YRFI:** 28.6% (14/49 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Shane McClanahan):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.7%
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-08 15:57:05
+- **Generado el:** 2026-07-09 16:21:52
 - **Fuente de datos:** season_data.json

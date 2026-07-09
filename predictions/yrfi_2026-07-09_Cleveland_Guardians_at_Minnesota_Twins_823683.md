@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Minnesota Twins
 
-**Fecha:** 2026-07-08  
-**Lanzadores:** Slade Cecconi (V) vs Connor Prielipp (L)
+**Fecha:** 2026-07-09  
+**Lanzadores:** Gavin Williams (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.8%
+**Probabilidad de que anoten en la primera entrada:** 57.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 34.8% (16/46 partidos)
+- **Estadística base YRFI:** 34.0% (16/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 43.4%
+- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 46.1%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 21.7% (10/46 partidos)
+- **Estadística base YRFI:** 21.3% (10/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Connor Prielipp):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 14.7%
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-08 15:57:05
+- **Generado el:** 2026-07-09 16:21:52
 - **Fuente de datos:** season_data.json

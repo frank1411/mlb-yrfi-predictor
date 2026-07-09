@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Baltimore Orioles
 
-**Fecha:** 2026-07-08  
-**Lanzadores:** Colin Rea (V) vs Dean Kremer (L)
+**Fecha:** 2026-07-09  
+**Lanzadores:** David Peterson (V) vs Trevor Rogers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.3%
+**Probabilidad de que anoten en la primera entrada:** 56.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 22.9% (11/48 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Estadística base YRFI:** 22.4% (11/49 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - David Peterson):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 50.6%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 15.6% (7/45 partidos)
+- **Estadística base YRFI:** 15.2% (7/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Dean Kremer):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 42.1%
+- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 12.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-08 15:57:05
+- **Generado el:** 2026-07-09 16:21:52
 - **Fuente de datos:** season_data.json

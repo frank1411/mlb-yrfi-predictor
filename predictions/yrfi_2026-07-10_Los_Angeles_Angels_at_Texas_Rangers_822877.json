@@ -1,0 +1,67 @@
+{
+  "game_pk": 822877,
+  "game_date": "2026-07-10",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Nathan Eovaldi",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "9/42"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 32.6,
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.659574468085108,
+        "ratio": "13/47"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.428571428571427,
+        "tendency": 26.666666666666668,
+        "combined": 23.52,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.47
+      },
+      "away_team": {
+        "base": 27.659574468085108,
+        "tendency": 40.0,
+        "combined": 32.6,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 42.82
+      },
+      "game_yrfi_probability": 52.24
+    },
+    "yrfi_probability": 52.24
+  },
+  "metadata": {
+    "generated_at": "2026-07-09T16:21:53.010364",
+    "data_source": "season_data.json"
+  }
+}

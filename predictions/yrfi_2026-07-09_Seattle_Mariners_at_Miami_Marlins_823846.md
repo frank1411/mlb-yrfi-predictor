@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Miami Marlins
 
-**Fecha:** 2026-07-08  
-**Lanzadores:** George Kirby (V) vs Tyler Phillips (L)
+**Fecha:** 2026-07-09  
+**Lanzadores:** Bryce Miller (V) vs Janson Junk (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.1%
+**Probabilidad de que anoten en la primera entrada:** 35.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 37.0% (17/46 partidos)
+- **Estadística base YRFI:** 36.2% (17/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - George Kirby):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 26.7% (12/45 partidos)
+- **Estadística base YRFI:** 26.1% (12/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.9%
+- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 14.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-08 15:57:05
+- **Generado el:** 2026-07-09 16:21:52
 - **Fuente de datos:** season_data.json

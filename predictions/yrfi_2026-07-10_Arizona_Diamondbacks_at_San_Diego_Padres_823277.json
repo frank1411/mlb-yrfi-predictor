@@ -1,18 +1,18 @@
 {
-  "game_pk": 823279,
-  "game_date": "2026-07-09",
+  "game_pk": 823277,
+  "game_date": "2026-07-10",
   "home_team": {
     "id": "135",
     "name": "San Diego Padres",
     "pitcher": {
-      "name": "Michael King",
+      "name": "Griffin Canning",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 19.565217391304348,
-        "ratio": "9/46"
+        "value": 19.148936170212767,
+        "ratio": "9/47"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
-    "combined_yrfi_pct": 37.7,
+    "combined_yrfi_pct": 41.33,
     "pitcher": {
-      "name": "Jose Cabrera",
+      "name": "Merrill Kelly",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 27.27272727272727,
-        "ratio": "12/44"
+        "value": 28.888888888888886,
+        "ratio": "13/45"
       },
       "tendency": {
-        "value": 53.333333333333336,
-        "ratio": "8/15"
+        "value": 60.0,
+        "ratio": "9/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 19.565217391304348,
+        "base": 19.148936170212767,
         "tendency": 26.666666666666668,
-        "combined": 22.41,
+        "combined": 22.16,
         "pitcher_impact": 0.0,
-        "adjusted": 15.68
+        "adjusted": 15.51
       },
       "away_team": {
-        "base": 27.27272727272727,
-        "tendency": 53.333333333333336,
-        "combined": 37.7,
+        "base": 28.888888888888886,
+        "tendency": 60.0,
+        "combined": 41.33,
         "pitcher_impact": 0.0,
-        "adjusted": 26.39
+        "adjusted": 28.93
       },
-      "game_yrfi_probability": 37.93
+      "game_yrfi_probability": 39.95
     },
-    "yrfi_probability": 37.93
+    "yrfi_probability": 39.95
   },
   "metadata": {
-    "generated_at": "2026-07-08T15:57:05.544007",
+    "generated_at": "2026-07-09T16:21:53.015412",
     "data_source": "season_data.json"
   }
 }

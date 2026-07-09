@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Texas Rangers
+# Análisis YRFI: Philadelphia Phillies @ Cincinnati Reds
 
 **Fecha:** 2026-07-09  
-**Lanzadores:** Walbert Ureña (V) vs MacKenzie Gore (L)
+**Lanzadores:** Jesús Luzardo (V) vs Brady Singer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.6%
+**Probabilidad de que anoten en la primera entrada:** 41.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 22.0% (9/41 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Walbert Ureña):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 16.7%
-
-### Los Angeles Angels (Visitante)
+### Cincinnati Reds (Local)
 - **Estadística base YRFI:** 26.1% (12/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
 - **Puntuación ajustada:** 20.3%
+
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 25.5% (12/47 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-08 15:57:05
+- **Generado el:** 2026-07-09 16:21:53
 - **Fuente de datos:** season_data.json

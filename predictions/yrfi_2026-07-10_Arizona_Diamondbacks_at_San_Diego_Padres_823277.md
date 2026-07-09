@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ San Diego Padres
 
-**Fecha:** 2026-07-09  
-**Lanzadores:** Jose Cabrera (V) vs Michael King (L)
+**Fecha:** 2026-07-10  
+**Lanzadores:** Merrill Kelly (V) vs Griffin Canning (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.9%
+**Probabilidad de que anoten en la primera entrada:** 40.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 19.6% (9/46 partidos)
+- **Estadística base YRFI:** 19.1% (9/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Jose Cabrera):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.7%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 15.5%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.3% (12/44 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Estadística base YRFI:** 28.9% (13/45 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Griffin Canning):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 28.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-08 15:57:05
+- **Generado el:** 2026-07-09 16:21:53
 - **Fuente de datos:** season_data.json
