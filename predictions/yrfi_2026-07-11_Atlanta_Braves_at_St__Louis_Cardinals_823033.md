@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Miami Marlins
+# Análisis YRFI: Atlanta Braves @ St. Louis Cardinals
 
-**Fecha:** 2026-07-09  
-**Lanzadores:** Bryce Miller (V) vs Janson Junk (L)
+**Fecha:** 2026-07-11  
+**Lanzadores:** Chris Sale (V) vs Kyle Leahy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.6%
+**Probabilidad de que anoten en la primera entrada:** 54.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
+### St. Louis Cardinals (Local)
+- **Estadística base YRFI:** 26.5% (13/49 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.5%
+
+### Atlanta Braves (Visitante)
 - **Estadística base YRFI:** 36.2% (17/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.5%
-
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 26.1% (12/46 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 14.7%
+- **Impacto del lanzador local (St. Louis Cardinals - Kyle Leahy):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 34.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-09 16:21:52
+- **Generado el:** 2026-07-10 16:14:19
 - **Fuente de datos:** season_data.json

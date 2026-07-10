@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Pittsburgh Pirates
+# Análisis YRFI: Toronto Blue Jays @ San Diego Padres
 
-**Fecha:** 2026-07-09  
-**Lanzadores:** Bryce Elder (V) vs Mitch Keller (L)
+**Fecha:** 2026-07-11  
+**Lanzadores:** Shane Bieber (V) vs JP Sears (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.8%
+**Probabilidad de que anoten en la primera entrada:** 28.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 38.3% (18/47 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 18.8% (9/48 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Bryce Elder):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.5%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.3%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 34.8% (16/46 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 20.5% (9/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador local (San Diego Padres - JP Sears):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-09 16:21:52
+- **Generado el:** 2026-07-10 16:14:19
 - **Fuente de datos:** season_data.json

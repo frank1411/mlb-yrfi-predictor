@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Cincinnati Reds
+# Análisis YRFI: Chicago Cubs @ Cincinnati Reds
 
-**Fecha:** 2026-07-09  
-**Lanzadores:** Jesús Luzardo (V) vs Brady Singer (L)
+**Fecha:** 2026-07-10  
+**Lanzadores:** Shota Imanaga (V) vs Hunter Greene (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.3%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 26.1% (12/46 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.3%
-
-### Philadelphia Phillies (Visitante)
 - **Estadística base YRFI:** 25.5% (12/47 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 40.1%
+
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 14.9% (7/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.3%
+- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 11.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-09 16:21:53
+- **Generado el:** 2026-07-10 16:14:19
 - **Fuente de datos:** season_data.json

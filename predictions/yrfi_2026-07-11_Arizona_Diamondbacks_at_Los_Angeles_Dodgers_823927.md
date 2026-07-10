@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ San Diego Padres
+# Análisis YRFI: Arizona Diamondbacks @ Los Angeles Dodgers
 
-**Fecha:** 2026-07-10  
-**Lanzadores:** Merrill Kelly (V) vs Griffin Canning (L)
+**Fecha:** 2026-07-11  
+**Lanzadores:** Eduardo Rodriguez (V) vs Shohei Ohtani (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.0%
+**Probabilidad de que anoten en la primera entrada:** 54.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 19.1% (9/47 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 34.0% (16/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.5%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 36.8%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 28.9% (13/45 partidos)
+- **Estadística base YRFI:** 28.3% (13/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Griffin Canning):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 28.9%
+- **Impacto del lanzador local (Los Angeles Dodgers - Shohei Ohtani):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 28.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-09 16:21:53
+- **Generado el:** 2026-07-10 16:14:19
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822955,
+  "game_date": "2026-07-10",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 44.680851063829785,
+        "ratio": "21/47"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 17.99,
+    "pitcher": {
+      "name": "Luis Castillo",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.53191489361702,
+        "ratio": "12/47"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.680851063829785,
+        "tendency": 46.666666666666664,
+        "combined": 45.48,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 41.83
+      },
+      "away_team": {
+        "base": 25.53191489361702,
+        "tendency": 6.666666666666667,
+        "combined": 17.99,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.59
+      },
+      "game_yrfi_probability": 49.15
+    },
+    "yrfi_probability": 49.15
+  },
+  "metadata": {
+    "generated_at": "2026-07-10T16:14:19.173176",
+    "data_source": "season_data.json"
+  }
+}

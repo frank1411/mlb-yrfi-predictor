@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Detroit Tigers
+# Análisis YRFI: Athletics @ Chicago White Sox
 
-**Fecha:** 2026-07-09  
-**Lanzadores:** Jack Perkins (V) vs Framber Valdez (L)
+**Fecha:** 2026-07-10  
+**Lanzadores:** Jacob Lopez (V) vs Sean Burke (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 30.0%
+**Probabilidad de que anoten en la primera entrada:** 46.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 28.3% (13/46 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 26.1% (12/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.2%
+- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 40.3%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 22.2% (10/45 partidos)
+- **Estadística base YRFI:** 21.7% (10/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 11.2%
+- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 11.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-09 16:21:52
+- **Generado el:** 2026-07-10 16:14:19
 - **Fuente de datos:** season_data.json

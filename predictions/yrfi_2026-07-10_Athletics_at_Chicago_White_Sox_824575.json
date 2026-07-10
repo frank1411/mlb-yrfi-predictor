@@ -1,18 +1,18 @@
 {
-  "game_pk": 824251,
-  "game_date": "2026-07-09",
+  "game_pk": 824575,
+  "game_date": "2026-07-10",
   "home_team": {
-    "id": "116",
-    "name": "Detroit Tigers",
+    "id": "145",
+    "name": "Chicago White Sox",
     "pitcher": {
-      "name": "Framber Valdez",
+      "name": "Sean Burke",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 28.26086956521739,
-        "ratio": "13/46"
+        "value": 26.08695652173913,
+        "ratio": "12/46"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "133",
     "name": "Athletics",
-    "combined_yrfi_pct": 16.0,
+    "combined_yrfi_pct": 15.71,
     "pitcher": {
-      "name": "Jack Perkins",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
-        "value": 22.22222222222222,
-        "ratio": "10/45"
+        "value": 21.73913043478261,
+        "ratio": "10/46"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.26086956521739,
+        "base": 26.08695652173913,
         "tendency": 33.33333333333333,
-        "combined": 30.29,
-        "pitcher_impact": 0.0,
-        "adjusted": 21.2
+        "combined": 28.99,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 40.29
       },
       "away_team": {
-        "base": 22.22222222222222,
+        "base": 21.73913043478261,
         "tendency": 6.666666666666667,
-        "combined": 16.0,
+        "combined": 15.71,
         "pitcher_impact": 0.0,
-        "adjusted": 11.2
+        "adjusted": 11.0
       },
-      "game_yrfi_probability": 30.03
+      "game_yrfi_probability": 46.86
     },
-    "yrfi_probability": 30.03
+    "yrfi_probability": 46.86
   },
   "metadata": {
-    "generated_at": "2026-07-09T16:21:52.994524",
+    "generated_at": "2026-07-10T16:14:19.185299",
     "data_source": "season_data.json"
   }
 }

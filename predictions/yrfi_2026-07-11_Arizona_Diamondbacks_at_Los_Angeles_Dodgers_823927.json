@@ -1,0 +1,67 @@
+{
+  "game_pk": 823927,
+  "game_date": "2026-07-11",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Shohei Ohtani",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.04255319148936,
+        "ratio": "16/47"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 40.96,
+    "pitcher": {
+      "name": "Eduardo Rodriguez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.26086956521739,
+        "ratio": "13/46"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.04255319148936,
+        "tendency": 26.666666666666668,
+        "combined": 31.09,
+        "pitcher_impact": 50.0,
+        "adjusted": 36.76
+      },
+      "away_team": {
+        "base": 28.26086956521739,
+        "tendency": 60.0,
+        "combined": 40.96,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.67
+      },
+      "game_yrfi_probability": 54.89
+    },
+    "yrfi_probability": 54.89
+  },
+  "metadata": {
+    "generated_at": "2026-07-10T16:14:19.205423",
+    "data_source": "season_data.json"
+  }
+}

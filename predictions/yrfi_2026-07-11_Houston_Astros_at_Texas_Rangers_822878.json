@@ -1,0 +1,67 @@
+{
+  "game_pk": 822878,
+  "game_date": "2026-07-11",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Cal Quantrill",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.25581395348837,
+        "ratio": "10/43"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 31.7,
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.612244897959183,
+        "ratio": "15/49"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.25581395348837,
+        "tendency": 33.33333333333333,
+        "combined": 27.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.1
+      },
+      "away_team": {
+        "base": 30.612244897959183,
+        "tendency": 33.33333333333333,
+        "combined": 31.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.19
+      },
+      "game_yrfi_probability": 37.05
+    },
+    "yrfi_probability": 37.05
+  },
+  "metadata": {
+    "generated_at": "2026-07-10T16:14:19.189433",
+    "data_source": "season_data.json"
+  }
+}

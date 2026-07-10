@@ -1,0 +1,67 @@
+{
+  "game_pk": 823845,
+  "game_date": "2026-07-10",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.41666666666667,
+        "ratio": "17/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 20.5,
+    "pitcher": {
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 20.833333333333336,
+        "ratio": "10/48"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.41666666666667,
+        "tendency": 33.33333333333333,
+        "combined": 34.58,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.21
+      },
+      "away_team": {
+        "base": 20.833333333333336,
+        "tendency": 20.0,
+        "combined": 20.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.35
+      },
+      "game_yrfi_probability": 35.09
+    },
+    "yrfi_probability": 35.09
+  },
+  "metadata": {
+    "generated_at": "2026-07-10T16:14:19.177300",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823278,
+  "game_date": "2026-07-11",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "JP Sears",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 18.75,
+        "ratio": "9/48"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 22.94,
+    "pitcher": {
+      "name": "Shane Bieber",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.454545454545457,
+        "ratio": "9/44"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 18.75,
+        "tendency": 26.666666666666668,
+        "combined": 21.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.34
+      },
+      "away_team": {
+        "base": 20.454545454545457,
+        "tendency": 26.666666666666668,
+        "combined": 22.94,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.06
+      },
+      "game_yrfi_probability": 28.94
+    },
+    "yrfi_probability": 28.94
+  },
+  "metadata": {
+    "generated_at": "2026-07-10T16:14:19.201496",
+    "data_source": "season_data.json"
+  }
+}
