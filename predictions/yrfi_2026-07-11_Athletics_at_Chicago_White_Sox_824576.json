@@ -1,0 +1,67 @@
+{
+  "game_pk": 824576,
+  "game_date": "2026-07-11",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Bryan Hudson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.53191489361702,
+        "ratio": "12/47"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 15.43,
+    "pitcher": {
+      "name": "Gage Jump",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.27659574468085,
+        "ratio": "10/47"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.53191489361702,
+        "tendency": 33.33333333333333,
+        "combined": 28.65,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.06
+      },
+      "away_team": {
+        "base": 21.27659574468085,
+        "tendency": 6.666666666666667,
+        "combined": 15.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 10.8
+      },
+      "game_yrfi_probability": 28.69
+    },
+    "yrfi_probability": 28.69
+  },
+  "metadata": {
+    "generated_at": "2026-07-11T14:44:10.972179",
+    "data_source": "season_data.json"
+  }
+}

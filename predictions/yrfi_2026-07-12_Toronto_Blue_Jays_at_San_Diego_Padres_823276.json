@@ -1,0 +1,67 @@
+{
+  "game_pk": 823276,
+  "game_date": "2026-07-12",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 20.408163265306122,
+        "ratio": "10/49"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 22.67,
+    "pitcher": {
+      "name": "Trey Yesavage",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "9/45"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.408163265306122,
+        "tendency": 33.33333333333333,
+        "combined": 25.58,
+        "pitcher_impact": 100.0,
+        "adjusted": 47.9
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 26.666666666666668,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "game_yrfi_probability": 56.17
+    },
+    "yrfi_probability": 56.17
+  },
+  "metadata": {
+    "generated_at": "2026-07-11T14:44:11.015112",
+    "data_source": "season_data.json"
+  }
+}

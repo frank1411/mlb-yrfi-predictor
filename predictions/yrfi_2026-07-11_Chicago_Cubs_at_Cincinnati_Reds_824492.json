@@ -1,0 +1,67 @@
+{
+  "game_pk": 824492,
+  "game_date": "2026-07-11",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "12/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 16.75,
+    "pitcher": {
+      "name": "Javier Assad",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 14.583333333333334,
+        "ratio": "7/48"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.83
+      },
+      "away_team": {
+        "base": 14.583333333333334,
+        "tendency": 20.0,
+        "combined": 16.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.72
+      },
+      "game_yrfi_probability": 42.47
+    },
+    "yrfi_probability": 42.47
+  },
+  "metadata": {
+    "generated_at": "2026-07-11T14:44:11.007197",
+    "data_source": "season_data.json"
+  }
+}

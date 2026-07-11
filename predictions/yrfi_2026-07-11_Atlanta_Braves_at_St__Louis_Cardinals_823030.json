@@ -1,0 +1,67 @@
+{
+  "game_pk": 823030,
+  "game_date": "2026-07-11",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 26.0,
+        "ratio": "13/50"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 34.58,
+    "pitcher": {
+      "name": "Reynaldo López",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 35.41666666666667,
+        "ratio": "17/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.93,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 40.25
+      },
+      "away_team": {
+        "base": 35.41666666666667,
+        "tendency": 33.33333333333333,
+        "combined": 34.58,
+        "pitcher_impact": 40.0,
+        "adjusted": 36.21
+      },
+      "game_yrfi_probability": 61.89
+    },
+    "yrfi_probability": 61.89
+  },
+  "metadata": {
+    "generated_at": "2026-07-11T14:44:11.011111",
+    "data_source": "season_data.json"
+  }
+}

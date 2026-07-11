@@ -1,0 +1,67 @@
+{
+  "game_pk": 823682,
+  "game_date": "2026-07-11",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.69387755102041,
+        "ratio": "17/49"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 31.92,
+    "pitcher": {
+      "name": "Ryan Johnson",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.53061224489796,
+        "ratio": "13/49"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.69387755102041,
+        "tendency": 53.333333333333336,
+        "combined": 42.15,
+        "pitcher_impact": 100.0,
+        "adjusted": 59.5
+      },
+      "away_team": {
+        "base": 26.53061224489796,
+        "tendency": 40.0,
+        "combined": 31.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.34
+      },
+      "game_yrfi_probability": 68.55
+    },
+    "yrfi_probability": 68.55
+  },
+  "metadata": {
+    "generated_at": "2026-07-11T14:44:10.966829",
+    "data_source": "season_data.json"
+  }
+}
