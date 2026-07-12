@@ -1,0 +1,67 @@
+{
+  "game_pk": 823681,
+  "game_date": "2026-07-12",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Taj Bradley",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.0,
+        "ratio": "17/50"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 28.93,
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.0,
+        "ratio": "13/50"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.0,
+        "tendency": 53.333333333333336,
+        "combined": 41.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.21
+      },
+      "away_team": {
+        "base": 26.0,
+        "tendency": 33.33333333333333,
+        "combined": 28.93,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.25
+      },
+      "game_yrfi_probability": 43.54
+    },
+    "yrfi_probability": 43.54
+  },
+  "metadata": {
+    "generated_at": "2026-07-12T14:46:52.271904",
+    "data_source": "season_data.json"
+  }
+}

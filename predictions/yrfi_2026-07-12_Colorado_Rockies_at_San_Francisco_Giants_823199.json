@@ -1,0 +1,67 @@
+{
+  "game_pk": 823199,
+  "game_date": "2026-07-12",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Trevor McDonald",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 21.73913043478261,
+        "ratio": "10/46"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 30.67,
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "10/50"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.73913043478261,
+        "tendency": 26.666666666666668,
+        "combined": 23.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.6
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 46.666666666666664,
+        "combined": 30.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.47
+      },
+      "game_yrfi_probability": 59.53
+    },
+    "yrfi_probability": 59.53
+  },
+  "metadata": {
+    "generated_at": "2026-07-12T14:46:52.287505",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823602,
+  "game_date": "2026-07-12",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Zach Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "15/48"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 28.24,
+    "pitcher": {
+      "name": "Payton Tolle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 20.408163265306122,
+        "ratio": "10/49"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 20.0,
+        "combined": 26.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.72
+      },
+      "away_team": {
+        "base": 20.408163265306122,
+        "tendency": 40.0,
+        "combined": 28.24,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.77
+      },
+      "game_yrfi_probability": 34.79
+    },
+    "yrfi_probability": 34.79
+  },
+  "metadata": {
+    "generated_at": "2026-07-12T14:46:52.256141",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824491,
+  "game_date": "2026-07-12",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 24.489795918367346,
+        "ratio": "12/49"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 16.57,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 14.285714285714285,
+        "ratio": "7/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.489795918367346,
+        "tendency": 33.33333333333333,
+        "combined": 28.03,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.62
+      },
+      "away_team": {
+        "base": 14.285714285714285,
+        "tendency": 20.0,
+        "combined": 16.57,
+        "pitcher_impact": 60.0,
+        "adjusted": 29.6
+      },
+      "game_yrfi_probability": 64.53
+    },
+    "yrfi_probability": 64.53
+  },
+  "metadata": {
+    "generated_at": "2026-07-12T14:46:52.252124",
+    "data_source": "season_data.json"
+  }
+}
