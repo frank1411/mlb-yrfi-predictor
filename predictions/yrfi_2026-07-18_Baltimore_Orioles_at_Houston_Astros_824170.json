@@ -1,0 +1,67 @@
+{
+  "game_pk": 824170,
+  "game_date": "2026-07-18",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Peter Lambert",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 40.42553191489361,
+        "ratio": "19/47"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 29.7,
+    "pitcher": {
+      "name": "Dean Kremer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "12/44"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.42553191489361,
+        "tendency": 26.666666666666668,
+        "combined": 34.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.45
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 33.33333333333333,
+        "combined": 29.7,
+        "pitcher_impact": 100.0,
+        "adjusted": 50.79
+      },
+      "game_yrfi_probability": 62.82
+    },
+    "yrfi_probability": 62.82
+  },
+  "metadata": {
+    "generated_at": "2026-07-17T15:05:15.007081",
+    "data_source": "season_data.json"
+  }
+}
