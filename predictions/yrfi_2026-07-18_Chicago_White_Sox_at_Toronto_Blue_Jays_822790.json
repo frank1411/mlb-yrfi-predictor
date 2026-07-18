@@ -1,0 +1,67 @@
+{
+  "game_pk": 822790,
+  "game_date": "2026-07-18",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Shane Bieber",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.0,
+        "ratio": "13/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 38.5,
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "18/48"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.0,
+        "tendency": 26.666666666666668,
+        "combined": 26.27,
+        "pitcher_impact": 20.0,
+        "adjusted": 24.39
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 40.0,
+        "combined": 38.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.95
+      },
+      "game_yrfi_probability": 44.77
+    },
+    "yrfi_probability": 44.77
+  },
+  "metadata": {
+    "generated_at": "2026-07-18T14:43:47.402471",
+    "data_source": "season_data.json"
+  }
+}

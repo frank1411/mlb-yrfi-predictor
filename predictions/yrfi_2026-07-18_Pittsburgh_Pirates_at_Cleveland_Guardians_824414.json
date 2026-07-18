@@ -1,0 +1,67 @@
+{
+  "game_pk": 824414,
+  "game_date": "2026-07-18",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.26086956521739,
+        "ratio": "13/46"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 30.17,
+    "pitcher": {
+      "name": "Jared Jones",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.95652173913043,
+        "ratio": "17/46"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.26086956521739,
+        "tendency": 20.0,
+        "combined": 24.96,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.47
+      },
+      "away_team": {
+        "base": 36.95652173913043,
+        "tendency": 20.0,
+        "combined": 30.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.12
+      },
+      "game_yrfi_probability": 34.9
+    },
+    "yrfi_probability": 34.9
+  },
+  "metadata": {
+    "generated_at": "2026-07-18T14:43:47.391024",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824169,
+  "game_date": "2026-07-18",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Spencer Arrighetti",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "20/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 29.33,
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "12/45"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.66666666666667,
+        "tendency": 33.33333333333333,
+        "combined": 38.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.83
+      },
+      "away_team": {
+        "base": 26.666666666666668,
+        "tendency": 33.33333333333333,
+        "combined": 29.33,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 30.53
+      },
+      "game_yrfi_probability": 49.17
+    },
+    "yrfi_probability": 49.17
+  },
+  "metadata": {
+    "generated_at": "2026-07-18T14:43:47.414797",
+    "data_source": "season_data.json"
+  }
+}

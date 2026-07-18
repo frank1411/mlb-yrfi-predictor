@@ -1,0 +1,67 @@
+{
+  "game_pk": 823763,
+  "game_date": "2026-07-18",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Shane Drohan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "16/48"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 29.82,
+    "pitcher": {
+      "name": "Max Meyer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.914893617021278,
+        "ratio": "15/47"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 6.666666666666667,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "away_team": {
+        "base": 31.914893617021278,
+        "tendency": 26.666666666666668,
+        "combined": 29.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.87
+      },
+      "game_yrfi_probability": 33.43
+    },
+    "yrfi_probability": 33.43
+  },
+  "metadata": {
+    "generated_at": "2026-07-18T14:43:47.434547",
+    "data_source": "season_data.json"
+  }
+}

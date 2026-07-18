@@ -1,0 +1,67 @@
+{
+  "game_pk": 824088,
+  "game_date": "2026-07-18",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Randy Dobnak",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "15/48"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 30.35,
+    "pitcher": {
+      "name": "Griffin Canning",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.91304347826087,
+        "ratio": "11/46"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 40.0,
+        "combined": 34.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.32
+      },
+      "away_team": {
+        "base": 23.91304347826087,
+        "tendency": 40.0,
+        "combined": 30.35,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.24
+      },
+      "game_yrfi_probability": 40.39
+    },
+    "yrfi_probability": 40.39
+  },
+  "metadata": {
+    "generated_at": "2026-07-18T14:43:47.418783",
+    "data_source": "season_data.json"
+  }
+}

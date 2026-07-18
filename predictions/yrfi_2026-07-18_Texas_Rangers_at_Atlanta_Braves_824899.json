@@ -1,0 +1,67 @@
+{
+  "game_pk": 824899,
+  "game_date": "2026-07-18",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Owen Murphy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.608695652173914,
+        "ratio": "15/46"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 30.67,
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "17/51"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.608695652173914,
+        "tendency": 33.33333333333333,
+        "combined": 32.9,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.53
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "game_yrfi_probability": 45.45
+    },
+    "yrfi_probability": 45.45
+  },
+  "metadata": {
+    "generated_at": "2026-07-18T14:43:47.430640",
+    "data_source": "season_data.json"
+  }
+}

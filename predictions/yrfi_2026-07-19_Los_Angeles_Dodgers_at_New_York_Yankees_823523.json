@@ -1,0 +1,67 @@
+{
+  "game_pk": 823523,
+  "game_date": "2026-07-19",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Ryan Weathers",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.909090909090914,
+        "ratio": "18/44"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 30.83,
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "14/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.909090909090914,
+        "tendency": 20.0,
+        "combined": 32.55,
+        "pitcher_impact": 100.0,
+        "adjusted": 52.78
+      },
+      "away_team": {
+        "base": 29.166666666666668,
+        "tendency": 33.33333333333333,
+        "combined": 30.83,
+        "pitcher_impact": 40.0,
+        "adjusted": 33.58
+      },
+      "game_yrfi_probability": 68.64
+    },
+    "yrfi_probability": 68.64
+  },
+  "metadata": {
+    "generated_at": "2026-07-18T14:43:47.442808",
+    "data_source": "season_data.json"
+  }
+}

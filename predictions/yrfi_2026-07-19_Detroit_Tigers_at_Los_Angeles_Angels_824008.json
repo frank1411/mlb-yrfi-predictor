@@ -1,0 +1,67 @@
+{
+  "game_pk": 824008,
+  "game_date": "2026-07-19",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Grayson Rodriguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 42.5531914893617,
+        "ratio": "20/47"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 36.31,
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 38.297872340425535,
+        "ratio": "18/47"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.5531914893617,
+        "tendency": 33.33333333333333,
+        "combined": 38.87,
+        "pitcher_impact": 40.0,
+        "adjusted": 39.21
+      },
+      "away_team": {
+        "base": 38.297872340425535,
+        "tendency": 33.33333333333333,
+        "combined": 36.31,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.42
+      },
+      "game_yrfi_probability": 54.66
+    },
+    "yrfi_probability": 54.66
+  },
+  "metadata": {
+    "generated_at": "2026-07-18T14:43:47.450722",
+    "data_source": "season_data.json"
+  }
+}
