@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Seattle Mariners
 
 **Fecha:** 2026-07-19  
-**Lanzadores:** Logan Webb (V) vs Bryan Woo (L)
+**Lanzadores:** Robbie Ray (V) vs Logan Gilbert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.3%
+**Probabilidad de que anoten en la primera entrada:** 49.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 35.4% (17/48 partidos)
+- **Estadística base YRFI:** 34.7% (17/49 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 22.4%
+- **Impacto del lanzador visitante (San Francisco Giants - Robbie Ray):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.6%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 24.0% (12/50 partidos)
+- **Estadística base YRFI:** 23.5% (12/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.7%
+- **Impacto del lanzador local (Seattle Mariners - Logan Gilbert):** 83.3% (5/6 partidos)
+- **Puntuación ajustada:** 40.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-18 14:43:47
+- **Generado el:** 2026-07-19 14:46:30
 - **Fuente de datos:** season_data.json

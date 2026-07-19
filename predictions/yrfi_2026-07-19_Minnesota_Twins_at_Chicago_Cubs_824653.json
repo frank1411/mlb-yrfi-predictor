@@ -1,0 +1,67 @@
+{
+  "game_pk": 824653,
+  "game_date": "2026-07-19",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "14/48"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 38.5,
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "18/48"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.166666666666668,
+        "tendency": 40.0,
+        "combined": 33.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.45
+      },
+      "away_team": {
+        "base": 37.5,
+        "tendency": 40.0,
+        "combined": 38.5,
+        "pitcher_impact": 25.0,
+        "adjusted": 34.45
+      },
+      "game_yrfi_probability": 49.82
+    },
+    "yrfi_probability": 49.82
+  },
+  "metadata": {
+    "generated_at": "2026-07-19T14:46:30.624473",
+    "data_source": "season_data.json"
+  }
+}

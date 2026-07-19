@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Kansas City Royals
+# Análisis YRFI: Minnesota Twins @ Chicago Cubs
 
-**Fecha:** 2026-07-18  
-**Lanzadores:** Griffin Canning (V) vs Randy Dobnak (L)
+**Fecha:** 2026-07-19  
+**Lanzadores:** Zebby Matthews (V) vs Shota Imanaga (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.4%
+**Probabilidad de que anoten en la primera entrada:** 49.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 31.2% (15/48 partidos)
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 29.2% (14/48 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Griffin Canning):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 24.3%
+- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.4%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 23.9% (11/46 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 37.5% (18/48 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.2%
+- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 34.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-18 14:43:47
+- **Generado el:** 2026-07-19 14:46:30
 - **Fuente de datos:** season_data.json

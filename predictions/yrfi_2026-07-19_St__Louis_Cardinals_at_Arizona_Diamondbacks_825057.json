@@ -1,18 +1,18 @@
 {
-  "game_pk": 825059,
-  "game_date": "2026-07-18",
+  "game_pk": 825057,
+  "game_date": "2026-07-19",
   "home_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
     "pitcher": {
-      "name": "Brandon Pfaadt",
+      "name": "Eduardo Rodriguez",
       "yrfi_allowed": 50.0,
       "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 35.41666666666667,
-        "ratio": "17/48"
+        "value": 34.69387755102041,
+        "ratio": "17/49"
       },
       "tendency": {
         "value": 53.333333333333336,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "138",
     "name": "St. Louis Cardinals",
-    "combined_yrfi_pct": 44.52,
+    "combined_yrfi_pct": 44.0,
     "pitcher": {
-      "name": "Dustin May",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "3/3"
+      "name": "Andre Pallante",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
-        "value": 38.63636363636363,
-        "ratio": "17/44"
+        "value": 37.77777777777778,
+        "ratio": "17/45"
       },
       "tendency": {
         "value": 53.333333333333336,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 35.41666666666667,
+        "base": 34.69387755102041,
         "tendency": 53.333333333333336,
-        "combined": 42.58,
-        "pitcher_impact": 100.0,
-        "adjusted": 59.81
+        "combined": 42.15,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 49.5
       },
       "away_team": {
-        "base": 38.63636363636363,
+        "base": 37.77777777777778,
         "tendency": 53.333333333333336,
-        "combined": 44.52,
+        "combined": 44.0,
         "pitcher_impact": 50.0,
-        "adjusted": 46.16
+        "adjusted": 45.8
       },
-      "game_yrfi_probability": 78.36
+      "game_yrfi_probability": 72.63
     },
-    "yrfi_probability": 78.36
+    "yrfi_probability": 72.63
   },
   "metadata": {
-    "generated_at": "2026-07-18T14:43:47.422782",
+    "generated_at": "2026-07-19T14:46:30.644356",
     "data_source": "season_data.json"
   }
 }

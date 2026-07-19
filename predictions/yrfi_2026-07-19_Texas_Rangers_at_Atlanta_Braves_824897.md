@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Atlanta Braves
 
-**Fecha:** 2026-07-18  
-**Lanzadores:** MacKenzie Gore (V) vs Owen Murphy (L)
+**Fecha:** 2026-07-19  
+**Lanzadores:** Nathan Eovaldi (V) vs Grant Holmes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.5%
+**Probabilidad de que anoten en la primera entrada:** 51.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 32.6% (15/46 partidos)
+- **Estadística base YRFI:** 31.9% (15/47 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - MacKenzie Gore):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.5%
+- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 37.7%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 33.3% (17/51 partidos)
+- **Estadística base YRFI:** 34.6% (18/52 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Owen Murphy):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-18 14:43:47
+- **Generado el:** 2026-07-19 14:46:30
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ New York Yankees
 
 **Fecha:** 2026-07-19  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Cam Schlittler (L)
+**Lanzadores:** Por anunciar (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.1%
+**Probabilidad de que anoten en la primera entrada:** 60.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
 - **Estadística base YRFI:** 40.9% (18/44 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 42.8%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.8%
 
 ### Los Angeles Dodgers (Visitante)
 - **Estadística base YRFI:** 29.2% (14/48 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.6%
+- **Impacto del lanzador local (New York Yankees - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 36.6%
 
 ### 📝 Fórmula de Cálculo
 

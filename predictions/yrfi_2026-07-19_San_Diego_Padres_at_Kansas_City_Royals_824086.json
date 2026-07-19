@@ -1,0 +1,67 @@
+{
+  "game_pk": 824086,
+  "game_date": "2026-07-19",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Noah Cameron",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.6530612244898,
+        "ratio": "16/49"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 30.04,
+    "pitcher": {
+      "name": "Germán Márquez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.404255319148938,
+        "ratio": "11/47"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.6530612244898,
+        "tendency": 46.666666666666664,
+        "combined": 38.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.78
+      },
+      "away_team": {
+        "base": 23.404255319148938,
+        "tendency": 40.0,
+        "combined": 30.04,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.03
+      },
+      "game_yrfi_probability": 42.18
+    },
+    "yrfi_probability": 42.18
+  },
+  "metadata": {
+    "generated_at": "2026-07-19T14:46:30.616781",
+    "data_source": "season_data.json"
+  }
+}

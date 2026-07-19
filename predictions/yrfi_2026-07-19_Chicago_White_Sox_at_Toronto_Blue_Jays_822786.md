@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Toronto Blue Jays
 
-**Fecha:** 2026-07-18  
-**Lanzadores:** Davis Martin (V) vs Shane Bieber (L)
+**Fecha:** 2026-07-19  
+**Lanzadores:** Sean Burke (V) vs Trey Yesavage (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.8%
+**Probabilidad de que anoten en la primera entrada:** 46.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 26.0% (13/50 partidos)
+- **Estadística base YRFI:** 25.5% (13/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 24.4%
+- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 37.5% (18/48 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Shane Bieber):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Estadística base YRFI:** 36.7% (18/49 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Toronto Blue Jays - Trey Yesavage):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 24.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-18 14:43:47
+- **Generado el:** 2026-07-19 14:46:30
 - **Fuente de datos:** season_data.json

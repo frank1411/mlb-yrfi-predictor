@@ -1,18 +1,18 @@
 {
-  "game_pk": 823763,
-  "game_date": "2026-07-18",
+  "game_pk": 823764,
+  "game_date": "2026-07-19",
   "home_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
     "pitcher": {
-      "name": "Shane Drohan",
+      "name": "Robert Gasser",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "16/48"
+        "value": 32.6530612244898,
+        "ratio": "16/49"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "146",
     "name": "Miami Marlins",
-    "combined_yrfi_pct": 29.82,
+    "combined_yrfi_pct": 29.42,
     "pitcher": {
-      "name": "Max Meyer",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "name": "Eury Pérez",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 31.914893617021278,
-        "ratio": "15/47"
+        "value": 31.25,
+        "ratio": "15/48"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.33333333333333,
+        "base": 32.6530612244898,
         "tendency": 6.666666666666667,
-        "combined": 22.67,
-        "pitcher_impact": 0.0,
-        "adjusted": 15.87
+        "combined": 22.26,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 25.58
       },
       "away_team": {
-        "base": 31.914893617021278,
+        "base": 31.25,
         "tendency": 26.666666666666668,
-        "combined": 29.82,
+        "combined": 29.42,
         "pitcher_impact": 0.0,
-        "adjusted": 20.87
+        "adjusted": 20.59
       },
-      "game_yrfi_probability": 33.43
+      "game_yrfi_probability": 40.9
     },
-    "yrfi_probability": 33.43
+    "yrfi_probability": 40.9
   },
   "metadata": {
-    "generated_at": "2026-07-18T14:43:47.434547",
+    "generated_at": "2026-07-19T14:46:30.620598",
     "data_source": "season_data.json"
   }
 }

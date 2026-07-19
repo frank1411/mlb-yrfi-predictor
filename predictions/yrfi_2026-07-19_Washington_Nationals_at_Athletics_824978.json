@@ -1,0 +1,67 @@
+{
+  "game_pk": 824978,
+  "game_date": "2026-07-19",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.69387755102041,
+        "ratio": "17/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 38.83,
+    "pitcher": {
+      "name": "Foster Griffin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "14/48"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.69387755102041,
+        "tendency": 20.0,
+        "combined": 28.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.17
+      },
+      "away_team": {
+        "base": 29.166666666666668,
+        "tendency": 53.333333333333336,
+        "combined": 38.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.18
+      },
+      "game_yrfi_probability": 41.87
+    },
+    "yrfi_probability": 41.87
+  },
+  "metadata": {
+    "generated_at": "2026-07-19T14:46:30.632278",
+    "data_source": "season_data.json"
+  }
+}

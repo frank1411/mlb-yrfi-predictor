@@ -1,0 +1,67 @@
+{
+  "game_pk": 823113,
+  "game_date": "2026-07-19",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 83.33333333333334,
+      "yrfi_ratio": "5/6"
+    },
+    "stats": {
+      "base": {
+        "value": 34.69387755102041,
+        "ratio": "17/49"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 22.12,
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "12/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.69387755102041,
+        "tendency": 0.0,
+        "combined": 20.82,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.57
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 20.0,
+        "combined": 22.12,
+        "pitcher_impact": 83.33333333333334,
+        "adjusted": 40.48
+      },
+      "game_yrfi_probability": 49.15
+    },
+    "yrfi_probability": 49.15
+  },
+  "metadata": {
+    "generated_at": "2026-07-19T14:46:30.640567",
+    "data_source": "season_data.json"
+  }
+}

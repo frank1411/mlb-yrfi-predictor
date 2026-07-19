@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Arizona Diamondbacks
 
-**Fecha:** 2026-07-18  
-**Lanzadores:** Dustin May (V) vs Brandon Pfaadt (L)
+**Fecha:** 2026-07-19  
+**Lanzadores:** Andre Pallante (V) vs Eduardo Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 78.4%
+**Probabilidad de que anoten en la primera entrada:** 72.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 35.4% (17/48 partidos)
+- **Estadística base YRFI:** 34.7% (17/49 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Dustin May):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 59.8%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Andre Pallante):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 49.5%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 38.6% (17/44 partidos)
+- **Estadística base YRFI:** 37.8% (17/45 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 46.2%
+- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 45.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-18 14:43:47
+- **Generado el:** 2026-07-19 14:46:30
 - **Fuente de datos:** season_data.json

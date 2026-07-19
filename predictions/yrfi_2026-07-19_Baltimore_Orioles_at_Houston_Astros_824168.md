@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Los Angeles Angels
+# Análisis YRFI: Baltimore Orioles @ Houston Astros
 
 **Fecha:** 2026-07-19  
-**Lanzadores:** Tarik Skubal (V) vs Grayson Rodriguez (L)
+**Lanzadores:** Brandon Young (V) vs Hunter Brown (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.7%
+**Probabilidad de que anoten en la primera entrada:** 41.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 42.6% (20/47 partidos)
+### Houston Astros (Local)
+- **Estadística base YRFI:** 40.8% (20/49 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Tarik Skubal):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 39.2%
+- **Impacto del lanzador visitante (Baltimore Orioles - Brandon Young):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 26.5%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 38.3% (18/47 partidos)
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 26.1% (12/46 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 25.4%
+- **Impacto del lanzador local (Houston Astros - Hunter Brown):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-18 14:43:47
+- **Generado el:** 2026-07-19 14:46:30
 - **Fuente de datos:** season_data.json

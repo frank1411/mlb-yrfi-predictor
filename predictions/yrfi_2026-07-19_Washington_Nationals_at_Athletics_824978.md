@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Athletics
 
 **Fecha:** 2026-07-19  
-**Lanzadores:** Zack Littell (V) vs J.T. Ginn (L)
+**Lanzadores:** Foster Griffin (V) vs Jacob Lopez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.2%
+**Probabilidad de que anoten en la primera entrada:** 41.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 33.3% (16/48 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Zack Littell):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.7%
+- **Estadística base YRFI:** 34.7% (17/49 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 20.2%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 29.8% (14/47 partidos)
+- **Estadística base YRFI:** 29.2% (14/48 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Athletics - J.T. Ginn):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Impacto del lanzador local (Athletics - Jacob Lopez):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 27.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-18 14:43:47
+- **Generado el:** 2026-07-19 14:46:30
 - **Fuente de datos:** season_data.json
