@@ -1,0 +1,67 @@
+{
+  "game_pk": 823436,
+  "game_date": "2026-07-20",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 38.775510204081634,
+        "ratio": "19/49"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 30.13,
+    "pitcher": {
+      "name": "Emmet Sheehan",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "14/50"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.775510204081634,
+        "tendency": 13.333333333333334,
+        "combined": 28.6,
+        "pitcher_impact": 100.0,
+        "adjusted": 50.02
+      },
+      "away_team": {
+        "base": 28.000000000000004,
+        "tendency": 33.33333333333333,
+        "combined": 30.13,
+        "pitcher_impact": 20.0,
+        "adjusted": 27.09
+      },
+      "game_yrfi_probability": 63.56
+    },
+    "yrfi_probability": 63.56
+  },
+  "metadata": {
+    "generated_at": "2026-07-20T15:44:52.182540",
+    "data_source": "season_data.json"
+  }
+}

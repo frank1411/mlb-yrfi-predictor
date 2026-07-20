@@ -1,0 +1,67 @@
+{
+  "game_pk": 823112,
+  "game_date": "2026-07-21",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.0,
+        "ratio": "17/50"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 32.08,
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "15/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.0,
+        "tendency": 0.0,
+        "combined": 20.4,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.28
+      },
+      "away_team": {
+        "base": 31.25,
+        "tendency": 33.33333333333333,
+        "combined": 32.08,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.46
+      },
+      "game_yrfi_probability": 55.77
+    },
+    "yrfi_probability": 55.77
+  },
+  "metadata": {
+    "generated_at": "2026-07-20T15:44:52.220490",
+    "data_source": "season_data.json"
+  }
+}

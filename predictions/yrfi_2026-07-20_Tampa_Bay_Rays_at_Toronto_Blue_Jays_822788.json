@@ -1,0 +1,67 @@
+{
+  "game_pk": 822788,
+  "game_date": "2026-07-20",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "13/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 24.25,
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.083333333333332,
+        "ratio": "13/48"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.0,
+        "tendency": 26.666666666666668,
+        "combined": 25.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.97
+      },
+      "away_team": {
+        "base": 27.083333333333332,
+        "tendency": 20.0,
+        "combined": 24.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.97
+      },
+      "game_yrfi_probability": 31.89
+    },
+    "yrfi_probability": 31.89
+  },
+  "metadata": {
+    "generated_at": "2026-07-20T15:44:52.170252",
+    "data_source": "season_data.json"
+  }
+}
