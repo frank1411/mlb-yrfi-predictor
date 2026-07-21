@@ -1,0 +1,67 @@
+{
+  "game_pk": 823114,
+  "game_date": "2026-07-22",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Luis Castillo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "17/51"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 29.03,
+    "pitcher": {
+      "name": "Chase Burns",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.612244897959183,
+        "ratio": "15/49"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 0.0,
+        "combined": 20.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.0
+      },
+      "away_team": {
+        "base": 30.612244897959183,
+        "tendency": 26.666666666666668,
+        "combined": 29.03,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.82
+      },
+      "game_yrfi_probability": 37.93
+    },
+    "yrfi_probability": 37.93
+  },
+  "metadata": {
+    "generated_at": "2026-07-21T15:28:35.771441",
+    "data_source": "season_data.json"
+  }
+}

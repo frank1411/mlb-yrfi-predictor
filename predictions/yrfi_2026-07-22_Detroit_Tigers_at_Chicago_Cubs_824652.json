@@ -1,0 +1,67 @@
+{
+  "game_pk": 824652,
+  "game_date": "2026-07-22",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "David Peterson",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "15/50"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 43.87,
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 42.0,
+        "ratio": "21/50"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.0,
+        "tendency": 46.666666666666664,
+        "combined": 36.67,
+        "pitcher_impact": 40.0,
+        "adjusted": 37.67
+      },
+      "away_team": {
+        "base": 42.0,
+        "tendency": 46.666666666666664,
+        "combined": 43.87,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 50.71
+      },
+      "game_yrfi_probability": 69.28
+    },
+    "yrfi_probability": 69.28
+  },
+  "metadata": {
+    "generated_at": "2026-07-21T15:28:35.754852",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Arizona Diamondbacks
+# Análisis YRFI: Pittsburgh Pirates @ New York Yankees
 
 **Fecha:** 2026-07-21  
-**Lanzadores:** Jeffrey Springs (V) vs Mitch Bratt (L)
+**Lanzadores:** Bubba Chandler (V) vs Will Warren (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.3%
+**Probabilidad de que anoten en la primera entrada:** 44.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 34.0% (17/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 27.4%
+### New York Yankees (Local)
+- **Estadística base YRFI:** 42.6% (20/47 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 25.3%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 22.4% (11/49 partidos)
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 34.0% (17/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Mitch Bratt):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.0%
+- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 25.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Chicago Cubs
 
-**Fecha:** 2026-07-21  
-**Lanzadores:** Jack Flaherty (V) vs Jameson Taillon (L)
+**Fecha:** 2026-07-22  
+**Lanzadores:** Framber Valdez (V) vs David Peterson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.2%
+**Probabilidad de que anoten en la primera entrada:** 69.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 30.6% (15/49 partidos)
+- **Estadística base YRFI:** 30.0% (15/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Jack Flaherty):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 33.4%
+- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 37.7%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 40.8% (20/49 partidos)
+- **Estadística base YRFI:** 42.0% (21/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Jameson Taillon):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 40.2%
+- **Impacto del lanzador local (Chicago Cubs - David Peterson):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 50.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json

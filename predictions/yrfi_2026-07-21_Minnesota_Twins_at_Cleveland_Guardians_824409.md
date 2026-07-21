@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ Texas Rangers
+# Análisis YRFI: Minnesota Twins @ Cleveland Guardians
 
 **Fecha:** 2026-07-21  
-**Lanzadores:** Erick Fedde (V) vs Jacob deGrom (L)
+**Lanzadores:** Kendry Rojas (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.7%
+**Probabilidad de que anoten en la primera entrada:** 39.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 23.9% (11/46 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 28.0% (14/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Erick Fedde):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador visitante (Minnesota Twins - Kendry Rojas):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.4%
 
-### Chicago White Sox (Visitante)
+### Minnesota Twins (Visitante)
 - **Estadística base YRFI:** 36.0% (18/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 44.5%
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 26.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Cleveland Guardians
+# Análisis YRFI: Tampa Bay Rays @ Toronto Blue Jays
 
-**Fecha:** 2026-07-20  
-**Lanzadores:** Joe Ryan (V) vs Tanner Bibee (L)
+**Fecha:** 2026-07-21  
+**Lanzadores:** Drew Rasmussen (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.0%
+**Probabilidad de que anoten en la primera entrada:** 36.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 24.5% (13/53 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.4%
+
+### Tampa Bay Rays (Visitante)
 - **Estadística base YRFI:** 26.5% (13/49 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 31.7%
-
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 36.7% (18/49 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 34.1%
+- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 16.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json

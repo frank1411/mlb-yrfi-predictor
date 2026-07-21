@@ -1,0 +1,67 @@
+{
+  "game_pk": 824165,
+  "game_date": "2026-07-22",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Tatsuya Imai",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 39.21568627450981,
+        "ratio": "20/51"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 26.0,
+    "pitcher": {
+      "name": "Tyler Phillips",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "15/50"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.21568627450981,
+        "tendency": 33.33333333333333,
+        "combined": 36.86,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.8
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 20.0,
+        "combined": 26.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.2
+      },
+      "game_yrfi_probability": 39.3
+    },
+    "yrfi_probability": 39.3
+  },
+  "metadata": {
+    "generated_at": "2026-07-21T15:28:35.760964",
+    "data_source": "season_data.json"
+  }
+}

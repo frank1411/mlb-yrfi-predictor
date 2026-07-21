@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Seattle Mariners
 
-**Fecha:** 2026-07-21  
-**Lanzadores:** Andrew Abbott (V) vs George Kirby (L)
+**Fecha:** 2026-07-22  
+**Lanzadores:** Chase Burns (V) vs Luis Castillo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.8%
+**Probabilidad de que anoten en la primera entrada:** 37.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 34.0% (17/50 partidos)
+- **Estadística base YRFI:** 33.3% (17/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 29.3%
+- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 14.0%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 31.2% (15/48 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 37.5%
+- **Estadística base YRFI:** 30.6% (15/49 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Luis Castillo):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 27.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json

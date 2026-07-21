@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Kansas City Royals
 
-**Fecha:** 2026-07-20  
-**Lanzadores:** Trevor McDonald (V) vs Michael Wacha (L)
+**Fecha:** 2026-07-21  
+**Lanzadores:** Tyler Mahle (V) vs Luinder Avila (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.7%
+**Probabilidad de que anoten en la primera entrada:** 66.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 34.0% (17/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Trevor McDonald):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Estadística base YRFI:** 33.3% (17/51 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Tyler Mahle):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 35.2%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 25.0% (13/52 partidos)
+- **Estadística base YRFI:** 24.5% (13/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador local (Kansas City Royals - Luinder Avila):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 47.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json

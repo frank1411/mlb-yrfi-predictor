@@ -1,38 +1,38 @@
 {
-  "game_pk": 825058,
-  "game_date": "2026-07-21",
+  "game_pk": 825056,
+  "game_date": "2026-07-22",
   "home_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
     "pitcher": {
-      "name": "Mitch Bratt",
+      "name": "Kohl Drake",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 34.0,
-        "ratio": "17/50"
+        "value": 33.33333333333333,
+        "ratio": "17/51"
       },
       "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "away_team": {
     "id": "133",
     "name": "Athletics",
-    "combined_yrfi_pct": 21.47,
+    "combined_yrfi_pct": 21.2,
     "pitcher": {
-      "name": "Jeffrey Springs",
+      "name": "Jack Perkins",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 22.448979591836736,
-        "ratio": "11/49"
+        "value": 22.0,
+        "ratio": "11/50"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 34.0,
-        "tendency": 46.666666666666664,
-        "combined": 39.07,
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
         "pitcher_impact": 0.0,
-        "adjusted": 27.35
+        "adjusted": 25.2
       },
       "away_team": {
-        "base": 22.448979591836736,
+        "base": 22.0,
         "tendency": 20.0,
-        "combined": 21.47,
+        "combined": 21.2,
         "pitcher_impact": 0.0,
-        "adjusted": 15.03
+        "adjusted": 14.84
       },
-      "game_yrfi_probability": 38.27
+      "game_yrfi_probability": 36.3
     },
-    "yrfi_probability": 38.27
+    "yrfi_probability": 36.3
   },
   "metadata": {
-    "generated_at": "2026-07-20T15:44:52.216469",
+    "generated_at": "2026-07-21T15:28:35.768984",
     "data_source": "season_data.json"
   }
 }

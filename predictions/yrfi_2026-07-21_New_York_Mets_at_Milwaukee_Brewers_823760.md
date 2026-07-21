@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Milwaukee Brewers
 
-**Fecha:** 2026-07-20  
-**Lanzadores:** Freddy Peralta (V) vs Jacob Misiorowski (L)
+**Fecha:** 2026-07-21  
+**Lanzadores:** Zac Thornton (V) vs Brandon Sproat (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.9%
+**Probabilidad de que anoten en la primera entrada:** 40.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 32.0% (16/50 partidos)
+- **Estadística base YRFI:** 33.3% (17/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Freddy Peralta):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador visitante (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.5% (12/51 partidos)
+- **Estadística base YRFI:** 23.1% (12/52 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.7%
+- **Impacto del lanzador local (Milwaukee Brewers - Brandon Sproat):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 29.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json

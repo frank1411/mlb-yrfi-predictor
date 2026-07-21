@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Houston Astros
 
-**Fecha:** 2026-07-21  
-**Lanzadores:** Janson Junk (V) vs Ronel Blanco (L)
+**Fecha:** 2026-07-22  
+**Lanzadores:** Tyler Phillips (V) vs Tatsuya Imai (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.1%
+**Probabilidad de que anoten en la primera entrada:** 39.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 40.0% (20/50 partidos)
+- **Estadística base YRFI:** 39.2% (20/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 41.1%
+- **Impacto del lanzador visitante (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 25.8%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 30.6% (15/49 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Ronel Blanco):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Estadística base YRFI:** 30.0% (15/50 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Tatsuya Imai):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json

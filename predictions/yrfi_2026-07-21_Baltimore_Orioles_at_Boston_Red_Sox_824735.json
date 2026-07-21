@@ -1,0 +1,67 @@
+{
+  "game_pk": 824735,
+  "game_date": "2026-07-21",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Ranger Suarez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.489795918367346,
+        "ratio": "12/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 26.92,
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.083333333333332,
+        "ratio": "13/48"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.489795918367346,
+        "tendency": 20.0,
+        "combined": 22.69,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.89
+      },
+      "away_team": {
+        "base": 27.083333333333332,
+        "tendency": 26.666666666666668,
+        "combined": 26.92,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.34
+      },
+      "game_yrfi_probability": 38.04
+    },
+    "yrfi_probability": 38.04
+  },
+  "metadata": {
+    "generated_at": "2026-07-21T15:28:35.741902",
+    "data_source": "season_data.json"
+  }
+}

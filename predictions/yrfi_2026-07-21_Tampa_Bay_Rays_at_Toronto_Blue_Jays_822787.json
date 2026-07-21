@@ -1,0 +1,67 @@
+{
+  "game_pk": 822787,
+  "game_date": "2026-07-21",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.528301886792452,
+        "ratio": "13/53"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 23.92,
+    "pitcher": {
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.53061224489796,
+        "ratio": "13/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.528301886792452,
+        "tendency": 20.0,
+        "combined": 22.72,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.4
+      },
+      "away_team": {
+        "base": 26.53061224489796,
+        "tendency": 20.0,
+        "combined": 23.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.74
+      },
+      "game_yrfi_probability": 36.22
+    },
+    "yrfi_probability": 36.22
+  },
+  "metadata": {
+    "generated_at": "2026-07-21T15:28:35.739278",
+    "data_source": "season_data.json"
+  }
+}

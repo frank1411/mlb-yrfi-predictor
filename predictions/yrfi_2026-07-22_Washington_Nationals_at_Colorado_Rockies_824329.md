@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Colorado Rockies
 
-**Fecha:** 2026-07-21  
-**Lanzadores:** Andrew Alvarez (V) vs Kyle Freeland (L)
+**Fecha:** 2026-07-22  
+**Lanzadores:** Miles Mikolas (V) vs Michael Lorenzen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.6%
+**Probabilidad de que anoten en la primera entrada:** 58.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 48.0% (24/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.1%
+- **Estadística base YRFI:** 47.1% (24/51 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 32.8%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 28.6% (14/49 partidos)
+- **Estadística base YRFI:** 30.0% (15/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Impacto del lanzador local (Colorado Rockies - Michael Lorenzen):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 37.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-20 15:44:52
+- **Generado el:** 2026-07-21 15:28:35
 - **Fuente de datos:** season_data.json
