@@ -1,0 +1,67 @@
+{
+  "game_pk": 825055,
+  "game_date": "2026-07-22",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 34.61538461538461,
+        "ratio": "18/52"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 18.27,
+    "pitcher": {
+      "name": "Gage Jump",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.568627450980394,
+        "ratio": "11/51"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.61538461538461,
+        "tendency": 46.666666666666664,
+        "combined": 39.44,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.61
+      },
+      "away_team": {
+        "base": 21.568627450980394,
+        "tendency": 13.333333333333334,
+        "combined": 18.27,
+        "pitcher_impact": 100.0,
+        "adjusted": 42.79
+      },
+      "game_yrfi_probability": 58.59
+    },
+    "yrfi_probability": 58.59
+  },
+  "metadata": {
+    "generated_at": "2026-07-22T15:25:30.448643",
+    "data_source": "season_data.json"
+  }
+}

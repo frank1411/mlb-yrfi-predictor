@@ -1,0 +1,67 @@
+{
+  "game_pk": 823518,
+  "game_date": "2026-07-22",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Gerrit Cole",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 42.5531914893617,
+        "ratio": "20/47"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 28.4,
+    "pitcher": {
+      "name": "Mitch Keller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 34.0,
+        "ratio": "17/50"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.5531914893617,
+        "tendency": 26.666666666666668,
+        "combined": 36.2,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.34
+      },
+      "away_team": {
+        "base": 34.0,
+        "tendency": 20.0,
+        "combined": 28.4,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.88
+      },
+      "game_yrfi_probability": 40.18
+    },
+    "yrfi_probability": 40.18
+  },
+  "metadata": {
+    "generated_at": "2026-07-22T15:25:30.416173",
+    "data_source": "season_data.json"
+  }
+}

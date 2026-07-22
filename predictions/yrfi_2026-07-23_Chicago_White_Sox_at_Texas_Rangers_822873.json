@@ -1,0 +1,67 @@
+{
+  "game_pk": 822873,
+  "game_date": "2026-07-23",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Tyler Alexander",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.083333333333332,
+        "ratio": "13/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 28.77,
+    "pitcher": {
+      "name": "Anthony Kay",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.61538461538461,
+        "ratio": "18/52"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.083333333333332,
+        "tendency": 33.33333333333333,
+        "combined": 29.58,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.21
+      },
+      "away_team": {
+        "base": 34.61538461538461,
+        "tendency": 20.0,
+        "combined": 28.77,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.14
+      },
+      "game_yrfi_probability": 42.67
+    },
+    "yrfi_probability": 42.67
+  },
+  "metadata": {
+    "generated_at": "2026-07-22T15:25:30.477539",
+    "data_source": "season_data.json"
+  }
+}

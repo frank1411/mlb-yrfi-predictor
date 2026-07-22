@@ -1,0 +1,67 @@
+{
+  "game_pk": 823110,
+  "game_date": "2026-07-22",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Emerson Hancock",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.69230769230769,
+        "ratio": "17/52"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 29.87,
+    "pitcher": {
+      "name": "Brady Singer",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.0,
+        "ratio": "16/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.69230769230769,
+        "tendency": 0.0,
+        "combined": 19.62,
+        "pitcher_impact": 75.0,
+        "adjusted": 36.23
+      },
+      "away_team": {
+        "base": 32.0,
+        "tendency": 26.666666666666668,
+        "combined": 29.87,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.91
+      },
+      "game_yrfi_probability": 49.56
+    },
+    "yrfi_probability": 49.56
+  },
+  "metadata": {
+    "generated_at": "2026-07-22T15:25:30.452616",
+    "data_source": "season_data.json"
+  }
+}

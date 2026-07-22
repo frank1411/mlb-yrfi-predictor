@@ -1,0 +1,67 @@
+{
+  "game_pk": 824004,
+  "game_date": "2026-07-22",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.17647058823529,
+        "ratio": "21/51"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 37.25,
+    "pitcher": {
+      "name": "Hunter Dobbins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 35.41666666666667,
+        "ratio": "17/48"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.17647058823529,
+        "tendency": 33.33333333333333,
+        "combined": 38.04,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.63
+      },
+      "away_team": {
+        "base": 35.41666666666667,
+        "tendency": 40.0,
+        "combined": 37.25,
+        "pitcher_impact": 25.0,
+        "adjusted": 33.58
+      },
+      "game_yrfi_probability": 51.27
+    },
+    "yrfi_probability": 51.27
+  },
+  "metadata": {
+    "generated_at": "2026-07-22T15:25:30.456941",
+    "data_source": "season_data.json"
+  }
+}
