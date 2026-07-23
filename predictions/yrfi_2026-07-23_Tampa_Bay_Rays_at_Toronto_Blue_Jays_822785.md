@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Toronto Blue Jays
 
-**Fecha:** 2026-07-22  
-**Lanzadores:** Griffin Jax (V) vs Braydon Fisher (L)
+**Fecha:** 2026-07-23  
+**Lanzadores:** Casey Legumina (V) vs Shane Bieber (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 30.3%
+**Probabilidad de que anoten en la primera entrada:** 30.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 24.1% (13/54 partidos)
+- **Estadística base YRFI:** 25.5% (14/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.7%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Casey Legumina):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.3%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 28.0% (14/50 partidos)
+- **Estadística base YRFI:** 27.5% (14/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Braydon Fisher):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.4%
+- **Impacto del lanzador local (Toronto Blue Jays - Shane Bieber):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-22 15:25:30
+- **Generado el:** 2026-07-23 15:47:27
 - **Fuente de datos:** season_data.json

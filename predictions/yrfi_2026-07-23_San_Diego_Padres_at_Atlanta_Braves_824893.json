@@ -1,0 +1,67 @@
+{
+  "game_pk": 824893,
+  "game_date": "2026-07-23",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Chris Sale",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "17/51"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 24.78,
+    "pitcher": {
+      "name": "Kyle Hart",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "12/51"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 33.33333333333333,
+        "combined": 33.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.33
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 26.666666666666668,
+        "combined": 24.78,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.35
+      },
+      "game_yrfi_probability": 36.63
+    },
+    "yrfi_probability": 36.63
+  },
+  "metadata": {
+    "generated_at": "2026-07-23T15:47:27.274745",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823042,
+  "game_date": "2026-07-23",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.846153846153843,
+        "ratio": "15/52"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 35.81,
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "14/49"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.846153846153843,
+        "tendency": 40.0,
+        "combined": 33.31,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.32
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 46.666666666666664,
+        "combined": 35.81,
+        "pitcher_impact": 25.0,
+        "adjusted": 32.57
+      },
+      "game_yrfi_probability": 48.29
+    },
+    "yrfi_probability": 48.29
+  },
+  "metadata": {
+    "generated_at": "2026-07-23T15:47:27.287226",
+    "data_source": "season_data.json"
+  }
+}
