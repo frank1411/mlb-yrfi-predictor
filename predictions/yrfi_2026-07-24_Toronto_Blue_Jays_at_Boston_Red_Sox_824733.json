@@ -1,0 +1,67 @@
+{
+  "game_pk": 824733,
+  "game_date": "2026-07-24",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Patrick Sandoval",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.49019607843137,
+        "ratio": "13/51"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 23.43,
+    "pitcher": {
+      "name": "Trey Yesavage",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 21.27659574468085,
+        "ratio": "10/47"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.49019607843137,
+        "tendency": 26.666666666666668,
+        "combined": 25.96,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.17
+      },
+      "away_team": {
+        "base": 21.27659574468085,
+        "tendency": 26.666666666666668,
+        "combined": 23.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.4
+      },
+      "game_yrfi_probability": 56.67
+    },
+    "yrfi_probability": 56.67
+  },
+  "metadata": {
+    "generated_at": "2026-07-24T15:20:18.738981",
+    "data_source": "season_data.json"
+  }
+}

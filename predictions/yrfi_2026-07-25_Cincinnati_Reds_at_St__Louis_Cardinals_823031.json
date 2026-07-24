@@ -1,0 +1,67 @@
+{
+  "game_pk": 823031,
+  "game_date": "2026-07-25",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Dustin May",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.18867924528302,
+        "ratio": "16/53"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 29.49,
+    "pitcher": {
+      "name": "Rhett Lowder",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 31.372549019607842,
+        "ratio": "16/51"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.18867924528302,
+        "tendency": 40.0,
+        "combined": 34.11,
+        "pitcher_impact": 75.0,
+        "adjusted": 46.38
+      },
+      "away_team": {
+        "base": 31.372549019607842,
+        "tendency": 26.666666666666668,
+        "combined": 29.49,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.14
+      },
+      "game_yrfi_probability": 61.47
+    },
+    "yrfi_probability": 61.47
+  },
+  "metadata": {
+    "generated_at": "2026-07-24T15:20:18.755278",
+    "data_source": "season_data.json"
+  }
+}

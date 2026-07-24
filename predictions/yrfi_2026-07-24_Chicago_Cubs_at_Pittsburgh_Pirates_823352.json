@@ -1,0 +1,67 @@
+{
+  "game_pk": 823352,
+  "game_date": "2026-07-24",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Jared Jones",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 37.254901960784316,
+        "ratio": "19/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 28.27,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 16.0,
+        "ratio": "8/50"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.254901960784316,
+        "tendency": 20.0,
+        "combined": 30.35,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.25
+      },
+      "away_team": {
+        "base": 16.0,
+        "tendency": 46.666666666666664,
+        "combined": 28.27,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.79
+      },
+      "game_yrfi_probability": 60.9
+    },
+    "yrfi_probability": 60.9
+  },
+  "metadata": {
+    "generated_at": "2026-07-24T15:20:18.712659",
+    "data_source": "season_data.json"
+  }
+}

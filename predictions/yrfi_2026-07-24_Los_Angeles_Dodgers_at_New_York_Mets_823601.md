@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Atlanta Braves
+# Análisis YRFI: Los Angeles Dodgers @ New York Mets
 
-**Fecha:** 2026-07-23  
-**Lanzadores:** Kyle Hart (V) vs Chris Sale (L)
+**Fecha:** 2026-07-24  
+**Lanzadores:** Roki Sasaki (V) vs Sean Manaea (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.6%
+**Probabilidad de que anoten en la primera entrada:** 37.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 33.3% (17/51 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 32.7% (16/49 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Kyle Hart):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.1%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 23.5% (12/51 partidos)
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 26.4% (14/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 17.4%
+- **Impacto del lanzador local (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-23 15:47:27
+- **Generado el:** 2026-07-24 15:20:18
 - **Fuente de datos:** season_data.json

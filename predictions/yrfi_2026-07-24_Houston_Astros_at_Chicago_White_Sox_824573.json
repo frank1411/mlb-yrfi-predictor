@@ -1,0 +1,67 @@
+{
+  "game_pk": 824573,
+  "game_date": "2026-07-24",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 26.53061224489796,
+        "ratio": "13/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 31.79,
+    "pitcher": {
+      "name": "Spencer Arrighetti",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "16/52"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.53061224489796,
+        "tendency": 20.0,
+        "combined": 23.92,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.74
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 31.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.26
+      },
+      "game_yrfi_probability": 46.93
+    },
+    "yrfi_probability": 46.93
+  },
+  "metadata": {
+    "generated_at": "2026-07-24T15:20:18.742913",
+    "data_source": "season_data.json"
+  }
+}

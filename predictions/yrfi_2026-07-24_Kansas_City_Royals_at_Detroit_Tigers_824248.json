@@ -1,18 +1,18 @@
 {
-  "game_pk": 824247,
-  "game_date": "2026-07-23",
+  "game_pk": 824248,
+  "game_date": "2026-07-24",
   "home_team": {
     "id": "116",
     "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Troy Melton",
+      "name": "Tarik Skubal",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 26.0,
-        "ratio": "13/50"
+        "value": 25.49019607843137,
+        "ratio": "13/51"
       },
       "tendency": {
         "value": 40.0,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "118",
     "name": "Kansas City Royals",
-    "combined_yrfi_pct": 31.33,
+    "combined_yrfi_pct": 28.31,
     "pitcher": {
-      "name": "Randy Dobnak",
+      "name": "Beck Way",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.0,
-        "ratio": "15/50"
+        "value": 29.411764705882355,
+        "ratio": "15/51"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 26.0,
+        "base": 25.49019607843137,
         "tendency": 40.0,
-        "combined": 31.6,
+        "combined": 31.29,
         "pitcher_impact": 0.0,
-        "adjusted": 22.12
+        "adjusted": 21.91
       },
       "away_team": {
-        "base": 30.0,
-        "tendency": 33.33333333333333,
-        "combined": 31.33,
+        "base": 29.411764705882355,
+        "tendency": 26.666666666666668,
+        "combined": 28.31,
         "pitcher_impact": 0.0,
-        "adjusted": 21.93
+        "adjusted": 19.82
       },
-      "game_yrfi_probability": 39.2
+      "game_yrfi_probability": 37.39
     },
-    "yrfi_probability": 39.2
+    "yrfi_probability": 37.39
   },
   "metadata": {
-    "generated_at": "2026-07-23T15:47:27.291603",
+    "generated_at": "2026-07-24T15:20:18.708675",
     "data_source": "season_data.json"
   }
 }

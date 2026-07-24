@@ -1,18 +1,18 @@
 {
-  "game_pk": 824893,
-  "game_date": "2026-07-23",
+  "game_pk": 823601,
+  "game_date": "2026-07-24",
   "home_team": {
-    "id": "144",
-    "name": "Atlanta Braves",
+    "id": "121",
+    "name": "New York Mets",
     "pitcher": {
-      "name": "Chris Sale",
+      "name": "Sean Manaea",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "17/51"
+        "value": 32.6530612244898,
+        "ratio": "16/49"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "135",
-    "name": "San Diego Padres",
-    "combined_yrfi_pct": 24.78,
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 26.52,
     "pitcher": {
-      "name": "Kyle Hart",
+      "name": "Roki Sasaki",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 23.52941176470588,
-        "ratio": "12/51"
+        "value": 26.41509433962264,
+        "ratio": "14/53"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.33333333333333,
+        "base": 32.6530612244898,
         "tendency": 33.33333333333333,
-        "combined": 33.33,
+        "combined": 32.93,
         "pitcher_impact": 0.0,
-        "adjusted": 23.33
+        "adjusted": 23.05
       },
       "away_team": {
-        "base": 23.52941176470588,
+        "base": 26.41509433962264,
         "tendency": 26.666666666666668,
-        "combined": 24.78,
+        "combined": 26.52,
         "pitcher_impact": 0.0,
-        "adjusted": 17.35
+        "adjusted": 18.56
       },
-      "game_yrfi_probability": 36.63
+      "game_yrfi_probability": 37.33
     },
-    "yrfi_probability": 36.63
+    "yrfi_probability": 37.33
   },
   "metadata": {
-    "generated_at": "2026-07-23T15:47:27.274745",
+    "generated_at": "2026-07-24T15:20:18.727971",
     "data_source": "season_data.json"
   }
 }

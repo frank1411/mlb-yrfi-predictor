@@ -1,0 +1,67 @@
+{
+  "game_pk": 822872,
+  "game_date": "2026-07-25",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.53061224489796,
+        "ratio": "13/49"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 14.4,
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "12/50"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.53061224489796,
+        "tendency": 33.33333333333333,
+        "combined": 29.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.48
+      },
+      "away_team": {
+        "base": 24.0,
+        "tendency": 0.0,
+        "combined": 14.4,
+        "pitcher_impact": 0.0,
+        "adjusted": 10.08
+      },
+      "game_yrfi_probability": 28.5
+    },
+    "yrfi_probability": 28.5
+  },
+  "metadata": {
+    "generated_at": "2026-07-24T15:20:18.746794",
+    "data_source": "season_data.json"
+  }
+}
