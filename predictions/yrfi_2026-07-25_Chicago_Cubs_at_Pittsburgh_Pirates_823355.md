@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Pittsburgh Pirates
 
-**Fecha:** 2026-07-24  
-**Lanzadores:** Matthew Boyd (V) vs Jared Jones (L)
+**Fecha:** 2026-07-25  
+**Lanzadores:** Shota Imanaga (V) vs Paul Skenes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.9%
+**Probabilidad de que anoten en la primera entrada:** 61.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 37.3% (19/51 partidos)
+- **Estadística base YRFI:** 36.5% (19/52 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 51.2%
+- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 41.0%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 16.0% (8/50 partidos)
+- **Estadística base YRFI:** 15.7% (8/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Jared Jones):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 34.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-24 15:20:18
+- **Generado el:** 2026-07-25 14:54:32
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823197,
+  "game_date": "2026-07-25",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.916666666666664,
+        "ratio": "11/48"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 32.15,
+    "pitcher": {
+      "name": "Ryan Johnson",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "14/52"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.916666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 27.08,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.96
+      },
+      "away_team": {
+        "base": 26.923076923076923,
+        "tendency": 40.0,
+        "combined": 32.15,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.01
+      },
+      "game_yrfi_probability": 64.28
+    },
+    "yrfi_probability": 64.28
+  },
+  "metadata": {
+    "generated_at": "2026-07-25T14:54:32.402935",
+    "data_source": "season_data.json"
+  }
+}

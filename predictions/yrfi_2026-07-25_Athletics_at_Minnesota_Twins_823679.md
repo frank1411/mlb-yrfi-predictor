@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Minnesota Twins
 
 **Fecha:** 2026-07-25  
-**Lanzadores:** Jacob Lopez (V) vs Zebby Matthews (L)
+**Lanzadores:** Mason Barnett (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 42.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 33.3% (17/51 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 43.3%
+- **Estadística base YRFI:** 32.7% (17/52 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Athletics - Mason Barnett):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.2%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 21.2% (11/52 partidos)
+- **Estadística base YRFI:** 20.8% (11/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 12.6%
+- **Impacto del lanzador local (Minnesota Twins - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-24 15:20:18
+- **Generado el:** 2026-07-25 14:54:32
 - **Fuente de datos:** season_data.json

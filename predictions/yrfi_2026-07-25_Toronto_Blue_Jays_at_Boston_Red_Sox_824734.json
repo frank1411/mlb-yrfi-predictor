@@ -1,18 +1,18 @@
 {
-  "game_pk": 824733,
-  "game_date": "2026-07-24",
+  "game_pk": 824734,
+  "game_date": "2026-07-25",
   "home_team": {
     "id": "111",
     "name": "Boston Red Sox",
     "pitcher": {
-      "name": "Patrick Sandoval",
+      "name": "Sonny Gray",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 25.49019607843137,
-        "ratio": "13/51"
+        "value": 26.923076923076923,
+        "ratio": "14/52"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
-    "combined_yrfi_pct": 23.43,
+    "combined_yrfi_pct": 23.17,
     "pitcher": {
-      "name": "Trey Yesavage",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Dylan Cease",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
     },
     "stats": {
       "base": {
-        "value": 21.27659574468085,
-        "ratio": "10/47"
+        "value": 20.833333333333336,
+        "ratio": "10/48"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.49019607843137,
+        "base": 26.923076923076923,
         "tendency": 26.666666666666668,
-        "combined": 25.96,
-        "pitcher_impact": 100.0,
-        "adjusted": 48.17
+        "combined": 26.82,
+        "pitcher_impact": 75.0,
+        "adjusted": 41.27
       },
       "away_team": {
-        "base": 21.27659574468085,
+        "base": 20.833333333333336,
         "tendency": 26.666666666666668,
-        "combined": 23.43,
+        "combined": 23.17,
         "pitcher_impact": 0.0,
-        "adjusted": 16.4
+        "adjusted": 16.22
       },
-      "game_yrfi_probability": 56.67
+      "game_yrfi_probability": 50.8
     },
-    "yrfi_probability": 56.67
+    "yrfi_probability": 50.8
   },
   "metadata": {
-    "generated_at": "2026-07-24T15:20:18.738981",
+    "generated_at": "2026-07-25T14:54:32.406549",
     "data_source": "season_data.json"
   }
 }

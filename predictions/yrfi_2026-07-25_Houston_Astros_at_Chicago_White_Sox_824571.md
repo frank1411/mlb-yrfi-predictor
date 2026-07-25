@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Baltimore Orioles
+# Análisis YRFI: Houston Astros @ Chicago White Sox
 
-**Fecha:** 2026-07-24  
-**Lanzadores:** Grant Holmes (V) vs Por anunciar (L)
+**Fecha:** 2026-07-25  
+**Lanzadores:** Hunter Brown (V) vs Sean Burke (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.5%
+**Probabilidad de que anoten en la primera entrada:** 35.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 20.8% (11/53 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 28.0% (14/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 31.2%
+- **Impacto del lanzador visitante (Houston Astros - Hunter Brown):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.2%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 34.0% (17/50 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 30.2% (16/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 36.8%
+- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-24 15:20:18
+- **Generado el:** 2026-07-25 14:54:32
 - **Fuente de datos:** season_data.json

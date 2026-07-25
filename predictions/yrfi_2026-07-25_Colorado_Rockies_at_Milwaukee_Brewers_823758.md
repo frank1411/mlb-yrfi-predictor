@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Miami Marlins
+# Análisis YRFI: Colorado Rockies @ Milwaukee Brewers
 
-**Fecha:** 2026-07-24  
-**Lanzadores:** Germán Márquez (V) vs Por anunciar (L)
+**Fecha:** 2026-07-25  
+**Lanzadores:** Ryan Feltner (V) vs Robert Gasser (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.2%
+**Probabilidad de que anoten en la primera entrada:** 33.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 33.3% (17/51 partidos)
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 33.3% (18/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Germán Márquez):** 0.0% (0/3 partidos)
+- **Impacto del lanzador visitante (Colorado Rockies - Ryan Feltner):** 0.0% (0/2 partidos)
 - **Puntuación ajustada:** 17.7%
 
-### San Diego Padres (Visitante)
+### Colorado Rockies (Visitante)
 - **Estadística base YRFI:** 23.1% (12/52 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-24 15:20:18
+- **Generado el:** 2026-07-25 14:54:32
 - **Fuente de datos:** season_data.json

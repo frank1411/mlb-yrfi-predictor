@@ -1,0 +1,67 @@
+{
+  "game_pk": 824571,
+  "game_date": "2026-07-25",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "14/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 28.78,
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.18867924528302,
+        "ratio": "16/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.000000000000004,
+        "tendency": 26.666666666666668,
+        "combined": 27.47,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.23
+      },
+      "away_team": {
+        "base": 30.18867924528302,
+        "tendency": 26.666666666666668,
+        "combined": 28.78,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.15
+      },
+      "game_yrfi_probability": 35.51
+    },
+    "yrfi_probability": 35.51
+  },
+  "metadata": {
+    "generated_at": "2026-07-25T14:54:32.428810",
+    "data_source": "season_data.json"
+  }
+}

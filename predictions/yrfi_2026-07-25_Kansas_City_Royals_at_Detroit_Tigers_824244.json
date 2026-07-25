@@ -1,18 +1,18 @@
 {
-  "game_pk": 824248,
-  "game_date": "2026-07-24",
+  "game_pk": 824244,
+  "game_date": "2026-07-25",
   "home_team": {
     "id": "116",
     "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Tarik Skubal",
+      "name": "Casey Mize",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 25.49019607843137,
-        "ratio": "13/51"
+        "value": 26.923076923076923,
+        "ratio": "14/52"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "118",
     "name": "Kansas City Royals",
-    "combined_yrfi_pct": 28.31,
+    "combined_yrfi_pct": 27.97,
     "pitcher": {
-      "name": "Beck Way",
+      "name": "Michael Wacha",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 29.411764705882355,
-        "ratio": "15/51"
+        "value": 28.846153846153843,
+        "ratio": "15/52"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.49019607843137,
+        "base": 26.923076923076923,
         "tendency": 40.0,
-        "combined": 31.29,
+        "combined": 32.15,
         "pitcher_impact": 0.0,
-        "adjusted": 21.91
+        "adjusted": 22.51
       },
       "away_team": {
-        "base": 29.411764705882355,
+        "base": 28.846153846153843,
         "tendency": 26.666666666666668,
-        "combined": 28.31,
+        "combined": 27.97,
         "pitcher_impact": 0.0,
-        "adjusted": 19.82
+        "adjusted": 19.58
       },
-      "game_yrfi_probability": 37.39
+      "game_yrfi_probability": 37.68
     },
-    "yrfi_probability": 37.39
+    "yrfi_probability": 37.68
   },
   "metadata": {
-    "generated_at": "2026-07-24T15:20:18.708675",
+    "generated_at": "2026-07-25T14:54:32.395908",
     "data_source": "season_data.json"
   }
 }
