@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Philadelphia Phillies
 
-**Fecha:** 2026-07-25  
-**Lanzadores:** Ryan Weathers (V) vs Por anunciar (L)
+**Fecha:** 2026-07-26  
+**Lanzadores:** Will Warren (V) vs Cristopher Sánchez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.8%
+**Probabilidad de que anoten en la primera entrada:** 43.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 39.6% (21/53 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Ryan Weathers):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 39.1%
+- **Estadística base YRFI:** 40.7% (22/54 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 26.4%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 27.8% (15/54 partidos)
+- **Estadística base YRFI:** 27.3% (15/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.3%
+- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 23.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-25 14:54:32
+- **Generado el:** 2026-07-26 14:56:29
 - **Fuente de datos:** season_data.json

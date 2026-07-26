@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ St. Louis Cardinals
+# Análisis YRFI: Arizona Diamondbacks @ Washington Nationals
 
-**Fecha:** 2026-07-25  
-**Lanzadores:** Hunter Greene (V) vs Andre Pallante (L)
+**Fecha:** 2026-07-26  
+**Lanzadores:** Kohl Drake (V) vs Miles Mikolas (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.9%
+**Probabilidad de que anoten en la primera entrada:** 42.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 29.6% (16/54 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 41.5% (22/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Hunter Greene):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Kohl Drake):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.6%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 30.8% (16/52 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 26.9% (14/52 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador local (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-25 14:54:32
+- **Generado el:** 2026-07-26 14:56:29
 - **Fuente de datos:** season_data.json

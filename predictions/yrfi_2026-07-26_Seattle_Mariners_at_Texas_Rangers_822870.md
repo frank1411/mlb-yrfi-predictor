@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Texas Rangers
 
-**Fecha:** 2026-07-25  
-**Lanzadores:** Bryan Woo (V) vs Nathan Eovaldi (L)
+**Fecha:** 2026-07-26  
+**Lanzadores:** Logan Gilbert (V) vs Jacob deGrom (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.2%
+**Probabilidad de que anoten en la primera entrada:** 58.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 28.0% (14/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryan Woo):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.5%
+- **Estadística base YRFI:** 29.4% (15/51 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 40.4%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 23.5% (12/51 partidos)
+- **Estadística base YRFI:** 23.1% (12/52 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 29.9%
+- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 29.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-25 14:54:32
+- **Generado el:** 2026-07-26 14:56:29
 - **Fuente de datos:** season_data.json

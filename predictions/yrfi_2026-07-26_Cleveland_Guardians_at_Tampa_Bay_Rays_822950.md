@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Tampa Bay Rays
 
-**Fecha:** 2026-07-25  
-**Lanzadores:** Tanner Bibee (V) vs Nick Martinez (L)
+**Fecha:** 2026-07-26  
+**Lanzadores:** Parker Messick (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.8%
+**Probabilidad de que anoten en la primera entrada:** 33.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 41.2% (21/51 partidos)
+- **Estadística base YRFI:** 40.4% (21/52 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 21.2% (11/52 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Nick Martinez):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 16.4%
+- **Estadística base YRFI:** 20.8% (11/53 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 14.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-25 14:54:32
+- **Generado el:** 2026-07-26 14:56:29
 - **Fuente de datos:** season_data.json

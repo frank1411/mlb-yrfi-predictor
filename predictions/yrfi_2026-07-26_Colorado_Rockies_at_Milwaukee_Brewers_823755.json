@@ -1,33 +1,33 @@
 {
-  "game_pk": 823841,
-  "game_date": "2026-07-25",
+  "game_pk": 823755,
+  "game_date": "2026-07-26",
   "home_team": {
-    "id": "146",
-    "name": "Miami Marlins",
+    "id": "158",
+    "name": "Milwaukee Brewers",
     "pitcher": {
-      "name": "Eury Pérez",
+      "name": "Jacob Misiorowski",
       "yrfi_allowed": 25.0,
       "yrfi_ratio": "1/4"
     },
     "stats": {
       "base": {
-        "value": 32.69230769230769,
-        "ratio": "17/52"
+        "value": 32.72727272727273,
+        "ratio": "18/55"
       },
       "tendency": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 13.333333333333334,
+        "ratio": "2/15"
       }
     }
   },
   "away_team": {
-    "id": "135",
-    "name": "San Diego Padres",
+    "id": "115",
+    "name": "Colorado Rockies",
     "combined_yrfi_pct": 24.25,
     "pitcher": {
-      "name": "JP Sears",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.69230769230769,
-        "tendency": 6.666666666666667,
-        "combined": 22.28,
-        "pitcher_impact": 0.0,
-        "adjusted": 15.6
+        "base": 32.72727272727273,
+        "tendency": 13.333333333333334,
+        "combined": 24.97,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.48
       },
       "away_team": {
         "base": 22.641509433962266,
@@ -56,12 +56,12 @@
         "pitcher_impact": 25.0,
         "adjusted": 24.48
       },
-      "game_yrfi_probability": 36.26
+      "game_yrfi_probability": 49.01
     },
-    "yrfi_probability": 36.26
+    "yrfi_probability": 49.01
   },
   "metadata": {
-    "generated_at": "2026-07-25T14:54:32.410212",
+    "generated_at": "2026-07-26T14:56:29.247448",
     "data_source": "season_data.json"
   }
 }

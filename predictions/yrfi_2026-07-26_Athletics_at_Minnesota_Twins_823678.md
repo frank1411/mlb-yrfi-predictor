@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Minnesota Twins
 
-**Fecha:** 2026-07-25  
-**Lanzadores:** Mason Barnett (V) vs Por anunciar (L)
+**Fecha:** 2026-07-26  
+**Lanzadores:** Jeffrey Springs (V) vs Connor Prielipp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.8%
+**Probabilidad de que anoten en la primera entrada:** 29.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 32.7% (17/52 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Mason Barnett):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.2%
+- **Estadística base YRFI:** 32.1% (17/53 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 20.8% (11/53 partidos)
+- **Estadística base YRFI:** 20.4% (11/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Impacto del lanzador local (Minnesota Twins - Connor Prielipp):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 12.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-25 14:54:32
+- **Generado el:** 2026-07-26 14:56:29
 - **Fuente de datos:** season_data.json

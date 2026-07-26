@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Milwaukee Brewers
 
-**Fecha:** 2026-07-25  
-**Lanzadores:** Ryan Feltner (V) vs Robert Gasser (L)
+**Fecha:** 2026-07-26  
+**Lanzadores:** Kyle Freeland (V) vs Jacob Misiorowski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.4%
+**Probabilidad de que anoten en la primera entrada:** 49.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 33.3% (18/54 partidos)
+- **Estadística base YRFI:** 32.7% (18/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Ryan Feltner):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 23.1% (12/52 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.0%
+- **Estadística base YRFI:** 22.6% (12/53 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-25 14:54:32
+- **Generado el:** 2026-07-26 14:56:29
 - **Fuente de datos:** season_data.json

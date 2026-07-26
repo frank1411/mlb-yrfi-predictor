@@ -1,7 +1,7 @@
-# Análisis YRFI: Kansas City Royals @ Detroit Tigers
+# Análisis YRFI: Toronto Blue Jays @ Boston Red Sox
 
-**Fecha:** 2026-07-25  
-**Lanzadores:** Michael Wacha (V) vs Casey Mize (L)
+**Fecha:** 2026-07-26  
+**Lanzadores:** Kevin Gausman (V) vs Ranger Suarez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.9% (14/52 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.5%
-
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 28.8% (15/52 partidos)
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 26.4% (14/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Casey Mize):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.6%
+
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 20.4% (10/49 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Boston Red Sox - Ranger Suarez):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-25 14:54:32
+- **Generado el:** 2026-07-26 14:56:29
 - **Fuente de datos:** season_data.json

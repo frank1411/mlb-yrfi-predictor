@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ San Francisco Giants
 
-**Fecha:** 2026-07-25  
-**Lanzadores:** Ryan Johnson (V) vs Robbie Ray (L)
+**Fecha:** 2026-07-26  
+**Lanzadores:** José Soriano (V) vs Carson Whisenhunt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 64.3%
+**Probabilidad de que anoten en la primera entrada:** 35.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 22.9% (11/48 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Ryan Johnson):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 49.0%
+- **Estadística base YRFI:** 22.4% (11/49 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Angels - José Soriano):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 16.9%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 26.9% (14/52 partidos)
+- **Estadística base YRFI:** 26.4% (14/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Robbie Ray):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.0%
+- **Impacto del lanzador local (San Francisco Giants - Carson Whisenhunt):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-25 14:54:32
+- **Generado el:** 2026-07-26 14:56:29
 - **Fuente de datos:** season_data.json
