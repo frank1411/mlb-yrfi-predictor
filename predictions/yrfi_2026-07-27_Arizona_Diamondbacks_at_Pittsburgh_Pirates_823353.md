@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Baltimore Orioles
+# Análisis YRFI: Arizona Diamondbacks @ Pittsburgh Pirates
 
-**Fecha:** 2026-07-26  
-**Lanzadores:** Reynaldo López (V) vs Shane Baz (L)
+**Fecha:** 2026-07-27  
+**Lanzadores:** Merrill Kelly (V) vs Mitch Keller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.5%
+**Probabilidad de que anoten en la primera entrada:** 39.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 20.0% (11/55 partidos)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 35.2% (19/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Reynaldo López):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 32.1%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.5%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 32.7% (17/52 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 28.3% (15/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.2%
+- **Impacto del lanzador local (Pittsburgh Pirates - Mitch Keller):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-26 14:56:29
+- **Generado el:** 2026-07-27 16:07:02
 - **Fuente de datos:** season_data.json

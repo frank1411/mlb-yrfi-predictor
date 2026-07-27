@@ -1,0 +1,67 @@
+{
+  "game_pk": 822868,
+  "game_date": "2026-07-27",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Kumar Rocker",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "16/52"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 13.58,
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.641509433962266,
+        "ratio": "12/53"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.76923076923077,
+        "tendency": 53.333333333333336,
+        "combined": 39.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.86
+      },
+      "away_team": {
+        "base": 22.641509433962266,
+        "tendency": 0.0,
+        "combined": 13.58,
+        "pitcher_impact": 100.0,
+        "adjusted": 39.51
+      },
+      "game_yrfi_probability": 56.36
+    },
+    "yrfi_probability": 56.36
+  },
+  "metadata": {
+    "generated_at": "2026-07-27T16:07:02.355241",
+    "data_source": "season_data.json"
+  }
+}

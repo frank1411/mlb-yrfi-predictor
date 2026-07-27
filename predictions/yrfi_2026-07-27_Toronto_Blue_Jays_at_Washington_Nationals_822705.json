@@ -1,0 +1,67 @@
+{
+  "game_pk": 822705,
+  "game_date": "2026-07-27",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Andrew Alvarez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 40.74074074074074,
+        "ratio": "22/54"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 22.67,
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "10/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.74074074074074,
+        "tendency": 40.0,
+        "combined": 40.44,
+        "pitcher_impact": 100.0,
+        "adjusted": 58.31
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 26.666666666666668,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "game_yrfi_probability": 64.93
+    },
+    "yrfi_probability": 64.93
+  },
+  "metadata": {
+    "generated_at": "2026-07-27T16:07:02.372098",
+    "data_source": "season_data.json"
+  }
+}

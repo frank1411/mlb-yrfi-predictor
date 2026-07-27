@@ -1,0 +1,67 @@
+{
+  "game_pk": 823195,
+  "game_date": "2026-07-28",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Tyler Mahle",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.0,
+        "ratio": "11/50"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 22.69,
+    "pitcher": {
+      "name": "Brandon Sproat",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 24.489795918367346,
+        "ratio": "12/49"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.0,
+        "tendency": 20.0,
+        "combined": 21.2,
+        "pitcher_impact": 100.0,
+        "adjusted": 44.84
+      },
+      "away_team": {
+        "base": 24.489795918367346,
+        "tendency": 20.0,
+        "combined": 22.69,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.39
+      },
+      "game_yrfi_probability": 57.74
+    },
+    "yrfi_probability": 57.74
+  },
+  "metadata": {
+    "generated_at": "2026-07-27T16:07:02.400864",
+    "data_source": "season_data.json"
+  }
+}

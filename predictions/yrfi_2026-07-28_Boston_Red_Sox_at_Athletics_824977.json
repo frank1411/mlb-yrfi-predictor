@@ -1,0 +1,67 @@
+{
+  "game_pk": 824977,
+  "game_date": "2026-07-28",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jack Perkins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.0,
+        "ratio": "17/50"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 22.67,
+    "pitcher": {
+      "name": "Payton Tolle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "10/50"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.0,
+        "tendency": 13.333333333333334,
+        "combined": 25.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.01
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 26.666666666666668,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "game_yrfi_probability": 31.02
+    },
+    "yrfi_probability": 31.02
+  },
+  "metadata": {
+    "generated_at": "2026-07-27T16:07:02.396707",
+    "data_source": "season_data.json"
+  }
+}

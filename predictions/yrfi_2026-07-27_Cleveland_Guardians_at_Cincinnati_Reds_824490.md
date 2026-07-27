@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Tampa Bay Rays
+# Análisis YRFI: Cleveland Guardians @ Cincinnati Reds
 
-**Fecha:** 2026-07-26  
-**Lanzadores:** Parker Messick (V) vs Drew Rasmussen (L)
+**Fecha:** 2026-07-27  
+**Lanzadores:** Slade Cecconi (V) vs Chase Burns (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.6%
+**Probabilidad de que anoten en la primera entrada:** 37.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 40.4% (21/52 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 24.0% (12/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador visitante (Cleveland Guardians - Slade Cecconi):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 20.8% (11/53 partidos)
+- **Estadística base YRFI:** 20.4% (11/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 14.3%
+- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 14.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-26 14:56:29
+- **Generado el:** 2026-07-27 16:07:02
 - **Fuente de datos:** season_data.json

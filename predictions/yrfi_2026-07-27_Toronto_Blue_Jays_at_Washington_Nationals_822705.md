@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ Washington Nationals
+# Análisis YRFI: Toronto Blue Jays @ Washington Nationals
 
-**Fecha:** 2026-07-26  
-**Lanzadores:** Kohl Drake (V) vs Miles Mikolas (L)
+**Fecha:** 2026-07-27  
+**Lanzadores:** Max Scherzer (V) vs Andrew Alvarez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.0%
+**Probabilidad de que anoten en la primera entrada:** 64.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 41.5% (22/53 partidos)
+- **Estadística base YRFI:** 40.7% (22/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Kohl Drake):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 58.3%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 26.9% (14/52 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 20.0% (10/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 18.8%
+- **Impacto del lanzador local (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-26 14:56:29
+- **Generado el:** 2026-07-27 16:07:02
 - **Fuente de datos:** season_data.json

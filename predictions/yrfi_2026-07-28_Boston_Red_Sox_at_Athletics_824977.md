@@ -1,25 +1,25 @@
-# Análisis YRFI: Colorado Rockies @ Milwaukee Brewers
+# Análisis YRFI: Boston Red Sox @ Athletics
 
-**Fecha:** 2026-07-26  
-**Lanzadores:** Kyle Freeland (V) vs Jacob Misiorowski (L)
+**Fecha:** 2026-07-28  
+**Lanzadores:** Payton Tolle (V) vs Jack Perkins (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.0%
+**Probabilidad de que anoten en la primera entrada:** 31.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 32.7% (18/55 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 34.0% (17/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.0%
 
-### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 22.6% (12/53 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 20.0% (10/50 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador local (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-26 14:56:29
+- **Generado el:** 2026-07-27 16:07:02
 - **Fuente de datos:** season_data.json
