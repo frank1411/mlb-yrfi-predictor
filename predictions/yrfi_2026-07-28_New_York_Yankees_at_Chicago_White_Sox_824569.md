@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Chicago White Sox
 
-**Fecha:** 2026-07-27  
-**Lanzadores:** Max Fried (V) vs Noah Schultz (L)
+**Fecha:** 2026-07-28  
+**Lanzadores:** Gerrit Cole (V) vs Anthony Kay (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.9%
+**Probabilidad de que anoten en la primera entrada:** 57.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 28.8% (15/52 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Estadística base YRFI:** 30.2% (16/53 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 26.8% (15/56 partidos)
+- **Estadística base YRFI:** 26.3% (15/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Noah Schultz):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 31.9%
+- **Impacto del lanzador local (Chicago White Sox - Anthony Kay):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 46.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-27 16:07:02
+- **Generado el:** 2026-07-28 15:58:08
 - **Fuente de datos:** season_data.json

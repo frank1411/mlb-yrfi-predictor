@@ -1,6 +1,6 @@
 # Análisis YRFI: Cleveland Guardians @ Cincinnati Reds
 
-**Fecha:** 2026-07-27  
+**Fecha:** 2026-07-28  
 **Lanzadores:** Slade Cecconi (V) vs Chase Burns (L)
 
 ## 📊 Probabilidad YRFI del Partido
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-27 16:07:02
+- **Generado el:** 2026-07-28 15:58:08
 - **Fuente de datos:** season_data.json

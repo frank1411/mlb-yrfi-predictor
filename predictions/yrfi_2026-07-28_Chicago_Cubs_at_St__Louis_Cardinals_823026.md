@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ St. Louis Cardinals
 
-**Fecha:** 2026-07-27  
-**Lanzadores:** David Peterson (V) vs Por anunciar (L)
+**Fecha:** 2026-07-28  
+**Lanzadores:** Colin Rea (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 68.9%
+**Probabilidad de que anoten en la primera entrada:** 49.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 30.4% (17/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - David Peterson):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 54.0%
+- **Estadística base YRFI:** 29.8% (17/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Colin Rea):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 15.1% (8/53 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Estadística base YRFI:** 16.7% (9/54 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
 - **Impacto del lanzador local (St. Louis Cardinals - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Puntuación ajustada:** 35.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-27 16:07:02
+- **Generado el:** 2026-07-28 15:58:08
 - **Fuente de datos:** season_data.json

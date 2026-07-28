@@ -1,0 +1,67 @@
+{
+  "game_pk": 824003,
+  "game_date": "2026-07-29",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.509433962264154,
+        "ratio": "22/53"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 28.88,
+    "pitcher": {
+      "name": "Peter Lambert",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.357142857142854,
+        "ratio": "17/56"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.509433962264154,
+        "tendency": 40.0,
+        "combined": 40.91,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.63
+      },
+      "away_team": {
+        "base": 30.357142857142854,
+        "tendency": 26.666666666666668,
+        "combined": 28.88,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.72
+      },
+      "game_yrfi_probability": 48.41
+    },
+    "yrfi_probability": 48.41
+  },
+  "metadata": {
+    "generated_at": "2026-07-28T15:58:08.386725",
+    "data_source": "season_data.json"
+  }
+}

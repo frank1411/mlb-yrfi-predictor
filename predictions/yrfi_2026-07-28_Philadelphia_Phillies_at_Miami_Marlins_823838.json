@@ -1,0 +1,67 @@
+{
+  "game_pk": 823838,
+  "game_date": "2026-07-28",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.72727272727273,
+        "ratio": "18/55"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 31.0,
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "13/52"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.72727272727273,
+        "tendency": 6.666666666666667,
+        "combined": 22.3,
+        "pitcher_impact": 20.0,
+        "adjusted": 21.61
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 40.0,
+        "combined": 31.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.7
+      },
+      "game_yrfi_probability": 38.62
+    },
+    "yrfi_probability": 38.62
+  },
+  "metadata": {
+    "generated_at": "2026-07-28T15:58:08.362489",
+    "data_source": "season_data.json"
+  }
+}

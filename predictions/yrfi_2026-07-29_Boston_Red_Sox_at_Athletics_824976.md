@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Athletics
 
-**Fecha:** 2026-07-28  
-**Lanzadores:** Payton Tolle (V) vs Jack Perkins (L)
+**Fecha:** 2026-07-29  
+**Lanzadores:** Jake Bennett (V) vs Gage Jump (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.0%
+**Probabilidad de que anoten en la primera entrada:** 32.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 34.0% (17/50 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Estadística base YRFI:** 35.3% (18/51 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.4%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 20.0% (10/50 partidos)
+- **Estadística base YRFI:** 19.6% (10/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.9%
+- **Impacto del lanzador local (Athletics - Gage Jump):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-27 16:07:02
+- **Generado el:** 2026-07-28 15:58:08
 - **Fuente de datos:** season_data.json

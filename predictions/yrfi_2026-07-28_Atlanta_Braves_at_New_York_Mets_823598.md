@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ New York Mets
 
-**Fecha:** 2026-07-27  
-**Lanzadores:** Martín Pérez (V) vs Zac Thornton (L)
+**Fecha:** 2026-07-28  
+**Lanzadores:** Chris Sale (V) vs Christian Scott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.9%
+**Probabilidad de que anoten en la primera entrada:** 67.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 32.7% (17/52 partidos)
+- **Estadística base YRFI:** 34.0% (18/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.1%
+- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 32.1% (17/53 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Estadística base YRFI:** 33.3% (18/54 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 51.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-27 16:07:02
+- **Generado el:** 2026-07-28 15:58:08
 - **Fuente de datos:** season_data.json

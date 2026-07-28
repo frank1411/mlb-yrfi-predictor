@@ -1,0 +1,67 @@
+{
+  "game_pk": 823350,
+  "game_date": "2026-07-28",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.54545454545455,
+        "ratio": "19/55"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 24.67,
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "15/54"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.54545454545455,
+        "tendency": 6.666666666666667,
+        "combined": 23.39,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.38
+      },
+      "away_team": {
+        "base": 27.77777777777778,
+        "tendency": 20.0,
+        "combined": 24.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.27
+      },
+      "game_yrfi_probability": 30.82
+    },
+    "yrfi_probability": 30.82
+  },
+  "metadata": {
+    "generated_at": "2026-07-28T15:58:08.354779",
+    "data_source": "season_data.json"
+  }
+}
