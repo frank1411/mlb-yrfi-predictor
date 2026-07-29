@@ -1,0 +1,67 @@
+{
+  "game_pk": 824002,
+  "game_date": "2026-07-30",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Grayson Rodriguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 40.74074074074074,
+        "ratio": "22/54"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 32.28,
+    "pitcher": {
+      "name": "Hayden Wesneski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "18/57"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.74074074074074,
+        "tendency": 33.33333333333333,
+        "combined": 37.78,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.44
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 33.33333333333333,
+        "combined": 32.28,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.6
+      },
+      "game_yrfi_probability": 43.06
+    },
+    "yrfi_probability": 43.06
+  },
+  "metadata": {
+    "generated_at": "2026-07-29T15:44:03.080799",
+    "data_source": "season_data.json"
+  }
+}

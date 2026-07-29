@@ -1,0 +1,67 @@
+{
+  "game_pk": 823192,
+  "game_date": "2026-07-29",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Logan Webb",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 21.153846153846153,
+        "ratio": "11/52"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 22.12,
+    "pitcher": {
+      "name": "Shane Drohan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "12/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.153846153846153,
+        "tendency": 20.0,
+        "combined": 20.69,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.48
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 20.0,
+        "combined": 22.12,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.48
+      },
+      "game_yrfi_probability": 27.72
+    },
+    "yrfi_probability": 27.72
+  },
+  "metadata": {
+    "generated_at": "2026-07-29T15:44:03.048083",
+    "data_source": "season_data.json"
+  }
+}

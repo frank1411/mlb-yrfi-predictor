@@ -1,0 +1,67 @@
+{
+  "game_pk": 824973,
+  "game_date": "2026-07-30",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.61538461538461,
+        "ratio": "18/52"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 22.21,
+    "pitcher": {
+      "name": "Patrick Sandoval",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 19.230769230769234,
+        "ratio": "10/52"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.61538461538461,
+        "tendency": 20.0,
+        "combined": 28.77,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.14
+      },
+      "away_team": {
+        "base": 19.230769230769234,
+        "tendency": 26.666666666666668,
+        "combined": 22.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.54
+      },
+      "game_yrfi_probability": 32.55
+    },
+    "yrfi_probability": 32.55
+  },
+  "metadata": {
+    "generated_at": "2026-07-29T15:44:03.084771",
+    "data_source": "season_data.json"
+  }
+}

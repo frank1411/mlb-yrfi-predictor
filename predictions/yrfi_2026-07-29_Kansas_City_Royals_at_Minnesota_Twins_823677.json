@@ -1,0 +1,67 @@
+{
+  "game_pk": 823677,
+  "game_date": "2026-07-29",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Joe Ryan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.72727272727273,
+        "ratio": "18/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 28.12,
+    "pitcher": {
+      "name": "Randy Dobnak",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.09090909090909,
+        "ratio": "16/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.72727272727273,
+        "tendency": 26.666666666666668,
+        "combined": 30.3,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.21
+      },
+      "away_team": {
+        "base": 29.09090909090909,
+        "tendency": 26.666666666666668,
+        "combined": 28.12,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.68
+      },
+      "game_yrfi_probability": 36.72
+    },
+    "yrfi_probability": 36.72
+  },
+  "metadata": {
+    "generated_at": "2026-07-29T15:44:03.068180",
+    "data_source": "season_data.json"
+  }
+}
