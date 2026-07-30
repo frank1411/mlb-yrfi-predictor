@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Chicago White Sox
+# Análisis YRFI: Kansas City Royals @ Minnesota Twins
 
-**Fecha:** 2026-07-29  
-**Lanzadores:** Cam Schlittler (V) vs Davis Martin (L)
+**Fecha:** 2026-07-30  
+**Lanzadores:** Noah Cameron (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.1%
+**Probabilidad de que anoten en la primera entrada:** 47.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 29.6% (16/54 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 32.1% (18/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.0%
 
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 25.9% (15/58 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 28.6% (16/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 16.5%
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 23.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-29 15:44:03
+- **Generado el:** 2026-07-30 15:45:39
 - **Fuente de datos:** season_data.json

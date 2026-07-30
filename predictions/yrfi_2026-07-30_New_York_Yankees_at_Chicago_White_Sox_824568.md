@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Cincinnati Reds
+# Análisis YRFI: New York Yankees @ Chicago White Sox
 
-**Fecha:** 2026-07-29  
-**Lanzadores:** Joey Cantillo (V) vs Brady Singer (L)
+**Fecha:** 2026-07-30  
+**Lanzadores:** Ryan Weathers (V) vs Sean Burke (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.7%
+**Probabilidad de que anoten en la primera entrada:** 47.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 25.0% (13/52 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 29.1% (16/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Impacto del lanzador visitante (New York Yankees - Ryan Weathers):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 34.7%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 21.4% (12/56 partidos)
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 27.1% (16/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.5%
+- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-29 15:44:03
+- **Generado el:** 2026-07-30 15:45:39
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822946,
+  "game_date": "2026-07-30",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Shane McClanahan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "22/55"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 40.97,
+    "pitcher": {
+      "name": "Cole Winn",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.72727272727273,
+        "ratio": "18/55"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 20.0,
+        "combined": 32.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.4
+      },
+      "away_team": {
+        "base": 32.72727272727273,
+        "tendency": 53.333333333333336,
+        "combined": 40.97,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.68
+      },
+      "game_yrfi_probability": 44.66
+    },
+    "yrfi_probability": 44.66
+  },
+  "metadata": {
+    "generated_at": "2026-07-30T15:45:39.384011",
+    "data_source": "season_data.json"
+  }
+}

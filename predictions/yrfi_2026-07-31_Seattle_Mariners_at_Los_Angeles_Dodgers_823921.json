@@ -1,0 +1,67 @@
+{
+  "game_pk": 823921,
+  "game_date": "2026-07-31",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 38.46153846153847,
+        "ratio": "20/52"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 12.86,
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "12/56"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.46153846153847,
+        "tendency": 33.33333333333333,
+        "combined": 36.41,
+        "pitcher_impact": 25.0,
+        "adjusted": 32.99
+      },
+      "away_team": {
+        "base": 21.428571428571427,
+        "tendency": 0.0,
+        "combined": 12.86,
+        "pitcher_impact": 0.0,
+        "adjusted": 9.0
+      },
+      "game_yrfi_probability": 39.02
+    },
+    "yrfi_probability": 39.02
+  },
+  "metadata": {
+    "generated_at": "2026-07-30T15:45:39.422279",
+    "data_source": "season_data.json"
+  }
+}

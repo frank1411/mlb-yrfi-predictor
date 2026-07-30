@@ -1,0 +1,67 @@
+{
+  "game_pk": 824894,
+  "game_date": "2026-07-30",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Grant Holmes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.69230769230769,
+        "ratio": "17/52"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 31.79,
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "16/52"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.69230769230769,
+        "tendency": 20.0,
+        "combined": 27.62,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.33
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 31.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.26
+      },
+      "game_yrfi_probability": 48.95
+    },
+    "yrfi_probability": 48.95
+  },
+  "metadata": {
+    "generated_at": "2026-07-30T15:45:39.411047",
+    "data_source": "season_data.json"
+  }
+}

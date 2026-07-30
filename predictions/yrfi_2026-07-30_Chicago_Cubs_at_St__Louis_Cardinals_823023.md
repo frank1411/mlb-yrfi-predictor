@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ St. Louis Cardinals
 
-**Fecha:** 2026-07-29  
-**Lanzadores:** Matthew Boyd (V) vs Dustin May (L)
+**Fecha:** 2026-07-30  
+**Lanzadores:** Javier Assad (V) vs Andre Pallante (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.2%
+**Probabilidad de que anoten en la primera entrada:** 55.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 29.3% (17/58 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 51.6%
+- **Estadística base YRFI:** 28.8% (17/59 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Javier Assad):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 34.6%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 18.2% (10/55 partidos)
+- **Estadística base YRFI:** 17.9% (10/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Dustin May):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.1%
+- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 32.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-29 15:44:03
+- **Generado el:** 2026-07-30 15:45:39
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Minnesota Twins
+# Análisis YRFI: Miami Marlins @ New York Mets
 
-**Fecha:** 2026-07-29  
-**Lanzadores:** Randy Dobnak (V) vs Joe Ryan (L)
+**Fecha:** 2026-07-30  
+**Lanzadores:** Eury Pérez (V) vs Nolan McLean (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.7%
+**Probabilidad de que anoten en la primera entrada:** 47.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
+### New York Mets (Local)
 - **Estadística base YRFI:** 32.7% (18/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.2%
+- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.2%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 29.1% (16/55 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.7%
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 28.8% (15/52 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-29 15:44:03
+- **Generado el:** 2026-07-30 15:45:39
 - **Fuente de datos:** season_data.json

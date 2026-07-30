@@ -1,0 +1,67 @@
+{
+  "game_pk": 824488,
+  "game_date": "2026-07-30",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Rhett Lowder",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.528301886792452,
+        "ratio": "13/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 22.28,
+    "pitcher": {
+      "name": "Yohan Ramírez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.69230769230769,
+        "ratio": "17/52"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.528301886792452,
+        "tendency": 26.666666666666668,
+        "combined": 25.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.77
+      },
+      "away_team": {
+        "base": 32.69230769230769,
+        "tendency": 6.666666666666667,
+        "combined": 22.28,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 25.6
+      },
+      "game_yrfi_probability": 38.82
+    },
+    "yrfi_probability": 38.82
+  },
+  "metadata": {
+    "generated_at": "2026-07-30T15:45:39.402188",
+    "data_source": "season_data.json"
+  }
+}
