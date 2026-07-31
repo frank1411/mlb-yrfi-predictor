@@ -1,0 +1,67 @@
+{
+  "game_pk": 824892,
+  "game_date": "2026-07-31",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 32.075471698113205,
+        "ratio": "17/53"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 31.45,
+    "pitcher": {
+      "name": "Foster Griffin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.18867924528302,
+        "ratio": "16/53"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.075471698113205,
+        "tendency": 20.0,
+        "combined": 27.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.07
+      },
+      "away_team": {
+        "base": 30.18867924528302,
+        "tendency": 33.33333333333333,
+        "combined": 31.45,
+        "pitcher_impact": 20.0,
+        "adjusted": 28.01
+      },
+      "game_yrfi_probability": 41.74
+    },
+    "yrfi_probability": 41.74
+  },
+  "metadata": {
+    "generated_at": "2026-07-31T15:54:10.232324",
+    "data_source": "season_data.json"
+  }
+}

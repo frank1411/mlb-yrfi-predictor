@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Atlanta Braves
 
-**Fecha:** 2026-07-30  
-**Lanzadores:** Jake Irvin (V) vs Grant Holmes (L)
+**Fecha:** 2026-07-31  
+**Lanzadores:** Foster Griffin (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.0%
+**Probabilidad de que anoten en la primera entrada:** 41.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 32.7% (17/52 partidos)
+- **Estadística base YRFI:** 32.1% (17/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 34.3%
+- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 30.8% (16/52 partidos)
+- **Estadística base YRFI:** 30.2% (16/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 28.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-30 15:45:39
+- **Generado el:** 2026-07-31 15:54:10
 - **Fuente de datos:** season_data.json

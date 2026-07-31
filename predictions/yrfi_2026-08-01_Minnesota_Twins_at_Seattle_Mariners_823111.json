@@ -1,0 +1,67 @@
+{
+  "game_pk": 823111,
+  "game_date": "2026-08-01",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.075471698113205,
+        "ratio": "17/53"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 33.31,
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 37.735849056603776,
+        "ratio": "20/53"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.075471698113205,
+        "tendency": 0.0,
+        "combined": 19.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.47
+      },
+      "away_team": {
+        "base": 37.735849056603776,
+        "tendency": 26.666666666666668,
+        "combined": 33.31,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.32
+      },
+      "game_yrfi_probability": 33.65
+    },
+    "yrfi_probability": 33.65
+  },
+  "metadata": {
+    "generated_at": "2026-07-31T15:54:10.254069",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822782,
+  "game_date": "2026-07-31",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.785714285714285,
+        "ratio": "15/56"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 31.48,
+    "pitcher": {
+      "name": "Kyle Leahy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.69387755102041,
+        "ratio": "17/49"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.785714285714285,
+        "tendency": 20.0,
+        "combined": 24.07,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.85
+      },
+      "away_team": {
+        "base": 34.69387755102041,
+        "tendency": 26.666666666666668,
+        "combined": 31.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.04
+      },
+      "game_yrfi_probability": 35.18
+    },
+    "yrfi_probability": 35.18
+  },
+  "metadata": {
+    "generated_at": "2026-07-31T15:54:10.213650",
+    "data_source": "season_data.json"
+  }
+}

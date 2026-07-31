@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Minnesota Twins
+# Análisis YRFI: Kansas City Royals @ Colorado Rockies
 
-**Fecha:** 2026-07-30  
-**Lanzadores:** Noah Cameron (V) vs Bailey Ober (L)
+**Fecha:** 2026-08-01  
+**Lanzadores:** Michael Wacha (V) vs Tomoyuki Sugano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.3%
+**Probabilidad de que anoten en la primera entrada:** 50.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 32.1% (18/56 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 45.3% (24/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.0%
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 26.5%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 28.6% (16/56 partidos)
+- **Estadística base YRFI:** 28.1% (16/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 32.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-30 15:45:39
+- **Generado el:** 2026-07-31 15:54:10
 - **Fuente de datos:** season_data.json

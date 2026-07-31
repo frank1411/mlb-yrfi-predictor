@@ -1,0 +1,67 @@
+{
+  "game_pk": 824651,
+  "game_date": "2026-07-31",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.69230769230769,
+        "ratio": "17/52"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 24.0,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 26.666666666666668,
+        "ratio": "16/60"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.69230769230769,
+        "tendency": 53.333333333333336,
+        "combined": 40.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.66
+      },
+      "away_team": {
+        "base": 26.666666666666668,
+        "tendency": 20.0,
+        "combined": 24.0,
+        "pitcher_impact": 25.0,
+        "adjusted": 24.3
+      },
+      "game_yrfi_probability": 46.0
+    },
+    "yrfi_probability": 46.0
+  },
+  "metadata": {
+    "generated_at": "2026-07-31T15:54:10.196013",
+    "data_source": "season_data.json"
+  }
+}

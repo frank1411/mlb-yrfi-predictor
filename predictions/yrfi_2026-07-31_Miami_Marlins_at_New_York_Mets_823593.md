@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ New York Mets
 
-**Fecha:** 2026-07-30  
-**Lanzadores:** Eury Pérez (V) vs Nolan McLean (L)
+**Fecha:** 2026-07-31  
+**Lanzadores:** Janson Junk (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.3%
+**Probabilidad de que anoten en la primera entrada:** 49.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 32.7% (18/55 partidos)
+- **Estadística base YRFI:** 32.1% (18/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.2%
+- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 36.0%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 28.8% (15/52 partidos)
+- **Estadística base YRFI:** 28.3% (15/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 23.4%
+- **Impacto del lanzador local (New York Mets - Freddy Peralta):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 21.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-30 15:45:39
+- **Generado el:** 2026-07-31 15:54:10
 - **Fuente de datos:** season_data.json

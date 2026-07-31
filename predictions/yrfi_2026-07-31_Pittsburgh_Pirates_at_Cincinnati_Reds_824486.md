@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Cincinnati Reds
 
-**Fecha:** 2026-07-30  
-**Lanzadores:** Yohan Ramírez (V) vs Rhett Lowder (L)
+**Fecha:** 2026-07-31  
+**Lanzadores:** Paul Skenes (V) vs Hunter Greene (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.8%
+**Probabilidad de que anoten en la primera entrada:** 38.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 24.5% (13/53 partidos)
+- **Estadística base YRFI:** 24.1% (13/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Yohan Ramírez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.8%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.6%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 32.7% (17/52 partidos)
+- **Estadística base YRFI:** 32.1% (17/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Rhett Lowder):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-30 15:45:39
+- **Generado el:** 2026-07-31 15:54:10
 - **Fuente de datos:** season_data.json
