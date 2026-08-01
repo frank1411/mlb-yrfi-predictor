@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Cincinnati Reds
 
-**Fecha:** 2026-07-31  
-**Lanzadores:** Paul Skenes (V) vs Hunter Greene (L)
+**Fecha:** 2026-08-01  
+**Lanzadores:** Braxton Ashcraft (V) vs Andrew Abbott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.7%
+**Probabilidad de que anoten en la primera entrada:** 47.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 24.1% (13/54 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 27.6%
+- **Estadística base YRFI:** 25.5% (14/55 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.0%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 32.1% (17/53 partidos)
+- **Estadística base YRFI:** 33.3% (18/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Hunter Greene):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 60.0% (3/5 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json

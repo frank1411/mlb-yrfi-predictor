@@ -1,0 +1,67 @@
+{
+  "game_pk": 823109,
+  "game_date": "2026-08-01",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 83.33333333333334,
+      "yrfi_ratio": "5/6"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "18/54"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 30.22,
+    "pitcher": {
+      "name": "Connor Prielipp",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 37.03703703703704,
+        "ratio": "20/54"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 6.666666666666667,
+        "combined": 22.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 45.87
+      },
+      "away_team": {
+        "base": 37.03703703703704,
+        "tendency": 20.0,
+        "combined": 30.22,
+        "pitcher_impact": 83.33333333333334,
+        "adjusted": 46.16
+      },
+      "game_yrfi_probability": 70.86
+    },
+    "yrfi_probability": 70.86
+  },
+  "metadata": {
+    "generated_at": "2026-08-01T14:51:52.210721",
+    "data_source": "season_data.json"
+  }
+}

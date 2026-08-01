@@ -1,0 +1,67 @@
+{
+  "game_pk": 824485,
+  "game_date": "2026-08-01",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.454545454545453,
+        "ratio": "14/55"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 22.67,
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "18/54"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.454545454545453,
+        "tendency": 33.33333333333333,
+        "combined": 28.61,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.02
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 6.666666666666667,
+        "combined": 22.67,
+        "pitcher_impact": 60.0,
+        "adjusted": 33.87
+      },
+      "game_yrfi_probability": 47.11
+    },
+    "yrfi_probability": 47.11
+  },
+  "metadata": {
+    "generated_at": "2026-08-01T14:51:52.223827",
+    "data_source": "season_data.json"
+  }
+}

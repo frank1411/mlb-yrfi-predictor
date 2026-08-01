@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ New York Mets
 
-**Fecha:** 2026-07-31  
-**Lanzadores:** Janson Junk (V) vs Freddy Peralta (L)
+**Fecha:** 2026-08-01  
+**Lanzadores:** Tyler Phillips (V) vs Zac Thornton (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.8%
+**Probabilidad de que anoten en la primera entrada:** 32.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 32.1% (18/56 partidos)
+- **Estadística base YRFI:** 31.6% (18/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.0%
+- **Impacto del lanzador visitante (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 28.3% (15/53 partidos)
+- **Estadística base YRFI:** 27.8% (15/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (New York Mets - Freddy Peralta):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 21.6%
+- **Impacto del lanzador local (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json

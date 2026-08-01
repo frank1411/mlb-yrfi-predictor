@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Atlanta Braves
+# Análisis YRFI: Chicago White Sox @ Tampa Bay Rays
 
-**Fecha:** 2026-07-31  
-**Lanzadores:** Foster Griffin (V) vs Bryce Elder (L)
+**Fecha:** 2026-08-01  
+**Lanzadores:** Jordan Hicks (V) vs Drew Rasmussen (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.7%
+**Probabilidad de que anoten en la primera entrada:** 40.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 32.1% (17/53 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 38.6% (22/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Foster Griffin):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador visitante (Chicago White Sox - Jordan Hicks):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.8%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 30.2% (16/53 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 35.2% (19/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador local (Tampa Bay Rays - Drew Rasmussen):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 24.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824162,
+  "game_date": "2026-08-01",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Ronel Blanco",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 38.88888888888889,
+        "ratio": "21/54"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 37.61,
+    "pitcher": {
+      "name": "Jacob deGrom",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "18/57"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.88888888888889,
+        "tendency": 26.666666666666668,
+        "combined": 34.0,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 33.8
+      },
+      "away_team": {
+        "base": 31.57894736842105,
+        "tendency": 46.666666666666664,
+        "combined": 37.61,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.33
+      },
+      "game_yrfi_probability": 51.23
+    },
+    "yrfi_probability": 51.23
+  },
+  "metadata": {
+    "generated_at": "2026-08-01T14:51:52.234987",
+    "data_source": "season_data.json"
+  }
+}

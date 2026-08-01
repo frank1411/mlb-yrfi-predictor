@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Chicago Cubs
 
-**Fecha:** 2026-07-31  
-**Lanzadores:** Will Warren (V) vs Shota Imanaga (L)
+**Fecha:** 2026-08-01  
+**Lanzadores:** Max Fried (V) vs David Peterson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.0%
+**Probabilidad de que anoten en la primera entrada:** 54.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 32.7% (17/52 partidos)
+- **Estadística base YRFI:** 32.1% (17/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 28.7%
+- **Impacto del lanzador visitante (New York Yankees - Max Fried):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 26.7% (16/60 partidos)
+- **Estadística base YRFI:** 26.2% (16/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 24.3%
+- **Impacto del lanzador local (Chicago Cubs - David Peterson):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 36.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json

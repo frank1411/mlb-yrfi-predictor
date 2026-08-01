@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Athletics
 
-**Fecha:** 2026-08-01  
-**Lanzadores:** Por anunciar (V) vs Jeffrey Springs (L)
+**Fecha:** 2026-08-02  
+**Lanzadores:** Framber Valdez (V) vs Jack Perkins (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 66.5%
+**Probabilidad de que anoten en la primera entrada:** 51.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 33.3% (18/54 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 34.6%
+- **Estadística base YRFI:** 34.5% (19/55 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 34.0%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 40.4% (21/52 partidos)
+- **Estadística base YRFI:** 39.6% (21/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 48.8%
+- **Impacto del lanzador local (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json

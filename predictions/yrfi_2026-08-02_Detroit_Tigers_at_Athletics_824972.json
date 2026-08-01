@@ -1,0 +1,67 @@
+{
+  "game_pk": 824972,
+  "game_date": "2026-08-02",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jack Perkins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.54545454545455,
+        "ratio": "19/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 37.11,
+    "pitcher": {
+      "name": "Framber Valdez",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 39.62264150943396,
+        "ratio": "21/53"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.54545454545455,
+        "tendency": 26.666666666666668,
+        "combined": 31.39,
+        "pitcher_impact": 40.0,
+        "adjusted": 33.98
+      },
+      "away_team": {
+        "base": 39.62264150943396,
+        "tendency": 33.33333333333333,
+        "combined": 37.11,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.97
+      },
+      "game_yrfi_probability": 51.13
+    },
+    "yrfi_probability": 51.13
+  },
+  "metadata": {
+    "generated_at": "2026-08-01T14:51:52.268990",
+    "data_source": "season_data.json"
+  }
+}

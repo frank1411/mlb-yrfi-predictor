@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Houston Astros
 
 **Fecha:** 2026-08-01  
-**Lanzadores:** Nathan Eovaldi (V) vs Hunter Brown (L)
+**Lanzadores:** Jacob deGrom (V) vs Ronel Blanco (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.8%
+**Probabilidad de que anoten en la primera entrada:** 51.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 39.6% (21/53 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 41.0%
+- **Estadística base YRFI:** 38.9% (21/54 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.8%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 32.1% (18/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Hunter Brown):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Estadística base YRFI:** 31.6% (18/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Ronel Blanco):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json

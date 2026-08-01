@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Los Angeles Angels
 
-**Fecha:** 2026-08-01  
-**Lanzadores:** Shane Drohan (V) vs Ryan Johnson (L)
+**Fecha:** 2026-08-02  
+**Lanzadores:** Robert Gasser (V) vs José Soriano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.6%
+**Probabilidad de que anoten en la primera entrada:** 50.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 41.8% (23/55 partidos)
+- **Estadística base YRFI:** 41.1% (23/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Shane Drohan):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 23.1% (12/52 partidos)
+- **Estadística base YRFI:** 22.6% (12/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Ryan Johnson):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador local (Los Angeles Angels - José Soriano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 30.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json

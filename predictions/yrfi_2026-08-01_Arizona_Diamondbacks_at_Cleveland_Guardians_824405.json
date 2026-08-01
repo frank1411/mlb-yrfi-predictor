@@ -1,33 +1,33 @@
 {
-  "game_pk": 824325,
+  "game_pk": 824405,
   "game_date": "2026-08-01",
   "home_team": {
-    "id": "115",
-    "name": "Colorado Rockies",
+    "id": "114",
+    "name": "Cleveland Guardians",
     "pitcher": {
-      "name": "Tomoyuki Sugano",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "2/4"
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 45.28301886792453,
-        "ratio": "24/53"
+        "value": 29.629629629629626,
+        "ratio": "16/54"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
-    "id": "118",
-    "name": "Kansas City Royals",
+    "id": "109",
+    "name": "Arizona Diamondbacks",
     "combined_yrfi_pct": 24.84,
     "pitcher": {
-      "name": "Michael Wacha",
+      "name": "Kohl Drake",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 45.28301886792453,
-        "tendency": 26.666666666666668,
-        "combined": 37.84,
+        "base": 29.629629629629626,
+        "tendency": 33.33333333333333,
+        "combined": 31.11,
         "pitcher_impact": 0.0,
-        "adjusted": 26.49
+        "adjusted": 21.78
       },
       "away_team": {
         "base": 28.07017543859649,
         "tendency": 20.0,
         "combined": 24.84,
-        "pitcher_impact": 50.0,
-        "adjusted": 32.39
+        "pitcher_impact": 0.0,
+        "adjusted": 17.39
       },
-      "game_yrfi_probability": 50.3
+      "game_yrfi_probability": 35.38
     },
-    "yrfi_probability": 50.3
+    "yrfi_probability": 35.38
   },
   "metadata": {
-    "generated_at": "2026-07-31T15:54:10.238940",
+    "generated_at": "2026-08-01T14:51:52.239409",
     "data_source": "season_data.json"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "game_pk": 824651,
-  "game_date": "2026-07-31",
+  "game_pk": 824649,
+  "game_date": "2026-08-01",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Shota Imanaga",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "David Peterson",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
-        "value": 32.69230769230769,
-        "ratio": "17/52"
+        "value": 32.075471698113205,
+        "ratio": "17/53"
       },
       "tendency": {
         "value": 53.333333333333336,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "147",
     "name": "New York Yankees",
-    "combined_yrfi_pct": 24.0,
+    "combined_yrfi_pct": 23.74,
     "pitcher": {
-      "name": "Will Warren",
+      "name": "Max Fried",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/5"
     },
     "stats": {
       "base": {
-        "value": 26.666666666666668,
-        "ratio": "16/60"
+        "value": 26.229508196721312,
+        "ratio": "16/61"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.69230769230769,
+        "base": 32.075471698113205,
         "tendency": 53.333333333333336,
-        "combined": 40.95,
+        "combined": 40.58,
         "pitcher_impact": 0.0,
-        "adjusted": 28.66
+        "adjusted": 28.41
       },
       "away_team": {
-        "base": 26.666666666666668,
+        "base": 26.229508196721312,
         "tendency": 20.0,
-        "combined": 24.0,
-        "pitcher_impact": 25.0,
-        "adjusted": 24.3
+        "combined": 23.74,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 36.62
       },
-      "game_yrfi_probability": 46.0
+      "game_yrfi_probability": 54.63
     },
-    "yrfi_probability": 46.0
+    "yrfi_probability": 54.63
   },
   "metadata": {
-    "generated_at": "2026-07-31T15:54:10.196013",
+    "generated_at": "2026-08-01T14:51:52.248107",
     "data_source": "season_data.json"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823272,
+  "game_pk": 822781,
   "game_date": "2026-08-01",
   "home_team": {
-    "id": "135",
-    "name": "San Diego Padres",
+    "id": "141",
+    "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Bradgley Rodriguez",
+      "name": "Kevin Gausman",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 20.37037037037037,
-        "ratio": "11/54"
+        "value": 26.31578947368421,
+        "ratio": "15/57"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "137",
-    "name": "San Francisco Giants",
-    "combined_yrfi_pct": 23.0,
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 28.4,
     "pitcher": {
-      "name": "Carson Whisenhunt",
+      "name": "Quinn Mathews",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "14/56"
+        "value": 34.0,
+        "ratio": "17/50"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 20.37037037037037,
+        "base": 26.31578947368421,
         "tendency": 13.333333333333334,
-        "combined": 17.56,
+        "combined": 21.12,
         "pitcher_impact": 0.0,
-        "adjusted": 12.29
+        "adjusted": 14.79
       },
       "away_team": {
-        "base": 25.0,
+        "base": 34.0,
         "tendency": 20.0,
-        "combined": 23.0,
+        "combined": 28.4,
         "pitcher_impact": 0.0,
-        "adjusted": 16.1
+        "adjusted": 19.88
       },
-      "game_yrfi_probability": 26.41
+      "game_yrfi_probability": 31.73
     },
-    "yrfi_probability": 26.41
+    "yrfi_probability": 31.73
   },
   "metadata": {
-    "generated_at": "2026-07-31T15:54:10.247569",
+    "generated_at": "2026-08-01T14:51:52.206034",
     "data_source": "season_data.json"
   }
 }

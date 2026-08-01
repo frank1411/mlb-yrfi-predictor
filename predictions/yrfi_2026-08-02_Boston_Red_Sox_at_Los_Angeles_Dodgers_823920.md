@@ -1,7 +1,7 @@
-# Análisis YRFI: Arizona Diamondbacks @ Cleveland Guardians
+# Análisis YRFI: Boston Red Sox @ Los Angeles Dodgers
 
-**Fecha:** 2026-07-31  
-**Lanzadores:** Mitch Bratt (V) vs Tanner Bibee (L)
+**Fecha:** 2026-08-02  
+**Lanzadores:** Payton Tolle (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 28.3% (15/53 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 38.9% (21/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Mitch Bratt):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.4%
+- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 23.8%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 28.6% (16/56 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 18.2% (10/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 25.1%
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json

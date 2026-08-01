@@ -1,0 +1,67 @@
+{
+  "game_pk": 823269,
+  "game_date": "2026-08-02",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.818181818181817,
+        "ratio": "12/55"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 22.74,
+    "pitcher": {
+      "name": "Tyler Mahle",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.561403508771928,
+        "ratio": "14/57"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.818181818181817,
+        "tendency": 20.0,
+        "combined": 21.09,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 24.76
+      },
+      "away_team": {
+        "base": 24.561403508771928,
+        "tendency": 20.0,
+        "combined": 22.74,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.92
+      },
+      "game_yrfi_probability": 36.74
+    },
+    "yrfi_probability": 36.74
+  },
+  "metadata": {
+    "generated_at": "2026-08-01T14:51:52.256474",
+    "data_source": "season_data.json"
+  }
+}

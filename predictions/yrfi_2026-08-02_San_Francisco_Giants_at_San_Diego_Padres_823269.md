@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ San Diego Padres
 
-**Fecha:** 2026-08-01  
-**Lanzadores:** Carson Whisenhunt (V) vs Bradgley Rodriguez (L)
+**Fecha:** 2026-08-02  
+**Lanzadores:** Tyler Mahle (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 26.4%
+**Probabilidad de que anoten en la primera entrada:** 36.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 20.4% (11/54 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Carson Whisenhunt):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 12.3%
+- **Estadística base YRFI:** 21.8% (12/55 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Tyler Mahle):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 24.8%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 25.0% (14/56 partidos)
+- **Estadística base YRFI:** 24.6% (14/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Bradgley Rodriguez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-07-31 15:54:10
+- **Generado el:** 2026-08-01 14:51:52
 - **Fuente de datos:** season_data.json
