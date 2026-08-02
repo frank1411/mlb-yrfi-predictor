@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ San Diego Padres
+# Análisis YRFI: Miami Marlins @ New York Mets
 
 **Fecha:** 2026-08-02  
-**Lanzadores:** Tyler Mahle (V) vs Walker Buehler (L)
+**Lanzadores:** Sandy Alcantara (V) vs Robert Stock (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.7%
+**Probabilidad de que anoten en la primera entrada:** 41.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 21.8% (12/55 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 31.0% (18/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Tyler Mahle):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 24.8%
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.6%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 24.6% (14/57 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 29.1% (16/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 15.9%
+- **Impacto del lanzador local (New York Mets - Robert Stock):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-01 14:51:52
+- **Generado el:** 2026-08-02 14:53:36
 - **Fuente de datos:** season_data.json

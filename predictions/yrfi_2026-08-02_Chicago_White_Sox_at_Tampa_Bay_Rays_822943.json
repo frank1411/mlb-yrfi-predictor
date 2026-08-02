@@ -1,0 +1,67 @@
+{
+  "game_pk": 822943,
+  "game_date": "2026-08-02",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 37.93103448275862,
+        "ratio": "22/58"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 31.39,
+    "pitcher": {
+      "name": "Anthony Kay",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.54545454545455,
+        "ratio": "19/55"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.93103448275862,
+        "tendency": 13.333333333333334,
+        "combined": 28.09,
+        "pitcher_impact": 25.0,
+        "adjusted": 27.16
+      },
+      "away_team": {
+        "base": 34.54545454545455,
+        "tendency": 26.666666666666668,
+        "combined": 31.39,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.98
+      },
+      "game_yrfi_probability": 43.17
+    },
+    "yrfi_probability": 43.17
+  },
+  "metadata": {
+    "generated_at": "2026-08-02T14:53:36.252572",
+    "data_source": "season_data.json"
+  }
+}

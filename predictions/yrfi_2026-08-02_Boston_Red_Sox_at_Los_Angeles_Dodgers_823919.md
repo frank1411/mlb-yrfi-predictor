@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Los Angeles Dodgers
 
 **Fecha:** 2026-08-02  
-**Lanzadores:** Payton Tolle (V) vs Yoshinobu Yamamoto (L)
+**Lanzadores:** Jake Bennett (V) vs Emmet Sheehan (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.6%
+**Probabilidad de que anoten en la primera entrada:** 40.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 38.9% (21/54 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Estadística base YRFI:** 38.2% (21/55 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.6%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 18.2% (10/55 partidos)
+- **Estadística base YRFI:** 19.6% (11/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 20.7%
+- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 23.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-01 14:51:52
+- **Generado el:** 2026-08-02 14:53:36
 - **Fuente de datos:** season_data.json

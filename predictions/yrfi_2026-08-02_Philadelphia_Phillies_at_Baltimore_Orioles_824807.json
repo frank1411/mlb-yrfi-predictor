@@ -1,18 +1,18 @@
 {
-  "game_pk": 824808,
-  "game_date": "2026-08-01",
+  "game_pk": 824807,
+  "game_date": "2026-08-02",
   "home_team": {
     "id": "110",
     "name": "Baltimore Orioles",
     "pitcher": {
-      "name": "Shane Baz",
+      "name": "Kyle Bradish",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 21.052631578947366,
-        "ratio": "12/57"
+        "value": 20.689655172413794,
+        "ratio": "12/58"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
-    "combined_yrfi_pct": 33.94,
+    "combined_yrfi_pct": 33.67,
     "pitcher": {
-      "name": "Cristopher Sánchez",
+      "name": "Zack Wheeler",
       "yrfi_allowed": 50.0,
       "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 25.454545454545453,
-        "ratio": "14/55"
+        "value": 25.0,
+        "ratio": "14/56"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 21.052631578947366,
+        "base": 20.689655172413794,
         "tendency": 26.666666666666668,
-        "combined": 23.3,
+        "combined": 23.08,
         "pitcher_impact": 50.0,
-        "adjusted": 31.31
+        "adjusted": 31.16
       },
       "away_team": {
-        "base": 25.454545454545453,
+        "base": 25.0,
         "tendency": 46.666666666666664,
-        "combined": 33.94,
+        "combined": 33.67,
         "pitcher_impact": 0.0,
-        "adjusted": 23.76
+        "adjusted": 23.57
       },
-      "game_yrfi_probability": 47.63
+      "game_yrfi_probability": 47.39
     },
-    "yrfi_probability": 47.63
+    "yrfi_probability": 47.39
   },
   "metadata": {
-    "generated_at": "2026-08-01T14:51:52.229415",
+    "generated_at": "2026-08-02T14:53:36.231010",
     "data_source": "season_data.json"
   }
 }

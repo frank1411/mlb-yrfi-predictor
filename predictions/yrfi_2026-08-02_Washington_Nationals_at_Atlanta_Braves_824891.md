@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Athletics
+# Análisis YRFI: Washington Nationals @ Atlanta Braves
 
 **Fecha:** 2026-08-02  
-**Lanzadores:** Framber Valdez (V) vs Jack Perkins (L)
+**Lanzadores:** Cade Cavalli (V) vs JR Ritchie (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.1%
+**Probabilidad de que anoten en la primera entrada:** 45.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
+### Atlanta Braves (Local)
 - **Estadística base YRFI:** 34.5% (19/55 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 34.0%
-
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 39.6% (21/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.0%
+- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.8%
+
+### Washington Nationals (Visitante)
+- **Estadística base YRFI:** 29.1% (16/55 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - JR Ritchie):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-01 14:51:52
+- **Generado el:** 2026-08-02 14:53:36
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Cincinnati Reds
 
-**Fecha:** 2026-08-01  
-**Lanzadores:** Braxton Ashcraft (V) vs Andrew Abbott (L)
+**Fecha:** 2026-08-02  
+**Lanzadores:** Mitch Keller (V) vs Chase Burns (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.1%
+**Probabilidad de que anoten en la primera entrada:** 32.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 25.5% (14/55 partidos)
+- **Estadística base YRFI:** 25.0% (14/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.0%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Mitch Keller):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 33.3% (18/54 partidos)
+- **Estadística base YRFI:** 32.7% (18/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 60.0% (3/5 partidos)
-- **Puntuación ajustada:** 33.9%
+- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 15.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-01 14:51:52
+- **Generado el:** 2026-08-02 14:53:36
 - **Fuente de datos:** season_data.json

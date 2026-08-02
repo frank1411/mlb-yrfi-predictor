@@ -1,0 +1,67 @@
+{
+  "game_pk": 822783,
+  "game_date": "2026-08-02",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.862068965517242,
+        "ratio": "15/58"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 28.0,
+    "pitcher": {
+      "name": "Matthew Liberatore",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "17/51"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.862068965517242,
+        "tendency": 13.333333333333334,
+        "combined": 20.85,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.6
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 20.0,
+        "combined": 28.0,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.6
+      },
+      "game_yrfi_probability": 53.96
+    },
+    "yrfi_probability": 53.96
+  },
+  "metadata": {
+    "generated_at": "2026-08-02T14:53:36.239812",
+    "data_source": "season_data.json"
+  }
+}

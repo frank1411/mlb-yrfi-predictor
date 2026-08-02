@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Baltimore Orioles
 
-**Fecha:** 2026-08-01  
-**Lanzadores:** Cristopher Sánchez (V) vs Shane Baz (L)
+**Fecha:** 2026-08-02  
+**Lanzadores:** Zack Wheeler (V) vs Kyle Bradish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.6%
+**Probabilidad de que anoten en la primera entrada:** 47.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 21.1% (12/57 partidos)
+- **Estadística base YRFI:** 20.7% (12/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 31.3%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Zack Wheeler):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 31.2%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.5% (14/55 partidos)
+- **Estadística base YRFI:** 25.0% (14/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 23.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-01 14:51:52
+- **Generado el:** 2026-08-02 14:53:36
 - **Fuente de datos:** season_data.json

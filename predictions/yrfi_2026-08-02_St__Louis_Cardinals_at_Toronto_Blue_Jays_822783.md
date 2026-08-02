@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Toronto Blue Jays
 
-**Fecha:** 2026-08-01  
-**Lanzadores:** Quinn Mathews (V) vs Kevin Gausman (L)
+**Fecha:** 2026-08-02  
+**Lanzadores:** Matthew Liberatore (V) vs Max Scherzer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.7%
+**Probabilidad de que anoten en la primera entrada:** 54.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 26.3% (15/57 partidos)
+- **Estadística base YRFI:** 25.9% (15/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Quinn Mathews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.8%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 29.6%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 34.0% (17/50 partidos)
+- **Estadística base YRFI:** 33.3% (17/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Kevin Gausman):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador local (Toronto Blue Jays - Max Scherzer):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 34.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-01 14:51:52
+- **Generado el:** 2026-08-02 14:53:36
 - **Fuente de datos:** season_data.json

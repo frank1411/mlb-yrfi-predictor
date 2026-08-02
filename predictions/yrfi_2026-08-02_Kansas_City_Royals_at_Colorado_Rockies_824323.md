@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Colorado Rockies
 
 **Fecha:** 2026-08-02  
-**Lanzadores:** Luinder Avila (V) vs Ryan Feltner (L)
+**Lanzadores:** Seth Lugo (V) vs Kyle Freeland (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.3%
+**Probabilidad de que anoten en la primera entrada:** 48.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 46.3% (25/54 partidos)
+- **Estadística base YRFI:** 45.5% (25/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Luinder Avila):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador visitante (Kansas City Royals - Seth Lugo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 38.4%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 27.6% (16/58 partidos)
+- **Estadística base YRFI:** 27.1% (16/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 37.2%
+- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-01 14:51:52
+- **Generado el:** 2026-08-02 14:53:36
 - **Fuente de datos:** season_data.json

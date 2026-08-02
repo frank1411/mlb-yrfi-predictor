@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Los Angeles Angels
 
 **Fecha:** 2026-08-02  
-**Lanzadores:** Robert Gasser (V) vs José Soriano (L)
+**Lanzadores:** Jacob Misiorowski (V) vs Walbert Ureña (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.0%
+**Probabilidad de que anoten en la primera entrada:** 49.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 41.1% (23/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Estadística base YRFI:** 42.1% (24/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 40.8%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 22.6% (12/53 partidos)
+- **Estadística base YRFI:** 22.2% (12/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - José Soriano):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 30.1%
+- **Impacto del lanzador local (Los Angeles Angels - Walbert Ureña):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 14.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-01 14:51:52
+- **Generado el:** 2026-08-02 14:53:36
 - **Fuente de datos:** season_data.json
