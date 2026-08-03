@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Athletics
+# Análisis YRFI: Pittsburgh Pirates @ Milwaukee Brewers
 
-**Fecha:** 2026-08-02  
-**Lanzadores:** Keider Montero (V) vs Gage Jump (L)
+**Fecha:** 2026-08-03  
+**Lanzadores:** Bubba Chandler (V) vs Brandon Sproat (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.5%
+**Probabilidad de que anoten en la primera entrada:** 40.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
+### Milwaukee Brewers (Local)
 - **Estadística base YRFI:** 33.9% (19/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Keider Montero):** 0.0% (0/1 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
 - **Puntuación ajustada:** 19.9%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 40.7% (22/54 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Athletics - Gage Jump):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.3%
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 32.1% (18/56 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador local (Milwaukee Brewers - Brandon Sproat):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-02 14:53:36
+- **Generado el:** 2026-08-03 16:14:18
 - **Fuente de datos:** season_data.json

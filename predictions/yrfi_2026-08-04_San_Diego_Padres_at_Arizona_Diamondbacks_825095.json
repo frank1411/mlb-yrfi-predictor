@@ -1,0 +1,67 @@
+{
+  "game_pk": 825095,
+  "game_date": "2026-08-04",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.9622641509434,
+        "ratio": "18/53"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 21.09,
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.818181818181817,
+        "ratio": "12/55"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.9622641509434,
+        "tendency": 20.0,
+        "combined": 28.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.86
+      },
+      "away_team": {
+        "base": 21.818181818181817,
+        "tendency": 20.0,
+        "combined": 21.09,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.76
+      },
+      "game_yrfi_probability": 43.71
+    },
+    "yrfi_probability": 43.71
+  },
+  "metadata": {
+    "generated_at": "2026-08-03T16:14:18.848754",
+    "data_source": "season_data.json"
+  }
+}

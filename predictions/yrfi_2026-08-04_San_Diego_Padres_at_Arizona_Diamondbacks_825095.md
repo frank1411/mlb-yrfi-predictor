@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Los Angeles Dodgers
+# Análisis YRFI: San Diego Padres @ Arizona Diamondbacks
 
-**Fecha:** 2026-08-02  
-**Lanzadores:** Jake Bennett (V) vs Emmet Sheehan (L)
+**Fecha:** 2026-08-04  
+**Lanzadores:** Michael King (V) vs Brandon Pfaadt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.3%
+**Probabilidad de que anoten en la primera entrada:** 43.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 38.2% (21/55 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 34.0% (18/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 21.6%
+- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.9%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 19.6% (11/56 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 21.8% (12/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Emmet Sheehan):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 23.9%
+- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 29.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-02 14:53:36
+- **Generado el:** 2026-08-03 16:14:18
 - **Fuente de datos:** season_data.json

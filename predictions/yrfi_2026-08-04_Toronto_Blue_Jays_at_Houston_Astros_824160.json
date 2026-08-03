@@ -1,0 +1,67 @@
+{
+  "game_pk": 824160,
+  "game_date": "2026-08-04",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Cristian Javier",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 37.5,
+        "ratio": "21/56"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 16.65,
+    "pitcher": {
+      "name": "Shane Bieber",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 18.867924528301888,
+        "ratio": "10/53"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.5,
+        "tendency": 26.666666666666668,
+        "combined": 33.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.22
+      },
+      "away_team": {
+        "base": 18.867924528301888,
+        "tendency": 13.333333333333334,
+        "combined": 16.65,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.66
+      },
+      "game_yrfi_probability": 32.17
+    },
+    "yrfi_probability": 32.17
+  },
+  "metadata": {
+    "generated_at": "2026-08-03T16:14:18.840401",
+    "data_source": "season_data.json"
+  }
+}

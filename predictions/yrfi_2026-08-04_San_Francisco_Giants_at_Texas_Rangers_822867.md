@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Los Angeles Angels
+# Análisis YRFI: San Francisco Giants @ Texas Rangers
 
-**Fecha:** 2026-08-02  
-**Lanzadores:** Jacob Misiorowski (V) vs Walbert Ureña (L)
+**Fecha:** 2026-08-04  
+**Lanzadores:** Logan Webb (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.6%
+**Probabilidad de que anoten en la primera entrada:** 54.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 42.1% (24/57 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 32.1% (17/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 40.8%
+- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 34.0%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 22.2% (12/54 partidos)
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 23.7% (14/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Walbert Ureña):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 14.9%
+- **Impacto del lanzador local (Texas Rangers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 30.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-02 14:53:36
+- **Generado el:** 2026-08-03 16:14:18
 - **Fuente de datos:** season_data.json
