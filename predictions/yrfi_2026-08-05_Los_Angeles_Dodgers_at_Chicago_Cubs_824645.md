@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Chicago Cubs
 
-**Fecha:** 2026-08-04  
-**Lanzadores:** Por anunciar (V) vs Matthew Boyd (L)
+**Fecha:** 2026-08-05  
+**Lanzadores:** Tarik Skubal (V) vs Javier Assad (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.2%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 32.7% (18/55 partidos)
+- **Estadística base YRFI:** 33.9% (19/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 41.8%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Tarik Skubal):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 39.3%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 25.0% (14/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Estadística base YRFI:** 26.3% (15/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Javier Assad):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 18.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-03 16:14:18
+- **Generado el:** 2026-08-04 16:06:53
 - **Fuente de datos:** season_data.json

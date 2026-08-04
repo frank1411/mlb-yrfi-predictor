@@ -1,0 +1,67 @@
+{
+  "game_pk": 824645,
+  "game_date": "2026-08-05",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Javier Assad",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.92857142857143,
+        "ratio": "19/56"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 26.46,
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "15/57"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.92857142857143,
+        "tendency": 46.666666666666664,
+        "combined": 39.02,
+        "pitcher_impact": 40.0,
+        "adjusted": 39.32
+      },
+      "away_team": {
+        "base": 26.31578947368421,
+        "tendency": 26.666666666666668,
+        "combined": 26.46,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.52
+      },
+      "game_yrfi_probability": 50.56
+    },
+    "yrfi_probability": 50.56
+  },
+  "metadata": {
+    "generated_at": "2026-08-04T16:06:53.991351",
+    "data_source": "season_data.json"
+  }
+}

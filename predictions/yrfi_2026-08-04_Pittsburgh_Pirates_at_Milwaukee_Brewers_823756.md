@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Milwaukee Brewers
 
-**Fecha:** 2026-08-03  
-**Lanzadores:** Bubba Chandler (V) vs Brandon Sproat (L)
+**Fecha:** 2026-08-04  
+**Lanzadores:** Jared Jones (V) vs Logan Henderson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.2%
+**Probabilidad de que anoten en la primera entrada:** 31.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 33.9% (19/56 partidos)
+- **Estadística base YRFI:** 33.3% (19/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Jared Jones):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 32.1% (18/56 partidos)
+- **Estadística base YRFI:** 31.6% (18/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Brandon Sproat):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.4%
+- **Impacto del lanzador local (Milwaukee Brewers - Logan Henderson):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 15.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-03 16:14:18
+- **Generado el:** 2026-08-04 16:06:53
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Houston Astros
 
-**Fecha:** 2026-08-04  
-**Lanzadores:** Shane Bieber (V) vs Cristian Javier (L)
+**Fecha:** 2026-08-05  
+**Lanzadores:** Trey Yesavage (V) vs Hayden Wesneski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.2%
+**Probabilidad de que anoten en la primera entrada:** 58.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 37.5% (21/56 partidos)
+- **Estadística base YRFI:** 36.8% (21/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.2%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Trey Yesavage):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 52.9%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 18.9% (10/53 partidos)
+- **Estadística base YRFI:** 18.5% (10/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Cristian Javier):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 11.7%
+- **Impacto del lanzador local (Houston Astros - Hayden Wesneski):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 11.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-03 16:14:18
+- **Generado el:** 2026-08-04 16:06:53
 - **Fuente de datos:** season_data.json

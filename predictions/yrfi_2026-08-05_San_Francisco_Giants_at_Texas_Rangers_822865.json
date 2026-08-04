@@ -1,0 +1,67 @@
+{
+  "game_pk": 822865,
+  "game_date": "2026-08-05",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.48148148148148,
+        "ratio": "17/54"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 19.33,
+    "pitcher": {
+      "name": "Blade Tidwell",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "14/60"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.48148148148148,
+        "tendency": 40.0,
+        "combined": 34.89,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.42
+      },
+      "away_team": {
+        "base": 23.333333333333332,
+        "tendency": 13.333333333333334,
+        "combined": 19.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.53
+      },
+      "game_yrfi_probability": 34.65
+    },
+    "yrfi_probability": 34.65
+  },
+  "metadata": {
+    "generated_at": "2026-08-04T16:06:53.994640",
+    "data_source": "season_data.json"
+  }
+}

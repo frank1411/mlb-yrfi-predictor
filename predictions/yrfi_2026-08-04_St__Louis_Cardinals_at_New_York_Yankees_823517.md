@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Arizona Diamondbacks
+# Análisis YRFI: St. Louis Cardinals @ New York Yankees
 
 **Fecha:** 2026-08-04  
-**Lanzadores:** Michael King (V) vs Brandon Pfaadt (L)
+**Lanzadores:** Hunter Dobbins (V) vs Ryan Weathers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.7%
+**Probabilidad de que anoten en la primera entrada:** 45.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 40.0% (20/50 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Hunter Dobbins):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.5%
+
+### St. Louis Cardinals (Visitante)
 - **Estadística base YRFI:** 34.0% (18/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.9%
-
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 21.8% (12/55 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 29.8%
+- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 31.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-03 16:14:18
+- **Generado el:** 2026-08-04 16:06:53
 - **Fuente de datos:** season_data.json

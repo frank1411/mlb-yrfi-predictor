@@ -1,0 +1,67 @@
+{
+  "game_pk": 824805,
+  "game_date": "2026-08-04",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.33898305084746,
+        "ratio": "12/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 35.33,
+    "pitcher": {
+      "name": "Grayson Rodriguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.77777777777778,
+        "ratio": "15/54"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 20.33898305084746,
+        "tendency": 26.666666666666668,
+        "combined": 22.87,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.01
+      },
+      "away_team": {
+        "base": 27.77777777777778,
+        "tendency": 46.666666666666664,
+        "combined": 35.33,
+        "pitcher_impact": 50.0,
+        "adjusted": 39.73
+      },
+      "game_yrfi_probability": 49.38
+    },
+    "yrfi_probability": 49.38
+  },
+  "metadata": {
+    "generated_at": "2026-08-04T16:06:53.955342",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823517,
+  "game_date": "2026-08-04",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Ryan Weathers",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.0,
+        "ratio": "20/50"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 28.38,
+    "pitcher": {
+      "name": "Hunter Dobbins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.9622641509434,
+        "ratio": "18/53"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.0,
+        "tendency": 13.333333333333334,
+        "combined": 29.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.53
+      },
+      "away_team": {
+        "base": 33.9622641509434,
+        "tendency": 20.0,
+        "combined": 28.38,
+        "pitcher_impact": 40.0,
+        "adjusted": 31.86
+      },
+      "game_yrfi_probability": 45.85
+    },
+    "yrfi_probability": 45.85
+  },
+  "metadata": {
+    "generated_at": "2026-08-04T16:06:53.975474",
+    "data_source": "season_data.json"
+  }
+}

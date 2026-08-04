@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Texas Rangers
+# Análisis YRFI: Minnesota Twins @ Kansas City Royals
 
 **Fecha:** 2026-08-04  
-**Lanzadores:** Logan Webb (V) vs Por anunciar (L)
+**Lanzadores:** Joe Ryan (V) vs Randy Dobnak (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.2%
+**Probabilidad de que anoten en la primera entrada:** 46.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
+### Kansas City Royals (Local)
 - **Estadística base YRFI:** 32.1% (17/53 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Logan Webb):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 34.0%
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 32.2%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 23.7% (14/59 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 35.7% (20/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 30.6%
+- **Impacto del lanzador local (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-03 16:14:18
+- **Generado el:** 2026-08-04 16:06:53
 - **Fuente de datos:** season_data.json
