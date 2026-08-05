@@ -1,18 +1,18 @@
 {
-  "game_pk": 824321,
+  "game_pk": 824322,
   "game_date": "2026-08-05",
   "home_team": {
     "id": "115",
     "name": "Colorado Rockies",
     "pitcher": {
-      "name": "Gabriel Hughes",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 45.614035087719294,
-        "ratio": "26/57"
+        "value": 46.55172413793103,
+        "ratio": "27/58"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
-    "combined_yrfi_pct": 24.98,
+    "combined_yrfi_pct": 24.67,
     "pitcher": {
-      "name": "Freddy Peralta",
+      "name": "Nick Martinez",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 28.30188679245283,
-        "ratio": "15/53"
+        "value": 27.77777777777778,
+        "ratio": "15/54"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 45.614035087719294,
+        "base": 46.55172413793103,
         "tendency": 33.33333333333333,
-        "combined": 40.7,
+        "combined": 41.26,
         "pitcher_impact": 0.0,
-        "adjusted": 28.49
+        "adjusted": 28.89
       },
       "away_team": {
-        "base": 28.30188679245283,
+        "base": 27.77777777777778,
         "tendency": 20.0,
-        "combined": 24.98,
-        "pitcher_impact": 0.0,
-        "adjusted": 17.49
+        "combined": 24.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.27
       },
-      "game_yrfi_probability": 41.0
+      "game_yrfi_probability": 51.84
     },
-    "yrfi_probability": 41.0
+    "yrfi_probability": 51.84
   },
   "metadata": {
-    "generated_at": "2026-08-04T16:06:54.000970",
+    "generated_at": "2026-08-05T15:54:05.587596",
     "data_source": "season_data.json"
   }
 }

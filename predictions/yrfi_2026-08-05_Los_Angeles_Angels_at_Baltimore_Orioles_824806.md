@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Baltimore Orioles
 
-**Fecha:** 2026-08-04  
-**Lanzadores:** Grayson Rodriguez (V) vs Por anunciar (L)
+**Fecha:** 2026-08-05  
+**Lanzadores:** Reid Detmers (V) vs Trevor Rogers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.4%
+**Probabilidad de que anoten en la primera entrada:** 34.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 20.3% (12/59 partidos)
+- **Estadística base YRFI:** 20.0% (12/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.0%
+- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 27.8% (15/54 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 39.7%
+- **Estadística base YRFI:** 27.3% (15/55 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-04 16:06:53
+- **Generado el:** 2026-08-05 15:54:05
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Philadelphia Phillies
 
-**Fecha:** 2026-08-04  
-**Lanzadores:** Zack Littell (V) vs Jesús Luzardo (L)
+**Fecha:** 2026-08-05  
+**Lanzadores:** Jake Irvin (V) vs Andrew Painter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.2%
+**Probabilidad de que anoten en la primera entrada:** 56.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 41.1% (23/56 partidos)
+- **Estadística base YRFI:** 42.1% (24/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Zack Littell):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 45.3%
+- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 45.8%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 29.8% (17/57 partidos)
+- **Estadística base YRFI:** 29.3% (17/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 20.0%
+- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-04 16:06:53
+- **Generado el:** 2026-08-05 15:54:05
 - **Fuente de datos:** season_data.json

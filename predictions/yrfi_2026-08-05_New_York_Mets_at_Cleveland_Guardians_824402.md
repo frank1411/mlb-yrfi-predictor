@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Cleveland Guardians
 
-**Fecha:** 2026-08-04  
-**Lanzadores:** Sean Manaea (V) vs Joey Cantillo (L)
+**Fecha:** 2026-08-05  
+**Lanzadores:** Christian Scott (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.7%
+**Probabilidad de que anoten en la primera entrada:** 62.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 30.4% (17/56 partidos)
+- **Estadística base YRFI:** 29.8% (17/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Impacto del lanzador visitante (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 51.9%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 22.2% (12/54 partidos)
+- **Estadística base YRFI:** 21.8% (12/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 14.9%
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 22.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-04 16:06:53
+- **Generado el:** 2026-08-05 15:54:05
 - **Fuente de datos:** season_data.json

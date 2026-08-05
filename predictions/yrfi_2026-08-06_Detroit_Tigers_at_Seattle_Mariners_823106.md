@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Seattle Mariners
 
-**Fecha:** 2026-08-05  
-**Lanzadores:** Por anunciar (V) vs Emerson Hancock (L)
+**Fecha:** 2026-08-06  
+**Lanzadores:** Drew Anderson (V) vs Bryan Woo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.3%
+**Probabilidad de que anoten en la primera entrada:** 51.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 35.7% (20/56 partidos)
+- **Estadística base YRFI:** 35.1% (20/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Impacto del lanzador visitante (Detroit Tigers - Drew Anderson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.3%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 41.8% (23/55 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Emerson Hancock):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 30.6%
+- **Estadística base YRFI:** 41.1% (23/56 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 38.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-04 16:06:54
+- **Generado el:** 2026-08-05 15:54:05
 - **Fuente de datos:** season_data.json

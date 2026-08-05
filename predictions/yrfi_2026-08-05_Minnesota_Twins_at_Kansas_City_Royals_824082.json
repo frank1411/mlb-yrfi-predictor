@@ -1,18 +1,18 @@
 {
-  "game_pk": 823756,
-  "game_date": "2026-08-04",
+  "game_pk": 824082,
+  "game_date": "2026-08-05",
   "home_team": {
-    "id": "158",
-    "name": "Milwaukee Brewers",
+    "id": "118",
+    "name": "Kansas City Royals",
     "pitcher": {
-      "name": "Logan Henderson",
+      "name": "Noah Cameron",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
         "value": 33.33333333333333,
-        "ratio": "19/57"
+        "ratio": "18/54"
       },
       "tendency": {
         "value": 20.0,
@@ -21,22 +21,22 @@
     }
   },
   "away_team": {
-    "id": "134",
-    "name": "Pittsburgh Pirates",
-    "combined_yrfi_pct": 21.61,
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 29.05,
     "pitcher": {
-      "name": "Jared Jones",
+      "name": "Dean Kremer",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 31.57894736842105,
-        "ratio": "18/57"
+        "value": 35.08771929824561,
+        "ratio": "20/57"
       },
       "tendency": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 20.0,
+        "ratio": "3/15"
       }
     }
   },
@@ -50,18 +50,18 @@
         "adjusted": 19.6
       },
       "away_team": {
-        "base": 31.57894736842105,
-        "tendency": 6.666666666666667,
-        "combined": 21.61,
+        "base": 35.08771929824561,
+        "tendency": 20.0,
+        "combined": 29.05,
         "pitcher_impact": 0.0,
-        "adjusted": 15.13
+        "adjusted": 20.34
       },
-      "game_yrfi_probability": 31.76
+      "game_yrfi_probability": 35.95
     },
-    "yrfi_probability": 31.76
+    "yrfi_probability": 35.95
   },
   "metadata": {
-    "generated_at": "2026-08-04T16:06:53.987868",
+    "generated_at": "2026-08-05T15:54:05.622172",
     "data_source": "season_data.json"
   }
 }

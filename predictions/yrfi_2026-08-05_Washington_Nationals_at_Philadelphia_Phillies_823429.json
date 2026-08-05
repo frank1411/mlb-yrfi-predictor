@@ -1,18 +1,18 @@
 {
-  "game_pk": 823432,
-  "game_date": "2026-08-04",
+  "game_pk": 823429,
+  "game_date": "2026-08-05",
   "home_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Jesús Luzardo",
+      "name": "Andrew Painter",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 41.07142857142857,
-        "ratio": "23/56"
+        "value": 42.10526315789473,
+        "ratio": "24/57"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "120",
     "name": "Washington Nationals",
-    "combined_yrfi_pct": 28.56,
+    "combined_yrfi_pct": 28.25,
     "pitcher": {
-      "name": "Zack Littell",
+      "name": "Jake Irvin",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 29.82456140350877,
-        "ratio": "17/57"
+        "value": 29.310344827586203,
+        "ratio": "17/58"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 41.07142857142857,
+        "base": 42.10526315789473,
         "tendency": 46.666666666666664,
-        "combined": 43.31,
+        "combined": 43.93,
         "pitcher_impact": 50.0,
-        "adjusted": 45.32
+        "adjusted": 45.75
       },
       "away_team": {
-        "base": 29.82456140350877,
+        "base": 29.310344827586203,
         "tendency": 26.666666666666668,
-        "combined": 28.56,
+        "combined": 28.25,
         "pitcher_impact": 0.0,
-        "adjusted": 19.99
+        "adjusted": 19.78
       },
-      "game_yrfi_probability": 56.25
+      "game_yrfi_probability": 56.48
     },
-    "yrfi_probability": 56.25
+    "yrfi_probability": 56.48
   },
   "metadata": {
-    "generated_at": "2026-08-04T16:06:53.972440",
+    "generated_at": "2026-08-05T15:54:05.604674",
     "data_source": "season_data.json"
   }
 }

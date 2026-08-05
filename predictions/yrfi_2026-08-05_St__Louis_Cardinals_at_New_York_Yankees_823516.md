@@ -1,25 +1,25 @@
-# Análisis YRFI: Minnesota Twins @ Kansas City Royals
+# Análisis YRFI: St. Louis Cardinals @ New York Yankees
 
-**Fecha:** 2026-08-04  
-**Lanzadores:** Joe Ryan (V) vs Randy Dobnak (L)
+**Fecha:** 2026-08-05  
+**Lanzadores:** Andre Pallante (V) vs Will Warren (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.2%
+**Probabilidad de que anoten en la primera entrada:** 55.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 32.1% (17/53 partidos)
+### New York Yankees (Local)
+- **Estadística base YRFI:** 39.2% (20/51 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Joe Ryan):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Andre Pallante):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 40.2%
 
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 35.7% (20/56 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 33.3% (18/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.6%
+- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 25.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-04 16:06:53
+- **Generado el:** 2026-08-05 15:54:05
 - **Fuente de datos:** season_data.json

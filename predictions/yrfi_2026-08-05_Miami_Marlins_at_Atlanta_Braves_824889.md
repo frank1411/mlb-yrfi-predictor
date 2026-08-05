@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Atlanta Braves
 
-**Fecha:** 2026-08-04  
-**Lanzadores:** Ryan Gusto (V) vs Grant Holmes (L)
+**Fecha:** 2026-08-05  
+**Lanzadores:** Eury Pérez (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.0%
+**Probabilidad de que anoten en la primera entrada:** 47.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 33.9% (19/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Estadística base YRFI:** 33.3% (19/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.5%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 28.6% (16/56 partidos)
+- **Estadística base YRFI:** 28.1% (16/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.6%
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 23.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-04 16:06:53
+- **Generado el:** 2026-08-05 15:54:05
 - **Fuente de datos:** season_data.json

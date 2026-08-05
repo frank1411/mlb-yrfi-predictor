@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Texas Rangers
 
 **Fecha:** 2026-08-05  
-**Lanzadores:** Blade Tidwell (V) vs MacKenzie Gore (L)
+**Lanzadores:** Carson Whisenhunt (V) vs Cody Bradford (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.6%
+**Probabilidad de que anoten en la primera entrada:** 36.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 31.5% (17/54 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Blade Tidwell):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.4%
+- **Estadística base YRFI:** 32.7% (18/55 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Carson Whisenhunt):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 23.3% (14/60 partidos)
+- **Estadística base YRFI:** 23.0% (14/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 13.5%
+- **Impacto del lanzador local (Texas Rangers - Cody Bradford):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 13.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-04 16:06:53
+- **Generado el:** 2026-08-05 15:54:05
 - **Fuente de datos:** season_data.json

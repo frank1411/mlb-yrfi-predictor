@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Cincinnati Reds
 
-**Fecha:** 2026-08-04  
-**Lanzadores:** J.T. Ginn (V) vs Brady Singer (L)
+**Fecha:** 2026-08-05  
+**Lanzadores:** Jacob Lopez (V) vs Rhett Lowder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.5%
+**Probabilidad de que anoten en la primera entrada:** 54.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 26.3% (15/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Estadística base YRFI:** 25.9% (15/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 40.2%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 20.0% (11/55 partidos)
+- **Estadística base YRFI:** 19.6% (11/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Impacto del lanzador local (Cincinnati Reds - Rhett Lowder):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 23.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-04 16:06:53
+- **Generado el:** 2026-08-05 15:54:05
 - **Fuente de datos:** season_data.json
