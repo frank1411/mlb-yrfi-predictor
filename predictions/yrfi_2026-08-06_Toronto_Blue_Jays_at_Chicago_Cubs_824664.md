@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Texas Rangers
+# Análisis YRFI: Toronto Blue Jays @ Chicago Cubs
 
-**Fecha:** 2026-08-05  
-**Lanzadores:** Carson Whisenhunt (V) vs Cody Bradford (L)
+**Fecha:** 2026-08-06  
+**Lanzadores:** Dylan Cease (V) vs David Peterson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.6%
+**Probabilidad de que anoten en la primera entrada:** 65.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 32.7% (18/55 partidos)
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 34.5% (20/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Carson Whisenhunt):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.8%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 50.0%
 
-### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 23.0% (14/61 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 17.9% (10/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Cody Bradford):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 13.4%
+- **Impacto del lanzador local (Chicago Cubs - David Peterson):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 31.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-05 15:54:05
+- **Generado el:** 2026-08-06 16:01:39
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 825052,
-  "game_date": "2026-08-06",
+  "game_pk": 825053,
+  "game_date": "2026-08-07",
   "home_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
     "pitcher": {
-      "name": "Mitch Bratt",
+      "name": "Kohl Drake",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.72727272727273,
-        "ratio": "18/55"
+        "value": 32.142857142857146,
+        "ratio": "18/56"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "135",
     "name": "San Diego Padres",
-    "combined_yrfi_pct": 24.35,
+    "combined_yrfi_pct": 24.11,
     "pitcher": {
-      "name": "Casey Mize",
+      "name": "Walker Buehler",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 22.807017543859647,
-        "ratio": "13/57"
+        "value": 22.413793103448278,
+        "ratio": "13/58"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.72727272727273,
+        "base": 32.142857142857146,
         "tendency": 20.0,
-        "combined": 27.64,
+        "combined": 27.29,
         "pitcher_impact": 0.0,
-        "adjusted": 19.35
+        "adjusted": 19.1
       },
       "away_team": {
-        "base": 22.807017543859647,
+        "base": 22.413793103448278,
         "tendency": 26.666666666666668,
-        "combined": 24.35,
+        "combined": 24.11,
         "pitcher_impact": 0.0,
-        "adjusted": 17.05
+        "adjusted": 16.88
       },
-      "game_yrfi_probability": 33.1
+      "game_yrfi_probability": 32.76
     },
-    "yrfi_probability": 33.1
+    "yrfi_probability": 32.76
   },
   "metadata": {
-    "generated_at": "2026-08-05T15:54:05.630728",
+    "generated_at": "2026-08-06T16:01:39.748126",
     "data_source": "season_data.json"
   }
 }

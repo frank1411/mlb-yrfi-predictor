@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Philadelphia Phillies
 
-**Fecha:** 2026-08-05  
-**Lanzadores:** Jake Irvin (V) vs Andrew Painter (L)
+**Fecha:** 2026-08-06  
+**Lanzadores:** Miles Mikolas (V) vs Cristopher Sánchez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.5%
+**Probabilidad de que anoten en la primera entrada:** 48.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 42.1% (24/57 partidos)
+- **Estadística base YRFI:** 41.4% (24/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 45.8%
+- **Impacto del lanzador visitante (Washington Nationals - Miles Mikolas):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 30.4%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 29.3% (17/58 partidos)
+- **Estadística base YRFI:** 30.5% (18/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 26.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-05 15:54:05
+- **Generado el:** 2026-08-06 16:01:39
 - **Fuente de datos:** season_data.json

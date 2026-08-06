@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Cleveland Guardians
 
-**Fecha:** 2026-08-05  
-**Lanzadores:** Christian Scott (V) vs Tanner Bibee (L)
+**Fecha:** 2026-08-06  
+**Lanzadores:** Nolan McLean (V) vs Foster Griffin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.6%
+**Probabilidad de que anoten en la primera entrada:** 54.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 29.8% (17/57 partidos)
+- **Estadística base YRFI:** 29.3% (17/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 51.9%
+- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 41.6%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 21.8% (12/55 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Estadística base YRFI:** 21.4% (12/56 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Foster Griffin):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 22.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-05 15:54:05
+- **Generado el:** 2026-08-06 16:01:39
 - **Fuente de datos:** season_data.json

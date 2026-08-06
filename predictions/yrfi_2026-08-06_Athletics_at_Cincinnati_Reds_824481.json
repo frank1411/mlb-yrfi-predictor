@@ -1,0 +1,67 @@
+{
+  "game_pk": 824481,
+  "game_date": "2026-08-06",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.423728813559322,
+        "ratio": "15/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 20.63,
+    "pitcher": {
+      "name": "Mason Barnett",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "12/57"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.423728813559322,
+        "tendency": 26.666666666666668,
+        "combined": 25.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.14
+      },
+      "away_team": {
+        "base": 21.052631578947366,
+        "tendency": 20.0,
+        "combined": 20.63,
+        "pitcher_impact": 60.0,
+        "adjusted": 32.44
+      },
+      "game_yrfi_probability": 44.7
+    },
+    "yrfi_probability": 44.7
+  },
+  "metadata": {
+    "generated_at": "2026-08-06T16:01:39.711582",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: St. Louis Cardinals @ New York Yankees
+# Análisis YRFI: Minnesota Twins @ Kansas City Royals
 
-**Fecha:** 2026-08-05  
-**Lanzadores:** Andre Pallante (V) vs Will Warren (L)
+**Fecha:** 2026-08-06  
+**Lanzadores:** Bailey Ober (V) vs Michael Wacha (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.5%
+**Probabilidad de que anoten en la primera entrada:** 42.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 39.2% (20/51 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 32.7% (18/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Andre Pallante):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 40.2%
+- **Impacto del lanzador visitante (Minnesota Twins - Bailey Ober):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.5%
 
-### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 33.3% (18/54 partidos)
+### Minnesota Twins (Visitante)
+- **Estadística base YRFI:** 34.5% (20/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-05 15:54:05
+- **Generado el:** 2026-08-06 16:01:39
 - **Fuente de datos:** season_data.json

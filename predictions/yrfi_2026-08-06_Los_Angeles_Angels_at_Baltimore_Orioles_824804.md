@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Baltimore Orioles
 
-**Fecha:** 2026-08-05  
-**Lanzadores:** Reid Detmers (V) vs Trevor Rogers (L)
+**Fecha:** 2026-08-06  
+**Lanzadores:** Ryan Johnson (V) vs Brandon Young (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.9%
+**Probabilidad de que anoten en la primera entrada:** 66.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 20.0% (12/60 partidos)
+- **Estadística base YRFI:** 19.7% (12/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 15.9%
+- **Impacto del lanzador visitante (Los Angeles Angels - Ryan Johnson):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 45.7%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 27.3% (15/55 partidos)
+- **Estadística base YRFI:** 26.8% (15/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 37.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-05 15:54:05
+- **Generado el:** 2026-08-06 16:01:39
 - **Fuente de datos:** season_data.json

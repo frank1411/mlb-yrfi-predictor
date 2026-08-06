@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Milwaukee Brewers
 
-**Fecha:** 2026-08-05  
-**Lanzadores:** Paul Skenes (V) vs Kyle Harrison (L)
+**Fecha:** 2026-08-06  
+**Lanzadores:** Braxton Ashcraft (V) vs Dustin May (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.0%
+**Probabilidad de que anoten en la primera entrada:** 37.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 32.8% (19/58 partidos)
+- **Estadística base YRFI:** 32.2% (19/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.4%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 31.0% (18/58 partidos)
+- **Estadística base YRFI:** 30.5% (18/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Kyle Harrison):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 24.9%
+- **Impacto del lanzador local (Milwaukee Brewers - Dustin May):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 22.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-05 15:54:05
+- **Generado el:** 2026-08-06 16:01:39
 - **Fuente de datos:** season_data.json

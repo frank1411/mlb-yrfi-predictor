@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Seattle Mariners
 
 **Fecha:** 2026-08-06  
-**Lanzadores:** Drew Anderson (V) vs Bryan Woo (L)
+**Lanzadores:** Framber Valdez (V) vs Bryce Miller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.0%
+**Probabilidad de que anoten en la primera entrada:** 49.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 35.1% (20/57 partidos)
+- **Estadística base YRFI:** 34.5% (20/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Drew Anderson):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 32.1%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 41.1% (23/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 38.5%
+- **Estadística base YRFI:** 40.4% (23/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-05 15:54:05
+- **Generado el:** 2026-08-06 16:01:39
 - **Fuente de datos:** season_data.json

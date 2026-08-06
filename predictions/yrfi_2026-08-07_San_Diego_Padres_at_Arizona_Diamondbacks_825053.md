@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Arizona Diamondbacks
 
-**Fecha:** 2026-08-06  
-**Lanzadores:** Casey Mize (V) vs Mitch Bratt (L)
+**Fecha:** 2026-08-07  
+**Lanzadores:** Walker Buehler (V) vs Kohl Drake (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.1%
+**Probabilidad de que anoten en la primera entrada:** 32.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 32.7% (18/55 partidos)
+- **Estadística base YRFI:** 32.1% (18/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Casey Mize):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.4%
+- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 22.8% (13/57 partidos)
+- **Estadística base YRFI:** 22.4% (13/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Mitch Bratt):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.1%
+- **Impacto del lanzador local (Arizona Diamondbacks - Kohl Drake):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-05 15:54:05
+- **Generado el:** 2026-08-06 16:01:39
 - **Fuente de datos:** season_data.json
