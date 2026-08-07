@@ -1,0 +1,67 @@
+{
+  "game_pk": 823836,
+  "game_date": "2026-08-07",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Tyler Phillips",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "19/57"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 31.79,
+    "pitcher": {
+      "name": "George Klassen",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 26.31578947368421,
+        "ratio": "15/57"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 20.0,
+        "combined": 28.0,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.6
+      },
+      "away_team": {
+        "base": 26.31578947368421,
+        "tendency": 40.0,
+        "combined": 31.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.25
+      },
+      "game_yrfi_probability": 60.81
+    },
+    "yrfi_probability": 60.81
+  },
+  "metadata": {
+    "generated_at": "2026-08-07T14:44:41.998877",
+    "data_source": "season_data.json"
+  }
+}

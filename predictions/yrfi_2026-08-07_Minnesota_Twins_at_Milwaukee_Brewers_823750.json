@@ -1,0 +1,67 @@
+{
+  "game_pk": 823750,
+  "game_date": "2026-08-07",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Shane Drohan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "20/60"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 28.34,
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.89830508474576,
+        "ratio": "20/59"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 20.0,
+        "combined": 28.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.6
+      },
+      "away_team": {
+        "base": 33.89830508474576,
+        "tendency": 20.0,
+        "combined": 28.34,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.84
+      },
+      "game_yrfi_probability": 35.55
+    },
+    "yrfi_probability": 35.55
+  },
+  "metadata": {
+    "generated_at": "2026-08-07T14:44:42.005899",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823428,
+  "game_date": "2026-08-07",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 42.3728813559322,
+        "ratio": "25/59"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 19.58,
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 19.298245614035086,
+        "ratio": "11/57"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.3728813559322,
+        "tendency": 53.333333333333336,
+        "combined": 46.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.73
+      },
+      "away_team": {
+        "base": 19.298245614035086,
+        "tendency": 20.0,
+        "combined": 19.58,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.71
+      },
+      "game_yrfi_probability": 41.95
+    },
+    "yrfi_probability": 41.95
+  },
+  "metadata": {
+    "generated_at": "2026-08-07T14:44:41.979222",
+    "data_source": "season_data.json"
+  }
+}

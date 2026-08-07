@@ -1,0 +1,67 @@
+{
+  "game_pk": 823349,
+  "game_date": "2026-08-07",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Carmen Mlodzinski",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "19/57"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 17.96,
+    "pitcher": {
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "12/57"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 6.666666666666667,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "away_team": {
+        "base": 21.052631578947366,
+        "tendency": 13.333333333333334,
+        "combined": 17.96,
+        "pitcher_impact": 50.0,
+        "adjusted": 27.58
+      },
+      "game_yrfi_probability": 39.07
+    },
+    "yrfi_probability": 39.07
+  },
+  "metadata": {
+    "generated_at": "2026-08-07T14:44:41.972227",
+    "data_source": "season_data.json"
+  }
+}

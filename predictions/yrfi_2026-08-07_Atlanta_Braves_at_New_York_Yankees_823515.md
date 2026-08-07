@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Arizona Diamondbacks
+# Análisis YRFI: Atlanta Braves @ New York Yankees
 
 **Fecha:** 2026-08-07  
-**Lanzadores:** Walker Buehler (V) vs Kohl Drake (L)
+**Lanzadores:** Tyler Mahle (V) vs Max Fried (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.8%
+**Probabilidad de que anoten en la primera entrada:** 57.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 32.1% (18/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.1%
+### New York Yankees (Local)
+- **Estadística base YRFI:** 38.5% (20/52 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Tyler Mahle):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.0%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 22.4% (13/58 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 32.1% (18/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Kohl Drake):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.9%
+- **Impacto del lanzador local (New York Yankees - Max Fried):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 41.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-06 16:01:39
+- **Generado el:** 2026-08-07 14:44:41
 - **Fuente de datos:** season_data.json
