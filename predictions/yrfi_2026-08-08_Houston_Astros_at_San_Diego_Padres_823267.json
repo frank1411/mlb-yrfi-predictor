@@ -1,18 +1,18 @@
 {
-  "game_pk": 823266,
+  "game_pk": 823267,
   "game_date": "2026-08-08",
   "home_team": {
     "id": "135",
     "name": "San Diego Padres",
     "pitcher": {
-      "name": "Robbie Ray",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 22.807017543859647,
-        "ratio": "13/57"
+        "value": 22.413793103448278,
+        "ratio": "13/58"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "117",
     "name": "Houston Astros",
-    "combined_yrfi_pct": 26.62,
+    "combined_yrfi_pct": 26.31,
     "pitcher": {
-      "name": "Ronel Blanco",
+      "name": "Peter Lambert",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 31.03448275862069,
-        "ratio": "18/58"
+        "value": 30.508474576271187,
+        "ratio": "18/59"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 22.807017543859647,
+        "base": 22.413793103448278,
         "tendency": 26.666666666666668,
-        "combined": 24.35,
+        "combined": 24.11,
         "pitcher_impact": 0.0,
-        "adjusted": 17.05
+        "adjusted": 16.88
       },
       "away_team": {
-        "base": 31.03448275862069,
+        "base": 30.508474576271187,
         "tendency": 20.0,
-        "combined": 26.62,
-        "pitcher_impact": 25.0,
-        "adjusted": 26.13
+        "combined": 26.31,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.41
       },
-      "game_yrfi_probability": 38.72
+      "game_yrfi_probability": 32.18
     },
-    "yrfi_probability": 38.72
+    "yrfi_probability": 32.18
   },
   "metadata": {
-    "generated_at": "2026-08-07T14:44:42.023038",
+    "generated_at": "2026-08-08T14:22:39.406271",
     "data_source": "season_data.json"
   }
 }

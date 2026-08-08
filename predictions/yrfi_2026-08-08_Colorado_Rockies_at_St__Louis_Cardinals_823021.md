@@ -1,24 +1,24 @@
 # Análisis YRFI: Colorado Rockies @ St. Louis Cardinals
 
 **Fecha:** 2026-08-08  
-**Lanzadores:** Ryan Feltner (V) vs Kyle Leahy (L)
+**Lanzadores:** Kyle Freeland (V) vs Matthew Liberatore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.9%
+**Probabilidad de que anoten en la primera entrada:** 51.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 28.3% (17/60 partidos)
+- **Estadística base YRFI:** 27.9% (17/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Ryan Feltner):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.5%
+- **Impacto del lanzador visitante (Colorado Rockies - Kyle Freeland):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 32.3%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 21.4% (12/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Kyle Leahy):** 33.3% (1/3 partidos)
+- **Estadística base YRFI:** 21.1% (12/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 40.0% (2/5 partidos)
 - **Puntuación ajustada:** 28.3%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-07 14:44:42
+- **Generado el:** 2026-08-08 14:22:39
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Kansas City Royals
 
 **Fecha:** 2026-08-08  
-**Lanzadores:** Por anunciar (V) vs Daniel Lynch IV (L)
+**Lanzadores:** Clay Holmes (V) vs Seth Lugo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.8%
+**Probabilidad de que anoten en la primera entrada:** 50.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 32.1% (18/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Estadística base YRFI:** 33.3% (19/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Clay Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 34.6%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 17.5% (10/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Daniel Lynch IV):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.6%
+- **Estadística base YRFI:** 17.2% (10/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 24.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-07 14:44:42
+- **Generado el:** 2026-08-08 14:22:39
 - **Fuente de datos:** season_data.json

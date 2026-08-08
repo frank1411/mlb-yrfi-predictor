@@ -1,0 +1,67 @@
+{
+  "game_pk": 823834,
+  "game_date": "2026-08-08",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.758620689655174,
+        "ratio": "19/58"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 35.22,
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "16/58"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.758620689655174,
+        "tendency": 20.0,
+        "combined": 27.66,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.36
+      },
+      "away_team": {
+        "base": 27.586206896551722,
+        "tendency": 46.666666666666664,
+        "combined": 35.22,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.65
+      },
+      "game_yrfi_probability": 39.24
+    },
+    "yrfi_probability": 39.24
+  },
+  "metadata": {
+    "generated_at": "2026-08-08T14:22:39.362489",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ San Diego Padres
 
 **Fecha:** 2026-08-08  
-**Lanzadores:** Ronel Blanco (V) vs Robbie Ray (L)
+**Lanzadores:** Peter Lambert (V) vs Michael King (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.7%
+**Probabilidad de que anoten en la primera entrada:** 32.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 22.8% (13/57 partidos)
+- **Estadística base YRFI:** 22.4% (13/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Ronel Blanco):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.1%
+- **Impacto del lanzador visitante (Houston Astros - Peter Lambert):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 16.9%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 31.0% (18/58 partidos)
+- **Estadística base YRFI:** 30.5% (18/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Robbie Ray):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-07 14:44:42
+- **Generado el:** 2026-08-08 14:22:39
 - **Fuente de datos:** season_data.json

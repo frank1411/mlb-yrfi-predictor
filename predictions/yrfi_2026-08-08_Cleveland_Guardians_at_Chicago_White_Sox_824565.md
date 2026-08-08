@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Chicago White Sox
 
-**Fecha:** 2026-08-07  
-**Lanzadores:** Parker Messick (V) vs Noah Schultz (L)
+**Fecha:** 2026-08-08  
+**Lanzadores:** Gavin Williams (V) vs Anthony Kay (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.4%
+**Probabilidad de que anoten en la primera entrada:** 68.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 28.6% (16/56 partidos)
+- **Estadística base YRFI:** 28.1% (16/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.3%
+- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 36.1%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 21.1% (12/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Noah Schultz):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 33.2%
+- **Estadística base YRFI:** 22.4% (13/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Anthony Kay):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 50.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-07 14:44:42
+- **Generado el:** 2026-08-08 14:22:39
 - **Fuente de datos:** season_data.json

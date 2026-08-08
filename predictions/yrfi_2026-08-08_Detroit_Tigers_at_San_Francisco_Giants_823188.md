@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Miami Marlins
+# Análisis YRFI: Detroit Tigers @ San Francisco Giants
 
-**Fecha:** 2026-08-07  
-**Lanzadores:** George Klassen (V) vs Tyler Phillips (L)
+**Fecha:** 2026-08-08  
+**Lanzadores:** Jackson Jobe (V) vs Landen Roupp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.8%
+**Probabilidad de que anoten en la primera entrada:** 39.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 33.3% (19/57 partidos)
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 22.2% (12/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - George Klassen):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 49.6%
+- **Impacto del lanzador visitante (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.9%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 26.3% (15/57 partidos)
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 42.4% (25/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.2%
+- **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 29.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-07 14:44:41
+- **Generado el:** 2026-08-08 14:22:39
 - **Fuente de datos:** season_data.json

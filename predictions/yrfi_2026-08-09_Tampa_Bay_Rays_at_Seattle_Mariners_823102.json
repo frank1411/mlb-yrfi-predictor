@@ -1,13 +1,13 @@
 {
-  "game_pk": 823750,
-  "game_date": "2026-08-07",
+  "game_pk": 823102,
+  "game_date": "2026-08-09",
   "home_team": {
-    "id": "158",
-    "name": "Milwaukee Brewers",
+    "id": "136",
+    "name": "Seattle Mariners",
     "pitcher": {
-      "name": "Shane Drohan",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "George Kirby",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "142",
-    "name": "Minnesota Twins",
-    "combined_yrfi_pct": 28.34,
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 25.14,
     "pitcher": {
-      "name": "Zebby Matthews",
+      "name": "Griffin Jax",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 33.89830508474576,
-        "ratio": "20/59"
+        "value": 28.57142857142857,
+        "ratio": "16/56"
       },
       "tendency": {
         "value": 20.0,
@@ -50,18 +50,18 @@
         "adjusted": 19.6
       },
       "away_team": {
-        "base": 33.89830508474576,
+        "base": 28.57142857142857,
         "tendency": 20.0,
-        "combined": 28.34,
-        "pitcher_impact": 0.0,
-        "adjusted": 19.84
+        "combined": 25.14,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.6
       },
-      "game_yrfi_probability": 35.55
+      "game_yrfi_probability": 45.81
     },
-    "yrfi_probability": 35.55
+    "yrfi_probability": 45.81
   },
   "metadata": {
-    "generated_at": "2026-08-07T14:44:42.005899",
+    "generated_at": "2026-08-08T14:22:39.432988",
     "data_source": "season_data.json"
   }
 }

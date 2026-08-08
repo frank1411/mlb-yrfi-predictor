@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Texas Rangers
 
 **Fecha:** 2026-08-08  
-**Lanzadores:** Shane Baz (V) vs Nathan Eovaldi (L)
+**Lanzadores:** Kyle Bradish (V) vs Jacob deGrom (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.4%
+**Probabilidad de que anoten en la primera entrada:** 51.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 32.1% (18/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 39.7%
+- **Estadística base YRFI:** 31.6% (18/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 28.3% (15/53 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Nathan Eovaldi):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 39.4%
+- **Estadística base YRFI:** 27.8% (15/54 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 37.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-07 14:44:42
+- **Generado el:** 2026-08-08 14:22:39
 - **Fuente de datos:** season_data.json

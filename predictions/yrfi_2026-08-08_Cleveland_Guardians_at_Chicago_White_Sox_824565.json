@@ -1,0 +1,67 @@
+{
+  "game_pk": 824565,
+  "game_date": "2026-08-08",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Anthony Kay",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.07017543859649,
+        "ratio": "16/57"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 29.45,
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.413793103448278,
+        "ratio": "13/58"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.07017543859649,
+        "tendency": 33.33333333333333,
+        "combined": 30.18,
+        "pitcher_impact": 50.0,
+        "adjusted": 36.12
+      },
+      "away_team": {
+        "base": 22.413793103448278,
+        "tendency": 40.0,
+        "combined": 29.45,
+        "pitcher_impact": 100.0,
+        "adjusted": 50.61
+      },
+      "game_yrfi_probability": 68.45
+    },
+    "yrfi_probability": 68.45
+  },
+  "metadata": {
+    "generated_at": "2026-08-08T14:22:39.424367",
+    "data_source": "season_data.json"
+  }
+}

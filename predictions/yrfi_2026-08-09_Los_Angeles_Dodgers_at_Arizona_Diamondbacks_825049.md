@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Arizona Diamondbacks
 
-**Fecha:** 2026-08-08  
-**Lanzadores:** Roki Sasaki (V) vs Merrill Kelly (L)
+**Fecha:** 2026-08-09  
+**Lanzadores:** Yoshinobu Yamamoto (V) vs Brandon Pfaadt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.0%
+**Probabilidad de que anoten en la primera entrada:** 59.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 31.6% (18/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.9%
+- **Estadística base YRFI:** 31.0% (18/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 36.8%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 27.1% (16/59 partidos)
+- **Estadística base YRFI:** 26.7% (16/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Merrill Kelly):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 50.7%
+- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 35.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-07 14:44:42
+- **Generado el:** 2026-08-08 14:22:39
 - **Fuente de datos:** season_data.json

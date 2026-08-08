@@ -1,0 +1,67 @@
+{
+  "game_pk": 823426,
+  "game_date": "2026-08-08",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 41.66666666666667,
+        "ratio": "25/60"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 16.71,
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 18.96551724137931,
+        "ratio": "11/58"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.66666666666667,
+        "tendency": 46.666666666666664,
+        "combined": 43.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 60.57
+      },
+      "away_team": {
+        "base": 18.96551724137931,
+        "tendency": 13.333333333333334,
+        "combined": 16.71,
+        "pitcher_impact": 50.0,
+        "adjusted": 26.7
+      },
+      "game_yrfi_probability": 71.1
+    },
+    "yrfi_probability": 71.1
+  },
+  "metadata": {
+    "generated_at": "2026-08-08T14:22:39.369846",
+    "data_source": "season_data.json"
+  }
+}

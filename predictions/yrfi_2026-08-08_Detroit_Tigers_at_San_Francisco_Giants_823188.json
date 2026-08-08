@@ -1,0 +1,67 @@
+{
+  "game_pk": 823188,
+  "game_date": "2026-08-08",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "12/54"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 41.42,
+    "pitcher": {
+      "name": "Jackson Jobe",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 42.3728813559322,
+        "ratio": "25/59"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.22222222222222,
+        "tendency": 20.0,
+        "combined": 21.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.93
+      },
+      "away_team": {
+        "base": 42.3728813559322,
+        "tendency": 40.0,
+        "combined": 41.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 29.0
+      },
+      "game_yrfi_probability": 39.6
+    },
+    "yrfi_probability": 39.6
+  },
+  "metadata": {
+    "generated_at": "2026-08-08T14:22:39.410558",
+    "data_source": "season_data.json"
+  }
+}

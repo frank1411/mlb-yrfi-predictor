@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ New York Yankees
 
-**Fecha:** 2026-08-07  
-**Lanzadores:** Tyler Mahle (V) vs Max Fried (L)
+**Fecha:** 2026-08-08  
+**Lanzadores:** Chris Sale (V) vs Gerrit Cole (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.5%
+**Probabilidad de que anoten en la primera entrada:** 41.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 38.5% (20/52 partidos)
+- **Estadística base YRFI:** 37.7% (20/53 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Tyler Mahle):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.7%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 32.1% (18/56 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Max Fried):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 41.0%
+- **Estadística base YRFI:** 31.6% (18/57 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-07 14:44:41
+- **Generado el:** 2026-08-08 14:22:39
 - **Fuente de datos:** season_data.json

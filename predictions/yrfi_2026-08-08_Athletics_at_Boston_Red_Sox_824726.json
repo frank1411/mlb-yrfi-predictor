@@ -1,18 +1,18 @@
 {
-  "game_pk": 824727,
-  "game_date": "2026-08-07",
+  "game_pk": 824726,
+  "game_date": "2026-08-08",
   "home_team": {
     "id": "111",
     "name": "Boston Red Sox",
     "pitcher": {
-      "name": "Payton Tolle",
+      "name": "Jake Bennett",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 28.07017543859649,
-        "ratio": "16/57"
+        "value": 27.586206896551722,
+        "ratio": "16/58"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "133",
     "name": "Athletics",
-    "combined_yrfi_pct": 20.41,
+    "combined_yrfi_pct": 20.2,
     "pitcher": {
-      "name": "Jack Perkins",
+      "name": "Gage Jump",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 20.689655172413794,
-        "ratio": "12/58"
+        "value": 20.33898305084746,
+        "ratio": "12/59"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.07017543859649,
+        "base": 27.586206896551722,
         "tendency": 40.0,
-        "combined": 32.84,
+        "combined": 32.55,
         "pitcher_impact": 0.0,
-        "adjusted": 22.99
+        "adjusted": 22.79
       },
       "away_team": {
-        "base": 20.689655172413794,
+        "base": 20.33898305084746,
         "tendency": 20.0,
-        "combined": 20.41,
+        "combined": 20.2,
         "pitcher_impact": 0.0,
-        "adjusted": 14.29
+        "adjusted": 14.14
       },
-      "game_yrfi_probability": 33.99
+      "game_yrfi_probability": 33.71
     },
-    "yrfi_probability": 33.99
+    "yrfi_probability": 33.71
   },
   "metadata": {
-    "generated_at": "2026-08-07T14:44:41.995357",
+    "generated_at": "2026-08-08T14:22:39.354759",
     "data_source": "season_data.json"
   }
 }
