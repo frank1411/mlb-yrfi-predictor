@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Arizona Diamondbacks
 
 **Fecha:** 2026-08-09  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Brandon Pfaadt (L)
+**Lanzadores:** Justin Wrobleski (V) vs Eduardo Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.2%
+**Probabilidad de que anoten en la primera entrada:** 59.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 31.0% (18/58 partidos)
+- **Estadística base YRFI:** 30.5% (18/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 36.8%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Justin Wrobleski):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 36.5%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 26.7% (16/60 partidos)
+- **Estadística base YRFI:** 26.2% (16/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.5%
+- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 35.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-08 14:22:39
+- **Generado el:** 2026-08-09 14:24:18
 - **Fuente de datos:** season_data.json

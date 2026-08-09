@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Kansas City Royals
 
-**Fecha:** 2026-08-08  
-**Lanzadores:** Clay Holmes (V) vs Seth Lugo (L)
+**Fecha:** 2026-08-09  
+**Lanzadores:** Matthew Boyd (V) vs Randy Dobnak (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.3%
+**Probabilidad de que anoten en la primera entrada:** 59.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 33.3% (19/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Clay Holmes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 34.6%
+- **Estadística base YRFI:** 34.5% (20/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 52.0%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 17.2% (10/58 partidos)
+- **Estadística base YRFI:** 16.9% (10/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 24.1%
+- **Impacto del lanzador local (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-08 14:22:39
+- **Generado el:** 2026-08-09 14:24:18
 - **Fuente de datos:** season_data.json

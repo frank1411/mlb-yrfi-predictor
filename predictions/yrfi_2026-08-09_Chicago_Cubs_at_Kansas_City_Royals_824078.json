@@ -1,0 +1,67 @@
+{
+  "game_pk": 824078,
+  "game_date": "2026-08-09",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Randy Dobnak",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.48275862068966,
+        "ratio": "20/58"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 23.5,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 16.94915254237288,
+        "ratio": "10/59"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.48275862068966,
+        "tendency": 26.666666666666668,
+        "combined": 31.36,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.95
+      },
+      "away_team": {
+        "base": 16.94915254237288,
+        "tendency": 33.33333333333333,
+        "combined": 23.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.45
+      },
+      "game_yrfi_probability": 59.85
+    },
+    "yrfi_probability": 59.85
+  },
+  "metadata": {
+    "generated_at": "2026-08-09T14:24:18.393885",
+    "data_source": "season_data.json"
+  }
+}

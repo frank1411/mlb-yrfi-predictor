@@ -1,0 +1,67 @@
+{
+  "game_pk": 823020,
+  "game_date": "2026-08-09",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.03225806451613,
+        "ratio": "18/62"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 26.78,
+    "pitcher": {
+      "name": "Michael Lorenzen",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.413793103448278,
+        "ratio": "13/58"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.03225806451613,
+        "tendency": 20.0,
+        "combined": 25.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.79
+      },
+      "away_team": {
+        "base": 22.413793103448278,
+        "tendency": 33.33333333333333,
+        "combined": 26.78,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.25
+      },
+      "game_yrfi_probability": 39.37
+    },
+    "yrfi_probability": 39.37
+  },
+  "metadata": {
+    "generated_at": "2026-08-09T14:24:18.406847",
+    "data_source": "season_data.json"
+  }
+}

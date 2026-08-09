@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Texas Rangers
 
-**Fecha:** 2026-08-08  
-**Lanzadores:** Kyle Bradish (V) vs Jacob deGrom (L)
+**Fecha:** 2026-08-09  
+**Lanzadores:** Cade Povich (V) vs Kumar Rocker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.5%
+**Probabilidad de que anoten en la primera entrada:** 75.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 31.6% (18/57 partidos)
+- **Estadística base YRFI:** 31.0% (18/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador visitante (Baltimore Orioles - Cade Povich):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 52.4%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 27.8% (15/54 partidos)
+- **Estadística base YRFI:** 29.1% (16/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 37.3%
+- **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 47.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-08 14:22:39
+- **Generado el:** 2026-08-09 14:24:18
 - **Fuente de datos:** season_data.json

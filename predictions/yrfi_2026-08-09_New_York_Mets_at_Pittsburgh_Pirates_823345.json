@@ -1,38 +1,38 @@
 {
-  "game_pk": 823348,
-  "game_date": "2026-08-08",
+  "game_pk": 823345,
+  "game_date": "2026-08-09",
   "home_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Bubba Chandler",
+      "name": "Jared Jones",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.758620689655174,
-        "ratio": "19/58"
+        "value": 33.89830508474576,
+        "ratio": "20/59"
       },
       "tendency": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 13.333333333333334,
+        "ratio": "2/15"
       }
     }
   },
   "away_team": {
     "id": "121",
     "name": "New York Mets",
-    "combined_yrfi_pct": 21.45,
+    "combined_yrfi_pct": 21.22,
     "pitcher": {
-      "name": "Robert Stock",
+      "name": "Sean Manaea",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 22.413793103448278,
-        "ratio": "13/58"
+        "value": 22.033898305084744,
+        "ratio": "13/59"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.758620689655174,
-        "tendency": 6.666666666666667,
-        "combined": 22.32,
+        "base": 33.89830508474576,
+        "tendency": 13.333333333333334,
+        "combined": 25.67,
         "pitcher_impact": 0.0,
-        "adjusted": 15.63
+        "adjusted": 17.97
       },
       "away_team": {
-        "base": 22.413793103448278,
+        "base": 22.033898305084744,
         "tendency": 20.0,
-        "combined": 21.45,
+        "combined": 21.22,
         "pitcher_impact": 0.0,
-        "adjusted": 15.01
+        "adjusted": 14.85
       },
-      "game_yrfi_probability": 28.29
+      "game_yrfi_probability": 30.15
     },
-    "yrfi_probability": 28.29
+    "yrfi_probability": 30.15
   },
   "metadata": {
-    "generated_at": "2026-08-08T14:22:39.377250",
+    "generated_at": "2026-08-09T14:24:18.375320",
     "data_source": "season_data.json"
   }
 }

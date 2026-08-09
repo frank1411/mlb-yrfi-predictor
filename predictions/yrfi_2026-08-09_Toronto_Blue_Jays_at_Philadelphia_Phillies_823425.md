@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Philadelphia Phillies
 
-**Fecha:** 2026-08-08  
-**Lanzadores:** Max Scherzer (V) vs Aaron Nola (L)
+**Fecha:** 2026-08-09  
+**Lanzadores:** Shane Bieber (V) vs Jesús Luzardo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 71.1%
+**Probabilidad de que anoten en la primera entrada:** 37.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 41.7% (25/60 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Max Scherzer):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 60.6%
+- **Estadística base YRFI:** 41.0% (25/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - Shane Bieber):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 19.0% (11/58 partidos)
+- **Estadística base YRFI:** 20.3% (12/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 26.7%
+- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 12.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-08 14:22:39
+- **Generado el:** 2026-08-09 14:24:18
 - **Fuente de datos:** season_data.json

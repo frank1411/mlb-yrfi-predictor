@@ -1,18 +1,18 @@
 {
-  "game_pk": 823188,
-  "game_date": "2026-08-08",
+  "game_pk": 823190,
+  "game_date": "2026-08-09",
   "home_team": {
     "id": "137",
     "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Landen Roupp",
+      "name": "Logan Webb",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 22.22222222222222,
-        "ratio": "12/54"
+        "value": 21.818181818181817,
+        "ratio": "12/55"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "116",
     "name": "Detroit Tigers",
-    "combined_yrfi_pct": 41.42,
+    "combined_yrfi_pct": 41.0,
     "pitcher": {
-      "name": "Jackson Jobe",
+      "name": "Troy Melton",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 42.3728813559322,
-        "ratio": "25/59"
+        "value": 41.66666666666667,
+        "ratio": "25/60"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 22.22222222222222,
+        "base": 21.818181818181817,
         "tendency": 20.0,
-        "combined": 21.33,
+        "combined": 21.09,
         "pitcher_impact": 0.0,
-        "adjusted": 14.93
+        "adjusted": 14.76
       },
       "away_team": {
-        "base": 42.3728813559322,
+        "base": 41.66666666666667,
         "tendency": 40.0,
-        "combined": 41.42,
+        "combined": 41.0,
         "pitcher_impact": 0.0,
-        "adjusted": 29.0
+        "adjusted": 28.7
       },
-      "game_yrfi_probability": 39.6
+      "game_yrfi_probability": 39.22
     },
-    "yrfi_probability": 39.6
+    "yrfi_probability": 39.22
   },
   "metadata": {
-    "generated_at": "2026-08-08T14:22:39.410558",
+    "generated_at": "2026-08-09T14:24:18.415670",
     "data_source": "season_data.json"
   }
 }

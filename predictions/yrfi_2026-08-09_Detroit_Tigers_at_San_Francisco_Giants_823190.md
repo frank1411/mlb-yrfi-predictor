@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ San Francisco Giants
 
-**Fecha:** 2026-08-08  
-**Lanzadores:** Jackson Jobe (V) vs Landen Roupp (L)
+**Fecha:** 2026-08-09  
+**Lanzadores:** Troy Melton (V) vs Logan Webb (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.6%
+**Probabilidad de que anoten en la primera entrada:** 39.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 22.2% (12/54 partidos)
+- **Estadística base YRFI:** 21.8% (12/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.9%
+- **Impacto del lanzador visitante (Detroit Tigers - Troy Melton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.8%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 42.4% (25/59 partidos)
+- **Estadística base YRFI:** 41.7% (25/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 29.0%
+- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 28.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-08 14:22:39
+- **Generado el:** 2026-08-09 14:24:18
 - **Fuente de datos:** season_data.json

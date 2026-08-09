@@ -1,18 +1,18 @@
 {
-  "game_pk": 824726,
-  "game_date": "2026-08-08",
+  "game_pk": 823425,
+  "game_date": "2026-08-09",
   "home_team": {
-    "id": "111",
-    "name": "Boston Red Sox",
+    "id": "143",
+    "name": "Philadelphia Phillies",
     "pitcher": {
-      "name": "Jake Bennett",
+      "name": "Jesús Luzardo",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 27.586206896551722,
-        "ratio": "16/58"
+        "value": 40.98360655737705,
+        "ratio": "25/61"
       },
       "tendency": {
         "value": 40.0,
@@ -21,11 +21,11 @@
     }
   },
   "away_team": {
-    "id": "133",
-    "name": "Athletics",
-    "combined_yrfi_pct": 20.2,
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 17.54,
     "pitcher": {
-      "name": "Gage Jump",
+      "name": "Shane Bieber",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
@@ -35,33 +35,33 @@
         "ratio": "12/59"
       },
       "tendency": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 13.333333333333334,
+        "ratio": "2/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 27.586206896551722,
+        "base": 40.98360655737705,
         "tendency": 40.0,
-        "combined": 32.55,
+        "combined": 40.59,
         "pitcher_impact": 0.0,
-        "adjusted": 22.79
+        "adjusted": 28.41
       },
       "away_team": {
         "base": 20.33898305084746,
-        "tendency": 20.0,
-        "combined": 20.2,
+        "tendency": 13.333333333333334,
+        "combined": 17.54,
         "pitcher_impact": 0.0,
-        "adjusted": 14.14
+        "adjusted": 12.28
       },
-      "game_yrfi_probability": 33.71
+      "game_yrfi_probability": 37.2
     },
-    "yrfi_probability": 33.71
+    "yrfi_probability": 37.2
   },
   "metadata": {
-    "generated_at": "2026-08-08T14:22:39.354759",
+    "generated_at": "2026-08-09T14:24:18.380852",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Boston Red Sox
 
-**Fecha:** 2026-08-08  
-**Lanzadores:** Gage Jump (V) vs Jake Bennett (L)
+**Fecha:** 2026-08-09  
+**Lanzadores:** J.T. Ginn (V) vs Erik Miller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.7%
+**Probabilidad de que anoten en la primera entrada:** 42.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 27.6% (16/58 partidos)
+- **Estadística base YRFI:** 28.8% (17/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Gage Jump):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.8%
+- **Impacto del lanzador visitante (Athletics - J.T. Ginn):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.3%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 20.3% (12/59 partidos)
+- **Estadística base YRFI:** 20.0% (12/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.1%
+- **Impacto del lanzador local (Boston Red Sox - Erik Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-08 14:22:39
+- **Generado el:** 2026-08-09 14:24:18
 - **Fuente de datos:** season_data.json

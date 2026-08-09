@@ -1,18 +1,18 @@
 {
-  "game_pk": 823834,
-  "game_date": "2026-08-08",
+  "game_pk": 823835,
+  "game_date": "2026-08-09",
   "home_team": {
     "id": "146",
     "name": "Miami Marlins",
     "pitcher": {
-      "name": "Sandy Alcantara",
+      "name": "Ryan Gusto",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.758620689655174,
-        "ratio": "19/58"
+        "value": 32.20338983050847,
+        "ratio": "19/59"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "108",
     "name": "Los Angeles Angels",
-    "combined_yrfi_pct": 35.22,
+    "combined_yrfi_pct": 34.94,
     "pitcher": {
-      "name": "Walbert Ureña",
+      "name": "Grayson Rodriguez",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 27.586206896551722,
-        "ratio": "16/58"
+        "value": 27.11864406779661,
+        "ratio": "16/59"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.758620689655174,
+        "base": 32.20338983050847,
         "tendency": 20.0,
-        "combined": 27.66,
+        "combined": 27.32,
         "pitcher_impact": 0.0,
-        "adjusted": 19.36
+        "adjusted": 19.13
       },
       "away_team": {
-        "base": 27.586206896551722,
+        "base": 27.11864406779661,
         "tendency": 46.666666666666664,
-        "combined": 35.22,
+        "combined": 34.94,
         "pitcher_impact": 0.0,
-        "adjusted": 24.65
+        "adjusted": 24.46
       },
-      "game_yrfi_probability": 39.24
+      "game_yrfi_probability": 38.91
     },
-    "yrfi_probability": 39.24
+    "yrfi_probability": 38.91
   },
   "metadata": {
-    "generated_at": "2026-08-08T14:22:39.362489",
+    "generated_at": "2026-08-09T14:24:18.389644",
     "data_source": "season_data.json"
   }
 }

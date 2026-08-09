@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ New York Yankees
 
-**Fecha:** 2026-08-08  
-**Lanzadores:** Chris Sale (V) vs Gerrit Cole (L)
+**Fecha:** 2026-08-09  
+**Lanzadores:** Grant Holmes (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.4%
+**Probabilidad de que anoten en la primera entrada:** 45.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 37.7% (20/53 partidos)
+- **Estadística base YRFI:** 37.0% (20/54 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 27.7%
+- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 32.4%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 31.6% (18/57 partidos)
+- **Estadística base YRFI:** 31.0% (18/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.9%
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-08 14:22:39
+- **Generado el:** 2026-08-09 14:24:18
 - **Fuente de datos:** season_data.json

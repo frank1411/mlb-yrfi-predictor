@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Seattle Mariners
 
 **Fecha:** 2026-08-09  
-**Lanzadores:** Griffin Jax (V) vs George Kirby (L)
+**Lanzadores:** Ian Seymour (V) vs Emerson Hancock (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.8%
+**Probabilidad de que anoten en la primera entrada:** 33.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 33.3% (20/60 partidos)
+- **Estadística base YRFI:** 32.8% (20/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Ian Seymour):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.4%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 28.6% (16/56 partidos)
+- **Estadística base YRFI:** 28.1% (16/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 32.6%
+- **Impacto del lanzador local (Seattle Mariners - Emerson Hancock):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 17.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-08 14:22:39
+- **Generado el:** 2026-08-09 14:24:18
 - **Fuente de datos:** season_data.json
