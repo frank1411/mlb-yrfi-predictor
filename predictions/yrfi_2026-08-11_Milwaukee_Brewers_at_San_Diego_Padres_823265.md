@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Chicago White Sox
+# Análisis YRFI: Milwaukee Brewers @ San Diego Padres
 
-**Fecha:** 2026-08-09  
-**Lanzadores:** Joey Cantillo (V) vs Davis Martin (L)
+**Fecha:** 2026-08-11  
+**Lanzadores:** Logan Henderson (V) vs Casey Mize (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.8%
+**Probabilidad de que anoten en la primera entrada:** 34.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 27.6% (16/58 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 23.3% (14/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.9%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Logan Henderson):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.1%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 22.0% (13/59 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 21.8% (12/55 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 18.6%
+- **Impacto del lanzador local (San Diego Padres - Casey Mize):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-09 14:24:18
+- **Generado el:** 2026-08-10 14:50:05
 - **Fuente de datos:** season_data.json

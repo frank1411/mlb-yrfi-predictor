@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ San Francisco Giants
+# Análisis YRFI: Philadelphia Phillies @ St. Louis Cardinals
 
-**Fecha:** 2026-08-09  
-**Lanzadores:** Troy Melton (V) vs Logan Webb (L)
+**Fecha:** 2026-08-10  
+**Lanzadores:** Andrew Painter (V) vs Hunter Dobbins (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.2%
+**Probabilidad de que anoten en la primera entrada:** 35.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Francisco Giants (Local)
-- **Estadística base YRFI:** 21.8% (12/55 partidos)
+### St. Louis Cardinals (Local)
+- **Estadística base YRFI:** 30.2% (19/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Troy Melton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.8%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Andrew Painter):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.3%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 41.7% (25/60 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 24.6% (14/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 28.7%
+- **Impacto del lanzador local (St. Louis Cardinals - Hunter Dobbins):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-09 14:24:18
+- **Generado el:** 2026-08-10 14:50:05
 - **Fuente de datos:** season_data.json

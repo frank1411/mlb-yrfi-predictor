@@ -1,0 +1,67 @@
+{
+  "game_pk": 823018,
+  "game_date": "2026-08-10",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Hunter Dobbins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 30.158730158730158,
+        "ratio": "19/63"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 30.74,
+    "pitcher": {
+      "name": "Andrew Painter",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.561403508771928,
+        "ratio": "14/57"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.158730158730158,
+        "tendency": 20.0,
+        "combined": 26.1,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.27
+      },
+      "away_team": {
+        "base": 24.561403508771928,
+        "tendency": 40.0,
+        "combined": 30.74,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.52
+      },
+      "game_yrfi_probability": 35.86
+    },
+    "yrfi_probability": 35.86
+  },
+  "metadata": {
+    "generated_at": "2026-08-10T14:50:05.124424",
+    "data_source": "season_data.json"
+  }
+}

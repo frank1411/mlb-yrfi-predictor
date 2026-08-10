@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Miami Marlins
+# Análisis YRFI: New York Mets @ Atlanta Braves
 
-**Fecha:** 2026-08-09  
-**Lanzadores:** Grayson Rodriguez (V) vs Ryan Gusto (L)
+**Fecha:** 2026-08-10  
+**Lanzadores:** Christian Scott (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.9%
+**Probabilidad de que anoten en la primera entrada:** 61.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
+### Atlanta Braves (Local)
 - **Estadística base YRFI:** 32.2% (19/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador visitante (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 49.1%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 27.1% (16/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.5%
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 23.3% (14/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-09 14:24:18
+- **Generado el:** 2026-08-10 14:50:05
 - **Fuente de datos:** season_data.json

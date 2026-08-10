@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Arizona Diamondbacks
+# Análisis YRFI: Boston Red Sox @ Toronto Blue Jays
 
-**Fecha:** 2026-08-09  
-**Lanzadores:** Justin Wrobleski (V) vs Eduardo Rodriguez (L)
+**Fecha:** 2026-08-10  
+**Lanzadores:** Sonny Gray (V) vs Jameson Taillon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.0%
+**Probabilidad de que anoten en la primera entrada:** 60.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 30.5% (18/59 partidos)
+### Toronto Blue Jays (Local)
+- **Estadística base YRFI:** 25.4% (15/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Justin Wrobleski):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 36.5%
+- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 44.4%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 26.2% (16/61 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 21.1% (12/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.4%
+- **Impacto del lanzador local (Toronto Blue Jays - Jameson Taillon):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-09 14:24:18
+- **Generado el:** 2026-08-10 14:50:05
 - **Fuente de datos:** season_data.json

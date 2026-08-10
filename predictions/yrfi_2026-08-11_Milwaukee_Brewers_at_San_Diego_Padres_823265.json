@@ -1,0 +1,67 @@
+{
+  "game_pk": 823265,
+  "game_date": "2026-08-11",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "14/60"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 26.42,
+    "pitcher": {
+      "name": "Logan Henderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 21.818181818181817,
+        "ratio": "12/55"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.333333333333332,
+        "tendency": 33.33333333333333,
+        "combined": 27.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.13
+      },
+      "away_team": {
+        "base": 21.818181818181817,
+        "tendency": 33.33333333333333,
+        "combined": 26.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.5
+      },
+      "game_yrfi_probability": 34.09
+    },
+    "yrfi_probability": 34.09
+  },
+  "metadata": {
+    "generated_at": "2026-08-10T14:50:05.141900",
+    "data_source": "season_data.json"
+  }
+}

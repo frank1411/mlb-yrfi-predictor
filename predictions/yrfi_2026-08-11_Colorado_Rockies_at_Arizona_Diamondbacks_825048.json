@@ -1,18 +1,18 @@
 {
-  "game_pk": 823190,
-  "game_date": "2026-08-09",
+  "game_pk": 825048,
+  "game_date": "2026-08-11",
   "home_team": {
-    "id": "137",
-    "name": "San Francisco Giants",
+    "id": "109",
+    "name": "Arizona Diamondbacks",
     "pitcher": {
-      "name": "Logan Webb",
+      "name": "Michael Soroka",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 21.818181818181817,
-        "ratio": "12/55"
+        "value": 31.666666666666664,
+        "ratio": "19/60"
       },
       "tendency": {
         "value": 20.0,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "116",
-    "name": "Detroit Tigers",
-    "combined_yrfi_pct": 41.0,
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 30.24,
     "pitcher": {
-      "name": "Troy Melton",
+      "name": "Gabriel Hughes",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 41.66666666666667,
-        "ratio": "25/60"
+        "value": 23.728813559322035,
+        "ratio": "14/59"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 21.818181818181817,
+        "base": 31.666666666666664,
         "tendency": 20.0,
-        "combined": 21.09,
+        "combined": 27.0,
         "pitcher_impact": 0.0,
-        "adjusted": 14.76
+        "adjusted": 18.9
       },
       "away_team": {
-        "base": 41.66666666666667,
+        "base": 23.728813559322035,
         "tendency": 40.0,
-        "combined": 41.0,
+        "combined": 30.24,
         "pitcher_impact": 0.0,
-        "adjusted": 28.7
+        "adjusted": 21.17
       },
-      "game_yrfi_probability": 39.22
+      "game_yrfi_probability": 36.07
     },
-    "yrfi_probability": 39.22
+    "yrfi_probability": 36.07
   },
   "metadata": {
-    "generated_at": "2026-08-09T14:24:18.415670",
+    "generated_at": "2026-08-10T14:50:05.133327",
     "data_source": "season_data.json"
   }
 }

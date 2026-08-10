@@ -1,0 +1,67 @@
+{
+  "game_pk": 824969,
+  "game_date": "2026-08-11",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "19/57"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 24.55,
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.586206896551722,
+        "ratio": "16/58"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "away_team": {
+        "base": 27.586206896551722,
+        "tendency": 20.0,
+        "combined": 24.55,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.19
+      },
+      "game_yrfi_probability": 34.97
+    },
+    "yrfi_probability": 34.97
+  },
+  "metadata": {
+    "generated_at": "2026-08-10T14:50:05.137613",
+    "data_source": "season_data.json"
+  }
+}

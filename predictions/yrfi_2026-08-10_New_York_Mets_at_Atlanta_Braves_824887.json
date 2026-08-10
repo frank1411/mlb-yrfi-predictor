@@ -1,0 +1,67 @@
+{
+  "game_pk": 824887,
+  "game_date": "2026-08-10",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 32.20338983050847,
+        "ratio": "19/59"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 24.67,
+    "pitcher": {
+      "name": "Christian Scott",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "14/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.20338983050847,
+        "tendency": 20.0,
+        "combined": 27.32,
+        "pitcher_impact": 100.0,
+        "adjusted": 49.13
+      },
+      "away_team": {
+        "base": 23.333333333333332,
+        "tendency": 26.666666666666668,
+        "combined": 24.67,
+        "pitcher_impact": 20.0,
+        "adjusted": 23.27
+      },
+      "game_yrfi_probability": 60.97
+    },
+    "yrfi_probability": 60.97
+  },
+  "metadata": {
+    "generated_at": "2026-08-10T14:50:05.110581",
+    "data_source": "season_data.json"
+  }
+}

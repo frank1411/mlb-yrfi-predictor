@@ -1,0 +1,67 @@
+{
+  "game_pk": 823675,
+  "game_date": "2026-08-10",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Dean Kremer",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 31.57894736842105,
+        "ratio": "18/57"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 28.88,
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.357142857142854,
+        "ratio": "17/56"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.57894736842105,
+        "tendency": 6.666666666666667,
+        "combined": 21.61,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.13
+      },
+      "away_team": {
+        "base": 30.357142857142854,
+        "tendency": 26.666666666666668,
+        "combined": 28.88,
+        "pitcher_impact": 100.0,
+        "adjusted": 50.22
+      },
+      "game_yrfi_probability": 57.75
+    },
+    "yrfi_probability": 57.75
+  },
+  "metadata": {
+    "generated_at": "2026-08-10T14:50:05.118026",
+    "data_source": "season_data.json"
+  }
+}
