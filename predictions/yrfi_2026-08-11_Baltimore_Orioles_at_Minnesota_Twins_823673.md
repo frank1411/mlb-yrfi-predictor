@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Minnesota Twins
 
-**Fecha:** 2026-08-10  
-**Lanzadores:** Trevor Rogers (V) vs Dean Kremer (L)
+**Fecha:** 2026-08-11  
+**Lanzadores:** Brandon Young (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.8%
+**Probabilidad de que anoten en la primera entrada:** 37.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 31.6% (18/57 partidos)
+- **Estadística base YRFI:** 31.0% (18/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.1%
+- **Impacto del lanzador visitante (Baltimore Orioles - Brandon Young):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 14.9%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 30.4% (17/56 partidos)
+- **Estadística base YRFI:** 29.8% (17/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Dean Kremer):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 50.2%
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 26.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-10 14:50:05
+- **Generado el:** 2026-08-11 14:49:46
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824970,
+  "game_date": "2026-08-12",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Mason Barnett",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.48275862068966,
+        "ratio": "20/58"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 27.95,
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.8135593220339,
+        "ratio": "17/59"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.48275862068966,
+        "tendency": 33.33333333333333,
+        "combined": 34.02,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.82
+      },
+      "away_team": {
+        "base": 28.8135593220339,
+        "tendency": 26.666666666666668,
+        "combined": 27.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.57
+      },
+      "game_yrfi_probability": 38.73
+    },
+    "yrfi_probability": 38.73
+  },
+  "metadata": {
+    "generated_at": "2026-08-11T14:49:46.741441",
+    "data_source": "season_data.json"
+  }
+}

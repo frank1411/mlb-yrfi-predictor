@@ -1,0 +1,67 @@
+{
+  "game_pk": 823186,
+  "game_date": "2026-08-12",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "12/57"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 26.39,
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.64516129032258,
+        "ratio": "19/62"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.052631578947366,
+        "tendency": 13.333333333333334,
+        "combined": 17.96,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.58
+      },
+      "away_team": {
+        "base": 30.64516129032258,
+        "tendency": 20.0,
+        "combined": 26.39,
+        "pitcher_impact": 50.0,
+        "adjusted": 33.47
+      },
+      "game_yrfi_probability": 41.84
+    },
+    "yrfi_probability": 41.84
+  },
+  "metadata": {
+    "generated_at": "2026-08-11T14:49:46.749605",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ San Diego Padres
+# Análisis YRFI: Kansas City Royals @ Los Angeles Dodgers
 
-**Fecha:** 2026-08-11  
-**Lanzadores:** Logan Henderson (V) vs Casey Mize (L)
+**Fecha:** 2026-08-12  
+**Lanzadores:** Michael Wacha (V) vs Blake Snell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.1%
+**Probabilidad de que anoten en la primera entrada:** 40.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 23.3% (14/60 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 36.8% (21/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Logan Henderson):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 24.8%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 21.8% (12/55 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 27.9% (17/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Casey Mize):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 18.5%
+- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-10 14:50:05
+- **Generado el:** 2026-08-11 14:49:46
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 825046,
+  "game_date": "2026-08-12",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Mitch Bratt",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.78688524590164,
+        "ratio": "20/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 30.0,
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "14/60"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.78688524590164,
+        "tendency": 26.666666666666668,
+        "combined": 30.34,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.24
+      },
+      "away_team": {
+        "base": 23.333333333333332,
+        "tendency": 40.0,
+        "combined": 30.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.0
+      },
+      "game_yrfi_probability": 37.78
+    },
+    "yrfi_probability": 37.78
+  },
+  "metadata": {
+    "generated_at": "2026-08-11T14:49:46.737234",
+    "data_source": "season_data.json"
+  }
+}

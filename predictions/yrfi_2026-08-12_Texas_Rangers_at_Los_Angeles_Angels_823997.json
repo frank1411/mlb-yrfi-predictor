@@ -1,0 +1,67 @@
+{
+  "game_pk": 823997,
+  "game_date": "2026-08-12",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Ryan Johnson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 42.3728813559322,
+        "ratio": "25/59"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 26.0,
+    "pitcher": {
+      "name": "Cody Bradford",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "18/60"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 42.3728813559322,
+        "tendency": 53.333333333333336,
+        "combined": 46.76,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.73
+      },
+      "away_team": {
+        "base": 30.0,
+        "tendency": 20.0,
+        "combined": 26.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.2
+      },
+      "game_yrfi_probability": 44.97
+    },
+    "yrfi_probability": 44.97
+  },
+  "metadata": {
+    "generated_at": "2026-08-11T14:49:46.732627",
+    "data_source": "season_data.json"
+  }
+}

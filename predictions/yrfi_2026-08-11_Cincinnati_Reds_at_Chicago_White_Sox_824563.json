@@ -1,18 +1,18 @@
 {
-  "game_pk": 823918,
+  "game_pk": 824563,
   "game_date": "2026-08-11",
   "home_team": {
-    "id": "119",
-    "name": "Los Angeles Dodgers",
+    "id": "145",
+    "name": "Chicago White Sox",
     "pitcher": {
-      "name": "Tarik Skubal",
+      "name": "Sean Burke",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 37.5,
-        "ratio": "21/56"
+        "value": 28.8135593220339,
+        "ratio": "17/59"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "118",
-    "name": "Kansas City Royals",
-    "combined_yrfi_pct": 26.67,
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 27.51,
     "pitcher": {
-      "name": "Noah Cameron",
-      "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "1/3"
+      "name": "Nick Lodolo",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 26.666666666666668,
-        "ratio": "16/60"
+        "value": 28.07017543859649,
+        "ratio": "16/57"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 37.5,
+        "base": 28.8135593220339,
         "tendency": 33.33333333333333,
-        "combined": 35.83,
-        "pitcher_impact": 33.33333333333333,
-        "adjusted": 35.08
+        "combined": 30.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.44
       },
       "away_team": {
-        "base": 26.666666666666668,
+        "base": 28.07017543859649,
         "tendency": 26.666666666666668,
-        "combined": 26.67,
+        "combined": 27.51,
         "pitcher_impact": 0.0,
-        "adjusted": 18.67
+        "adjusted": 19.26
       },
-      "game_yrfi_probability": 47.2
+      "game_yrfi_probability": 36.57
     },
-    "yrfi_probability": 47.2
+    "yrfi_probability": 36.57
   },
   "metadata": {
-    "generated_at": "2026-08-10T14:50:05.150690",
+    "generated_at": "2026-08-11T14:49:46.723744",
     "data_source": "season_data.json"
   }
 }

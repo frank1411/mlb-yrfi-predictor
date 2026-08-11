@@ -1,0 +1,67 @@
+{
+  "game_pk": 823512,
+  "game_date": "2026-08-11",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Ryan Weathers",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "20/55"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 23.3,
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.052631578947366,
+        "ratio": "12/57"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 6.666666666666667,
+        "combined": 24.48,
+        "pitcher_impact": 25.0,
+        "adjusted": 24.64
+      },
+      "away_team": {
+        "base": 21.052631578947366,
+        "tendency": 26.666666666666668,
+        "combined": 23.3,
+        "pitcher_impact": 40.0,
+        "adjusted": 28.31
+      },
+      "game_yrfi_probability": 45.97
+    },
+    "yrfi_probability": 45.97
+  },
+  "metadata": {
+    "generated_at": "2026-08-11T14:49:46.705287",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Toronto Blue Jays
 
-**Fecha:** 2026-08-10  
-**Lanzadores:** Sonny Gray (V) vs Jameson Taillon (L)
+**Fecha:** 2026-08-11  
+**Lanzadores:** Patrick Sandoval (V) vs Dylan Cease (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.1%
+**Probabilidad de que anoten en la primera entrada:** 29.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 25.4% (15/59 partidos)
+- **Estadística base YRFI:** 25.0% (15/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 44.4%
+- **Impacto del lanzador visitante (Boston Red Sox - Patrick Sandoval):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.2%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 21.1% (12/57 partidos)
+- **Estadística base YRFI:** 20.7% (12/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Jameson Taillon):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.2%
+- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-10 14:50:05
+- **Generado el:** 2026-08-11 14:49:46
 - **Fuente de datos:** season_data.json
