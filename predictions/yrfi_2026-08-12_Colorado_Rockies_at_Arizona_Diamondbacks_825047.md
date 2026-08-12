@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Atlanta Braves
+# Análisis YRFI: Colorado Rockies @ Arizona Diamondbacks
 
-**Fecha:** 2026-08-11  
-**Lanzadores:** Nolan McLean (V) vs Martín Pérez (L)
+**Fecha:** 2026-08-12  
+**Lanzadores:** Ryan Feltner (V) vs Merrill Kelly (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.8%
+**Probabilidad de que anoten en la primera entrada:** 60.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 33.3% (20/60 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 33.9% (21/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 41.5%
+- **Impacto del lanzador visitante (Colorado Rockies - Ryan Feltner):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 21.7%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 24.6% (15/61 partidos)
+### Colorado Rockies (Visitante)
+- **Estadística base YRFI:** 23.0% (14/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.7%
+- **Impacto del lanzador local (Arizona Diamondbacks - Merrill Kelly):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 49.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-11 14:49:46
+- **Generado el:** 2026-08-12 14:50:00
 - **Fuente de datos:** season_data.json

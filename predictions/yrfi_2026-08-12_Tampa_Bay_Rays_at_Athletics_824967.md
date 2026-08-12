@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ San Diego Padres
+# Análisis YRFI: Tampa Bay Rays @ Athletics
 
 **Fecha:** 2026-08-12  
-**Lanzadores:** Kyle Harrison (V) vs Walker Buehler (L)
+**Lanzadores:** Drew Rasmussen (V) vs Jack Perkins (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.8%
+**Probabilidad de que anoten en la primera entrada:** 46.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 23.0% (14/61 partidos)
+### Athletics (Local)
+- **Estadística base YRFI:** 33.9% (20/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Kyle Harrison):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.0%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 31.1%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 21.4% (12/56 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 30.0% (18/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 18.3%
+- **Impacto del lanzador local (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-11 14:49:46
+- **Generado el:** 2026-08-12 14:50:00
 - **Fuente de datos:** season_data.json

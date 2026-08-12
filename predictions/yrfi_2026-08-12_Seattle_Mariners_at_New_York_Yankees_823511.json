@@ -1,18 +1,18 @@
 {
-  "game_pk": 823673,
-  "game_date": "2026-08-11",
+  "game_pk": 823511,
+  "game_date": "2026-08-12",
   "home_team": {
-    "id": "142",
-    "name": "Minnesota Twins",
+    "id": "147",
+    "name": "New York Yankees",
     "pitcher": {
-      "name": "Bailey Ober",
+      "name": "Will Warren",
       "yrfi_allowed": 20.0,
       "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
-        "value": 31.03448275862069,
-        "ratio": "18/58"
+        "value": 35.714285714285715,
+        "ratio": "20/56"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 28.56,
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 23.08,
     "pitcher": {
-      "name": "Brandon Young",
+      "name": "Bryce Miller",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 29.82456140350877,
-        "ratio": "17/57"
+        "value": 20.689655172413794,
+        "ratio": "12/58"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.03448275862069,
+        "base": 35.714285714285715,
         "tendency": 6.666666666666667,
-        "combined": 21.29,
+        "combined": 24.1,
         "pitcher_impact": 0.0,
-        "adjusted": 14.9
+        "adjusted": 16.87
       },
       "away_team": {
-        "base": 29.82456140350877,
+        "base": 20.689655172413794,
         "tendency": 26.666666666666668,
-        "combined": 28.56,
+        "combined": 23.08,
         "pitcher_impact": 20.0,
-        "adjusted": 25.99
+        "adjusted": 22.16
       },
-      "game_yrfi_probability": 37.02
+      "game_yrfi_probability": 35.29
     },
-    "yrfi_probability": 37.02
+    "yrfi_probability": 35.29
   },
   "metadata": {
-    "generated_at": "2026-08-11T14:49:46.718422",
+    "generated_at": "2026-08-12T14:50:00.077864",
     "data_source": "season_data.json"
   }
 }

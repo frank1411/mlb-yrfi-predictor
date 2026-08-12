@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Athletics
+# Análisis YRFI: Milwaukee Brewers @ San Diego Padres
 
 **Fecha:** 2026-08-12  
-**Lanzadores:** Nick Martinez (V) vs Mason Barnett (L)
+**Lanzadores:** Dustin May (V) vs Robbie Ray (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.7%
+**Probabilidad de que anoten en la primera entrada:** 61.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 34.5% (20/58 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 22.6% (14/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Dustin May):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 48.8%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 28.8% (17/59 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 21.1% (12/57 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Athletics - Mason Barnett):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador local (San Diego Padres - Robbie Ray):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-11 14:49:46
+- **Generado el:** 2026-08-12 14:50:00
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Washington Nationals
 
-**Fecha:** 2026-08-11  
-**Lanzadores:** Shota Imanaga (V) vs Por anunciar (L)
+**Fecha:** 2026-08-12  
+**Lanzadores:** David Peterson (V) vs Jackson Kent (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.2%
+**Probabilidad de que anoten en la primera entrada:** 64.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 40.0% (24/60 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 44.3%
+- **Estadística base YRFI:** 41.0% (25/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - David Peterson):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 56.5%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 18.3% (11/60 partidos)
+- **Estadística base YRFI:** 18.0% (11/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 33.9%
+- **Impacto del lanzador local (Washington Nationals - Jackson Kent):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-11 14:49:46
+- **Generado el:** 2026-08-12 14:50:00
 - **Fuente de datos:** season_data.json

@@ -1,5 +1,5 @@
 {
-  "game_pk": 823186,
+  "game_pk": 823187,
   "game_date": "2026-08-12",
   "home_team": {
     "id": "137",
@@ -11,8 +11,8 @@
     },
     "stats": {
       "base": {
-        "value": 21.052631578947366,
-        "ratio": "12/57"
+        "value": 20.689655172413794,
+        "ratio": "12/58"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "117",
     "name": "Houston Astros",
-    "combined_yrfi_pct": 26.39,
+    "combined_yrfi_pct": 26.1,
     "pitcher": {
-      "name": "Hunter Brown",
+      "name": "Bryan King",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.64516129032258,
-        "ratio": "19/62"
+        "value": 30.158730158730158,
+        "ratio": "19/63"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 21.052631578947366,
+        "base": 20.689655172413794,
         "tendency": 13.333333333333334,
-        "combined": 17.96,
+        "combined": 17.75,
         "pitcher_impact": 0.0,
-        "adjusted": 12.58
+        "adjusted": 12.42
       },
       "away_team": {
-        "base": 30.64516129032258,
+        "base": 30.158730158730158,
         "tendency": 20.0,
-        "combined": 26.39,
+        "combined": 26.1,
         "pitcher_impact": 50.0,
-        "adjusted": 33.47
+        "adjusted": 33.27
       },
-      "game_yrfi_probability": 41.84
+      "game_yrfi_probability": 41.56
     },
-    "yrfi_probability": 41.84
+    "yrfi_probability": 41.56
   },
   "metadata": {
-    "generated_at": "2026-08-11T14:49:46.749605",
+    "generated_at": "2026-08-12T14:50:00.061590",
     "data_source": "season_data.json"
   }
 }

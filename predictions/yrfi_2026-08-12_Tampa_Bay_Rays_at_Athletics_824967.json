@@ -1,18 +1,18 @@
 {
-  "game_pk": 824970,
+  "game_pk": 824967,
   "game_date": "2026-08-12",
   "home_team": {
     "id": "133",
     "name": "Athletics",
     "pitcher": {
-      "name": "Mason Barnett",
+      "name": "Jack Perkins",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 34.48275862068966,
-        "ratio": "20/58"
+        "value": 33.89830508474576,
+        "ratio": "20/59"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
-    "combined_yrfi_pct": 27.95,
+    "combined_yrfi_pct": 31.33,
     "pitcher": {
-      "name": "Nick Martinez",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
     },
     "stats": {
       "base": {
-        "value": 28.8135593220339,
-        "ratio": "17/59"
+        "value": 30.0,
+        "ratio": "18/60"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 34.48275862068966,
+        "base": 33.89830508474576,
         "tendency": 33.33333333333333,
-        "combined": 34.02,
-        "pitcher_impact": 0.0,
-        "adjusted": 23.82
+        "combined": 33.67,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.07
       },
       "away_team": {
-        "base": 28.8135593220339,
-        "tendency": 26.666666666666668,
-        "combined": 27.95,
+        "base": 30.0,
+        "tendency": 33.33333333333333,
+        "combined": 31.33,
         "pitcher_impact": 0.0,
-        "adjusted": 19.57
+        "adjusted": 21.93
       },
-      "game_yrfi_probability": 38.73
+      "game_yrfi_probability": 46.19
     },
-    "yrfi_probability": 38.73
+    "yrfi_probability": 46.19
   },
   "metadata": {
-    "generated_at": "2026-08-11T14:49:46.741441",
+    "generated_at": "2026-08-12T14:50:00.054014",
     "data_source": "season_data.json"
   }
 }

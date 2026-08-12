@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ New York Yankees
 
-**Fecha:** 2026-08-11  
-**Lanzadores:** Bryan Woo (V) vs Ryan Weathers (L)
+**Fecha:** 2026-08-12  
+**Lanzadores:** Bryce Miller (V) vs Will Warren (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.0%
+**Probabilidad de que anoten en la primera entrada:** 35.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 36.4% (20/55 partidos)
+- **Estadística base YRFI:** 35.7% (20/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryan Woo):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.9%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 21.1% (12/57 partidos)
+- **Estadística base YRFI:** 20.7% (12/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 28.3%
+- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 22.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-11 14:49:46
+- **Generado el:** 2026-08-12 14:50:00
 - **Fuente de datos:** season_data.json

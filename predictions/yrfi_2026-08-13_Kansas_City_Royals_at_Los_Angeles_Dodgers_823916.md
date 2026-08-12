@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Los Angeles Dodgers
 
-**Fecha:** 2026-08-12  
-**Lanzadores:** Michael Wacha (V) vs Blake Snell (L)
+**Fecha:** 2026-08-13  
+**Lanzadores:** Daniel Lynch IV (V) vs Eric Lauer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.6%
+**Probabilidad de que anoten en la primera entrada:** 47.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.8% (21/57 partidos)
+- **Estadística base YRFI:** 36.2% (21/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 24.8%
+- **Impacto del lanzador visitante (Kansas City Royals - Daniel Lynch IV):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.5%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 27.9% (17/61 partidos)
+- **Estadística base YRFI:** 27.4% (17/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.0%
+- **Impacto del lanzador local (Los Angeles Dodgers - Eric Lauer):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-11 14:49:46
+- **Generado el:** 2026-08-12 14:50:00
 - **Fuente de datos:** season_data.json

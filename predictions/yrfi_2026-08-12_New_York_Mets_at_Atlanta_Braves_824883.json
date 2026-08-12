@@ -1,0 +1,67 @@
+{
+  "game_pk": 824883,
+  "game_date": "2026-08-12",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Tyler Mahle",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.78688524590164,
+        "ratio": "20/61"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 25.18,
+    "pitcher": {
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.193548387096776,
+        "ratio": "15/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.78688524590164,
+        "tendency": 26.666666666666668,
+        "combined": 30.34,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.24
+      },
+      "away_team": {
+        "base": 24.193548387096776,
+        "tendency": 26.666666666666668,
+        "combined": 25.18,
+        "pitcher_impact": 25.0,
+        "adjusted": 25.13
+      },
+      "game_yrfi_probability": 41.03
+    },
+    "yrfi_probability": 41.03
+  },
+  "metadata": {
+    "generated_at": "2026-08-12T14:50:00.084396",
+    "data_source": "season_data.json"
+  }
+}

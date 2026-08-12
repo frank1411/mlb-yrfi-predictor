@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Minnesota Twins
 
-**Fecha:** 2026-08-11  
-**Lanzadores:** Brandon Young (V) vs Bailey Ober (L)
+**Fecha:** 2026-08-12  
+**Lanzadores:** Shane Baz (V) vs Zebby Matthews (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.0%
+**Probabilidad de que anoten en la primera entrada:** 45.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 31.0% (18/58 partidos)
+- **Estadística base YRFI:** 30.5% (18/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Brandon Young):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.9%
+- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 29.7%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 29.8% (17/57 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 26.0%
+- **Estadística base YRFI:** 31.0% (18/58 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-11 14:49:46
+- **Generado el:** 2026-08-12 14:50:00
 - **Fuente de datos:** season_data.json
