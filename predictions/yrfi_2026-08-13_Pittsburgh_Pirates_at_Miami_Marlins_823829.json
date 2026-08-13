@@ -1,18 +1,18 @@
 {
-  "game_pk": 823833,
-  "game_date": "2026-08-12",
+  "game_pk": 823829,
+  "game_date": "2026-08-13",
   "home_team": {
     "id": "146",
     "name": "Miami Marlins",
     "pitcher": {
-      "name": "Janson Junk",
+      "name": "Tyler Phillips",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/5"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.78688524590164,
-        "ratio": "20/61"
+        "value": 32.25806451612903,
+        "ratio": "20/62"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
-    "combined_yrfi_pct": 23.04,
+    "combined_yrfi_pct": 22.75,
     "pitcher": {
-      "name": "Carmen Mlodzinski",
+      "name": "Braxton Ashcraft",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 29.508196721311474,
-        "ratio": "18/61"
+        "value": 29.03225806451613,
+        "ratio": "18/62"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.78688524590164,
+        "base": 32.25806451612903,
         "tendency": 26.666666666666668,
-        "combined": 30.34,
+        "combined": 30.02,
         "pitcher_impact": 0.0,
-        "adjusted": 21.24
+        "adjusted": 21.02
       },
       "away_team": {
-        "base": 29.508196721311474,
+        "base": 29.03225806451613,
         "tendency": 13.333333333333334,
-        "combined": 23.04,
+        "combined": 22.75,
         "pitcher_impact": 0.0,
-        "adjusted": 16.13
+        "adjusted": 15.93
       },
-      "game_yrfi_probability": 33.94
+      "game_yrfi_probability": 33.6
     },
-    "yrfi_probability": 33.94
+    "yrfi_probability": 33.6
   },
   "metadata": {
-    "generated_at": "2026-08-12T14:50:00.071437",
+    "generated_at": "2026-08-13T14:50:26.513903",
     "data_source": "season_data.json"
   }
 }

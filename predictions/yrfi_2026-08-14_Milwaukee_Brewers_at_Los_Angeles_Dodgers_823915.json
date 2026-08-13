@@ -1,33 +1,33 @@
 {
-  "game_pk": 823511,
-  "game_date": "2026-08-12",
+  "game_pk": 823915,
+  "game_date": "2026-08-14",
   "home_team": {
-    "id": "147",
-    "name": "New York Yankees",
+    "id": "119",
+    "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Will Warren",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 35.714285714285715,
-        "ratio": "20/56"
+        "value": 35.59322033898305,
+        "ratio": "21/59"
       },
       "tendency": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
-    "id": "136",
-    "name": "Seattle Mariners",
+    "id": "158",
+    "name": "Milwaukee Brewers",
     "combined_yrfi_pct": 23.08,
     "pitcher": {
-      "name": "Bryce Miller",
+      "name": "Shane Drohan",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 35.714285714285715,
-        "tendency": 6.666666666666667,
-        "combined": 24.1,
+        "base": 35.59322033898305,
+        "tendency": 33.33333333333333,
+        "combined": 34.69,
         "pitcher_impact": 0.0,
-        "adjusted": 16.87
+        "adjusted": 24.28
       },
       "away_team": {
         "base": 20.689655172413794,
         "tendency": 26.666666666666668,
         "combined": 23.08,
-        "pitcher_impact": 20.0,
-        "adjusted": 22.16
+        "pitcher_impact": 0.0,
+        "adjusted": 16.16
       },
-      "game_yrfi_probability": 35.29
+      "game_yrfi_probability": 36.52
     },
-    "yrfi_probability": 35.29
+    "yrfi_probability": 36.52
   },
   "metadata": {
-    "generated_at": "2026-08-12T14:50:00.077864",
+    "generated_at": "2026-08-13T14:50:26.546129",
     "data_source": "season_data.json"
   }
 }

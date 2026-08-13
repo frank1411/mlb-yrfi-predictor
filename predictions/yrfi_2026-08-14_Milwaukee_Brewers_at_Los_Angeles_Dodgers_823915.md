@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ San Diego Padres
+# Análisis YRFI: Milwaukee Brewers @ Los Angeles Dodgers
 
-**Fecha:** 2026-08-12  
-**Lanzadores:** Dustin May (V) vs Robbie Ray (L)
+**Fecha:** 2026-08-14  
+**Lanzadores:** Shane Drohan (V) vs Roki Sasaki (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.0%
+**Probabilidad de que anoten en la primera entrada:** 36.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 22.6% (14/62 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 35.6% (21/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Dustin May):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 48.8%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Shane Drohan):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 24.3%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 21.1% (12/57 partidos)
+- **Estadística base YRFI:** 20.7% (12/58 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Robbie Ray):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Impacto del lanzador local (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 16.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-12 14:50:00
+- **Generado el:** 2026-08-13 14:50:26
 - **Fuente de datos:** season_data.json

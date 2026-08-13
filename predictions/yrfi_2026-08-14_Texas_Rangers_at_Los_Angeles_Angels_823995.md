@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Washington Nationals
+# Análisis YRFI: Texas Rangers @ Los Angeles Angels
 
-**Fecha:** 2026-08-12  
-**Lanzadores:** David Peterson (V) vs Jackson Kent (L)
+**Fecha:** 2026-08-14  
+**Lanzadores:** Jacob deGrom (V) vs Walbert Ureña (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 64.7%
+**Probabilidad de que anoten en la primera entrada:** 48.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Washington Nationals (Local)
+### Los Angeles Angels (Local)
 - **Estadística base YRFI:** 41.0% (25/61 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - David Peterson):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 56.5%
-
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 18.0% (11/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Jackson Kent):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.8%
+- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 38.4%
+
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 30.6% (19/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Los Angeles Angels - Walbert Ureña):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 16.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-12 14:50:00
+- **Generado el:** 2026-08-13 14:50:26
 - **Fuente de datos:** season_data.json

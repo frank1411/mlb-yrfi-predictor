@@ -1,0 +1,67 @@
+{
+  "game_pk": 823669,
+  "game_date": "2026-08-13",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Taj Bradley",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.666666666666664,
+        "ratio": "19/60"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 22.0,
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 23.333333333333332,
+        "ratio": "14/60"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.666666666666664,
+        "tendency": 6.666666666666667,
+        "combined": 21.67,
+        "pitcher_impact": 20.0,
+        "adjusted": 21.17
+      },
+      "away_team": {
+        "base": 23.333333333333332,
+        "tendency": 20.0,
+        "combined": 22.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.4
+      },
+      "game_yrfi_probability": 33.31
+    },
+    "yrfi_probability": 33.31
+  },
+  "metadata": {
+    "generated_at": "2026-08-13T14:50:26.536925",
+    "data_source": "season_data.json"
+  }
+}

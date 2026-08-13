@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Miami Marlins
 
-**Fecha:** 2026-08-12  
-**Lanzadores:** Carmen Mlodzinski (V) vs Janson Junk (L)
+**Fecha:** 2026-08-13  
+**Lanzadores:** Braxton Ashcraft (V) vs Tyler Phillips (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.9%
+**Probabilidad de que anoten en la primera entrada:** 33.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 32.8% (20/61 partidos)
+- **Estadística base YRFI:** 32.3% (20/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Carmen Mlodzinski):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 21.2%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 29.5% (18/61 partidos)
+- **Estadística base YRFI:** 29.0% (18/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 0.0% (0/5 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-12 14:50:00
+- **Generado el:** 2026-08-13 14:50:26
 - **Fuente de datos:** season_data.json
