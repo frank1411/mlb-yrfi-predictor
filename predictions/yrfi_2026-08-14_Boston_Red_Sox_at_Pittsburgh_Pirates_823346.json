@@ -1,0 +1,67 @@
+{
+  "game_pk": 823346,
+  "game_date": "2026-08-14",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "20/60"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "combined_yrfi_pct": 28.79,
+    "pitcher": {
+      "name": "Jake Bennett",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 21.311475409836063,
+        "ratio": "13/61"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 13.333333333333334,
+        "combined": 25.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.73
+      },
+      "away_team": {
+        "base": 21.311475409836063,
+        "tendency": 40.0,
+        "combined": 28.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.15
+      },
+      "game_yrfi_probability": 34.31
+    },
+    "yrfi_probability": 34.31
+  },
+  "metadata": {
+    "generated_at": "2026-08-14T14:44:24.234241",
+    "data_source": "season_data.json"
+  }
+}

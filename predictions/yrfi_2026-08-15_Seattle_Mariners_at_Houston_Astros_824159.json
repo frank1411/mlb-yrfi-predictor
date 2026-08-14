@@ -1,0 +1,67 @@
+{
+  "game_pk": 824159,
+  "game_date": "2026-08-15",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Peter Lambert",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 35.59322033898305,
+        "ratio": "21/59"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 26.33,
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 21.666666666666668,
+        "ratio": "13/60"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.59322033898305,
+        "tendency": 13.333333333333334,
+        "combined": 26.69,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.68
+      },
+      "away_team": {
+        "base": 21.666666666666668,
+        "tendency": 33.33333333333333,
+        "combined": 26.33,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.43
+      },
+      "game_yrfi_probability": 58.06
+    },
+    "yrfi_probability": 58.06
+  },
+  "metadata": {
+    "generated_at": "2026-08-14T14:44:24.255835",
+    "data_source": "season_data.json"
+  }
+}

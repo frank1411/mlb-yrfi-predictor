@@ -1,0 +1,67 @@
+{
+  "game_pk": 822777,
+  "game_date": "2026-08-14",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Shane Bieber",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "15/63"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 17.9,
+    "pitcher": {
+      "name": "Gerrit Cole",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.396825396825395,
+        "ratio": "16/63"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.809523809523807,
+        "tendency": 13.333333333333334,
+        "combined": 19.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.73
+      },
+      "away_team": {
+        "base": 25.396825396825395,
+        "tendency": 6.666666666666667,
+        "combined": 17.9,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.53
+      },
+      "game_yrfi_probability": 24.54
+    },
+    "yrfi_probability": 24.54
+  },
+  "metadata": {
+    "generated_at": "2026-08-14T14:44:24.252696",
+    "data_source": "season_data.json"
+  }
+}

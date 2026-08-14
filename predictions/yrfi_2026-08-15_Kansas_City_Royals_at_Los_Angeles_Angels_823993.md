@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Chicago White Sox
+# Análisis YRFI: Kansas City Royals @ Los Angeles Angels
 
-**Fecha:** 2026-08-13  
-**Lanzadores:** Andrew Abbott (V) vs Davis Martin (L)
+**Fecha:** 2026-08-15  
+**Lanzadores:** Seth Lugo (V) vs Grayson Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.7%
+**Probabilidad de que anoten en la primera entrada:** 48.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago White Sox (Local)
-- **Estadística base YRFI:** 29.5% (18/61 partidos)
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 40.3% (25/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 36.7%
+- **Impacto del lanzador visitante (Kansas City Royals - Seth Lugo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 36.3%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 27.1% (16/59 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 27.0% (17/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 18.9%
+- **Impacto del lanzador local (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-13 14:50:26
+- **Generado el:** 2026-08-14 14:44:24
 - **Fuente de datos:** season_data.json

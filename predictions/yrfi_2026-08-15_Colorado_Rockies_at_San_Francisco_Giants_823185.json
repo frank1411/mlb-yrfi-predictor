@@ -1,0 +1,67 @@
+{
+  "game_pk": 823185,
+  "game_date": "2026-08-15",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.033898305084744,
+        "ratio": "13/59"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 26.88,
+    "pitcher": {
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.58064516129032,
+        "ratio": "14/62"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.033898305084744,
+        "tendency": 20.0,
+        "combined": 21.22,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.85
+      },
+      "away_team": {
+        "base": 22.58064516129032,
+        "tendency": 33.33333333333333,
+        "combined": 26.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.82
+      },
+      "game_yrfi_probability": 43.05
+    },
+    "yrfi_probability": 43.05
+  },
+  "metadata": {
+    "generated_at": "2026-08-14T14:44:24.266317",
+    "data_source": "season_data.json"
+  }
+}
