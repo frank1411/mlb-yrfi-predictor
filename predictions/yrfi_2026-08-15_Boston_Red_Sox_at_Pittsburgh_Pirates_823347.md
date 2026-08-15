@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Pittsburgh Pirates
 
-**Fecha:** 2026-08-14  
-**Lanzadores:** Jake Bennett (V) vs Bubba Chandler (L)
+**Fecha:** 2026-08-15  
+**Lanzadores:** Sonny Gray (V) vs Jared Jones (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.3%
+**Probabilidad de que anoten en la primera entrada:** 58.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 33.3% (20/60 partidos)
+- **Estadística base YRFI:** 32.8% (20/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 47.5%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 21.3% (13/61 partidos)
+- **Estadística base YRFI:** 21.0% (13/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador local (Pittsburgh Pirates - Jared Jones):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-14 14:44:24
+- **Generado el:** 2026-08-15 14:12:16
 - **Fuente de datos:** season_data.json

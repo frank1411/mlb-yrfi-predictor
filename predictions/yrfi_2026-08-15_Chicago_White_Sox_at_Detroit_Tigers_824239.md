@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Detroit Tigers
 
-**Fecha:** 2026-08-14  
-**Lanzadores:** Sean Newcomb (V) vs Jackson Jobe (L)
+**Fecha:** 2026-08-15  
+**Lanzadores:** Anthony Kay (V) vs Troy Melton (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.7%
+**Probabilidad de que anoten en la primera entrada:** 47.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.7% (16/60 partidos)
+- **Estadística base YRFI:** 26.2% (16/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Sean Newcomb):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.4%
+- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.7%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 33.9% (20/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Estadística base YRFI:** 35.0% (21/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Detroit Tigers - Troy Melton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 25.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-14 14:44:24
+- **Generado el:** 2026-08-15 14:12:16
 - **Fuente de datos:** season_data.json

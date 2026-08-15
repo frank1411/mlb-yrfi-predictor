@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Cincinnati Reds
+# Análisis YRFI: St. Louis Cardinals @ Chicago Cubs
 
-**Fecha:** 2026-08-14  
-**Lanzadores:** Sandy Alcantara (V) vs Chase Burns (L)
+**Fecha:** 2026-08-15  
+**Lanzadores:** Michael McGreevy (V) vs Matthew Boyd (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.8%
+**Probabilidad de que anoten en la primera entrada:** 36.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 26.7% (16/60 partidos)
+### Chicago Cubs (Local)
+- **Estadística base YRFI:** 33.3% (20/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.7%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.5%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 27.1% (16/59 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 32.1% (18/56 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 17.0%
+- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-14 14:44:24
+- **Generado el:** 2026-08-15 14:12:16
 - **Fuente de datos:** season_data.json

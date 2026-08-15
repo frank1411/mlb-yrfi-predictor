@@ -1,0 +1,67 @@
+{
+  "game_pk": 822941,
+  "game_date": "2026-08-15",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Ian Seymour",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.666666666666664,
+        "ratio": "22/60"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 32.33,
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 31.666666666666664,
+        "ratio": "19/60"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.666666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 35.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.73
+      },
+      "away_team": {
+        "base": 31.666666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 32.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.63
+      },
+      "game_yrfi_probability": 41.76
+    },
+    "yrfi_probability": 41.76
+  },
+  "metadata": {
+    "generated_at": "2026-08-15T14:12:16.911961",
+    "data_source": "season_data.json"
+  }
+}

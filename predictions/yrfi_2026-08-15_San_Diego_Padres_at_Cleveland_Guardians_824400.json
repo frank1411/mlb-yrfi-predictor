@@ -1,18 +1,18 @@
 {
-  "game_pk": 824399,
-  "game_date": "2026-08-14",
+  "game_pk": 824400,
+  "game_date": "2026-08-15",
   "home_team": {
     "id": "114",
     "name": "Cleveland Guardians",
     "pitcher": {
-      "name": "Gavin Williams",
+      "name": "Joey Cantillo",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 30.508474576271187,
-        "ratio": "18/59"
+        "value": 30.0,
+        "ratio": "18/60"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "135",
     "name": "San Diego Padres",
-    "combined_yrfi_pct": 27.57,
+    "combined_yrfi_pct": 27.33,
     "pitcher": {
-      "name": "Michael King",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 23.728813559322035,
-        "ratio": "14/59"
+        "value": 23.333333333333332,
+        "ratio": "14/60"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.508474576271187,
+        "base": 30.0,
         "tendency": 46.666666666666664,
-        "combined": 36.97,
-        "pitcher_impact": 0.0,
-        "adjusted": 25.88
+        "combined": 36.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 40.67
       },
       "away_team": {
-        "base": 23.728813559322035,
+        "base": 23.333333333333332,
         "tendency": 33.33333333333333,
-        "combined": 27.57,
+        "combined": 27.33,
         "pitcher_impact": 0.0,
-        "adjusted": 19.3
+        "adjusted": 19.13
       },
-      "game_yrfi_probability": 40.19
+      "game_yrfi_probability": 52.02
     },
-    "yrfi_probability": 40.19
+    "yrfi_probability": 52.02
   },
   "metadata": {
-    "generated_at": "2026-08-14T14:44:24.243746",
+    "generated_at": "2026-08-15T14:12:16.917954",
     "data_source": "season_data.json"
   }
 }

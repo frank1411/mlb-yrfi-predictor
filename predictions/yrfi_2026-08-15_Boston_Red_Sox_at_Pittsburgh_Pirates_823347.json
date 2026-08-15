@@ -1,18 +1,18 @@
 {
-  "game_pk": 823346,
-  "game_date": "2026-08-14",
+  "game_pk": 823347,
+  "game_date": "2026-08-15",
   "home_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Bubba Chandler",
+      "name": "Jared Jones",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "20/60"
+        "value": 32.78688524590164,
+        "ratio": "20/61"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "111",
     "name": "Boston Red Sox",
-    "combined_yrfi_pct": 28.79,
+    "combined_yrfi_pct": 28.58,
     "pitcher": {
-      "name": "Jake Bennett",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "name": "Sonny Gray",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
     },
     "stats": {
       "base": {
-        "value": 21.311475409836063,
-        "ratio": "13/61"
+        "value": 20.967741935483872,
+        "ratio": "13/62"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.33333333333333,
+        "base": 32.78688524590164,
         "tendency": 13.333333333333334,
-        "combined": 25.33,
-        "pitcher_impact": 0.0,
-        "adjusted": 17.73
+        "combined": 25.01,
+        "pitcher_impact": 100.0,
+        "adjusted": 47.5
       },
       "away_team": {
-        "base": 21.311475409836063,
+        "base": 20.967741935483872,
         "tendency": 40.0,
-        "combined": 28.79,
+        "combined": 28.58,
         "pitcher_impact": 0.0,
-        "adjusted": 20.15
+        "adjusted": 20.01
       },
-      "game_yrfi_probability": 34.31
+      "game_yrfi_probability": 58.01
     },
-    "yrfi_probability": 34.31
+    "yrfi_probability": 58.01
   },
   "metadata": {
-    "generated_at": "2026-08-14T14:44:24.234241",
+    "generated_at": "2026-08-15T14:12:16.928014",
     "data_source": "season_data.json"
   }
 }

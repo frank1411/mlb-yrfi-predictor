@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Cleveland Guardians
 
-**Fecha:** 2026-08-14  
-**Lanzadores:** Michael King (V) vs Gavin Williams (L)
+**Fecha:** 2026-08-15  
+**Lanzadores:** Por anunciar (V) vs Joey Cantillo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.2%
+**Probabilidad de que anoten en la primera entrada:** 52.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 30.5% (18/59 partidos)
+- **Estadística base YRFI:** 30.0% (18/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador visitante (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 40.7%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 23.7% (14/59 partidos)
+- **Estadística base YRFI:** 23.3% (14/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.3%
+- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-14 14:44:24
+- **Generado el:** 2026-08-15 14:12:16
 - **Fuente de datos:** season_data.json

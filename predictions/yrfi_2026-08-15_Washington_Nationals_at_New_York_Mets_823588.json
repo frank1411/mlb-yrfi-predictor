@@ -1,18 +1,18 @@
 {
-  "game_pk": 823591,
-  "game_date": "2026-08-14",
+  "game_pk": 823588,
+  "game_date": "2026-08-15",
   "home_team": {
     "id": "121",
     "name": "New York Mets",
     "pitcher": {
-      "name": "Robert Stock",
+      "name": "Sean Manaea",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.508474576271187,
-        "ratio": "18/59"
+        "value": 30.0,
+        "ratio": "18/60"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "120",
     "name": "Washington Nationals",
-    "combined_yrfi_pct": 28.67,
+    "combined_yrfi_pct": 28.37,
     "pitcher": {
-      "name": "Andrew Alvarez",
+      "name": "Brad Lord",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.0,
-        "ratio": "18/60"
+        "value": 29.508196721311474,
+        "ratio": "18/61"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.508474576271187,
+        "base": 30.0,
         "tendency": 20.0,
-        "combined": 26.31,
+        "combined": 26.0,
         "pitcher_impact": 0.0,
-        "adjusted": 18.41
+        "adjusted": 18.2
       },
       "away_team": {
-        "base": 30.0,
+        "base": 29.508196721311474,
         "tendency": 26.666666666666668,
-        "combined": 28.67,
+        "combined": 28.37,
         "pitcher_impact": 0.0,
-        "adjusted": 20.07
+        "adjusted": 19.86
       },
-      "game_yrfi_probability": 34.79
+      "game_yrfi_probability": 34.45
     },
-    "yrfi_probability": 34.79
+    "yrfi_probability": 34.45
   },
   "metadata": {
-    "generated_at": "2026-08-14T14:44:24.240713",
+    "generated_at": "2026-08-15T14:12:16.908580",
     "data_source": "season_data.json"
   }
 }

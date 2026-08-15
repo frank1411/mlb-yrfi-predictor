@@ -1,18 +1,18 @@
 {
-  "game_pk": 822777,
-  "game_date": "2026-08-14",
+  "game_pk": 822775,
+  "game_date": "2026-08-15",
   "home_team": {
     "id": "141",
     "name": "Toronto Blue Jays",
     "pitcher": {
-      "name": "Shane Bieber",
+      "name": "Braydon Fisher",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 23.809523809523807,
-        "ratio": "15/63"
+        "value": 23.4375,
+        "ratio": "15/64"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "147",
     "name": "New York Yankees",
-    "combined_yrfi_pct": 17.9,
+    "combined_yrfi_pct": 17.67,
     "pitcher": {
-      "name": "Gerrit Cole",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
-        "value": 25.396825396825395,
-        "ratio": "16/63"
+        "value": 25.0,
+        "ratio": "16/64"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 23.809523809523807,
+        "base": 23.4375,
         "tendency": 13.333333333333334,
-        "combined": 19.62,
-        "pitcher_impact": 0.0,
-        "adjusted": 13.73
+        "combined": 19.4,
+        "pitcher_impact": 20.0,
+        "adjusted": 19.58
       },
       "away_team": {
-        "base": 25.396825396825395,
+        "base": 25.0,
         "tendency": 6.666666666666667,
-        "combined": 17.9,
+        "combined": 17.67,
         "pitcher_impact": 0.0,
-        "adjusted": 12.53
+        "adjusted": 12.37
       },
-      "game_yrfi_probability": 24.54
+      "game_yrfi_probability": 29.53
     },
-    "yrfi_probability": 24.54
+    "yrfi_probability": 29.53
   },
   "metadata": {
-    "generated_at": "2026-08-14T14:44:24.252696",
+    "generated_at": "2026-08-15T14:12:16.901278",
     "data_source": "season_data.json"
   }
 }

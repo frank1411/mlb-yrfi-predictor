@@ -1,7 +1,7 @@
 # Análisis YRFI: Arizona Diamondbacks @ Atlanta Braves
 
-**Fecha:** 2026-08-14  
-**Lanzadores:** Brandon Pfaadt (V) vs Por anunciar (L)
+**Fecha:** 2026-08-15  
+**Lanzadores:** Eduardo Rodriguez (V) vs Grant Holmes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -10,16 +10,16 @@
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 32.3% (20/62 partidos)
+- **Estadística base YRFI:** 31.7% (20/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Brandon Pfaadt):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.1% (16/59 partidos)
+- **Estadística base YRFI:** 28.3% (17/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.7%
+- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-14 14:44:24
+- **Generado el:** 2026-08-15 14:12:16
 - **Fuente de datos:** season_data.json

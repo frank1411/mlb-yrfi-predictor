@@ -1,0 +1,67 @@
+{
+  "game_pk": 824966,
+  "game_date": "2026-08-16",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 34.42622950819672,
+        "ratio": "21/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 23.15,
+    "pitcher": {
+      "name": "MacKenzie Gore",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.6875,
+        "ratio": "19/64"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.42622950819672,
+        "tendency": 33.33333333333333,
+        "combined": 33.99,
+        "pitcher_impact": 25.0,
+        "adjusted": 31.29
+      },
+      "away_team": {
+        "base": 29.6875,
+        "tendency": 13.333333333333334,
+        "combined": 23.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.2
+      },
+      "game_yrfi_probability": 42.42
+    },
+    "yrfi_probability": 42.42
+  },
+  "metadata": {
+    "generated_at": "2026-08-15T14:12:16.941415",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823913,
+  "game_pk": 823914,
   "game_date": "2026-08-15",
   "home_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Yoshinobu Yamamoto",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Justin Wrobleski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 35.0,
-        "ratio": "21/60"
+        "value": 36.0655737704918,
+        "ratio": "22/61"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
-    "combined_yrfi_pct": 22.87,
+    "combined_yrfi_pct": 22.67,
     "pitcher": {
-      "name": "Robert Gasser",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 20.33898305084746,
-        "ratio": "12/59"
+        "value": 20.0,
+        "ratio": "12/60"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 35.0,
+        "base": 36.0655737704918,
         "tendency": 26.666666666666668,
-        "combined": 31.67,
-        "pitcher_impact": 0.0,
-        "adjusted": 22.17
+        "combined": 32.31,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.61
       },
       "away_team": {
-        "base": 20.33898305084746,
+        "base": 20.0,
         "tendency": 26.666666666666668,
-        "combined": 22.87,
-        "pitcher_impact": 25.0,
-        "adjusted": 23.51
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
       },
-      "game_yrfi_probability": 40.47
+      "game_yrfi_probability": 43.3
     },
-    "yrfi_probability": 40.47
+    "yrfi_probability": 43.3
   },
   "metadata": {
-    "generated_at": "2026-08-14T14:44:24.263616",
+    "generated_at": "2026-08-15T14:12:16.934725",
     "data_source": "season_data.json"
   }
 }

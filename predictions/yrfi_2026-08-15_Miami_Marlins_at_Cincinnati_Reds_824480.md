@@ -1,25 +1,25 @@
-# Análisis YRFI: Texas Rangers @ Athletics
+# Análisis YRFI: Miami Marlins @ Cincinnati Reds
 
 **Fecha:** 2026-08-15  
-**Lanzadores:** Kumar Rocker (V) vs Por anunciar (L)
+**Lanzadores:** Ryan Gusto (V) vs Brady Singer (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.9%
+**Probabilidad de que anoten en la primera entrada:** 38.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 33.3% (20/60 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 26.2% (16/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Kumar Rocker):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 41.5%
+- **Impacto del lanzador visitante (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.5%
 
-### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 30.2% (19/63 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 26.7% (16/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Athletics - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.4%
+- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 24.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-14 14:44:24
+- **Generado el:** 2026-08-15 14:12:16
 - **Fuente de datos:** season_data.json

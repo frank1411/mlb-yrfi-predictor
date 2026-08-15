@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Houston Astros
 
 **Fecha:** 2026-08-15  
-**Lanzadores:** George Kirby (V) vs Peter Lambert (L)
+**Lanzadores:** Emerson Hancock (V) vs Hayden Wesneski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.1%
+**Probabilidad de que anoten en la primera entrada:** 45.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 35.6% (21/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - George Kirby):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.7%
+- **Estadística base YRFI:** 36.7% (22/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - Emerson Hancock):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.0%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 21.7% (13/60 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 48.4%
+- **Estadística base YRFI:** 23.0% (14/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Hayden Wesneski):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-14 14:44:24
+- **Generado el:** 2026-08-15 14:12:16
 - **Fuente de datos:** season_data.json

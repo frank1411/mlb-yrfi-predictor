@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ New York Mets
 
-**Fecha:** 2026-08-14  
-**Lanzadores:** Andrew Alvarez (V) vs Robert Stock (L)
+**Fecha:** 2026-08-15  
+**Lanzadores:** Brad Lord (V) vs Sean Manaea (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.8%
+**Probabilidad de que anoten en la primera entrada:** 34.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 30.5% (18/59 partidos)
+- **Estadística base YRFI:** 30.0% (18/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.4%
+- **Impacto del lanzador visitante (Washington Nationals - Brad Lord):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.2%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 30.0% (18/60 partidos)
+- **Estadística base YRFI:** 29.5% (18/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - Robert Stock):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador local (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-14 14:44:24
+- **Generado el:** 2026-08-15 14:12:16
 - **Fuente de datos:** season_data.json
