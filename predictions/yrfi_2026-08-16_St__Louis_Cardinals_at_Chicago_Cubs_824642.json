@@ -1,18 +1,18 @@
 {
-  "game_pk": 824644,
-  "game_date": "2026-08-15",
+  "game_pk": 824642,
+  "game_date": "2026-08-16",
   "home_team": {
     "id": "112",
     "name": "Chicago Cubs",
     "pitcher": {
-      "name": "Matthew Boyd",
+      "name": "Edward Cabrera",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/5"
     },
     "stats": {
       "base": {
-        "value": 33.33333333333333,
-        "ratio": "20/60"
+        "value": 32.78688524590164,
+        "ratio": "20/61"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "138",
     "name": "St. Louis Cardinals",
-    "combined_yrfi_pct": 27.29,
+    "combined_yrfi_pct": 30.67,
     "pitcher": {
-      "name": "Michael McGreevy",
+      "name": "Hunter Dobbins",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 32.142857142857146,
-        "ratio": "18/56"
+        "value": 33.33333333333333,
+        "ratio": "19/57"
       },
       "tendency": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
+        "base": 32.78688524590164,
+        "tendency": 26.666666666666668,
+        "combined": 30.34,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.24
+      },
+      "away_team": {
         "base": 33.33333333333333,
         "tendency": 26.666666666666668,
         "combined": 30.67,
         "pitcher_impact": 0.0,
         "adjusted": 21.47
       },
-      "away_team": {
-        "base": 32.142857142857146,
-        "tendency": 20.0,
-        "combined": 27.29,
-        "pitcher_impact": 0.0,
-        "adjusted": 19.1
-      },
-      "game_yrfi_probability": 36.47
+      "game_yrfi_probability": 38.15
     },
-    "yrfi_probability": 36.47
+    "yrfi_probability": 38.15
   },
   "metadata": {
-    "generated_at": "2026-08-15T14:12:16.895711",
+    "generated_at": "2026-08-16T14:13:21.519550",
     "data_source": "season_data.json"
   }
 }

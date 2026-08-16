@@ -1,0 +1,67 @@
+{
+  "game_pk": 822774,
+  "game_date": "2026-08-16",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.076923076923077,
+        "ratio": "15/65"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 14.77,
+    "pitcher": {
+      "name": "Ryan Weathers",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 24.615384615384617,
+        "ratio": "16/65"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.076923076923077,
+        "tendency": 13.333333333333334,
+        "combined": 19.18,
+        "pitcher_impact": 50.0,
+        "adjusted": 28.43
+      },
+      "away_team": {
+        "base": 24.615384615384617,
+        "tendency": 0.0,
+        "combined": 14.77,
+        "pitcher_impact": 0.0,
+        "adjusted": 10.34
+      },
+      "game_yrfi_probability": 35.83
+    },
+    "yrfi_probability": 35.83
+  },
+  "metadata": {
+    "generated_at": "2026-08-16T14:13:21.492679",
+    "data_source": "season_data.json"
+  }
+}

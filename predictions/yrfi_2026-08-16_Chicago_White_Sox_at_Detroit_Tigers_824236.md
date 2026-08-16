@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Detroit Tigers
 
-**Fecha:** 2026-08-15  
-**Lanzadores:** Anthony Kay (V) vs Troy Melton (L)
+**Fecha:** 2026-08-16  
+**Lanzadores:** Sean Burke (V) vs Drew Anderson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.9%
+**Probabilidad de que anoten en la primera entrada:** 51.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.2% (16/61 partidos)
+- **Estadística base YRFI:** 27.4% (17/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 29.7%
+- **Impacto del lanzador visitante (Chicago White Sox - Sean Burke):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 32.7%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 35.0% (21/60 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Troy Melton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Estadística base YRFI:** 36.1% (22/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Detroit Tigers - Drew Anderson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-15 14:12:16
+- **Generado el:** 2026-08-16 14:13:21
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823184,
-  "game_date": "2026-08-15",
+  "game_pk": 823182,
+  "game_date": "2026-08-16",
   "home_team": {
     "id": "137",
     "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Logan Webb",
+      "name": "Blade Tidwell",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 21.666666666666668,
-        "ratio": "13/60"
+        "value": 21.311475409836063,
+        "ratio": "13/61"
       },
       "tendency": {
         "value": 20.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "115",
     "name": "Colorado Rockies",
-    "combined_yrfi_pct": 26.67,
+    "combined_yrfi_pct": 26.46,
     "pitcher": {
-      "name": "Michael Lorenzen",
+      "name": "Gabriel Hughes",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 22.22222222222222,
-        "ratio": "14/63"
+        "value": 21.875,
+        "ratio": "14/64"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 21.666666666666668,
+        "base": 21.311475409836063,
         "tendency": 20.0,
-        "combined": 21.0,
+        "combined": 20.79,
         "pitcher_impact": 0.0,
-        "adjusted": 14.7
+        "adjusted": 14.55
       },
       "away_team": {
-        "base": 22.22222222222222,
+        "base": 21.875,
         "tendency": 33.33333333333333,
-        "combined": 26.67,
+        "combined": 26.46,
         "pitcher_impact": 0.0,
-        "adjusted": 18.67
+        "adjusted": 18.52
       },
-      "game_yrfi_probability": 30.63
+      "game_yrfi_probability": 30.38
     },
-    "yrfi_probability": 30.63
+    "yrfi_probability": 30.38
   },
   "metadata": {
-    "generated_at": "2026-08-15T14:12:16.905298",
+    "generated_at": "2026-08-16T14:13:21.523860",
     "data_source": "season_data.json"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823347,
-  "game_date": "2026-08-15",
+  "game_pk": 823344,
+  "game_date": "2026-08-16",
   "home_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Jared Jones",
+      "name": "Lake Bachar",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.78688524590164,
-        "ratio": "20/61"
+        "value": 32.25806451612903,
+        "ratio": "20/62"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "111",
     "name": "Boston Red Sox",
-    "combined_yrfi_pct": 28.58,
+    "combined_yrfi_pct": 28.38,
     "pitcher": {
-      "name": "Sonny Gray",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "2/2"
+      "name": "Patrick Sandoval",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 20.967741935483872,
-        "ratio": "13/62"
+        "value": 20.634920634920633,
+        "ratio": "13/63"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.78688524590164,
+        "base": 32.25806451612903,
         "tendency": 13.333333333333334,
-        "combined": 25.01,
-        "pitcher_impact": 100.0,
-        "adjusted": 47.5
+        "combined": 24.69,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.28
       },
       "away_team": {
-        "base": 20.967741935483872,
+        "base": 20.634920634920633,
         "tendency": 40.0,
-        "combined": 28.58,
+        "combined": 28.38,
         "pitcher_impact": 0.0,
-        "adjusted": 20.01
+        "adjusted": 19.87
       },
-      "game_yrfi_probability": 58.01
+      "game_yrfi_probability": 33.72
     },
-    "yrfi_probability": 58.01
+    "yrfi_probability": 33.72
   },
   "metadata": {
-    "generated_at": "2026-08-15T14:12:16.928014",
+    "generated_at": "2026-08-16T14:13:21.483709",
     "data_source": "season_data.json"
   }
 }

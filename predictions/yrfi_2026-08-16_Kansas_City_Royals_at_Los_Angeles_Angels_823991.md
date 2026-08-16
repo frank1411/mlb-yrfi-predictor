@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Los Angeles Angels
 
 **Fecha:** 2026-08-16  
-**Lanzadores:** Randy Dobnak (V) vs Reid Detmers (L)
+**Lanzadores:** Noah Cameron (V) vs Ryan Johnson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.3%
+**Probabilidad de que anoten en la primera entrada:** 46.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 39.7% (25/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.0%
+- **Estadística base YRFI:** 39.1% (25/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 26.6% (17/64 partidos)
+- **Estadística base YRFI:** 26.2% (17/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Impacto del lanzador local (Los Angeles Angels - Ryan Johnson):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-15 14:12:16
+- **Generado el:** 2026-08-16 14:13:21
 - **Fuente de datos:** season_data.json

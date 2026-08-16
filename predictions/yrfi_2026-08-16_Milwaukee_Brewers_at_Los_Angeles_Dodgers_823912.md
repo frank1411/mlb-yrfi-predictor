@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Los Angeles Dodgers
 
-**Fecha:** 2026-08-15  
-**Lanzadores:** Jacob Misiorowski (V) vs Justin Wrobleski (L)
+**Fecha:** 2026-08-16  
+**Lanzadores:** Logan Henderson (V) vs Tarik Skubal (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.3%
+**Probabilidad de que anoten en la primera entrada:** 33.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.1% (22/61 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.6%
+- **Estadística base YRFI:** 35.5% (22/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Milwaukee Brewers - Logan Henderson):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 20.0% (12/60 partidos)
+- **Estadística base YRFI:** 19.7% (12/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Justin Wrobleski):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.9%
+- **Impacto del lanzador local (Los Angeles Dodgers - Tarik Skubal):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 15.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-15 14:12:16
+- **Generado el:** 2026-08-16 14:13:21
 - **Fuente de datos:** season_data.json

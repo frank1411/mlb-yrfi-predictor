@@ -1,0 +1,67 @@
+{
+  "game_pk": 824880,
+  "game_date": "2026-08-16",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 32.8125,
+        "ratio": "21/64"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 30.05,
+    "pitcher": {
+      "name": "Michael Soroka",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.86885245901639,
+        "ratio": "17/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.8125,
+        "tendency": 26.666666666666668,
+        "combined": 30.35,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.25
+      },
+      "away_team": {
+        "base": 27.86885245901639,
+        "tendency": 33.33333333333333,
+        "combined": 30.05,
+        "pitcher_impact": 20.0,
+        "adjusted": 27.04
+      },
+      "game_yrfi_probability": 64.43
+    },
+    "yrfi_probability": 64.43
+  },
+  "metadata": {
+    "generated_at": "2026-08-16T14:13:21.488145",
+    "data_source": "season_data.json"
+  }
+}

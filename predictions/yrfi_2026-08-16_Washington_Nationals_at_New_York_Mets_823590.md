@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ New York Mets
 
-**Fecha:** 2026-08-15  
-**Lanzadores:** Brad Lord (V) vs Sean Manaea (L)
+**Fecha:** 2026-08-16  
+**Lanzadores:** Jake Irvin (V) vs Christian Scott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.5%
+**Probabilidad de que anoten en la primera entrada:** 67.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 30.0% (18/60 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Brad Lord):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.2%
+- **Estadística base YRFI:** 31.1% (19/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 35.5%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 29.5% (18/61 partidos)
+- **Estadística base YRFI:** 29.0% (18/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador local (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 49.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-15 14:12:16
+- **Generado el:** 2026-08-16 14:13:21
 - **Fuente de datos:** season_data.json

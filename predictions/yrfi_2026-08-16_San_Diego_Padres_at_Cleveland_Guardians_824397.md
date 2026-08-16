@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Cleveland Guardians
 
-**Fecha:** 2026-08-15  
-**Lanzadores:** Por anunciar (V) vs Joey Cantillo (L)
+**Fecha:** 2026-08-16  
+**Lanzadores:** Casey Mize (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 47.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 30.0% (18/60 partidos)
+- **Estadística base YRFI:** 31.1% (19/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 40.7%
+- **Impacto del lanzador visitante (San Diego Padres - Casey Mize):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 26.1%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 23.3% (14/60 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.1%
+- **Estadística base YRFI:** 24.6% (15/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-15 14:12:16
+- **Generado el:** 2026-08-16 14:13:21
 - **Fuente de datos:** season_data.json

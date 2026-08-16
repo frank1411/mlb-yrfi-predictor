@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ San Francisco Giants
 
-**Fecha:** 2026-08-15  
-**Lanzadores:** Michael Lorenzen (V) vs Logan Webb (L)
+**Fecha:** 2026-08-16  
+**Lanzadores:** Gabriel Hughes (V) vs Blade Tidwell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 30.6%
+**Probabilidad de que anoten en la primera entrada:** 30.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 21.7% (13/60 partidos)
+- **Estadística base YRFI:** 21.3% (13/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Michael Lorenzen):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 14.7%
+- **Impacto del lanzador visitante (Colorado Rockies - Gabriel Hughes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.6%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 22.2% (14/63 partidos)
+- **Estadística base YRFI:** 21.9% (14/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.7%
+- **Impacto del lanzador local (San Francisco Giants - Blade Tidwell):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-15 14:12:16
+- **Generado el:** 2026-08-16 14:13:21
 - **Fuente de datos:** season_data.json
