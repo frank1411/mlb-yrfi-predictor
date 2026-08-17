@@ -1,18 +1,18 @@
 {
-  "game_pk": 822940,
-  "game_date": "2026-08-16",
+  "game_pk": 822939,
+  "game_date": "2026-08-17",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Freddy Peralta",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "name": "Shane McClanahan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 36.0655737704918,
-        "ratio": "22/61"
+        "value": 35.483870967741936,
+        "ratio": "22/62"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "110",
     "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 32.02,
+    "combined_yrfi_pct": 31.72,
     "pitcher": {
-      "name": "Trevor Rogers",
+      "name": "Brandon Young",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 31.147540983606557,
-        "ratio": "19/61"
+        "value": 30.64516129032258,
+        "ratio": "19/62"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.0655737704918,
+        "base": 35.483870967741936,
         "tendency": 26.666666666666668,
-        "combined": 32.31,
+        "combined": 31.96,
         "pitcher_impact": 0.0,
-        "adjusted": 22.61
+        "adjusted": 22.37
       },
       "away_team": {
-        "base": 31.147540983606557,
+        "base": 30.64516129032258,
         "tendency": 33.33333333333333,
-        "combined": 32.02,
-        "pitcher_impact": 20.0,
-        "adjusted": 28.42
+        "combined": 31.72,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.2
       },
-      "game_yrfi_probability": 44.6
+      "game_yrfi_probability": 39.6
     },
-    "yrfi_probability": 44.6
+    "yrfi_probability": 39.6
   },
   "metadata": {
-    "generated_at": "2026-08-16T14:13:21.479306",
+    "generated_at": "2026-08-17T14:17:49.020869",
     "data_source": "season_data.json"
   }
 }

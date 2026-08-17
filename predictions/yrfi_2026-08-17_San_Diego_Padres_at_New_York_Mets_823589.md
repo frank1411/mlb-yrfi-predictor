@@ -1,24 +1,24 @@
-# Análisis YRFI: Arizona Diamondbacks @ Atlanta Braves
+# Análisis YRFI: San Diego Padres @ New York Mets
 
-**Fecha:** 2026-08-16  
-**Lanzadores:** Michael Soroka (V) vs Bryce Elder (L)
+**Fecha:** 2026-08-17  
+**Lanzadores:** Walker Buehler (V) vs Nolan McLean (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 64.4%
+**Probabilidad de que anoten en la primera entrada:** 41.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 32.8% (21/64 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 30.6% (19/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Michael Soroka):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 51.2%
+- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.3%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.9% (17/61 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 24.2% (15/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
+- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
 - **Puntuación ajustada:** 27.0%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-16 14:13:21
+- **Generado el:** 2026-08-17 14:17:49
 - **Fuente de datos:** season_data.json

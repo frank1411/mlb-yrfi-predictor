@@ -1,0 +1,67 @@
+{
+  "game_pk": 823427,
+  "game_date": "2026-08-17",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.32258064516129,
+        "ratio": "25/62"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 20.82,
+    "pitcher": {
+      "name": "Janson Junk",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.806451612903224,
+        "ratio": "16/62"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.32258064516129,
+        "tendency": 20.0,
+        "combined": 32.19,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.54
+      },
+      "away_team": {
+        "base": 25.806451612903224,
+        "tendency": 13.333333333333334,
+        "combined": 20.82,
+        "pitcher_impact": 20.0,
+        "adjusted": 20.57
+      },
+      "game_yrfi_probability": 50.39
+    },
+    "yrfi_probability": 50.39
+  },
+  "metadata": {
+    "generated_at": "2026-08-17T14:17:49.026680",
+    "data_source": "season_data.json"
+  }
+}

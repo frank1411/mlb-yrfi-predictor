@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Tampa Bay Rays
+# Análisis YRFI: Athletics @ Kansas City Royals
 
-**Fecha:** 2026-08-16  
-**Lanzadores:** Trevor Rogers (V) vs Freddy Peralta (L)
+**Fecha:** 2026-08-17  
+**Lanzadores:** Mason Barnett (V) vs Michael Wacha (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.6%
+**Probabilidad de que anoten en la primera entrada:** 43.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 36.1% (22/61 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 33.9% (20/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador visitante (Athletics - Mason Barnett):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.7%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 31.1% (19/61 partidos)
+### Athletics (Visitante)
+- **Estadística base YRFI:** 21.3% (13/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Freddy Peralta):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-16 14:13:21
+- **Generado el:** 2026-08-17 14:17:49
 - **Fuente de datos:** season_data.json

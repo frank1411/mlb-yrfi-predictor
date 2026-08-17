@@ -1,0 +1,67 @@
+{
+  "game_pk": 823589,
+  "game_date": "2026-08-17",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Nolan McLean",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.64516129032258,
+        "ratio": "19/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 27.85,
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 24.193548387096776,
+        "ratio": "15/62"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.64516129032258,
+        "tendency": 26.666666666666668,
+        "combined": 29.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.34
+      },
+      "away_team": {
+        "base": 24.193548387096776,
+        "tendency": 33.33333333333333,
+        "combined": 27.85,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.99
+      },
+      "game_yrfi_probability": 41.84
+    },
+    "yrfi_probability": 41.84
+  },
+  "metadata": {
+    "generated_at": "2026-08-17T14:17:49.036452",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Pittsburgh Pirates
+# Análisis YRFI: Detroit Tigers @ Pittsburgh Pirates
 
-**Fecha:** 2026-08-16  
-**Lanzadores:** Patrick Sandoval (V) vs Lake Bachar (L)
+**Fecha:** 2026-08-17  
+**Lanzadores:** Framber Valdez (V) vs Carmen Mlodzinski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.7%
+**Probabilidad de que anoten en la primera entrada:** 60.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 32.3% (20/62 partidos)
+- **Estadística base YRFI:** 33.3% (21/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Patrick Sandoval):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.3%
+- **Impacto del lanzador visitante (Detroit Tigers - Framber Valdez):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 29.7%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 20.6% (13/63 partidos)
+### Detroit Tigers (Visitante)
+- **Estadística base YRFI:** 41.0% (25/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Lake Bachar):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador local (Pittsburgh Pirates - Carmen Mlodzinski):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 43.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-16 14:13:21
+- **Generado el:** 2026-08-17 14:17:49
 - **Fuente de datos:** season_data.json
