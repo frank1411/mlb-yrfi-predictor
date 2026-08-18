@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Minnesota Twins
+# Análisis YRFI: Washington Nationals @ Texas Rangers
 
-**Fecha:** 2026-08-17  
-**Lanzadores:** Martín Pérez (V) vs Bailey Ober (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** Jackson Kent (V) vs Cal Quantrill (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.9%
+**Probabilidad de que anoten en la primera entrada:** 32.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 31.7% (20/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.1%
-
-### Atlanta Braves (Visitante)
+### Texas Rangers (Local)
 - **Estadística base YRFI:** 30.5% (18/59 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Washington Nationals - Jackson Kent):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.6%
+
+### Washington Nationals (Visitante)
+- **Estadística base YRFI:** 28.6% (18/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 26.3%
+- **Impacto del lanzador local (Texas Rangers - Cal Quantrill):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-17 14:17:49
+- **Generado el:** 2026-08-18 14:22:10
 - **Fuente de datos:** season_data.json

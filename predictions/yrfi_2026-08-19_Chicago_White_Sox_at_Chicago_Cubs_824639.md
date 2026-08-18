@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Chicago Cubs
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** Luis Castillo (V) vs Shota Imanaga (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** Por anunciar (V) vs Kevin Gausman (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.5%
+**Probabilidad de que anoten en la primera entrada:** 52.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 32.3% (20/62 partidos)
+- **Estadística base YRFI:** 33.3% (21/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Luis Castillo):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.0%
+- **Impacto del lanzador visitante (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 36.5%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 35.5% (22/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 35.5%
+- **Estadística base YRFI:** 34.9% (22/63 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Chicago Cubs - Kevin Gausman):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 25.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-17 14:17:49
+- **Generado el:** 2026-08-18 14:22:10
 - **Fuente de datos:** season_data.json

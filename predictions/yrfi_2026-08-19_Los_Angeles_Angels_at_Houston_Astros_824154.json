@@ -1,0 +1,67 @@
+{
+  "game_pk": 824154,
+  "game_date": "2026-08-19",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Cristian Javier",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 37.096774193548384,
+        "ratio": "23/62"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 27.67,
+    "pitcher": {
+      "name": "George Klassen",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.333333333333332,
+        "ratio": "17/60"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.096774193548384,
+        "tendency": 20.0,
+        "combined": 30.26,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.18
+      },
+      "away_team": {
+        "base": 28.333333333333332,
+        "tendency": 26.666666666666668,
+        "combined": 27.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.37
+      },
+      "game_yrfi_probability": 60.64
+    },
+    "yrfi_probability": 60.64
+  },
+  "metadata": {
+    "generated_at": "2026-08-18T14:22:10.021540",
+    "data_source": "season_data.json"
+  }
+}

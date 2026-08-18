@@ -1,0 +1,67 @@
+{
+  "game_pk": 823586,
+  "game_date": "2026-08-18",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.746031746031743,
+        "ratio": "20/63"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 27.62,
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "15/63"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.746031746031743,
+        "tendency": 33.33333333333333,
+        "combined": 32.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.67
+      },
+      "away_team": {
+        "base": 23.809523809523807,
+        "tendency": 33.33333333333333,
+        "combined": 27.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.33
+      },
+      "game_yrfi_probability": 37.62
+    },
+    "yrfi_probability": 37.62
+  },
+  "metadata": {
+    "generated_at": "2026-08-18T14:22:09.997409",
+    "data_source": "season_data.json"
+  }
+}

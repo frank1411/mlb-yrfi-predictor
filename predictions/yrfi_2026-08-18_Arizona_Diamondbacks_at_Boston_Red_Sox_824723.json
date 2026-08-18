@@ -1,0 +1,67 @@
+{
+  "game_pk": 824723,
+  "game_date": "2026-08-18",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Ranger Suarez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.86885245901639,
+        "ratio": "17/61"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 29.52,
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.984126984126984,
+        "ratio": "17/63"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 27.86885245901639,
+        "tendency": 33.33333333333333,
+        "combined": 30.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.04
+      },
+      "away_team": {
+        "base": 26.984126984126984,
+        "tendency": 33.33333333333333,
+        "combined": 29.52,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.17
+      },
+      "game_yrfi_probability": 43.28
+    },
+    "yrfi_probability": 43.28
+  },
+  "metadata": {
+    "generated_at": "2026-08-18T14:22:09.992992",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Boston Red Sox
 
-**Fecha:** 2026-08-17  
-**Lanzadores:** Mitch Bratt (V) vs Por anunciar (L)
+**Fecha:** 2026-08-18  
+**Lanzadores:** Merrill Kelly (V) vs Ranger Suarez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.7%
+**Probabilidad de que anoten en la primera entrada:** 43.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 28.3% (17/60 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Mitch Bratt):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.1%
+- **Estadística base YRFI:** 27.9% (17/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Merrill Kelly):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.4% (17/62 partidos)
+- **Estadística base YRFI:** 27.0% (17/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.9%
+- **Impacto del lanzador local (Boston Red Sox - Ranger Suarez):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-17 14:17:49
+- **Generado el:** 2026-08-18 14:22:09
 - **Fuente de datos:** season_data.json

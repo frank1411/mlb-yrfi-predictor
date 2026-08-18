@@ -1,0 +1,67 @@
+{
+  "game_pk": 823341,
+  "game_date": "2026-08-18",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.8125,
+        "ratio": "21/64"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 43.83,
+    "pitcher": {
+      "name": "Keider Montero",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 41.935483870967744,
+        "ratio": "26/62"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.8125,
+        "tendency": 13.333333333333334,
+        "combined": 25.02,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.51
+      },
+      "away_team": {
+        "base": 41.935483870967744,
+        "tendency": 46.666666666666664,
+        "combined": 43.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.68
+      },
+      "game_yrfi_probability": 42.82
+    },
+    "yrfi_probability": 42.82
+  },
+  "metadata": {
+    "generated_at": "2026-08-18T14:22:09.966187",
+    "data_source": "season_data.json"
+  }
+}

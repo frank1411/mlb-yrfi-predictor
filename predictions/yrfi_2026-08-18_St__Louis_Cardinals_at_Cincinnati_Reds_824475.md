@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Cincinnati Reds
 
-**Fecha:** 2026-08-17  
-**Lanzadores:** Quinn Mathews (V) vs Kent Emanuel (L)
+**Fecha:** 2026-08-18  
+**Lanzadores:** Kyle Leahy (V) vs Andrew Abbott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.6%
+**Probabilidad de que anoten en la primera entrada:** 54.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 25.4% (16/63 partidos)
+- **Estadística base YRFI:** 26.2% (17/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Quinn Mathews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.1%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Kyle Leahy):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 34.5% (20/58 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Kent Emanuel):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Estadística base YRFI:** 35.0% (21/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Andrew Abbott):** 60.0% (3/5 partidos)
+- **Puntuación ajustada:** 43.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-17 14:17:49
+- **Generado el:** 2026-08-18 14:22:09
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 822938,
+  "game_date": "2026-08-18",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.92063492063492,
+        "ratio": "22/63"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 17.33,
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "12/60"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.92063492063492,
+        "tendency": 26.666666666666668,
+        "combined": 31.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.13
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 13.333333333333334,
+        "combined": 17.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.13
+      },
+      "game_yrfi_probability": 31.58
+    },
+    "yrfi_probability": 31.58
+  },
+  "metadata": {
+    "generated_at": "2026-08-18T14:22:09.983722",
+    "data_source": "season_data.json"
+  }
+}

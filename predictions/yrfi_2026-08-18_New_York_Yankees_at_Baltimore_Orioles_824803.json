@@ -1,0 +1,67 @@
+{
+  "game_pk": 824803,
+  "game_date": "2026-08-18",
+  "home_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "pitcher": {
+      "name": "Shane Baz",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 19.35483870967742,
+        "ratio": "12/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 14.55,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.242424242424242,
+        "ratio": "16/66"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 19.35483870967742,
+        "tendency": 26.666666666666668,
+        "combined": 22.28,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.6
+      },
+      "away_team": {
+        "base": 24.242424242424242,
+        "tendency": 0.0,
+        "combined": 14.55,
+        "pitcher_impact": 0.0,
+        "adjusted": 10.18
+      },
+      "game_yrfi_probability": 24.19
+    },
+    "yrfi_probability": 24.19
+  },
+  "metadata": {
+    "generated_at": "2026-08-18T14:22:09.961247",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Colorado Rockies
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** Blake Snell (V) vs Tomoyuki Sugano (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** Eric Lauer (V) vs Ryan Feltner (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.0%
+**Probabilidad de que anoten en la primera entrada:** 65.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 45.8% (27/59 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Blake Snell):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Estadística base YRFI:** 45.0% (27/60 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Eric Lauer):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 46.4%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 25.8% (16/62 partidos)
+- **Estadística base YRFI:** 25.4% (16/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 31.4%
+- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 36.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-17 14:17:49
+- **Generado el:** 2026-08-18 14:22:10
 - **Fuente de datos:** season_data.json

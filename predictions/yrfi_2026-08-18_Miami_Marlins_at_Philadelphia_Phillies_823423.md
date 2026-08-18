@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Philadelphia Phillies
 
-**Fecha:** 2026-08-17  
-**Lanzadores:** Janson Junk (V) vs Cristopher Sánchez (L)
+**Fecha:** 2026-08-18  
+**Lanzadores:** Cade Gibson (V) vs Zack Wheeler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.4%
+**Probabilidad de que anoten en la primera entrada:** 33.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.3% (25/62 partidos)
+- **Estadística base YRFI:** 39.7% (25/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.5%
+- **Impacto del lanzador visitante (Miami Marlins - Cade Gibson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.3%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 25.8% (16/62 partidos)
+- **Estadística base YRFI:** 25.4% (16/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Cristopher Sánchez):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 20.6%
+- **Impacto del lanzador local (Philadelphia Phillies - Zack Wheeler):** 0.0% (1/2 partidos)
+- **Puntuación ajustada:** 14.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-17 14:17:49
+- **Generado el:** 2026-08-18 14:22:09
 - **Fuente de datos:** season_data.json

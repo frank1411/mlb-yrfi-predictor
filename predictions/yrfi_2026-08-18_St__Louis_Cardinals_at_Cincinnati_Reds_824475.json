@@ -1,0 +1,67 @@
+{
+  "game_pk": 824475,
+  "game_date": "2026-08-18",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 60.0,
+      "yrfi_ratio": "3/5"
+    },
+    "stats": {
+      "base": {
+        "value": 26.153846153846157,
+        "ratio": "17/65"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 37.0,
+    "pitcher": {
+      "name": "Kyle Leahy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.0,
+        "ratio": "21/60"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.153846153846157,
+        "tendency": 26.666666666666668,
+        "combined": 26.36,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.45
+      },
+      "away_team": {
+        "base": 35.0,
+        "tendency": 40.0,
+        "combined": 37.0,
+        "pitcher_impact": 60.0,
+        "adjusted": 43.9
+      },
+      "game_yrfi_probability": 54.25
+    },
+    "yrfi_probability": 54.25
+  },
+  "metadata": {
+    "generated_at": "2026-08-18T14:22:09.976086",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823423,
+  "game_date": "2026-08-18",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 39.682539682539684,
+        "ratio": "25/63"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 20.57,
+    "pitcher": {
+      "name": "Cade Gibson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.396825396825395,
+        "ratio": "16/63"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.682539682539684,
+        "tendency": 20.0,
+        "combined": 31.81,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.27
+      },
+      "away_team": {
+        "base": 25.396825396825395,
+        "tendency": 13.333333333333334,
+        "combined": 20.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.4
+      },
+      "game_yrfi_probability": 33.46
+    },
+    "yrfi_probability": 33.46
+  },
+  "metadata": {
+    "generated_at": "2026-08-18T14:22:09.988416",
+    "data_source": "season_data.json"
+  }
+}
