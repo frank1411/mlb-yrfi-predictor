@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ New York Mets
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** Robbie Ray (V) vs Zac Thornton (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** Michael King (V) vs Robert Stock (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.6%
+**Probabilidad de que anoten en la primera entrada:** 37.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 31.7% (20/63 partidos)
+- **Estadística base YRFI:** 31.2% (20/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Robbie Ray):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 23.8% (15/63 partidos)
+- **Estadística base YRFI:** 25.0% (16/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.3%
+- **Impacto del lanzador local (New York Mets - Robert Stock):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:09
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

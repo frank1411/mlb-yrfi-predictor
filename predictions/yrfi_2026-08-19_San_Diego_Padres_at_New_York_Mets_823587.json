@@ -1,18 +1,18 @@
 {
-  "game_pk": 823586,
-  "game_date": "2026-08-18",
+  "game_pk": 823587,
+  "game_date": "2026-08-19",
   "home_team": {
     "id": "121",
     "name": "New York Mets",
     "pitcher": {
-      "name": "Zac Thornton",
+      "name": "Robert Stock",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 31.746031746031743,
-        "ratio": "20/63"
+        "value": 31.25,
+        "ratio": "20/64"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "135",
     "name": "San Diego Padres",
-    "combined_yrfi_pct": 27.62,
+    "combined_yrfi_pct": 28.33,
     "pitcher": {
-      "name": "Robbie Ray",
+      "name": "Michael King",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 23.809523809523807,
-        "ratio": "15/63"
+        "value": 25.0,
+        "ratio": "16/64"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.746031746031743,
+        "base": 31.25,
         "tendency": 33.33333333333333,
-        "combined": 32.38,
+        "combined": 32.08,
         "pitcher_impact": 0.0,
-        "adjusted": 22.67
+        "adjusted": 22.46
       },
       "away_team": {
-        "base": 23.809523809523807,
+        "base": 25.0,
         "tendency": 33.33333333333333,
-        "combined": 27.62,
+        "combined": 28.33,
         "pitcher_impact": 0.0,
-        "adjusted": 19.33
+        "adjusted": 19.83
       },
-      "game_yrfi_probability": 37.62
+      "game_yrfi_probability": 37.84
     },
-    "yrfi_probability": 37.62
+    "yrfi_probability": 37.84
   },
   "metadata": {
-    "generated_at": "2026-08-18T14:22:09.997409",
+    "generated_at": "2026-08-19T14:23:03.332304",
     "data_source": "season_data.json"
   }
 }

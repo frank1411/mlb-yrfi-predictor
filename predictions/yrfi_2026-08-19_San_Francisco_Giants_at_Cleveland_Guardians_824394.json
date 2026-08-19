@@ -1,18 +1,18 @@
 {
-  "game_pk": 824398,
-  "game_date": "2026-08-18",
+  "game_pk": 824394,
+  "game_date": "2026-08-19",
   "home_team": {
     "id": "114",
     "name": "Cleveland Guardians",
     "pitcher": {
-      "name": "Foster Griffin",
-      "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "1/3"
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 30.64516129032258,
-        "ratio": "19/62"
+        "value": 31.746031746031743,
+        "ratio": "20/63"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "137",
     "name": "San Francisco Giants",
-    "combined_yrfi_pct": 21.55,
+    "combined_yrfi_pct": 21.33,
     "pitcher": {
-      "name": "Carson Whisenhunt",
+      "name": "Matt Wilkinson",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 22.58064516129032,
-        "ratio": "14/62"
+        "value": 22.22222222222222,
+        "ratio": "14/63"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.64516129032258,
+        "base": 31.746031746031743,
         "tendency": 46.666666666666664,
-        "combined": 37.05,
+        "combined": 37.71,
         "pitcher_impact": 0.0,
-        "adjusted": 25.94
+        "adjusted": 26.4
       },
       "away_team": {
-        "base": 22.58064516129032,
+        "base": 22.22222222222222,
         "tendency": 20.0,
-        "combined": 21.55,
-        "pitcher_impact": 33.33333333333333,
-        "adjusted": 25.08
+        "combined": 21.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.93
       },
-      "game_yrfi_probability": 44.51
+      "game_yrfi_probability": 37.39
     },
-    "yrfi_probability": 44.51
+    "yrfi_probability": 37.39
   },
   "metadata": {
-    "generated_at": "2026-08-18T14:22:09.970846",
+    "generated_at": "2026-08-19T14:23:03.367483",
     "data_source": "season_data.json"
   }
 }

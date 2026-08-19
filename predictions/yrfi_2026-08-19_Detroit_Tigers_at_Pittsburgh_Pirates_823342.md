@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Pittsburgh Pirates
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** Keider Montero (V) vs Braxton Ashcraft (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** Jackson Jobe (V) vs Paul Skenes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.8%
+**Probabilidad de que anoten en la primera entrada:** 53.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 32.8% (21/64 partidos)
+- **Estadística base YRFI:** 32.3% (21/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Keider Montero):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.5%
+- **Impacto del lanzador visitante (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.3%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 41.9% (26/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 30.7%
+- **Estadística base YRFI:** 41.3% (26/63 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 43.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:09
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

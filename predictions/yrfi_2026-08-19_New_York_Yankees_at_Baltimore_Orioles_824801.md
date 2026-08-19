@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Baltimore Orioles
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** Carlos Rodón (V) vs Shane Baz (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** Will Warren (V) vs Chris Bassitt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 24.2%
+**Probabilidad de que anoten en la primera entrada:** 32.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 19.4% (12/62 partidos)
+- **Estadística base YRFI:** 19.0% (12/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.6%
+- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 15.5%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 24.2% (16/66 partidos)
+- **Estadística base YRFI:** 23.9% (16/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 10.2%
+- **Impacto del lanzador local (Baltimore Orioles - Chris Bassitt):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 20.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:09
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

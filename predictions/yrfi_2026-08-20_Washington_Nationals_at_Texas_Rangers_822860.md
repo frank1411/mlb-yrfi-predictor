@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Houston Astros
+# Análisis YRFI: Washington Nationals @ Texas Rangers
 
-**Fecha:** 2026-08-19  
-**Lanzadores:** George Klassen (V) vs Cristian Javier (L)
+**Fecha:** 2026-08-20  
+**Lanzadores:** Cade Cavalli (V) vs Kumar Rocker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.6%
+**Probabilidad de que anoten en la primera entrada:** 63.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 37.1% (23/62 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 31.7% (19/60 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - George Klassen):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 51.2%
+- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 28.9%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 28.3% (17/60 partidos)
+### Washington Nationals (Visitante)
+- **Estadística base YRFI:** 28.1% (18/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Cristian Javier):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 19.4%
+- **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 49.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:10
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

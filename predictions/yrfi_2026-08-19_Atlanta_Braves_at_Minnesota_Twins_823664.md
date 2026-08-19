@@ -1,25 +1,25 @@
-# Análisis YRFI: Toronto Blue Jays @ Tampa Bay Rays
+# Análisis YRFI: Atlanta Braves @ Minnesota Twins
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** José Soriano (V) vs Nick Martinez (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** AJ Smith-Shawver (V) vs Taj Bradley (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.6%
+**Probabilidad de que anoten en la primera entrada:** 34.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 34.9% (22/63 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 33.8% (22/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - José Soriano):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Impacto del lanzador visitante (Atlanta Braves - AJ Smith-Shawver):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.7%
 
-### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 20.0% (12/60 partidos)
+### Atlanta Braves (Visitante)
+- **Estadística base YRFI:** 29.5% (18/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Nick Martinez):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 12.1%
+- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 16.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:09
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

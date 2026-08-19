@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Chicago Cubs
 
 **Fecha:** 2026-08-19  
-**Lanzadores:** Por anunciar (V) vs Kevin Gausman (L)
+**Lanzadores:** Sean Newcomb (V) vs Clay Holmes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.9%
+**Probabilidad de que anoten en la primera entrada:** 43.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 33.3% (21/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 36.5%
+- **Estadística base YRFI:** 34.4% (22/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Chicago White Sox - Sean Newcomb):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.8%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 34.9% (22/63 partidos)
+- **Estadística base YRFI:** 34.4% (22/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Kevin Gausman):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador local (Chicago Cubs - Clay Holmes):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 25.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:10
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Cleveland Guardians
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** Carson Whisenhunt (V) vs Foster Griffin (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** Matt Wilkinson (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.5%
+**Probabilidad de que anoten en la primera entrada:** 37.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 30.6% (19/62 partidos)
+- **Estadística base YRFI:** 31.7% (20/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Carson Whisenhunt):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador visitante (San Francisco Giants - Matt Wilkinson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.4%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 22.6% (14/62 partidos)
+- **Estadística base YRFI:** 22.2% (14/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Foster Griffin):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.1%
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 14.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:09
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

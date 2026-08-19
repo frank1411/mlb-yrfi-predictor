@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Milwaukee Brewers
+# Análisis YRFI: Los Angeles Angels @ Houston Astros
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** Bryce Miller (V) vs Kyle Harrison (L)
+**Fecha:** 2026-08-20  
+**Lanzadores:** Walbert Ureña (V) vs Ethan Pecko (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.3%
+**Probabilidad de que anoten en la primera entrada:** 36.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
+### Houston Astros (Local)
 - **Estadística base YRFI:** 36.5% (23/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.8%
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Angels - Walbert Ureña):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.9%
 
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 23.8% (15/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Kyle Harrison):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 33.1%
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 27.9% (17/61 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Ethan Pecko):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:10
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

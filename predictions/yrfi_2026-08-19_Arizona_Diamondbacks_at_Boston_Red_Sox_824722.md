@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Kansas City Royals
+# Análisis YRFI: Arizona Diamondbacks @ Boston Red Sox
 
-**Fecha:** 2026-08-18  
-**Lanzadores:** Jack Perkins (V) vs Por anunciar (L)
+**Fecha:** 2026-08-19  
+**Lanzadores:** Brandon Pfaadt (V) vs Payton Tolle (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.7%
+**Probabilidad de que anoten en la primera entrada:** 37.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 35.0% (21/60 partidos)
+### Boston Red Sox (Local)
+- **Estadística base YRFI:** 29.0% (18/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Brandon Pfaadt):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.5%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 22.6% (14/62 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 26.6% (17/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 33.8%
+- **Impacto del lanzador local (Boston Red Sox - Payton Tolle):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:10
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json

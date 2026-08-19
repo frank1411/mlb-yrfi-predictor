@@ -1,18 +1,18 @@
 {
-  "game_pk": 824803,
-  "game_date": "2026-08-18",
+  "game_pk": 824801,
+  "game_date": "2026-08-19",
   "home_team": {
     "id": "110",
     "name": "Baltimore Orioles",
     "pitcher": {
-      "name": "Shane Baz",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 19.35483870967742,
-        "ratio": "12/62"
+        "value": 19.047619047619047,
+        "ratio": "12/63"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "147",
     "name": "New York Yankees",
-    "combined_yrfi_pct": 14.55,
+    "combined_yrfi_pct": 14.33,
     "pitcher": {
-      "name": "Carlos Rodón",
+      "name": "Will Warren",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 24.242424242424242,
-        "ratio": "16/66"
+        "value": 23.88059701492537,
+        "ratio": "16/67"
       },
       "tendency": {
         "value": 0.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 19.35483870967742,
+        "base": 19.047619047619047,
         "tendency": 26.666666666666668,
-        "combined": 22.28,
+        "combined": 22.1,
         "pitcher_impact": 0.0,
-        "adjusted": 15.6
+        "adjusted": 15.47
       },
       "away_team": {
-        "base": 24.242424242424242,
+        "base": 23.88059701492537,
         "tendency": 0.0,
-        "combined": 14.55,
-        "pitcher_impact": 0.0,
-        "adjusted": 10.18
+        "combined": 14.33,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 20.03
       },
-      "game_yrfi_probability": 24.19
+      "game_yrfi_probability": 32.4
     },
-    "yrfi_probability": 24.19
+    "yrfi_probability": 32.4
   },
   "metadata": {
-    "generated_at": "2026-08-18T14:22:09.961247",
+    "generated_at": "2026-08-19T14:23:03.363147",
     "data_source": "season_data.json"
   }
 }

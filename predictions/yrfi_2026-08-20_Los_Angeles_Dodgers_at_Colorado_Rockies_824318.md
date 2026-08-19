@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Colorado Rockies
 
-**Fecha:** 2026-08-19  
-**Lanzadores:** Eric Lauer (V) vs Ryan Feltner (L)
+**Fecha:** 2026-08-20  
+**Lanzadores:** Roki Sasaki (V) vs Kyle Freeland (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.8%
+**Probabilidad de que anoten en la primera entrada:** 40.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 45.0% (27/60 partidos)
+- **Estadística base YRFI:** 45.9% (28/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Eric Lauer):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 46.4%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 26.8%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 25.4% (16/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Ryan Feltner):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 36.3%
+- **Estadística base YRFI:** 26.6% (17/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-18 14:22:10
+- **Generado el:** 2026-08-19 14:23:03
 - **Fuente de datos:** season_data.json
