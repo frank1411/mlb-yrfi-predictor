@@ -1,0 +1,67 @@
+{
+  "game_pk": 822934,
+  "game_date": "2026-08-20",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Ian Seymour",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.38461538461539,
+        "ratio": "23/65"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 20.58,
+    "pitcher": {
+      "name": "Shane Bieber",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 20.967741935483872,
+        "ratio": "13/62"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.38461538461539,
+        "tendency": 33.33333333333333,
+        "combined": 34.56,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.19
+      },
+      "away_team": {
+        "base": 20.967741935483872,
+        "tendency": 20.0,
+        "combined": 20.58,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.41
+      },
+      "game_yrfi_probability": 35.11
+    },
+    "yrfi_probability": 35.11
+  },
+  "metadata": {
+    "generated_at": "2026-08-20T14:24:54.821697",
+    "data_source": "season_data.json"
+  }
+}

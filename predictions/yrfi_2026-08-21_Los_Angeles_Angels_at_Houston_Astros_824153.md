@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Houston Astros
 
-**Fecha:** 2026-08-20  
-**Lanzadores:** Walbert Ureña (V) vs Ethan Pecko (L)
+**Fecha:** 2026-08-21  
+**Lanzadores:** Grayson Rodriguez (V) vs Peter Lambert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.1%
+**Probabilidad de que anoten en la primera entrada:** 58.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 36.5% (23/63 partidos)
+- **Estadística base YRFI:** 35.9% (23/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Walbert Ureña):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador visitante (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.7%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 27.9% (17/61 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Ethan Pecko):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.2%
+- **Estadística base YRFI:** 27.4% (17/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 47.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-19 14:23:03
+- **Generado el:** 2026-08-20 14:24:54
 - **Fuente de datos:** season_data.json

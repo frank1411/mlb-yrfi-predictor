@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Milwaukee Brewers
 
-**Fecha:** 2026-08-19  
-**Lanzadores:** Logan Gilbert (V) vs Dustin May (L)
+**Fecha:** 2026-08-20  
+**Lanzadores:** George Kirby (V) vs Robert Gasser (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.2%
+**Probabilidad de que anoten en la primera entrada:** 41.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 37.5% (24/64 partidos)
+- **Estadística base YRFI:** 36.9% (24/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 40.1%
+- **Impacto del lanzador visitante (Seattle Mariners - George Kirby):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.8%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 23.4% (15/64 partidos)
+- **Estadística base YRFI:** 24.6% (16/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Dustin May):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-19 14:23:03
+- **Generado el:** 2026-08-20 14:24:54
 - **Fuente de datos:** season_data.json

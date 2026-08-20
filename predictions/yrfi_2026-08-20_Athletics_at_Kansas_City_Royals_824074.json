@@ -1,18 +1,18 @@
 {
-  "game_pk": 823587,
-  "game_date": "2026-08-19",
+  "game_pk": 824074,
+  "game_date": "2026-08-20",
   "home_team": {
-    "id": "121",
-    "name": "New York Mets",
+    "id": "118",
+    "name": "Kansas City Royals",
     "pitcher": {
-      "name": "Robert Stock",
+      "name": "Randy Dobnak",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 31.25,
-        "ratio": "20/64"
+        "value": 33.87096774193548,
+        "ratio": "21/62"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,13 +21,13 @@
     }
   },
   "away_team": {
-    "id": "135",
-    "name": "San Diego Padres",
-    "combined_yrfi_pct": 28.33,
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 33.67,
     "pitcher": {
-      "name": "Michael King",
+      "name": "Gage Jump",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -35,33 +35,33 @@
         "ratio": "16/64"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 46.666666666666664,
+        "ratio": "7/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.25,
+        "base": 33.87096774193548,
         "tendency": 33.33333333333333,
-        "combined": 32.08,
+        "combined": 33.66,
         "pitcher_impact": 0.0,
-        "adjusted": 22.46
+        "adjusted": 23.56
       },
       "away_team": {
         "base": 25.0,
-        "tendency": 33.33333333333333,
-        "combined": 28.33,
+        "tendency": 46.666666666666664,
+        "combined": 33.67,
         "pitcher_impact": 0.0,
-        "adjusted": 19.83
+        "adjusted": 23.57
       },
-      "game_yrfi_probability": 37.84
+      "game_yrfi_probability": 41.58
     },
-    "yrfi_probability": 37.84
+    "yrfi_probability": 41.58
   },
   "metadata": {
-    "generated_at": "2026-08-19T14:23:03.332304",
+    "generated_at": "2026-08-20T14:24:54.826339",
     "data_source": "season_data.json"
   }
 }

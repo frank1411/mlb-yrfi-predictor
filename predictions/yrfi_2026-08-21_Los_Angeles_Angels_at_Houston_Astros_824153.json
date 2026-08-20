@@ -1,0 +1,67 @@
+{
+  "game_pk": 824153,
+  "game_date": "2026-08-21",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Peter Lambert",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 35.9375,
+        "ratio": "23/64"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 24.45,
+    "pitcher": {
+      "name": "Grayson Rodriguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.419354838709676,
+        "ratio": "17/62"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.9375,
+        "tendency": 20.0,
+        "combined": 29.56,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.69
+      },
+      "away_team": {
+        "base": 27.419354838709676,
+        "tendency": 20.0,
+        "combined": 24.45,
+        "pitcher_impact": 100.0,
+        "adjusted": 47.12
+      },
+      "game_yrfi_probability": 58.06
+    },
+    "yrfi_probability": 58.06
+  },
+  "metadata": {
+    "generated_at": "2026-08-20T14:24:54.853623",
+    "data_source": "season_data.json"
+  }
+}

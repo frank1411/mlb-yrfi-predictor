@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Baltimore Orioles
 
-**Fecha:** 2026-08-19  
-**Lanzadores:** Will Warren (V) vs Chris Bassitt (L)
+**Fecha:** 2026-08-20  
+**Lanzadores:** Gerrit Cole (V) vs Kyle Bradish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.4%
+**Probabilidad de que anoten en la primera entrada:** 26.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 19.0% (12/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 15.5%
+- **Estadística base YRFI:** 20.3% (13/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.9%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 23.9% (16/67 partidos)
+- **Estadística base YRFI:** 23.5% (16/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Chris Bassitt):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 20.0%
+- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 9.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-19 14:23:03
+- **Generado el:** 2026-08-20 14:24:54
 - **Fuente de datos:** season_data.json
