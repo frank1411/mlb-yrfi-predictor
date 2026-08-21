@@ -1,0 +1,67 @@
+{
+  "game_pk": 824559,
+  "game_date": "2026-08-21",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.158730158730158,
+        "ratio": "19/63"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 27.62,
+    "pitcher": {
+      "name": "Sean Manaea",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.809523809523807,
+        "ratio": "15/63"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.158730158730158,
+        "tendency": 33.33333333333333,
+        "combined": 31.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.0
+      },
+      "away_team": {
+        "base": 23.809523809523807,
+        "tendency": 33.33333333333333,
+        "combined": 27.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.33
+      },
+      "game_yrfi_probability": 37.08
+    },
+    "yrfi_probability": 37.08
+  },
+  "metadata": {
+    "generated_at": "2026-08-21T14:24:02.500595",
+    "data_source": "season_data.json"
+  }
+}

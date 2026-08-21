@@ -1,18 +1,18 @@
 {
-  "game_pk": 824074,
-  "game_date": "2026-08-20",
+  "game_pk": 824072,
+  "game_date": "2026-08-22",
   "home_team": {
     "id": "118",
     "name": "Kansas City Royals",
     "pitcher": {
-      "name": "Randy Dobnak",
+      "name": "Noah Cameron",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 33.87096774193548,
-        "ratio": "21/62"
+        "value": 34.92063492063492,
+        "ratio": "22/63"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,47 +21,47 @@
     }
   },
   "away_team": {
-    "id": "133",
-    "name": "Athletics",
-    "combined_yrfi_pct": 33.67,
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 37.71,
     "pitcher": {
-      "name": "Gage Jump",
+      "name": "Troy Melton",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "16/64"
+        "value": 40.625,
+        "ratio": "26/64"
       },
       "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.87096774193548,
+        "base": 34.92063492063492,
         "tendency": 33.33333333333333,
-        "combined": 33.66,
+        "combined": 34.29,
         "pitcher_impact": 0.0,
-        "adjusted": 23.56
+        "adjusted": 24.0
       },
       "away_team": {
-        "base": 25.0,
-        "tendency": 46.666666666666664,
-        "combined": 33.67,
+        "base": 40.625,
+        "tendency": 33.33333333333333,
+        "combined": 37.71,
         "pitcher_impact": 0.0,
-        "adjusted": 23.57
+        "adjusted": 26.4
       },
-      "game_yrfi_probability": 41.58
+      "game_yrfi_probability": 44.06
     },
-    "yrfi_probability": 41.58
+    "yrfi_probability": 44.06
   },
   "metadata": {
-    "generated_at": "2026-08-20T14:24:54.826339",
+    "generated_at": "2026-08-21T14:24:02.504993",
     "data_source": "season_data.json"
   }
 }

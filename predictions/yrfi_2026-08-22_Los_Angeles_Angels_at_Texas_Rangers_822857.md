@@ -1,25 +1,25 @@
-# Análisis YRFI: Washington Nationals @ Texas Rangers
+# Análisis YRFI: Los Angeles Angels @ Texas Rangers
 
-**Fecha:** 2026-08-21  
-**Lanzadores:** Andrew Alvarez (V) vs Jacob deGrom (L)
+**Fecha:** 2026-08-22  
+**Lanzadores:** Reid Detmers (V) vs MacKenzie Gore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 34.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 31.1% (19/61 partidos)
+- **Estadística base YRFI:** 30.6% (19/62 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.7%
+- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.5%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 27.7% (18/65 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 28.6% (18/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 39.1%
+- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-20 14:24:54
+- **Generado el:** 2026-08-21 14:24:02
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823746,
+  "game_date": "2026-08-21",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 37.878787878787875,
+        "ratio": "25/66"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 22.48,
+    "pitcher": {
+      "name": "Chris Sale",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "18/63"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.878787878787875,
+        "tendency": 40.0,
+        "combined": 38.73,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 37.11
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 13.333333333333334,
+        "combined": 22.48,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.23
+      },
+      "game_yrfi_probability": 51.72
+    },
+    "yrfi_probability": 51.72
+  },
+  "metadata": {
+    "generated_at": "2026-08-21T14:24:02.474140",
+    "data_source": "season_data.json"
+  }
+}

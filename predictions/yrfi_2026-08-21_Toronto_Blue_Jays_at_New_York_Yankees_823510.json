@@ -1,0 +1,67 @@
+{
+  "game_pk": 823510,
+  "game_date": "2026-08-21",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.48275862068966,
+        "ratio": "20/58"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 20.38,
+    "pitcher": {
+      "name": "Mason Fluharty",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 20.634920634920633,
+        "ratio": "13/63"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.48275862068966,
+        "tendency": 0.0,
+        "combined": 20.69,
+        "pitcher_impact": 100.0,
+        "adjusted": 44.48
+      },
+      "away_team": {
+        "base": 20.634920634920633,
+        "tendency": 20.0,
+        "combined": 20.38,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.27
+      },
+      "game_yrfi_probability": 52.4
+    },
+    "yrfi_probability": 52.4
+  },
+  "metadata": {
+    "generated_at": "2026-08-21T14:24:02.482564",
+    "data_source": "season_data.json"
+  }
+}

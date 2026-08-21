@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Houston Astros
+# Análisis YRFI: Pittsburgh Pirates @ Los Angeles Dodgers
 
-**Fecha:** 2026-08-21  
-**Lanzadores:** Grayson Rodriguez (V) vs Peter Lambert (L)
+**Fecha:** 2026-08-22  
+**Lanzadores:** Bubba Chandler (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.1%
+**Probabilidad de que anoten en la primera entrada:** 40.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 35.9% (23/64 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 34.9% (22/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.7%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.3%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 27.4% (17/62 partidos)
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 28.6% (18/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 47.1%
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 25.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-20 14:24:54
+- **Generado el:** 2026-08-21 14:24:02
 - **Fuente de datos:** season_data.json
