@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ San Diego Padres
 
-**Fecha:** 2026-08-22  
-**Lanzadores:** Connor Prielipp (V) vs Por anunciar (L)
+**Fecha:** 2026-08-23  
+**Lanzadores:** Dean Kremer (V) vs Casey Mize (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 67.2%
+**Probabilidad de que anoten en la primera entrada:** 36.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 22.2% (14/63 partidos)
+- **Estadística base YRFI:** 23.4% (15/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Connor Prielipp):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 48.7%
+- **Impacto del lanzador visitante (Minnesota Twins - Dean Kremer):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 19.2%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 32.3% (20/62 partidos)
+- **Estadística base YRFI:** 31.7% (20/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 36.0%
+- **Impacto del lanzador local (San Diego Padres - Casey Mize):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-21 14:24:02
+- **Generado el:** 2026-08-22 14:11:38
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 824072,
+  "game_pk": 824073,
   "game_date": "2026-08-22",
   "home_team": {
     "id": "118",
     "name": "Kansas City Royals",
     "pitcher": {
-      "name": "Noah Cameron",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "name": "Michael Wacha",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
-        "value": 34.92063492063492,
-        "ratio": "22/63"
+        "value": 34.375,
+        "ratio": "22/64"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "116",
     "name": "Detroit Tigers",
-    "combined_yrfi_pct": 37.71,
+    "combined_yrfi_pct": 37.33,
     "pitcher": {
-      "name": "Troy Melton",
+      "name": "Drew Anderson",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 40.625,
-        "ratio": "26/64"
+        "value": 40.0,
+        "ratio": "26/65"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 34.92063492063492,
+        "base": 34.375,
         "tendency": 33.33333333333333,
-        "combined": 34.29,
+        "combined": 33.96,
         "pitcher_impact": 0.0,
-        "adjusted": 24.0
+        "adjusted": 23.77
       },
       "away_team": {
-        "base": 40.625,
+        "base": 40.0,
         "tendency": 33.33333333333333,
-        "combined": 37.71,
-        "pitcher_impact": 0.0,
-        "adjusted": 26.4
+        "combined": 37.33,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 36.13
       },
-      "game_yrfi_probability": 44.06
+      "game_yrfi_probability": 51.31
     },
-    "yrfi_probability": 44.06
+    "yrfi_probability": 51.31
   },
   "metadata": {
-    "generated_at": "2026-08-21T14:24:02.504993",
+    "generated_at": "2026-08-22T14:11:38.155594",
     "data_source": "season_data.json"
   }
 }

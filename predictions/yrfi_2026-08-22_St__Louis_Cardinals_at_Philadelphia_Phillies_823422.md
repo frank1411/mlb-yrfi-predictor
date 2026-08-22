@@ -1,7 +1,7 @@
-# Análisis YRFI: Cleveland Guardians @ Colorado Rockies
+# Análisis YRFI: St. Louis Cardinals @ Philadelphia Phillies
 
 **Fecha:** 2026-08-22  
-**Lanzadores:** Joey Cantillo (V) vs Tanner Gordon (L)
+**Lanzadores:** Por anunciar (V) vs Andrew Painter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 45.2% (28/62 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Joey Cantillo):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 41.4%
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 39.4% (26/66 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.1%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.8% (15/63 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 35.9% (23/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.1%
+- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-21 14:24:02
+- **Generado el:** 2026-08-22 14:11:38
 - **Fuente de datos:** season_data.json

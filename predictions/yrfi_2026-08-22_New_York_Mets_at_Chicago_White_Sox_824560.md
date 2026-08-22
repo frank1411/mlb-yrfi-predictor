@@ -1,25 +1,25 @@
-# Análisis YRFI: Detroit Tigers @ Kansas City Royals
+# Análisis YRFI: New York Mets @ Chicago White Sox
 
 **Fecha:** 2026-08-22  
-**Lanzadores:** Troy Melton (V) vs Noah Cameron (L)
+**Lanzadores:** Christian Scott (V) vs Luis Castillo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.1%
+**Probabilidad de que anoten en la primera entrada:** 64.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 34.9% (22/63 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Troy Melton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.0%
+- **Impacto del lanzador visitante (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 51.8%
 
-### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 40.6% (26/64 partidos)
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 23.4% (15/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador local (Chicago White Sox - Luis Castillo):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 26.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-21 14:24:02
+- **Generado el:** 2026-08-22 14:11:38
 - **Fuente de datos:** season_data.json

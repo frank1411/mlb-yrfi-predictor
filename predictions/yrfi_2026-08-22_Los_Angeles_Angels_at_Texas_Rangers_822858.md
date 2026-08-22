@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Texas Rangers
 
 **Fecha:** 2026-08-22  
-**Lanzadores:** Reid Detmers (V) vs MacKenzie Gore (L)
+**Lanzadores:** Ryan Johnson (V) vs Cody Bradford (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.3%
+**Probabilidad de que anoten en la primera entrada:** 58.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 30.6% (19/62 partidos)
+- **Estadística base YRFI:** 30.2% (19/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.5%
+- **Impacto del lanzador visitante (Los Angeles Angels - Ryan Johnson):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 48.3%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 28.6% (18/63 partidos)
+- **Estadística base YRFI:** 28.1% (18/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.5%
+- **Impacto del lanzador local (Texas Rangers - Cody Bradford):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-21 14:24:02
+- **Generado el:** 2026-08-22 14:11:38
 - **Fuente de datos:** season_data.json

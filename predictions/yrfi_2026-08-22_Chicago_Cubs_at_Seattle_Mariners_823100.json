@@ -1,18 +1,18 @@
 {
-  "game_pk": 823101,
+  "game_pk": 823100,
   "game_date": "2026-08-22",
   "home_team": {
     "id": "136",
     "name": "Seattle Mariners",
     "pitcher": {
-      "name": "Emerson Hancock",
+      "name": "Kade Anderson",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 33.87096774193548,
-        "ratio": "21/62"
+        "value": 33.33333333333333,
+        "ratio": "21/63"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "112",
     "name": "Chicago Cubs",
-    "combined_yrfi_pct": 21.14,
+    "combined_yrfi_pct": 21.92,
     "pitcher": {
-      "name": "Matthew Boyd",
+      "name": "David Peterson",
       "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "yrfi_ratio": "2/2"
     },
     "stats": {
       "base": {
-        "value": 17.46031746031746,
-        "ratio": "11/63"
+        "value": 18.75,
+        "ratio": "12/64"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 33.87096774193548,
+        "base": 33.33333333333333,
         "tendency": 33.33333333333333,
-        "combined": 33.66,
+        "combined": 33.33,
         "pitcher_impact": 100.0,
-        "adjusted": 53.56
+        "adjusted": 53.33
       },
       "away_team": {
-        "base": 17.46031746031746,
+        "base": 18.75,
         "tendency": 26.666666666666668,
-        "combined": 21.14,
+        "combined": 21.92,
         "pitcher_impact": 0.0,
-        "adjusted": 14.8
+        "adjusted": 15.34
       },
-      "game_yrfi_probability": 60.43
+      "game_yrfi_probability": 60.49
     },
-    "yrfi_probability": 60.43
+    "yrfi_probability": 60.49
   },
   "metadata": {
-    "generated_at": "2026-08-21T14:24:02.535872",
+    "generated_at": "2026-08-22T14:11:38.161882",
     "data_source": "season_data.json"
   }
 }

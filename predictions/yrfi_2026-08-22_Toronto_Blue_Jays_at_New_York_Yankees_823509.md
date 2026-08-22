@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ New York Yankees
 
-**Fecha:** 2026-08-21  
-**Lanzadores:** Mason Fluharty (V) vs Cam Schlittler (L)
+**Fecha:** 2026-08-22  
+**Lanzadores:** Dylan Cease (V) vs Ryan Weathers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.4%
+**Probabilidad de que anoten en la primera entrada:** 53.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 34.5% (20/58 partidos)
+- **Estadística base YRFI:** 33.9% (20/59 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Mason Fluharty):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 44.5%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 36.7%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 20.6% (13/63 partidos)
+- **Estadística base YRFI:** 20.3% (13/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 14.3%
+- **Impacto del lanzador local (New York Yankees - Ryan Weathers):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 26.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-21 14:24:02
+- **Generado el:** 2026-08-22 14:11:38
 - **Fuente de datos:** season_data.json

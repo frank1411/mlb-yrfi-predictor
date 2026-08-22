@@ -1,0 +1,67 @@
+{
+  "game_pk": 824718,
+  "game_date": "2026-08-22",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Patrick Sandoval",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.6875,
+        "ratio": "19/64"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 20.73,
+    "pitcher": {
+      "name": "Blade Tidwell",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.21212121212121,
+        "ratio": "14/66"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.6875,
+        "tendency": 26.666666666666668,
+        "combined": 28.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.94
+      },
+      "away_team": {
+        "base": 21.21212121212121,
+        "tendency": 20.0,
+        "combined": 20.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.51
+      },
+      "game_yrfi_probability": 31.56
+    },
+    "yrfi_probability": 31.56
+  },
+  "metadata": {
+    "generated_at": "2026-08-22T14:11:38.165099",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823422,
+  "game_date": "2026-08-22",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Andrew Painter",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 39.39393939393939,
+        "ratio": "26/66"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 40.23,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.9375,
+        "ratio": "23/64"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.39393939393939,
+        "tendency": 20.0,
+        "combined": 31.64,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.15
+      },
+      "away_team": {
+        "base": 35.9375,
+        "tendency": 46.666666666666664,
+        "combined": 40.23,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.16
+      },
+      "game_yrfi_probability": 54.85
+    },
+    "yrfi_probability": 54.85
+  },
+  "metadata": {
+    "generated_at": "2026-08-22T14:11:38.140003",
+    "data_source": "season_data.json"
+  }
+}

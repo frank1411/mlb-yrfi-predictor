@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Milwaukee Brewers
+# Análisis YRFI: Cincinnati Reds @ Arizona Diamondbacks
 
-**Fecha:** 2026-08-21  
-**Lanzadores:** Chris Sale (V) vs Jacob Misiorowski (L)
+**Fecha:** 2026-08-23  
+**Lanzadores:** Rhett Lowder (V) vs Michael Soroka (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.7%
+**Probabilidad de que anoten en la primera entrada:** 56.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 37.9% (25/66 partidos)
+### Arizona Diamondbacks (Local)
+- **Estadística base YRFI:** 35.9% (23/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Chris Sale):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 37.1%
+- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 48.8%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 28.6% (18/63 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 27.9% (17/61 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 23.2%
+- **Impacto del lanzador local (Arizona Diamondbacks - Michael Soroka):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 15.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-21 14:24:02
+- **Generado el:** 2026-08-22 14:11:38
 - **Fuente de datos:** season_data.json

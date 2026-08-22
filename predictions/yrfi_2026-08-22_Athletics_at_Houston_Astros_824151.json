@@ -1,0 +1,67 @@
+{
+  "game_pk": 824151,
+  "game_date": "2026-08-22",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "24/66"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 30.55,
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.242424242424242,
+        "ratio": "16/66"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 26.666666666666668,
+        "combined": 32.48,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 42.74
+      },
+      "away_team": {
+        "base": 24.242424242424242,
+        "tendency": 40.0,
+        "combined": 30.55,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.38
+      },
+      "game_yrfi_probability": 54.98
+    },
+    "yrfi_probability": 54.98
+  },
+  "metadata": {
+    "generated_at": "2026-08-22T14:11:38.149477",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823743,
+  "game_date": "2026-08-22",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Logan Henderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 37.3134328358209,
+        "ratio": "25/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 22.21,
+    "pitcher": {
+      "name": "Martín Pérez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.125,
+        "ratio": "18/64"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.3134328358209,
+        "tendency": 40.0,
+        "combined": 38.39,
+        "pitcher_impact": 50.0,
+        "adjusted": 41.87
+      },
+      "away_team": {
+        "base": 28.125,
+        "tendency": 13.333333333333334,
+        "combined": 22.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.55
+      },
+      "game_yrfi_probability": 50.91
+    },
+    "yrfi_probability": 50.91
+  },
+  "metadata": {
+    "generated_at": "2026-08-22T14:11:38.130088",
+    "data_source": "season_data.json"
+  }
+}

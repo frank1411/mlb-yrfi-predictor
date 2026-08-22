@@ -1,0 +1,67 @@
+{
+  "game_pk": 824560,
+  "game_date": "2026-08-22",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Luis Castillo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 29.6875,
+        "ratio": "19/64"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 27.4,
+    "pitcher": {
+      "name": "Christian Scott",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.4375,
+        "ratio": "15/64"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.6875,
+        "tendency": 33.33333333333333,
+        "combined": 31.15,
+        "pitcher_impact": 100.0,
+        "adjusted": 51.8
+      },
+      "away_team": {
+        "base": 23.4375,
+        "tendency": 33.33333333333333,
+        "combined": 27.4,
+        "pitcher_impact": 25.0,
+        "adjusted": 26.68
+      },
+      "game_yrfi_probability": 64.66
+    },
+    "yrfi_probability": 64.66
+  },
+  "metadata": {
+    "generated_at": "2026-08-22T14:11:38.152571",
+    "data_source": "season_data.json"
+  }
+}

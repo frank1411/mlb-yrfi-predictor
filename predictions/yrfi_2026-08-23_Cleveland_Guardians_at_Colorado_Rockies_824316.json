@@ -1,0 +1,67 @@
+{
+  "game_pk": 824316,
+  "game_date": "2026-08-23",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Gabriel Hughes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 46.03174603174603,
+        "ratio": "29/63"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 32.73,
+    "pitcher": {
+      "name": "Tanner Bibee",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.4375,
+        "ratio": "15/64"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 46.03174603174603,
+        "tendency": 33.33333333333333,
+        "combined": 40.95,
+        "pitcher_impact": 25.0,
+        "adjusted": 36.17
+      },
+      "away_team": {
+        "base": 23.4375,
+        "tendency": 46.666666666666664,
+        "combined": 32.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.91
+      },
+      "game_yrfi_probability": 50.79
+    },
+    "yrfi_probability": 50.79
+  },
+  "metadata": {
+    "generated_at": "2026-08-22T14:11:38.171538",
+    "data_source": "season_data.json"
+  }
+}

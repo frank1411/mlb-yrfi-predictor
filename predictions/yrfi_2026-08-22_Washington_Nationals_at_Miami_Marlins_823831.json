@@ -1,0 +1,67 @@
+{
+  "game_pk": 823831,
+  "game_date": "2026-08-22",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "20/64"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 24.12,
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.865671641791046,
+        "ratio": "18/67"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 6.666666666666667,
+        "combined": 21.42,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.99
+      },
+      "away_team": {
+        "base": 26.865671641791046,
+        "tendency": 20.0,
+        "combined": 24.12,
+        "pitcher_impact": 25.0,
+        "adjusted": 24.38
+      },
+      "game_yrfi_probability": 47.06
+    },
+    "yrfi_probability": 47.06
+  },
+  "metadata": {
+    "generated_at": "2026-08-22T14:11:38.136250",
+    "data_source": "season_data.json"
+  }
+}
