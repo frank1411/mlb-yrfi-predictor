@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Houston Astros
 
-**Fecha:** 2026-08-22  
-**Lanzadores:** Jacob Lopez (V) vs Hunter Brown (L)
+**Fecha:** 2026-08-23  
+**Lanzadores:** Brady Basso (V) vs Cristian Javier (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.0%
+**Probabilidad de que anoten en la primera entrada:** 39.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 36.4% (24/66 partidos)
+- **Estadística base YRFI:** 35.8% (24/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 42.7%
+- **Impacto del lanzador visitante (Athletics - Brady Basso):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 24.2% (16/66 partidos)
+- **Estadística base YRFI:** 23.9% (16/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Hunter Brown):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.4%
+- **Impacto del lanzador local (Houston Astros - Cristian Javier):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 21.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-22 14:11:38
+- **Generado el:** 2026-08-23 14:13:26
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Baltimore Orioles
 
-**Fecha:** 2026-08-22  
-**Lanzadores:** Shane McClanahan (V) vs Brandon Young (L)
+**Fecha:** 2026-08-23  
+**Lanzadores:** Nick Martinez (V) vs Shane Baz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.0%
+**Probabilidad de que anoten en la primera entrada:** 34.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 21.2% (14/66 partidos)
+- **Estadística base YRFI:** 20.9% (14/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Shane McClanahan):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.1%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 20.0%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 29.0% (18/62 partidos)
+- **Estadística base YRFI:** 28.6% (18/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.8%
+- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-22 14:11:38
+- **Generado el:** 2026-08-23 14:13:26
 - **Fuente de datos:** season_data.json

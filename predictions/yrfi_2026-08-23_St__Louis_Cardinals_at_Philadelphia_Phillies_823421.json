@@ -1,0 +1,67 @@
+{
+  "game_pk": 823421,
+  "game_date": "2026-08-23",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 40.298507462686565,
+        "ratio": "27/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 37.23,
+    "pitcher": {
+      "name": "Kyle Leahy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.38461538461539,
+        "ratio": "23/65"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.298507462686565,
+        "tendency": 26.666666666666668,
+        "combined": 34.85,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.39
+      },
+      "away_team": {
+        "base": 35.38461538461539,
+        "tendency": 40.0,
+        "combined": 37.23,
+        "pitcher_impact": 20.0,
+        "adjusted": 32.06
+      },
+      "game_yrfi_probability": 48.63
+    },
+    "yrfi_probability": 48.63
+  },
+  "metadata": {
+    "generated_at": "2026-08-23T14:13:26.548232",
+    "data_source": "season_data.json"
+  }
+}

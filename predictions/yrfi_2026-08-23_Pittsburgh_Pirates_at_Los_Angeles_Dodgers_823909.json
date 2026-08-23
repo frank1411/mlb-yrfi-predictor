@@ -1,18 +1,18 @@
 {
-  "game_pk": 823910,
-  "game_date": "2026-08-22",
+  "game_pk": 823909,
+  "game_date": "2026-08-23",
   "home_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Tarik Skubal",
+      "name": "Blake Snell",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 35.9375,
-        "ratio": "23/64"
+        "value": 35.38461538461539,
+        "ratio": "23/65"
       },
       "tendency": {
         "value": 20.0,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
-    "combined_yrfi_pct": 28.48,
+    "combined_yrfi_pct": 31.79,
     "pitcher": {
-      "name": "Jared Jones",
+      "name": "Lake Bachar",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 29.6875,
-        "ratio": "19/64"
+        "value": 30.76923076923077,
+        "ratio": "20/65"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 35.9375,
+        "base": 35.38461538461539,
         "tendency": 20.0,
-        "combined": 29.56,
+        "combined": 29.23,
         "pitcher_impact": 0.0,
-        "adjusted": 20.69
+        "adjusted": 20.46
       },
       "away_team": {
-        "base": 29.6875,
-        "tendency": 26.666666666666668,
-        "combined": 28.48,
+        "base": 30.76923076923077,
+        "tendency": 33.33333333333333,
+        "combined": 31.79,
         "pitcher_impact": 0.0,
-        "adjusted": 19.94
+        "adjusted": 22.26
       },
-      "game_yrfi_probability": 36.5
+      "game_yrfi_probability": 38.17
     },
-    "yrfi_probability": 36.5
+    "yrfi_probability": 38.17
   },
   "metadata": {
-    "generated_at": "2026-08-22T14:11:38.158866",
+    "generated_at": "2026-08-23T14:13:26.587823",
     "data_source": "season_data.json"
   }
 }

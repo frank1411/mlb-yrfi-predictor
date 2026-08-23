@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Colorado Rockies
 
 **Fecha:** 2026-08-23  
-**Lanzadores:** Tanner Bibee (V) vs Gabriel Hughes (L)
+**Lanzadores:** Foster Griffin (V) vs Tomoyuki Sugano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.8%
+**Probabilidad de que anoten en la primera entrada:** 55.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 46.0% (29/63 partidos)
+- **Estadística base YRFI:** 45.3% (29/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 36.2%
+- **Impacto del lanzador visitante (Cleveland Guardians - Foster Griffin):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 23.4% (15/64 partidos)
+- **Estadística base YRFI:** 23.1% (15/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Gabriel Hughes):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 37.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-22 14:11:38
+- **Generado el:** 2026-08-23 14:13:26
 - **Fuente de datos:** season_data.json

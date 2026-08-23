@@ -1,0 +1,67 @@
+{
+  "game_pk": 823099,
+  "game_date": "2026-08-23",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.375,
+        "ratio": "22/64"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 21.74,
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 18.461538461538463,
+        "ratio": "12/65"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.375,
+        "tendency": 40.0,
+        "combined": 36.62,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 45.64
+      },
+      "away_team": {
+        "base": 18.461538461538463,
+        "tendency": 26.666666666666668,
+        "combined": 21.74,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.22
+      },
+      "game_yrfi_probability": 53.91
+    },
+    "yrfi_probability": 53.91
+  },
+  "metadata": {
+    "generated_at": "2026-08-23T14:13:26.592834",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Boston Red Sox
 
-**Fecha:** 2026-08-22  
-**Lanzadores:** Blade Tidwell (V) vs Patrick Sandoval (L)
+**Fecha:** 2026-08-23  
+**Lanzadores:** Matt Wilkinson (V) vs Jake Bennett (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.6%
+**Probabilidad de que anoten en la primera entrada:** 33.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Boston Red Sox (Local)
-- **Estadística base YRFI:** 29.7% (19/64 partidos)
+- **Estadística base YRFI:** 29.2% (19/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Blade Tidwell):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador visitante (San Francisco Giants - Matt Wilkinson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.7%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 21.2% (14/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Boston Red Sox - Patrick Sandoval):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.5%
+- **Estadística base YRFI:** 22.4% (15/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 16.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-22 14:11:38
+- **Generado el:** 2026-08-23 14:13:26
 - **Fuente de datos:** season_data.json

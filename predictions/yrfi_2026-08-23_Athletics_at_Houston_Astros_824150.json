@@ -1,18 +1,18 @@
 {
-  "game_pk": 824151,
-  "game_date": "2026-08-22",
+  "game_pk": 824150,
+  "game_date": "2026-08-23",
   "home_team": {
     "id": "117",
     "name": "Houston Astros",
     "pitcher": {
-      "name": "Hunter Brown",
+      "name": "Cristian Javier",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 36.36363636363637,
-        "ratio": "24/66"
+        "value": 35.82089552238806,
+        "ratio": "24/67"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "133",
     "name": "Athletics",
-    "combined_yrfi_pct": 30.55,
+    "combined_yrfi_pct": 30.33,
     "pitcher": {
-      "name": "Jacob Lopez",
-      "yrfi_allowed": 66.66666666666666,
-      "yrfi_ratio": "2/3"
+      "name": "Brady Basso",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 24.242424242424242,
-        "ratio": "16/66"
+        "value": 23.88059701492537,
+        "ratio": "16/67"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.36363636363637,
+        "base": 35.82089552238806,
         "tendency": 26.666666666666668,
-        "combined": 32.48,
-        "pitcher_impact": 66.66666666666666,
-        "adjusted": 42.74
+        "combined": 32.16,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.51
       },
       "away_team": {
-        "base": 24.242424242424242,
+        "base": 23.88059701492537,
         "tendency": 40.0,
-        "combined": 30.55,
+        "combined": 30.33,
         "pitcher_impact": 0.0,
-        "adjusted": 21.38
+        "adjusted": 21.23
       },
-      "game_yrfi_probability": 54.98
+      "game_yrfi_probability": 38.96
     },
-    "yrfi_probability": 54.98
+    "yrfi_probability": 38.96
   },
   "metadata": {
-    "generated_at": "2026-08-22T14:11:38.149477",
+    "generated_at": "2026-08-23T14:13:26.565626",
     "data_source": "season_data.json"
   }
 }

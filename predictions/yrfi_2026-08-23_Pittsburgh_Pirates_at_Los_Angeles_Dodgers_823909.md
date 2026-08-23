@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Los Angeles Dodgers
 
-**Fecha:** 2026-08-22  
-**Lanzadores:** Jared Jones (V) vs Tarik Skubal (L)
+**Fecha:** 2026-08-23  
+**Lanzadores:** Lake Bachar (V) vs Blake Snell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.5%
+**Probabilidad de que anoten en la primera entrada:** 38.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 35.9% (23/64 partidos)
+- **Estadística base YRFI:** 35.4% (23/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Jared Jones):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.7%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Lake Bachar):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 29.7% (19/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Tarik Skubal):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Estadística base YRFI:** 30.8% (20/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-22 14:11:38
+- **Generado el:** 2026-08-23 14:13:26
 - **Fuente de datos:** season_data.json

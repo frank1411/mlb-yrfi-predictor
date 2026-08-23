@@ -1,18 +1,18 @@
 {
-  "game_pk": 823261,
+  "game_pk": 823258,
   "game_date": "2026-08-23",
   "home_team": {
     "id": "135",
     "name": "San Diego Padres",
     "pitcher": {
-      "name": "Casey Mize",
+      "name": "Walker Buehler",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 23.4375,
-        "ratio": "15/64"
+        "value": 23.076923076923077,
+        "ratio": "15/65"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "142",
     "name": "Minnesota Twins",
-    "combined_yrfi_pct": 29.71,
+    "combined_yrfi_pct": 33.02,
     "pitcher": {
-      "name": "Dean Kremer",
+      "name": "Bailey Ober",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 31.746031746031743,
-        "ratio": "20/63"
+        "value": 32.8125,
+        "ratio": "21/64"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 23.4375,
+        "base": 23.076923076923077,
         "tendency": 33.33333333333333,
-        "combined": 27.4,
+        "combined": 27.18,
         "pitcher_impact": 0.0,
-        "adjusted": 19.18
+        "adjusted": 19.03
       },
       "away_team": {
-        "base": 31.746031746031743,
-        "tendency": 26.666666666666668,
-        "combined": 29.71,
+        "base": 32.8125,
+        "tendency": 33.33333333333333,
+        "combined": 33.02,
         "pitcher_impact": 0.0,
-        "adjusted": 20.8
+        "adjusted": 23.11
       },
-      "game_yrfi_probability": 35.99
+      "game_yrfi_probability": 37.74
     },
-    "yrfi_probability": 35.99
+    "yrfi_probability": 37.74
   },
   "metadata": {
-    "generated_at": "2026-08-22T14:11:38.175841",
+    "generated_at": "2026-08-23T14:13:26.597479",
     "data_source": "season_data.json"
   }
 }

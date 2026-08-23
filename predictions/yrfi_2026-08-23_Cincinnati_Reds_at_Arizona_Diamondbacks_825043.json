@@ -1,18 +1,18 @@
 {
-  "game_pk": 824798,
-  "game_date": "2026-08-22",
+  "game_pk": 825043,
+  "game_date": "2026-08-23",
   "home_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
+    "id": "109",
+    "name": "Arizona Diamondbacks",
     "pitcher": {
-      "name": "Brandon Young",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Mitch Bratt",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 21.21212121212121,
-        "ratio": "14/66"
+        "value": 35.38461538461539,
+        "ratio": "23/65"
       },
       "tendency": {
         "value": 40.0,
@@ -21,13 +21,13 @@
     }
   },
   "away_team": {
-    "id": "139",
-    "name": "Tampa Bay Rays",
+    "id": "113",
+    "name": "Cincinnati Reds",
     "combined_yrfi_pct": 25.42,
     "pitcher": {
-      "name": "Shane McClanahan",
-      "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "1/3"
+      "name": "Andrew Abbott",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 21.21212121212121,
+        "base": 35.38461538461539,
         "tendency": 40.0,
-        "combined": 28.73,
-        "pitcher_impact": 33.33333333333333,
-        "adjusted": 30.11
+        "combined": 37.23,
+        "pitcher_impact": 50.0,
+        "adjusted": 41.06
       },
       "away_team": {
         "base": 29.03225806451613,
         "tendency": 20.0,
         "combined": 25.42,
-        "pitcher_impact": 50.0,
-        "adjusted": 32.79
+        "pitcher_impact": 0.0,
+        "adjusted": 17.79
       },
-      "game_yrfi_probability": 53.03
+      "game_yrfi_probability": 51.55
     },
-    "yrfi_probability": 53.03
+    "yrfi_probability": 51.55
   },
   "metadata": {
-    "generated_at": "2026-08-22T14:11:38.143154",
+    "generated_at": "2026-08-23T14:13:26.601777",
     "data_source": "season_data.json"
   }
 }

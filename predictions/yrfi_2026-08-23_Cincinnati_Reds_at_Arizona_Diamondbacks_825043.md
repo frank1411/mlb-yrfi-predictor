@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Arizona Diamondbacks
 
 **Fecha:** 2026-08-23  
-**Lanzadores:** Rhett Lowder (V) vs Michael Soroka (L)
+**Lanzadores:** Andrew Abbott (V) vs Mitch Bratt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.7%
+**Probabilidad de que anoten en la primera entrada:** 51.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 35.9% (23/64 partidos)
+- **Estadística base YRFI:** 35.4% (23/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 48.8%
+- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 41.1%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 27.9% (17/61 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Michael Soroka):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 15.4%
+- **Estadística base YRFI:** 29.0% (18/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Mitch Bratt):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-22 14:11:38
+- **Generado el:** 2026-08-23 14:13:26
 - **Fuente de datos:** season_data.json

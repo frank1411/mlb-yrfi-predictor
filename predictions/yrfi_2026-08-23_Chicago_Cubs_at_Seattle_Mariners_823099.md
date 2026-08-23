@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Seattle Mariners
 
-**Fecha:** 2026-08-22  
-**Lanzadores:** David Peterson (V) vs Kade Anderson (L)
+**Fecha:** 2026-08-23  
+**Lanzadores:** Shota Imanaga (V) vs Bryce Miller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.5%
+**Probabilidad de que anoten en la primera entrada:** 53.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 33.3% (21/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - David Peterson):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 53.3%
+- **Estadística base YRFI:** 34.4% (22/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Shota Imanaga):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 45.6%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 18.8% (12/64 partidos)
+- **Estadística base YRFI:** 18.5% (12/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Kade Anderson):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador local (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-22 14:11:38
+- **Generado el:** 2026-08-23 14:13:26
 - **Fuente de datos:** season_data.json
