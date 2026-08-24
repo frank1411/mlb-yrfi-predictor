@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Milwaukee Brewers
+# Análisis YRFI: Tampa Bay Rays @ Detroit Tigers
 
-**Fecha:** 2026-08-23  
-**Lanzadores:** Tyler Mahle (V) vs Shane Drohan (L)
+**Fecha:** 2026-08-24  
+**Lanzadores:** Drew Rasmussen (V) vs Framber Valdez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.4%
+**Probabilidad de que anoten en la primera entrada:** 40.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 36.8% (25/68 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 27.0% (17/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Tyler Mahle):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.8%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.2%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 29.2% (19/65 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 28.1% (18/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Shane Drohan):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 17.9%
+- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-23 14:13:26
+- **Generado el:** 2026-08-24 14:31:38
 - **Fuente de datos:** season_data.json

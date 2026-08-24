@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Baltimore Orioles
+# Análisis YRFI: Cincinnati Reds @ San Francisco Giants
 
-**Fecha:** 2026-08-23  
-**Lanzadores:** Nick Martinez (V) vs Shane Baz (L)
+**Fecha:** 2026-08-25  
+**Lanzadores:** Chase Burns (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 34.1%
+**Probabilidad de que anoten en la primera entrada:** 45.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 20.9% (14/67 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 20.0%
+### San Francisco Giants (Local)
+- **Estadística base YRFI:** 22.6% (14/62 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.8%
 
-### Tampa Bay Rays (Visitante)
+### Cincinnati Reds (Visitante)
 - **Estadística base YRFI:** 28.6% (18/63 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.6%
+- **Impacto del lanzador local (San Francisco Giants - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 32.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-23 14:13:26
+- **Generado el:** 2026-08-24 14:31:38
 - **Fuente de datos:** season_data.json

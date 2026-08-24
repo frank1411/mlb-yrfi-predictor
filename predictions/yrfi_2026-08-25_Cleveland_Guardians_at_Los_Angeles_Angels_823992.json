@@ -1,0 +1,67 @@
+{
+  "game_pk": 823992,
+  "game_date": "2026-08-25",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "George Klassen",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 38.46153846153847,
+        "ratio": "25/65"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 33.21,
+    "pitcher": {
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 24.242424242424242,
+        "ratio": "16/66"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.46153846153847,
+        "tendency": 26.666666666666668,
+        "combined": 33.74,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.62
+      },
+      "away_team": {
+        "base": 24.242424242424242,
+        "tendency": 46.666666666666664,
+        "combined": 33.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.25
+      },
+      "game_yrfi_probability": 41.38
+    },
+    "yrfi_probability": 41.38
+  },
+  "metadata": {
+    "generated_at": "2026-08-24T14:31:38.528794",
+    "data_source": "season_data.json"
+  }
+}

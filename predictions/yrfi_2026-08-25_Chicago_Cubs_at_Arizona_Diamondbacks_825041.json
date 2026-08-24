@@ -1,0 +1,67 @@
+{
+  "game_pk": 825041,
+  "game_date": "2026-08-25",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 34.84848484848485,
+        "ratio": "23/66"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 21.58,
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 18.181818181818183,
+        "ratio": "12/66"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.84848484848485,
+        "tendency": 40.0,
+        "combined": 36.91,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.84
+      },
+      "away_team": {
+        "base": 18.181818181818183,
+        "tendency": 26.666666666666668,
+        "combined": 21.58,
+        "pitcher_impact": 100.0,
+        "adjusted": 45.1
+      },
+      "game_yrfi_probability": 59.29
+    },
+    "yrfi_probability": 59.29
+  },
+  "metadata": {
+    "generated_at": "2026-08-24T14:31:38.532149",
+    "data_source": "season_data.json"
+  }
+}
