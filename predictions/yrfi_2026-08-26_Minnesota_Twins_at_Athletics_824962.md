@@ -1,25 +1,25 @@
 # Análisis YRFI: Minnesota Twins @ Athletics
 
-**Fecha:** 2026-08-25  
-**Lanzadores:** Zebby Matthews (V) vs Jeffrey Springs (L)
+**Fecha:** 2026-08-26  
+**Lanzadores:** Taj Bradley (V) vs Gage Jump (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.2%
+**Probabilidad de que anoten en la primera entrada:** 55.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 33.3% (21/63 partidos)
+- **Estadística base YRFI:** 32.8% (21/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 40.0%
 
 ### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 32.3% (21/65 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 45.4%
+- **Estadística base YRFI:** 33.3% (22/66 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Athletics - Gage Jump):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 25.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-24 14:31:38
+- **Generado el:** 2026-08-25 14:34:32
 - **Fuente de datos:** season_data.json

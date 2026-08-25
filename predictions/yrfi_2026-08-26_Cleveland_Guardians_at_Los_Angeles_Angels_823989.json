@@ -1,0 +1,67 @@
+{
+  "game_pk": 823989,
+  "game_date": "2026-08-26",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 37.878787878787875,
+        "ratio": "25/66"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 30.33,
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.88059701492537,
+        "ratio": "16/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.878787878787875,
+        "tendency": 26.666666666666668,
+        "combined": 33.39,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.38
+      },
+      "away_team": {
+        "base": 23.88059701492537,
+        "tendency": 40.0,
+        "combined": 30.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.23
+      },
+      "game_yrfi_probability": 51.46
+    },
+    "yrfi_probability": 51.46
+  },
+  "metadata": {
+    "generated_at": "2026-08-25T14:34:32.543330",
+    "data_source": "season_data.json"
+  }
+}

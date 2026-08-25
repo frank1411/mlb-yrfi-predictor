@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Miami Marlins
+# Análisis YRFI: Los Angeles Dodgers @ Atlanta Braves
 
-**Fecha:** 2026-08-24  
-**Lanzadores:** Ranger Suarez (V) vs Sandy Alcantara (L)
+**Fecha:** 2026-08-25  
+**Lanzadores:** Tyler Glasnow (V) vs Bryce Elder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.9%
+**Probabilidad de que anoten en la primera entrada:** 38.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 33.3% (22/66 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 32.3% (21/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Ranger Suarez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.2%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 20.3% (13/64 partidos)
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 26.2% (17/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Sandy Alcantara):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 16.0%
+- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 24.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-24 14:31:38
+- **Generado el:** 2026-08-25 14:34:32
 - **Fuente de datos:** season_data.json

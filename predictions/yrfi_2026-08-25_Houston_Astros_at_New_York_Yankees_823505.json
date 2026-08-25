@@ -1,0 +1,67 @@
+{
+  "game_pk": 823505,
+  "game_date": "2026-08-25",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 32.78688524590164,
+        "ratio": "20/61"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 31.15,
+    "pitcher": {
+      "name": "Ethan Pecko",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.6875,
+        "ratio": "19/64"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.78688524590164,
+        "tendency": 0.0,
+        "combined": 19.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.77
+      },
+      "away_team": {
+        "base": 29.6875,
+        "tendency": 33.33333333333333,
+        "combined": 31.15,
+        "pitcher_impact": 20.0,
+        "adjusted": 27.8
+      },
+      "game_yrfi_probability": 37.74
+    },
+    "yrfi_probability": 37.74
+  },
+  "metadata": {
+    "generated_at": "2026-08-25T14:34:32.523317",
+    "data_source": "season_data.json"
+  }
+}

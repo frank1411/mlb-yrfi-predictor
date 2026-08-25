@@ -1,0 +1,67 @@
+{
+  "game_pk": 825042,
+  "game_date": "2026-08-26",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 34.32835820895522,
+        "ratio": "23/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 21.41,
+    "pitcher": {
+      "name": "Clay Holmes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 17.91044776119403,
+        "ratio": "12/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.32835820895522,
+        "tendency": 40.0,
+        "combined": 36.6,
+        "pitcher_impact": 50.0,
+        "adjusted": 40.62
+      },
+      "away_team": {
+        "base": 17.91044776119403,
+        "tendency": 26.666666666666668,
+        "combined": 21.41,
+        "pitcher_impact": 50.0,
+        "adjusted": 29.99
+      },
+      "game_yrfi_probability": 58.43
+    },
+    "yrfi_probability": 58.43
+  },
+  "metadata": {
+    "generated_at": "2026-08-25T14:34:32.546574",
+    "data_source": "season_data.json"
+  }
+}

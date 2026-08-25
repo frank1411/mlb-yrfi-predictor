@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Detroit Tigers
+# Análisis YRFI: Texas Rangers @ Chicago White Sox
 
-**Fecha:** 2026-08-24  
-**Lanzadores:** Drew Rasmussen (V) vs Framber Valdez (L)
+**Fecha:** 2026-08-25  
+**Lanzadores:** Jacob deGrom (V) vs Anthony Kay (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.7%
+**Probabilidad de que anoten en la primera entrada:** 64.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Detroit Tigers (Local)
-- **Estadística base YRFI:** 27.0% (17/63 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 28.4% (19/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.2%
+- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.2%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 28.1% (18/64 partidos)
+### Texas Rangers (Visitante)
+- **Estadística base YRFI:** 29.9% (20/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.4%
+- **Impacto del lanzador local (Chicago White Sox - Anthony Kay):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 48.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-24 14:31:38
+- **Generado el:** 2026-08-25 14:34:32
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ San Diego Padres
 
-**Fecha:** 2026-08-25  
-**Lanzadores:** Braxton Ashcraft (V) vs Robbie Ray (L)
+**Fecha:** 2026-08-26  
+**Lanzadores:** Paul Skenes (V) vs Michael King (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.5%
+**Probabilidad de que anoten en la primera entrada:** 41.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 22.7% (15/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Braxton Ashcraft):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.0%
+- **Estadística base YRFI:** 22.4% (15/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 25.0%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 30.3% (20/66 partidos)
+- **Estadística base YRFI:** 29.9% (20/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Robbie Ray):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-24 14:31:38
+- **Generado el:** 2026-08-25 14:34:32
 - **Fuente de datos:** season_data.json

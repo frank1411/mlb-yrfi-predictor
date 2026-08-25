@@ -1,0 +1,67 @@
+{
+  "game_pk": 823585,
+  "game_date": "2026-08-25",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "20/65"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 22.28,
+    "pitcher": {
+      "name": "Kyle Harrison",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 19.35483870967742,
+        "ratio": "12/62"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.76923076923077,
+        "tendency": 40.0,
+        "combined": 34.46,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.12
+      },
+      "away_team": {
+        "base": 19.35483870967742,
+        "tendency": 26.666666666666668,
+        "combined": 22.28,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.6
+      },
+      "game_yrfi_probability": 35.96
+    },
+    "yrfi_probability": 35.96
+  },
+  "metadata": {
+    "generated_at": "2026-08-25T14:34:32.530249",
+    "data_source": "season_data.json"
+  }
+}
