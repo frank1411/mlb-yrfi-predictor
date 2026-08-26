@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Arizona Diamondbacks
 
 **Fecha:** 2026-08-26  
-**Lanzadores:** Clay Holmes (V) vs Brandon Pfaadt (L)
+**Lanzadores:** Matthew Boyd (V) vs Eduardo Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.4%
+**Probabilidad de que anoten en la primera entrada:** 67.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 34.3% (23/67 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Clay Holmes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 40.6%
+- **Estadística base YRFI:** 33.8% (23/68 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 53.5%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 17.9% (12/67 partidos)
+- **Estadística base YRFI:** 17.6% (12/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 30.0%
+- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 29.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-25 14:34:32
+- **Generado el:** 2026-08-26 14:34:29
 - **Fuente de datos:** season_data.json

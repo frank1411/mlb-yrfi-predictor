@@ -1,0 +1,67 @@
+{
+  "game_pk": 824963,
+  "game_date": "2026-08-27",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "J.T. Ginn",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 32.30769230769231,
+        "ratio": "21/65"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 35.7,
+    "pitcher": {
+      "name": "Connor Prielipp",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 32.83582089552239,
+        "ratio": "22/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.30769230769231,
+        "tendency": 33.33333333333333,
+        "combined": 32.72,
+        "pitcher_impact": 100.0,
+        "adjusted": 52.9
+      },
+      "away_team": {
+        "base": 32.83582089552239,
+        "tendency": 40.0,
+        "combined": 35.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.99
+      },
+      "game_yrfi_probability": 64.67
+    },
+    "yrfi_probability": 64.67
+  },
+  "metadata": {
+    "generated_at": "2026-08-26T14:34:29.876621",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Detroit Tigers
 
-**Fecha:** 2026-08-25  
-**Lanzadores:** Ian Seymour (V) vs Jackson Jobe (L)
+**Fecha:** 2026-08-26  
+**Lanzadores:** Freddy Peralta (V) vs Troy Melton (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.2%
+**Probabilidad de que anoten en la primera entrada:** 34.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.6% (17/64 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Ian Seymour):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.5%
+- **Estadística base YRFI:** 26.2% (17/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Freddy Peralta):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 29.2% (19/65 partidos)
+- **Estadística base YRFI:** 28.8% (19/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.7%
+- **Impacto del lanzador local (Detroit Tigers - Troy Melton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-25 14:34:32
+- **Generado el:** 2026-08-26 14:34:29
 - **Fuente de datos:** season_data.json

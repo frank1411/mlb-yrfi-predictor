@@ -1,0 +1,67 @@
+{
+  "game_pk": 823584,
+  "game_date": "2026-08-26",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Robert Stock",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.303030303030305,
+        "ratio": "20/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 19.43,
+    "pitcher": {
+      "name": "Dustin May",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
+    },
+    "stats": {
+      "base": {
+        "value": 19.047619047619047,
+        "ratio": "12/63"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.303030303030305,
+        "tendency": 33.33333333333333,
+        "combined": 31.52,
+        "pitcher_impact": 100.0,
+        "adjusted": 52.06
+      },
+      "away_team": {
+        "base": 19.047619047619047,
+        "tendency": 20.0,
+        "combined": 19.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.6
+      },
+      "game_yrfi_probability": 58.58
+    },
+    "yrfi_probability": 58.58
+  },
+  "metadata": {
+    "generated_at": "2026-08-26T14:34:29.858903",
+    "data_source": "season_data.json"
+  }
+}

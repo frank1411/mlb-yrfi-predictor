@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Seattle Mariners
 
 **Fecha:** 2026-08-26  
-**Lanzadores:** Aaron Nola (V) vs George Kirby (L)
+**Lanzadores:** Jesús Luzardo (V) vs Bryan Woo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.2%
+**Probabilidad de que anoten en la primera entrada:** 48.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 36.4% (24/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 36.2%
+- **Estadística base YRFI:** 35.8% (24/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
+- **Estadística base YRFI:** 24.6% (16/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 33.0%
+- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-25 14:34:32
+- **Generado el:** 2026-08-26 14:34:29
 - **Fuente de datos:** season_data.json

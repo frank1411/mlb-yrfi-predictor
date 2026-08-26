@@ -1,18 +1,18 @@
 {
-  "game_pk": 822693,
-  "game_date": "2026-08-25",
+  "game_pk": 822692,
+  "game_date": "2026-08-26",
   "home_team": {
     "id": "120",
     "name": "Washington Nationals",
     "pitcher": {
-      "name": "Andrew Alvarez",
+      "name": "Matt Waldron",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 39.0625,
-        "ratio": "25/64"
+        "value": 38.46153846153847,
+        "ratio": "25/65"
       },
       "tendency": {
         "value": 6.666666666666667,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "115",
     "name": "Colorado Rockies",
-    "combined_yrfi_pct": 20.73,
+    "combined_yrfi_pct": 20.54,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
+      "name": "Tanner Gordon",
+      "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 21.21212121212121,
-        "ratio": "14/66"
+        "value": 20.8955223880597,
+        "ratio": "14/67"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 39.0625,
+        "base": 38.46153846153847,
         "tendency": 6.666666666666667,
-        "combined": 26.1,
-        "pitcher_impact": 50.0,
-        "adjusted": 33.27
+        "combined": 25.74,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.02
       },
       "away_team": {
-        "base": 21.21212121212121,
+        "base": 20.8955223880597,
         "tendency": 20.0,
-        "combined": 20.73,
+        "combined": 20.54,
         "pitcher_impact": 0.0,
-        "adjusted": 14.51
+        "adjusted": 14.38
       },
-      "game_yrfi_probability": 42.95
+      "game_yrfi_probability": 29.81
     },
-    "yrfi_probability": 42.95
+    "yrfi_probability": 29.81
   },
   "metadata": {
-    "generated_at": "2026-08-25T14:34:32.517257",
+    "generated_at": "2026-08-26T14:34:29.846421",
     "data_source": "season_data.json"
   }
 }

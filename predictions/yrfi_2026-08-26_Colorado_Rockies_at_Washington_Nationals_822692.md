@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Washington Nationals
 
-**Fecha:** 2026-08-25  
-**Lanzadores:** Por anunciar (V) vs Andrew Alvarez (L)
+**Fecha:** 2026-08-26  
+**Lanzadores:** Tanner Gordon (V) vs Matt Waldron (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.0%
+**Probabilidad de que anoten en la primera entrada:** 29.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 39.1% (25/64 partidos)
+- **Estadística base YRFI:** 38.5% (25/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 33.3%
+- **Impacto del lanzador visitante (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 21.2% (14/66 partidos)
+- **Estadística base YRFI:** 20.9% (14/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.5%
+- **Impacto del lanzador local (Washington Nationals - Matt Waldron):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 14.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-25 14:34:32
+- **Generado el:** 2026-08-26 14:34:29
 - **Fuente de datos:** season_data.json

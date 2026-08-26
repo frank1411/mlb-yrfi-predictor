@@ -1,0 +1,67 @@
+{
+  "game_pk": 824878,
+  "game_date": "2026-08-26",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "AJ Smith-Shawver",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "22/66"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 26.12,
+    "pitcher": {
+      "name": "Roki Sasaki",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.757575757575758,
+        "ratio": "17/66"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "away_team": {
+        "base": 25.757575757575758,
+        "tendency": 26.666666666666668,
+        "combined": 26.12,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.28
+      },
+      "game_yrfi_probability": 35.83
+    },
+    "yrfi_probability": 35.83
+  },
+  "metadata": {
+    "generated_at": "2026-08-26T14:34:29.863369",
+    "data_source": "season_data.json"
+  }
+}

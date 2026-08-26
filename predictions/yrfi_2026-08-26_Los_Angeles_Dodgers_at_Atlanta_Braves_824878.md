@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Atlanta Braves
 
-**Fecha:** 2026-08-25  
-**Lanzadores:** Tyler Glasnow (V) vs Bryce Elder (L)
+**Fecha:** 2026-08-26  
+**Lanzadores:** Roki Sasaki (V) vs AJ Smith-Shawver (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.9%
+**Probabilidad de que anoten en la primera entrada:** 35.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 32.3% (21/65 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.2%
+- **Estadística base YRFI:** 33.3% (22/66 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 26.2% (17/65 partidos)
+- **Estadística base YRFI:** 25.8% (17/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Bryce Elder):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 24.4%
+- **Impacto del lanzador local (Atlanta Braves - AJ Smith-Shawver):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-25 14:34:32
+- **Generado el:** 2026-08-26 14:34:29
 - **Fuente de datos:** season_data.json

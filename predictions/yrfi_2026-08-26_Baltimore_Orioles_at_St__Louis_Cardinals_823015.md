@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ St. Louis Cardinals
 
-**Fecha:** 2026-08-25  
-**Lanzadores:** Chris Bassitt (V) vs Por anunciar (L)
+**Fecha:** 2026-08-26  
+**Lanzadores:** Kyle Bradish (V) vs Michael McGreevy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.5%
+**Probabilidad de que anoten en la primera entrada:** 45.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 28.8% (19/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Chris Bassitt):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 45.2%
+- **Estadística base YRFI:** 28.4% (19/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 23.1%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 30.2% (19/63 partidos)
+- **Estadística base YRFI:** 29.7% (19/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 37.0%
+- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-25 14:34:32
+- **Generado el:** 2026-08-26 14:34:29
 - **Fuente de datos:** season_data.json

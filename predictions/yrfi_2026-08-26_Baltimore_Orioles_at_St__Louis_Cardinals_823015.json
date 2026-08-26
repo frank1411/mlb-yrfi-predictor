@@ -1,33 +1,33 @@
 {
-  "game_pk": 823505,
-  "game_date": "2026-08-25",
+  "game_pk": 823015,
+  "game_date": "2026-08-26",
   "home_team": {
-    "id": "147",
-    "name": "New York Yankees",
+    "id": "138",
+    "name": "St. Louis Cardinals",
     "pitcher": {
-      "name": "Will Warren",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
     },
     "stats": {
       "base": {
-        "value": 32.78688524590164,
-        "ratio": "20/61"
+        "value": 28.35820895522388,
+        "ratio": "19/67"
       },
       "tendency": {
-        "value": 0.0,
-        "ratio": "0/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "away_team": {
-    "id": "117",
-    "name": "Houston Astros",
+    "id": "110",
+    "name": "Baltimore Orioles",
     "combined_yrfi_pct": 31.15,
     "pitcher": {
-      "name": "Ethan Pecko",
+      "name": "Kyle Bradish",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.78688524590164,
-        "tendency": 0.0,
-        "combined": 19.67,
+        "base": 28.35820895522388,
+        "tendency": 40.0,
+        "combined": 33.01,
         "pitcher_impact": 0.0,
-        "adjusted": 13.77
+        "adjusted": 23.11
       },
       "away_team": {
         "base": 29.6875,
         "tendency": 33.33333333333333,
         "combined": 31.15,
-        "pitcher_impact": 20.0,
-        "adjusted": 27.8
+        "pitcher_impact": 25.0,
+        "adjusted": 29.3
       },
-      "game_yrfi_probability": 37.74
+      "game_yrfi_probability": 45.64
     },
-    "yrfi_probability": 37.74
+    "yrfi_probability": 45.64
   },
   "metadata": {
-    "generated_at": "2026-08-25T14:34:32.523317",
+    "generated_at": "2026-08-26T14:34:29.872230",
     "data_source": "season_data.json"
   }
 }

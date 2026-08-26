@@ -1,0 +1,67 @@
+{
+  "game_pk": 823255,
+  "game_date": "2026-08-26",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Randy Vásquez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.058823529411764,
+        "ratio": "15/68"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 28.31,
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "20/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.058823529411764,
+        "tendency": 20.0,
+        "combined": 21.24,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.86
+      },
+      "away_team": {
+        "base": 29.411764705882355,
+        "tendency": 26.666666666666668,
+        "combined": 28.31,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.82
+      },
+      "game_yrfi_probability": 31.73
+    },
+    "yrfi_probability": 31.73
+  },
+  "metadata": {
+    "generated_at": "2026-08-26T14:34:29.832616",
+    "data_source": "season_data.json"
+  }
+}

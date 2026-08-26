@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ San Francisco Giants
 
 **Fecha:** 2026-08-26  
-**Lanzadores:** Brady Singer (V) vs Adrian Houser (L)
+**Lanzadores:** Nick Lodolo (V) vs Landen Roupp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.0%
+**Probabilidad de que anoten en la primera entrada:** 35.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 23.8% (15/63 partidos)
+- **Estadística base YRFI:** 25.0% (16/64 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 43.7%
+- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.7%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 28.1% (18/64 partidos)
+- **Estadística base YRFI:** 27.7% (18/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Adrian Houser):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.4%
+- **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-25 14:34:32
+- **Generado el:** 2026-08-26 14:34:29
 - **Fuente de datos:** season_data.json
