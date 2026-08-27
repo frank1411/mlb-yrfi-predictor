@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Washington Nationals
 
-**Fecha:** 2026-08-26  
-**Lanzadores:** Tanner Gordon (V) vs Matt Waldron (L)
+**Fecha:** 2026-08-27  
+**Lanzadores:** Gabriel Hughes (V) vs Jake Irvin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 29.8%
+**Probabilidad de que anoten en la primera entrada:** 44.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 38.5% (25/65 partidos)
+- **Estadística base YRFI:** 38.8% (26/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Impacto del lanzador visitante (Colorado Rockies - Gabriel Hughes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.2%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 20.9% (14/67 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Matt Waldron):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 14.4%
+- **Estadística base YRFI:** 20.3% (14/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Washington Nationals - Jake Irvin):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 32.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-26 14:34:29
+- **Generado el:** 2026-08-27 23:21:05
 - **Fuente de datos:** season_data.json

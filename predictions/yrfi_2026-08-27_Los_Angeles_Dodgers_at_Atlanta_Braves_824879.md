@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Atlanta Braves
 
-**Fecha:** 2026-08-26  
-**Lanzadores:** Roki Sasaki (V) vs AJ Smith-Shawver (L)
+**Fecha:** 2026-08-27  
+**Lanzadores:** Yoshinobu Yamamoto (V) vs Chris Sale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.8%
+**Probabilidad de que anoten en la primera entrada:** 53.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 33.3% (22/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Roki Sasaki):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Estadística base YRFI:** 34.3% (23/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 43.8%
 
 ### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 25.8% (17/66 partidos)
+- **Estadística base YRFI:** 25.4% (17/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - AJ Smith-Shawver):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.3%
+- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 18.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-26 14:34:29
+- **Generado el:** 2026-08-27 23:21:05
 - **Fuente de datos:** season_data.json

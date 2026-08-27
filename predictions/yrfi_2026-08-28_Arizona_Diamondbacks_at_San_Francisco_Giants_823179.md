@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ San Francisco Giants
+# Análisis YRFI: Arizona Diamondbacks @ San Francisco Giants
 
-**Fecha:** 2026-08-26  
-**Lanzadores:** Nick Lodolo (V) vs Landen Roupp (L)
+**Fecha:** 2026-08-28  
+**Lanzadores:** Jose Cabrera (V) vs Landen Roupp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.2%
+**Probabilidad de que anoten en la primera entrada:** 37.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 25.0% (16/64 partidos)
+- **Estadística base YRFI:** 24.6% (16/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.7%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Jose Cabrera):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.5%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 27.7% (18/65 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 26.2% (17/65 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
 - **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.2%
+- **Puntuación ajustada:** 20.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-26 14:34:29
+- **Generado el:** 2026-08-27 23:21:05
 - **Fuente de datos:** season_data.json

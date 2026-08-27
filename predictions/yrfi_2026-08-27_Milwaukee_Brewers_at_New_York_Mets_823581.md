@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ New York Mets
 
-**Fecha:** 2026-08-26  
-**Lanzadores:** Dustin May (V) vs Robert Stock (L)
+**Fecha:** 2026-08-27  
+**Lanzadores:** Jacob Misiorowski (V) vs Sean Manaea (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.6%
+**Probabilidad de que anoten en la primera entrada:** 39.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 30.3% (20/66 partidos)
+- **Estadística base YRFI:** 29.9% (20/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Dustin May):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 52.1%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.9%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 19.0% (12/63 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Mets - Robert Stock):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 13.6%
+- **Estadística base YRFI:** 18.8% (12/64 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 11.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-26 14:34:29
+- **Generado el:** 2026-08-27 23:21:05
 - **Fuente de datos:** season_data.json

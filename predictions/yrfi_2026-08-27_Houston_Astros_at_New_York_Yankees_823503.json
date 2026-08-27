@@ -1,0 +1,67 @@
+{
+  "game_pk": 823503,
+  "game_date": "2026-08-27",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Gerrit Cole",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "21/63"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 34.18,
+    "pitcher": {
+      "name": "Hayden Wesneski",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.303030303030305,
+        "ratio": "20/66"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 6.666666666666667,
+        "combined": 22.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.87
+      },
+      "away_team": {
+        "base": 30.303030303030305,
+        "tendency": 40.0,
+        "combined": 34.18,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.93
+      },
+      "game_yrfi_probability": 36.0
+    },
+    "yrfi_probability": 36.0
+  },
+  "metadata": {
+    "generated_at": "2026-08-27T23:21:05.819130",
+    "data_source": "season_data.json"
+  }
+}

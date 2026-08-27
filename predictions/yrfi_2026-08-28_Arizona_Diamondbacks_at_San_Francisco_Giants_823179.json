@@ -1,6 +1,6 @@
 {
-  "game_pk": 823180,
-  "game_date": "2026-08-26",
+  "game_pk": 823179,
+  "game_date": "2026-08-28",
   "home_team": {
     "id": "137",
     "name": "San Francisco Giants",
@@ -11,8 +11,8 @@
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "16/64"
+        "value": 24.615384615384617,
+        "ratio": "16/65"
       },
       "tendency": {
         "value": 40.0,
@@ -21,47 +21,47 @@
     }
   },
   "away_team": {
-    "id": "113",
-    "name": "Cincinnati Reds",
-    "combined_yrfi_pct": 24.62,
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 29.03,
     "pitcher": {
-      "name": "Nick Lodolo",
+      "name": "Jose Cabrera",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 27.692307692307693,
-        "ratio": "18/65"
+        "value": 26.153846153846157,
+        "ratio": "17/65"
       },
       "tendency": {
-        "value": 20.0,
-        "ratio": "3/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.0,
+        "base": 24.615384615384617,
         "tendency": 40.0,
-        "combined": 31.0,
+        "combined": 30.77,
         "pitcher_impact": 0.0,
-        "adjusted": 21.7
+        "adjusted": 21.54
       },
       "away_team": {
-        "base": 27.692307692307693,
-        "tendency": 20.0,
-        "combined": 24.62,
+        "base": 26.153846153846157,
+        "tendency": 33.33333333333333,
+        "combined": 29.03,
         "pitcher_impact": 0.0,
-        "adjusted": 17.23
+        "adjusted": 20.32
       },
-      "game_yrfi_probability": 35.19
+      "game_yrfi_probability": 37.48
     },
-    "yrfi_probability": 35.19
+    "yrfi_probability": 37.48
   },
   "metadata": {
-    "generated_at": "2026-08-26T14:34:29.823561",
+    "generated_at": "2026-08-27T23:21:05.834693",
     "data_source": "season_data.json"
   }
 }
