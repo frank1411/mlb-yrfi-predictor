@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Atlanta Braves
+# Análisis YRFI: Kansas City Royals @ Cleveland Guardians
 
-**Fecha:** 2026-08-27  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Chris Sale (L)
+**Fecha:** 2026-08-28  
+**Lanzadores:** Michael Wacha (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.9%
+**Probabilidad de que anoten en la primera entrada:** 37.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 34.3% (23/67 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 32.3% (21/65 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 43.8%
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.9%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 25.4% (17/67 partidos)
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 27.5% (19/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 18.1%
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-27 23:21:05
+- **Generado el:** 2026-08-28 23:16:52
 - **Fuente de datos:** season_data.json

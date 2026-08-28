@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ St. Louis Cardinals
+# Análisis YRFI: Pittsburgh Pirates @ St. Louis Cardinals
 
-**Fecha:** 2026-08-27  
-**Lanzadores:** Trevor Rogers (V) vs Gordon Graceffo (L)
+**Fecha:** 2026-08-29  
+**Lanzadores:** Jared Jones (V) vs Quinn Mathews (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.8%
+**Probabilidad de que anoten en la primera entrada:** 37.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
 - **Estadística base YRFI:** 27.5% (19/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Jared Jones):** 0.0% (0/0 partidos)
 - **Puntuación ajustada:** 22.8%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 30.3% (20/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Gordon Graceffo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.1%
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 29.0% (20/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Quinn Mathews):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-27 23:21:05
+- **Generado el:** 2026-08-28 23:16:52
 - **Fuente de datos:** season_data.json

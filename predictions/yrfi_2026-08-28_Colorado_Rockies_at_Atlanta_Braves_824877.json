@@ -1,22 +1,22 @@
 {
-  "game_pk": 822694,
-  "game_date": "2026-08-27",
+  "game_pk": 824877,
+  "game_date": "2026-08-28",
   "home_team": {
-    "id": "120",
-    "name": "Washington Nationals",
+    "id": "144",
+    "name": "Atlanta Braves",
     "pitcher": {
-      "name": "Jake Irvin",
-      "yrfi_allowed": 66.66666666666666,
-      "yrfi_ratio": "2/3"
+      "name": "Grant Holmes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 38.80597014925373,
-        "ratio": "26/67"
+        "value": 35.294117647058826,
+        "ratio": "24/68"
       },
       "tendency": {
-        "value": 6.666666666666667,
-        "ratio": "1/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
@@ -25,7 +25,7 @@
     "name": "Colorado Rockies",
     "combined_yrfi_pct": 17.51,
     "pitcher": {
-      "name": "Gabriel Hughes",
+      "name": "Tomoyuki Sugano",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 38.80597014925373,
-        "tendency": 6.666666666666667,
-        "combined": 25.95,
+        "base": 35.294117647058826,
+        "tendency": 33.33333333333333,
+        "combined": 34.51,
         "pitcher_impact": 0.0,
-        "adjusted": 18.17
+        "adjusted": 24.16
       },
       "away_team": {
         "base": 20.28985507246377,
         "tendency": 13.333333333333334,
         "combined": 17.51,
-        "pitcher_impact": 66.66666666666666,
-        "adjusted": 32.26
+        "pitcher_impact": 0.0,
+        "adjusted": 12.26
       },
-      "game_yrfi_probability": 44.57
+      "game_yrfi_probability": 33.46
     },
-    "yrfi_probability": 44.57
+    "yrfi_probability": 33.46
   },
   "metadata": {
-    "generated_at": "2026-08-27T23:21:05.810998",
+    "generated_at": "2026-08-28T23:16:52.496066",
     "data_source": "season_data.json"
   }
 }

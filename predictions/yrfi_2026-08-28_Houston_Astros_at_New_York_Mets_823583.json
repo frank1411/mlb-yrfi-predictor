@@ -1,0 +1,67 @@
+{
+  "game_pk": 823583,
+  "game_date": "2026-08-28",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Christian Scott",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "20/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 33.91,
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.850746268656714,
+        "ratio": "20/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.411764705882355,
+        "tendency": 26.666666666666668,
+        "combined": 28.31,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.82
+      },
+      "away_team": {
+        "base": 29.850746268656714,
+        "tendency": 40.0,
+        "combined": 33.91,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.74
+      },
+      "game_yrfi_probability": 38.85
+    },
+    "yrfi_probability": 38.85
+  },
+  "metadata": {
+    "generated_at": "2026-08-28T23:16:52.487838",
+    "data_source": "season_data.json"
+  }
+}

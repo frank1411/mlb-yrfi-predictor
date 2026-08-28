@@ -1,11 +1,11 @@
 {
-  "game_pk": 823014,
-  "game_date": "2026-08-27",
+  "game_pk": 823013,
+  "game_date": "2026-08-29",
   "home_team": {
     "id": "138",
     "name": "St. Louis Cardinals",
     "pitcher": {
-      "name": "Gordon Graceffo",
+      "name": "Quinn Mathews",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
@@ -21,22 +21,22 @@
     }
   },
   "away_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 31.52,
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 28.06,
     "pitcher": {
-      "name": "Trevor Rogers",
+      "name": "Jared Jones",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.303030303030305,
-        "ratio": "20/66"
+        "value": 28.985507246376812,
+        "ratio": "20/69"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
@@ -50,18 +50,18 @@
         "adjusted": 22.77
       },
       "away_team": {
-        "base": 30.303030303030305,
-        "tendency": 33.33333333333333,
-        "combined": 31.52,
+        "base": 28.985507246376812,
+        "tendency": 26.666666666666668,
+        "combined": 28.06,
         "pitcher_impact": 0.0,
-        "adjusted": 22.06
+        "adjusted": 19.64
       },
-      "game_yrfi_probability": 39.81
+      "game_yrfi_probability": 37.94
     },
-    "yrfi_probability": 39.81
+    "yrfi_probability": 37.94
   },
   "metadata": {
-    "generated_at": "2026-08-27T23:21:05.815264",
+    "generated_at": "2026-08-28T23:16:52.507310",
     "data_source": "season_data.json"
   }
 }

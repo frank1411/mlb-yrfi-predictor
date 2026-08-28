@@ -1,0 +1,67 @@
+{
+  "game_pk": 823985,
+  "game_date": "2026-08-29",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 39.705882352941174,
+        "ratio": "27/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 28.79,
+    "pitcher": {
+      "name": "Andrew Painter",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.757575757575758,
+        "ratio": "17/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.705882352941174,
+        "tendency": 26.666666666666668,
+        "combined": 34.49,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.14
+      },
+      "away_team": {
+        "base": 25.757575757575758,
+        "tendency": 33.33333333333333,
+        "combined": 28.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.15
+      },
+      "game_yrfi_probability": 39.43
+    },
+    "yrfi_probability": 39.43
+  },
+  "metadata": {
+    "generated_at": "2026-08-28T23:16:52.510015",
+    "data_source": "season_data.json"
+  }
+}

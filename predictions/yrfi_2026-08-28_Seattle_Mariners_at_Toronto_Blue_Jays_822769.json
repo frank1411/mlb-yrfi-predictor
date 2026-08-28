@@ -1,0 +1,67 @@
+{
+  "game_pk": 822769,
+  "game_date": "2026-08-28",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.18840579710145,
+        "ratio": "16/69"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 33.21,
+    "pitcher": {
+      "name": "Emerson Hancock",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.242424242424242,
+        "ratio": "16/66"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.18840579710145,
+        "tendency": 20.0,
+        "combined": 21.91,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.34
+      },
+      "away_team": {
+        "base": 24.242424242424242,
+        "tendency": 46.666666666666664,
+        "combined": 33.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.25
+      },
+      "game_yrfi_probability": 35.02
+    },
+    "yrfi_probability": 35.02
+  },
+  "metadata": {
+    "generated_at": "2026-08-28T23:16:52.493304",
+    "data_source": "season_data.json"
+  }
+}

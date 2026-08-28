@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ New York Mets
+# Análisis YRFI: Colorado Rockies @ Atlanta Braves
 
-**Fecha:** 2026-08-27  
-**Lanzadores:** Jacob Misiorowski (V) vs Sean Manaea (L)
+**Fecha:** 2026-08-28  
+**Lanzadores:** Tomoyuki Sugano (V) vs Grant Holmes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.8%
+**Probabilidad de que anoten en la primera entrada:** 33.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 29.9% (20/67 partidos)
+### Atlanta Braves (Local)
+- **Estadística base YRFI:** 35.3% (24/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 31.9%
+- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.2%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 18.8% (12/64 partidos)
+### Colorado Rockies (Visitante)
+- **Estadística base YRFI:** 20.3% (14/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 11.6%
+- **Impacto del lanzador local (Atlanta Braves - Grant Holmes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 12.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-27 23:21:05
+- **Generado el:** 2026-08-28 23:16:52
 - **Fuente de datos:** season_data.json

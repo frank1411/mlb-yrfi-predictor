@@ -1,0 +1,67 @@
+{
+  "game_pk": 822691,
+  "game_date": "2026-08-28",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Jackson Kent",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 38.80597014925373,
+        "ratio": "26/67"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 22.77,
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.615384615384617,
+        "ratio": "16/65"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.80597014925373,
+        "tendency": 6.666666666666667,
+        "combined": 25.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.17
+      },
+      "away_team": {
+        "base": 24.615384615384617,
+        "tendency": 20.0,
+        "combined": 22.77,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.94
+      },
+      "game_yrfi_probability": 31.21
+    },
+    "yrfi_probability": 31.21
+  },
+  "metadata": {
+    "generated_at": "2026-08-28T23:16:52.481810",
+    "data_source": "season_data.json"
+  }
+}
