@@ -1,0 +1,67 @@
+{
+  "game_pk": 823741,
+  "game_date": "2026-08-29",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Shane Drohan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 37.142857142857146,
+        "ratio": "26/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "combined_yrfi_pct": 22.48,
+    "pitcher": {
+      "name": "Cal Quantrill",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "20/70"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.142857142857146,
+        "tendency": 26.666666666666668,
+        "combined": 32.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.07
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 13.333333333333334,
+        "combined": 22.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.73
+      },
+      "game_yrfi_probability": 35.17
+    },
+    "yrfi_probability": 35.17
+  },
+  "metadata": {
+    "generated_at": "2026-08-29T17:27:03.199471",
+    "data_source": "season_data.json"
+  }
+}

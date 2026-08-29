@@ -1,0 +1,67 @@
+{
+  "game_pk": 824230,
+  "game_date": "2026-08-29",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Keider Montero",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.37313432835821,
+        "ratio": "17/67"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 25.45,
+    "pitcher": {
+      "name": "Blake Snell",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.637681159420293,
+        "ratio": "17/69"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.37313432835821,
+        "tendency": 26.666666666666668,
+        "combined": 25.89,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.12
+      },
+      "away_team": {
+        "base": 24.637681159420293,
+        "tendency": 26.666666666666668,
+        "combined": 25.45,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.81
+      },
+      "game_yrfi_probability": 32.7
+    },
+    "yrfi_probability": 32.7
+  },
+  "metadata": {
+    "generated_at": "2026-08-29T17:27:03.145923",
+    "data_source": "season_data.json"
+  }
+}

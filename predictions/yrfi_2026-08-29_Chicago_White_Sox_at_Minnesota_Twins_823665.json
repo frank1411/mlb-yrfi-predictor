@@ -1,0 +1,67 @@
+{
+  "game_pk": 823665,
+  "game_date": "2026-08-29",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 34.32835820895522,
+        "ratio": "23/67"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 34.24,
+    "pitcher": {
+      "name": "Erick Fedde",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.84848484848485,
+        "ratio": "23/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.32835820895522,
+        "tendency": 53.333333333333336,
+        "combined": 41.93,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 39.35
+      },
+      "away_team": {
+        "base": 34.84848484848485,
+        "tendency": 33.33333333333333,
+        "combined": 34.24,
+        "pitcher_impact": 20.0,
+        "adjusted": 29.97
+      },
+      "game_yrfi_probability": 57.53
+    },
+    "yrfi_probability": 57.53
+  },
+  "metadata": {
+    "generated_at": "2026-08-29T17:27:03.150787",
+    "data_source": "season_data.json"
+  }
+}

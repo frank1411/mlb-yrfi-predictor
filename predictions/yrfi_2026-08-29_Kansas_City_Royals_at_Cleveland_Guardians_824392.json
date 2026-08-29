@@ -1,0 +1,67 @@
+{
+  "game_pk": 824392,
+  "game_date": "2026-08-29",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Foster Griffin",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.818181818181817,
+        "ratio": "21/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 26.95,
+    "pitcher": {
+      "name": "Daniel Lynch IV",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.142857142857142,
+        "ratio": "19/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.818181818181817,
+        "tendency": 33.33333333333333,
+        "combined": 32.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.7
+      },
+      "away_team": {
+        "base": 27.142857142857142,
+        "tendency": 26.666666666666668,
+        "combined": 26.95,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 28.87
+      },
+      "game_yrfi_probability": 45.02
+    },
+    "yrfi_probability": 45.02
+  },
+  "metadata": {
+    "generated_at": "2026-08-29T17:27:03.181471",
+    "data_source": "season_data.json"
+  }
+}
