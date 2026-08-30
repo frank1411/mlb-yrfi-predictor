@@ -1,0 +1,67 @@
+{
+  "game_pk": 824959,
+  "game_date": "2026-08-30",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.88235294117647,
+        "ratio": "21/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 25.65,
+    "pitcher": {
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.411764705882355,
+        "ratio": "20/68"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.88235294117647,
+        "tendency": 26.666666666666668,
+        "combined": 29.2,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 40.44
+      },
+      "away_team": {
+        "base": 29.411764705882355,
+        "tendency": 20.0,
+        "combined": 25.65,
+        "pitcher_impact": 75.0,
+        "adjusted": 40.45
+      },
+      "game_yrfi_probability": 64.53
+    },
+    "yrfi_probability": 64.53
+  },
+  "metadata": {
+    "generated_at": "2026-08-30T17:50:55.334435",
+    "data_source": "season_data.json"
+  }
+}

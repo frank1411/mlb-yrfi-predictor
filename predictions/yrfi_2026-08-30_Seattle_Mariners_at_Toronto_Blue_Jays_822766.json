@@ -1,0 +1,67 @@
+{
+  "game_pk": 822766,
+  "game_date": "2026-08-30",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Max Scherzer",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.943661971830984,
+        "ratio": "17/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 33.67,
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "17/68"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 23.943661971830984,
+        "tendency": 26.666666666666668,
+        "combined": 25.03,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.52
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 46.666666666666664,
+        "combined": 33.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.57
+      },
+      "game_yrfi_probability": 58.55
+    },
+    "yrfi_probability": 58.55
+  },
+  "metadata": {
+    "generated_at": "2026-08-30T17:50:55.304694",
+    "data_source": "season_data.json"
+  }
+}

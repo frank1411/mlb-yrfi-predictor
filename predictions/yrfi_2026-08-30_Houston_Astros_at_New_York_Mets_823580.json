@@ -1,0 +1,67 @@
+{
+  "game_pk": 823580,
+  "game_date": "2026-08-30",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "21/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 34.26,
+    "pitcher": {
+      "name": "Ethan Pecko",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.434782608695656,
+        "ratio": "21/69"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.0,
+        "tendency": 26.666666666666668,
+        "combined": 28.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.07
+      },
+      "away_team": {
+        "base": 30.434782608695656,
+        "tendency": 40.0,
+        "combined": 34.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.98
+      },
+      "game_yrfi_probability": 39.24
+    },
+    "yrfi_probability": 39.24
+  },
+  "metadata": {
+    "generated_at": "2026-08-30T17:50:55.330702",
+    "data_source": "season_data.json"
+  }
+}

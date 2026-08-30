@@ -1,0 +1,67 @@
+{
+  "game_pk": 822688,
+  "game_date": "2026-08-30",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Andrew Alvarez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 37.68115942028986,
+        "ratio": "26/69"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 22.33,
+    "pitcher": {
+      "name": "Janson Junk",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.88059701492537,
+        "ratio": "16/67"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.68115942028986,
+        "tendency": 6.666666666666667,
+        "combined": 25.28,
+        "pitcher_impact": 50.0,
+        "adjusted": 32.69
+      },
+      "away_team": {
+        "base": 23.88059701492537,
+        "tendency": 20.0,
+        "combined": 22.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.63
+      },
+      "game_yrfi_probability": 43.21
+    },
+    "yrfi_probability": 43.21
+  },
+  "metadata": {
+    "generated_at": "2026-08-30T17:50:55.292619",
+    "data_source": "season_data.json"
+  }
+}

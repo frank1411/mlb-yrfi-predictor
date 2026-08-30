@@ -1,0 +1,67 @@
+{
+  "game_pk": 824636,
+  "game_date": "2026-08-30",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Shota Imanaga",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.82089552238806,
+        "ratio": "24/67"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 21.22,
+    "pitcher": {
+      "name": "Chase Burns",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.47058823529412,
+        "ratio": "18/68"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.82089552238806,
+        "tendency": 33.33333333333333,
+        "combined": 34.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.38
+      },
+      "away_team": {
+        "base": 26.47058823529412,
+        "tendency": 13.333333333333334,
+        "combined": 21.22,
+        "pitcher_impact": 25.0,
+        "adjusted": 22.35
+      },
+      "game_yrfi_probability": 41.28
+    },
+    "yrfi_probability": 41.28
+  },
+  "metadata": {
+    "generated_at": "2026-08-30T17:50:55.342216",
+    "data_source": "season_data.json"
+  }
+}
