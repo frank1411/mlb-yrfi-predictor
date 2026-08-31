@@ -1,0 +1,67 @@
+{
+  "game_pk": 823982,
+  "game_date": "2026-09-01",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 40.845070422535215,
+        "ratio": "29/71"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 16.58,
+    "pitcher": {
+      "name": "Elmer Rodríguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 23.18840579710145,
+        "ratio": "16/69"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 40.845070422535215,
+        "tendency": 40.0,
+        "combined": 40.51,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.35
+      },
+      "away_team": {
+        "base": 23.18840579710145,
+        "tendency": 6.666666666666667,
+        "combined": 16.58,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.61
+      },
+      "game_yrfi_probability": 36.67
+    },
+    "yrfi_probability": 36.67
+  },
+  "metadata": {
+    "generated_at": "2026-08-31T19:45:18.894703",
+    "data_source": "season_data.json"
+  }
+}

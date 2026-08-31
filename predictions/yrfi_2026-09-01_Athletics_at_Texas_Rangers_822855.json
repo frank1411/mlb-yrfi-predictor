@@ -1,0 +1,67 @@
+{
+  "game_pk": 822855,
+  "game_date": "2026-09-01",
+  "home_team": {
+    "id": "140",
+    "name": "Texas Rangers",
+    "pitcher": {
+      "name": "Jacob deGrom",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.230769230769234,
+        "ratio": "19/65"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 24.78,
+    "pitcher": {
+      "name": "Gage Jump",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "16/68"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 29.230769230769234,
+        "tendency": 13.333333333333334,
+        "combined": 22.87,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.01
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 26.666666666666668,
+        "combined": 24.78,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 37.35
+      },
+      "game_yrfi_probability": 47.38
+    },
+    "yrfi_probability": 47.38
+  },
+  "metadata": {
+    "generated_at": "2026-08-31T19:45:18.880735",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ New York Yankees
+# Análisis YRFI: Miami Marlins @ Washington Nationals
 
-**Fecha:** 2026-08-30  
-**Lanzadores:** Ranger Suarez (V) vs Will Warren (L)
+**Fecha:** 2026-08-31  
+**Lanzadores:** Ryan Gusto (V) vs Will Dion (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.0%
+**Probabilidad de que anoten en la primera entrada:** 30.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 31.3% (21/67 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 37.1% (26/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Ranger Suarez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.0%
+- **Impacto del lanzador visitante (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.5%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 20.0% (14/70 partidos)
+### Miami Marlins (Visitante)
+- **Estadística base YRFI:** 23.5% (16/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 20.0%
+- **Impacto del lanzador local (Washington Nationals - Will Dion):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-30 17:50:55
+- **Generado el:** 2026-08-31 19:45:18
 - **Fuente de datos:** season_data.json

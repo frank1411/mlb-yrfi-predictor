@@ -1,0 +1,67 @@
+{
+  "game_pk": 824911,
+  "game_date": "2026-08-31",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Bryce Elder",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 33.80281690140845,
+        "ratio": "24/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 35.45,
+    "pitcher": {
+      "name": "Anthony Molina",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.52941176470588,
+        "ratio": "16/68"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.80281690140845,
+        "tendency": 33.33333333333333,
+        "combined": 33.62,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.53
+      },
+      "away_team": {
+        "base": 23.52941176470588,
+        "tendency": 53.333333333333336,
+        "combined": 35.45,
+        "pitcher_impact": 20.0,
+        "adjusted": 30.82
+      },
+      "game_yrfi_probability": 47.1
+    },
+    "yrfi_probability": 47.1
+  },
+  "metadata": {
+    "generated_at": "2026-08-31T19:45:18.842357",
+    "data_source": "season_data.json"
+  }
+}
