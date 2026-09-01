@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Colorado Rockies
+# Análisis YRFI: Athletics @ Texas Rangers
 
-**Fecha:** 2026-09-01  
-**Lanzadores:** Cade Povich (V) vs Tanner Gordon (L)
+**Fecha:** 2026-09-02  
+**Lanzadores:** Brady Basso (V) vs MacKenzie Gore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.1%
+**Probabilidad de que anoten en la primera entrada:** 30.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 44.6% (29/65 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 28.8% (19/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Cade Povich):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 52.5%
+- **Impacto del lanzador visitante (Athletics - Brady Basso):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.8%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 30.4% (21/69 partidos)
+### Athletics (Visitante)
+- **Estadística base YRFI:** 23.2% (16/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.2%
+- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-31 19:45:18
+- **Generado el:** 2026-09-01 17:30:45
 - **Fuente de datos:** season_data.json

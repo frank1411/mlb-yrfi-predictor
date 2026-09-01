@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ Arizona Diamondbacks
 
-**Fecha:** 2026-09-01  
-**Lanzadores:** Aaron Nola (V) vs Brandon Pfaadt (L)
+**Fecha:** 2026-09-02  
+**Lanzadores:** Jesús Luzardo (V) vs Eduardo Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.2%
+**Probabilidad de que anoten en la primera entrada:** 44.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 33.3% (23/69 partidos)
+- **Estadística base YRFI:** 32.9% (23/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 23.7%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.5%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 24.6% (17/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 34.7%
+- **Estadística base YRFI:** 24.3% (17/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 32.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-31 19:45:18
+- **Generado el:** 2026-09-01 17:30:45
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Tampa Bay Rays
 
-**Fecha:** 2026-08-31  
-**Lanzadores:** Robert Stock (V) vs Ian Seymour (L)
+**Fecha:** 2026-09-01  
+**Lanzadores:** Sean Manaea (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.8%
+**Probabilidad de que anoten en la primera entrada:** 40.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 34.8% (24/69 partidos)
+- **Estadística base YRFI:** 34.3% (24/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Robert Stock):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.2%
+- **Impacto del lanzador visitante (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.0%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 24.2% (16/66 partidos)
+- **Estadística base YRFI:** 23.9% (16/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Ian Seymour):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.5%
+- **Impacto del lanzador local (Tampa Bay Rays - Freddy Peralta):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-31 19:45:18
+- **Generado el:** 2026-09-01 17:30:45
 - **Fuente de datos:** season_data.json

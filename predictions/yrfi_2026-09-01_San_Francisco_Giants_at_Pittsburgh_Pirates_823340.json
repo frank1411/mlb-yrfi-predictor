@@ -1,0 +1,67 @@
+{
+  "game_pk": 823340,
+  "game_date": "2026-09-01",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Paul Skenes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "22/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 38.78,
+    "pitcher": {
+      "name": "Logan Webb",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.637681159420293,
+        "ratio": "17/69"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 33.33333333333333,
+        "combined": 33.33,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.83
+      },
+      "away_team": {
+        "base": 24.637681159420293,
+        "tendency": 60.0,
+        "combined": 38.78,
+        "pitcher_impact": 50.0,
+        "adjusted": 42.15
+      },
+      "game_yrfi_probability": 59.99
+    },
+    "yrfi_probability": 59.99
+  },
+  "metadata": {
+    "generated_at": "2026-09-01T17:30:45.437111",
+    "data_source": "season_data.json"
+  }
+}

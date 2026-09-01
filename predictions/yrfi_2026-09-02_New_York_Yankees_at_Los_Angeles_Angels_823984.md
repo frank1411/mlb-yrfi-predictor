@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Los Angeles Angels
 
-**Fecha:** 2026-09-01  
-**Lanzadores:** Elmer Rodríguez (V) vs Walbert Ureña (L)
+**Fecha:** 2026-09-02  
+**Lanzadores:** Gerrit Cole (V) vs Grayson Rodriguez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.7%
+**Probabilidad de que anoten en la primera entrada:** 36.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 40.8% (29/71 partidos)
+- **Estadística base YRFI:** 40.3% (29/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Elmer Rodríguez):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 28.4%
+- **Impacto del lanzador visitante (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 23.2% (16/69 partidos)
+- **Estadística base YRFI:** 22.9% (16/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Walbert Ureña):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 11.6%
+- **Impacto del lanzador local (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 11.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-31 19:45:18
+- **Generado el:** 2026-09-01 17:30:45
 - **Fuente de datos:** season_data.json

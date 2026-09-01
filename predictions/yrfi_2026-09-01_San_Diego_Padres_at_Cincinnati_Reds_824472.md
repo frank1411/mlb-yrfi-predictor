@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Cincinnati Reds
 
-**Fecha:** 2026-08-31  
-**Lanzadores:** Michael King (V) vs Brady Singer (L)
+**Fecha:** 2026-09-01  
+**Lanzadores:** Randy Vásquez (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.1%
+**Probabilidad de que anoten en la primera entrada:** 35.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 25.0% (17/68 partidos)
+- **Estadística base YRFI:** 24.6% (17/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 14.2%
+- **Impacto del lanzador visitante (San Diego Padres - Randy Vásquez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 24.1%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 23.5% (16/68 partidos)
+- **Estadística base YRFI:** 23.2% (16/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 25.5%
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-31 19:45:18
+- **Generado el:** 2026-09-01 17:30:45
 - **Fuente de datos:** season_data.json

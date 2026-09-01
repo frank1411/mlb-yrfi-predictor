@@ -1,0 +1,67 @@
+{
+  "game_pk": 824070,
+  "game_date": "2026-09-01",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Randy Dobnak",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "22/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 21.91,
+    "pitcher": {
+      "name": "Tyler Phillips",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.18840579710145,
+        "ratio": "16/69"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 33.33333333333333,
+        "combined": 33.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.33
+      },
+      "away_team": {
+        "base": 23.18840579710145,
+        "tendency": 20.0,
+        "combined": 21.91,
+        "pitcher_impact": 0.0,
+        "adjusted": 15.34
+      },
+      "game_yrfi_probability": 35.09
+    },
+    "yrfi_probability": 35.09
+  },
+  "metadata": {
+    "generated_at": "2026-09-01T17:30:45.467905",
+    "data_source": "season_data.json"
+  }
+}

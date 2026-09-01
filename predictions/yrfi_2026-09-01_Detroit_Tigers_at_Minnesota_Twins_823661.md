@@ -1,25 +1,25 @@
 # Análisis YRFI: Detroit Tigers @ Minnesota Twins
 
-**Fecha:** 2026-08-31  
-**Lanzadores:** Jackson Jobe (V) vs Taj Bradley (L)
+**Fecha:** 2026-09-01  
+**Lanzadores:** Troy Melton (V) vs Andrew Morris (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.3%
+**Probabilidad de que anoten en la primera entrada:** 48.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 36.2% (25/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.0%
+- **Estadística base YRFI:** 37.1% (26/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 66.7% (10/15 partidos)
+- **Impacto del lanzador visitante (Detroit Tigers - Troy Melton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 34.3%
 
 ### Detroit Tigers (Visitante)
-- **Estadística base YRFI:** 40.3% (27/67 partidos)
+- **Estadística base YRFI:** 39.7% (27/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador local (Minnesota Twins - Andrew Morris):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-31 19:45:18
+- **Generado el:** 2026-09-01 17:30:45
 - **Fuente de datos:** season_data.json

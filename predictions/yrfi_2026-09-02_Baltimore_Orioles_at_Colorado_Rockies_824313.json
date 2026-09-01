@@ -1,18 +1,18 @@
 {
-  "game_pk": 824314,
-  "game_date": "2026-09-01",
+  "game_pk": 824313,
+  "game_date": "2026-09-02",
   "home_team": {
     "id": "115",
     "name": "Colorado Rockies",
     "pitcher": {
-      "name": "Tanner Gordon",
+      "name": "Gabriel Hughes",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 44.61538461538462,
-        "ratio": "29/65"
+        "value": 43.93939393939394,
+        "ratio": "29/66"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "110",
     "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 28.93,
+    "combined_yrfi_pct": 28.67,
     "pitcher": {
-      "name": "Cade Povich",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 30.434782608695656,
-        "ratio": "21/69"
+        "value": 30.0,
+        "ratio": "21/70"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 44.61538461538462,
+        "base": 43.93939393939394,
         "tendency": 13.333333333333334,
-        "combined": 32.1,
-        "pitcher_impact": 100.0,
-        "adjusted": 52.47
+        "combined": 31.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.19
       },
       "away_team": {
-        "base": 30.434782608695656,
+        "base": 30.0,
         "tendency": 26.666666666666668,
-        "combined": 28.93,
+        "combined": 28.67,
         "pitcher_impact": 0.0,
-        "adjusted": 20.25
+        "adjusted": 20.07
       },
-      "game_yrfi_probability": 62.09
+      "game_yrfi_probability": 37.81
     },
-    "yrfi_probability": 62.09
+    "yrfi_probability": 37.81
   },
   "metadata": {
-    "generated_at": "2026-08-31T19:45:18.889922",
+    "generated_at": "2026-09-01T17:30:45.486075",
     "data_source": "season_data.json"
   }
 }

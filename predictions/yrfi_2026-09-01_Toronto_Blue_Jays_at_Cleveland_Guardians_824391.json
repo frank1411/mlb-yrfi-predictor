@@ -1,0 +1,67 @@
+{
+  "game_pk": 824391,
+  "game_date": "2026-09-01",
+  "home_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "pitcher": {
+      "name": "Gavin Williams",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.35294117647059,
+        "ratio": "22/68"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 26.06,
+    "pitcher": {
+      "name": "Spencer Miles",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 21.21212121212121,
+        "ratio": "14/66"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.35294117647059,
+        "tendency": 33.33333333333333,
+        "combined": 32.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.92
+      },
+      "away_team": {
+        "base": 21.21212121212121,
+        "tendency": 33.33333333333333,
+        "combined": 26.06,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.24
+      },
+      "game_yrfi_probability": 36.98
+    },
+    "yrfi_probability": 36.98
+  },
+  "metadata": {
+    "generated_at": "2026-09-01T17:30:45.448837",
+    "data_source": "season_data.json"
+  }
+}

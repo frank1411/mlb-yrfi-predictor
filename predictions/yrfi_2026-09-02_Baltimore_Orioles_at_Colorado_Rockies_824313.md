@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Texas Rangers
+# Análisis YRFI: Baltimore Orioles @ Colorado Rockies
 
-**Fecha:** 2026-09-01  
-**Lanzadores:** Gage Jump (V) vs Jacob deGrom (L)
+**Fecha:** 2026-09-02  
+**Lanzadores:** Kyle Bradish (V) vs Gabriel Hughes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.4%
+**Probabilidad de que anoten en la primera entrada:** 37.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 29.2% (19/65 partidos)
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 43.9% (29/66 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Gage Jump):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.0%
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.2%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 23.5% (16/68 partidos)
+### Baltimore Orioles (Visitante)
+- **Estadística base YRFI:** 30.0% (21/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 37.4%
+- **Impacto del lanzador local (Colorado Rockies - Gabriel Hughes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-08-31 19:45:18
+- **Generado el:** 2026-09-01 17:30:45
 - **Fuente de datos:** season_data.json
