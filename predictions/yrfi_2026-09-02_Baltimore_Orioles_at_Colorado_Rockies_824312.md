@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Colorado Rockies
 
 **Fecha:** 2026-09-02  
-**Lanzadores:** Kyle Bradish (V) vs Gabriel Hughes (L)
+**Lanzadores:** Trevor Rogers (V) vs Tomoyuki Sugano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.8%
+**Probabilidad de que anoten en la primera entrada:** 49.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 43.9% (29/66 partidos)
+- **Estadística base YRFI:** 43.3% (29/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.2%
+- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 30.0% (21/70 partidos)
+- **Estadística base YRFI:** 29.6% (21/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Gabriel Hughes):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 34.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-01 17:30:45
+- **Generado el:** 2026-09-02 17:30:11
 - **Fuente de datos:** season_data.json

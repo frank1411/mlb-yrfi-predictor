@@ -1,25 +1,25 @@
-# Análisis YRFI: Miami Marlins @ Kansas City Royals
+# Análisis YRFI: Chicago White Sox @ Houston Astros
 
-**Fecha:** 2026-09-01  
-**Lanzadores:** Tyler Phillips (V) vs Randy Dobnak (L)
+**Fecha:** 2026-09-03  
+**Lanzadores:** Davis Martin (V) vs Hayden Wesneski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.1%
+**Probabilidad de que anoten en la primera entrada:** 44.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 33.3% (22/66 partidos)
+### Houston Astros (Local)
+- **Estadística base YRFI:** 35.7% (25/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador visitante (Chicago White Sox - Davis Martin):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 30.3%
 
-### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 23.2% (16/69 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 34.3% (24/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.3%
+- **Impacto del lanzador local (Houston Astros - Hayden Wesneski):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-01 17:30:45
+- **Generado el:** 2026-09-02 17:30:11
 - **Fuente de datos:** season_data.json

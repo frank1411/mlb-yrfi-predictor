@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ Tampa Bay Rays
 
-**Fecha:** 2026-09-01  
-**Lanzadores:** Sean Manaea (V) vs Freddy Peralta (L)
+**Fecha:** 2026-09-02  
+**Lanzadores:** Justin Hagenman (V) vs Griffin Jax (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.3%
+**Probabilidad de que anoten en la primera entrada:** 37.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 34.3% (24/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.0%
+- **Estadística base YRFI:** 35.2% (25/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (New York Mets - Justin Hagenman):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.3%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 23.9% (16/67 partidos)
+- **Estadística base YRFI:** 25.0% (17/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Freddy Peralta):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 25.4%
+- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-01 17:30:45
+- **Generado el:** 2026-09-02 17:30:11
 - **Fuente de datos:** season_data.json

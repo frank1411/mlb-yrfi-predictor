@@ -1,18 +1,18 @@
 {
-  "game_pk": 825038,
+  "game_pk": 825037,
   "game_date": "2026-09-02",
   "home_team": {
     "id": "109",
     "name": "Arizona Diamondbacks",
     "pitcher": {
-      "name": "Eduardo Rodriguez",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Taylor Clarke",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.857142857142854,
-        "ratio": "23/70"
+        "value": 32.3943661971831,
+        "ratio": "23/71"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "143",
     "name": "Philadelphia Phillies",
-    "combined_yrfi_pct": 25.24,
+    "combined_yrfi_pct": 28.54,
     "pitcher": {
-      "name": "Jesús Luzardo",
+      "name": "Andrew Painter",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 24.285714285714285,
-        "ratio": "17/70"
+        "value": 25.352112676056336,
+        "ratio": "18/71"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.857142857142854,
+        "base": 32.3943661971831,
         "tendency": 13.333333333333334,
-        "combined": 25.05,
+        "combined": 24.77,
         "pitcher_impact": 0.0,
-        "adjusted": 17.53
+        "adjusted": 17.34
       },
       "away_team": {
-        "base": 24.285714285714285,
-        "tendency": 26.666666666666668,
-        "combined": 25.24,
-        "pitcher_impact": 50.0,
-        "adjusted": 32.67
+        "base": 25.352112676056336,
+        "tendency": 33.33333333333333,
+        "combined": 28.54,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.98
       },
-      "game_yrfi_probability": 44.47
+      "game_yrfi_probability": 33.86
     },
-    "yrfi_probability": 44.47
+    "yrfi_probability": 33.86
   },
   "metadata": {
-    "generated_at": "2026-09-01T17:30:45.495173",
+    "generated_at": "2026-09-02T17:30:11.236699",
     "data_source": "season_data.json"
   }
 }

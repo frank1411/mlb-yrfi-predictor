@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Los Angeles Dodgers
 
-**Fecha:** 2026-09-02  
-**Lanzadores:** Michael McGreevy (V) vs Eric Lauer (L)
+**Fecha:** 2026-09-03  
+**Lanzadores:** Por anunciar (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.5%
+**Probabilidad de que anoten en la primera entrada:** 56.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.4% (24/66 partidos)
+- **Estadística base YRFI:** 35.8% (24/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Michael McGreevy):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.5%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 36.4% (24/66 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Eric Lauer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 34.6%
+- **Estadística base YRFI:** 35.8% (24/67 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 30.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-01 17:30:45
+- **Generado el:** 2026-09-02 17:30:11
 - **Fuente de datos:** season_data.json

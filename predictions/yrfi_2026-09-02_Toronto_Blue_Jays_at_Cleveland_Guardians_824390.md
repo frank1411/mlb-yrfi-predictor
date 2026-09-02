@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Cleveland Guardians
 
-**Fecha:** 2026-09-01  
-**Lanzadores:** Spencer Miles (V) vs Gavin Williams (L)
+**Fecha:** 2026-09-02  
+**Lanzadores:** Dylan Cease (V) vs Joey Cantillo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.0%
+**Probabilidad de que anoten en la primera entrada:** 55.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 32.4% (22/68 partidos)
+- **Estadística base YRFI:** 31.9% (22/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Spencer Miles):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 45.2%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 21.2% (14/66 partidos)
+- **Estadística base YRFI:** 20.9% (14/67 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.2%
+- **Impacto del lanzador local (Cleveland Guardians - Joey Cantillo):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-01 17:30:45
+- **Generado el:** 2026-09-02 17:30:11
 - **Fuente de datos:** season_data.json

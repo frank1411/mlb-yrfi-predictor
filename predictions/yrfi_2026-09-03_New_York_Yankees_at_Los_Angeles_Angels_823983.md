@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Los Angeles Angels
 
-**Fecha:** 2026-09-02  
-**Lanzadores:** Gerrit Cole (V) vs Grayson Rodriguez (L)
+**Fecha:** 2026-09-03  
+**Lanzadores:** Cam Schlittler (V) vs Reid Detmers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.4%
+**Probabilidad de que anoten en la primera entrada:** 48.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 40.3% (29/72 partidos)
+- **Estadística base YRFI:** 39.7% (29/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 22.9% (16/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 11.5%
+- **Estadística base YRFI:** 23.9% (17/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 21.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-01 17:30:45
+- **Generado el:** 2026-09-02 17:30:11
 - **Fuente de datos:** season_data.json

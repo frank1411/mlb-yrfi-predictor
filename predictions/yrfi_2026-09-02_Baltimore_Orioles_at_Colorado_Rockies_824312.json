@@ -1,18 +1,18 @@
 {
-  "game_pk": 824313,
+  "game_pk": 824312,
   "game_date": "2026-09-02",
   "home_team": {
     "id": "115",
     "name": "Colorado Rockies",
     "pitcher": {
-      "name": "Gabriel Hughes",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 43.93939393939394,
-        "ratio": "29/66"
+        "value": 43.28358208955223,
+        "ratio": "29/67"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "110",
     "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 28.67,
+    "combined_yrfi_pct": 28.41,
     "pitcher": {
-      "name": "Kyle Bradish",
+      "name": "Trevor Rogers",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 30.0,
-        "ratio": "21/70"
+        "value": 29.577464788732392,
+        "ratio": "21/71"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 43.93939393939394,
+        "base": 43.28358208955223,
         "tendency": 13.333333333333334,
-        "combined": 31.7,
+        "combined": 31.3,
         "pitcher_impact": 0.0,
-        "adjusted": 22.19
+        "adjusted": 21.91
       },
       "away_team": {
-        "base": 30.0,
+        "base": 29.577464788732392,
         "tendency": 26.666666666666668,
-        "combined": 28.67,
-        "pitcher_impact": 0.0,
-        "adjusted": 20.07
+        "combined": 28.41,
+        "pitcher_impact": 50.0,
+        "adjusted": 34.89
       },
-      "game_yrfi_probability": 37.81
+      "game_yrfi_probability": 49.16
     },
-    "yrfi_probability": 37.81
+    "yrfi_probability": 49.16
   },
   "metadata": {
-    "generated_at": "2026-09-01T17:30:45.486075",
+    "generated_at": "2026-09-02T17:30:11.232294",
     "data_source": "season_data.json"
   }
 }

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823339,
+  "game_date": "2026-09-02",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.32835820895522,
+        "ratio": "23/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 35.9,
+    "pitcher": {
+      "name": "Landen Roupp",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.285714285714285,
+        "ratio": "17/70"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.32835820895522,
+        "tendency": 40.0,
+        "combined": 36.6,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.62
+      },
+      "away_team": {
+        "base": 24.285714285714285,
+        "tendency": 53.333333333333336,
+        "combined": 35.9,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.13
+      },
+      "game_yrfi_probability": 44.31
+    },
+    "yrfi_probability": 44.31
+  },
+  "metadata": {
+    "generated_at": "2026-09-02T17:30:11.245551",
+    "data_source": "season_data.json"
+  }
+}

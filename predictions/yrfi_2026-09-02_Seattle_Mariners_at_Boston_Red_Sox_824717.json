@@ -1,0 +1,67 @@
+{
+  "game_pk": 824717,
+  "game_date": "2026-09-02",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Patrick Sandoval",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.88235294117647,
+        "ratio": "21/68"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 37.39,
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.76056338028169,
+        "ratio": "19/71"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.88235294117647,
+        "tendency": 33.33333333333333,
+        "combined": 31.86,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.3
+      },
+      "away_team": {
+        "base": 26.76056338028169,
+        "tendency": 53.333333333333336,
+        "combined": 37.39,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.17
+      },
+      "game_yrfi_probability": 42.63
+    },
+    "yrfi_probability": 42.63
+  },
+  "metadata": {
+    "generated_at": "2026-09-02T17:30:11.241059",
+    "data_source": "season_data.json"
+  }
+}
