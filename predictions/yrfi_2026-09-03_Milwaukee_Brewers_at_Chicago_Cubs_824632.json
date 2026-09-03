@@ -1,0 +1,67 @@
+{
+  "game_pk": 824632,
+  "game_date": "2026-09-03",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 38.028169014084504,
+        "ratio": "27/71"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 31.02,
+    "pitcher": {
+      "name": "Logan Henderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 20.588235294117645,
+        "ratio": "14/68"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 38.028169014084504,
+        "tendency": 53.333333333333336,
+        "combined": 44.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.91
+      },
+      "away_team": {
+        "base": 20.588235294117645,
+        "tendency": 46.666666666666664,
+        "combined": 31.02,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.71
+      },
+      "game_yrfi_probability": 45.91
+    },
+    "yrfi_probability": 45.91
+  },
+  "metadata": {
+    "generated_at": "2026-09-03T17:23:24.823569",
+    "data_source": "season_data.json"
+  }
+}

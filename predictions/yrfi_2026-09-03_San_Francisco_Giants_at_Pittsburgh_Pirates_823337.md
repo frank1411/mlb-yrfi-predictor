@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Pittsburgh Pirates
 
-**Fecha:** 2026-09-02  
-**Lanzadores:** Landen Roupp (V) vs Bubba Chandler (L)
+**Fecha:** 2026-09-03  
+**Lanzadores:** Blade Tidwell (V) vs Lake Bachar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.3%
+**Probabilidad de que anoten en la primera entrada:** 45.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 34.3% (23/67 partidos)
+- **Estadística base YRFI:** 33.8% (23/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Landen Roupp):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador visitante (San Francisco Giants - Blade Tidwell):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 25.4%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 24.3% (17/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 25.1%
+- **Estadística base YRFI:** 25.4% (18/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Lake Bachar):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-02 17:30:11
+- **Generado el:** 2026-09-03 17:23:24
 - **Fuente de datos:** season_data.json

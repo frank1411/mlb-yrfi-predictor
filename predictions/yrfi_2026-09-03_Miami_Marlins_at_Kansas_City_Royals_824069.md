@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Los Angeles Angels
+# Análisis YRFI: Miami Marlins @ Kansas City Royals
 
 **Fecha:** 2026-09-03  
-**Lanzadores:** Cam Schlittler (V) vs Reid Detmers (L)
+**Lanzadores:** Sandy Alcantara (V) vs Michael Wacha (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.0%
+**Probabilidad de que anoten en la primera entrada:** 53.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 39.7% (29/73 partidos)
+### Kansas City Royals (Local)
+- **Estadística base YRFI:** 33.8% (23/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 33.9%
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 35.4%
 
-### New York Yankees (Visitante)
+### Miami Marlins (Visitante)
 - **Estadística base YRFI:** 23.9% (17/71 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 21.3%
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-02 17:30:11
+- **Generado el:** 2026-09-03 17:23:24
 - **Fuente de datos:** season_data.json

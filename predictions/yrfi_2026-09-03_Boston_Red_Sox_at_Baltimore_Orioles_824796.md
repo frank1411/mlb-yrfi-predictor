@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Tampa Bay Rays
+# Análisis YRFI: Boston Red Sox @ Baltimore Orioles
 
-**Fecha:** 2026-09-02  
-**Lanzadores:** Justin Hagenman (V) vs Griffin Jax (L)
+**Fecha:** 2026-09-03  
+**Lanzadores:** Jake Bennett (V) vs Brandon Young (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.7%
+**Probabilidad de que anoten en la primera entrada:** 43.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 35.2% (25/71 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 20.6% (14/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Justin Hagenman):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 16.1%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 25.0% (17/68 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 19.7% (14/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 32.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-02 17:30:11
+- **Generado el:** 2026-09-03 17:23:24
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823337,
+  "game_date": "2026-09-03",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Lake Bachar",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.82352941176471,
+        "ratio": "23/68"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 39.21,
+    "pitcher": {
+      "name": "Blade Tidwell",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.352112676056336,
+        "ratio": "18/71"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.82352941176471,
+        "tendency": 40.0,
+        "combined": 36.29,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.41
+      },
+      "away_team": {
+        "base": 25.352112676056336,
+        "tendency": 60.0,
+        "combined": 39.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.45
+      },
+      "game_yrfi_probability": 45.88
+    },
+    "yrfi_probability": 45.88
+  },
+  "metadata": {
+    "generated_at": "2026-09-03T17:23:24.804505",
+    "data_source": "season_data.json"
+  }
+}
