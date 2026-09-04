@@ -1,0 +1,67 @@
+{
+  "game_pk": 823338,
+  "game_date": "2026-09-04",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Jared Jones",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.78260869565217,
+        "ratio": "24/69"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 33.27,
+    "pitcher": {
+      "name": "Ryan Johnson",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.78787878787879,
+        "ratio": "19/66"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.78260869565217,
+        "tendency": 40.0,
+        "combined": 36.87,
+        "pitcher_impact": 100.0,
+        "adjusted": 55.81
+      },
+      "away_team": {
+        "base": 28.78787878787879,
+        "tendency": 40.0,
+        "combined": 33.27,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.29
+      },
+      "game_yrfi_probability": 66.1
+    },
+    "yrfi_probability": 66.1
+  },
+  "metadata": {
+    "generated_at": "2026-09-04T17:15:49.112550",
+    "data_source": "season_data.json"
+  }
+}

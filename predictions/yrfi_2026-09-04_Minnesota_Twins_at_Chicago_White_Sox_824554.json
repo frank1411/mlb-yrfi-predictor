@@ -1,0 +1,67 @@
+{
+  "game_pk": 824554,
+  "game_date": "2026-09-04",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Erick Fedde",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.985507246376812,
+        "ratio": "20/69"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 46.96,
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.82352941176471,
+        "ratio": "23/68"
+      },
+      "tendency": {
+        "value": 66.66666666666666,
+        "ratio": "10/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.985507246376812,
+        "tendency": 20.0,
+        "combined": 25.39,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.77
+      },
+      "away_team": {
+        "base": 33.82352941176471,
+        "tendency": 66.66666666666666,
+        "combined": 46.96,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.87
+      },
+      "game_yrfi_probability": 44.8
+    },
+    "yrfi_probability": 44.8
+  },
+  "metadata": {
+    "generated_at": "2026-09-04T17:15:49.130674",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Texas Rangers
 
-**Fecha:** 2026-09-04  
-**Lanzadores:** Shane McClanahan (V) vs Cal Quantrill (L)
+**Fecha:** 2026-09-05  
+**Lanzadores:** Nick Martinez (V) vs Trevor Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.9%
+**Probabilidad de que anoten en la primera entrada:** 34.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 30.9% (21/68 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Shane McClanahan):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.4%
+- **Estadística base YRFI:** 30.4% (21/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 28.4% (19/67 partidos)
+- **Estadística base YRFI:** 27.9% (19/68 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Cal Quantrill):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.4%
+- **Impacto del lanzador local (Texas Rangers - Trevor Williams):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-03 17:23:24
+- **Generado el:** 2026-09-04 17:15:49
 - **Fuente de datos:** season_data.json

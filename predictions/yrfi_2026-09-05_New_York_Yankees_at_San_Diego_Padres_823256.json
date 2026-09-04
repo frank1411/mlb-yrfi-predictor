@@ -1,0 +1,67 @@
+{
+  "game_pk": 823256,
+  "game_date": "2026-09-05",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.73913043478261,
+        "ratio": "15/69"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 19.5,
+    "pitcher": {
+      "name": "Max Fried",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 23.61111111111111,
+        "ratio": "17/72"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.73913043478261,
+        "tendency": 26.666666666666668,
+        "combined": 23.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.6
+      },
+      "away_team": {
+        "base": 23.61111111111111,
+        "tendency": 13.333333333333334,
+        "combined": 19.5,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.65
+      },
+      "game_yrfi_probability": 27.98
+    },
+    "yrfi_probability": 27.98
+  },
+  "metadata": {
+    "generated_at": "2026-09-04T17:15:49.153660",
+    "data_source": "season_data.json"
+  }
+}

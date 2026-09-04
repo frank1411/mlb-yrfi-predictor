@@ -1,25 +1,25 @@
-# Análisis YRFI: San Francisco Giants @ Pittsburgh Pirates
+# Análisis YRFI: San Francisco Giants @ New York Mets
 
-**Fecha:** 2026-09-03  
-**Lanzadores:** Blade Tidwell (V) vs Lake Bachar (L)
+**Fecha:** 2026-09-04  
+**Lanzadores:** Matt Wilkinson (V) vs Nolan McLean (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.9%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 33.8% (23/68 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 31.0% (22/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Blade Tidwell):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 25.4%
+- **Impacto del lanzador visitante (San Francisco Giants - Matt Wilkinson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.2%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 25.4% (18/71 partidos)
+- **Estadística base YRFI:** 25.0% (18/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Lake Bachar):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 34.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-03 17:23:24
+- **Generado el:** 2026-09-04 17:15:49
 - **Fuente de datos:** season_data.json

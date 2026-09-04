@@ -1,0 +1,67 @@
+{
+  "game_pk": 823905,
+  "game_date": "2026-09-05",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Blake Snell",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.231884057971016,
+        "ratio": "25/69"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 18.32,
+    "pitcher": {
+      "name": "Jackson Kent",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.08695652173913,
+        "ratio": "18/69"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.231884057971016,
+        "tendency": 26.666666666666668,
+        "combined": 32.41,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.68
+      },
+      "away_team": {
+        "base": 26.08695652173913,
+        "tendency": 6.666666666666667,
+        "combined": 18.32,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.82
+      },
+      "game_yrfi_probability": 32.59
+    },
+    "yrfi_probability": 32.59
+  },
+  "metadata": {
+    "generated_at": "2026-09-04T17:15:49.158113",
+    "data_source": "season_data.json"
+  }
+}
