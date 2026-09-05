@@ -1,0 +1,67 @@
+{
+  "game_pk": 823419,
+  "game_date": "2026-09-05",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 39.130434782608695,
+        "ratio": "27/69"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "combined_yrfi_pct": 29.86,
+    "pitcher": {
+      "name": "Martín Pérez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 27.536231884057973,
+        "ratio": "19/69"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.130434782608695,
+        "tendency": 33.33333333333333,
+        "combined": 36.81,
+        "pitcher_impact": 50.0,
+        "adjusted": 40.77
+      },
+      "away_team": {
+        "base": 27.536231884057973,
+        "tendency": 33.33333333333333,
+        "combined": 29.86,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.9
+      },
+      "game_yrfi_probability": 53.15
+    },
+    "yrfi_probability": 53.15
+  },
+  "metadata": {
+    "generated_at": "2026-09-05T16:23:05.973435",
+    "data_source": "season_data.json"
+  }
+}

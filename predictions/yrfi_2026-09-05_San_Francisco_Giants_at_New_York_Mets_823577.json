@@ -1,0 +1,67 @@
+{
+  "game_pk": 823577,
+  "game_date": "2026-09-05",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.944444444444443,
+        "ratio": "23/72"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 38.79,
+    "pitcher": {
+      "name": "Anthony Molina",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.65753424657534,
+        "ratio": "18/73"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.944444444444443,
+        "tendency": 40.0,
+        "combined": 35.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.62
+      },
+      "away_team": {
+        "base": 24.65753424657534,
+        "tendency": 60.0,
+        "combined": 38.79,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.16
+      },
+      "game_yrfi_probability": 45.09
+    },
+    "yrfi_probability": 45.09
+  },
+  "metadata": {
+    "generated_at": "2026-09-05T16:23:05.962479",
+    "data_source": "season_data.json"
+  }
+}

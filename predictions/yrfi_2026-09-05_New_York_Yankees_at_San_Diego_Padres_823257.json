@@ -1,0 +1,67 @@
+{
+  "game_pk": 823257,
+  "game_date": "2026-09-05",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 21.428571428571427,
+        "ratio": "15/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 19.31,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.28767123287671,
+        "ratio": "17/73"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 21.428571428571427,
+        "tendency": 26.666666666666668,
+        "combined": 23.52,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.47
+      },
+      "away_team": {
+        "base": 23.28767123287671,
+        "tendency": 13.333333333333334,
+        "combined": 19.31,
+        "pitcher_impact": 25.0,
+        "adjusted": 21.01
+      },
+      "game_yrfi_probability": 34.02
+    },
+    "yrfi_probability": 34.02
+  },
+  "metadata": {
+    "generated_at": "2026-09-05T16:23:06.010525",
+    "data_source": "season_data.json"
+  }
+}

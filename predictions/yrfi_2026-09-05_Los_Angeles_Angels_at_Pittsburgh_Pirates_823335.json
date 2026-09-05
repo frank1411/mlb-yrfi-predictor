@@ -1,0 +1,67 @@
+{
+  "game_pk": 823335,
+  "game_date": "2026-09-05",
+  "home_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "pitcher": {
+      "name": "Braxton Ashcraft",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 34.285714285714285,
+        "ratio": "24/70"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 33.01,
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 28.35820895522388,
+        "ratio": "19/67"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.285714285714285,
+        "tendency": 40.0,
+        "combined": 36.57,
+        "pitcher_impact": 40.0,
+        "adjusted": 37.6
+      },
+      "away_team": {
+        "base": 28.35820895522388,
+        "tendency": 40.0,
+        "combined": 33.01,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.11
+      },
+      "game_yrfi_probability": 52.02
+    },
+    "yrfi_probability": 52.02
+  },
+  "metadata": {
+    "generated_at": "2026-09-05T16:23:05.985764",
+    "data_source": "season_data.json"
+  }
+}

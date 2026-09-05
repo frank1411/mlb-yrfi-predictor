@@ -1,0 +1,67 @@
+{
+  "game_pk": 823823,
+  "game_date": "2026-09-05",
+  "home_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "pitcher": {
+      "name": "Ryan Gusto",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.857142857142854,
+        "ratio": "23/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 28.95,
+    "pitcher": {
+      "name": "Javier Assad",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 17.142857142857142,
+        "ratio": "12/70"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.857142857142854,
+        "tendency": 33.33333333333333,
+        "combined": 33.05,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.13
+      },
+      "away_team": {
+        "base": 17.142857142857142,
+        "tendency": 46.666666666666664,
+        "combined": 28.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.27
+      },
+      "game_yrfi_probability": 50.67
+    },
+    "yrfi_probability": 50.67
+  },
+  "metadata": {
+    "generated_at": "2026-09-05T16:23:05.969020",
+    "data_source": "season_data.json"
+  }
+}
