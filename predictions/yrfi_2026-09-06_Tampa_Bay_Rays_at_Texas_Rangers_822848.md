@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ Texas Rangers
 
-**Fecha:** 2026-09-05  
-**Lanzadores:** Drew Rasmussen (V) vs Jacob deGrom (L)
+**Fecha:** 2026-09-06  
+**Lanzadores:** Ian Seymour (V) vs MacKenzie Gore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.3%
+**Probabilidad de que anoten en la primera entrada:** 34.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 30.0% (21/70 partidos)
+- **Estadística base YRFI:** 29.6% (21/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 25.7%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Ian Seymour):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 27.5% (19/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 37.2%
+- **Estadística base YRFI:** 28.6% (20/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-05 16:23:05
+- **Generado el:** 2026-09-06 16:34:02
 - **Fuente de datos:** season_data.json

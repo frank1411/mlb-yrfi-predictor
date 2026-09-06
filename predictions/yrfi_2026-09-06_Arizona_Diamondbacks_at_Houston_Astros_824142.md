@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Houston Astros
 
-**Fecha:** 2026-09-05  
-**Lanzadores:** Brandon Pfaadt (V) vs Ethan Pecko (L)
+**Fecha:** 2026-09-06  
+**Lanzadores:** Eduardo Rodriguez (V) vs Peter Lambert (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.9%
+**Probabilidad de que anoten en la primera entrada:** 66.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 35.6% (26/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Brandon Pfaadt):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 26.2%
+- **Estadística base YRFI:** 35.1% (26/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 39.1%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 25.7% (18/70 partidos)
+- **Estadística base YRFI:** 25.4% (18/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Ethan Pecko):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.5%
+- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 44.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-05 16:23:06
+- **Generado el:** 2026-09-06 16:34:02
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Los Angeles Dodgers
 
-**Fecha:** 2026-09-06  
-**Lanzadores:** Cade Cavalli (V) vs Tyler Glasnow (L)
+**Fecha:** 2026-09-07  
+**Lanzadores:** Andrew Alvarez (V) vs Justin Wrobleski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.8%
+**Probabilidad de que anoten en la primera entrada:** 32.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 35.7% (25/70 partidos)
+- **Estadística base YRFI:** 36.6% (26/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador visitante (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.7% (18/70 partidos)
+- **Estadística base YRFI:** 25.4% (18/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Tyler Glasnow):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 22.7%
+- **Impacto del lanzador local (Los Angeles Dodgers - Justin Wrobleski):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 12.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-05 16:23:06
+- **Generado el:** 2026-09-06 16:34:02
 - **Fuente de datos:** season_data.json

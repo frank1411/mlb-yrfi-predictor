@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Miami Marlins
 
-**Fecha:** 2026-09-05  
-**Lanzadores:** Javier Assad (V) vs Ryan Gusto (L)
+**Fecha:** 2026-09-06  
+**Lanzadores:** Clay Holmes (V) vs Tyler Phillips (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.7%
+**Probabilidad de que anoten en la primera entrada:** 49.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 32.9% (23/70 partidos)
+- **Estadística base YRFI:** 32.4% (23/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Javier Assad):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.1%
+- **Impacto del lanzador visitante (Chicago Cubs - Clay Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 37.9%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 17.1% (12/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.3%
+- **Estadística base YRFI:** 16.9% (12/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-05 16:23:05
+- **Generado el:** 2026-09-06 16:34:02
 - **Fuente de datos:** season_data.json

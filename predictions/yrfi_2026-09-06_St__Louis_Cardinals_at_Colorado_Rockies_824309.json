@@ -1,18 +1,18 @@
 {
-  "game_pk": 824310,
+  "game_pk": 824309,
   "game_date": "2026-09-06",
   "home_team": {
     "id": "115",
     "name": "Colorado Rockies",
     "pitcher": {
-      "name": "Mason Adams",
+      "name": "Tanner Gordon",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 43.47826086956522,
-        "ratio": "30/69"
+        "value": 42.857142857142854,
+        "ratio": "30/70"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "138",
     "name": "St. Louis Cardinals",
-    "combined_yrfi_pct": 32.1,
+    "combined_yrfi_pct": 31.79,
     "pitcher": {
-      "name": "Matthew Liberatore",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Kyle Leahy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 35.714285714285715,
-        "ratio": "25/70"
+        "value": 35.2112676056338,
+        "ratio": "25/71"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 43.47826086956522,
+        "base": 42.857142857142854,
         "tendency": 13.333333333333334,
-        "combined": 31.42,
-        "pitcher_impact": 50.0,
-        "adjusted": 36.99
+        "combined": 31.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.73
       },
       "away_team": {
-        "base": 35.714285714285715,
+        "base": 35.2112676056338,
         "tendency": 26.666666666666668,
-        "combined": 32.1,
+        "combined": 31.79,
         "pitcher_impact": 0.0,
-        "adjusted": 22.47
+        "adjusted": 22.26
       },
-      "game_yrfi_probability": 51.15
+      "game_yrfi_probability": 39.15
     },
-    "yrfi_probability": 51.15
+    "yrfi_probability": 39.15
   },
   "metadata": {
-    "generated_at": "2026-09-05T16:23:06.013862",
+    "generated_at": "2026-09-06T16:34:02.482279",
     "data_source": "season_data.json"
   }
 }

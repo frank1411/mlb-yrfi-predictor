@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Philadelphia Phillies
 
-**Fecha:** 2026-09-05  
-**Lanzadores:** Martín Pérez (V) vs Zack Wheeler (L)
+**Fecha:** 2026-09-06  
+**Lanzadores:** Tyler Mahle (V) vs Aaron Nola (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.1%
+**Probabilidad de que anoten en la primera entrada:** 59.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 39.1% (27/69 partidos)
+- **Estadística base YRFI:** 40.0% (28/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Martín Pérez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 40.8%
+- **Impacto del lanzador visitante (Atlanta Braves - Tyler Mahle):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 36.1%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 27.5% (19/69 partidos)
+- **Estadística base YRFI:** 27.1% (19/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Zack Wheeler):** 0.0% (1/2 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 35.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-05 16:23:05
+- **Generado el:** 2026-09-06 16:34:02
 - **Fuente de datos:** season_data.json

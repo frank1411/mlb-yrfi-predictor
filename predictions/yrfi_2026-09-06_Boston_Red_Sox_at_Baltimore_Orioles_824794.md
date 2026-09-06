@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Baltimore Orioles
 
-**Fecha:** 2026-09-05  
-**Lanzadores:** Sonny Gray (V) vs Chris Bassitt (L)
+**Fecha:** 2026-09-06  
+**Lanzadores:** Payton Tolle (V) vs Kyle Bradish (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.8%
+**Probabilidad de que anoten en la primera entrada:** 31.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 21.4% (15/70 partidos)
+- **Estadística base YRFI:** 21.1% (15/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 46.5%
+- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 16.3%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 21.9% (16/73 partidos)
+- **Estadística base YRFI:** 21.6% (16/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Chris Bassitt):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-05 16:23:05
+- **Generado el:** 2026-09-06 16:34:02
 - **Fuente de datos:** season_data.json

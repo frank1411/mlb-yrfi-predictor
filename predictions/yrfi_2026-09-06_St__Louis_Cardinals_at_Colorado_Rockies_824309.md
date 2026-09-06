@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Colorado Rockies
 
 **Fecha:** 2026-09-06  
-**Lanzadores:** Matthew Liberatore (V) vs Mason Adams (L)
+**Lanzadores:** Kyle Leahy (V) vs Tanner Gordon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.1%
+**Probabilidad de que anoten en la primera entrada:** 39.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 43.5% (30/69 partidos)
+- **Estadística base YRFI:** 42.9% (30/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.0%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Kyle Leahy):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 21.7%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 35.7% (25/70 partidos)
+- **Estadística base YRFI:** 35.2% (25/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Mason Adams):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-05 16:23:06
+- **Generado el:** 2026-09-06 16:34:02
 - **Fuente de datos:** season_data.json

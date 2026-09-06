@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Seattle Mariners
 
 **Fecha:** 2026-09-06  
-**Lanzadores:** Jeffrey Springs (V) vs George Kirby (L)
+**Lanzadores:** Gage Jump (V) vs Bryan Woo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.6%
+**Probabilidad de que anoten en la primera entrada:** 44.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 35.7% (25/70 partidos)
+- **Estadística base YRFI:** 35.2% (25/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jeffrey Springs):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador visitante (Athletics - Gage Jump):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.9%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 23.3% (17/73 partidos)
+- **Estadística base YRFI:** 23.0% (17/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - George Kirby):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 28.5%
+- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 23.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-05 16:23:06
+- **Generado el:** 2026-09-06 16:34:02
 - **Fuente de datos:** season_data.json

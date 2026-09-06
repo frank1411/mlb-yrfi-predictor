@@ -1,0 +1,67 @@
+{
+  "game_pk": 824552,
+  "game_date": "2026-09-06",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Bryan Hudson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.985915492957744,
+        "ratio": "22/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 41.05,
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 32.857142857142854,
+        "ratio": "23/70"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.985915492957744,
+        "tendency": 33.33333333333333,
+        "combined": 31.92,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.35
+      },
+      "away_team": {
+        "base": 32.857142857142854,
+        "tendency": 53.333333333333336,
+        "combined": 41.05,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.73
+      },
+      "game_yrfi_probability": 44.66
+    },
+    "yrfi_probability": 44.66
+  },
+  "metadata": {
+    "generated_at": "2026-09-06T16:34:02.496292",
+    "data_source": "season_data.json"
+  }
+}
