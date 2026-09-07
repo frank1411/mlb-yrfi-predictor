@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Baltimore Orioles
+# Análisis YRFI: Cincinnati Reds @ Los Angeles Dodgers
 
-**Fecha:** 2026-09-06  
-**Lanzadores:** Payton Tolle (V) vs Kyle Bradish (L)
+**Fecha:** 2026-09-08  
+**Lanzadores:** Chase Burns (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.7%
+**Probabilidad de que anoten en la primera entrada:** 49.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 21.1% (15/71 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 36.1% (26/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Payton Tolle):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 16.3%
+- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.6%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 21.6% (16/74 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 26.1% (18/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Kyle Bradish):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.4%
+- **Impacto del lanzador local (Los Angeles Dodgers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-06 16:34:02
+- **Generado el:** 2026-09-07 18:29:02
 - **Fuente de datos:** season_data.json

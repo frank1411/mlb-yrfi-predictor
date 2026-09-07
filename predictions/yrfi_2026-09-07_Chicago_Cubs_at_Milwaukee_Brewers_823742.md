@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Pittsburgh Pirates
+# Análisis YRFI: Chicago Cubs @ Milwaukee Brewers
 
-**Fecha:** 2026-09-06  
-**Lanzadores:** Walbert Ureña (V) vs Paul Skenes (L)
+**Fecha:** 2026-09-07  
+**Lanzadores:** Matthew Boyd (V) vs Robert Gasser (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.7%
+**Probabilidad de que anoten en la primera entrada:** 65.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 33.8% (24/71 partidos)
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 38.9% (28/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Walbert Ureña):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.4%
+- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 57.5%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 27.9% (19/68 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 16.7% (12/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 37.9%
+- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-06 16:34:02
+- **Generado el:** 2026-09-07 18:29:02
 - **Fuente de datos:** season_data.json

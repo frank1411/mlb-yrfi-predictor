@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Philadelphia Phillies
 
-**Fecha:** 2026-09-06  
-**Lanzadores:** Tyler Mahle (V) vs Aaron Nola (L)
+**Fecha:** 2026-09-07  
+**Lanzadores:** Grant Holmes (V) vs Jesús Luzardo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.0%
+**Probabilidad de que anoten en la primera entrada:** 55.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 40.0% (28/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Tyler Mahle):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 36.1%
+- **Estadística base YRFI:** 40.8% (29/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 43.4%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 27.1% (19/70 partidos)
+- **Estadística base YRFI:** 26.8% (19/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.7%
+- **Impacto del lanzador local (Philadelphia Phillies - Jesús Luzardo):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 20.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-06 16:34:02
+- **Generado el:** 2026-09-07 18:29:02
 - **Fuente de datos:** season_data.json

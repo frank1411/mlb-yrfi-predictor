@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Miami Marlins
+# Análisis YRFI: New York Mets @ Miami Marlins
 
-**Fecha:** 2026-09-06  
-**Lanzadores:** Clay Holmes (V) vs Tyler Phillips (L)
+**Fecha:** 2026-09-07  
+**Lanzadores:** Jonah Tong (V) vs Eury Pérez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.3%
+**Probabilidad de que anoten en la primera entrada:** 45.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 32.4% (23/71 partidos)
+- **Estadística base YRFI:** 31.9% (23/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Clay Holmes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 37.9%
+- **Impacto del lanzador visitante (New York Mets - Jonah Tong):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.8%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 16.9% (12/71 partidos)
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 26.1% (18/69 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Tyler Phillips):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.3%
+- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-06 16:34:02
+- **Generado el:** 2026-09-07 18:29:02
 - **Fuente de datos:** season_data.json

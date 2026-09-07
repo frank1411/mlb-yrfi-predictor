@@ -1,0 +1,67 @@
+{
+  "game_pk": 824958,
+  "game_date": "2026-09-08",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jacob Lopez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 31.88405797101449,
+        "ratio": "22/69"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 32.83,
+    "pitcher": {
+      "name": "Dylan Cease",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.61111111111111,
+        "ratio": "17/72"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.88405797101449,
+        "tendency": 13.333333333333334,
+        "combined": 24.46,
+        "pitcher_impact": 75.0,
+        "adjusted": 39.62
+      },
+      "away_team": {
+        "base": 23.61111111111111,
+        "tendency": 46.666666666666664,
+        "combined": 32.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.98
+      },
+      "game_yrfi_probability": 53.5
+    },
+    "yrfi_probability": 53.5
+  },
+  "metadata": {
+    "generated_at": "2026-09-07T18:29:02.318996",
+    "data_source": "season_data.json"
+  }
+}
