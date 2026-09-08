@@ -1,0 +1,67 @@
+{
+  "game_pk": 824957,
+  "game_date": "2026-09-09",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jack Perkins",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.857142857142854,
+        "ratio": "23/70"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "combined_yrfi_pct": 32.64,
+    "pitcher": {
+      "name": "José Soriano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 23.28767123287671,
+        "ratio": "17/73"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.857142857142854,
+        "tendency": 20.0,
+        "combined": 27.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.4
+      },
+      "away_team": {
+        "base": 23.28767123287671,
+        "tendency": 46.666666666666664,
+        "combined": 32.64,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.85
+      },
+      "game_yrfi_probability": 37.82
+    },
+    "yrfi_probability": 37.82
+  },
+  "metadata": {
+    "generated_at": "2026-09-08T17:39:54.824013",
+    "data_source": "season_data.json"
+  }
+}

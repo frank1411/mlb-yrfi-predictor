@@ -1,0 +1,67 @@
+{
+  "game_pk": 824875,
+  "game_date": "2026-09-08",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "AJ Smith-Shawver",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.72222222222222,
+        "ratio": "25/72"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 27.57,
+    "pitcher": {
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 28.169014084507044,
+        "ratio": "20/71"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.72222222222222,
+        "tendency": 33.33333333333333,
+        "combined": 34.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.92
+      },
+      "away_team": {
+        "base": 28.169014084507044,
+        "tendency": 26.666666666666668,
+        "combined": 27.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.3
+      },
+      "game_yrfi_probability": 38.6
+    },
+    "yrfi_probability": 38.6
+  },
+  "metadata": {
+    "generated_at": "2026-09-08T17:39:54.798476",
+    "data_source": "season_data.json"
+  }
+}

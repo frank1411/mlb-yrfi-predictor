@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Los Angeles Dodgers
 
-**Fecha:** 2026-09-08  
-**Lanzadores:** Chase Burns (V) vs Por anunciar (L)
+**Fecha:** 2026-09-09  
+**Lanzadores:** Nick Lodolo (V) vs Tarik Skubal (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.9%
+**Probabilidad de que anoten en la primera entrada:** 40.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.1% (26/72 partidos)
+- **Estadística base YRFI:** 35.6% (26/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.4%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 26.1% (18/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.3%
+- **Estadística base YRFI:** 27.1% (19/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Tarik Skubal):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-07 18:29:02
+- **Generado el:** 2026-09-08 17:39:54
 - **Fuente de datos:** season_data.json

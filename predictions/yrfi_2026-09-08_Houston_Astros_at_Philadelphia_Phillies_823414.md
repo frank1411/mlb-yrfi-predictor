@@ -1,7 +1,7 @@
-# Análisis YRFI: New York Mets @ Miami Marlins
+# Análisis YRFI: Houston Astros @ Philadelphia Phillies
 
-**Fecha:** 2026-09-07  
-**Lanzadores:** Jonah Tong (V) vs Eury Pérez (L)
+**Fecha:** 2026-09-08  
+**Lanzadores:** Hayden Wesneski (V) vs Andrew Painter (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Miami Marlins (Local)
-- **Estadística base YRFI:** 31.9% (23/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Jonah Tong):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.8%
-
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 26.1% (18/69 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 40.3% (29/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 29.7%
+- **Impacto del lanzador visitante (Houston Astros - Hayden Wesneski):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.1%
+
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 31.4% (22/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 24.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-07 18:29:02
+- **Generado el:** 2026-09-08 17:39:54
 - **Fuente de datos:** season_data.json

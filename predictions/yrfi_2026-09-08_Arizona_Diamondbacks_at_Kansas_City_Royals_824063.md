@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ Kansas City Royals
 
-**Fecha:** 2026-09-07  
-**Lanzadores:** Derek Law (V) vs Noah Cameron (L)
+**Fecha:** 2026-09-08  
+**Lanzadores:** Corbin Burnes (V) vs Michael Wacha (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.1%
+**Probabilidad de que anoten en la primera entrada:** 44.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 36.1% (26/72 partidos)
+- **Estadística base YRFI:** 35.6% (26/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Derek Law):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.2%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Corbin Burnes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.0%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 25.0% (18/72 partidos)
+- **Estadística base YRFI:** 24.7% (18/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 12.4%
+- **Impacto del lanzador local (Kansas City Royals - Michael Wacha):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 22.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-07 18:29:02
+- **Generado el:** 2026-09-08 17:39:54
 - **Fuente de datos:** season_data.json

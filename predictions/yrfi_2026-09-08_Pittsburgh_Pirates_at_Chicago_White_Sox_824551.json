@@ -1,0 +1,67 @@
+{
+  "game_pk": 824551,
+  "game_date": "2026-09-08",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Sean Burke",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.555555555555557,
+        "ratio": "22/72"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 30.83,
+    "pitcher": {
+      "name": "Bubba Chandler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 29.166666666666668,
+        "ratio": "21/72"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.555555555555557,
+        "tendency": 33.33333333333333,
+        "combined": 31.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.17
+      },
+      "away_team": {
+        "base": 29.166666666666668,
+        "tendency": 33.33333333333333,
+        "combined": 30.83,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.58
+      },
+      "game_yrfi_probability": 38.97
+    },
+    "yrfi_probability": 38.97
+  },
+  "metadata": {
+    "generated_at": "2026-09-08T17:39:54.807701",
+    "data_source": "season_data.json"
+  }
+}

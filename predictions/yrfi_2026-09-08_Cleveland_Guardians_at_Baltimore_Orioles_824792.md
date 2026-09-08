@@ -1,7 +1,7 @@
-# Análisis YRFI: Washington Nationals @ San Diego Padres
+# Análisis YRFI: Cleveland Guardians @ Baltimore Orioles
 
-**Fecha:** 2026-09-07  
-**Lanzadores:** Jake Irvin (V) vs Nick Pivetta (L)
+**Fecha:** 2026-09-08  
+**Lanzadores:** Tanner Bibee (V) vs Brandon Young (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 22.2% (16/72 partidos)
+### Baltimore Orioles (Local)
+- **Estadística base YRFI:** 21.9% (16/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 31.8%
+- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 24.2%
 
-### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.0% (18/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Nick Pivetta):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 22.4%
+### Cleveland Guardians (Visitante)
+- **Estadística base YRFI:** 22.9% (16/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 30.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-07 18:29:02
+- **Generado el:** 2026-09-08 17:39:54
 - **Fuente de datos:** season_data.json

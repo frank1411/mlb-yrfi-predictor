@@ -1,0 +1,67 @@
+{
+  "game_pk": 824714,
+  "game_date": "2026-09-08",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Patrick Sandoval",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "21/70"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 26.95,
+    "pitcher": {
+      "name": "Reid Detmers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.142857142857142,
+        "ratio": "19/70"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.0,
+        "tendency": 33.33333333333333,
+        "combined": 31.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.93
+      },
+      "away_team": {
+        "base": 27.142857142857142,
+        "tendency": 26.666666666666668,
+        "combined": 26.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.87
+      },
+      "game_yrfi_probability": 36.66
+    },
+    "yrfi_probability": 36.66
+  },
+  "metadata": {
+    "generated_at": "2026-09-08T17:39:54.789239",
+    "data_source": "season_data.json"
+  }
+}

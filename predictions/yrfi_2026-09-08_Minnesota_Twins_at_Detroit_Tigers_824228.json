@@ -1,0 +1,67 @@
+{
+  "game_pk": 824228,
+  "game_date": "2026-09-08",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Drew Anderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.71428571428571,
+        "ratio": "18/70"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 44.0,
+    "pitcher": {
+      "name": "Dean Kremer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "24/72"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.71428571428571,
+        "tendency": 40.0,
+        "combined": 31.43,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.0
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 60.0,
+        "combined": 44.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 30.8
+      },
+      "game_yrfi_probability": 46.02
+    },
+    "yrfi_probability": 46.02
+  },
+  "metadata": {
+    "generated_at": "2026-09-08T17:39:54.769384",
+    "data_source": "season_data.json"
+  }
+}

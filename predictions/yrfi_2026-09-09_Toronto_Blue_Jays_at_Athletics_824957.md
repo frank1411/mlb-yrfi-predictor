@@ -1,25 +1,25 @@
 # Análisis YRFI: Toronto Blue Jays @ Athletics
 
-**Fecha:** 2026-09-08  
-**Lanzadores:** Dylan Cease (V) vs Jacob Lopez (L)
+**Fecha:** 2026-09-09  
+**Lanzadores:** José Soriano (V) vs Jack Perkins (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.5%
+**Probabilidad de que anoten en la primera entrada:** 37.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 31.9% (22/69 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Toronto Blue Jays - Dylan Cease):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 39.6%
+- **Estadística base YRFI:** 32.9% (23/70 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Toronto Blue Jays - José Soriano):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.4%
 
 ### Toronto Blue Jays (Visitante)
-- **Estadística base YRFI:** 23.6% (17/72 partidos)
+- **Estadística base YRFI:** 23.3% (17/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Athletics - Jacob Lopez):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 23.0%
+- **Impacto del lanzador local (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-07 18:29:02
+- **Generado el:** 2026-09-08 17:39:54
 - **Fuente de datos:** season_data.json
