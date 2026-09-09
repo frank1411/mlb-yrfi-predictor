@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Los Angeles Dodgers
 
-**Fecha:** 2026-09-09  
-**Lanzadores:** Nick Lodolo (V) vs Tarik Skubal (L)
+**Fecha:** 2026-09-10  
+**Lanzadores:** Rhett Lowder (V) vs Yoshinobu Yamamoto (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.0%
+**Probabilidad de que anoten en la primera entrada:** 61.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 35.6% (26/73 partidos)
+- **Estadística base YRFI:** 36.5% (27/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.4%
+- **Impacto del lanzador visitante (Cincinnati Reds - Rhett Lowder):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 45.3%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 27.1% (19/70 partidos)
+- **Estadística base YRFI:** 26.8% (19/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Tarik Skubal):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.6%
+- **Impacto del lanzador local (Los Angeles Dodgers - Yoshinobu Yamamoto):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 29.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-08 17:39:54
+- **Generado el:** 2026-09-09 17:25:29
 - **Fuente de datos:** season_data.json

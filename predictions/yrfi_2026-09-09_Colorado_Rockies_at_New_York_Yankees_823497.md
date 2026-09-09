@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ New York Yankees
 
-**Fecha:** 2026-09-08  
-**Lanzadores:** Gabriel Hughes (V) vs Cam Schlittler (L)
+**Fecha:** 2026-09-09  
+**Lanzadores:** Tomoyuki Sugano (V) vs Will Warren (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 26.6%
+**Probabilidad de que anoten en la primera entrada:** 33.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 30.9% (21/68 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Gabriel Hughes):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.7%
+- **Estadística base YRFI:** 31.9% (22/69 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.0%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 19.4% (14/72 partidos)
+- **Estadística base YRFI:** 19.2% (14/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 11.9%
+- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-08 17:39:54
+- **Generado el:** 2026-09-09 17:25:29
 - **Fuente de datos:** season_data.json

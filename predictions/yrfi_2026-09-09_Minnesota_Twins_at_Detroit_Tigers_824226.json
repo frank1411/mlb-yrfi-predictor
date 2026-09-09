@@ -1,0 +1,67 @@
+{
+  "game_pk": 824226,
+  "game_date": "2026-09-09",
+  "home_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "pitcher": {
+      "name": "Keider Montero",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 25.352112676056336,
+        "ratio": "18/71"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 47.21,
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 34.24657534246575,
+        "ratio": "25/73"
+      },
+      "tendency": {
+        "value": 66.66666666666666,
+        "ratio": "10/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 25.352112676056336,
+        "tendency": 33.33333333333333,
+        "combined": 28.54,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.98
+      },
+      "away_team": {
+        "base": 34.24657534246575,
+        "tendency": 66.66666666666666,
+        "combined": 47.21,
+        "pitcher_impact": 0.0,
+        "adjusted": 33.05
+      },
+      "game_yrfi_probability": 46.43
+    },
+    "yrfi_probability": 46.43
+  },
+  "metadata": {
+    "generated_at": "2026-09-09T17:25:29.876141",
+    "data_source": "season_data.json"
+  }
+}

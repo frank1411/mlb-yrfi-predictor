@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ San Francisco Giants
 
 **Fecha:** 2026-09-09  
-**Lanzadores:** Quinn Mathews (V) vs Landen Roupp (L)
+**Lanzadores:** Andre Pallante (V) vs Blade Tidwell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.7%
+**Probabilidad de que anoten en la primera entrada:** 58.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 28.6% (20/70 partidos)
+- **Estadística base YRFI:** 29.6% (21/71 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Quinn Mathews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Andre Pallante):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 49.2%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 34.2% (25/73 partidos)
+- **Estadística base YRFI:** 33.8% (25/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Landen Roupp):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 18.1%
+- **Impacto del lanzador local (San Francisco Giants - Blade Tidwell):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-08 17:39:54
+- **Generado el:** 2026-09-09 17:25:29
 - **Fuente de datos:** season_data.json

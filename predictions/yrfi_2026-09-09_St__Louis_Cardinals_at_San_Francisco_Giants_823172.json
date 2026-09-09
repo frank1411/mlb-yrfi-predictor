@@ -1,18 +1,18 @@
 {
-  "game_pk": 823174,
+  "game_pk": 823172,
   "game_date": "2026-09-09",
   "home_team": {
     "id": "137",
     "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Landen Roupp",
+      "name": "Blade Tidwell",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 28.57142857142857,
-        "ratio": "20/70"
+        "value": 29.577464788732392,
+        "ratio": "21/71"
       },
       "tendency": {
         "value": 60.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "138",
     "name": "St. Louis Cardinals",
-    "combined_yrfi_pct": 25.88,
+    "combined_yrfi_pct": 25.6,
     "pitcher": {
-      "name": "Quinn Mathews",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Andre Pallante",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
-        "value": 34.24657534246575,
-        "ratio": "25/73"
+        "value": 33.78378378378378,
+        "ratio": "25/74"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 28.57142857142857,
+        "base": 29.577464788732392,
         "tendency": 60.0,
-        "combined": 41.14,
-        "pitcher_impact": 0.0,
-        "adjusted": 28.8
+        "combined": 41.75,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 49.22
       },
       "away_team": {
-        "base": 34.24657534246575,
+        "base": 33.78378378378378,
         "tendency": 13.333333333333334,
-        "combined": 25.88,
+        "combined": 25.6,
         "pitcher_impact": 0.0,
-        "adjusted": 18.12
+        "adjusted": 17.92
       },
-      "game_yrfi_probability": 41.7
+      "game_yrfi_probability": 58.32
     },
-    "yrfi_probability": 41.7
+    "yrfi_probability": 58.32
   },
   "metadata": {
-    "generated_at": "2026-09-08T17:39:54.828561",
+    "generated_at": "2026-09-09T17:25:29.891895",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
 # Análisis YRFI: Cleveland Guardians @ Baltimore Orioles
 
-**Fecha:** 2026-09-08  
-**Lanzadores:** Tanner Bibee (V) vs Brandon Young (L)
+**Fecha:** 2026-09-09  
+**Lanzadores:** Foster Griffin (V) vs Shane Baz (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.1%
+**Probabilidad de que anoten en la primera entrada:** 31.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 21.9% (16/73 partidos)
+- **Estadística base YRFI:** 21.6% (16/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 24.2%
+- **Impacto del lanzador visitante (Cleveland Guardians - Foster Griffin):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 16.6%
 
 ### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 22.9% (16/70 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 30.2%
+- **Estadística base YRFI:** 23.9% (17/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Shane Baz):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-08 17:39:54
+- **Generado el:** 2026-09-09 17:25:29
 - **Fuente de datos:** season_data.json

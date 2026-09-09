@@ -1,0 +1,67 @@
+{
+  "game_pk": 824549,
+  "game_date": "2026-09-09",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.136986301369863,
+        "ratio": "22/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "134",
+    "name": "Pittsburgh Pirates",
+    "combined_yrfi_pct": 31.42,
+    "pitcher": {
+      "name": "Lake Bachar",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.136986301369863,
+        "ratio": "22/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.136986301369863,
+        "tendency": 33.33333333333333,
+        "combined": 31.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.99
+      },
+      "away_team": {
+        "base": 30.136986301369863,
+        "tendency": 33.33333333333333,
+        "combined": 31.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.99
+      },
+      "game_yrfi_probability": 39.14
+    },
+    "yrfi_probability": 39.14
+  },
+  "metadata": {
+    "generated_at": "2026-09-09T17:25:29.938224",
+    "data_source": "season_data.json"
+  }
+}

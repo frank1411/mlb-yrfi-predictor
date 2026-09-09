@@ -1,0 +1,67 @@
+{
+  "game_pk": 823497,
+  "game_date": "2026-09-09",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 31.88405797101449,
+        "ratio": "22/69"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 16.84,
+    "pitcher": {
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 19.17808219178082,
+        "ratio": "14/73"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.88405797101449,
+        "tendency": 20.0,
+        "combined": 27.13,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.99
+      },
+      "away_team": {
+        "base": 19.17808219178082,
+        "tendency": 13.333333333333334,
+        "combined": 16.84,
+        "pitcher_impact": 20.0,
+        "adjusted": 17.79
+      },
+      "game_yrfi_probability": 33.4
+    },
+    "yrfi_probability": 33.4
+  },
+  "metadata": {
+    "generated_at": "2026-09-09T17:25:29.925049",
+    "data_source": "season_data.json"
+  }
+}

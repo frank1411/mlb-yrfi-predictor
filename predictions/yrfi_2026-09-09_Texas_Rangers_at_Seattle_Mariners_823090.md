@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Seattle Mariners
 
 **Fecha:** 2026-09-09  
-**Lanzadores:** Por anunciar (V) vs Por anunciar (L)
+**Lanzadores:** Cody Bradford (V) vs Kade Anderson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.9%
+**Probabilidad de que anoten en la primera entrada:** 40.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Seattle Mariners (Local)
-- **Estadística base YRFI:** 34.7% (25/72 partidos)
+- **Estadística base YRFI:** 34.2% (25/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 40.8%
+- **Impacto del lanzador visitante (Texas Rangers - Cody Bradford):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 25.6%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 27.8% (20/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Seattle Mariners - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 32.3%
+- **Estadística base YRFI:** 28.8% (21/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Seattle Mariners - Kade Anderson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-08 17:39:54
+- **Generado el:** 2026-09-09 17:25:29
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Chicago White Sox
 
-**Fecha:** 2026-09-08  
-**Lanzadores:** Bubba Chandler (V) vs Sean Burke (L)
+**Fecha:** 2026-09-09  
+**Lanzadores:** Lake Bachar (V) vs Davis Martin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.0%
+**Probabilidad de que anoten en la primera entrada:** 39.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.2%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Lake Bachar):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.0%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 29.2% (21/72 partidos)
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 21.6%
+- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-08 17:39:54
+- **Generado el:** 2026-09-09 17:25:29
 - **Fuente de datos:** season_data.json

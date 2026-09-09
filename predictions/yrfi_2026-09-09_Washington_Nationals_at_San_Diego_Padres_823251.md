@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ San Diego Padres
 
 **Fecha:** 2026-09-09  
-**Lanzadores:** Riley Cornelio (V) vs Casey Mize (L)
+**Lanzadores:** Jackson Kent (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 27.4%
+**Probabilidad de que anoten en la primera entrada:** 27.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 23.3% (17/73 partidos)
+- **Estadística base YRFI:** 23.0% (17/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Riley Cornelio):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.2%
+- **Impacto del lanzador visitante (Washington Nationals - Jackson Kent):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.1%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 24.7% (18/73 partidos)
+- **Estadística base YRFI:** 24.3% (18/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Casey Mize):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 12.2%
+- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 12.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-08 17:39:54
+- **Generado el:** 2026-09-09 17:25:29
 - **Fuente de datos:** season_data.json

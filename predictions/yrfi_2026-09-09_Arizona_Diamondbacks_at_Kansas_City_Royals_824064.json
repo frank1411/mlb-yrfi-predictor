@@ -1,0 +1,67 @@
+{
+  "game_pk": 824064,
+  "game_date": "2026-09-09",
+  "home_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "pitcher": {
+      "name": "Daniel Lynch IV",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.13513513513514,
+        "ratio": "26/74"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 17.26,
+    "pitcher": {
+      "name": "Zac Gallen",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 24.324324324324326,
+        "ratio": "18/74"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.13513513513514,
+        "tendency": 46.666666666666664,
+        "combined": 39.75,
+        "pitcher_impact": 50.0,
+        "adjusted": 42.82
+      },
+      "away_team": {
+        "base": 24.324324324324326,
+        "tendency": 6.666666666666667,
+        "combined": 17.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 12.08
+      },
+      "game_yrfi_probability": 49.73
+    },
+    "yrfi_probability": 49.73
+  },
+  "metadata": {
+    "generated_at": "2026-09-09T17:25:29.933653",
+    "data_source": "season_data.json"
+  }
+}
