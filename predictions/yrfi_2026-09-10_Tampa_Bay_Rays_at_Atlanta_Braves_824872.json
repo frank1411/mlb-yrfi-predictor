@@ -1,18 +1,18 @@
 {
-  "game_pk": 824871,
-  "game_date": "2026-09-09",
+  "game_pk": 824872,
+  "game_date": "2026-09-10",
   "home_team": {
     "id": "144",
     "name": "Atlanta Braves",
     "pitcher": {
-      "name": "Por anunciar",
+      "name": "Martín Pérez",
       "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "1/2"
     },
     "stats": {
       "base": {
-        "value": 35.61643835616438,
-        "ratio": "26/73"
+        "value": 35.13513513513514,
+        "ratio": "26/74"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
-    "combined_yrfi_pct": 30.83,
+    "combined_yrfi_pct": 30.59,
     "pitcher": {
-      "name": "Griffin Jax",
+      "name": "Nick Martinez",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 29.166666666666668,
-        "ratio": "21/72"
+        "value": 28.767123287671232,
+        "ratio": "21/73"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 35.61643835616438,
+        "base": 35.13513513513514,
         "tendency": 33.33333333333333,
-        "combined": 34.7,
+        "combined": 34.41,
         "pitcher_impact": 0.0,
-        "adjusted": 24.29
+        "adjusted": 24.09
       },
       "away_team": {
-        "base": 29.166666666666668,
+        "base": 28.767123287671232,
         "tendency": 33.33333333333333,
-        "combined": 30.83,
+        "combined": 30.59,
         "pitcher_impact": 50.0,
-        "adjusted": 36.58
+        "adjusted": 36.42
       },
-      "game_yrfi_probability": 51.98
+      "game_yrfi_probability": 51.74
     },
-    "yrfi_probability": 51.98
+    "yrfi_probability": 51.74
   },
   "metadata": {
-    "generated_at": "2026-09-09T17:25:29.928651",
+    "generated_at": "2026-09-10T17:24:08.695540",
     "data_source": "season_data.json"
   }
 }

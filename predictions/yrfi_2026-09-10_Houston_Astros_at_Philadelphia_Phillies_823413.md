@@ -1,25 +1,25 @@
-# Análisis YRFI: Tampa Bay Rays @ Atlanta Braves
+# Análisis YRFI: Houston Astros @ Philadelphia Phillies
 
-**Fecha:** 2026-09-09  
-**Lanzadores:** Griffin Jax (V) vs Por anunciar (L)
+**Fecha:** 2026-09-10  
+**Lanzadores:** Cristian Javier (V) vs Zack Wheeler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.0%
+**Probabilidad de que anoten en la primera entrada:** 53.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 35.6% (26/73 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 39.2% (29/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 24.3%
+- **Impacto del lanzador visitante (Houston Astros - Cristian Javier):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 40.8%
 
-### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 29.2% (21/72 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 30.6% (22/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 36.6%
+- **Impacto del lanzador local (Philadelphia Phillies - Zack Wheeler):** 0.0% (1/2 partidos)
+- **Puntuación ajustada:** 22.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-09 17:25:29
+- **Generado el:** 2026-09-10 17:24:08
 - **Fuente de datos:** season_data.json

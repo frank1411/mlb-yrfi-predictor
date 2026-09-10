@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Chicago White Sox
 
-**Fecha:** 2026-09-09  
-**Lanzadores:** Lake Bachar (V) vs Davis Martin (L)
+**Fecha:** 2026-09-10  
+**Lanzadores:** Jared Jones (V) vs Hagen Smith (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.1%
+**Probabilidad de que anoten en la primera entrada:** 37.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 30.1% (22/73 partidos)
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Lake Bachar):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.0%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Jared Jones):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.8%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 30.1% (22/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.0%
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Chicago White Sox - Hagen Smith):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-09 17:25:29
+- **Generado el:** 2026-09-10 17:24:08
 - **Fuente de datos:** season_data.json

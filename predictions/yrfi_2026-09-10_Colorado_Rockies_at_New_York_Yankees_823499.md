@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ New York Yankees
 
-**Fecha:** 2026-09-09  
-**Lanzadores:** Tomoyuki Sugano (V) vs Will Warren (L)
+**Fecha:** 2026-09-10  
+**Lanzadores:** Ryan Feltner (V) vs Max Fried (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 33.4%
+**Probabilidad de que anoten en la primera entrada:** 44.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 31.9% (22/69 partidos)
+- **Estadística base YRFI:** 31.4% (22/70 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.0%
+- **Impacto del lanzador visitante (Colorado Rockies - Ryan Feltner):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.8%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 19.2% (14/73 partidos)
+- **Estadística base YRFI:** 18.9% (14/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Will Warren):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 17.8%
+- **Impacto del lanzador local (New York Yankees - Max Fried):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 31.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-09 17:25:29
+- **Generado el:** 2026-09-10 17:24:08
 - **Fuente de datos:** season_data.json

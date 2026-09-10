@@ -1,18 +1,18 @@
 {
-  "game_pk": 824549,
-  "game_date": "2026-09-09",
+  "game_pk": 824550,
+  "game_date": "2026-09-10",
   "home_team": {
     "id": "145",
     "name": "Chicago White Sox",
     "pitcher": {
-      "name": "Davis Martin",
+      "name": "Hagen Smith",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.136986301369863,
-        "ratio": "22/73"
+        "value": 29.72972972972973,
+        "ratio": "22/74"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
-    "combined_yrfi_pct": 31.42,
+    "combined_yrfi_pct": 28.5,
     "pitcher": {
-      "name": "Lake Bachar",
+      "name": "Jared Jones",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.136986301369863,
-        "ratio": "22/73"
+        "value": 29.72972972972973,
+        "ratio": "22/74"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.136986301369863,
+        "base": 29.72972972972973,
         "tendency": 33.33333333333333,
-        "combined": 31.42,
+        "combined": 31.17,
         "pitcher_impact": 0.0,
-        "adjusted": 21.99
+        "adjusted": 21.82
       },
       "away_team": {
-        "base": 30.136986301369863,
-        "tendency": 33.33333333333333,
-        "combined": 31.42,
+        "base": 29.72972972972973,
+        "tendency": 26.666666666666668,
+        "combined": 28.5,
         "pitcher_impact": 0.0,
-        "adjusted": 21.99
+        "adjusted": 19.95
       },
-      "game_yrfi_probability": 39.14
+      "game_yrfi_probability": 37.42
     },
-    "yrfi_probability": 39.14
+    "yrfi_probability": 37.42
   },
   "metadata": {
-    "generated_at": "2026-09-09T17:25:29.938224",
+    "generated_at": "2026-09-10T17:24:08.715577",
     "data_source": "season_data.json"
   }
 }
