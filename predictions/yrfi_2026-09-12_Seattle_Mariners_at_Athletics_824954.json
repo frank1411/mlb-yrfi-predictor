@@ -1,0 +1,67 @@
+{
+  "game_pk": 824954,
+  "game_date": "2026-09-12",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 31.944444444444443,
+        "ratio": "23/72"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 26.5,
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 26.38888888888889,
+        "ratio": "19/72"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.944444444444443,
+        "tendency": 20.0,
+        "combined": 27.17,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.02
+      },
+      "away_team": {
+        "base": 26.38888888888889,
+        "tendency": 26.666666666666668,
+        "combined": 26.5,
+        "pitcher_impact": 75.0,
+        "adjusted": 41.05
+      },
+      "game_yrfi_probability": 52.26
+    },
+    "yrfi_probability": 52.26
+  },
+  "metadata": {
+    "generated_at": "2026-09-11T17:25:25.277416",
+    "data_source": "season_data.json"
+  }
+}
