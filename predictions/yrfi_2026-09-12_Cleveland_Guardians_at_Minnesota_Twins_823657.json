@@ -1,38 +1,38 @@
 {
-  "game_pk": 823659,
+  "game_pk": 823657,
   "game_date": "2026-09-12",
   "home_team": {
     "id": "142",
     "name": "Minnesota Twins",
     "pitcher": {
-      "name": "Taj Bradley",
+      "name": "Connor Prielipp",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 37.5,
-        "ratio": "27/72"
+        "value": 36.986301369863014,
+        "ratio": "27/73"
       },
       "tendency": {
-        "value": 60.0,
-        "ratio": "9/15"
+        "value": 53.333333333333336,
+        "ratio": "8/15"
       }
     }
   },
   "away_team": {
     "id": "114",
     "name": "Cleveland Guardians",
-    "combined_yrfi_pct": 28.33,
+    "combined_yrfi_pct": 28.13,
     "pitcher": {
-      "name": "Parker Messick",
+      "name": "Daniel Espino",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "18/72"
+        "value": 24.65753424657534,
+        "ratio": "18/73"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 37.5,
-        "tendency": 60.0,
-        "combined": 46.5,
+        "base": 36.986301369863014,
+        "tendency": 53.333333333333336,
+        "combined": 43.53,
         "pitcher_impact": 0.0,
-        "adjusted": 32.55
+        "adjusted": 30.47
       },
       "away_team": {
-        "base": 25.0,
+        "base": 24.65753424657534,
         "tendency": 33.33333333333333,
-        "combined": 28.33,
+        "combined": 28.13,
         "pitcher_impact": 0.0,
-        "adjusted": 19.83
+        "adjusted": 19.69
       },
-      "game_yrfi_probability": 45.93
+      "game_yrfi_probability": 44.16
     },
-    "yrfi_probability": 45.93
+    "yrfi_probability": 44.16
   },
   "metadata": {
-    "generated_at": "2026-09-11T17:25:25.267971",
+    "generated_at": "2026-09-12T16:37:04.362980",
     "data_source": "season_data.json"
   }
 }

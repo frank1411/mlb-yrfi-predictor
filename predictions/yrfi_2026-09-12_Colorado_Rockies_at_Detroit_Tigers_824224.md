@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Detroit Tigers
 
-**Fecha:** 2026-09-11  
-**Lanzadores:** Mason Adams (V) vs Framber Valdez (L)
+**Fecha:** 2026-09-12  
+**Lanzadores:** Tanner Gordon (V) vs Andrew Sears (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.3%
+**Probabilidad de que anoten en la primera entrada:** 31.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.4% (19/72 partidos)
+- **Estadística base YRFI:** 26.0% (19/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Mason Adams):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.3%
+- **Impacto del lanzador visitante (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 18.7% (14/75 partidos)
+- **Estadística base YRFI:** 18.4% (14/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Framber Valdez):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 11.6%
+- **Impacto del lanzador local (Detroit Tigers - Andrew Sears):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 11.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-11 17:25:25
+- **Generado el:** 2026-09-12 16:37:04
 - **Fuente de datos:** season_data.json

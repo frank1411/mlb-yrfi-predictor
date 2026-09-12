@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ San Francisco Giants
 
 **Fecha:** 2026-09-12  
-**Lanzadores:** Robbie Ray (V) vs Anthony Molina (L)
+**Lanzadores:** Michael King (V) vs Cesar Perdomo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.9%
+**Probabilidad de que anoten en la primera entrada:** 44.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 30.6% (22/72 partidos)
+- **Estadística base YRFI:** 31.5% (23/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 66.7% (10/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Robbie Ray):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 31.9%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 25.4% (18/71 partidos)
+- **Estadística base YRFI:** 25.0% (18/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Anthony Molina):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.1%
+- **Impacto del lanzador local (San Francisco Giants - Cesar Perdomo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-11 17:25:25
+- **Generado el:** 2026-09-12 16:37:04
 - **Fuente de datos:** season_data.json

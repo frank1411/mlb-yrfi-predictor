@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
+# Análisis YRFI: Cleveland Guardians @ Minnesota Twins
 
-**Fecha:** 2026-09-11  
-**Lanzadores:** Andrew Abbott (V) vs Dustin May (L)
+**Fecha:** 2026-09-12  
+**Lanzadores:** Daniel Espino (V) vs Connor Prielipp (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.6%
+**Probabilidad de que anoten en la primera entrada:** 44.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 40.0% (30/75 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 37.0% (27/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 46.7%
+- **Impacto del lanzador visitante (Cleveland Guardians - Daniel Espino):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 30.5%
 
-### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 26.4% (19/72 partidos)
+### Cleveland Guardians (Visitante)
+- **Estadística base YRFI:** 24.7% (18/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Dustin May):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 27.9%
+- **Impacto del lanzador local (Minnesota Twins - Connor Prielipp):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 19.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-11 17:25:25
+- **Generado el:** 2026-09-12 16:37:04
 - **Fuente de datos:** season_data.json

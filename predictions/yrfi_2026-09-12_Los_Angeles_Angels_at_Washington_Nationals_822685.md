@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Angels @ Washington Nationals
 
-**Fecha:** 2026-09-11  
-**Lanzadores:** Yusei Kikuchi (V) vs Cade Cavalli (L)
+**Fecha:** 2026-09-12  
+**Lanzadores:** Walbert Ureña (V) vs Andrew Alvarez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.1%
+**Probabilidad de que anoten en la primera entrada:** 34.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Washington Nationals (Local)
-- **Estadística base YRFI:** 35.6% (26/73 partidos)
+- **Estadística base YRFI:** 35.1% (26/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Yusei Kikuchi):** 40.0% (2/5 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador visitante (Los Angeles Angels - Walbert Ureña):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 16.6%
 
 ### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 26.4% (19/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Estadística base YRFI:** 27.4% (20/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-11 17:25:25
+- **Generado el:** 2026-09-12 16:37:04
 - **Fuente de datos:** season_data.json

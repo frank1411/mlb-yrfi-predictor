@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Minnesota Twins
+# Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
 
 **Fecha:** 2026-09-12  
-**Lanzadores:** Parker Messick (V) vs Taj Bradley (L)
+**Lanzadores:** Brady Singer (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.9%
+**Probabilidad de que anoten en la primera entrada:** 71.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 37.5% (27/72 partidos)
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 40.8% (31/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Parker Messick):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 56.4%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 25.0% (18/72 partidos)
+### Cincinnati Reds (Visitante)
+- **Estadística base YRFI:** 26.0% (19/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Taj Bradley):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Impacto del lanzador local (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 35.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-11 17:25:25
+- **Generado el:** 2026-09-12 16:37:04
 - **Fuente de datos:** season_data.json

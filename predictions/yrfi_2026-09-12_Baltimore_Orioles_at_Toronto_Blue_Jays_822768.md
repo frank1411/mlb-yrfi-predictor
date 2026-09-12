@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
 
-**Fecha:** 2026-09-11  
-**Lanzadores:** Chris Bassitt (V) vs Max Scherzer (L)
+**Fecha:** 2026-09-12  
+**Lanzadores:** Kyle Bradish (V) vs Spencer Miles (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 61.9%
+**Probabilidad de que anoten en la primera entrada:** 35.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 25.0% (18/72 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Chris Bassitt):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 41.7%
+- **Estadística base YRFI:** 24.7% (18/73 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.7%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 29.2% (21/72 partidos)
+- **Estadística base YRFI:** 30.1% (22/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Max Scherzer):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 34.7%
+- **Impacto del lanzador local (Toronto Blue Jays - Spencer Miles):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-11 17:25:25
+- **Generado el:** 2026-09-12 16:37:04
 - **Fuente de datos:** season_data.json

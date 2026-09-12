@@ -1,0 +1,67 @@
+{
+  "game_pk": 822768,
+  "game_date": "2026-09-12",
+  "home_team": {
+    "id": "141",
+    "name": "Toronto Blue Jays",
+    "pitcher": {
+      "name": "Spencer Miles",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.65753424657534,
+        "ratio": "18/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 28.75,
+    "pitcher": {
+      "name": "Kyle Bradish",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 30.136986301369863,
+        "ratio": "22/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 24.65753424657534,
+        "tendency": 33.33333333333333,
+        "combined": 28.13,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.69
+      },
+      "away_team": {
+        "base": 30.136986301369863,
+        "tendency": 26.666666666666668,
+        "combined": 28.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.12
+      },
+      "game_yrfi_probability": 35.85
+    },
+    "yrfi_probability": 35.85
+  },
+  "metadata": {
+    "generated_at": "2026-09-12T16:37:04.343182",
+    "data_source": "season_data.json"
+  }
+}

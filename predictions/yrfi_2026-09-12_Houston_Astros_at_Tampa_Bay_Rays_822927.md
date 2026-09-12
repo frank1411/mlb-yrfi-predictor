@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ Atlanta Braves
+# Análisis YRFI: Houston Astros @ Tampa Bay Rays
 
-**Fecha:** 2026-09-11  
-**Lanzadores:** Aaron Nola (V) vs Chris Sale (L)
+**Fecha:** 2026-09-12  
+**Lanzadores:** Peter Lambert (V) vs Ian Seymour (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.0%
+**Probabilidad de que anoten en la primera entrada:** 37.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Atlanta Braves (Local)
-- **Estadística base YRFI:** 34.7% (26/75 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 34.2% (25/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador visitante (Houston Astros - Peter Lambert):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 21.9%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 25.0% (18/72 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Impacto del lanzador local (Tampa Bay Rays - Ian Seymour):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-11 17:25:25
+- **Generado el:** 2026-09-12 16:37:04
 - **Fuente de datos:** season_data.json

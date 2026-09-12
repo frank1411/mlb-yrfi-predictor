@@ -1,33 +1,33 @@
 {
-  "game_pk": 824873,
-  "game_date": "2026-09-11",
+  "game_pk": 823170,
+  "game_date": "2026-09-12",
   "home_team": {
-    "id": "144",
-    "name": "Atlanta Braves",
+    "id": "137",
+    "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Chris Sale",
+      "name": "Cesar Perdomo",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 34.66666666666667,
-        "ratio": "26/75"
+        "value": 31.506849315068493,
+        "ratio": "23/73"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 66.66666666666666,
+        "ratio": "10/15"
       }
     }
   },
   "away_team": {
-    "id": "143",
-    "name": "Philadelphia Phillies",
+    "id": "135",
+    "name": "San Diego Padres",
     "combined_yrfi_pct": 25.67,
     "pitcher": {
-      "name": "Aaron Nola",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
@@ -43,11 +43,11 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 34.66666666666667,
-        "tendency": 26.666666666666668,
-        "combined": 31.47,
-        "pitcher_impact": 20.0,
-        "adjusted": 28.03
+        "base": 31.506849315068493,
+        "tendency": 66.66666666666666,
+        "combined": 45.57,
+        "pitcher_impact": 0.0,
+        "adjusted": 31.9
       },
       "away_team": {
         "base": 25.0,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 17.97
       },
-      "game_yrfi_probability": 40.96
+      "game_yrfi_probability": 44.14
     },
-    "yrfi_probability": 40.96
+    "yrfi_probability": 44.14
   },
   "metadata": {
-    "generated_at": "2026-09-11T17:25:25.258237",
+    "generated_at": "2026-09-12T16:37:04.353395",
     "data_source": "season_data.json"
   }
 }

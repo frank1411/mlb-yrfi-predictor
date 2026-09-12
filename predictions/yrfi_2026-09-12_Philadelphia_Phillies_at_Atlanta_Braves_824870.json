@@ -1,0 +1,67 @@
+{
+  "game_pk": 824870,
+  "game_date": "2026-09-12",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Tyler Mahle",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.526315789473685,
+        "ratio": "27/76"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 22.79,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.65753424657534,
+        "ratio": "18/73"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.526315789473685,
+        "tendency": 26.666666666666668,
+        "combined": 31.98,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.39
+      },
+      "away_team": {
+        "base": 24.65753424657534,
+        "tendency": 20.0,
+        "combined": 22.79,
+        "pitcher_impact": 25.0,
+        "adjusted": 23.46
+      },
+      "game_yrfi_probability": 52.08
+    },
+    "yrfi_probability": 52.08
+  },
+  "metadata": {
+    "generated_at": "2026-09-12T16:37:04.380796",
+    "data_source": "season_data.json"
+  }
+}

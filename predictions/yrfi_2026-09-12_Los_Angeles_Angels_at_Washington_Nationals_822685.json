@@ -1,0 +1,67 @@
+{
+  "game_pk": 822685,
+  "game_date": "2026-09-12",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Andrew Alvarez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.13513513513514,
+        "ratio": "26/74"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 29.77,
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.397260273972602,
+        "ratio": "20/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.13513513513514,
+        "tendency": 6.666666666666667,
+        "combined": 23.75,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.62
+      },
+      "away_team": {
+        "base": 27.397260273972602,
+        "tendency": 33.33333333333333,
+        "combined": 29.77,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.84
+      },
+      "game_yrfi_probability": 34.0
+    },
+    "yrfi_probability": 34.0
+  },
+  "metadata": {
+    "generated_at": "2026-09-12T16:37:04.348406",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "game_pk": 822930,
-  "game_date": "2026-09-11",
+  "game_pk": 822927,
+  "game_date": "2026-09-12",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Drew Rasmussen",
+      "name": "Ian Seymour",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 34.72222222222222,
-        "ratio": "25/72"
+        "value": 34.24657534246575,
+        "ratio": "25/73"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "117",
     "name": "Houston Astros",
-    "combined_yrfi_pct": 31.42,
+    "combined_yrfi_pct": 28.5,
     "pitcher": {
-      "name": "Miguel Ullola",
+      "name": "Peter Lambert",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 30.136986301369863,
-        "ratio": "22/73"
+        "value": 29.72972972972973,
+        "ratio": "22/74"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 34.72222222222222,
+        "base": 34.24657534246575,
         "tendency": 26.666666666666668,
-        "combined": 31.5,
+        "combined": 31.21,
         "pitcher_impact": 0.0,
-        "adjusted": 22.05
+        "adjusted": 21.85
       },
       "away_team": {
-        "base": 30.136986301369863,
-        "tendency": 33.33333333333333,
-        "combined": 31.42,
+        "base": 29.72972972972973,
+        "tendency": 26.666666666666668,
+        "combined": 28.5,
         "pitcher_impact": 0.0,
-        "adjusted": 21.99
+        "adjusted": 19.95
       },
-      "game_yrfi_probability": 39.19
+      "game_yrfi_probability": 37.44
     },
-    "yrfi_probability": 39.19
+    "yrfi_probability": 37.44
   },
   "metadata": {
-    "generated_at": "2026-09-11T17:25:25.249417",
+    "generated_at": "2026-09-12T16:37:04.372693",
     "data_source": "season_data.json"
   }
 }

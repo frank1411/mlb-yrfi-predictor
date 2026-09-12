@@ -1,18 +1,18 @@
 {
-  "game_pk": 823498,
-  "game_date": "2026-09-11",
+  "game_pk": 823496,
+  "game_date": "2026-09-12",
   "home_team": {
     "id": "147",
     "name": "New York Yankees",
     "pitcher": {
-      "name": "Carlos Rodón",
+      "name": "Gerrit Cole",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.3943661971831,
-        "ratio": "23/71"
+        "value": 33.33333333333333,
+        "ratio": "24/72"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "121",
     "name": "New York Mets",
-    "combined_yrfi_pct": 35.33,
+    "combined_yrfi_pct": 35.11,
     "pitcher": {
-      "name": "Nolan McLean",
-      "yrfi_allowed": 66.66666666666666,
-      "yrfi_ratio": "2/3"
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 27.77777777777778,
-        "ratio": "20/72"
+        "value": 27.397260273972602,
+        "ratio": "20/73"
       },
       "tendency": {
         "value": 46.666666666666664,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.3943661971831,
+        "base": 33.33333333333333,
         "tendency": 26.666666666666668,
-        "combined": 30.1,
-        "pitcher_impact": 66.66666666666666,
-        "adjusted": 41.07
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
       },
       "away_team": {
-        "base": 27.77777777777778,
+        "base": 27.397260273972602,
         "tendency": 46.666666666666664,
-        "combined": 35.33,
+        "combined": 35.11,
         "pitcher_impact": 0.0,
-        "adjusted": 24.73
+        "adjusted": 24.57
       },
-      "game_yrfi_probability": 55.64
+      "game_yrfi_probability": 40.76
     },
-    "yrfi_probability": 55.64
+    "yrfi_probability": 40.76
   },
   "metadata": {
-    "generated_at": "2026-09-11T17:25:25.233135",
+    "generated_at": "2026-09-12T16:37:04.333184",
     "data_source": "season_data.json"
   }
 }

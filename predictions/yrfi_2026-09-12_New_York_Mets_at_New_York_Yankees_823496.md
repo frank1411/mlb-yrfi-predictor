@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ New York Yankees
 
-**Fecha:** 2026-09-11  
-**Lanzadores:** Nolan McLean (V) vs Carlos Rodón (L)
+**Fecha:** 2026-09-12  
+**Lanzadores:** Zac Thornton (V) vs Gerrit Cole (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 55.6%
+**Probabilidad de que anoten en la primera entrada:** 40.8%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 32.4% (23/71 partidos)
+- **Estadística base YRFI:** 33.3% (24/72 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 41.1%
+- **Impacto del lanzador visitante (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 27.8% (20/72 partidos)
+- **Estadística base YRFI:** 27.4% (20/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.7%
+- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-11 17:25:25
+- **Generado el:** 2026-09-12 16:37:04
 - **Fuente de datos:** season_data.json

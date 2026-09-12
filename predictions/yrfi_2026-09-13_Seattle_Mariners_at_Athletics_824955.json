@@ -1,0 +1,67 @@
+{
+  "game_pk": 824955,
+  "game_date": "2026-09-13",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Gage Jump",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.87671232876712,
+        "ratio": "24/73"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 29.77,
+    "pitcher": {
+      "name": "Bryan Woo",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 27.397260273972602,
+        "ratio": "20/73"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.87671232876712,
+        "tendency": 26.666666666666668,
+        "combined": 30.39,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.77
+      },
+      "away_team": {
+        "base": 27.397260273972602,
+        "tendency": 33.33333333333333,
+        "combined": 29.77,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.84
+      },
+      "game_yrfi_probability": 43.61
+    },
+    "yrfi_probability": 43.61
+  },
+  "metadata": {
+    "generated_at": "2026-09-12T16:37:04.396167",
+    "data_source": "season_data.json"
+  }
+}
