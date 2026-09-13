@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Athletics
+# Análisis YRFI: Houston Astros @ Tampa Bay Rays
 
 **Fecha:** 2026-09-13  
-**Lanzadores:** Bryan Woo (V) vs Gage Jump (L)
+**Lanzadores:** Hayden Wesneski (V) vs Freddy Peralta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.6%
+**Probabilidad de que anoten en la primera entrada:** 43.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 32.9% (24/73 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 33.8% (25/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Bryan Woo):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador visitante (Houston Astros - Hayden Wesneski):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.7%
 
-### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 27.4% (20/73 partidos)
+### Houston Astros (Visitante)
+- **Estadística base YRFI:** 30.7% (23/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Gage Jump):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.8%
+- **Impacto del lanzador local (Tampa Bay Rays - Freddy Peralta):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 28.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-12 16:37:04
+- **Generado el:** 2026-09-13 17:08:08
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 824224,
-  "game_date": "2026-09-12",
+  "game_pk": 824225,
+  "game_date": "2026-09-13",
   "home_team": {
     "id": "116",
     "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Andrew Sears",
+      "name": "Jackson Jobe",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 26.027397260273972,
-        "ratio": "19/73"
+        "value": 25.675675675675674,
+        "ratio": "19/74"
       },
       "tendency": {
         "value": 40.0,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "115",
     "name": "Colorado Rockies",
-    "combined_yrfi_pct": 16.39,
+    "combined_yrfi_pct": 16.24,
     "pitcher": {
-      "name": "Tanner Gordon",
+      "name": "Gabriel Hughes",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 18.421052631578945,
-        "ratio": "14/76"
+        "value": 18.181818181818183,
+        "ratio": "14/77"
       },
       "tendency": {
         "value": 13.333333333333334,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 26.027397260273972,
+        "base": 25.675675675675674,
         "tendency": 40.0,
-        "combined": 31.62,
+        "combined": 31.41,
         "pitcher_impact": 0.0,
-        "adjusted": 22.13
+        "adjusted": 21.98
       },
       "away_team": {
-        "base": 18.421052631578945,
+        "base": 18.181818181818183,
         "tendency": 13.333333333333334,
-        "combined": 16.39,
+        "combined": 16.24,
         "pitcher_impact": 0.0,
-        "adjusted": 11.47
+        "adjusted": 11.37
       },
-      "game_yrfi_probability": 31.06
+      "game_yrfi_probability": 30.85
     },
-    "yrfi_probability": 31.06
+    "yrfi_probability": 30.85
   },
   "metadata": {
-    "generated_at": "2026-09-12T16:37:04.327567",
+    "generated_at": "2026-09-13T17:08:08.267377",
     "data_source": "season_data.json"
   }
 }

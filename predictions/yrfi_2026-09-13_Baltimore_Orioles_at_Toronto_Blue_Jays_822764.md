@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
 
-**Fecha:** 2026-09-12  
-**Lanzadores:** Kyle Bradish (V) vs Spencer Miles (L)
+**Fecha:** 2026-09-13  
+**Lanzadores:** Trevor Rogers (V) vs Dylan Cease (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 35.9%
+**Probabilidad de que anoten en la primera entrada:** 37.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 24.7% (18/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Kyle Bradish):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.7%
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 22.0%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 30.1% (22/73 partidos)
+- **Estadística base YRFI:** 29.7% (22/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Spencer Miles):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 19.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-12 16:37:04
+- **Generado el:** 2026-09-13 17:08:08
 - **Fuente de datos:** season_data.json

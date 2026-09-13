@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Mets @ New York Yankees
 
-**Fecha:** 2026-09-12  
-**Lanzadores:** Zac Thornton (V) vs Gerrit Cole (L)
+**Fecha:** 2026-09-13  
+**Lanzadores:** Christian Scott (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.8%
+**Probabilidad de que anoten en la primera entrada:** 64.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 33.3% (24/72 partidos)
+- **Estadística base YRFI:** 32.9% (24/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.5%
+- **Impacto del lanzador visitante (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 51.3%
 
 ### New York Mets (Visitante)
-- **Estadística base YRFI:** 27.4% (20/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Estadística base YRFI:** 28.4% (21/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-12 16:37:04
+- **Generado el:** 2026-09-13 17:08:08
 - **Fuente de datos:** season_data.json

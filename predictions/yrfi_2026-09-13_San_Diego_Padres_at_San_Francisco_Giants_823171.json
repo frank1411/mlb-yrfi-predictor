@@ -1,18 +1,18 @@
 {
-  "game_pk": 823170,
-  "game_date": "2026-09-12",
+  "game_pk": 823171,
+  "game_date": "2026-09-13",
   "home_team": {
     "id": "137",
     "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Cesar Perdomo",
+      "name": "Logan Webb",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 31.506849315068493,
-        "ratio": "23/73"
+        "value": 32.432432432432435,
+        "ratio": "24/74"
       },
       "tendency": {
         "value": 66.66666666666666,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "135",
     "name": "San Diego Padres",
-    "combined_yrfi_pct": 25.67,
+    "combined_yrfi_pct": 25.46,
     "pitcher": {
-      "name": "Michael King",
+      "name": "Nick Pivetta",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 25.0,
-        "ratio": "18/72"
+        "value": 24.65753424657534,
+        "ratio": "18/73"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.506849315068493,
+        "base": 32.432432432432435,
         "tendency": 66.66666666666666,
-        "combined": 45.57,
+        "combined": 46.13,
         "pitcher_impact": 0.0,
-        "adjusted": 31.9
+        "adjusted": 32.29
       },
       "away_team": {
-        "base": 25.0,
+        "base": 24.65753424657534,
         "tendency": 26.666666666666668,
-        "combined": 25.67,
+        "combined": 25.46,
         "pitcher_impact": 0.0,
-        "adjusted": 17.97
+        "adjusted": 17.82
       },
-      "game_yrfi_probability": 44.14
+      "game_yrfi_probability": 44.36
     },
-    "yrfi_probability": 44.14
+    "yrfi_probability": 44.36
   },
   "metadata": {
-    "generated_at": "2026-09-12T16:37:04.353395",
+    "generated_at": "2026-09-13T17:08:08.341064",
     "data_source": "season_data.json"
   }
 }

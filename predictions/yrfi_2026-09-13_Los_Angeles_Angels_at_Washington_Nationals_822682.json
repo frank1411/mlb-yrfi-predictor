@@ -1,0 +1,67 @@
+{
+  "game_pk": 822682,
+  "game_date": "2026-09-13",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Riley Cornelio",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.0,
+        "ratio": "27/75"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 26.88,
+    "pitcher": {
+      "name": "Grayson Rodriguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 27.027027027027028,
+        "ratio": "20/74"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.0,
+        "tendency": 13.333333333333334,
+        "combined": 26.93,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.85
+      },
+      "away_team": {
+        "base": 27.027027027027028,
+        "tendency": 26.666666666666668,
+        "combined": 26.88,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.82
+      },
+      "game_yrfi_probability": 34.12
+    },
+    "yrfi_probability": 34.12
+  },
+  "metadata": {
+    "generated_at": "2026-09-13T17:08:08.275748",
+    "data_source": "season_data.json"
+  }
+}

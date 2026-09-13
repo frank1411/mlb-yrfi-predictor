@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
 
-**Fecha:** 2026-09-12  
-**Lanzadores:** Brady Singer (V) vs Por anunciar (L)
+**Fecha:** 2026-09-13  
+**Lanzadores:** Chase Burns (V) vs Robert Gasser (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 71.8%
+**Probabilidad de que anoten en la primera entrada:** 47.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 40.8% (31/76 partidos)
+- **Estadística base YRFI:** 41.6% (32/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 56.4%
+- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 34.2%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.3%
+- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-12 16:37:04
+- **Generado el:** 2026-09-13 17:08:08
 - **Fuente de datos:** season_data.json

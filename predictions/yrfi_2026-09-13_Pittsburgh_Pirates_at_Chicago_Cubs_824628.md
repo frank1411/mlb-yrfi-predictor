@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Chicago Cubs
 
-**Fecha:** 2026-09-12  
-**Lanzadores:** Paul Skenes (V) vs Clay Holmes (L)
+**Fecha:** 2026-09-13  
+**Lanzadores:** Bubba Chandler (V) vs Matthew Boyd (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.7%
+**Probabilidad de que anoten en la primera entrada:** 44.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago Cubs (Local)
-- **Estadística base YRFI:** 37.0% (27/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Paul Skenes):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 36.7%
+- **Estadística base YRFI:** 37.8% (28/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 29.0%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 30.3% (23/76 partidos)
+- **Estadística base YRFI:** 29.9% (23/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Clay Holmes):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 22.0%
+- **Impacto del lanzador local (Chicago Cubs - Matthew Boyd):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 21.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-12 16:37:04
+- **Generado el:** 2026-09-13 17:08:08
 - **Fuente de datos:** season_data.json

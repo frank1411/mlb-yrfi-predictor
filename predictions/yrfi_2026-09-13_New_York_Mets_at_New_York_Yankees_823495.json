@@ -1,13 +1,13 @@
 {
-  "game_pk": 824955,
+  "game_pk": 823495,
   "game_date": "2026-09-13",
   "home_team": {
-    "id": "133",
-    "name": "Athletics",
+    "id": "147",
+    "name": "New York Yankees",
     "pitcher": {
-      "name": "Gage Jump",
+      "name": "Cam Schlittler",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
@@ -21,22 +21,22 @@
     }
   },
   "away_team": {
-    "id": "136",
-    "name": "Seattle Mariners",
-    "combined_yrfi_pct": 29.77,
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 38.36,
     "pitcher": {
-      "name": "Bryan Woo",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Christian Scott",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 27.397260273972602,
-        "ratio": "20/73"
+        "value": 28.37837837837838,
+        "ratio": "21/74"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 53.333333333333336,
+        "ratio": "8/15"
       }
     }
   },
@@ -46,22 +46,22 @@
         "base": 32.87671232876712,
         "tendency": 26.666666666666668,
         "combined": 30.39,
-        "pitcher_impact": 25.0,
-        "adjusted": 28.77
+        "pitcher_impact": 100.0,
+        "adjusted": 51.27
       },
       "away_team": {
-        "base": 27.397260273972602,
-        "tendency": 33.33333333333333,
-        "combined": 29.77,
+        "base": 28.37837837837838,
+        "tendency": 53.333333333333336,
+        "combined": 38.36,
         "pitcher_impact": 0.0,
-        "adjusted": 20.84
+        "adjusted": 26.85
       },
-      "game_yrfi_probability": 43.61
+      "game_yrfi_probability": 64.35
     },
-    "yrfi_probability": 43.61
+    "yrfi_probability": 64.35
   },
   "metadata": {
-    "generated_at": "2026-09-12T16:37:04.396167",
+    "generated_at": "2026-09-13T17:08:08.287079",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ San Francisco Giants
 
-**Fecha:** 2026-09-12  
-**Lanzadores:** Michael King (V) vs Cesar Perdomo (L)
+**Fecha:** 2026-09-13  
+**Lanzadores:** Nick Pivetta (V) vs Logan Webb (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.1%
+**Probabilidad de que anoten en la primera entrada:** 44.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Francisco Giants (Local)
-- **Estadística base YRFI:** 31.5% (23/73 partidos)
+- **Estadística base YRFI:** 32.4% (24/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 66.7% (10/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 31.9%
+- **Impacto del lanzador visitante (San Diego Padres - Nick Pivetta):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 32.3%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 25.0% (18/72 partidos)
+- **Estadística base YRFI:** 24.7% (18/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (San Francisco Giants - Cesar Perdomo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.0%
+- **Impacto del lanzador local (San Francisco Giants - Logan Webb):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-12 16:37:04
+- **Generado el:** 2026-09-13 17:08:08
 - **Fuente de datos:** season_data.json

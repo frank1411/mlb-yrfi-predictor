@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Detroit Tigers
 
-**Fecha:** 2026-09-12  
-**Lanzadores:** Tanner Gordon (V) vs Andrew Sears (L)
+**Fecha:** 2026-09-13  
+**Lanzadores:** Gabriel Hughes (V) vs Jackson Jobe (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 31.1%
+**Probabilidad de que anoten en la primera entrada:** 30.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.0% (19/73 partidos)
+- **Estadística base YRFI:** 25.7% (19/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.1%
+- **Impacto del lanzador visitante (Colorado Rockies - Gabriel Hughes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.0%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 18.4% (14/76 partidos)
+- **Estadística base YRFI:** 18.2% (14/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Andrew Sears):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 11.5%
+- **Impacto del lanzador local (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 11.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-12 16:37:04
+- **Generado el:** 2026-09-13 17:08:08
 - **Fuente de datos:** season_data.json
