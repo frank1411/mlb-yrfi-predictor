@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ Toronto Blue Jays
+# Análisis YRFI: Chicago White Sox @ Cleveland Guardians
 
-**Fecha:** 2026-09-13  
-**Lanzadores:** Trevor Rogers (V) vs Dylan Cease (L)
+**Fecha:** 2026-09-14  
+**Lanzadores:** Sean Newcomb (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.5%
+**Probabilidad de que anoten en la primera entrada:** 40.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Toronto Blue Jays (Local)
-- **Estadística base YRFI:** 25.7% (19/74 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 32.0% (24/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.0%
+- **Impacto del lanzador visitante (Chicago White Sox - Sean Newcomb):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.6%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 29.7% (22/74 partidos)
+### Chicago White Sox (Visitante)
+- **Estadística base YRFI:** 33.3% (25/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Toronto Blue Jays - Dylan Cease):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-13 17:08:08
+- **Generado el:** 2026-09-14 18:57:37
 - **Fuente de datos:** season_data.json

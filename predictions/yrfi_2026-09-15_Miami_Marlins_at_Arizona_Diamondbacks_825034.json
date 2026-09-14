@@ -1,0 +1,67 @@
+{
+  "game_pk": 825034,
+  "game_date": "2026-09-15",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Corbin Burnes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.666666666666664,
+        "ratio": "23/75"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 20.33,
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "18/72"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.666666666666664,
+        "tendency": 6.666666666666667,
+        "combined": 21.07,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 24.75
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 13.333333333333334,
+        "combined": 20.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.23
+      },
+      "game_yrfi_probability": 35.46
+    },
+    "yrfi_probability": 35.46
+  },
+  "metadata": {
+    "generated_at": "2026-09-14T18:57:37.293302",
+    "data_source": "season_data.json"
+  }
+}

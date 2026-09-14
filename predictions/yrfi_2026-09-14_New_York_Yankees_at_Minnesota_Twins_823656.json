@@ -1,0 +1,67 @@
+{
+  "game_pk": 823656,
+  "game_date": "2026-09-14",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Dean Kremer",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 36.0,
+        "ratio": "27/75"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 26.93,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 22.666666666666664,
+        "ratio": "17/75"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.0,
+        "tendency": 46.666666666666664,
+        "combined": 40.27,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.19
+      },
+      "away_team": {
+        "base": 22.666666666666664,
+        "tendency": 33.33333333333333,
+        "combined": 26.93,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.85
+      },
+      "game_yrfi_probability": 63.27
+    },
+    "yrfi_probability": 63.27
+  },
+  "metadata": {
+    "generated_at": "2026-09-14T18:57:37.273635",
+    "data_source": "season_data.json"
+  }
+}

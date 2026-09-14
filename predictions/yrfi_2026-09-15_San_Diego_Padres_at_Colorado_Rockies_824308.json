@@ -1,33 +1,33 @@
 {
-  "game_pk": 823734,
-  "game_date": "2026-09-13",
+  "game_pk": 824308,
+  "game_date": "2026-09-15",
   "home_team": {
-    "id": "158",
-    "name": "Milwaukee Brewers",
+    "id": "115",
+    "name": "Colorado Rockies",
     "pitcher": {
-      "name": "Robert Gasser",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Tomoyuki Sugano",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
     },
     "stats": {
       "base": {
-        "value": 41.55844155844156,
-        "ratio": "32/77"
+        "value": 43.66197183098591,
+        "ratio": "31/71"
       },
       "tendency": {
-        "value": 60.0,
-        "ratio": "9/15"
+        "value": 20.0,
+        "ratio": "3/15"
       }
     }
   },
   "away_team": {
-    "id": "113",
-    "name": "Cincinnati Reds",
+    "id": "135",
+    "name": "San Diego Padres",
     "combined_yrfi_pct": 28.74,
     "pitcher": {
-      "name": "Chase Burns",
+      "name": "Casey Mize",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 41.55844155844156,
-        "tendency": 60.0,
-        "combined": 48.94,
+        "base": 43.66197183098591,
+        "tendency": 20.0,
+        "combined": 34.2,
         "pitcher_impact": 0.0,
-        "adjusted": 34.25
+        "adjusted": 23.94
       },
       "away_team": {
         "base": 25.675675675675674,
         "tendency": 33.33333333333333,
         "combined": 28.74,
-        "pitcher_impact": 0.0,
-        "adjusted": 20.12
+        "pitcher_impact": 50.0,
+        "adjusted": 35.12
       },
-      "game_yrfi_probability": 47.48
+      "game_yrfi_probability": 50.65
     },
-    "yrfi_probability": 47.48
+    "yrfi_probability": 50.65
   },
   "metadata": {
-    "generated_at": "2026-09-13T17:08:08.311973",
+    "generated_at": "2026-09-14T18:57:37.283184",
     "data_source": "season_data.json"
   }
 }

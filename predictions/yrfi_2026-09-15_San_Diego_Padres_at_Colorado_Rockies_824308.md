@@ -1,25 +1,25 @@
-# Análisis YRFI: Cincinnati Reds @ Milwaukee Brewers
+# Análisis YRFI: San Diego Padres @ Colorado Rockies
 
-**Fecha:** 2026-09-13  
-**Lanzadores:** Chase Burns (V) vs Robert Gasser (L)
+**Fecha:** 2026-09-15  
+**Lanzadores:** Casey Mize (V) vs Tomoyuki Sugano (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.5%
+**Probabilidad de que anoten en la primera entrada:** 50.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 41.6% (32/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Chase Burns):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 34.2%
+### Colorado Rockies (Local)
+- **Estadística base YRFI:** 43.7% (31/71 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (San Diego Padres - Casey Mize):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 23.9%
 
-### Cincinnati Reds (Visitante)
+### San Diego Padres (Visitante)
 - **Estadística base YRFI:** 25.7% (19/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.1%
+- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 35.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-13 17:08:08
+- **Generado el:** 2026-09-14 18:57:37
 - **Fuente de datos:** season_data.json

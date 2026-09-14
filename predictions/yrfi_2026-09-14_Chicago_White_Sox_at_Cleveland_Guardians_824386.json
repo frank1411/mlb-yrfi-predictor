@@ -1,18 +1,18 @@
 {
-  "game_pk": 822764,
-  "game_date": "2026-09-13",
+  "game_pk": 824386,
+  "game_date": "2026-09-14",
   "home_team": {
-    "id": "141",
-    "name": "Toronto Blue Jays",
+    "id": "114",
+    "name": "Cleveland Guardians",
     "pitcher": {
-      "name": "Dylan Cease",
+      "name": "Gavin Williams",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 25.675675675675674,
-        "ratio": "19/74"
+        "value": 32.0,
+        "ratio": "24/75"
       },
       "tendency": {
         "value": 40.0,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "110",
-    "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 28.5,
+    "id": "145",
+    "name": "Chicago White Sox",
+    "combined_yrfi_pct": 30.67,
     "pitcher": {
-      "name": "Trevor Rogers",
+      "name": "Sean Newcomb",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 29.72972972972973,
-        "ratio": "22/74"
+        "value": 33.33333333333333,
+        "ratio": "25/75"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 25.675675675675674,
+        "base": 32.0,
         "tendency": 40.0,
-        "combined": 31.41,
+        "combined": 35.2,
         "pitcher_impact": 0.0,
-        "adjusted": 21.98
+        "adjusted": 24.64
       },
       "away_team": {
-        "base": 29.72972972972973,
+        "base": 33.33333333333333,
         "tendency": 26.666666666666668,
-        "combined": 28.5,
+        "combined": 30.67,
         "pitcher_impact": 0.0,
-        "adjusted": 19.95
+        "adjusted": 21.47
       },
-      "game_yrfi_probability": 37.54
+      "game_yrfi_probability": 40.82
     },
-    "yrfi_probability": 37.54
+    "yrfi_probability": 40.82
   },
   "metadata": {
-    "generated_at": "2026-09-13T17:08:08.291829",
+    "generated_at": "2026-09-14T18:57:37.254144",
     "data_source": "season_data.json"
   }
 }
