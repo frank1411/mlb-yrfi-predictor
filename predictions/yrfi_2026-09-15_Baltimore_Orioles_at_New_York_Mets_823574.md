@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ New York Mets
 
-**Fecha:** 2026-09-14  
-**Lanzadores:** Brandon Young (V) vs Jonah Tong (L)
+**Fecha:** 2026-09-15  
+**Lanzadores:** Shane Baz (V) vs Sean Manaea (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.2%
+**Probabilidad de que anoten en la primera entrada:** 53.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 31.1% (23/74 partidos)
+- **Estadística base YRFI:** 30.7% (23/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Brandon Young):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 28.0%
+- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 42.8%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 29.3% (22/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Mets - Jonah Tong):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.8%
+- **Estadística base YRFI:** 28.9% (22/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-14 18:57:37
+- **Generado el:** 2026-09-15 17:49:50
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823654,
+  "game_date": "2026-09-15",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Bailey Ober",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 35.526315789473685,
+        "ratio": "27/76"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 26.75,
+    "pitcher": {
+      "name": "Max Fried",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/5"
+    },
+    "stats": {
+      "base": {
+        "value": 22.36842105263158,
+        "ratio": "17/76"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.526315789473685,
+        "tendency": 40.0,
+        "combined": 37.32,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.12
+      },
+      "away_team": {
+        "base": 22.36842105263158,
+        "tendency": 33.33333333333333,
+        "combined": 26.75,
+        "pitcher_impact": 20.0,
+        "adjusted": 24.73
+      },
+      "game_yrfi_probability": 44.39
+    },
+    "yrfi_probability": 44.39
+  },
+  "metadata": {
+    "generated_at": "2026-09-15T17:49:50.452084",
+    "data_source": "season_data.json"
+  }
+}

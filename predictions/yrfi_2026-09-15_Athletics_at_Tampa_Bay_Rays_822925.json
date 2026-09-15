@@ -1,33 +1,33 @@
 {
-  "game_pk": 823656,
-  "game_date": "2026-09-14",
+  "game_pk": 822925,
+  "game_date": "2026-09-15",
   "home_team": {
-    "id": "142",
-    "name": "Minnesota Twins",
+    "id": "139",
+    "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Dean Kremer",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 36.0,
-        "ratio": "27/75"
+        "value": 34.66666666666667,
+        "ratio": "26/75"
       },
       "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
+        "value": 33.33333333333333,
+        "ratio": "5/15"
       }
     }
   },
   "away_team": {
-    "id": "147",
-    "name": "New York Yankees",
+    "id": "133",
+    "name": "Athletics",
     "combined_yrfi_pct": 26.93,
     "pitcher": {
-      "name": "Will Warren",
+      "name": "Jack Perkins",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.0,
-        "tendency": 46.666666666666664,
-        "combined": 40.27,
+        "base": 34.66666666666667,
+        "tendency": 33.33333333333333,
+        "combined": 34.13,
         "pitcher_impact": 0.0,
-        "adjusted": 28.19
+        "adjusted": 23.89
       },
       "away_team": {
         "base": 22.666666666666664,
         "tendency": 33.33333333333333,
         "combined": 26.93,
-        "pitcher_impact": 100.0,
-        "adjusted": 48.85
+        "pitcher_impact": 0.0,
+        "adjusted": 18.85
       },
-      "game_yrfi_probability": 63.27
+      "game_yrfi_probability": 38.24
     },
-    "yrfi_probability": 63.27
+    "yrfi_probability": 38.24
   },
   "metadata": {
-    "generated_at": "2026-09-14T18:57:37.273635",
+    "generated_at": "2026-09-15T17:49:50.425573",
     "data_source": "season_data.json"
   }
 }

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824143,
+  "game_date": "2026-09-16",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Hunter Brown",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.0,
+        "ratio": "27/75"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 32.8,
+    "pitcher": {
+      "name": "Michael Wacha",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "21/75"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.0,
+        "tendency": 33.33333333333333,
+        "combined": 34.93,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.45
+      },
+      "away_team": {
+        "base": 28.000000000000004,
+        "tendency": 40.0,
+        "combined": 32.8,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.96
+      },
+      "game_yrfi_probability": 41.8
+    },
+    "yrfi_probability": 41.8
+  },
+  "metadata": {
+    "generated_at": "2026-09-15T17:49:50.463235",
+    "data_source": "season_data.json"
+  }
+}

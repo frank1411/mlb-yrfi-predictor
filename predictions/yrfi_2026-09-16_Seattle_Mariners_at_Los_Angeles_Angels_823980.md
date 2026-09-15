@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Colorado Rockies
+# Análisis YRFI: Seattle Mariners @ Los Angeles Angels
 
-**Fecha:** 2026-09-15  
-**Lanzadores:** Casey Mize (V) vs Tomoyuki Sugano (L)
+**Fecha:** 2026-09-16  
+**Lanzadores:** Logan Gilbert (V) vs Ryan Johnson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.6%
+**Probabilidad de que anoten en la primera entrada:** 50.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 43.7% (31/71 partidos)
+### Los Angeles Angels (Local)
+- **Estadística base YRFI:** 40.0% (30/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Casey Mize):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 23.9%
+- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 37.4%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 25.7% (19/74 partidos)
+### Seattle Mariners (Visitante)
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tomoyuki Sugano):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.1%
+- **Impacto del lanzador local (Los Angeles Angels - Ryan Johnson):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 20.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-14 18:57:37
+- **Generado el:** 2026-09-15 17:49:50
 - **Fuente de datos:** season_data.json

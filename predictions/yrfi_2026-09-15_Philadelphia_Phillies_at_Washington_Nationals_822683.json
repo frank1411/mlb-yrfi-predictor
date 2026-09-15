@@ -1,0 +1,67 @@
+{
+  "game_pk": 822683,
+  "game_date": "2026-09-15",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Jackson Kent",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.526315789473685,
+        "ratio": "27/76"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 25.87,
+    "pitcher": {
+      "name": "Cristopher Sánchez",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 25.333333333333336,
+        "ratio": "19/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.526315789473685,
+        "tendency": 6.666666666666667,
+        "combined": 23.98,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.79
+      },
+      "away_team": {
+        "base": 25.333333333333336,
+        "tendency": 26.666666666666668,
+        "combined": 25.87,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.11
+      },
+      "game_yrfi_probability": 44.14
+    },
+    "yrfi_probability": 44.14
+  },
+  "metadata": {
+    "generated_at": "2026-09-15T17:49:50.436835",
+    "data_source": "season_data.json"
+  }
+}

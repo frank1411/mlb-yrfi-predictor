@@ -1,25 +1,25 @@
-# Análisis YRFI: Seattle Mariners @ Los Angeles Angels
+# Análisis YRFI: Los Angeles Dodgers @ Cincinnati Reds
 
 **Fecha:** 2026-09-15  
-**Lanzadores:** Kade Anderson (V) vs Reid Detmers (L)
+**Lanzadores:** Yoshinobu Yamamoto (V) vs Rhett Lowder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.3%
+**Probabilidad de que anoten en la primera entrada:** 57.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 39.2% (29/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Kade Anderson):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.1%
-
-### Seattle Mariners (Visitante)
+### Cincinnati Reds (Local)
 - **Estadística base YRFI:** 28.0% (21/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Reid Detmers):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.6%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 41.1%
+
+### Los Angeles Dodgers (Visitante)
+- **Estadística base YRFI:** 24.0% (18/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Cincinnati Reds - Rhett Lowder):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-14 18:57:37
+- **Generado el:** 2026-09-15 17:49:50
 - **Fuente de datos:** season_data.json

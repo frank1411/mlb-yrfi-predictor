@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Minnesota Twins
+# Análisis YRFI: Athletics @ Tampa Bay Rays
 
-**Fecha:** 2026-09-14  
-**Lanzadores:** Will Warren (V) vs Dean Kremer (L)
+**Fecha:** 2026-09-15  
+**Lanzadores:** Jack Perkins (V) vs Griffin Jax (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 63.3%
+**Probabilidad de que anoten en la primera entrada:** 38.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 36.0% (27/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 28.2%
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 34.7% (26/75 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.9%
 
-### New York Yankees (Visitante)
+### Athletics (Visitante)
 - **Estadística base YRFI:** 22.7% (17/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Dean Kremer):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 48.9%
+- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 18.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-14 18:57:37
+- **Generado el:** 2026-09-15 17:49:50
 - **Fuente de datos:** season_data.json
