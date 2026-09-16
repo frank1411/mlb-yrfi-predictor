@@ -1,25 +1,25 @@
-# Análisis YRFI: Kansas City Royals @ Houston Astros
+# Análisis YRFI: New York Yankees @ Minnesota Twins
 
 **Fecha:** 2026-09-16  
-**Lanzadores:** Michael Wacha (V) vs Hunter Brown (L)
+**Lanzadores:** Carlos Rodón (V) vs Zebby Matthews (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.8%
+**Probabilidad de que anoten en la primera entrada:** 40.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 36.0% (27/75 partidos)
+### Minnesota Twins (Local)
+- **Estadística base YRFI:** 35.1% (27/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 24.4%
+- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.1%
 
-### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 28.0% (21/75 partidos)
+### New York Yankees (Visitante)
+- **Estadística base YRFI:** 23.4% (18/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Hunter Brown):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 23.0%
+- **Impacto del lanzador local (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-15 17:49:50
+- **Generado el:** 2026-09-16 17:50:28
 - **Fuente de datos:** season_data.json

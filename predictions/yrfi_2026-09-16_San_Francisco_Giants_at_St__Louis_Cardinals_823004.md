@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ St. Louis Cardinals
 
-**Fecha:** 2026-09-15  
-**Lanzadores:** Blade Tidwell (V) vs Andre Pallante (L)
+**Fecha:** 2026-09-16  
+**Lanzadores:** Anthony Molina (V) vs Matthew Liberatore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.6%
+**Probabilidad de que anoten en la primera entrada:** 50.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 26.3% (20/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Blade Tidwell):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.8%
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Anthony Molina):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.1%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 25.0% (19/76 partidos)
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 60.0% (9/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Andre Pallante):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 37.3%
+- **Impacto del lanzador local (St. Louis Cardinals - Matthew Liberatore):** 40.0% (2/5 partidos)
+- **Puntuación ajustada:** 39.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-15 17:49:50
+- **Generado el:** 2026-09-16 17:50:28
 - **Fuente de datos:** season_data.json

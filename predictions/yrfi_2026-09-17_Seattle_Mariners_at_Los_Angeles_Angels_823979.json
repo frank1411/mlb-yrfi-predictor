@@ -1,0 +1,67 @@
+{
+  "game_pk": 823979,
+  "game_date": "2026-09-17",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 39.473684210526315,
+        "ratio": "30/76"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 29.7,
+    "pitcher": {
+      "name": "George Kirby",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "21/77"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 39.473684210526315,
+        "tendency": 13.333333333333334,
+        "combined": 29.02,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.31
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 33.33333333333333,
+        "combined": 29.7,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.79
+      },
+      "game_yrfi_probability": 36.88
+    },
+    "yrfi_probability": 36.88
+  },
+  "metadata": {
+    "generated_at": "2026-09-16T17:50:28.451824",
+    "data_source": "season_data.json"
+  }
+}

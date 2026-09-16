@@ -1,25 +1,25 @@
 # Análisis YRFI: Baltimore Orioles @ New York Mets
 
-**Fecha:** 2026-09-15  
-**Lanzadores:** Shane Baz (V) vs Sean Manaea (L)
+**Fecha:** 2026-09-16  
+**Lanzadores:** Chris Bassitt (V) vs Robert Stock (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.0%
+**Probabilidad de que anoten en la primera entrada:** 57.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 30.7% (23/75 partidos)
+- **Estadística base YRFI:** 31.6% (24/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Shane Baz):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 42.8%
+- **Impacto del lanzador visitante (Baltimore Orioles - Chris Bassitt):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 48.2%
 
 ### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 28.9% (22/76 partidos)
+- **Estadística base YRFI:** 28.6% (22/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (New York Mets - Sean Manaea):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 17.8%
+- **Impacto del lanzador local (New York Mets - Robert Stock):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 17.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-15 17:49:50
+- **Generado el:** 2026-09-16 17:50:28
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 824143,
-  "game_date": "2026-09-16",
+  "game_pk": 824140,
+  "game_date": "2026-09-17",
   "home_team": {
     "id": "117",
     "name": "Houston Astros",
     "pitcher": {
-      "name": "Hunter Brown",
+      "name": "Cristian Javier",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 36.0,
-        "ratio": "27/75"
+        "value": 36.84210526315789,
+        "ratio": "28/76"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "118",
     "name": "Kansas City Royals",
-    "combined_yrfi_pct": 32.8,
+    "combined_yrfi_pct": 32.58,
     "pitcher": {
-      "name": "Michael Wacha",
+      "name": "Daniel Lynch IV",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 28.000000000000004,
-        "ratio": "21/75"
+        "value": 27.631578947368425,
+        "ratio": "21/76"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.0,
+        "base": 36.84210526315789,
         "tendency": 33.33333333333333,
-        "combined": 34.93,
+        "combined": 35.44,
         "pitcher_impact": 0.0,
-        "adjusted": 24.45
+        "adjusted": 24.81
       },
       "away_team": {
-        "base": 28.000000000000004,
+        "base": 27.631578947368425,
         "tendency": 40.0,
-        "combined": 32.8,
+        "combined": 32.58,
         "pitcher_impact": 0.0,
-        "adjusted": 22.96
+        "adjusted": 22.81
       },
-      "game_yrfi_probability": 41.8
+      "game_yrfi_probability": 41.96
     },
-    "yrfi_probability": 41.8
+    "yrfi_probability": 41.96
   },
   "metadata": {
-    "generated_at": "2026-09-15T17:49:50.463235",
+    "generated_at": "2026-09-16T17:50:28.442522",
     "data_source": "season_data.json"
   }
 }

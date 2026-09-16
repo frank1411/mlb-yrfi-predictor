@@ -1,18 +1,18 @@
 {
-  "game_pk": 824307,
-  "game_date": "2026-09-16",
+  "game_pk": 824306,
+  "game_date": "2026-09-17",
   "home_team": {
     "id": "115",
     "name": "Colorado Rockies",
     "pitcher": {
-      "name": "Kyle Freeland",
+      "name": "Mason Adams",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 44.44444444444444,
-        "ratio": "32/72"
+        "value": 43.83561643835616,
+        "ratio": "32/73"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "135",
     "name": "San Diego Padres",
-    "combined_yrfi_pct": 32.0,
+    "combined_yrfi_pct": 35.25,
     "pitcher": {
-      "name": "Walker Buehler",
+      "name": "Robbie Ray",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 26.666666666666668,
-        "ratio": "20/75"
+        "value": 27.631578947368425,
+        "ratio": "21/76"
       },
       "tendency": {
-        "value": 40.0,
-        "ratio": "6/15"
+        "value": 46.666666666666664,
+        "ratio": "7/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 44.44444444444444,
+        "base": 43.83561643835616,
         "tendency": 26.666666666666668,
-        "combined": 37.33,
+        "combined": 36.97,
         "pitcher_impact": 0.0,
-        "adjusted": 26.13
+        "adjusted": 25.88
       },
       "away_team": {
-        "base": 26.666666666666668,
-        "tendency": 40.0,
-        "combined": 32.0,
+        "base": 27.631578947368425,
+        "tendency": 46.666666666666664,
+        "combined": 35.25,
         "pitcher_impact": 0.0,
-        "adjusted": 22.4
+        "adjusted": 24.67
       },
-      "game_yrfi_probability": 42.68
+      "game_yrfi_probability": 44.17
     },
-    "yrfi_probability": 42.68
+    "yrfi_probability": 44.17
   },
   "metadata": {
-    "generated_at": "2026-09-15T17:49:50.467070",
+    "generated_at": "2026-09-16T17:50:28.447095",
     "data_source": "season_data.json"
   }
 }

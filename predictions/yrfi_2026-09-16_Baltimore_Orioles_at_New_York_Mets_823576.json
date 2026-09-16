@@ -1,18 +1,18 @@
 {
-  "game_pk": 823574,
-  "game_date": "2026-09-15",
+  "game_pk": 823576,
+  "game_date": "2026-09-16",
   "home_team": {
     "id": "121",
     "name": "New York Mets",
     "pitcher": {
-      "name": "Sean Manaea",
+      "name": "Robert Stock",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.666666666666664,
-        "ratio": "23/75"
+        "value": 31.57894736842105,
+        "ratio": "24/76"
       },
       "tendency": {
         "value": 53.333333333333336,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "110",
     "name": "Baltimore Orioles",
-    "combined_yrfi_pct": 25.37,
+    "combined_yrfi_pct": 25.14,
     "pitcher": {
-      "name": "Shane Baz",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "2/4"
+      "name": "Chris Bassitt",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
-        "value": 28.947368421052634,
-        "ratio": "22/76"
+        "value": 28.57142857142857,
+        "ratio": "22/77"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.666666666666664,
+        "base": 31.57894736842105,
         "tendency": 53.333333333333336,
-        "combined": 39.73,
-        "pitcher_impact": 50.0,
-        "adjusted": 42.81
+        "combined": 40.28,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 48.2
       },
       "away_team": {
-        "base": 28.947368421052634,
+        "base": 28.57142857142857,
         "tendency": 20.0,
-        "combined": 25.37,
+        "combined": 25.14,
         "pitcher_impact": 0.0,
-        "adjusted": 17.76
+        "adjusted": 17.6
       },
-      "game_yrfi_probability": 52.97
+      "game_yrfi_probability": 57.32
     },
-    "yrfi_probability": 52.97
+    "yrfi_probability": 57.32
   },
   "metadata": {
-    "generated_at": "2026-09-15T17:49:50.444149",
+    "generated_at": "2026-09-16T17:50:28.428446",
     "data_source": "season_data.json"
   }
 }

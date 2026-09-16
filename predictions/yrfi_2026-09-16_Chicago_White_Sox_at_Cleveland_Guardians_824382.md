@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Cleveland Guardians
 
-**Fecha:** 2026-09-15  
-**Lanzadores:** Chris Murphy (V) vs Foster Griffin (L)
+**Fecha:** 2026-09-16  
+**Lanzadores:** Anthony Kay (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.7%
+**Probabilidad de que anoten en la primera entrada:** 45.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 31.6% (24/76 partidos)
+- **Estadística base YRFI:** 32.5% (25/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Chris Murphy):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Impacto del lanzador visitante (Chicago White Sox - Anthony Kay):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 32.3%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 32.9% (25/76 partidos)
+- **Estadística base YRFI:** 32.5% (25/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Foster Griffin):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 29.4%
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-15 17:49:50
+- **Generado el:** 2026-09-16 17:50:28
 - **Fuente de datos:** season_data.json

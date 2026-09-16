@@ -1,0 +1,67 @@
+{
+  "game_pk": 822926,
+  "game_date": "2026-09-16",
+  "home_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 34.21052631578947,
+        "ratio": "26/76"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "133",
+    "name": "Athletics",
+    "combined_yrfi_pct": 24.09,
+    "pitcher": {
+      "name": "Brady Basso",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 22.36842105263158,
+        "ratio": "17/76"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 34.21052631578947,
+        "tendency": 26.666666666666668,
+        "combined": 31.19,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.84
+      },
+      "away_team": {
+        "base": 22.36842105263158,
+        "tendency": 26.666666666666668,
+        "combined": 24.09,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.86
+      },
+      "game_yrfi_probability": 35.02
+    },
+    "yrfi_probability": 35.02
+  },
+  "metadata": {
+    "generated_at": "2026-09-16T17:50:28.413811",
+    "data_source": "season_data.json"
+  }
+}

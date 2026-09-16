@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ Arizona Diamondbacks
 
-**Fecha:** 2026-09-16  
-**Lanzadores:** Janson Junk (V) vs Michael Soroka (L)
+**Fecha:** 2026-09-17  
+**Lanzadores:** Ryan Gusto (V) vs Merrill Kelly (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.5%
+**Probabilidad de que anoten en la primera entrada:** 52.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 30.3% (23/76 partidos)
+- **Estadística base YRFI:** 31.2% (24/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Janson Junk):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 29.6%
+- **Impacto del lanzador visitante (Miami Marlins - Ryan Gusto):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.0%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 24.7% (18/73 partidos)
+- **Estadística base YRFI:** 24.3% (18/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Michael Soroka):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 14.1%
+- **Impacto del lanzador local (Arizona Diamondbacks - Merrill Kelly):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 44.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-15 17:49:50
+- **Generado el:** 2026-09-16 17:50:28
 - **Fuente de datos:** season_data.json

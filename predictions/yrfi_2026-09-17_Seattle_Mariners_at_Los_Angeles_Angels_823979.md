@@ -1,25 +1,25 @@
 # Análisis YRFI: Seattle Mariners @ Los Angeles Angels
 
-**Fecha:** 2026-09-16  
-**Lanzadores:** Logan Gilbert (V) vs Ryan Johnson (L)
+**Fecha:** 2026-09-17  
+**Lanzadores:** George Kirby (V) vs Yusei Kikuchi (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 36.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 40.0% (30/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Seattle Mariners - Logan Gilbert):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.4%
+- **Estadística base YRFI:** 39.5% (30/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Seattle Mariners - George Kirby):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.3%
 
 ### Seattle Mariners (Visitante)
-- **Estadística base YRFI:** 27.6% (21/76 partidos)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Ryan Johnson):** 0.0% (1/1 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador local (Los Angeles Angels - Yusei Kikuchi):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-15 17:49:50
+- **Generado el:** 2026-09-16 17:50:28
 - **Fuente de datos:** season_data.json

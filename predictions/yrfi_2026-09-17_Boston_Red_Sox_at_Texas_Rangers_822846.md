@@ -1,25 +1,25 @@
 # Análisis YRFI: Boston Red Sox @ Texas Rangers
 
-**Fecha:** 2026-09-16  
-**Lanzadores:** Patrick Sandoval (V) vs Jacob deGrom (L)
+**Fecha:** 2026-09-17  
+**Lanzadores:** Jake Bennett (V) vs MacKenzie Gore (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.5%
+**Probabilidad de que anoten en la primera entrada:** 32.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Texas Rangers (Local)
-- **Estadística base YRFI:** 29.2% (21/72 partidos)
+- **Estadística base YRFI:** 28.8% (21/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Patrick Sandoval):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.7%
+- **Impacto del lanzador visitante (Boston Red Sox - Jake Bennett):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 19.6%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 21.3% (16/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 38.3%
+- **Estadística base YRFI:** 21.1% (16/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Texas Rangers - MacKenzie Gore):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 16.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-15 17:49:50
+- **Generado el:** 2026-09-16 17:50:28
 - **Fuente de datos:** season_data.json

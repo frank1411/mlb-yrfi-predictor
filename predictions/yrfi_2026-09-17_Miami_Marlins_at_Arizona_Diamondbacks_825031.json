@@ -1,0 +1,67 @@
+{
+  "game_pk": 825031,
+  "game_date": "2026-09-17",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Merrill Kelly",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 31.16883116883117,
+        "ratio": "24/77"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 19.93,
+    "pitcher": {
+      "name": "Ryan Gusto",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 24.324324324324326,
+        "ratio": "18/74"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.16883116883117,
+        "tendency": 6.666666666666667,
+        "combined": 21.37,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.96
+      },
+      "away_team": {
+        "base": 24.324324324324326,
+        "tendency": 13.333333333333334,
+        "combined": 19.93,
+        "pitcher_impact": 100.0,
+        "adjusted": 43.95
+      },
+      "game_yrfi_probability": 52.34
+    },
+    "yrfi_probability": 52.34
+  },
+  "metadata": {
+    "generated_at": "2026-09-16T17:50:28.456420",
+    "data_source": "season_data.json"
+  }
+}

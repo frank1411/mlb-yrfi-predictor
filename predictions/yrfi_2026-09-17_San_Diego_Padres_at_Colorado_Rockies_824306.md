@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Colorado Rockies
 
-**Fecha:** 2026-09-16  
-**Lanzadores:** Walker Buehler (V) vs Kyle Freeland (L)
+**Fecha:** 2026-09-17  
+**Lanzadores:** Robbie Ray (V) vs Mason Adams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 42.7%
+**Probabilidad de que anoten en la primera entrada:** 44.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 44.4% (32/72 partidos)
+- **Estadística base YRFI:** 43.8% (32/73 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Walker Buehler):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 26.1%
+- **Impacto del lanzador visitante (San Diego Padres - Robbie Ray):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 25.9%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 26.7% (20/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Kyle Freeland):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 22.4%
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Mason Adams):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-15 17:49:50
+- **Generado el:** 2026-09-16 17:50:28
 - **Fuente de datos:** season_data.json

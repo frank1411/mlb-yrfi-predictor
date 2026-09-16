@@ -1,0 +1,67 @@
+{
+  "game_pk": 823655,
+  "game_date": "2026-09-16",
+  "home_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "pitcher": {
+      "name": "Zebby Matthews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 35.064935064935064,
+        "ratio": "27/77"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 30.03,
+    "pitcher": {
+      "name": "Carlos Rodón",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 23.376623376623375,
+        "ratio": "18/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.064935064935064,
+        "tendency": 33.33333333333333,
+        "combined": 34.37,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.06
+      },
+      "away_team": {
+        "base": 23.376623376623375,
+        "tendency": 40.0,
+        "combined": 30.03,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.02
+      },
+      "game_yrfi_probability": 40.02
+    },
+    "yrfi_probability": 40.02
+  },
+  "metadata": {
+    "generated_at": "2026-09-16T17:50:28.399518",
+    "data_source": "season_data.json"
+  }
+}
