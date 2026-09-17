@@ -1,0 +1,67 @@
+{
+  "game_pk": 824305,
+  "game_date": "2026-09-17",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Tanner Gordon",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 44.5945945945946,
+        "ratio": "33/74"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 38.48,
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.57142857142857,
+        "ratio": "22/77"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.5945945945946,
+        "tendency": 33.33333333333333,
+        "combined": 40.09,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.06
+      },
+      "away_team": {
+        "base": 28.57142857142857,
+        "tendency": 53.333333333333336,
+        "combined": 38.48,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.93
+      },
+      "game_yrfi_probability": 47.43
+    },
+    "yrfi_probability": 47.43
+  },
+  "metadata": {
+    "generated_at": "2026-09-17T17:51:04.955227",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Minnesota Twins
+# Análisis YRFI: Milwaukee Brewers @ Pittsburgh Pirates
 
-**Fecha:** 2026-09-16  
-**Lanzadores:** Carlos Rodón (V) vs Zebby Matthews (L)
+**Fecha:** 2026-09-17  
+**Lanzadores:** Kyle Harrison (V) vs Wilber Dotel (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.0%
+**Probabilidad de que anoten en la primera entrada:** 38.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Minnesota Twins (Local)
-- **Estadística base YRFI:** 35.1% (27/77 partidos)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 32.4% (24/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Carlos Rodón):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.1%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Kyle Harrison):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.9%
 
-### New York Yankees (Visitante)
-- **Estadística base YRFI:** 23.4% (18/77 partidos)
+### Milwaukee Brewers (Visitante)
+- **Estadística base YRFI:** 20.3% (15/74 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Zebby Matthews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 21.0%
+- **Impacto del lanzador local (Pittsburgh Pirates - Wilber Dotel):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 19.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-16 17:50:28
+- **Generado el:** 2026-09-17 17:51:04
 - **Fuente de datos:** season_data.json

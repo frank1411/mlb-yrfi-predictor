@@ -1,25 +1,25 @@
 # Análisis YRFI: San Diego Padres @ Colorado Rockies
 
 **Fecha:** 2026-09-17  
-**Lanzadores:** Robbie Ray (V) vs Mason Adams (L)
+**Lanzadores:** Michael King (V) vs Tanner Gordon (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.2%
+**Probabilidad de que anoten en la primera entrada:** 47.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Colorado Rockies (Local)
-- **Estadística base YRFI:** 43.8% (32/73 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Robbie Ray):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Estadística base YRFI:** 44.6% (33/74 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 28.1%
 
 ### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 27.6% (21/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Mason Adams):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.7%
+- **Estadística base YRFI:** 28.6% (22/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
+- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-16 17:50:28
+- **Generado el:** 2026-09-17 17:51:04
 - **Fuente de datos:** season_data.json

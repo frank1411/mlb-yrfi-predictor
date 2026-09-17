@@ -1,0 +1,67 @@
+{
+  "game_pk": 823573,
+  "game_date": "2026-09-17",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Nolan McLean",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 31.16883116883117,
+        "ratio": "24/77"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 32.36,
+    "pitcher": {
+      "name": "Aaron Nola",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "21/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.16883116883117,
+        "tendency": 46.666666666666664,
+        "combined": 37.37,
+        "pitcher_impact": 20.0,
+        "adjusted": 32.16
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 40.0,
+        "combined": 32.36,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.15
+      },
+      "game_yrfi_probability": 52.61
+    },
+    "yrfi_probability": 52.61
+  },
+  "metadata": {
+    "generated_at": "2026-09-17T17:51:04.964566",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824141,
+  "game_date": "2026-09-17",
+  "home_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 36.36363636363637,
+        "ratio": "28/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "118",
+    "name": "Kansas City Royals",
+    "combined_yrfi_pct": 32.36,
+    "pitcher": {
+      "name": "Seth Lugo",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.27272727272727,
+        "ratio": "21/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.36363636363637,
+        "tendency": 26.666666666666668,
+        "combined": 32.48,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.74
+      },
+      "away_team": {
+        "base": 27.27272727272727,
+        "tendency": 40.0,
+        "combined": 32.36,
+        "pitcher_impact": 50.0,
+        "adjusted": 37.65
+      },
+      "game_yrfi_probability": 58.06
+    },
+    "yrfi_probability": 58.06
+  },
+  "metadata": {
+    "generated_at": "2026-09-17T17:51:04.959575",
+    "data_source": "season_data.json"
+  }
+}

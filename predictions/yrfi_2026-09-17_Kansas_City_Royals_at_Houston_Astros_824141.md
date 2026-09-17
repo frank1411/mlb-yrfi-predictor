@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Chicago Cubs
+# Análisis YRFI: Kansas City Royals @ Houston Astros
 
-**Fecha:** 2026-09-16  
-**Lanzadores:** JR Ritchie (V) vs Shota Imanaga (L)
+**Fecha:** 2026-09-17  
+**Lanzadores:** Seth Lugo (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.8%
+**Probabilidad de que anoten en la primera entrada:** 58.1%
 
 ## 🔍 Explicación de los Cálculos
 
-### Chicago Cubs (Local)
+### Houston Astros (Local)
 - **Estadística base YRFI:** 36.4% (28/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - JR Ritchie):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 37.7%
+- **Impacto del lanzador visitante (Kansas City Royals - Seth Lugo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 32.7%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 25.7% (19/74 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Chicago Cubs - Shota Imanaga):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 25.8%
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Houston Astros - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-16 17:50:28
+- **Generado el:** 2026-09-17 17:51:04
 - **Fuente de datos:** season_data.json

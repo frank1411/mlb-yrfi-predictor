@@ -1,18 +1,18 @@
 {
-  "game_pk": 824140,
+  "game_pk": 823334,
   "game_date": "2026-09-17",
   "home_team": {
-    "id": "117",
-    "name": "Houston Astros",
+    "id": "134",
+    "name": "Pittsburgh Pirates",
     "pitcher": {
-      "name": "Cristian Javier",
+      "name": "Wilber Dotel",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 36.84210526315789,
-        "ratio": "28/76"
+        "value": 32.432432432432435,
+        "ratio": "24/74"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "118",
-    "name": "Kansas City Royals",
-    "combined_yrfi_pct": 32.58,
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 28.16,
     "pitcher": {
-      "name": "Daniel Lynch IV",
+      "name": "Kyle Harrison",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
-        "value": 27.631578947368425,
-        "ratio": "21/76"
+        "value": 20.27027027027027,
+        "ratio": "15/74"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.84210526315789,
+        "base": 32.432432432432435,
         "tendency": 33.33333333333333,
-        "combined": 35.44,
+        "combined": 32.79,
         "pitcher_impact": 0.0,
-        "adjusted": 24.81
+        "adjusted": 22.95
       },
       "away_team": {
-        "base": 27.631578947368425,
+        "base": 20.27027027027027,
         "tendency": 40.0,
-        "combined": 32.58,
+        "combined": 28.16,
         "pitcher_impact": 0.0,
-        "adjusted": 22.81
+        "adjusted": 19.71
       },
-      "game_yrfi_probability": 41.96
+      "game_yrfi_probability": 38.14
     },
-    "yrfi_probability": 41.96
+    "yrfi_probability": 38.14
   },
   "metadata": {
-    "generated_at": "2026-09-16T17:50:28.442522",
+    "generated_at": "2026-09-17T17:51:04.939956",
     "data_source": "season_data.json"
   }
 }
