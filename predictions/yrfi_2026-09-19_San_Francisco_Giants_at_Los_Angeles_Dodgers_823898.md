@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Colorado Rockies
+# Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
 
-**Fecha:** 2026-09-17  
-**Lanzadores:** Michael King (V) vs Tanner Gordon (L)
+**Fecha:** 2026-09-19  
+**Lanzadores:** Cesar Perdomo (V) vs Tyler Glasnow (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.4%
+**Probabilidad de que anoten en la primera entrada:** 51.4%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 44.6% (33/74 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 36.0% (27/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Michael King):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 28.1%
+- **Impacto del lanzador visitante (San Francisco Giants - Cesar Perdomo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.4%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 28.6% (22/77 partidos)
+### San Francisco Giants (Visitante)
+- **Estadística base YRFI:** 25.6% (20/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Impacto del lanzador local (Los Angeles Dodgers - Tyler Glasnow):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 35.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-17 17:51:04
+- **Generado el:** 2026-09-18 17:21:46
 - **Fuente de datos:** season_data.json

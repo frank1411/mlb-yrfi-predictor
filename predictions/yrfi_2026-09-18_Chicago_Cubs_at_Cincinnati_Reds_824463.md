@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Dodgers @ Cincinnati Reds
+# Análisis YRFI: Chicago Cubs @ Cincinnati Reds
 
-**Fecha:** 2026-09-17  
-**Lanzadores:** Justin Wrobleski (V) vs Brady Singer (L)
+**Fecha:** 2026-09-18  
+**Lanzadores:** Clay Holmes (V) vs Chase Burns (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.9%
+**Probabilidad de que anoten en la primera entrada:** 45.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 27.3% (21/77 partidos)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Justin Wrobleski):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 40.8%
+- **Impacto del lanzador visitante (Chicago Cubs - Clay Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 35.6%
 
-### Los Angeles Dodgers (Visitante)
-- **Estadística base YRFI:** 23.4% (18/77 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 17.3% (13/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Brady Singer):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 27.3%
+- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 14.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-17 17:51:04
+- **Generado el:** 2026-09-18 17:21:46
 - **Fuente de datos:** season_data.json

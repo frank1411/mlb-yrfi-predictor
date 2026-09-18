@@ -1,0 +1,67 @@
+{
+  "game_pk": 823572,
+  "game_date": "2026-09-18",
+  "home_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "pitcher": {
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "24/78"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "combined_yrfi_pct": 32.15,
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "21/78"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.76923076923077,
+        "tendency": 46.666666666666664,
+        "combined": 37.13,
+        "pitcher_impact": 50.0,
+        "adjusted": 40.99
+      },
+      "away_team": {
+        "base": 26.923076923076923,
+        "tendency": 40.0,
+        "combined": 32.15,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.51
+      },
+      "game_yrfi_probability": 54.27
+    },
+    "yrfi_probability": 54.27
+  },
+  "metadata": {
+    "generated_at": "2026-09-18T17:21:46.272808",
+    "data_source": "season_data.json"
+  }
+}

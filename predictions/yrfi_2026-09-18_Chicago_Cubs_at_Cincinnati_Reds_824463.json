@@ -1,0 +1,67 @@
+{
+  "game_pk": 824463,
+  "game_date": "2026-09-18",
+  "home_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "pitcher": {
+      "name": "Chase Burns",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "21/78"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 21.07,
+    "pitcher": {
+      "name": "Clay Holmes",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 17.333333333333336,
+        "ratio": "13/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.923076923076923,
+        "tendency": 33.33333333333333,
+        "combined": 29.49,
+        "pitcher_impact": 50.0,
+        "adjusted": 35.64
+      },
+      "away_team": {
+        "base": 17.333333333333336,
+        "tendency": 26.666666666666668,
+        "combined": 21.07,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.75
+      },
+      "game_yrfi_probability": 45.13
+    },
+    "yrfi_probability": 45.13
+  },
+  "metadata": {
+    "generated_at": "2026-09-18T17:21:46.248277",
+    "data_source": "season_data.json"
+  }
+}

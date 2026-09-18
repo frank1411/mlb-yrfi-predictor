@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ New York Mets
 
-**Fecha:** 2026-09-17  
-**Lanzadores:** Aaron Nola (V) vs Nolan McLean (L)
+**Fecha:** 2026-09-18  
+**Lanzadores:** Por anunciar (V) vs Zac Thornton (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.6%
+**Probabilidad de que anoten en la primera entrada:** 54.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 31.2% (24/77 partidos)
+- **Estadística base YRFI:** 30.8% (24/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Aaron Nola):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 41.0%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 27.3% (21/77 partidos)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (New York Mets - Nolan McLean):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.1%
+- **Impacto del lanzador local (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-17 17:51:04
+- **Generado el:** 2026-09-18 17:21:46
 - **Fuente de datos:** season_data.json

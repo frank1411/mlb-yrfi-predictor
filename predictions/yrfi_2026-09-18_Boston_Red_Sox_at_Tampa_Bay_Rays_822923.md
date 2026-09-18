@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Texas Rangers
+# Análisis YRFI: Boston Red Sox @ Tampa Bay Rays
 
 **Fecha:** 2026-09-18  
-**Lanzadores:** Sonny Gray (V) vs Tyler Alexander (L)
+**Lanzadores:** Ranger Suarez (V) vs Ian Seymour (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 60.8%
+**Probabilidad de que anoten en la primera entrada:** 44.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 29.7% (22/74 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 34.6% (27/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Sonny Gray):** 100.0% (2/2 partidos)
-- **Puntuación ajustada:** 51.8%
+- **Impacto del lanzador visitante (Boston Red Sox - Ranger Suarez):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 33.9%
 
 ### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 22.1% (17/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Tyler Alexander):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.6%
+- **Estadística base YRFI:** 21.8% (17/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Tampa Bay Rays - Ian Seymour):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-17 17:51:04
+- **Generado el:** 2026-09-18 17:21:46
 - **Fuente de datos:** season_data.json

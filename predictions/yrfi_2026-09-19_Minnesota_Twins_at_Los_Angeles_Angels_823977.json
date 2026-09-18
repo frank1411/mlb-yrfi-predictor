@@ -1,0 +1,67 @@
+{
+  "game_pk": 823977,
+  "game_date": "2026-09-19",
+  "home_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "pitcher": {
+      "name": "Grayson Rodriguez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 41.02564102564102,
+        "ratio": "32/78"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 30.67,
+    "pitcher": {
+      "name": "Connor Prielipp",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "25/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.02564102564102,
+        "tendency": 26.666666666666668,
+        "combined": 35.28,
+        "pitcher_impact": 100.0,
+        "adjusted": 54.7
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "game_yrfi_probability": 64.43
+    },
+    "yrfi_probability": 64.43
+  },
+  "metadata": {
+    "generated_at": "2026-09-18T17:21:46.293768",
+    "data_source": "season_data.json"
+  }
+}

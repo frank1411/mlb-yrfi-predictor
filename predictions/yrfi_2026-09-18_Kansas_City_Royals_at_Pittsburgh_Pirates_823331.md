@@ -1,7 +1,7 @@
-# Análisis YRFI: Minnesota Twins @ Los Angeles Angels
+# Análisis YRFI: Kansas City Royals @ Pittsburgh Pirates
 
 **Fecha:** 2026-09-18  
-**Lanzadores:** Taj Bradley (V) vs Walbert Ureña (L)
+**Lanzadores:** Randy Dobnak (V) vs Paul Skenes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -9,17 +9,17 @@
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Angels (Local)
-- **Estadística base YRFI:** 40.3% (31/77 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Minnesota Twins - Taj Bradley):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 37.5%
-
-### Minnesota Twins (Visitante)
-- **Estadística base YRFI:** 33.8% (25/74 partidos)
+### Pittsburgh Pirates (Local)
+- **Estadística base YRFI:** 32.0% (24/75 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Angels - Walbert Ureña):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 23.5%
+- **Impacto del lanzador visitante (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.8%
+
+### Kansas City Royals (Visitante)
+- **Estadística base YRFI:** 28.2% (22/78 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 38.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-17 17:51:04
+- **Generado el:** 2026-09-18 17:21:46
 - **Fuente de datos:** season_data.json
