@@ -1,0 +1,67 @@
+{
+  "game_pk": 825029,
+  "game_date": "2026-09-20",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Brandon Pfaadt",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.37974683544304,
+        "ratio": "24/79"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 33.1,
+    "pitcher": {
+      "name": "Cam Schlittler",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
+    },
+    "stats": {
+      "base": {
+        "value": 24.050632911392405,
+        "ratio": "19/79"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.37974683544304,
+        "tendency": 6.666666666666667,
+        "combined": 20.89,
+        "pitcher_impact": 20.0,
+        "adjusted": 20.63
+      },
+      "away_team": {
+        "base": 24.050632911392405,
+        "tendency": 46.666666666666664,
+        "combined": 33.1,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.17
+      },
+      "game_yrfi_probability": 50.93
+    },
+    "yrfi_probability": 50.93
+  },
+  "metadata": {
+    "generated_at": "2026-09-19T16:54:03.917985",
+    "data_source": "season_data.json"
+  }
+}

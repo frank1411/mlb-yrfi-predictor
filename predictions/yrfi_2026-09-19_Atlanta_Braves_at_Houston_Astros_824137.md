@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Houston Astros
 
 **Fecha:** 2026-09-19  
-**Lanzadores:** Tyler Mahle (V) vs Peter Lambert (L)
+**Lanzadores:** Grant Holmes (V) vs Hayden Wesneski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 65.0%
+**Probabilidad de que anoten en la primera entrada:** 49.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Houston Astros (Local)
-- **Estadística base YRFI:** 37.2% (29/78 partidos)
+- **Estadística base YRFI:** 36.7% (29/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Tyler Mahle):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 35.0%
+- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 39.8%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 25.3% (19/75 partidos)
+- **Estadística base YRFI:** 25.0% (19/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Peter Lambert):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 46.2%
+- **Impacto del lanzador local (Houston Astros - Hayden Wesneski):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-18 17:21:46
+- **Generado el:** 2026-09-19 16:54:03
 - **Fuente de datos:** season_data.json

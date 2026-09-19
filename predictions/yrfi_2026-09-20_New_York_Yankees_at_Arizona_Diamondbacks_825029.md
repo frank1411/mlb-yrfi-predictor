@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Arizona Diamondbacks
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Gerrit Cole (V) vs Eduardo Rodriguez (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** Cam Schlittler (V) vs Brandon Pfaadt (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.4%
+**Probabilidad de que anoten en la primera entrada:** 50.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 30.8% (24/78 partidos)
+- **Estadística base YRFI:** 30.4% (24/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.8%
+- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 20.6%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 23.1% (18/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.9%
+- **Estadística base YRFI:** 24.1% (19/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 38.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-18 17:21:46
+- **Generado el:** 2026-09-19 16:54:03
 - **Fuente de datos:** season_data.json

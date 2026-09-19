@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ Cincinnati Reds
 
-**Fecha:** 2026-09-18  
-**Lanzadores:** Clay Holmes (V) vs Chase Burns (L)
+**Fecha:** 2026-09-19  
+**Lanzadores:** Matthew Boyd (V) vs Nick Lodolo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.1%
+**Probabilidad de que anoten en la primera entrada:** 58.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 26.9% (21/78 partidos)
+- **Estadística base YRFI:** 27.8% (22/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Clay Holmes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 51.0%
 
 ### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 17.3% (13/75 partidos)
+- **Estadística base YRFI:** 17.1% (13/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Chase Burns):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 14.8%
+- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 14.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-18 17:21:46
+- **Generado el:** 2026-09-19 16:54:03
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824304,
+  "game_date": "2026-09-20",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Jose Quintana",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 46.05263157894737,
+        "ratio": "35/76"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "combined_yrfi_pct": 30.8,
+    "pitcher": {
+      "name": "Bryce Miller",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.11392405063291,
+        "ratio": "23/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 46.05263157894737,
+        "tendency": 46.666666666666664,
+        "combined": 46.3,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.41
+      },
+      "away_team": {
+        "base": 29.11392405063291,
+        "tendency": 33.33333333333333,
+        "combined": 30.8,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.56
+      },
+      "game_yrfi_probability": 46.98
+    },
+    "yrfi_probability": 46.98
+  },
+  "metadata": {
+    "generated_at": "2026-09-19T16:54:03.914859",
+    "data_source": "season_data.json"
+  }
+}

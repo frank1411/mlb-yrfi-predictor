@@ -1,0 +1,67 @@
+{
+  "game_pk": 823249,
+  "game_date": "2026-09-20",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Casey Mize",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 22.36842105263158,
+        "ratio": "17/76"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 19.54,
+    "pitcher": {
+      "name": "Eury Pérez",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.684210526315788,
+        "ratio": "18/76"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.36842105263158,
+        "tendency": 46.666666666666664,
+        "combined": 32.09,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 32.46
+      },
+      "away_team": {
+        "base": 23.684210526315788,
+        "tendency": 13.333333333333334,
+        "combined": 19.54,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.68
+      },
+      "game_yrfi_probability": 41.7
+    },
+    "yrfi_probability": 41.7
+  },
+  "metadata": {
+    "generated_at": "2026-09-19T16:54:03.921105",
+    "data_source": "season_data.json"
+  }
+}

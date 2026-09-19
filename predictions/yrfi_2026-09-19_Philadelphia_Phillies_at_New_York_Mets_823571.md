@@ -1,25 +1,25 @@
 # Análisis YRFI: Philadelphia Phillies @ New York Mets
 
-**Fecha:** 2026-09-18  
-**Lanzadores:** Por anunciar (V) vs Zac Thornton (L)
+**Fecha:** 2026-09-19  
+**Lanzadores:** Andrew Painter (V) vs Christian Scott (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.3%
+**Probabilidad de que anoten en la primera entrada:** 64.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Mets (Local)
-- **Estadística base YRFI:** 30.8% (24/78 partidos)
+- **Estadística base YRFI:** 31.6% (25/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 41.0%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Andrew Painter):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 26.4%
 
 ### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.9% (21/78 partidos)
+- **Estadística base YRFI:** 26.6% (21/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador local (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 52.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-18 17:21:46
+- **Generado el:** 2026-09-19 16:54:03
 - **Fuente de datos:** season_data.json

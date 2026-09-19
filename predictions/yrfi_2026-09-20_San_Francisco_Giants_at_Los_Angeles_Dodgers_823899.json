@@ -1,18 +1,18 @@
 {
-  "game_pk": 823898,
-  "game_date": "2026-09-19",
+  "game_pk": 823899,
+  "game_date": "2026-09-20",
   "home_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Tyler Glasnow",
-      "yrfi_allowed": 33.33333333333333,
-      "yrfi_ratio": "1/3"
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 36.0,
-        "ratio": "27/75"
+        "value": 36.84210526315789,
+        "ratio": "28/76"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "137",
     "name": "San Francisco Giants",
-    "combined_yrfi_pct": 36.72,
+    "combined_yrfi_pct": 36.52,
     "pitcher": {
-      "name": "Cesar Perdomo",
+      "name": "Yunior Marte",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 25.64102564102564,
-        "ratio": "20/78"
+        "value": 25.31645569620253,
+        "ratio": "20/79"
       },
       "tendency": {
         "value": 53.333333333333336,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 36.0,
+        "base": 36.84210526315789,
         "tendency": 33.33333333333333,
-        "combined": 34.93,
+        "combined": 35.44,
         "pitcher_impact": 0.0,
-        "adjusted": 24.45
+        "adjusted": 24.81
       },
       "away_team": {
-        "base": 25.64102564102564,
+        "base": 25.31645569620253,
         "tendency": 53.333333333333336,
-        "combined": 36.72,
-        "pitcher_impact": 33.33333333333333,
-        "adjusted": 35.7
+        "combined": 36.52,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.57
       },
-      "game_yrfi_probability": 51.42
+      "game_yrfi_probability": 44.04
     },
-    "yrfi_probability": 51.42
+    "yrfi_probability": 44.04
   },
   "metadata": {
-    "generated_at": "2026-09-18T17:21:46.304523",
+    "generated_at": "2026-09-19T16:54:03.924103",
     "data_source": "season_data.json"
   }
 }

@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ St. Louis Cardinals
 
 **Fecha:** 2026-09-19  
-**Lanzadores:** Cade Cavalli (V) vs Kyle Leahy (L)
+**Lanzadores:** Andrew Alvarez (V) vs Michael McGreevy (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.3%
+**Probabilidad de que anoten en la primera entrada:** 36.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 26.9% (21/78 partidos)
+- **Estadística base YRFI:** 26.6% (21/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Cade Cavalli):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 26.9%
+- **Impacto del lanzador visitante (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.8%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 24.0% (18/75 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Kyle Leahy):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 23.8%
+- **Estadística base YRFI:** 25.0% (19/76 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 23.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-18 17:21:46
+- **Generado el:** 2026-09-19 16:54:03
 - **Fuente de datos:** season_data.json

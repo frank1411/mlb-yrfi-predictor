@@ -1,25 +1,25 @@
 # Análisis YRFI: Athletics @ Cleveland Guardians
 
-**Fecha:** 2026-09-18  
-**Lanzadores:** Mason Barnett (V) vs Daniel Espino (L)
+**Fecha:** 2026-09-19  
+**Lanzadores:** Jacob Lopez (V) vs Tanner Bibee (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.2%
+**Probabilidad de que anoten en la primera entrada:** 59.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 32.1% (25/78 partidos)
+- **Estadística base YRFI:** 31.6% (25/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Mason Barnett):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.7%
+- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 44.5%
 
 ### Athletics (Visitante)
-- **Estadística base YRFI:** 21.8% (17/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Daniel Espino):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.6%
+- **Estadística base YRFI:** 22.8% (18/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 26.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-18 17:21:46
+- **Generado el:** 2026-09-19 16:54:03
 - **Fuente de datos:** season_data.json

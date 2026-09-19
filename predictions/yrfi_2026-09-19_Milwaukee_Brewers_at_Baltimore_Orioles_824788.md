@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Baltimore Orioles
 
-**Fecha:** 2026-09-18  
-**Lanzadores:** Dustin May (V) vs Cade Povich (L)
+**Fecha:** 2026-09-19  
+**Lanzadores:** Robert Gasser (V) vs Trevor Rogers (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.9%
+**Probabilidad de que anoten en la primera entrada:** 32.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 21.3% (16/75 partidos)
+- **Estadística base YRFI:** 21.1% (16/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Dustin May):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 46.4%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 16.3%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 20.0% (15/75 partidos)
+- **Estadística base YRFI:** 19.7% (15/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Cade Povich):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 19.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-18 17:21:46
+- **Generado el:** 2026-09-19 16:54:03
 - **Fuente de datos:** season_data.json

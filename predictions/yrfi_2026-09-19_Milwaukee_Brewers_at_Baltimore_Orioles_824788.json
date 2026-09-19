@@ -1,18 +1,18 @@
 {
-  "game_pk": 824790,
-  "game_date": "2026-09-18",
+  "game_pk": 824788,
+  "game_date": "2026-09-19",
   "home_team": {
     "id": "110",
     "name": "Baltimore Orioles",
     "pitcher": {
-      "name": "Cade Povich",
+      "name": "Trevor Rogers",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 21.333333333333336,
-        "ratio": "16/75"
+        "value": 21.052631578947366,
+        "ratio": "16/76"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
-    "combined_yrfi_pct": 28.0,
+    "combined_yrfi_pct": 27.84,
     "pitcher": {
-      "name": "Dustin May",
-      "yrfi_allowed": 100.0,
-      "yrfi_ratio": "3/3"
+      "name": "Robert Gasser",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 20.0,
-        "ratio": "15/75"
+        "value": 19.736842105263158,
+        "ratio": "15/76"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 21.333333333333336,
+        "base": 21.052631578947366,
         "tendency": 26.666666666666668,
-        "combined": 23.47,
-        "pitcher_impact": 100.0,
-        "adjusted": 46.43
+        "combined": 23.3,
+        "pitcher_impact": 0.0,
+        "adjusted": 16.31
       },
       "away_team": {
-        "base": 20.0,
+        "base": 19.736842105263158,
         "tendency": 40.0,
-        "combined": 28.0,
+        "combined": 27.84,
         "pitcher_impact": 0.0,
-        "adjusted": 19.6
+        "adjusted": 19.49
       },
-      "game_yrfi_probability": 56.93
+      "game_yrfi_probability": 32.62
     },
-    "yrfi_probability": 56.93
+    "yrfi_probability": 32.62
   },
   "metadata": {
-    "generated_at": "2026-09-18T17:21:46.258170",
+    "generated_at": "2026-09-19T16:54:03.887803",
     "data_source": "season_data.json"
   }
 }
