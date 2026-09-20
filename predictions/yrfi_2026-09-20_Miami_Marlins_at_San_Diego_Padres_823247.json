@@ -1,0 +1,67 @@
+{
+  "game_pk": 823247,
+  "game_date": "2026-09-20",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Walker Buehler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 22.07792207792208,
+        "ratio": "17/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 16.69,
+    "pitcher": {
+      "name": "Sandy Alcantara",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.376623376623375,
+        "ratio": "18/77"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.07792207792208,
+        "tendency": 40.0,
+        "combined": 29.25,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 30.47
+      },
+      "away_team": {
+        "base": 23.376623376623375,
+        "tendency": 6.666666666666667,
+        "combined": 16.69,
+        "pitcher_impact": 0.0,
+        "adjusted": 11.68
+      },
+      "game_yrfi_probability": 38.59
+    },
+    "yrfi_probability": 38.59
+  },
+  "metadata": {
+    "generated_at": "2026-09-20T17:06:45.373742",
+    "data_source": "season_data.json"
+  }
+}

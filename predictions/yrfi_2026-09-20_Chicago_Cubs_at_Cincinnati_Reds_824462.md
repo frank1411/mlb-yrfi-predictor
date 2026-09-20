@@ -1,25 +1,25 @@
-# Análisis YRFI: Atlanta Braves @ Houston Astros
+# Análisis YRFI: Chicago Cubs @ Cincinnati Reds
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Grant Holmes (V) vs Hayden Wesneski (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** David Peterson (V) vs Rhett Lowder (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.5%
+**Probabilidad de que anoten en la primera entrada:** 62.0%
 
 ## 🔍 Explicación de los Cálculos
 
-### Houston Astros (Local)
-- **Estadística base YRFI:** 36.7% (29/79 partidos)
+### Cincinnati Reds (Local)
+- **Estadística base YRFI:** 27.5% (22/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Grant Holmes):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 39.8%
+- **Impacto del lanzador visitante (Chicago Cubs - David Peterson):** 100.0% (2/2 partidos)
+- **Puntuación ajustada:** 50.9%
 
-### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 25.0% (19/76 partidos)
+### Chicago Cubs (Visitante)
+- **Estadística base YRFI:** 16.9% (13/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Houston Astros - Hayden Wesneski):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Impacto del lanzador local (Cincinnati Reds - Rhett Lowder):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 22.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

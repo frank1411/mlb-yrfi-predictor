@@ -1,25 +1,25 @@
 # Análisis YRFI: New York Yankees @ Arizona Diamondbacks
 
 **Fecha:** 2026-09-20  
-**Lanzadores:** Cam Schlittler (V) vs Brandon Pfaadt (L)
+**Lanzadores:** Will Warren (V) vs Corbin Burnes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.9%
+**Probabilidad de que anoten en la primera entrada:** 32.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Arizona Diamondbacks (Local)
-- **Estadística base YRFI:** 30.4% (24/79 partidos)
+- **Estadística base YRFI:** 30.0% (24/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 20.6%
+- **Impacto del lanzador visitante (New York Yankees - Will Warren):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 14.5%
 
 ### New York Yankees (Visitante)
-- **Estadística base YRFI:** 24.1% (19/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Arizona Diamondbacks - Brandon Pfaadt):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 38.2%
+- **Estadística base YRFI:** 23.8% (19/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Arizona Diamondbacks - Corbin Burnes):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

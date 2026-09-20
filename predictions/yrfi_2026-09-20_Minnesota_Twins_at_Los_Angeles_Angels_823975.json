@@ -1,18 +1,18 @@
 {
-  "game_pk": 823976,
+  "game_pk": 823975,
   "game_date": "2026-09-20",
   "home_team": {
     "id": "108",
     "name": "Los Angeles Angels",
     "pitcher": {
-      "name": "Reid Detmers",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Ryan Johnson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 40.50632911392405,
-        "ratio": "32/79"
+        "value": 40.0,
+        "ratio": "32/80"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "142",
     "name": "Minnesota Twins",
-    "combined_yrfi_pct": 31.19,
+    "combined_yrfi_pct": 30.93,
     "pitcher": {
-      "name": "Joe Ryan",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "2/4"
+      "name": "Dean Kremer",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
     },
     "stats": {
       "base": {
-        "value": 34.21052631578947,
-        "ratio": "26/76"
+        "value": 33.76623376623377,
+        "ratio": "26/77"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 40.50632911392405,
+        "base": 40.0,
         "tendency": 26.666666666666668,
-        "combined": 34.97,
-        "pitcher_impact": 50.0,
-        "adjusted": 39.48
+        "combined": 34.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.27
       },
       "away_team": {
-        "base": 34.21052631578947,
+        "base": 33.76623376623377,
         "tendency": 26.666666666666668,
-        "combined": 31.19,
-        "pitcher_impact": 25.0,
-        "adjusted": 29.34
+        "combined": 30.93,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.65
       },
-      "game_yrfi_probability": 57.24
+      "game_yrfi_probability": 40.67
     },
-    "yrfi_probability": 57.24
+    "yrfi_probability": 40.67
   },
   "metadata": {
-    "generated_at": "2026-09-19T16:54:03.927018",
+    "generated_at": "2026-09-20T17:06:45.364598",
     "data_source": "season_data.json"
   }
 }

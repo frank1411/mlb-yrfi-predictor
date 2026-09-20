@@ -1,0 +1,67 @@
+{
+  "game_pk": 823001,
+  "game_date": "2026-09-20",
+  "home_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "pitcher": {
+      "name": "Quinn Mathews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 26.25,
+        "ratio": "21/80"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "combined_yrfi_pct": 26.25,
+    "pitcher": {
+      "name": "Jake Irvin",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 25.97402597402597,
+        "ratio": "20/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.25,
+        "tendency": 20.0,
+        "combined": 23.75,
+        "pitcher_impact": 50.0,
+        "adjusted": 31.62
+      },
+      "away_team": {
+        "base": 25.97402597402597,
+        "tendency": 26.666666666666668,
+        "combined": 26.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.38
+      },
+      "game_yrfi_probability": 44.19
+    },
+    "yrfi_probability": 44.19
+  },
+  "metadata": {
+    "generated_at": "2026-09-20T17:06:45.349731",
+    "data_source": "season_data.json"
+  }
+}

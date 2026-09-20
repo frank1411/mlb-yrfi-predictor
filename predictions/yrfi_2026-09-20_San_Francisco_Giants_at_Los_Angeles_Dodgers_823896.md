@@ -1,25 +1,25 @@
 # Análisis YRFI: San Francisco Giants @ Los Angeles Dodgers
 
 **Fecha:** 2026-09-20  
-**Lanzadores:** Yunior Marte (V) vs Tarik Skubal (L)
+**Lanzadores:** Matt Wilkinson (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 44.0%
+**Probabilidad de que anoten en la primera entrada:** 55.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.8% (28/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Francisco Giants - Yunior Marte):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.8%
+- **Estadística base YRFI:** 37.7% (29/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (San Francisco Giants - Matt Wilkinson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.0%
 
 ### San Francisco Giants (Visitante)
-- **Estadística base YRFI:** 25.3% (20/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 53.3% (8/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Tarik Skubal):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Estadística base YRFI:** 25.0% (20/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 38.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

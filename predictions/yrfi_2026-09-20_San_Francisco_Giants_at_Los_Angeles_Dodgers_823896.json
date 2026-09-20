@@ -1,0 +1,67 @@
+{
+  "game_pk": 823896,
+  "game_date": "2026-09-20",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 37.66233766233766,
+        "ratio": "29/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "combined_yrfi_pct": 33.67,
+    "pitcher": {
+      "name": "Matt Wilkinson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 25.0,
+        "ratio": "20/80"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.66233766233766,
+        "tendency": 40.0,
+        "combined": 38.6,
+        "pitcher_impact": 0.0,
+        "adjusted": 27.02
+      },
+      "away_team": {
+        "base": 25.0,
+        "tendency": 46.666666666666664,
+        "combined": 33.67,
+        "pitcher_impact": 50.0,
+        "adjusted": 38.57
+      },
+      "game_yrfi_probability": 55.17
+    },
+    "yrfi_probability": 55.17
+  },
+  "metadata": {
+    "generated_at": "2026-09-20T17:06:45.368829",
+    "data_source": "season_data.json"
+  }
+}

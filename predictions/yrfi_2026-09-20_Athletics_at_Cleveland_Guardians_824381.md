@@ -1,25 +1,25 @@
-# Análisis YRFI: Philadelphia Phillies @ New York Mets
+# Análisis YRFI: Athletics @ Cleveland Guardians
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Andrew Painter (V) vs Christian Scott (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** Jack Perkins (V) vs Gavin Williams (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 64.9%
+**Probabilidad de que anoten en la primera entrada:** 42.2%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Mets (Local)
-- **Estadística base YRFI:** 31.6% (25/79 partidos)
+### Cleveland Guardians (Local)
+- **Estadística base YRFI:** 32.5% (26/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Philadelphia Phillies - Andrew Painter):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador visitante (Athletics - Jack Perkins):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 26.7%
 
-### Philadelphia Phillies (Visitante)
-- **Estadística base YRFI:** 26.6% (21/79 partidos)
+### Athletics (Visitante)
+- **Estadística base YRFI:** 23.8% (19/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (New York Mets - Christian Scott):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 52.4%
+- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 21.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

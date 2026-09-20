@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago Cubs @ Cincinnati Reds
+# Análisis YRFI: Boston Red Sox @ Tampa Bay Rays
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Matthew Boyd (V) vs Nick Lodolo (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** Patrick Sandoval (V) vs Griffin Jax (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 58.2%
+**Probabilidad de que anoten en la primera entrada:** 36.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cincinnati Reds (Local)
-- **Estadística base YRFI:** 27.8% (22/79 partidos)
+### Tampa Bay Rays (Local)
+- **Estadística base YRFI:** 35.0% (28/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 51.0%
+- **Impacto del lanzador visitante (Boston Red Sox - Patrick Sandoval):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.0%
 
-### Chicago Cubs (Visitante)
-- **Estadística base YRFI:** 17.1% (13/76 partidos)
+### Boston Red Sox (Visitante)
+- **Estadística base YRFI:** 22.5% (18/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Cincinnati Reds - Nick Lodolo):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 14.7%
+- **Impacto del lanzador local (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 16.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

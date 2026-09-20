@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ St. Louis Cardinals
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Andrew Alvarez (V) vs Michael McGreevy (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** Jake Irvin (V) vs Quinn Mathews (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.4%
+**Probabilidad de que anoten en la primera entrada:** 44.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### St. Louis Cardinals (Local)
-- **Estadística base YRFI:** 26.6% (21/79 partidos)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - Andrew Alvarez):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.8%
+- **Impacto del lanzador visitante (Washington Nationals - Jake Irvin):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 31.6%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.0% (19/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (St. Louis Cardinals - Michael McGreevy):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 23.6%
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (St. Louis Cardinals - Quinn Mathews):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Kansas City Royals @ Pittsburgh Pirates
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Noah Cameron (V) vs Bubba Chandler (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** Michael Wacha (V) vs Lake Bachar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.2%
+**Probabilidad de que anoten en la primera entrada:** 39.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 31.6% (24/76 partidos)
+- **Estadística base YRFI:** 31.2% (24/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Kansas City Royals - Noah Cameron):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.7%
+- **Impacto del lanzador visitante (Kansas City Royals - Michael Wacha):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 20.6%
 
 ### Kansas City Royals (Visitante)
-- **Estadística base YRFI:** 29.1% (23/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 25.3%
+- **Estadística base YRFI:** 28.7% (23/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (Pittsburgh Pirates - Lake Bachar):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

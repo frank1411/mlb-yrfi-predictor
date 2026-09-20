@@ -1,0 +1,67 @@
+{
+  "game_pk": 824546,
+  "game_date": "2026-09-20",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 32.05128205128205,
+        "ratio": "25/78"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "116",
+    "name": "Detroit Tigers",
+    "combined_yrfi_pct": 46.08,
+    "pitcher": {
+      "name": "Troy Melton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 41.25,
+        "ratio": "33/80"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.05128205128205,
+        "tendency": 40.0,
+        "combined": 35.23,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.66
+      },
+      "away_team": {
+        "base": 41.25,
+        "tendency": 53.333333333333336,
+        "combined": 46.08,
+        "pitcher_impact": 0.0,
+        "adjusted": 32.26
+      },
+      "game_yrfi_probability": 48.96
+    },
+    "yrfi_probability": 48.96
+  },
+  "metadata": {
+    "generated_at": "2026-09-20T17:06:45.344852",
+    "data_source": "season_data.json"
+  }
+}

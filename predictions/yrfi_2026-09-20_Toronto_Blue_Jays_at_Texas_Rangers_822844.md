@@ -1,25 +1,25 @@
-# Análisis YRFI: Boston Red Sox @ Tampa Bay Rays
+# Análisis YRFI: Toronto Blue Jays @ Texas Rangers
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Brayan Bello (V) vs Freddy Peralta (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** Spencer Miles (V) vs Jacob deGrom (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.2%
+**Probabilidad de que anoten en la primera entrada:** 50.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
-- **Estadística base YRFI:** 35.4% (28/79 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 31.2% (24/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Boston Red Sox - Brayan Bello):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 39.2%
+- **Impacto del lanzador visitante (Toronto Blue Jays - Spencer Miles):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 22.4%
 
-### Boston Red Sox (Visitante)
-- **Estadística base YRFI:** 22.8% (18/79 partidos)
+### Toronto Blue Jays (Visitante)
+- **Estadística base YRFI:** 22.1% (17/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Freddy Peralta):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 23.0%
+- **Impacto del lanzador local (Texas Rangers - Jacob deGrom):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 36.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

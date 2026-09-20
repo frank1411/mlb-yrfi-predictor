@@ -1,0 +1,67 @@
+{
+  "game_pk": 825028,
+  "game_date": "2026-09-20",
+  "home_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "pitcher": {
+      "name": "Corbin Burnes",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 30.0,
+        "ratio": "24/80"
+      },
+      "tendency": {
+        "value": 6.666666666666667,
+        "ratio": "1/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "combined_yrfi_pct": 30.25,
+    "pitcher": {
+      "name": "Will Warren",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 23.75,
+        "ratio": "19/80"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 30.0,
+        "tendency": 6.666666666666667,
+        "combined": 20.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 14.47
+      },
+      "away_team": {
+        "base": 23.75,
+        "tendency": 40.0,
+        "combined": 30.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.17
+      },
+      "game_yrfi_probability": 32.58
+    },
+    "yrfi_probability": 32.58
+  },
+  "metadata": {
+    "generated_at": "2026-09-20T17:06:45.378602",
+    "data_source": "season_data.json"
+  }
+}

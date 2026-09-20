@@ -1,25 +1,25 @@
 # Análisis YRFI: Miami Marlins @ San Diego Padres
 
 **Fecha:** 2026-09-20  
-**Lanzadores:** Eury Pérez (V) vs Casey Mize (L)
+**Lanzadores:** Sandy Alcantara (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 41.7%
+**Probabilidad de que anoten en la primera entrada:** 38.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 22.4% (17/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Miami Marlins - Eury Pérez):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 32.5%
+- **Estadística base YRFI:** 22.1% (17/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador visitante (Miami Marlins - Sandy Alcantara):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.5%
 
 ### Miami Marlins (Visitante)
-- **Estadística base YRFI:** 23.7% (18/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Casey Mize):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 13.7%
+- **Estadística base YRFI:** 23.4% (18/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 6.7% (1/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 11.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

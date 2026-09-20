@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ Baltimore Orioles
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Robert Gasser (V) vs Trevor Rogers (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** Jacob Misiorowski (V) vs Brandon Young (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 32.6%
+**Probabilidad de que anoten en la primera entrada:** 50.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Baltimore Orioles (Local)
-- **Estadística base YRFI:** 21.1% (16/76 partidos)
+- **Estadística base YRFI:** 20.8% (16/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Robert Gasser):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 16.3%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Jacob Misiorowski):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 26.2%
 
 ### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 19.7% (15/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Baltimore Orioles - Trevor Rogers):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 19.5%
+- **Estadística base YRFI:** 19.5% (15/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Baltimore Orioles - Brandon Young):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 32.5%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
-# Análisis YRFI: Athletics @ Cleveland Guardians
+# Análisis YRFI: Philadelphia Phillies @ New York Mets
 
-**Fecha:** 2026-09-19  
-**Lanzadores:** Jacob Lopez (V) vs Tanner Bibee (L)
+**Fecha:** 2026-09-20  
+**Lanzadores:** Cristopher Sánchez (V) vs Jonah Tong (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 59.1%
+**Probabilidad de que anoten en la primera entrada:** 51.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Cleveland Guardians (Local)
-- **Estadística base YRFI:** 31.6% (25/79 partidos)
+### New York Mets (Local)
+- **Estadística base YRFI:** 31.2% (25/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Athletics - Jacob Lopez):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 44.5%
+- **Impacto del lanzador visitante (Philadelphia Phillies - Cristopher Sánchez):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 39.3%
 
-### Athletics (Visitante)
-- **Estadística base YRFI:** 22.8% (18/79 partidos)
+### Philadelphia Phillies (Visitante)
+- **Estadística base YRFI:** 26.2% (21/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Tanner Bibee):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 26.4%
+- **Impacto del lanzador local (New York Mets - Jonah Tong):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-19 16:54:03
+- **Generado el:** 2026-09-20 17:06:45
 - **Fuente de datos:** season_data.json
