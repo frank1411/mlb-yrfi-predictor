@@ -1,0 +1,67 @@
+{
+  "game_pk": 824867,
+  "game_date": "2026-09-22",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "JR Ritchie",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 35.8974358974359,
+        "ratio": "28/78"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "113",
+    "name": "Cincinnati Reds",
+    "combined_yrfi_pct": 25.87,
+    "pitcher": {
+      "name": "Brandon Williamson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.333333333333336,
+        "ratio": "19/75"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.8974358974359,
+        "tendency": 20.0,
+        "combined": 29.54,
+        "pitcher_impact": 0.0,
+        "adjusted": 20.68
+      },
+      "away_team": {
+        "base": 25.333333333333336,
+        "tendency": 26.666666666666668,
+        "combined": 25.87,
+        "pitcher_impact": 0.0,
+        "adjusted": 18.11
+      },
+      "game_yrfi_probability": 35.04
+    },
+    "yrfi_probability": 35.04
+  },
+  "metadata": {
+    "generated_at": "2026-09-22T17:50:00.198632",
+    "data_source": "season_data.json"
+  }
+}

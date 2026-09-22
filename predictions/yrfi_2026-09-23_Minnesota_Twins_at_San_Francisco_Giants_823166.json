@@ -1,0 +1,67 @@
+{
+  "game_pk": 823166,
+  "game_date": "2026-09-23",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Anthony Molina",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.89473684210527,
+        "ratio": "25/76"
+      },
+      "tendency": {
+        "value": 60.0,
+        "ratio": "9/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "142",
+    "name": "Minnesota Twins",
+    "combined_yrfi_pct": 30.41,
+    "pitcher": {
+      "name": "Taj Bradley",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "2/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.91139240506329,
+        "ratio": "26/79"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.89473684210527,
+        "tendency": 60.0,
+        "combined": 43.74,
+        "pitcher_impact": 50.0,
+        "adjusted": 45.62
+      },
+      "away_team": {
+        "base": 32.91139240506329,
+        "tendency": 26.666666666666668,
+        "combined": 30.41,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.29
+      },
+      "game_yrfi_probability": 57.2
+    },
+    "yrfi_probability": 57.2
+  },
+  "metadata": {
+    "generated_at": "2026-09-22T17:50:00.233296",
+    "data_source": "season_data.json"
+  }
+}

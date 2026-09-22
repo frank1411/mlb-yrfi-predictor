@@ -1,0 +1,67 @@
+{
+  "game_pk": 824302,
+  "game_date": "2026-09-23",
+  "home_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "pitcher": {
+      "name": "Kyle Freeland",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 44.871794871794876,
+        "ratio": "35/78"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 19.73,
+    "pitcher": {
+      "name": "Michael Soroka",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 24.0,
+        "ratio": "18/75"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 44.871794871794876,
+        "tendency": 40.0,
+        "combined": 42.92,
+        "pitcher_impact": 100.0,
+        "adjusted": 60.05
+      },
+      "away_team": {
+        "base": 24.0,
+        "tendency": 13.333333333333334,
+        "combined": 19.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 13.81
+      },
+      "game_yrfi_probability": 65.57
+    },
+    "yrfi_probability": 65.57
+  },
+  "metadata": {
+    "generated_at": "2026-09-22T17:50:00.218581",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 824709,
+  "game_date": "2026-09-22",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Payton Tolle",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 28.000000000000004,
+        "ratio": "21/75"
+      },
+      "tendency": {
+        "value": 20.0,
+        "ratio": "3/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "114",
+    "name": "Cleveland Guardians",
+    "combined_yrfi_pct": 33.87,
+    "pitcher": {
+      "name": "Parker Messick",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 25.333333333333336,
+        "ratio": "19/75"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 28.000000000000004,
+        "tendency": 20.0,
+        "combined": 24.8,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.36
+      },
+      "away_team": {
+        "base": 25.333333333333336,
+        "tendency": 46.666666666666664,
+        "combined": 33.87,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.71
+      },
+      "game_yrfi_probability": 36.95
+    },
+    "yrfi_probability": 36.95
+  },
+  "metadata": {
+    "generated_at": "2026-09-22T17:50:00.193747",
+    "data_source": "season_data.json"
+  }
+}

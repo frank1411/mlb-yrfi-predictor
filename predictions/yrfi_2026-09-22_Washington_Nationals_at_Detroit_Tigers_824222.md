@@ -1,25 +1,25 @@
 # Análisis YRFI: Washington Nationals @ Detroit Tigers
 
-**Fecha:** 2026-09-21  
-**Lanzadores:** DJ Herz (V) vs River Ryan (L)
+**Fecha:** 2026-09-22  
+**Lanzadores:** Riley Cornelio (V) vs Drew Anderson (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 38.1%
+**Probabilidad de que anoten en la primera entrada:** 38.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.7% (20/75 partidos)
+- **Estadística base YRFI:** 27.6% (21/76 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
-- **Impacto del lanzador visitante (Washington Nationals - DJ Herz):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.3%
+- **Impacto del lanzador visitante (Washington Nationals - Riley Cornelio):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.7%
 
 ### Washington Nationals (Visitante)
-- **Estadística base YRFI:** 25.6% (20/78 partidos)
+- **Estadística base YRFI:** 25.3% (20/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - River Ryan):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.2%
+- **Impacto del lanzador local (Detroit Tigers - Drew Anderson):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 18.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-21 18:59:12
+- **Generado el:** 2026-09-22 17:50:00
 - **Fuente de datos:** season_data.json
