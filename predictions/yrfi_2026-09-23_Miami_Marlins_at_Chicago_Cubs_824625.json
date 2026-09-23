@@ -1,0 +1,67 @@
+{
+  "game_pk": 824625,
+  "game_date": "2026-09-23",
+  "home_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "pitcher": {
+      "name": "Kevin Gausman",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 36.708860759493675,
+        "ratio": "29/79"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "146",
+    "name": "Miami Marlins",
+    "combined_yrfi_pct": 13.67,
+    "pitcher": {
+      "name": "Ryan Gusto",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 22.78481012658228,
+        "ratio": "18/79"
+      },
+      "tendency": {
+        "value": 0.0,
+        "ratio": "0/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.708860759493675,
+        "tendency": 26.666666666666668,
+        "combined": 32.69,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.88
+      },
+      "away_team": {
+        "base": 22.78481012658228,
+        "tendency": 0.0,
+        "combined": 13.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 9.57
+      },
+      "game_yrfi_probability": 30.26
+    },
+    "yrfi_probability": 30.26
+  },
+  "metadata": {
+    "generated_at": "2026-09-23T18:03:55.461550",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823894,
+  "game_date": "2026-09-24",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 36.708860759493675,
+        "ratio": "29/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 32.71,
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.848101265822784,
+        "ratio": "22/79"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.708860759493675,
+        "tendency": 33.33333333333333,
+        "combined": 35.36,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.75
+      },
+      "away_team": {
+        "base": 27.848101265822784,
+        "tendency": 40.0,
+        "combined": 32.71,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.4
+      },
+      "game_yrfi_probability": 47.63
+    },
+    "yrfi_probability": 47.63
+  },
+  "metadata": {
+    "generated_at": "2026-09-23T18:03:55.481420",
+    "data_source": "season_data.json"
+  }
+}

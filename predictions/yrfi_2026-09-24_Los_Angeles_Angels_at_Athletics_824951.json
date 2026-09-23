@@ -1,0 +1,67 @@
+{
+  "game_pk": 824951,
+  "game_date": "2026-09-24",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Jeffrey Springs",
+      "yrfi_allowed": 75.0,
+      "yrfi_ratio": "3/4"
+    },
+    "stats": {
+      "base": {
+        "value": 32.89473684210527,
+        "ratio": "25/76"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 29.91,
+    "pitcher": {
+      "name": "Walbert Ureña",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.631578947368425,
+        "ratio": "21/76"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.89473684210527,
+        "tendency": 33.33333333333333,
+        "combined": 33.07,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.15
+      },
+      "away_team": {
+        "base": 27.631578947368425,
+        "tendency": 33.33333333333333,
+        "combined": 29.91,
+        "pitcher_impact": 75.0,
+        "adjusted": 43.44
+      },
+      "game_yrfi_probability": 56.53
+    },
+    "yrfi_probability": 56.53
+  },
+  "metadata": {
+    "generated_at": "2026-09-23T18:03:55.476432",
+    "data_source": "season_data.json"
+  }
+}
