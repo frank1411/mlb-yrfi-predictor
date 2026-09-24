@@ -1,0 +1,67 @@
+{
+  "game_pk": 824950,
+  "game_date": "2026-09-25",
+  "home_team": {
+    "id": "133",
+    "name": "Athletics",
+    "pitcher": {
+      "name": "Mason Barnett",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.76623376623377,
+        "ratio": "26/77"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 34.46,
+    "pitcher": {
+      "name": "Peter Lambert",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 30.76923076923077,
+        "ratio": "24/78"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.76623376623377,
+        "tendency": 40.0,
+        "combined": 36.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.38
+      },
+      "away_team": {
+        "base": 30.76923076923077,
+        "tendency": 40.0,
+        "combined": 34.46,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.12
+      },
+      "game_yrfi_probability": 43.38
+    },
+    "yrfi_probability": 43.38
+  },
+  "metadata": {
+    "generated_at": "2026-09-24T18:03:23.605825",
+    "data_source": "season_data.json"
+  }
+}

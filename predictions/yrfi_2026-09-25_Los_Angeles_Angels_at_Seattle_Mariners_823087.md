@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Mets @ Texas Rangers
+# Análisis YRFI: Los Angeles Angels @ Seattle Mariners
 
-**Fecha:** 2026-09-24  
-**Lanzadores:** Nolan McLean (V) vs Cody Bradford (L)
+**Fecha:** 2026-09-25  
+**Lanzadores:** Grayson Rodriguez (V) vs Bryan Woo (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 54.2%
+**Probabilidad de que anoten en la primera entrada:** 46.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Texas Rangers (Local)
-- **Estadística base YRFI:** 30.4% (24/79 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 32.5% (25/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (New York Mets - Nolan McLean):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 42.1%
+- **Impacto del lanzador visitante (Los Angeles Angels - Grayson Rodriguez):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.0%
 
-### New York Mets (Visitante)
-- **Estadística base YRFI:** 27.6% (21/76 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Texas Rangers - Cody Bradford):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador local (Seattle Mariners - Bryan Woo):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-23 18:03:55
+- **Generado el:** 2026-09-24 18:03:23
 - **Fuente de datos:** season_data.json

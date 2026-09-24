@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago White Sox @ Kansas City Royals
 
-**Fecha:** 2026-09-23  
-**Lanzadores:** Bryan Hudson (V) vs Seth Lugo (L)
+**Fecha:** 2026-09-24  
+**Lanzadores:** David Sandlin (V) vs Randy Dobnak (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 48.4%
+**Probabilidad de que anoten en la primera entrada:** 43.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Kansas City Royals (Local)
-- **Estadística base YRFI:** 34.2% (26/76 partidos)
+- **Estadística base YRFI:** 35.1% (27/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - Bryan Hudson):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.6%
+- **Impacto del lanzador visitante (Chicago White Sox - David Sandlin):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 25.9%
 
 ### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 32.9% (26/79 partidos)
+- **Estadística base YRFI:** 32.5% (26/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Seth Lugo):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 30.7%
+- **Impacto del lanzador local (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 23.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-23 18:03:55
+- **Generado el:** 2026-09-24 18:03:23
 - **Fuente de datos:** season_data.json

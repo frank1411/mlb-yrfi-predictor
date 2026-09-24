@@ -1,18 +1,18 @@
 {
-  "game_pk": 822841,
+  "game_pk": 822842,
   "game_date": "2026-09-24",
   "home_team": {
     "id": "140",
     "name": "Texas Rangers",
     "pitcher": {
-      "name": "Cody Bradford",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "name": "Kumar Rocker",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "3/3"
     },
     "stats": {
       "base": {
-        "value": 30.37974683544304,
-        "ratio": "24/79"
+        "value": 30.0,
+        "ratio": "24/80"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,16 +23,16 @@
   "away_team": {
     "id": "121",
     "name": "New York Mets",
-    "combined_yrfi_pct": 29.91,
+    "combined_yrfi_pct": 29.7,
     "pitcher": {
-      "name": "Nolan McLean",
-      "yrfi_allowed": 66.66666666666666,
-      "yrfi_ratio": "2/3"
+      "name": "Zac Thornton",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 27.631578947368425,
-        "ratio": "21/76"
+        "value": 27.27272727272727,
+        "ratio": "21/77"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 30.37974683544304,
+        "base": 30.0,
         "tendency": 33.33333333333333,
-        "combined": 31.56,
-        "pitcher_impact": 66.66666666666666,
-        "adjusted": 42.09
+        "combined": 31.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.93
       },
       "away_team": {
-        "base": 27.631578947368425,
+        "base": 27.27272727272727,
         "tendency": 33.33333333333333,
-        "combined": 29.91,
-        "pitcher_impact": 0.0,
-        "adjusted": 20.94
+        "combined": 29.7,
+        "pitcher_impact": 100.0,
+        "adjusted": 50.79
       },
-      "game_yrfi_probability": 54.22
+      "game_yrfi_probability": 61.58
     },
-    "yrfi_probability": 54.22
+    "yrfi_probability": 61.58
   },
   "metadata": {
-    "generated_at": "2026-09-23T18:03:55.466383",
+    "generated_at": "2026-09-24T18:03:23.575506",
     "data_source": "season_data.json"
   }
 }

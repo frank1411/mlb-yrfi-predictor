@@ -1,25 +1,25 @@
 # Análisis YRFI: Cincinnati Reds @ Atlanta Braves
 
-**Fecha:** 2026-09-23  
-**Lanzadores:** Andrew Abbott (V) vs Chris Sale (L)
+**Fecha:** 2026-09-24  
+**Lanzadores:** Brady Singer (V) vs Tyler Mahle (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.9%
+**Probabilidad de que anoten en la primera entrada:** 56.5%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
-- **Estadística base YRFI:** 35.4% (28/79 partidos)
+- **Estadística base YRFI:** 35.0% (28/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Cincinnati Reds - Andrew Abbott):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 35.5%
+- **Impacto del lanzador visitante (Cincinnati Reds - Brady Singer):** 75.0% (3/4 partidos)
+- **Puntuación ajustada:** 42.8%
 
 ### Cincinnati Reds (Visitante)
-- **Estadística base YRFI:** 25.0% (19/76 partidos)
+- **Estadística base YRFI:** 26.0% (20/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 16.1%
+- **Impacto del lanzador local (Atlanta Braves - Tyler Mahle):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 24.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-23 18:03:55
+- **Generado el:** 2026-09-24 18:03:23
 - **Fuente de datos:** season_data.json

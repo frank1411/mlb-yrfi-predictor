@@ -1,0 +1,67 @@
+{
+  "game_pk": 823411,
+  "game_date": "2026-09-24",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Andrew Painter",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 37.66233766233766,
+        "ratio": "29/77"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "combined_yrfi_pct": 25.33,
+    "pitcher": {
+      "name": "Shane Drohan",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 20.0,
+        "ratio": "16/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 37.66233766233766,
+        "tendency": 26.666666666666668,
+        "combined": 33.26,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.28
+      },
+      "away_team": {
+        "base": 20.0,
+        "tendency": 33.33333333333333,
+        "combined": 25.33,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.73
+      },
+      "game_yrfi_probability": 36.88
+    },
+    "yrfi_probability": 36.88
+  },
+  "metadata": {
+    "generated_at": "2026-09-24T18:03:23.585710",
+    "data_source": "season_data.json"
+  }
+}

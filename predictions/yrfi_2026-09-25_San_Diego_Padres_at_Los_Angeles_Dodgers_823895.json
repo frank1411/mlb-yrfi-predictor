@@ -1,0 +1,67 @@
+{
+  "game_pk": 823895,
+  "game_date": "2026-09-25",
+  "home_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "pitcher": {
+      "name": "Tyler Glasnow",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 36.25,
+        "ratio": "29/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 29.83,
+    "pitcher": {
+      "name": "Nick Pivetta",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.500000000000004,
+        "ratio": "22/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.25,
+        "tendency": 33.33333333333333,
+        "combined": 35.08,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.56
+      },
+      "away_team": {
+        "base": 27.500000000000004,
+        "tendency": 33.33333333333333,
+        "combined": 29.83,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 30.88
+      },
+      "game_yrfi_probability": 47.86
+    },
+    "yrfi_probability": 47.86
+  },
+  "metadata": {
+    "generated_at": "2026-09-24T18:03:23.615932",
+    "data_source": "season_data.json"
+  }
+}

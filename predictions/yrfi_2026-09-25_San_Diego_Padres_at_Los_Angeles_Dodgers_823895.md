@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Philadelphia Phillies
+# Análisis YRFI: San Diego Padres @ Los Angeles Dodgers
 
-**Fecha:** 2026-09-23  
-**Lanzadores:** Logan Henderson (V) vs Aaron Nola (L)
+**Fecha:** 2026-09-25  
+**Lanzadores:** Nick Pivetta (V) vs Tyler Glasnow (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.5%
+**Probabilidad de que anoten en la primera entrada:** 47.9%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 38.2% (29/76 partidos)
+### Los Angeles Dodgers (Local)
+- **Estadística base YRFI:** 36.2% (29/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Logan Henderson):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.4%
+- **Impacto del lanzador visitante (San Diego Padres - Nick Pivetta):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 24.6%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 19.0% (15/79 partidos)
+### San Diego Padres (Visitante)
+- **Estadística base YRFI:** 27.5% (22/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Aaron Nola):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 32.3%
+- **Impacto del lanzador local (Los Angeles Dodgers - Tyler Glasnow):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 30.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-23 18:03:55
+- **Generado el:** 2026-09-24 18:03:23
 - **Fuente de datos:** season_data.json

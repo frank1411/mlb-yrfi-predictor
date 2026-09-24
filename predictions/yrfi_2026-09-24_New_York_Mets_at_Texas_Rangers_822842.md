@@ -1,25 +1,25 @@
-# Análisis YRFI: Los Angeles Angels @ Athletics
+# Análisis YRFI: New York Mets @ Texas Rangers
 
 **Fecha:** 2026-09-24  
-**Lanzadores:** Walbert Ureña (V) vs Jeffrey Springs (L)
+**Lanzadores:** Zac Thornton (V) vs Kumar Rocker (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 56.5%
+**Probabilidad de que anoten en la primera entrada:** 61.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Athletics (Local)
-- **Estadística base YRFI:** 32.9% (25/76 partidos)
+### Texas Rangers (Local)
+- **Estadística base YRFI:** 30.0% (24/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Angels - Walbert Ureña):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 23.1%
+- **Impacto del lanzador visitante (New York Mets - Zac Thornton):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 21.9%
 
-### Los Angeles Angels (Visitante)
-- **Estadística base YRFI:** 27.6% (21/76 partidos)
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Athletics - Jeffrey Springs):** 75.0% (3/4 partidos)
-- **Puntuación ajustada:** 43.4%
+- **Impacto del lanzador local (Texas Rangers - Kumar Rocker):** 100.0% (3/3 partidos)
+- **Puntuación ajustada:** 50.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-23 18:03:55
+- **Generado el:** 2026-09-24 18:03:23
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Pittsburgh Pirates
 
-**Fecha:** 2026-09-23  
-**Lanzadores:** Matthew Liberatore (V) vs Lake Bachar (L)
+**Fecha:** 2026-09-24  
+**Lanzadores:** Kyle Leahy (V) vs Paul Skenes (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.3%
+**Probabilidad de que anoten en la primera entrada:** 46.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Pittsburgh Pirates (Local)
-- **Estadística base YRFI:** 30.4% (24/79 partidos)
+- **Estadística base YRFI:** 30.0% (24/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Matthew Liberatore):** 50.0% (1/2 partidos)
-- **Puntuación ajustada:** 33.4%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Kyle Leahy):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 18.2%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 32.9% (25/76 partidos)
+- **Estadística base YRFI:** 32.5% (25/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Pittsburgh Pirates - Lake Bachar):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.4%
+- **Impacto del lanzador local (Pittsburgh Pirates - Paul Skenes):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 34.2%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-23 18:03:55
+- **Generado el:** 2026-09-24 18:03:23
 - **Fuente de datos:** season_data.json

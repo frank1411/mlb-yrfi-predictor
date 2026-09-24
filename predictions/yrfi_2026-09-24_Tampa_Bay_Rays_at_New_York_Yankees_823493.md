@@ -1,25 +1,25 @@
 # Análisis YRFI: Tampa Bay Rays @ New York Yankees
 
-**Fecha:** 2026-09-23  
-**Lanzadores:** Mason Englert (V) vs Gerrit Cole (L)
+**Fecha:** 2026-09-24  
+**Lanzadores:** Ian Seymour (V) vs Cam Schlittler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.7%
+**Probabilidad de que anoten en la primera entrada:** 42.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### New York Yankees (Local)
-- **Estadística base YRFI:** 32.9% (25/76 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Mason Englert):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 25.0%
+- **Estadística base YRFI:** 33.8% (26/77 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Ian Seymour):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 27.2%
 
 ### Tampa Bay Rays (Visitante)
-- **Estadística base YRFI:** 27.6% (21/76 partidos)
+- **Estadística base YRFI:** 27.3% (21/77 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Gerrit Cole):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador local (New York Yankees - Cam Schlittler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-23 18:03:55
+- **Generado el:** 2026-09-24 18:03:23
 - **Fuente de datos:** season_data.json
