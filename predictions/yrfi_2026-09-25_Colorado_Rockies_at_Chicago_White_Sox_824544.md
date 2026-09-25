@@ -1,25 +1,25 @@
-# Análisis YRFI: Chicago White Sox @ Kansas City Royals
+# Análisis YRFI: Colorado Rockies @ Chicago White Sox
 
-**Fecha:** 2026-09-24  
-**Lanzadores:** David Sandlin (V) vs Randy Dobnak (L)
+**Fecha:** 2026-09-25  
+**Lanzadores:** Tomoyuki Sugano (V) vs Sean Burke (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.0%
+**Probabilidad de que anoten en la primera entrada:** 37.6%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 35.1% (27/77 partidos)
+### Chicago White Sox (Local)
+- **Estadística base YRFI:** 31.6% (25/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Chicago White Sox - David Sandlin):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 25.9%
+- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 24.5%
 
-### Chicago White Sox (Visitante)
-- **Estadística base YRFI:** 32.5% (26/80 partidos)
+### Colorado Rockies (Visitante)
+- **Estadística base YRFI:** 19.2% (15/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Randy Dobnak):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 23.0%
+- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-24 18:03:23
+- **Generado el:** 2026-09-25 18:08:55
 - **Fuente de datos:** season_data.json

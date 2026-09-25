@@ -1,0 +1,67 @@
+{
+  "game_pk": 823167,
+  "game_date": "2026-09-26",
+  "home_team": {
+    "id": "137",
+    "name": "San Francisco Giants",
+    "pitcher": {
+      "name": "Yunior Marte",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.05128205128205,
+        "ratio": "25/78"
+      },
+      "tendency": {
+        "value": 53.333333333333336,
+        "ratio": "8/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 27.95,
+    "pitcher": {
+      "name": "Tarik Skubal",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 24.358974358974358,
+        "ratio": "19/78"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.05128205128205,
+        "tendency": 53.333333333333336,
+        "combined": 40.56,
+        "pitcher_impact": 40.0,
+        "adjusted": 40.39
+      },
+      "away_team": {
+        "base": 24.358974358974358,
+        "tendency": 33.33333333333333,
+        "combined": 27.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.56
+      },
+      "game_yrfi_probability": 52.05
+    },
+    "yrfi_probability": 52.05
+  },
+  "metadata": {
+    "generated_at": "2026-09-25T18:08:55.176109",
+    "data_source": "season_data.json"
+  }
+}

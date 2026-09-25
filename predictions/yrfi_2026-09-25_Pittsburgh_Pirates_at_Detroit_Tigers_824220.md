@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ Colorado Rockies
+# Análisis YRFI: Pittsburgh Pirates @ Detroit Tigers
 
-**Fecha:** 2026-09-24  
-**Lanzadores:** Eduardo Rodriguez (V) vs Tanner Gordon (L)
+**Fecha:** 2026-09-25  
+**Lanzadores:** Bubba Chandler (V) vs Jackson Jobe (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 53.2%
+**Probabilidad de que anoten en la primera entrada:** 36.8%
 
 ## 🔍 Explicación de los Cálculos
 
-### Colorado Rockies (Local)
-- **Estadística base YRFI:** 43.8% (35/80 partidos)
+### Detroit Tigers (Local)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Eduardo Rodriguez):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 42.7%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 20.6%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 26.0% (20/77 partidos)
+### Pittsburgh Pirates (Visitante)
+- **Estadística base YRFI:** 30.8% (24/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Colorado Rockies - Tanner Gordon):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 18.4%
+- **Impacto del lanzador local (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-24 18:03:23
+- **Generado el:** 2026-09-25 18:08:55
 - **Fuente de datos:** season_data.json

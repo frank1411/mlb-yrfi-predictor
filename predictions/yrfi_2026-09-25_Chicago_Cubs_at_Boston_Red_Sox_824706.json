@@ -1,0 +1,67 @@
+{
+  "game_pk": 824706,
+  "game_date": "2026-09-25",
+  "home_team": {
+    "id": "111",
+    "name": "Boston Red Sox",
+    "pitcher": {
+      "name": "Brayan Bello",
+      "yrfi_allowed": 50.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 26.923076923076923,
+        "ratio": "21/78"
+      },
+      "tendency": {
+        "value": 13.333333333333334,
+        "ratio": "2/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 21.44,
+    "pitcher": {
+      "name": "David Peterson",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
+    },
+    "stats": {
+      "base": {
+        "value": 17.94871794871795,
+        "ratio": "14/78"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 26.923076923076923,
+        "tendency": 13.333333333333334,
+        "combined": 21.49,
+        "pitcher_impact": 100.0,
+        "adjusted": 45.04
+      },
+      "away_team": {
+        "base": 17.94871794871795,
+        "tendency": 26.666666666666668,
+        "combined": 21.44,
+        "pitcher_impact": 50.0,
+        "adjusted": 30.01
+      },
+      "game_yrfi_probability": 61.53
+    },
+    "yrfi_probability": 61.53
+  },
+  "metadata": {
+    "generated_at": "2026-09-25T18:08:55.133752",
+    "data_source": "season_data.json"
+  }
+}

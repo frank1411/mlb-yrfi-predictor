@@ -1,0 +1,67 @@
+{
+  "game_pk": 823491,
+  "game_date": "2026-09-25",
+  "home_team": {
+    "id": "147",
+    "name": "New York Yankees",
+    "pitcher": {
+      "name": "Brendan Beck",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "26/78"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "110",
+    "name": "Baltimore Orioles",
+    "combined_yrfi_pct": 28.36,
+    "pitcher": {
+      "name": "Trevor Rogers",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 29.48717948717949,
+        "ratio": "23/78"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 33.33333333333333,
+        "tendency": 40.0,
+        "combined": 36.0,
+        "pitcher_impact": 0.0,
+        "adjusted": 25.2
+      },
+      "away_team": {
+        "base": 29.48717948717949,
+        "tendency": 26.666666666666668,
+        "combined": 28.36,
+        "pitcher_impact": 0.0,
+        "adjusted": 19.85
+      },
+      "game_yrfi_probability": 40.05
+    },
+    "yrfi_probability": 40.05
+  },
+  "metadata": {
+    "generated_at": "2026-09-25T18:08:55.137882",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Milwaukee Brewers @ Philadelphia Phillies
+# Análisis YRFI: Arizona Diamondbacks @ San Diego Padres
 
-**Fecha:** 2026-09-24  
-**Lanzadores:** Shane Drohan (V) vs Andrew Painter (L)
+**Fecha:** 2026-09-26  
+**Lanzadores:** Brandon Pfaadt (V) vs Por anunciar (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.9%
+**Probabilidad de que anoten en la primera entrada:** 46.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### Philadelphia Phillies (Local)
-- **Estadística base YRFI:** 37.7% (29/77 partidos)
+### San Diego Padres (Local)
+- **Estadística base YRFI:** 21.8% (17/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Shane Drohan):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 23.3%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Brandon Pfaadt):** 0.0% (0/1 partidos)
+- **Puntuación ajustada:** 16.6%
 
-### Milwaukee Brewers (Visitante)
-- **Estadística base YRFI:** 20.0% (16/80 partidos)
+### Arizona Diamondbacks (Visitante)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Philadelphia Phillies - Andrew Painter):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.7%
+- **Impacto del lanzador local (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 35.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-24 18:03:23
+- **Generado el:** 2026-09-25 18:08:55
 - **Fuente de datos:** season_data.json

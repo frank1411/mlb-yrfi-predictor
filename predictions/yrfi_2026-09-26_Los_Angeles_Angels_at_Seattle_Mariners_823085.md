@@ -1,25 +1,25 @@
-# Análisis YRFI: San Diego Padres @ Los Angeles Dodgers
+# Análisis YRFI: Los Angeles Angels @ Seattle Mariners
 
-**Fecha:** 2026-09-25  
-**Lanzadores:** Nick Pivetta (V) vs Tyler Glasnow (L)
+**Fecha:** 2026-09-26  
+**Lanzadores:** Reid Detmers (V) vs Bryce Miller (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.9%
+**Probabilidad de que anoten en la primera entrada:** 38.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### Los Angeles Dodgers (Local)
-- **Estadística base YRFI:** 36.2% (29/80 partidos)
+### Seattle Mariners (Local)
+- **Estadística base YRFI:** 32.1% (25/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (San Diego Padres - Nick Pivetta):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 24.6%
+- **Impacto del lanzador visitante (Los Angeles Angels - Reid Detmers):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.8%
 
-### San Diego Padres (Visitante)
-- **Estadística base YRFI:** 27.5% (22/80 partidos)
+### Los Angeles Angels (Visitante)
+- **Estadística base YRFI:** 26.9% (21/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Tyler Glasnow):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.9%
+- **Impacto del lanzador local (Seattle Mariners - Bryce Miller):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-24 18:03:23
+- **Generado el:** 2026-09-25 18:08:55
 - **Fuente de datos:** season_data.json

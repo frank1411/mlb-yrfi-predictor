@@ -1,0 +1,67 @@
+{
+  "game_pk": 823735,
+  "game_date": "2026-09-25",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Robert Gasser",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 41.02564102564102,
+        "ratio": "32/78"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 30.67,
+    "pitcher": {
+      "name": "Michael McGreevy",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 33.33333333333333,
+        "ratio": "26/78"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.02564102564102,
+        "tendency": 33.33333333333333,
+        "combined": 37.95,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.56
+      },
+      "away_team": {
+        "base": 33.33333333333333,
+        "tendency": 26.666666666666668,
+        "combined": 30.67,
+        "pitcher_impact": 0.0,
+        "adjusted": 21.47
+      },
+      "game_yrfi_probability": 42.33
+    },
+    "yrfi_probability": 42.33
+  },
+  "metadata": {
+    "generated_at": "2026-09-25T18:08:55.163859",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
 # Análisis YRFI: Houston Astros @ Athletics
 
-**Fecha:** 2026-09-25  
-**Lanzadores:** Peter Lambert (V) vs Mason Barnett (L)
+**Fecha:** 2026-09-26  
+**Lanzadores:** Hunter Brown (V) vs Jacob Lopez (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 43.4%
+**Probabilidad de que anoten en la primera entrada:** 41.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Athletics (Local)
-- **Estadística base YRFI:** 33.8% (26/77 partidos)
+- **Estadística base YRFI:** 33.3% (26/78 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Houston Astros - Peter Lambert):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.4%
+- **Impacto del lanzador visitante (Houston Astros - Hunter Brown):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 25.2%
 
 ### Houston Astros (Visitante)
-- **Estadística base YRFI:** 30.8% (24/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Athletics - Mason Barnett):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 24.1%
+- **Estadística base YRFI:** 30.4% (24/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador local (Athletics - Jacob Lopez):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.1%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-24 18:03:23
+- **Generado el:** 2026-09-25 18:08:55
 - **Fuente de datos:** season_data.json
