@@ -1,0 +1,67 @@
+{
+  "game_pk": 823733,
+  "game_date": "2026-09-26",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Dustin May",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.77215189873418,
+        "ratio": "33/79"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 30.41,
+    "pitcher": {
+      "name": "Quinn Mathews",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 32.91139240506329,
+        "ratio": "26/79"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.77215189873418,
+        "tendency": 40.0,
+        "combined": 41.06,
+        "pitcher_impact": 0.0,
+        "adjusted": 28.74
+      },
+      "away_team": {
+        "base": 32.91139240506329,
+        "tendency": 26.666666666666668,
+        "combined": 30.41,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.79
+      },
+      "game_yrfi_probability": 49.26
+    },
+    "yrfi_probability": 49.26
+  },
+  "metadata": {
+    "generated_at": "2026-09-26T17:28:47.960777",
+    "data_source": "season_data.json"
+  }
+}

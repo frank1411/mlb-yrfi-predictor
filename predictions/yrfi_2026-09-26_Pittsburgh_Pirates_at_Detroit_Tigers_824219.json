@@ -1,18 +1,18 @@
 {
-  "game_pk": 824220,
-  "game_date": "2026-09-25",
+  "game_pk": 824219,
+  "game_date": "2026-09-26",
   "home_team": {
     "id": "116",
     "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Jackson Jobe",
+      "name": "Justin Verlander",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "1/1"
     },
     "stats": {
       "base": {
-        "value": 26.923076923076923,
-        "ratio": "21/78"
+        "value": 26.582278481012654,
+        "ratio": "21/79"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -23,45 +23,45 @@
   "away_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
-    "combined_yrfi_pct": 29.13,
+    "combined_yrfi_pct": 26.23,
     "pitcher": {
-      "name": "Bubba Chandler",
+      "name": "Kirby Yates",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.76923076923077,
-        "ratio": "24/78"
+        "value": 30.37974683544304,
+        "ratio": "24/79"
       },
       "tendency": {
-        "value": 26.666666666666668,
-        "ratio": "4/15"
+        "value": 20.0,
+        "ratio": "3/15"
       }
     }
   },
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 26.923076923076923,
+        "base": 26.582278481012654,
         "tendency": 33.33333333333333,
-        "combined": 29.49,
+        "combined": 29.28,
         "pitcher_impact": 0.0,
-        "adjusted": 20.64
+        "adjusted": 20.5
       },
       "away_team": {
-        "base": 30.76923076923077,
-        "tendency": 26.666666666666668,
-        "combined": 29.13,
+        "base": 30.37974683544304,
+        "tendency": 20.0,
+        "combined": 26.23,
         "pitcher_impact": 0.0,
-        "adjusted": 20.39
+        "adjusted": 18.36
       },
-      "game_yrfi_probability": 36.82
+      "game_yrfi_probability": 35.1
     },
-    "yrfi_probability": 36.82
+    "yrfi_probability": 35.1
   },
   "metadata": {
-    "generated_at": "2026-09-25T18:08:55.145047",
+    "generated_at": "2026-09-26T17:28:47.925983",
     "data_source": "season_data.json"
   }
 }

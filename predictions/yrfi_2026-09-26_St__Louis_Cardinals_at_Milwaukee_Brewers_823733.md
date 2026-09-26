@@ -1,25 +1,25 @@
-# Análisis YRFI: Baltimore Orioles @ New York Yankees
+# Análisis YRFI: St. Louis Cardinals @ Milwaukee Brewers
 
-**Fecha:** 2026-09-25  
-**Lanzadores:** Trevor Rogers (V) vs Brendan Beck (L)
+**Fecha:** 2026-09-26  
+**Lanzadores:** Quinn Mathews (V) vs Dustin May (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 40.0%
+**Probabilidad de que anoten en la primera entrada:** 49.3%
 
 ## 🔍 Explicación de los Cálculos
 
-### New York Yankees (Local)
-- **Estadística base YRFI:** 33.3% (26/78 partidos)
+### Milwaukee Brewers (Local)
+- **Estadística base YRFI:** 41.8% (33/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Baltimore Orioles - Trevor Rogers):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Impacto del lanzador visitante (St. Louis Cardinals - Quinn Mathews):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 28.7%
 
-### Baltimore Orioles (Visitante)
-- **Estadística base YRFI:** 29.5% (23/78 partidos)
+### St. Louis Cardinals (Visitante)
+- **Estadística base YRFI:** 32.9% (26/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (New York Yankees - Brendan Beck):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 19.9%
+- **Impacto del lanzador local (Milwaukee Brewers - Dustin May):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-25 18:08:55
+- **Generado el:** 2026-09-26 17:28:47
 - **Fuente de datos:** season_data.json

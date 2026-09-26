@@ -1,25 +1,25 @@
 # Análisis YRFI: Colorado Rockies @ Chicago White Sox
 
-**Fecha:** 2026-09-25  
-**Lanzadores:** Tomoyuki Sugano (V) vs Sean Burke (L)
+**Fecha:** 2026-09-26  
+**Lanzadores:** Jose Quintana (V) vs Davis Martin (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 37.6%
+**Probabilidad de que anoten en la primera entrada:** 55.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Chicago White Sox (Local)
-- **Estadística base YRFI:** 31.6% (25/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (Colorado Rockies - Tomoyuki Sugano):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 24.5%
+- **Estadística base YRFI:** 32.5% (26/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador visitante (Colorado Rockies - Jose Quintana):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 46.7%
 
 ### Colorado Rockies (Visitante)
-- **Estadística base YRFI:** 19.2% (15/78 partidos)
+- **Estadística base YRFI:** 19.0% (15/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Chicago White Sox - Sean Burke):** 0.0% (0/2 partidos)
-- **Puntuación ajustada:** 17.4%
+- **Impacto del lanzador local (Chicago White Sox - Davis Martin):** 0.0% (0/2 partidos)
+- **Puntuación ajustada:** 17.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-25 18:08:55
+- **Generado el:** 2026-09-26 17:28:47
 - **Fuente de datos:** season_data.json

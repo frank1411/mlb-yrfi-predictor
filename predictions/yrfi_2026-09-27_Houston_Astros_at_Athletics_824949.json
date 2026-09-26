@@ -1,18 +1,18 @@
 {
-  "game_pk": 823085,
-  "game_date": "2026-09-26",
+  "game_pk": 824949,
+  "game_date": "2026-09-27",
   "home_team": {
-    "id": "136",
-    "name": "Seattle Mariners",
+    "id": "133",
+    "name": "Athletics",
     "pitcher": {
-      "name": "Bryce Miller",
+      "name": "Jack Perkins",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 32.05128205128205,
-        "ratio": "25/78"
+        "value": 32.91139240506329,
+        "ratio": "26/79"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "108",
-    "name": "Los Angeles Angels",
-    "combined_yrfi_pct": 29.49,
+    "id": "117",
+    "name": "Houston Astros",
+    "combined_yrfi_pct": 31.33,
     "pitcher": {
-      "name": "Reid Detmers",
+      "name": "Hayden Wesneski",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 26.923076923076923,
-        "ratio": "21/78"
+        "value": 30.0,
+        "ratio": "24/80"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 32.05128205128205,
+        "base": 32.91139240506329,
         "tendency": 33.33333333333333,
-        "combined": 32.56,
+        "combined": 33.08,
         "pitcher_impact": 0.0,
-        "adjusted": 22.79
+        "adjusted": 23.16
       },
       "away_team": {
-        "base": 26.923076923076923,
+        "base": 30.0,
         "tendency": 33.33333333333333,
-        "combined": 29.49,
+        "combined": 31.33,
         "pitcher_impact": 0.0,
-        "adjusted": 20.64
+        "adjusted": 21.93
       },
-      "game_yrfi_probability": 38.73
+      "game_yrfi_probability": 40.01
     },
-    "yrfi_probability": 38.73
+    "yrfi_probability": 40.01
   },
   "metadata": {
-    "generated_at": "2026-09-25T18:08:55.173589",
+    "generated_at": "2026-09-26T17:28:47.973848",
     "data_source": "season_data.json"
   }
 }

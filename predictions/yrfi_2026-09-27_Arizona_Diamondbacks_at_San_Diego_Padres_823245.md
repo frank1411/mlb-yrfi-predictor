@@ -1,25 +1,25 @@
 # Análisis YRFI: Arizona Diamondbacks @ San Diego Padres
 
-**Fecha:** 2026-09-26  
-**Lanzadores:** Brandon Pfaadt (V) vs Por anunciar (L)
+**Fecha:** 2026-09-27  
+**Lanzadores:** Por anunciar (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.3%
+**Probabilidad de que anoten en la primera entrada:** 47.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
-- **Estadística base YRFI:** 21.8% (17/78 partidos)
+- **Estadística base YRFI:** 21.5% (17/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Brandon Pfaadt):** 0.0% (0/1 partidos)
-- **Puntuación ajustada:** 16.6%
+- **Impacto del lanzador visitante (Arizona Diamondbacks - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 31.5%
 
 ### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 26.9% (21/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 35.6%
+- **Estadística base YRFI:** 27.8% (22/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
+- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.9%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-25 18:08:55
+- **Generado el:** 2026-09-26 17:28:47
 - **Fuente de datos:** season_data.json

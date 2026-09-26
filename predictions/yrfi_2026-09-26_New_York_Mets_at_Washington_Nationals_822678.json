@@ -1,0 +1,67 @@
+{
+  "game_pk": 822678,
+  "game_date": "2026-09-26",
+  "home_team": {
+    "id": "120",
+    "name": "Washington Nationals",
+    "pitcher": {
+      "name": "Connelly Early",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
+    },
+    "stats": {
+      "base": {
+        "value": 36.708860759493675,
+        "ratio": "29/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "121",
+    "name": "New York Mets",
+    "combined_yrfi_pct": 30.8,
+    "pitcher": {
+      "name": "Jonah Tong",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 29.11392405063291,
+        "ratio": "23/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.708860759493675,
+        "tendency": 33.33333333333333,
+        "combined": 35.36,
+        "pitcher_impact": 0.0,
+        "adjusted": 24.75
+      },
+      "away_team": {
+        "base": 29.11392405063291,
+        "tendency": 33.33333333333333,
+        "combined": 30.8,
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 31.56
+      },
+      "game_yrfi_probability": 48.5
+    },
+    "yrfi_probability": 48.5
+  },
+  "metadata": {
+    "generated_at": "2026-09-26T17:28:47.920524",
+    "data_source": "season_data.json"
+  }
+}

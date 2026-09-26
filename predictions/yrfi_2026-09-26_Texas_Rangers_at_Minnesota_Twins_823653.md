@@ -1,25 +1,25 @@
 # Análisis YRFI: Texas Rangers @ Minnesota Twins
 
 **Fecha:** 2026-09-26  
-**Lanzadores:** Jacob deGrom (V) vs Joe Ryan (L)
+**Lanzadores:** Nathan Eovaldi (V) vs Bailey Ober (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 46.7%
+**Probabilidad de que anoten en la primera entrada:** 54.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Minnesota Twins (Local)
-- **Estadística base YRFI:** 35.9% (28/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador visitante (Texas Rangers - Jacob deGrom):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 30.7%
+- **Estadística base YRFI:** 35.4% (28/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 13.3% (2/15 partidos)
+- **Impacto del lanzador visitante (Texas Rangers - Nathan Eovaldi):** 50.0% (2/4 partidos)
+- **Puntuación ajustada:** 33.6%
 
 ### Texas Rangers (Visitante)
-- **Estadística base YRFI:** 28.2% (22/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Minnesota Twins - Joe Ryan):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 23.1%
+- **Estadística base YRFI:** 29.1% (23/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 46.7% (7/15 partidos)
+- **Impacto del lanzador local (Minnesota Twins - Bailey Ober):** 20.0% (1/5 partidos)
+- **Puntuación ajustada:** 31.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-25 18:08:55
+- **Generado el:** 2026-09-26 17:28:47
 - **Fuente de datos:** season_data.json

@@ -1,9 +1,9 @@
 {
-  "game_pk": 823248,
+  "game_pk": 823407,
   "game_date": "2026-09-26",
   "home_team": {
-    "id": "135",
-    "name": "San Diego Padres",
+    "id": "143",
+    "name": "Philadelphia Phillies",
     "pitcher": {
       "name": "Por anunciar",
       "yrfi_allowed": 50.0,
@@ -11,8 +11,8 @@
     },
     "stats": {
       "base": {
-        "value": 21.794871794871796,
-        "ratio": "17/78"
+        "value": 36.708860759493675,
+        "ratio": "29/79"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "109",
-    "name": "Arizona Diamondbacks",
-    "combined_yrfi_pct": 29.49,
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 30.04,
     "pitcher": {
-      "name": "Brandon Pfaadt",
+      "name": "Griffin Jax",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/1"
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
-        "value": 26.923076923076923,
-        "ratio": "21/78"
+        "value": 27.848101265822784,
+        "ratio": "22/79"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 21.794871794871796,
+        "base": 36.708860759493675,
         "tendency": 26.666666666666668,
-        "combined": 23.74,
+        "combined": 32.69,
         "pitcher_impact": 0.0,
-        "adjusted": 16.62
+        "adjusted": 22.88
       },
       "away_team": {
-        "base": 26.923076923076923,
+        "base": 27.848101265822784,
         "tendency": 33.33333333333333,
-        "combined": 29.49,
+        "combined": 30.04,
         "pitcher_impact": 50.0,
-        "adjusted": 35.64
+        "adjusted": 36.03
       },
-      "game_yrfi_probability": 46.34
+      "game_yrfi_probability": 50.67
     },
-    "yrfi_probability": 46.34
+    "yrfi_probability": 50.67
   },
   "metadata": {
-    "generated_at": "2026-09-25T18:08:55.171044",
+    "generated_at": "2026-09-26T17:28:47.964787",
     "data_source": "season_data.json"
   }
 }

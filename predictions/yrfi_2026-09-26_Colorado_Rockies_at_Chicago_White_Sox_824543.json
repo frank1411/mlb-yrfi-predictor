@@ -1,0 +1,67 @@
+{
+  "game_pk": 824543,
+  "game_date": "2026-09-26",
+  "home_team": {
+    "id": "145",
+    "name": "Chicago White Sox",
+    "pitcher": {
+      "name": "Davis Martin",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
+    },
+    "stats": {
+      "base": {
+        "value": 32.5,
+        "ratio": "26/80"
+      },
+      "tendency": {
+        "value": 46.666666666666664,
+        "ratio": "7/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "115",
+    "name": "Colorado Rockies",
+    "combined_yrfi_pct": 24.73,
+    "pitcher": {
+      "name": "Jose Quintana",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 18.9873417721519,
+        "ratio": "15/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 32.5,
+        "tendency": 46.666666666666664,
+        "combined": 38.17,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 46.72
+      },
+      "away_team": {
+        "base": 18.9873417721519,
+        "tendency": 33.33333333333333,
+        "combined": 24.73,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.31
+      },
+      "game_yrfi_probability": 55.94
+    },
+    "yrfi_probability": 55.94
+  },
+  "metadata": {
+    "generated_at": "2026-09-26T17:28:47.955780",
+    "data_source": "season_data.json"
+  }
+}

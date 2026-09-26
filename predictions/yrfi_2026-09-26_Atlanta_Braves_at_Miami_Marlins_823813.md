@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Miami Marlins
 
-**Fecha:** 2026-09-25  
-**Lanzadores:** Por anunciar (V) vs Eury Pérez (L)
+**Fecha:** 2026-09-26  
+**Lanzadores:** Brent Suter (V) vs Jack Ralston (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 45.7%
+**Probabilidad de que anoten en la primera entrada:** 51.3%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 29.5% (23/78 partidos)
+- **Estadística base YRFI:** 29.1% (23/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 27.4%
+- **Impacto del lanzador visitante (Atlanta Braves - Brent Suter):** 100.0% (1/1 partidos)
+- **Puntuación ajustada:** 42.2%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 24.4% (19/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Eury Pérez):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Estadística base YRFI:** 24.1% (19/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Miami Marlins - Jack Ralston):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 15.7%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-25 18:08:55
+- **Generado el:** 2026-09-26 17:28:47
 - **Fuente de datos:** season_data.json

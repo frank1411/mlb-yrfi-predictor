@@ -1,0 +1,67 @@
+{
+  "game_pk": 823083,
+  "game_date": "2026-09-27",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Kade Anderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
+    },
+    "stats": {
+      "base": {
+        "value": 31.645569620253166,
+        "ratio": "25/79"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 32.71,
+    "pitcher": {
+      "name": "Ryan Johnson",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 27.848101265822784,
+        "ratio": "22/79"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.645569620253166,
+        "tendency": 33.33333333333333,
+        "combined": 32.32,
+        "pitcher_impact": 100.0,
+        "adjusted": 52.62
+      },
+      "away_team": {
+        "base": 27.848101265822784,
+        "tendency": 40.0,
+        "combined": 32.71,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.9
+      },
+      "game_yrfi_probability": 63.47
+    },
+    "yrfi_probability": 63.47
+  },
+  "metadata": {
+    "generated_at": "2026-09-26T17:28:47.978761",
+    "data_source": "season_data.json"
+  }
+}

@@ -1,25 +1,25 @@
-# Análisis YRFI: Cleveland Guardians @ Kansas City Royals
+# Análisis YRFI: New York Mets @ Washington Nationals
 
-**Fecha:** 2026-09-25  
-**Lanzadores:** Gavin Williams (V) vs Noah Cameron (L)
+**Fecha:** 2026-09-26  
+**Lanzadores:** Jonah Tong (V) vs Connelly Early (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 50.8%
+**Probabilidad de que anoten en la primera entrada:** 48.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Kansas City Royals (Local)
-- **Estadística base YRFI:** 34.6% (27/78 partidos)
+### Washington Nationals (Local)
+- **Estadística base YRFI:** 36.7% (29/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Cleveland Guardians - Gavin Williams):** 50.0% (2/4 partidos)
-- **Puntuación ajustada:** 38.9%
+- **Impacto del lanzador visitante (New York Mets - Jonah Tong):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 24.8%
 
-### Cleveland Guardians (Visitante)
-- **Estadística base YRFI:** 24.4% (19/78 partidos)
+### New York Mets (Visitante)
+- **Estadística base YRFI:** 29.1% (23/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Kansas City Royals - Noah Cameron):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 19.6%
+- **Impacto del lanzador local (Washington Nationals - Connelly Early):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 31.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-25 18:08:55
+- **Generado el:** 2026-09-26 17:28:47
 - **Fuente de datos:** season_data.json

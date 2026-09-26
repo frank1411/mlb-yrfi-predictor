@@ -1,25 +1,25 @@
 # Análisis YRFI: Pittsburgh Pirates @ Detroit Tigers
 
-**Fecha:** 2026-09-25  
-**Lanzadores:** Bubba Chandler (V) vs Jackson Jobe (L)
+**Fecha:** 2026-09-26  
+**Lanzadores:** Kirby Yates (V) vs Justin Verlander (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.8%
+**Probabilidad de que anoten en la primera entrada:** 35.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Detroit Tigers (Local)
-- **Estadística base YRFI:** 26.9% (21/78 partidos)
+- **Estadística base YRFI:** 26.6% (21/79 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Pittsburgh Pirates - Bubba Chandler):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 20.6%
+- **Impacto del lanzador visitante (Pittsburgh Pirates - Kirby Yates):** 0.0% (0/0 partidos)
+- **Puntuación ajustada:** 20.5%
 
 ### Pittsburgh Pirates (Visitante)
-- **Estadística base YRFI:** 30.8% (24/78 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Detroit Tigers - Jackson Jobe):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 20.4%
+- **Estadística base YRFI:** 30.4% (24/79 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
+- **Impacto del lanzador local (Detroit Tigers - Justin Verlander):** 0.0% (1/1 partidos)
+- **Puntuación ajustada:** 18.4%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-25 18:08:55
+- **Generado el:** 2026-09-26 17:28:47
 - **Fuente de datos:** season_data.json
