@@ -1,38 +1,38 @@
 {
-  "game_pk": 824219,
-  "game_date": "2026-09-26",
+  "game_pk": 824217,
+  "game_date": "2026-09-27",
   "home_team": {
     "id": "116",
     "name": "Detroit Tigers",
     "pitcher": {
-      "name": "Justin Verlander",
+      "name": "River Ryan",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "1/1"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 26.582278481012654,
-        "ratio": "21/79"
+        "value": 26.25,
+        "ratio": "21/80"
       },
       "tendency": {
-        "value": 33.33333333333333,
-        "ratio": "5/15"
+        "value": 26.666666666666668,
+        "ratio": "4/15"
       }
     }
   },
   "away_team": {
     "id": "134",
     "name": "Pittsburgh Pirates",
-    "combined_yrfi_pct": 26.23,
+    "combined_yrfi_pct": 26.0,
     "pitcher": {
-      "name": "Kirby Yates",
+      "name": "Jared Jones",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 30.37974683544304,
-        "ratio": "24/79"
+        "value": 30.0,
+        "ratio": "24/80"
       },
       "tendency": {
         "value": 20.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 26.582278481012654,
-        "tendency": 33.33333333333333,
-        "combined": 29.28,
+        "base": 26.25,
+        "tendency": 26.666666666666668,
+        "combined": 26.42,
         "pitcher_impact": 0.0,
-        "adjusted": 20.5
+        "adjusted": 18.49
       },
       "away_team": {
-        "base": 30.37974683544304,
+        "base": 30.0,
         "tendency": 20.0,
-        "combined": 26.23,
+        "combined": 26.0,
         "pitcher_impact": 0.0,
-        "adjusted": 18.36
+        "adjusted": 18.2
       },
-      "game_yrfi_probability": 35.1
+      "game_yrfi_probability": 33.32
     },
-    "yrfi_probability": 35.1
+    "yrfi_probability": 33.32
   },
   "metadata": {
-    "generated_at": "2026-09-26T17:28:47.925983",
+    "generated_at": "2026-09-27T17:59:28.215489",
     "data_source": "season_data.json"
   }
 }

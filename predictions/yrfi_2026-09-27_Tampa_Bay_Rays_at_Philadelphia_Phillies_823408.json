@@ -1,0 +1,67 @@
+{
+  "game_pk": 823408,
+  "game_date": "2026-09-27",
+  "home_team": {
+    "id": "143",
+    "name": "Philadelphia Phillies",
+    "pitcher": {
+      "name": "Zack Wheeler",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "1/2"
+    },
+    "stats": {
+      "base": {
+        "value": 36.25,
+        "ratio": "29/80"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 33.25,
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.749999999999996,
+        "ratio": "23/80"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 36.25,
+        "tendency": 26.666666666666668,
+        "combined": 32.42,
+        "pitcher_impact": 0.0,
+        "adjusted": 22.69
+      },
+      "away_team": {
+        "base": 28.749999999999996,
+        "tendency": 40.0,
+        "combined": 33.25,
+        "pitcher_impact": 0.0,
+        "adjusted": 23.27
+      },
+      "game_yrfi_probability": 40.68
+    },
+    "yrfi_probability": 40.68
+  },
+  "metadata": {
+    "generated_at": "2026-09-27T17:59:28.179385",
+    "data_source": "season_data.json"
+  }
+}

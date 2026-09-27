@@ -1,0 +1,67 @@
+{
+  "game_pk": 823084,
+  "game_date": "2026-09-27",
+  "home_team": {
+    "id": "136",
+    "name": "Seattle Mariners",
+    "pitcher": {
+      "name": "Logan Gilbert",
+      "yrfi_allowed": 83.33333333333334,
+      "yrfi_ratio": "5/6"
+    },
+    "stats": {
+      "base": {
+        "value": 31.25,
+        "ratio": "25/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "108",
+    "name": "Los Angeles Angels",
+    "combined_yrfi_pct": 32.5,
+    "pitcher": {
+      "name": "Yusei Kikuchi",
+      "yrfi_allowed": 40.0,
+      "yrfi_ratio": "2/5"
+    },
+    "stats": {
+      "base": {
+        "value": 27.500000000000004,
+        "ratio": "22/80"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 31.25,
+        "tendency": 33.33333333333333,
+        "combined": 32.08,
+        "pitcher_impact": 40.0,
+        "adjusted": 34.46
+      },
+      "away_team": {
+        "base": 27.500000000000004,
+        "tendency": 40.0,
+        "combined": 32.5,
+        "pitcher_impact": 83.33333333333334,
+        "adjusted": 47.75
+      },
+      "game_yrfi_probability": 65.76
+    },
+    "yrfi_probability": 65.76
+  },
+  "metadata": {
+    "generated_at": "2026-09-27T17:59:28.225668",
+    "data_source": "season_data.json"
+  }
+}

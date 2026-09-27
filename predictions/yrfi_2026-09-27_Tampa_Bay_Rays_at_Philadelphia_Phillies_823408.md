@@ -1,25 +1,25 @@
-# Análisis YRFI: Arizona Diamondbacks @ San Diego Padres
+# Análisis YRFI: Tampa Bay Rays @ Philadelphia Phillies
 
 **Fecha:** 2026-09-27  
-**Lanzadores:** Por anunciar (V) vs Walker Buehler (L)
+**Lanzadores:** Nick Martinez (V) vs Zack Wheeler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 47.2%
+**Probabilidad de que anoten en la primera entrada:** 40.7%
 
 ## 🔍 Explicación de los Cálculos
 
-### San Diego Padres (Local)
-- **Estadística base YRFI:** 21.5% (17/79 partidos)
+### Philadelphia Phillies (Local)
+- **Estadística base YRFI:** 36.2% (29/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Arizona Diamondbacks - Por anunciar):** 50.0% (0/0 partidos)
-- **Puntuación ajustada:** 31.5%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 22.7%
 
-### Arizona Diamondbacks (Visitante)
-- **Estadística base YRFI:** 27.8% (22/79 partidos)
+### Tampa Bay Rays (Visitante)
+- **Estadística base YRFI:** 28.7% (23/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 22.9%
+- **Impacto del lanzador local (Philadelphia Phillies - Zack Wheeler):** 0.0% (1/2 partidos)
+- **Puntuación ajustada:** 23.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-26 17:28:47
+- **Generado el:** 2026-09-27 17:59:28
 - **Fuente de datos:** season_data.json

@@ -1,0 +1,67 @@
+{
+  "game_pk": 823731,
+  "game_date": "2026-09-27",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.25,
+        "ratio": "33/80"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "138",
+    "name": "St. Louis Cardinals",
+    "combined_yrfi_pct": 30.17,
+    "pitcher": {
+      "name": "Andre Pallante",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 32.5,
+        "ratio": "26/80"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.25,
+        "tendency": 33.33333333333333,
+        "combined": 38.08,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 46.66
+      },
+      "away_team": {
+        "base": 32.5,
+        "tendency": 26.666666666666668,
+        "combined": 30.17,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.62
+      },
+      "game_yrfi_probability": 61.93
+    },
+    "yrfi_probability": 61.93
+  },
+  "metadata": {
+    "generated_at": "2026-09-27T17:59:28.245643",
+    "data_source": "season_data.json"
+  }
+}

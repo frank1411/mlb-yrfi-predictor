@@ -1,25 +1,25 @@
 # Análisis YRFI: Atlanta Braves @ Miami Marlins
 
-**Fecha:** 2026-09-26  
-**Lanzadores:** Brent Suter (V) vs Jack Ralston (L)
+**Fecha:** 2026-09-27  
+**Lanzadores:** JR Ritchie (V) vs Janson Junk (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 51.3%
+**Probabilidad de que anoten en la primera entrada:** 40.2%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Miami Marlins (Local)
-- **Estadística base YRFI:** 29.1% (23/79 partidos)
+- **Estadística base YRFI:** 28.7% (23/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 0.0% (0/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Brent Suter):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 42.2%
+- **Impacto del lanzador visitante (Atlanta Braves - JR Ritchie):** 50.0% (1/2 partidos)
+- **Puntuación ajustada:** 27.1%
 
 ### Atlanta Braves (Visitante)
-- **Estadística base YRFI:** 24.1% (19/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 20.0% (3/15 partidos)
-- **Impacto del lanzador local (Miami Marlins - Jack Ralston):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 15.7%
+- **Estadística base YRFI:** 25.0% (20/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Miami Marlins - Janson Junk):** 0.0% (0/5 partidos)
+- **Puntuación ajustada:** 18.0%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-26 17:28:47
+- **Generado el:** 2026-09-27 17:59:28
 - **Fuente de datos:** season_data.json

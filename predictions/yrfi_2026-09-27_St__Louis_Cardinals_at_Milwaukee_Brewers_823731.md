@@ -1,25 +1,25 @@
 # Análisis YRFI: St. Louis Cardinals @ Milwaukee Brewers
 
-**Fecha:** 2026-09-26  
-**Lanzadores:** Quinn Mathews (V) vs Dustin May (L)
+**Fecha:** 2026-09-27  
+**Lanzadores:** Andre Pallante (V) vs Jacob Misiorowski (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.3%
+**Probabilidad de que anoten en la primera entrada:** 61.9%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Milwaukee Brewers (Local)
-- **Estadística base YRFI:** 41.8% (33/79 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (St. Louis Cardinals - Quinn Mathews):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 28.7%
+- **Estadística base YRFI:** 41.2% (33/80 partidos)
+- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
+- **Impacto del lanzador visitante (St. Louis Cardinals - Andre Pallante):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 46.7%
 
 ### St. Louis Cardinals (Visitante)
-- **Estadística base YRFI:** 32.9% (26/79 partidos)
+- **Estadística base YRFI:** 32.5% (26/80 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Milwaukee Brewers - Dustin May):** 25.0% (1/4 partidos)
-- **Puntuación ajustada:** 28.8%
+- **Impacto del lanzador local (Milwaukee Brewers - Jacob Misiorowski):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-26 17:28:47
+- **Generado el:** 2026-09-27 17:59:28
 - **Fuente de datos:** season_data.json

@@ -1,18 +1,18 @@
 {
-  "game_pk": 823083,
+  "game_pk": 823246,
   "game_date": "2026-09-27",
   "home_team": {
-    "id": "136",
-    "name": "Seattle Mariners",
+    "id": "135",
+    "name": "San Diego Padres",
     "pitcher": {
-      "name": "Kade Anderson",
+      "name": "Randy Vásquez",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
-        "value": 31.645569620253166,
-        "ratio": "25/79"
+        "value": 22.5,
+        "ratio": "18/80"
       },
       "tendency": {
         "value": 33.33333333333333,
@@ -21,18 +21,18 @@
     }
   },
   "away_team": {
-    "id": "108",
-    "name": "Los Angeles Angels",
-    "combined_yrfi_pct": 32.71,
+    "id": "109",
+    "name": "Arizona Diamondbacks",
+    "combined_yrfi_pct": 32.5,
     "pitcher": {
-      "name": "Ryan Johnson",
+      "name": "Michael Soroka",
       "yrfi_allowed": 100.0,
-      "yrfi_ratio": "1/1"
+      "yrfi_ratio": "2/2"
     },
     "stats": {
       "base": {
-        "value": 27.848101265822784,
-        "ratio": "22/79"
+        "value": 27.500000000000004,
+        "ratio": "22/80"
       },
       "tendency": {
         "value": 40.0,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.645569620253166,
+        "base": 22.5,
         "tendency": 33.33333333333333,
-        "combined": 32.32,
+        "combined": 26.83,
         "pitcher_impact": 100.0,
-        "adjusted": 52.62
+        "adjusted": 48.78
       },
       "away_team": {
-        "base": 27.848101265822784,
+        "base": 27.500000000000004,
         "tendency": 40.0,
-        "combined": 32.71,
+        "combined": 32.5,
         "pitcher_impact": 0.0,
-        "adjusted": 22.9
+        "adjusted": 22.75
       },
-      "game_yrfi_probability": 63.47
+      "game_yrfi_probability": 60.43
     },
-    "yrfi_probability": 63.47
+    "yrfi_probability": 60.43
   },
   "metadata": {
-    "generated_at": "2026-09-26T17:28:47.978761",
+    "generated_at": "2026-09-27T17:59:28.220458",
     "data_source": "season_data.json"
   }
 }

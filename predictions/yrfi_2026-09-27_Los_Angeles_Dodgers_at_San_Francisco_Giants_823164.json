@@ -1,38 +1,38 @@
 {
-  "game_pk": 823165,
-  "game_date": "2026-09-26",
+  "game_pk": 823164,
+  "game_date": "2026-09-27",
   "home_team": {
     "id": "137",
     "name": "San Francisco Giants",
     "pitcher": {
-      "name": "Matt Wilkinson",
+      "name": "Carson Seymour",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 31.645569620253166,
-        "ratio": "25/79"
+        "value": 31.25,
+        "ratio": "25/80"
       },
       "tendency": {
-        "value": 46.666666666666664,
-        "ratio": "7/15"
+        "value": 40.0,
+        "ratio": "6/15"
       }
     }
   },
   "away_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
-    "combined_yrfi_pct": 25.1,
+    "combined_yrfi_pct": 24.92,
     "pitcher": {
-      "name": "Blake Snell",
+      "name": "Jack Dreyer",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
-        "value": 24.050632911392405,
-        "ratio": "19/79"
+        "value": 23.75,
+        "ratio": "19/80"
       },
       "tendency": {
         "value": 26.666666666666668,
@@ -43,25 +43,25 @@
   "prediction": {
     "calculation": {
       "home_team": {
-        "base": 31.645569620253166,
-        "tendency": 46.666666666666664,
-        "combined": 37.65,
+        "base": 31.25,
+        "tendency": 40.0,
+        "combined": 34.75,
         "pitcher_impact": 0.0,
-        "adjusted": 26.36
+        "adjusted": 24.32
       },
       "away_team": {
-        "base": 24.050632911392405,
+        "base": 23.75,
         "tendency": 26.666666666666668,
-        "combined": 25.1,
+        "combined": 24.92,
         "pitcher_impact": 0.0,
-        "adjusted": 17.57
+        "adjusted": 17.44
       },
-      "game_yrfi_probability": 39.3
+      "game_yrfi_probability": 37.52
     },
-    "yrfi_probability": 39.3
+    "yrfi_probability": 37.52
   },
   "metadata": {
-    "generated_at": "2026-09-26T17:28:47.936055",
+    "generated_at": "2026-09-27T17:59:28.199589",
     "data_source": "season_data.json"
   }
 }
