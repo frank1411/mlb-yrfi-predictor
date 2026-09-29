@@ -1,0 +1,67 @@
+{
+  "game_pk": 849843,
+  "game_date": "2026-09-30",
+  "home_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "pitcher": {
+      "name": "Michael King",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 22.22222222222222,
+        "ratio": "18/81"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "112",
+    "name": "Chicago Cubs",
+    "combined_yrfi_pct": 25.19,
+    "pitcher": {
+      "name": "Matthew Boyd",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "1/1"
+    },
+    "stats": {
+      "base": {
+        "value": 19.753086419753085,
+        "ratio": "16/81"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 22.22222222222222,
+        "tendency": 33.33333333333333,
+        "combined": 26.67,
+        "pitcher_impact": 100.0,
+        "adjusted": 48.67
+      },
+      "away_team": {
+        "base": 19.753086419753085,
+        "tendency": 33.33333333333333,
+        "combined": 25.19,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.63
+      },
+      "game_yrfi_probability": 57.72
+    },
+    "yrfi_probability": 57.72
+  },
+  "metadata": {
+    "generated_at": "2026-09-29T18:59:40.546068",
+    "data_source": "season_data.json"
+  }
+}
