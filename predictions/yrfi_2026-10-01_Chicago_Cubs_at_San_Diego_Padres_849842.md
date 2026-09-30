@@ -1,25 +1,25 @@
 # Análisis YRFI: Chicago Cubs @ San Diego Padres
 
-**Fecha:** 2026-09-30  
-**Lanzadores:** Matthew Boyd (V) vs Michael King (L)
+**Fecha:** 2026-10-01  
+**Lanzadores:** Kevin Gausman (V) vs Nick Pivetta (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 57.7%
+**Probabilidad de que anoten en la primera entrada:** 41.1%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
 - **Estadística base YRFI:** 22.2% (18/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Chicago Cubs - Matthew Boyd):** 100.0% (1/1 partidos)
-- **Puntuación ajustada:** 48.7%
+- **Impacto del lanzador visitante (Chicago Cubs - Kevin Gausman):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 18.7%
 
 ### Chicago Cubs (Visitante)
 - **Estadística base YRFI:** 19.8% (16/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Michael King):** 0.0% (0/3 partidos)
-- **Puntuación ajustada:** 17.6%
+- **Impacto del lanzador local (San Diego Padres - Nick Pivetta):** 33.3% (1/3 partidos)
+- **Puntuación ajustada:** 27.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-09-29 18:59:40
+- **Generado el:** 2026-09-30 18:42:17
 - **Fuente de datos:** season_data.json

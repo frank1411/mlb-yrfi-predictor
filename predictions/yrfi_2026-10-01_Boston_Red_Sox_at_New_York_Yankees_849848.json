@@ -1,13 +1,13 @@
 {
-  "game_pk": 849851,
-  "game_date": "2026-09-30",
+  "game_pk": 849848,
+  "game_date": "2026-10-01",
   "home_team": {
     "id": "147",
     "name": "New York Yankees",
     "pitcher": {
-      "name": "Cam Schlittler",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "name": "Max Fried",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Boston Red Sox",
     "combined_yrfi_pct": 21.33,
     "pitcher": {
-      "name": "Payton Tolle",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "name": "Sonny Gray",
+      "yrfi_allowed": 100.0,
+      "yrfi_ratio": "2/2"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 32.5,
         "tendency": 33.33333333333333,
         "combined": 32.83,
-        "pitcher_impact": 0.0,
-        "adjusted": 22.98
+        "pitcher_impact": 100.0,
+        "adjusted": 52.98
       },
       "away_team": {
         "base": 22.22222222222222,
         "tendency": 20.0,
         "combined": 21.33,
-        "pitcher_impact": 0.0,
-        "adjusted": 14.93
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 34.93
       },
-      "game_yrfi_probability": 34.48
+      "game_yrfi_probability": 69.4
     },
-    "yrfi_probability": 34.48
+    "yrfi_probability": 69.4
   },
   "metadata": {
-    "generated_at": "2026-09-29T18:59:40.542228",
+    "generated_at": "2026-09-30T18:42:17.791694",
     "data_source": "season_data.json"
   }
 }
