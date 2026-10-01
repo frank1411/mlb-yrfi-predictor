@@ -1,13 +1,13 @@
 {
-  "game_pk": 849841,
-  "game_date": "2026-09-30",
+  "game_pk": 849844,
+  "game_date": "2026-10-02",
   "home_team": {
     "id": "144",
     "name": "Atlanta Braves",
     "pitcher": {
-      "name": "Tyler Mahle",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Ray Kerr",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Philadelphia Phillies",
     "combined_yrfi_pct": 29.63,
     "pitcher": {
-      "name": "Cristopher Sánchez",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "1/2"
+      "name": "Aaron Nola",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 35.80246913580247,
         "tendency": 26.666666666666668,
         "combined": 32.15,
-        "pitcher_impact": 50.0,
-        "adjusted": 37.5
+        "pitcher_impact": 20.0,
+        "adjusted": 28.5
       },
       "away_team": {
         "base": 27.160493827160494,
         "tendency": 33.33333333333333,
         "combined": 29.63,
-        "pitcher_impact": 25.0,
-        "adjusted": 28.24
+        "pitcher_impact": 0.0,
+        "adjusted": 20.74
       },
-      "game_yrfi_probability": 55.15
+      "game_yrfi_probability": 43.33
     },
-    "yrfi_probability": 55.15
+    "yrfi_probability": 43.33
   },
   "metadata": {
-    "generated_at": "2026-09-30T18:42:17.781274",
+    "generated_at": "2026-10-01T19:08:20.838372",
     "data_source": "season_data.json"
   }
 }
