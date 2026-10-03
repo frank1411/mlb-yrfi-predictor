@@ -1,0 +1,67 @@
+{
+  "game_pk": 849830,
+  "game_date": "2026-10-04",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.9753086419753,
+        "ratio": "34/81"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "135",
+    "name": "San Diego Padres",
+    "combined_yrfi_pct": 29.63,
+    "pitcher": {
+      "name": "Robbie Ray",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/3"
+    },
+    "stats": {
+      "base": {
+        "value": 27.160493827160494,
+        "ratio": "22/81"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.9753086419753,
+        "tendency": 33.33333333333333,
+        "combined": 38.52,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.96
+      },
+      "away_team": {
+        "base": 27.160493827160494,
+        "tendency": 33.33333333333333,
+        "combined": 29.63,
+        "pitcher_impact": 25.0,
+        "adjusted": 28.24
+      },
+      "game_yrfi_probability": 47.59
+    },
+    "yrfi_probability": 47.59
+  },
+  "metadata": {
+    "generated_at": "2026-10-03T17:41:41.430491",
+    "data_source": "season_data.json"
+  }
+}
