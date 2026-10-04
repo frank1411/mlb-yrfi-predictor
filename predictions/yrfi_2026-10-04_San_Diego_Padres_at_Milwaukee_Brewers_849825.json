@@ -1,13 +1,13 @@
 {
-  "game_pk": 849830,
+  "game_pk": 849825,
   "game_date": "2026-10-04",
   "home_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
     "pitcher": {
-      "name": "Jacob Misiorowski",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Logan Henderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "San Diego Padres",
     "combined_yrfi_pct": 29.63,
     "pitcher": {
-      "name": "Robbie Ray",
+      "name": "Michael King",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/3"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
@@ -53,15 +53,15 @@
         "base": 27.160493827160494,
         "tendency": 33.33333333333333,
         "combined": 29.63,
-        "pitcher_impact": 25.0,
-        "adjusted": 28.24
+        "pitcher_impact": 0.0,
+        "adjusted": 20.74
       },
-      "game_yrfi_probability": 47.59
+      "game_yrfi_probability": 42.11
     },
-    "yrfi_probability": 47.59
+    "yrfi_probability": 42.11
   },
   "metadata": {
-    "generated_at": "2026-10-03T17:41:41.430491",
+    "generated_at": "2026-10-04T17:55:17.921773",
     "data_source": "season_data.json"
   }
 }

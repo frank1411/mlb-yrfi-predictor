@@ -1,13 +1,13 @@
 {
-  "game_pk": 849828,
-  "game_date": "2026-10-03",
+  "game_pk": 849823,
+  "game_date": "2026-10-05",
   "home_team": {
     "id": "119",
     "name": "Los Angeles Dodgers",
     "pitcher": {
-      "name": "Tarik Skubal",
+      "name": "Blake Snell",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "yrfi_ratio": "0/0"
     },
     "stats": {
       "base": {
@@ -25,8 +25,8 @@
     "name": "Atlanta Braves",
     "combined_yrfi_pct": 25.48,
     "pitcher": {
-      "name": "Dylan Dodd",
-      "yrfi_allowed": 0.0,
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
@@ -46,8 +46,8 @@
         "base": 35.80246913580247,
         "tendency": 26.666666666666668,
         "combined": 32.15,
-        "pitcher_impact": 0.0,
-        "adjusted": 22.5
+        "pitcher_impact": 50.0,
+        "adjusted": 37.5
       },
       "away_team": {
         "base": 24.691358024691358,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 17.84
       },
-      "game_yrfi_probability": 36.33
+      "game_yrfi_probability": 48.65
     },
-    "yrfi_probability": 36.33
+    "yrfi_probability": 48.65
   },
   "metadata": {
-    "generated_at": "2026-10-03T17:41:41.424618",
+    "generated_at": "2026-10-04T17:55:17.926128",
     "data_source": "season_data.json"
   }
 }

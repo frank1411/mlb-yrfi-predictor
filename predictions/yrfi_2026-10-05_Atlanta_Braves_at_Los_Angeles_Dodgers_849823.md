@@ -1,24 +1,24 @@
 # Análisis YRFI: Atlanta Braves @ Los Angeles Dodgers
 
-**Fecha:** 2026-10-03  
-**Lanzadores:** Dylan Dodd (V) vs Tarik Skubal (L)
+**Fecha:** 2026-10-05  
+**Lanzadores:** Por anunciar (V) vs Blake Snell (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 36.3%
+**Probabilidad de que anoten en la primera entrada:** 48.6%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Los Angeles Dodgers (Local)
 - **Estadística base YRFI:** 35.8% (29/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Atlanta Braves - Dylan Dodd):** 0.0% (0/0 partidos)
-- **Puntuación ajustada:** 22.5%
+- **Impacto del lanzador visitante (Atlanta Braves - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 37.5%
 
 ### Atlanta Braves (Visitante)
 - **Estadística base YRFI:** 24.7% (20/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Los Angeles Dodgers - Tarik Skubal):** 0.0% (0/2 partidos)
+- **Impacto del lanzador local (Los Angeles Dodgers - Blake Snell):** 0.0% (0/0 partidos)
 - **Puntuación ajustada:** 17.8%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-10-03 17:41:41
+- **Generado el:** 2026-10-04 17:55:17
 - **Fuente de datos:** season_data.json
