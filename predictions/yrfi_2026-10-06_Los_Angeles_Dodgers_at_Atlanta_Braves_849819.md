@@ -1,25 +1,25 @@
-# Análisis YRFI: New York Yankees @ Tampa Bay Rays
+# Análisis YRFI: Los Angeles Dodgers @ Atlanta Braves
 
 **Fecha:** 2026-10-06  
-**Lanzadores:** Cam Schlittler (V) vs Freddy Peralta (L)
+**Lanzadores:** Yoshinobu Yamamoto (V) vs Chris Sale (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 49.3%
+**Probabilidad de que anoten en la primera entrada:** 52.5%
 
 ## 🔍 Explicación de los Cálculos
 
-### Tampa Bay Rays (Local)
+### Atlanta Braves (Local)
 - **Estadística base YRFI:** 35.8% (29/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador visitante (New York Yankees - Cam Schlittler):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 32.2%
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
+- **Puntuación ajustada:** 42.5%
 
-### New York Yankees (Visitante)
+### Los Angeles Dodgers (Visitante)
 - **Estadística base YRFI:** 23.5% (19/81 partidos)
-- **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (Tampa Bay Rays - Freddy Peralta):** 20.0% (1/5 partidos)
-- **Puntuación ajustada:** 25.2%
+- **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
+- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 17.3%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-10-05 21:18:09
+- **Generado el:** 2026-10-06 19:13:34
 - **Fuente de datos:** season_data.json

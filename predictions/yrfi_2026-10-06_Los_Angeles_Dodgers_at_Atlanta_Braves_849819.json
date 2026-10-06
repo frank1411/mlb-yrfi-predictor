@@ -1,0 +1,67 @@
+{
+  "game_pk": 849819,
+  "game_date": "2026-10-06",
+  "home_team": {
+    "id": "144",
+    "name": "Atlanta Braves",
+    "pitcher": {
+      "name": "Chris Sale",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 35.80246913580247,
+        "ratio": "29/81"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "119",
+    "name": "Los Angeles Dodgers",
+    "combined_yrfi_pct": 24.74,
+    "pitcher": {
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
+    },
+    "stats": {
+      "base": {
+        "value": 23.456790123456788,
+        "ratio": "19/81"
+      },
+      "tendency": {
+        "value": 26.666666666666668,
+        "ratio": "4/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 35.80246913580247,
+        "tendency": 26.666666666666668,
+        "combined": 32.15,
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 42.5
+      },
+      "away_team": {
+        "base": 23.456790123456788,
+        "tendency": 26.666666666666668,
+        "combined": 24.74,
+        "pitcher_impact": 0.0,
+        "adjusted": 17.32
+      },
+      "game_yrfi_probability": 52.46
+    },
+    "yrfi_probability": 52.46
+  },
+  "metadata": {
+    "generated_at": "2026-10-06T19:13:34.796290",
+    "data_source": "season_data.json"
+  }
+}
