@@ -1,25 +1,25 @@
 # Análisis YRFI: Milwaukee Brewers @ San Diego Padres
 
-**Fecha:** 2026-10-07  
-**Lanzadores:** Dustin May (V) vs Nick Pivetta (L)
+**Fecha:** 2026-10-08  
+**Lanzadores:** Por anunciar (V) vs Walker Buehler (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 62.9%
+**Probabilidad de que anoten en la primera entrada:** 45.4%
 
 ## 🔍 Explicación de los Cálculos
 
 ### San Diego Padres (Local)
 - **Estadística base YRFI:** 22.2% (18/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador visitante (Milwaukee Brewers - Dustin May):** 100.0% (3/3 partidos)
-- **Puntuación ajustada:** 48.7%
+- **Impacto del lanzador visitante (Milwaukee Brewers - Por anunciar):** 50.0% (0/0 partidos)
+- **Puntuación ajustada:** 33.7%
 
 ### Milwaukee Brewers (Visitante)
 - **Estadística base YRFI:** 19.8% (16/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 33.3% (5/15 partidos)
-- **Impacto del lanzador local (San Diego Padres - Nick Pivetta):** 33.3% (1/3 partidos)
-- **Puntuación ajustada:** 27.6%
+- **Impacto del lanzador local (San Diego Padres - Walker Buehler):** 0.0% (0/4 partidos)
+- **Puntuación ajustada:** 17.6%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-10-06 19:13:34
+- **Generado el:** 2026-10-07 19:38:41
 - **Fuente de datos:** season_data.json

@@ -1,25 +1,25 @@
 # Análisis YRFI: Los Angeles Dodgers @ Atlanta Braves
 
-**Fecha:** 2026-10-06  
-**Lanzadores:** Yoshinobu Yamamoto (V) vs Chris Sale (L)
+**Fecha:** 2026-10-07  
+**Lanzadores:** Tyler Glasnow (V) vs Tyler Mahle (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 52.5%
+**Probabilidad de que anoten en la primera entrada:** 41.7%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Atlanta Braves (Local)
 - **Estadística base YRFI:** 35.8% (29/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Los Angeles Dodgers - Yoshinobu Yamamoto):** 66.7% (2/3 partidos)
-- **Puntuación ajustada:** 42.5%
+- **Impacto del lanzador visitante (Los Angeles Dodgers - Tyler Glasnow):** 0.0% (0/3 partidos)
+- **Puntuación ajustada:** 22.5%
 
 ### Los Angeles Dodgers (Visitante)
 - **Estadística base YRFI:** 23.5% (19/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador local (Atlanta Braves - Chris Sale):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 17.3%
+- **Impacto del lanzador local (Atlanta Braves - Tyler Mahle):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 24.8%
 
 ### 📝 Fórmula de Cálculo
 
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-10-06 19:13:34
+- **Generado el:** 2026-10-07 19:38:41
 - **Fuente de datos:** season_data.json
