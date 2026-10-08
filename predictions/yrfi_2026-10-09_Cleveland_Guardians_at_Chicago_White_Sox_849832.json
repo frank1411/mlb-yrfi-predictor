@@ -1,11 +1,11 @@
 {
-  "game_pk": 849833,
-  "game_date": "2026-10-07",
+  "game_pk": 849832,
+  "game_date": "2026-10-09",
   "home_team": {
     "id": "145",
     "name": "Chicago White Sox",
     "pitcher": {
-      "name": "Sean Newcomb",
+      "name": "Hagen Smith",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/0"
     },
@@ -25,9 +25,9 @@
     "name": "Cleveland Guardians",
     "combined_yrfi_pct": 25.48,
     "pitcher": {
-      "name": "Daniel Espino",
+      "name": "Parker Messick",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
@@ -61,7 +61,7 @@
     "yrfi_probability": 39.51
   },
   "metadata": {
-    "generated_at": "2026-10-07T19:38:41.474495",
+    "generated_at": "2026-10-08T19:34:24.753920",
     "data_source": "season_data.json"
   }
 }
