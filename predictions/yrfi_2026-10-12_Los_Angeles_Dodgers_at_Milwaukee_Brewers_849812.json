@@ -1,13 +1,13 @@
 {
-  "game_pk": 849809,
+  "game_pk": 849812,
   "game_date": "2026-10-12",
   "home_team": {
     "id": "158",
     "name": "Milwaukee Brewers",
     "pitcher": {
-      "name": "Jacob Misiorowski",
-      "yrfi_allowed": 25.0,
-      "yrfi_ratio": "1/4"
+      "name": "Logan Henderson",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Los Angeles Dodgers",
     "combined_yrfi_pct": 24.74,
     "pitcher": {
-      "name": "Tarik Skubal",
-      "yrfi_allowed": 40.0,
-      "yrfi_ratio": "2/5"
+      "name": "Yoshinobu Yamamoto",
+      "yrfi_allowed": 66.66666666666666,
+      "yrfi_ratio": "2/3"
     },
     "stats": {
       "base": {
@@ -46,22 +46,22 @@
         "base": 41.9753086419753,
         "tendency": 33.33333333333333,
         "combined": 38.52,
-        "pitcher_impact": 40.0,
-        "adjusted": 38.96
+        "pitcher_impact": 66.66666666666666,
+        "adjusted": 46.96
       },
       "away_team": {
         "base": 23.456790123456788,
         "tendency": 26.666666666666668,
         "combined": 24.74,
-        "pitcher_impact": 25.0,
-        "adjusted": 24.82
+        "pitcher_impact": 0.0,
+        "adjusted": 17.32
       },
-      "game_yrfi_probability": 54.11
+      "game_yrfi_probability": 56.15
     },
-    "yrfi_probability": 54.11
+    "yrfi_probability": 56.15
   },
   "metadata": {
-    "generated_at": "2026-10-11T18:32:12.031832",
+    "generated_at": "2026-10-12T21:55:47.807911",
     "data_source": "season_data.json"
   }
 }

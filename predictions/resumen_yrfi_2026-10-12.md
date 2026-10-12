@@ -4,46 +4,66 @@
 
 1. **Milwaukee Brewers** (Local 🏠)
    - **Oponente:** Los Angeles Dodgers
-   - **Lanzador Rival:** Tarik Skubal
-   - **YRFI Ajustado:** 39.0%
+   - **Lanzador Rival:** Yoshinobu Yamamoto
+   - **YRFI Ajustado:** 47.0%
 
-2. **Los Angeles Dodgers** (Visitante ✈️)
-   - **Oponente:** Milwaukee Brewers
-   - **Lanzador Rival:** Jacob Misiorowski
-   - **YRFI Ajustado:** 24.8%
+2. **Tampa Bay Rays** (Local 🏠)
+   - **Oponente:** Cleveland Guardians
+   - **Lanzador Rival:** Foster Griffin
+   - **YRFI Ajustado:** 26.2%
+
+3. **Cleveland Guardians** (Visitante ✈️)
+   - **Oponente:** Tampa Bay Rays
+   - **Lanzador Rival:** Drew Rasmussen
+   - **YRFI Ajustado:** 17.8%
 
 ## 🎯 Top 2 Partidos con Mayor Probabilidad YRFI
 
 1. **Los Angeles Dodgers @ Milwaukee Brewers**
-   - **Lanzadores:** Tarik Skubal vs Jacob Misiorowski
-   - **Probabilidad YRFI:** 54.1%
-   - **Prob. Equipos:** 24.8% vs 39.0%
+   - **Lanzadores:** Yoshinobu Yamamoto vs Logan Henderson
+   - **Probabilidad YRFI:** 56.1%
+   - **Prob. Equipos:** 17.3% vs 47.0%
+
+2. **Cleveland Guardians @ Tampa Bay Rays**
+   - **Lanzadores:** Foster Griffin vs Drew Rasmussen
+   - **Probabilidad YRFI:** 39.4%
+   - **Prob. Equipos:** 17.8% vs 26.2%
 
 ## 📉 Top 3 Equipos con Menor Probabilidad YRFI
 
 1. **Los Angeles Dodgers** (Visitante ✈️)
    - **Oponente:** Milwaukee Brewers
-   - **Lanzador Rival:** Jacob Misiorowski
-   - **YRFI Ajustado:** 24.8%
+   - **Lanzador Rival:** Logan Henderson
+   - **YRFI Ajustado:** 17.3%
 
-2. **Milwaukee Brewers** (Local 🏠)
-   - **Oponente:** Los Angeles Dodgers
-   - **Lanzador Rival:** Tarik Skubal
-   - **YRFI Ajustado:** 39.0%
+2. **Cleveland Guardians** (Visitante ✈️)
+   - **Oponente:** Tampa Bay Rays
+   - **Lanzador Rival:** Drew Rasmussen
+   - **YRFI Ajustado:** 17.8%
+
+3. **Tampa Bay Rays** (Local 🏠)
+   - **Oponente:** Cleveland Guardians
+   - **Lanzador Rival:** Foster Griffin
+   - **YRFI Ajustado:** 26.2%
 
 ## 🛑 Top 2 Partidos con Menor Probabilidad YRFI
 
-1. **Los Angeles Dodgers @ Milwaukee Brewers**
-   - **Lanzadores:** Tarik Skubal vs Jacob Misiorowski
-   - **Probabilidad YRFI:** 54.1%
-   - **Prob. Equipos:** 24.8% vs 39.0%
+1. **Cleveland Guardians @ Tampa Bay Rays**
+   - **Lanzadores:** Foster Griffin vs Drew Rasmussen
+   - **Probabilidad YRFI:** 39.4%
+   - **Prob. Equipos:** 17.8% vs 26.2%
+
+2. **Los Angeles Dodgers @ Milwaukee Brewers**
+   - **Lanzadores:** Yoshinobu Yamamoto vs Logan Henderson
+   - **Probabilidad YRFI:** 56.1%
+   - **Prob. Equipos:** 17.3% vs 47.0%
 
 ## 📈 Estadísticas Adicionales
 
-- **Total de partidos analizados:** 1
-- **Promedio de probabilidad YRFI:** 54.1%
-- **Partido con mayor probabilidad YRFI:** Los Angeles Dodgers @ Milwaukee Brewers (54.1%)
-- **Partido con menor probabilidad YRFI:** Los Angeles Dodgers @ Milwaukee Brewers (54.1%)
+- **Total de partidos analizados:** 2
+- **Promedio de probabilidad YRFI:** 47.8%
+- **Partido con mayor probabilidad YRFI:** Los Angeles Dodgers @ Milwaukee Brewers (56.1%)
+- **Partido con menor probabilidad YRFI:** Cleveland Guardians @ Tampa Bay Rays (39.4%)
 
 ## 📝 Notas
 
@@ -55,4 +75,4 @@
 - El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.
 - La probabilidad del partido combina las estadísticas de ambos equipos.
 
-*Resumen generado el 2026-10-11 18:32:12*
+*Resumen generado el 2026-10-12 21:55:47*
