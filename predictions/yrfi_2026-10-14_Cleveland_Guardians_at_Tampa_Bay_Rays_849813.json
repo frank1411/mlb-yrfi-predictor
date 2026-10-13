@@ -1,13 +1,13 @@
 {
-  "game_pk": 849820,
-  "game_date": "2026-10-13",
+  "game_pk": 849813,
+  "game_date": "2026-10-14",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Drew Rasmussen",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/2"
+      "name": "Freddy Peralta",
+      "yrfi_allowed": 20.0,
+      "yrfi_ratio": "1/5"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Cleveland Guardians",
     "combined_yrfi_pct": 25.48,
     "pitcher": {
-      "name": "Foster Griffin",
+      "name": "Parker Messick",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "yrfi_ratio": "0/3"
     },
     "stats": {
       "base": {
@@ -53,15 +53,15 @@
         "base": 24.691358024691358,
         "tendency": 26.666666666666668,
         "combined": 25.48,
-        "pitcher_impact": 0.0,
-        "adjusted": 17.84
+        "pitcher_impact": 20.0,
+        "adjusted": 23.84
       },
-      "game_yrfi_probability": 39.4
+      "game_yrfi_probability": 43.82
     },
-    "yrfi_probability": 39.4
+    "yrfi_probability": 43.82
   },
   "metadata": {
-    "generated_at": "2026-10-12T21:55:47.813171",
+    "generated_at": "2026-10-13T20:00:22.535696",
     "data_source": "season_data.json"
   }
 }
