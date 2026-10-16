@@ -1,7 +1,7 @@
 # Análisis YRFI: Tampa Bay Rays @ Cleveland Guardians
 
-**Fecha:** 2026-10-15  
-**Lanzadores:** Griffin Jax (V) vs Gavin Williams (L)
+**Fecha:** 2026-10-17  
+**Lanzadores:** Nick Martinez (V) vs Shawn Armstrong (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
@@ -12,13 +12,13 @@
 ### Cleveland Guardians (Local)
 - **Estadística base YRFI:** 32.1% (26/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Griffin Jax):** 0.0% (0/2 partidos)
+- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
 - **Puntuación ajustada:** 20.9%
 
 ### Tampa Bay Rays (Visitante)
 - **Estadística base YRFI:** 28.4% (23/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Gavin Williams):** 0.0% (0/3 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Shawn Armstrong):** 0.0% (0/0 partidos)
 - **Puntuación ajustada:** 23.1%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-10-15 17:56:42
+- **Generado el:** 2026-10-16 17:45:14
 - **Fuente de datos:** season_data.json
