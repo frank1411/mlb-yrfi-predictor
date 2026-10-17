@@ -1,4 +1,4 @@
-# 📊 Resumen Global YRFI - 2026-10-17
+# 📊 Resumen Global YRFI - 2026-10-18
 
 ## 🏆 Top 3 Equipos con Mayor Probabilidad YRFI
 
@@ -55,4 +55,4 @@
 - El YRFI Ajustado incluye el impacto del lanzador contrario y el rendimiento reciente del equipo.
 - La probabilidad del partido combina las estadísticas de ambos equipos.
 
-*Resumen generado el 2026-10-16 17:45:14*
+*Resumen generado el 2026-10-17 16:44:53*

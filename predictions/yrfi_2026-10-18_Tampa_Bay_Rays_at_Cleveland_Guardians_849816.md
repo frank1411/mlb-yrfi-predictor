@@ -1,6 +1,6 @@
 # Análisis YRFI: Tampa Bay Rays @ Cleveland Guardians
 
-**Fecha:** 2026-10-17  
+**Fecha:** 2026-10-18  
 **Lanzadores:** Nick Martinez (V) vs Shawn Armstrong (L)
 
 ## 📊 Probabilidad YRFI del Partido
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-10-16 17:45:14
+- **Generado el:** 2026-10-17 16:44:53
 - **Fuente de datos:** season_data.json
