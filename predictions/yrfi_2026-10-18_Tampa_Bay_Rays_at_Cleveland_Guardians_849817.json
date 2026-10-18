@@ -1,13 +1,13 @@
 {
-  "game_pk": 849816,
+  "game_pk": 849817,
   "game_date": "2026-10-18",
   "home_team": {
     "id": "114",
     "name": "Cleveland Guardians",
     "pitcher": {
-      "name": "Shawn Armstrong",
+      "name": "Parker Messick",
       "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/0"
+      "yrfi_ratio": "0/4"
     },
     "stats": {
       "base": {
@@ -25,9 +25,9 @@
     "name": "Tampa Bay Rays",
     "combined_yrfi_pct": 33.04,
     "pitcher": {
-      "name": "Nick Martinez",
-      "yrfi_allowed": 0.0,
-      "yrfi_ratio": "0/4"
+      "name": "Drew Rasmussen",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
     },
     "stats": {
       "base": {
@@ -46,8 +46,8 @@
         "base": 32.098765432098766,
         "tendency": 26.666666666666668,
         "combined": 29.93,
-        "pitcher_impact": 0.0,
-        "adjusted": 20.95
+        "pitcher_impact": 25.0,
+        "adjusted": 28.45
       },
       "away_team": {
         "base": 28.39506172839506,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 23.13
       },
-      "game_yrfi_probability": 39.23
+      "game_yrfi_probability": 45.0
     },
-    "yrfi_probability": 39.23
+    "yrfi_probability": 45.0
   },
   "metadata": {
-    "generated_at": "2026-10-17T16:44:53.124734",
+    "generated_at": "2026-10-18T17:00:49.548467",
     "data_source": "season_data.json"
   }
 }

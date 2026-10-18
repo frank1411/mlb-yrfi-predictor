@@ -1,24 +1,24 @@
 # Análisis YRFI: Tampa Bay Rays @ Cleveland Guardians
 
 **Fecha:** 2026-10-18  
-**Lanzadores:** Nick Martinez (V) vs Shawn Armstrong (L)
+**Lanzadores:** Drew Rasmussen (V) vs Parker Messick (L)
 
 ## 📊 Probabilidad YRFI del Partido
 
-**Probabilidad de que anoten en la primera entrada:** 39.2%
+**Probabilidad de que anoten en la primera entrada:** 45.0%
 
 ## 🔍 Explicación de los Cálculos
 
 ### Cleveland Guardians (Local)
 - **Estadística base YRFI:** 32.1% (26/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 26.7% (4/15 partidos)
-- **Impacto del lanzador visitante (Tampa Bay Rays - Nick Martinez):** 0.0% (0/4 partidos)
-- **Puntuación ajustada:** 20.9%
+- **Impacto del lanzador visitante (Tampa Bay Rays - Drew Rasmussen):** 25.0% (1/4 partidos)
+- **Puntuación ajustada:** 28.4%
 
 ### Tampa Bay Rays (Visitante)
 - **Estadística base YRFI:** 28.4% (23/81 partidos)
 - **Tendencia reciente (últimos 15 partidos):** 40.0% (6/15 partidos)
-- **Impacto del lanzador local (Cleveland Guardians - Shawn Armstrong):** 0.0% (0/0 partidos)
+- **Impacto del lanzador local (Cleveland Guardians - Parker Messick):** 0.0% (0/4 partidos)
 - **Puntuación ajustada:** 23.1%
 
 ### 📝 Fórmula de Cálculo
@@ -30,5 +30,5 @@ La probabilidad final de que anoten en la primera entrada se calcula considerand
 
 ### 📌 Notas Adicionales
 
-- **Generado el:** 2026-10-17 16:44:53
+- **Generado el:** 2026-10-18 17:00:49
 - **Fuente de datos:** season_data.json
