@@ -1,0 +1,67 @@
+{
+  "game_pk": 849805,
+  "game_date": "2026-10-24",
+  "home_team": {
+    "id": "158",
+    "name": "Milwaukee Brewers",
+    "pitcher": {
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 25.0,
+      "yrfi_ratio": "1/4"
+    },
+    "stats": {
+      "base": {
+        "value": 41.9753086419753,
+        "ratio": "34/81"
+      },
+      "tendency": {
+        "value": 33.33333333333333,
+        "ratio": "5/15"
+      }
+    }
+  },
+  "away_team": {
+    "id": "139",
+    "name": "Tampa Bay Rays",
+    "combined_yrfi_pct": 33.04,
+    "pitcher": {
+      "name": "Nick Martinez",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/4"
+    },
+    "stats": {
+      "base": {
+        "value": 28.39506172839506,
+        "ratio": "23/81"
+      },
+      "tendency": {
+        "value": 40.0,
+        "ratio": "6/15"
+      }
+    }
+  },
+  "prediction": {
+    "calculation": {
+      "home_team": {
+        "base": 41.9753086419753,
+        "tendency": 33.33333333333333,
+        "combined": 38.52,
+        "pitcher_impact": 0.0,
+        "adjusted": 26.96
+      },
+      "away_team": {
+        "base": 28.39506172839506,
+        "tendency": 40.0,
+        "combined": 33.04,
+        "pitcher_impact": 25.0,
+        "adjusted": 30.63
+      },
+      "game_yrfi_probability": 49.33
+    },
+    "yrfi_probability": 49.33
+  },
+  "metadata": {
+    "generated_at": "2026-10-23T18:01:51.951336",
+    "data_source": "season_data.json"
+  }
+}
