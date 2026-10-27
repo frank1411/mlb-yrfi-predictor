@@ -1,13 +1,13 @@
 {
-  "game_pk": 849804,
-  "game_date": "2026-10-27",
+  "game_pk": 849803,
+  "game_date": "2026-10-28",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Freddy Peralta",
-      "yrfi_allowed": 20.0,
-      "yrfi_ratio": "1/5"
+      "name": "Griffin Jax",
+      "yrfi_allowed": 0.0,
+      "yrfi_ratio": "0/2"
     },
     "stats": {
       "base": {
@@ -25,8 +25,8 @@
     "name": "Milwaukee Brewers",
     "combined_yrfi_pct": 25.19,
     "pitcher": {
-      "name": "Robert Gasser",
-      "yrfi_allowed": 0.0,
+      "name": "Por anunciar",
+      "yrfi_allowed": 50.0,
       "yrfi_ratio": "0/0"
     },
     "stats": {
@@ -46,22 +46,22 @@
         "base": 35.80246913580247,
         "tendency": 40.0,
         "combined": 37.48,
-        "pitcher_impact": 0.0,
-        "adjusted": 26.24
+        "pitcher_impact": 50.0,
+        "adjusted": 41.24
       },
       "away_team": {
         "base": 19.753086419753085,
         "tendency": 33.33333333333333,
         "combined": 25.19,
-        "pitcher_impact": 20.0,
-        "adjusted": 23.63
+        "pitcher_impact": 0.0,
+        "adjusted": 17.63
       },
-      "game_yrfi_probability": 43.67
+      "game_yrfi_probability": 51.6
     },
-    "yrfi_probability": 43.67
+    "yrfi_probability": 51.6
   },
   "metadata": {
-    "generated_at": "2026-10-26T19:39:23.226039",
+    "generated_at": "2026-10-27T19:03:30.865012",
     "data_source": "season_data.json"
   }
 }
