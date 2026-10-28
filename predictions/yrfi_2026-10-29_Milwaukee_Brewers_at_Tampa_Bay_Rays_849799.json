@@ -1,11 +1,11 @@
 {
-  "game_pk": 849803,
-  "game_date": "2026-10-28",
+  "game_pk": 849799,
+  "game_date": "2026-10-29",
   "home_team": {
     "id": "139",
     "name": "Tampa Bay Rays",
     "pitcher": {
-      "name": "Griffin Jax",
+      "name": "Drew Rasmussen",
       "yrfi_allowed": 0.0,
       "yrfi_ratio": "0/2"
     },
@@ -25,9 +25,9 @@
     "name": "Milwaukee Brewers",
     "combined_yrfi_pct": 25.19,
     "pitcher": {
-      "name": "Por anunciar",
-      "yrfi_allowed": 50.0,
-      "yrfi_ratio": "0/0"
+      "name": "Jacob Misiorowski",
+      "yrfi_allowed": 33.33333333333333,
+      "yrfi_ratio": "1/3"
     },
     "stats": {
       "base": {
@@ -46,8 +46,8 @@
         "base": 35.80246913580247,
         "tendency": 40.0,
         "combined": 37.48,
-        "pitcher_impact": 50.0,
-        "adjusted": 41.24
+        "pitcher_impact": 33.33333333333333,
+        "adjusted": 36.24
       },
       "away_team": {
         "base": 19.753086419753085,
@@ -56,12 +56,12 @@
         "pitcher_impact": 0.0,
         "adjusted": 17.63
       },
-      "game_yrfi_probability": 51.6
+      "game_yrfi_probability": 47.48
     },
-    "yrfi_probability": 51.6
+    "yrfi_probability": 47.48
   },
   "metadata": {
-    "generated_at": "2026-10-27T19:03:30.865012",
+    "generated_at": "2026-10-28T19:11:59.186852",
     "data_source": "season_data.json"
   }
 }
